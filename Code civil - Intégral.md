@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1970-12-29
+Version Consolidée au 1971-01-01
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -3581,19 +3581,10 @@ Les époux se doivent mutuellement fidélité, secours, assistance.
 
 ###### Article 213
 
-Le mari est le chef de la famille. Il exerce cette fonction dans l'intérêt commun du ménage et des enfants.
-
-La femme concourt avec le mari à assurer la direction morale et matérielle de la famille, à pourvoir à son entretien, à
-élever les enfants et à préparer leur établissement.
-
-La femme remplace le mari dans sa fonction de chef s'il est hors d'état de manifester sa volonté en raison de son incapacité,
-de son absence, de son éloignement ou de tout autre cause.
+Les époux assurent ensemble la direction morale et matérielle de la famille. Ils pourvoient à l'éducation des enfants et
+préparent leur avenir.
 
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi du 22 septembre 1942, v. init.
 
 	**Cité par**:
 
@@ -3603,6 +3594,18 @@ de son absence, de son éloignement ou de tout autre cause.
 	  - Décret n°98-844 du 22 septembre 1998 - art. 4 (V)
 	  - Arrêté du 27 novembre 1968 - art. 2 (Ab)
 	  - Code civil - art. 75 (V)
+
+	**Modifié par**:
+
+	  - Loi n°70-459 du 4 juin 1970 - art. 2 () JORF 5 juin 1970 en vigueur le 1er janvier 1971
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°1803-03-17 promulguée le 27 mars 1803
 
 
 ###### Article 214
@@ -5091,11 +5094,1669 @@ La révocation fait cesser pour l'avenir tous les effets de l'adoption.
 	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 7 (V)
 
 
+## Titre IX : De l'autorité parentale
+
+### Chapitre Ier : De l'autorité parentale relativement à la personne de l'enfant
+
+###### Article 371
+
+L'enfant, à tout âge, doit honneur et respect à ses père et mère.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°70-459 du 4 juin 1970 - art. 1 () JORF 5 juin 1970 en vigueur le 1er janvier 1971
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 10 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 11 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 12 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 13 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 14 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 15 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 9 (V)
+
+
+###### Article 371-1
+
+Il reste sous leur autorité jusqu'à sa majorité ou son émancipation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°70-459 du 4 juin 1970 - art. 1 () JORF 5 juin 1970 en vigueur le 1er janvier 1971
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 10 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 11 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 12 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 13 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 14 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 15 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 9 (V)
+
+	**Cité par**:
+
+	  - Décret n°2009-960 du 29 juillet 2009 (V)
+	  - Arrêté du 1er juillet 2015 - art. (V)
+	  - Loi n°2016-41 du 26 janvier 2016 - art. 7
+	  - Décret n°2016-914 du 4 juillet 2016 - art. 1
+	  - Arrêté du 1er août 2016 - art. (VD)
+	  - Code civil - art. 62 (V)
+	  - Code civil - art. 75 (V)
+	  - Code de la santé publique - art. L1111-5 (V)
+	  - Code de la santé publique - art. L1111-5-1 (V)
+	  - Code de la santé publique - art. L6211-3-1 (V)
+	  - Code de la santé publique - art. R1111-26 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 371-2
+
+L'autorité appartient aux père et mère pour protéger l'enfant dans sa sécurité, sa santé et sa moralité.
+
+Ils ont à son égard droit et devoir de garde, de surveillance et d'éducation.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Ordonnance n°45-2658 du 2 novembre 1945 - art. 12 bis (Ab)
+	  - Ordonnance n°45-2658 du 2 novembre 1945 - art. 25 (Ab)
+	  - Ordonnance n°45-2658 du 2 novembre 1945 - art. 26 (Ab)
+	  - Ordonnance n°2000-371 du 26 avril 2000 - art. 16 (V)
+	  - Ordonnance n°2000-371 du 26 avril 2000 - art. 21-1 (V)
+	  - Ordonnance n°2000-372 du 26 avril 2000 - art. 23-1 (V)
+	  - Ordonnance n°2000-373 du 26 avril 2000 - art. 21-1 (VT)
+	  - Ordonnance n°2000-373 du 26 avril 2000 - art. 33 (VT)
+	  - Ordonnance n°2000-373 du 26 avril 2000 - art. 34 (VT)
+	  - Ordonnance n°2000-373 du 26 avril 2000 - art. 42 (VT)
+	  - Ordonnance n°2000-371 du 26 avril 2000 - art. 33 (V)
+	  - Ordonnance n°2000-371 du 26 avril 2000 - art. 34 (V)
+	  - Ordonnance n°2000-371 du 26 avril 2000 - art. 42 (V)
+	  - Ordonnance n°2000-372 du 26 avril 2000 - art. 17 (V)
+	  - Ordonnance n°2000-372 du 26 avril 2000 - art. 35 (V)
+	  - Ordonnance n°2000-372 du 26 avril 2000 - art. 36 (V)
+	  - Ordonnance n°2000-372 du 26 avril 2000 - art. 44 (V)
+	  - Ordonnance n°2002-388 du 20 mars 2002 - art. 23-1 (V)
+	  - Ordonnance n°2002-388 du 20 mars 2002 - art. 17 (V)
+	  - Ordonnance n°2002-388 du 20 mars 2002 - art. 35 (V)
+	  - Ordonnance n°2002-388 du 20 mars 2002 - art. 36 (V)
+	  - Ordonnance n°2002-388 du 20 mars 2002 - art. 44 (V)
+	  - Loi n°2003-1119 du 26 novembre 2003 - art. 86 (V)
+	  - Arrêté du 1er juillet 2015 - art. (V)
+	  - Décret n°2017-122 du 1er février 2017 - art. 2
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 156 (V)
+	  - Code civil - art. 373-2-1 (V)
+	  - Code civil - art. 62 (V)
+	  - Code de l'action sociale et des familles - art. L262-10 (VD)
+	  - Code de l'action sociale et des familles - art. L262-35 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L313-11 (VD)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L314-5-1 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L431-2 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L511-4 (VD)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L521-2 (VD)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L521-3 (VD)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L552-4-1 (VT)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L562-1 (VT)
+	  - Code de l'entrée et du séjour des étrangers et du  - art. L541-1 (V)
+	  - Code de la santé publique - art. L1111-5 (M)
+	  - Code de la sécurité sociale. - art. L524-4 (VT)
+	  - Code de la sécurité sociale. - art. R523-3-2 (V)
+	  - Code pénal - art. 131-30-1 (VD)
+	  - Code pénal - art. 131-30-2 (V)
+
+	**Créé par**:
+
+	  - Loi n°70-459 du 4 juin 1970 - art. 1 () JORF 5 juin 1970 en vigueur le 1er janvier 1971
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 10 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 11 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 12 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 13 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 14 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 15 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 9 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 371-3
+
+L'enfant ne peut, sans permission des père et mère, quitter la maison familiale et il ne peut en être retiré que dans les cas
+de nécessité que détermine la loi.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°70-459 du 4 juin 1970 - art. 1 () JORF 5 juin 1970 en vigueur le 1er janvier 1971
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 10 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 11 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 12 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 13 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 14 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 15 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 9 (V)
+
+
+###### Article 371-4
+
+Les père et mère ne peuvent, sauf motifs graves, faire obstacle aux relations personnelles de l'enfant avec ses grands-
+parents. A défaut d'accord entre les parties, les modalités de ces relations sont réglées par le tribunal.
+
+En considération de situations exceptionnelles, le tribunal peut accorder un droit de correspondance ou de visite à d'autres
+personnes, parents ou non.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°70-459 du 4 juin 1970 - art. 1 () JORF 5 juin 1970 en vigueur le 1er janvier 1971
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 10 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 11 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 12 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 13 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 14 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 15 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 9 (V)
+
+	**Cité par**:
+
+	  - Décret n°85-937 du 23 août 1985 - art. 23 (Ab)
+	  - Décret n°2014-945 du 21 août 2014 - art. 1 (VT)
+	  - Code civil - art. 353-2 (V)
+	  - Code de l'action sociale et des familles - art. R224-23 (V)
+	  - Code de procédure civile - art. 1180 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+#### Section 1 : De l'exercice de l'autorité parentale
+
+##### Paragraphe 4 : De l'intervention des tiers
+
+###### Article 374-1
+
+Les mêmes règles sont applicables, à défaut de reconnaissance volontaire, quand la filiation est établie par jugement, soit à
+l'égard des deux parents, soit à l'égard d'un seul d'entre eux.
+
+Toutefois, en statuant sur l'une ou l'autre filiation, le tribunal peut toujours décider de confier la garde provisoire à un
+tiers qui sera chargé de requérir l'organisation de la tutelle.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°70-459 du 4 juin 1970 - art. 1 () JORF 5 juin 1970 en vigueur le 1er janvier 1971
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 10 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 11 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 12 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 13 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 14 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 15 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 9 (V)
+
+	**Cité par**:
+
+	  - Loi n°70-459 du 4 juin 1970 - art. 11 (V)
+	  - Loi n°70-459 du 4 juin 1970 - art. 15 (V)
+	  - Loi n°2002-305 du 4 mars 2002 - art. 19 (V)
+
+
+###### Article 374-2
+
+Dans tous les cas prévus au présent titre, la tutelle peut être ouverte lors même qu'il n'y aurait pas de biens à
+administrer.
+
+Elle est alors organisée selon les règles prévues au titre X.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°70-459 du 4 juin 1970 - art. 1 () JORF 5 juin 1970 en vigueur le 1er janvier 1971
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 10 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 11 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 12 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 13 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 14 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 15 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 9 (V)
+
+
+#### Section 1 : De l'exercice de l'autorité parentale.
+
+###### Article 372
+
+Pendant le mariage, les père et mère exercent en commun leur autorité.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°70-459 du 4 juin 1970 - art. 1 () JORF 5 juin 1970 en vigueur le 1er janvier 1971
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 10 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 11 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 12 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 13 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 14 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 15 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 9 (V)
+
+	**Cité par**:
+
+	  - Loi n°93-22 du 8 janvier 1993 - art. 46 (V)
+	  - Loi n°2002-305 du 4 mars 2002 - art. 11 (V)
+	  - Code civil - art. 340-6 (Ab)
+	  - Code civil - art. 374 (Ab)
+	  - Code de procédure civile - art. 1180-1 (V)
+	  - Code du service national - art. R*59-2 (V)
+
+
+###### Article 372-1
+
+Si les père et mère ne parvenaient pas à s'accorder sur ce qu'exige l'intérêt de l'enfant, la pratique qu'ils avaient
+précédemment pu suivre dans des occasions semblables leur tiendrait lieu de règle.
+
+A défaut d'une telle pratique ou en cas de contestation sur son existence ou son bien-fondé, l'époux le plus diligent pourra
+saisir le juge des tutelles qui statuera après avoir tenté de concilier les parties.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°70-459 du 4 juin 1970 - art. 1 () JORF 5 juin 1970 en vigueur le 1er janvier 1971
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 10 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 11 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 12 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 13 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 14 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 15 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 9 (V)
+
+	**Cité par**:
+
+	  - Décret n°93-1091 du 16 septembre 1993 - art. 22 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L322-2 (M)
+	  - Code civil - art. 373-2 (M)
+	  - Code civil - art. 374 (M)
+	  - Nouveau code de procédure civile - art. 1179 (M)
+	  - Nouveau code de procédure civile - art. 1179-1 (M)
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 372-1-1 (M)
+
+
+###### Article 372-2
+
+A l'égard des tiers de bonne foi, chacun des époux est réputé agir avec l'accord de l'autre, quand il fait seul un acte usuel
+de l'autorité parentale relativement à la personne de l'enfant.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°70-459 du 4 juin 1970 - art. 1 () JORF 5 juin 1970 en vigueur le 1er janvier 1971
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 10 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 11 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 12 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 13 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 14 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 15 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 9 (V)
+
+	**Cité par**:
+
+	  - Loi n°2002-305 du 4 mars 2002 - art. 19 (V)
+	  - Code civil - art. 288 (Ab)
+	  - Code civil - art. 373-2 (M)
+	  - Code civil - art. 374 (M)
+	  - Code civil - art. 377-1 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 373
+
+Perd l'exercice de l'autorité parentale ou en est provisoirement privé celui des père et mère qui se trouve dans l'un des cas
+suivants :
+
+1° S'il est hors d'état de manifester sa volonté, en raison de son incapacité, de son absence, de son éloignement ou de toute
+autre cause ;
+
+2° S'il a consenti une délégation de ses droits selon les règles établies à la section III du présent chapitre ;
+
+3° S'il a été condamné sous l'un des divers chefs de l'abandon de famille, tant qu'il n'a pas recommencé à assumer ses
+obligations pendant une durée de six mois au moins ;
+
+4° Si un jugement de déchéance ou de retrait a été prononcé contre lui, pour ceux de ses droits qui lui ont été retirés.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°70-459 du 4 juin 1970 - art. 1 () JORF 5 juin 1970 en vigueur le 1er janvier 1971
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 10 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 11 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 12 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 13 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 14 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 15 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 9 (V)
+
+	**Cité par**:
+
+	  - Code civil - art. 389-1 (M)
+	  - Code civil - art. 389-2 (M)
+	  - Code civil - art. 390 (M)
+	  - Code de la santé publique - art. L339 (M)
+	  - Code pénal - art. 227-17 (V)
+	  - Code pénal - art. 227-3 (VD)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 373-1
+
+Si l'un des père et mère décède ou se trouve dans l'un des cas énumérés par l'article précédent, l'exercice de l'autorité
+parentale est dévolu en entier à l'autre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°70-459 du 4 juin 1970 - art. 1 () JORF 5 juin 1970 en vigueur le 1er janvier 1971
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 10 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 11 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 12 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 13 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 14 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 15 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 9 (V)
+
+	**Cité par**:
+
+	  - Code civil - art. 373-3 (V)
+
+
+###### Article 373-2
+
+Si les père et mère sont divorcés ou séparés de corps, l'autorité parentale est exercée par celui d'entre eux à qui le
+tribunal a confié la garde de l'enfant, sauf le droit de visite et de surveillance de l'autre.
+
+Lorsque la garde a été confiée à un tiers, les autres attributs de l'autorité parentale continuent d'être exercés par les
+père et mère. Mais le tribunal, en désignant un tiers comme gardien provisoire, peut décider qu'il devra requérir l'ouverture
+d'une tutelle.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°70-459 du 4 juin 1970 - art. 1 () JORF 5 juin 1970 en vigueur le 1er janvier 1971
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 10 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 11 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 12 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 13 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 14 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 15 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 9 (V)
+
+	**Cité par**:
+
+	  - Loi n°70-459 du 4 juin 1970 - art. 15 (V)
+
+
+###### Article 373-3
+
+Le divorce ou la séparation de corps ne fait pas obstacle à la dévolution prévue à l'article 373-1, lors même que celui des
+père et mère qui demeure en état d'exercer l'autorité parentale aurait été privé de la garde par l'effet du jugement prononcé
+contre lui.
+
+Néanmoins, le tribunal qui avait statué en dernier lieu sur la garde pourra toujours être saisi par la famille ou par le
+ministère public, afin de désigner un tiers comme gardien de l'enfant, avec ou sans ouverture d'une tutelle, ainsi qu'il est
+dit à l'article précédent.
+
+Dans des circonstances exceptionnelles, le tribunal qui statue sur la garde de l'enfant après divorce ou séparation de corps
+pourra décider, du vivant même des époux, qu'elle ne passera pas au survivant en cas de décès de l'époux gardien. Il pourra,
+dans ce cas, désigner la personne à laquelle la garde sera provisoirement dévolue.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°70-459 du 4 juin 1970 - art. 1 () JORF 5 juin 1970 en vigueur le 1er janvier 1971
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 10 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 11 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 12 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 13 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 14 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 15 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 9 (V)
+
+	**Cité par**:
+
+	  - Loi n°70-459 du 4 juin 1970 - art. 15 (V)
+	  - Loi n°2002-305 du 4 mars 2002 - art. 19 (V)
+	  - Code civil - art. 375-3 (V)
+	  - Code de la sécurité sociale. - art. L351-4 (V)
+	  - Code de procédure civile - art. 1180 (V)
+
+	**Cite**:
+
+	  - Code civil - art. 373-1 (M)
+
+
+###### Article 373-4
+
+S'il ne reste plus ni père ni mère en état d'exercer l'autorité parentale, il y aura lieu à l'ouverture d'une tutelle ainsi
+qu'il est dit à l'article 390 ci-dessous.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°70-459 du 4 juin 1970 - art. 1 () JORF 5 juin 1970 en vigueur le 1er janvier 1971
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 10 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 11 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 12 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 13 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 9 (V)
+	  - SPEC_APPLI: Loi n°74-631 du 5 juillet 1974 - art. 21 (V)
+
+	**Cité par**:
+
+	  - Code civil - art. 373-3 (M)
+	  - Code civil - art. 375-7 (V)
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 373-5 (M)
+
+	**Cite**:
+
+	  - Code civil - art. 390 (M)
+
+
+###### Article 374
+
+Sur l'enfant naturel, l'autorité parentale est exercée par celui des père et mère qui l'a volontairement reconnu, s'il n'a
+été reconnu que par l'un d'eux.
+
+Si l'un et l'autre l'ont reconnu, l'autorité parentale est exercée en entier par la mère. Le tribunal pourra, néanmoins, à la
+demande de l'un ou de l'autre, ou du ministère public, décider qu'elle sera exercée soit par le père seul, soit par le père
+et la mère conjointement, auxquels les articles 372 à 372-2 seront alors applicables, comme si l'enfant était un enfant
+légitime.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°70-459 du 4 juin 1970 - art. 1 () JORF 5 juin 1970 en vigueur le 1er janvier 1971
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 10 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 11 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 12 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 13 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 14 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 15 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 9 (V)
+
+	**Cité par**:
+
+	  - Loi n°70-459 du 4 juin 1970 - art. 11 (V)
+	  - Loi n°93-22 du 8 janvier 1993 - art. 46 (V)
+	  - Décret n°93-1091 du 16 septembre 1993 - art. 22 (V)
+	  - Code civil - art. 340-6 (M)
+	  - Code civil - art. 372 (M)
+	  - Nouveau code de procédure civile - art. 1180-1 (M)
+	  - Nouveau code de procédure civile - art. 1180-2 (M)
+
+	**Cite**:
+
+	  - Code civil 372 à 372-2
+
+
+#### Section 2 : De l'assistance éducative
+
+###### Article 375
+
+Si la santé, la sécurité ou la moralité d'un mineur non émancipé sont en danger, ou si les conditions de son éducation sont
+gravement compromises, des mesures d'assistance éducative peuvent être ordonnées par justice à la requête des père et mère
+conjointement, ou de l'un d'eux, du gardien ou du tuteur, du mineur lui-même ou du ministère public. Le juge peut se saisir
+d'office à titre exceptionnel.
+
+Elles peuvent être ordonnées en même temps pour plusieurs enfants relevant de la même autorité parentale.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°59-1095 du 21 septembre 1959 - art. 13 (Ab)
+	  - Décret n°59-1095 du 21 septembre 1959 - art. 6 (Ab)
+	  - Arrêté du 30 juillet 1987 - art. 3 (Ab)
+	  - Décret n°88-949 du 6 octobre 1988 - art. 1 (M)
+	  - Arrêté du 25 août 1992 - art. 1 (V)
+	  - Arrêté du 25 août 1992 - art. 7 (V)
+	  - Loi n°2000-196 du 6 mars 2000 - art. 4 (VT)
+	  - Arrêté du 19 décembre 2003 - art. 1 (V)
+	  - Loi n°2004-809 du 13 août 2004 - art. 59 (V)
+	  - Décret n°2004-942 du 3 septembre 2004 - art. 14 (V)
+	  - Décret n°2007-1573 du 6 novembre 2007 - art. 1 (V)
+	  - Décret n°2008-1486 du 30 décembre 2008 (V)
+	  - Arrêté du 5 novembre 2009 (Ab)
+	  - Arrêté du 5 novembre 2009 (V)
+	  - Loi organique n°2011-333 du 29 mars 2011 - art. 33 (V)
+	  - Arrêté du 20 mars 2012 (V)
+	  - Décret n°2016-612 du 18 mai 2016 - art. 3
+	  - Loi n°2016-731 du 3 juin 2016 - art. 52
+	  - Décret n°2016-1476 du 28 octobre 2016 - art. 1
+	  - CODE DE PROCEDURE PENALE - art. D571-4 (V)
+	  - Code de l'action sociale et des familles - art. D226-2-7 (V)
+	  - Code de l'action sociale et des familles - art. L121-6-2 (V)
+	  - Code de l'action sociale et des familles - art. L141-1 (VD)
+	  - Code de l'action sociale et des familles - art. L141-2 (VD)
+	  - Code de l'action sociale et des familles - art. L221-4 (VD)
+	  - Code de l'action sociale et des familles - art. L226-2-1 (V)
+	  - Code de l'action sociale et des familles - art. L226-4 (VD)
+	  - Code de l'action sociale et des familles - art. L312-1 (V)
+	  - Code de l'action sociale et des familles - art. L321-2 (V)
+	  - Code de l'action sociale et des familles - art. L421-11 (T)
+	  - Code de l'action sociale et des familles - art. L421-17 (V)
+	  - Code de l'action sociale et des familles - art. L546-2 (Ab)
+	  - Code de l'action sociale et des familles - art. R221-2 (V)
+	  - Code de l'action sociale et des familles - art. R221-4 (VD)
+	  - Code de l'action sociale et des familles - art. R314-105 (VD)
+	  - Code de l'éducation - art. L122-2 (V)
+	  - Code de la famille et de l'aide sociale. - art. 95 (M)
+	  - Code de la sécurité intérieure - art. L225-5 (V)
+	  - Code de la sécurité sociale. - art. R160-17 (V)
+	  - Code de la sécurité sociale. - art. R322-9 (T)
+	  - Code de procédure civile - art. 1200-1 (V)
+
+	**Créé par**:
+
+	  - Loi n°70-459 du 4 juin 1970 - art. 1 () JORF 5 juin 1970 en vigueur le 1er janvier 1971
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 10 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 11 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 12 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 13 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 9 (V)
+	  - SPEC_APPLI: Loi n°74-631 du 5 juillet 1974 - art. 21 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 375-1
+
+Le juge des enfants est compétent, à charge d'appel, pour tout ce qui concerne l'assistance éducative.
+
+Il doit toujours s'efforcer de recueillir l'adhésion de la famille à la mesure envisagée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°70-459 du 4 juin 1970 - art. 1 () JORF 5 juin 1970 en vigueur le 1er janvier 1971
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 10 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 11 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 12 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 13 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 9 (V)
+	  - SPEC_APPLI: Loi n°74-631 du 5 juillet 1974 - art. 21 (V)
+
+	**Cité par**:
+
+	  - Décret n°82-938 du 28 octobre 1982 - art. 4 (Ab)
+	  - Décret n°88-949 du 6 octobre 1988 - art. 1 (M)
+	  - Code de l'action sociale et des familles - art. R221-3 (V)
+	  - Code de la famille et de l'aide sociale. - art. 95 (M)
+	  - Code de procédure civile - art. 1193 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 375-2
+
+Chaque fois qu'il est possible, le mineur doit être maintenu dans son milieu actuel. Dans ce cas, le juge désigne, soit une
+personne qualifiée, soit un service d'observation, d'éducation ou de rééducation en milieu ouvert, en lui donnant mission
+d'apporter aide et conseil à la famille, afin de surmonter les difficultés matérielles ou morales qu'elle rencontre. Cette
+personne ou ce service est chargé de suivre le développement de l'enfant et d'en faire rapport au juge périodiquement.
+
+Le juge peut aussi subordonner le maintien de l'enfant dans son milieu à des obligations particulières, telles que celle de
+fréquenter régulièrement un établissement sanitaire ou d'éducation, ordinaire ou spécialisé, ou d'exercer une activité
+professionnelle.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°70-459 du 4 juin 1970 - art. 1 () JORF 5 juin 1970 en vigueur le 1er janvier 1971
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 10 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 11 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 12 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 13 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 9 (V)
+	  - SPEC_APPLI: Loi n°74-631 du 5 juillet 1974 - art. 21 (V)
+
+	**Cité par**:
+
+	  - Décret n°88-949 du 6 octobre 1988 - art. 1 (M)
+	  - Loi n°2016-297 du 14 mars 2016 - art. 6
+	  - Décret n°2016-1283 du 28 septembre 2016 - art. 1
+	  - Code civil - art. 375-4 (V)
+	  - Code civil - art. 375-7 (M)
+	  - Code de l'action sociale et des familles - art. D223-16 (V)
+	  - Code de l'action sociale et des familles - art. L221-4 (VD)
+	  - Code de l'action sociale et des familles - art. L226-3-3 (V)
+	  - Code de l'action sociale et des familles - art. L228-3 (V)
+	  - Code de la famille et de l'aide sociale. - art. 46 (M)
+	  - Code de la famille et de l'aide sociale. - art. 85 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 95 (M)
+	  - Code de procédure civile - art. 1187 (V)
+	  - Code de procédure civile - art. 1199 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 375-3
+
+S'il est nécessaire de retirer l'enfant de son milieu actuel, le juge peut décider de le confier :
+
+1° A celui des père et mère qui n'en avait pas la garde ;
+
+2° A un autre membre de la famille ou à un tiers digne de confiance ;
+
+3° A un service ou à un établissement sanitaire ou d'éducation, ordinaire ou spécialisé ;
+
+4° Au service départemental de l'aide sociale à l'enfance.
+
+Toutefois, lorsqu'une requête en divorce a été présentée ou un jugement de divorce rendu entre les père et mère, ces mesures
+ne peuvent être prises que si un fait nouveau de nature à entraîner un danger pour le mineur s'est révélé postérieurement à
+la décision statuant sur la garde de l'enfant. Elles ne peuvent faire obstacle à la faculté qu'aura le tribunal de décider,
+par application de l'article 302, à qui l'enfant devra être confié. Les mêmes règles sont applicables à la séparation de
+corps.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°70-459 du 4 juin 1970 - art. 1 () JORF 5 juin 1970 en vigueur le 1er janvier 1971
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 10 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 11 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 12 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 13 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 9 (V)
+	  - SPEC_APPLI: Loi n°74-631 du 5 juillet 1974 - art. 21 (V)
+
+	**Cité par**:
+
+	  - Décret n°88-949 du 6 octobre 1988 - art. 1 (M)
+	  - Loi n°2016-297 du 14 mars 2016 - art. 27
+	  - Loi n°2016-297 du 14 mars 2016 - art. 29
+	  - Loi n°2016-297 du 14 mars 2016 - art. 6
+	  - Décret n°2016-1283 du 28 septembre 2016 - art. 1
+	  - Décret n°2016-1375 du 12 octobre 2016 (V)
+	  - Loi n°2017-258 du 28 février 2017 - art. 31 (V)
+	  - Code civil - art. 375-5 (V)
+	  - Code civil - art. 375-9 (V)
+	  - Code de l'action sociale et des familles - art. D223-16 (V)
+	  - Code de l'action sociale et des familles - art. D223-28 (V)
+	  - Code de l'action sociale et des familles - art. D316-2 (V)
+	  - Code de l'action sociale et des familles - art. L221-4 (VD)
+	  - Code de l'action sociale et des familles - art. L222-5 (V)
+	  - Code de l'action sociale et des familles - art. L223-3 (V)
+	  - Code de l'action sociale et des familles - art. L223-3-1 (V)
+	  - Code de l'action sociale et des familles - art. L223-5 (V)
+	  - Code de l'action sociale et des familles - art. L227-2 (V)
+	  - Code de l'action sociale et des familles - art. L227-2-1 (V)
+	  - Code de l'action sociale et des familles - art. L228-3 (V)
+	  - Code de la famille et de l'aide sociale. - art. 123-4 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 46 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 49 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 57 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 85 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 94 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 95 (M)
+	  - Code de la sécurité sociale. - art. L351-4 (V)
+	  - Code de la sécurité sociale. - art. L521-2 (V)
+	  - Code de la sécurité sociale. - art. L543-3 (V)
+	  - Code de procédure civile - art. 1198 (V)
+
+	**Cite**:
+
+	  - Code civil - art. 302 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 375-4
+
+Dans les cas spécifiés aux 1°, 2° et 3° de l'article précédent, le juge peut charger, soit une personne qualifiée, soit un
+service d'observation, d'éducation ou de rééducation en milieu ouvert d'apporter aide et conseil au gardien ainsi qu'à la
+famille et de suivre le développement de l'enfant.
+
+Dans tous les cas, le juge peut assortir la remise de l'enfant des mêmes modalités que sous l'article 375-2, deuxième alinéa.
+Il peut aussi décider qu'il lui sera rendu compte périodiquement de la situation de l'enfant.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°70-459 du 4 juin 1970 - art. 1 () JORF 5 juin 1970 en vigueur le 1er janvier 1971
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 10 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 11 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 12 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 13 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 9 (V)
+	  - SPEC_APPLI: Loi n°74-631 du 5 juillet 1974 - art. 21 (V)
+
+	**Cité par**:
+
+	  - Décret n°88-949 du 6 octobre 1988 - art. 1 (M)
+	  - Loi n°2017-258 du 28 février 2017 - art. 31 (V)
+	  - Code civil - art. 375-5 (V)
+	  - Code de l'action sociale et des familles - art. L228-3 (V)
+	  - Code de la famille et de l'aide sociale. - art. 46 (M)
+	  - Code de la famille et de l'aide sociale. - art. 85 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 95 (M)
+	  - Code de procédure civile - art. 1187 (V)
+
+	**Cite**:
+
+	  - Code civil - art. 375-2 (M)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 375-5
+
+A titre provisoire mais à charge d'appel, le juge peut, pendant l'instance, soit ordonner la remise provisoire du mineur à un
+centre d'accueil ou d'observation, soit prendre l'une des mesures prévues aux articles 375-3 et 375-4.
+
+En cas d'urgence, le procureur de la République du lieu où le mineur a été trouvé a le même pouvoir, à charge de saisir dans
+les huit jours le juge compétent, qui maintiendra, modifiera ou rapportera la mesure.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°70-459 du 4 juin 1970 - art. 1 () JORF 5 juin 1970 en vigueur le 1er janvier 1971
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 10 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 11 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 12 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 13 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 9 (V)
+	  - SPEC_APPLI: Loi n°74-631 du 5 juillet 1974 - art. 21 (V)
+
+	**Cité par**:
+
+	  - Décret n°88-949 du 6 octobre 1988 - art. 1 (M)
+	  - Arrêté du 9 juillet 2008 - art. 4-1 (V)
+	  - Loi n°2016-297 du 14 mars 2016 - art. 48
+	  - Décret n°2016-840 du 24 juin 2016 - art. 1
+	  - Décret n°2016-1375 du 12 octobre 2016 (V)
+	  - Arrêté du 3 mai 2017 - art. 5
+	  - Code de l'action sociale et des familles - art. L221-2-2 (V)
+	  - Code de l'action sociale et des familles - art. L222-5 (VD)
+	  - Code de l'action sociale et des familles - art. L223-2 (V)
+	  - Code de l'action sociale et des familles - art. L227-2 (V)
+	  - Code de l'action sociale et des familles - art. L228-3 (V)
+	  - Code de l'action sociale et des familles - art. R221-11 (V)
+	  - Code de la famille et de l'aide sociale. - art. 46 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 49 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 85 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 94 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 95 (M)
+	  - Code de la sécurité sociale. - art. L521-2 (V)
+	  - Code de la sécurité sociale. - art. L543-3 (V)
+	  - Code de procédure civile - art. 1184 (V)
+	  - Code de procédure pénale - art. 230-19 (V)
+
+	**Cite**:
+
+	  - Code civil - art. 375-3 (M)
+	  - Code civil - art. 375-4 (M)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 375-6
+
+Les décisions prises en matière d'assistance éducative peuvent être, à tout moment, modifiées ou rapportées par le juge qui
+les a rendues soit d'office, soit à la requête des père et mère conjointement, ou de l'un d'eux, du gardien ou du tuteur, du
+mineur lui-même ou du ministère public.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°70-459 du 4 juin 1970 - art. 1 () JORF 5 juin 1970 en vigueur le 1er janvier 1971
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 10 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 11 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 12 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 13 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 9 (V)
+	  - SPEC_APPLI: Loi n°74-631 du 5 juillet 1974 - art. 21 (V)
+
+	**Cité par**:
+
+	  - Décret n°88-949 du 6 octobre 1988 - art. 1 (M)
+	  - Code de la famille et de l'aide sociale. - art. 95 (M)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 375-7
+
+Les père et mère dont l'enfant a donné lieu à une mesure d'assistance éducative, conservent sur lui leur autorité parentale
+et en exercent tous les attributs qui ne sont pas inconciliables avec l'application de la mesure. Ils ne peuvent émanciper
+l'enfant sans autorisation du juge des enfants, tant que la mesure d'assistance éducative reçoit application.
+
+S'il a été nécessaire de placer l'enfant hors de chez ses parents, ceux-ci conservent un droit de correspondance et un droit
+de visite. Le juge en fixe les modalités et peut même, si l'intérêt de l'enfant l'exige, décider que l'exercice de ces
+droits, ou de l'un d'eux, sera provisoirement suspendu.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°70-459 du 4 juin 1970 - art. 1 () JORF 5 juin 1970 en vigueur le 1er janvier 1971
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 10 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 11 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 12 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 13 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 9 (V)
+	  - SPEC_APPLI: Loi n°74-631 du 5 juillet 1974 - art. 21 (V)
+
+	**Cité par**:
+
+	  - Décret n°88-949 du 6 octobre 1988 - art. 1 (M)
+	  - Code civil - art. 375-5 (V)
+	  - Code civil - art. 378-1 (V)
+	  - Code de l'action sociale et des familles - art. D216-1 (V)
+	  - Code de la famille et de l'aide sociale. - art. 95 (M)
+	  - Code de procédure civile - art. 1199-2 (V)
+	  - Code de procédure pénale - art. 230-19 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 375-8
+
+Les frais d'entretien et d'éducation de l'enfant qui a fait l'objet d'une mesure d'assistance éducative continuent d'incomber
+à ses père et mère ainsi qu'aux ascendants auxquels des aliments peuvent être réclamés, sauf la faculté pour le juge de les
+en décharger en tout ou en partie.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°70-459 du 4 juin 1970 - art. 1 () JORF 5 juin 1970 en vigueur le 1er janvier 1971
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 10 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 11 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 12 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 13 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 9 (V)
+	  - SPEC_APPLI: Loi n°74-631 du 5 juillet 1974 - art. 21 (V)
+
+	**Cité par**:
+
+	  - Décret n°88-949 du 6 octobre 1988 - art. 1 (M)
+	  - Code de l'action sociale et des familles - art. L228-2 (V)
+	  - Code de la famille et de l'aide sociale. - art. 84 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 95 (M)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+#### Section 3 : De la délégation de l'autorité parentale
+
+###### Article 376
+
+Aucune renonciation, aucune cession portant sur l'autorité parentale, ne peut avoir d'effet, si ce n'est en vertu d'un
+jugement dans les cas déterminés ci-dessous.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°59-1095 du 21 septembre 1959 - art. 10 (Ab)
+	  - Décret n°59-1095 du 21 septembre 1959 - art. 13 (Ab)
+	  - Décret n°59-1095 du 21 septembre 1959 - art. 2 (Ab)
+	  - Décret n°59-1095 du 21 septembre 1959 - art. 3 (Ab)
+	  - Décret n°59-1095 du 21 septembre 1959 - art. 4 (Ab)
+	  - Décret n°59-1095 du 21 septembre 1959 - art. 6 (Ab)
+	  - Décret n°59-1095 du 21 septembre 1959 - art. 8 (Ab)
+	  - Décret n°2014-945 du 21 août 2014 - art. 1 (VT)
+	  - Code de la famille et de l'aide sociale. - art. 75 (Ab)
+	  - Code des pensions militaires d'invalidité et de... - art. L473 (VT)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°70-459 du 4 juin 1970 - art. 1 () JORF 5 juin 1970 en vigueur le 1er janvier 1971
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 10 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 11 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 12 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 13 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 14 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 15 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 9 (V)
+
+
+###### Article 376-1
+
+Un tribunal peut, quand il est appelé à statuer sur la garde ou l'éducation d'un enfant mineur, avoir égard aux pactes que
+les père et mère ont pu librement conclure entre eux à ce sujet, à moins que l'un d'eux ne justifie de motifs graves qui
+l'autoriseraient à révoquer son consentement.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°59-1095 du 21 septembre 1959 - art. 10 (Ab)
+	  - Décret n°59-1095 du 21 septembre 1959 - art. 13 (Ab)
+	  - Décret n°59-1095 du 21 septembre 1959 - art. 2 (Ab)
+	  - Décret n°59-1095 du 21 septembre 1959 - art. 6 (Ab)
+	  - Décret n°59-1095 du 21 septembre 1959 - art. 7 (Ab)
+	  - Décret n°59-1095 du 21 septembre 1959 - art. 8 (Ab)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°70-459 du 4 juin 1970 - art. 1 () JORF 5 juin 1970 en vigueur le 1er janvier 1971
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 10 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 11 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 12 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 13 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 14 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 15 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 9 (V)
+
+
+###### Article 377-2
+
+La délégation pourra, dans tous les cas, prendre fin ou être transférée par un nouveau jugement, s'il est justifié de
+circonstances nouvelles.
+
+Dans le cas où la restitution de l'enfant est accordée aux père et mère, le tribunal met à leur charge, s'ils ne sont
+indigents, le remboursement de tout ou partie des frais d'entretien.
+
+Quand la demande de restitution a été rejetée, elle ne peut être renouvelée qu'un an plus tôt après que la décision de rejet
+sera devenue irrévocable.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°70-459 du 4 juin 1970 - art. 1 () JORF 5 juin 1970 en vigueur le 1er janvier 1971
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 10 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 11 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 12 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 13 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 14 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 15 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 9 (V)
+
+
+###### Article 377-3
+
+Le droit de consentir à l'adoption du mineur n'est jamais délégué.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°70-459 du 4 juin 1970 - art. 1 () JORF 5 juin 1970 en vigueur le 1er janvier 1971
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 10 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 11 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 12 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 13 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 14 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 15 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 9 (V)
+
+
+#### Section 4 : De la déchéance et du retrait partiel de l'autorité parentale.
+
+###### Article 378
+
+Peuvent être déchus de l'autorité parentale par une disposition expresse du jugement pénal les père et mère qui sont
+condamnés, soit comme auteurs, coauteurs ou complices d'un crime ou délit commis sur la personne de leur enfant, soit comme
+coauteurs ou complices d'un crime ou délit commis par leur enfant.
+
+Cette déchéance est applicable aux ascendants autres que les père et mère pour la part d'autorité parentale qui peut leur
+revenir sur leurs descendants.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°59-1095 du 21 septembre 1959 - art. 10 (Ab)
+	  - Décret n°59-1095 du 21 septembre 1959 - art. 13 (Ab)
+	  - Décret n°59-1095 du 21 septembre 1959 - art. 2 (Ab)
+	  - Décret n°59-1095 du 21 septembre 1959 - art. 6 (Ab)
+	  - Loi n°81-736 du 4 août 1981 - art. 26 (V)
+	  - Loi n°95-884 du 3 août 1995 - art. 24 (V)
+	  - Loi n°2002-1062 du 6 août 2002 - art. 17 (V)
+	  - Loi n°2009-526 du 12 mai 2009 - art. 108
+	  - Code civil - art. 381 (V)
+	  - Code de l'action sociale et des familles - art. L224-4 (V)
+	  - Code de la famille et de l'aide sociale. - art. 50 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 57 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 61 (Ab)
+	  - Code général des impôts, CGI. - art. 1825 A (V)
+	  - Code pénal - art. 221-5-5 (V)
+	  - Code pénal - art. 222-31-1 (V)
+	  - Code pénal - art. 222-31-2 (V)
+	  - Code pénal - art. 222-48-2 (V)
+	  - Code pénal - art. 227-27-3 (V)
+	  - Code pénal - art. 227-28-2 (Ab)
+
+	**Créé par**:
+
+	  - Loi n°70-459 du 4 juin 1970 - art. 1 () JORF 5 juin 1970 en vigueur le 1er janvier 1971
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 10 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 11 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 12 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 13 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 14 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 15 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 9 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 378-1
+
+Peuvent être déchus de l'autorité parentale, en dehors de toute condamnation pénale, les père et mère qui, soit par de
+mauvais traitements, soit par des exemples pernicieux d'ivrognerie habituelle, d'inconduite notoire ou de délinquance, soit
+par un défaut de soins ou un manque de direction, mettent manifestement en danger la sécurité, la santé ou la moralité de
+l'enfant.
+
+Peuvent pareillement en être déchus, quand une mesure d'assistance éducative avait été prise à l'égard de l'enfant, les père
+et mère qui, pendant plus de deux ans, se sont volontairement abstenus d'exercer les droits et de remplir les devoirs que
+leur laissait l'article 375-7.
+
+L'action en déchéance est portée devant le tribunal de grande instance, soit par le ministère public, soit par un membre de
+la famille ou le tuteur de l'enfant.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°70-459 du 4 juin 1970 - art. 1 () JORF 5 juin 1970 en vigueur le 1er janvier 1971
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 10 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 11 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 12 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 13 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 14 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 15 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 9 (V)
+
+	**Cite**:
+
+	  - Code civil - art. 375-7 (M)
+
+	**Cité par**:
+
+	  - Code civil - art. 381 (V)
+	  - Code de la famille et de l'aide sociale. - art. 50 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 61 (Ab)
+
+
+###### Article 379
+
+La déchéance prononcée en vertu de l'un des deux articles précédents porte de plein droit sur tous les attributs, tant
+patrimoniaux que personnels, se rattachant à l'autorité parentale ; à défaut d'autre détermination, elle s'étend à tous les
+enfants mineurs déjà nés au moment du jugement.
+
+Elle emporte, pour l'enfant, dispense de l'obligation alimentaire, par dérogation aux articles 205 à 207, sauf disposition
+contraire dans le jugement de déchéance.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°59-1095 du 21 septembre 1959 - art. 10 (Ab)
+	  - Décret n°59-1095 du 21 septembre 1959 - art. 13 (Ab)
+	  - Décret n°59-1095 du 21 septembre 1959 - art. 2 (Ab)
+	  - Décret n°59-1095 du 21 septembre 1959 - art. 6 (Ab)
+	  - Décret n°59-1095 du 21 septembre 1959 - art. 7 (Ab)
+	  - Décret n°59-1095 du 21 septembre 1959 - art. 8 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 57 (Ab)
+
+	**Créé par**:
+
+	  - Loi n°70-459 du 4 juin 1970 - art. 1 () JORF 5 juin 1970 en vigueur le 1er janvier 1971
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 10 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 11 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 12 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 13 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 14 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 15 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 9 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 379-1
+
+Le jugement peut, au lieu de la déchéance totale, se borner à prononcer un retrait partiel de droits, limité aux attributs
+qu'il spécifie. Il peut aussi décider que la déchéance ou le retrait n'auront d'effet qu'à l'égard de certains des enfants
+déjà nés.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°59-1095 du 21 septembre 1959 - art. 10 (Ab)
+	  - Décret n°59-1095 du 21 septembre 1959 - art. 13 (Ab)
+	  - Décret n°59-1095 du 21 septembre 1959 - art. 2 (Ab)
+	  - Décret n°59-1095 du 21 septembre 1959 - art. 3 (Ab)
+	  - Décret n°59-1095 du 21 septembre 1959 - art. 4 (Ab)
+	  - Décret n°59-1095 du 21 septembre 1959 - art. 6 (Ab)
+	  - Loi n°81-736 du 4 août 1981 - art. 26 (V)
+	  - Loi n°95-884 du 3 août 1995 - art. 24 (V)
+	  - Loi n°2002-1062 du 6 août 2002 - art. 17 (V)
+	  - Code de la famille et de l'aide sociale. - art. 49 (Ab)
+	  - Code pénal - art. 221-5-5 (V)
+	  - Code pénal - art. 222-31-1 (V)
+	  - Code pénal - art. 222-31-2 (V)
+	  - Code pénal - art. 222-48-2 (V)
+	  - Code pénal - art. 227-27-3 (V)
+	  - Code pénal - art. 227-28-2 (Ab)
+
+	**Créé par**:
+
+	  - Loi n°70-459 du 4 juin 1970 - art. 1 () JORF 5 juin 1970 en vigueur le 1er janvier 1971
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 10 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 11 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 12 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 13 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 14 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 15 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 9 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 380
+
+En prononçant la déchéance ou le retrait du droit de garde, la juridiction saisie devra, si l'autre parent est décédé ou s'il
+a perdu l'exercice de l'autorité parentale, soit désigner un tiers qui assumera provisoirement la garde de l'enfant à charge
+pour lui de requérir l'organisation de la tutelle, soit confier l'enfant au service départemental de l'aide sociale à
+l'enfance.
+
+Elle pourra prendre les mêmes mesures lorsque l'autorité parentale est dévolue à l'un des parents par l'effet de la déchéance
+prononcée contre l'autre.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°59-1095 du 21 septembre 1959 - art. 10 (Ab)
+	  - Décret n°59-1095 du 21 septembre 1959 - art. 13 (Ab)
+	  - Décret n°59-1095 du 21 septembre 1959 - art. 2 (Ab)
+	  - Décret n°59-1095 du 21 septembre 1959 - art. 6 (Ab)
+	  - Code de l'action sociale et des familles - art. L222-5 (V)
+	  - Code de l'action sociale et des familles - art. L224-4 (V)
+	  - Code de la famille et de l'aide sociale. - art. 46 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 49 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 57 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 61 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 64 (M)
+
+	**Créé par**:
+
+	  - Loi n°70-459 du 4 juin 1970 - art. 1 () JORF 5 juin 1970 en vigueur le 1er janvier 1971
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 10 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 11 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 12 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 13 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 14 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 15 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 9 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 381
+
+Les père et mère qui ont fait l'objet d'une déchéance ou d'un retrait de droits pour l'une des causes prévues aux articles
+378 et 378-1, pourront, par requête, obtenir du tribunal de grande instance, en justifiant de circonstances nouvelles, que
+leur soient restitués, en tout ou partie, les droits dont ils avaient été privés.
+
+La demande en restitution ne pourra être formée qu'un an au plus tôt après que le jugement prononçant la déchéance ou le
+retrait est devenu irrévocable ; en cas de rejet, elle ne pourra être renouvelée qu'après une nouvelle période d'un an.
+Aucune demande ne sera recevable lorsque, avant le dépôt de la requête, l'enfant aura été placé en vue de l'adoption.
+
+Si la restitution est accordée, le ministère public requerra, le cas échéant, des mesures d'assistance éducative.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°59-1095 du 21 septembre 1959 - art. 13 (Ab)
+	  - Décret n°59-1095 du 21 septembre 1959 - art. 6 (Ab)
+	  - Loi n°70-459 du 4 juin 1970 - art. 14 (V)
+	  - Code de la famille et de l'aide sociale. - art. 64 (M)
+	  - Code de la famille et de l'aide sociale. - art. 75 (Ab)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°70-459 du 4 juin 1970 - art. 1 () JORF 5 juin 1970 en vigueur le 1er janvier 1971
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 10 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 11 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 12 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 13 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 14 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 15 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 9 (V)
+
+	**Cite**:
+
+	  - Code civil - art. 378 (M)
+	  - Code civil - art. 378-1 (M)
+
+
+### Chapitre II : De l'autorité parentale relativement aux biens de l'enfant
+
+###### Article 382
+
+Les père et mère ont, sous les distinctions qui suivent, l'administration et la jouissance des biens de leur enfant.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°59-1095 du 21 septembre 1959 - art. 13 (Ab)
+	  - Décret n°59-1095 du 21 septembre 1959 - art. 5 (Ab)
+	  - Décret n°59-1095 du 21 septembre 1959 - art. 6 (Ab)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°70-459 du 4 juin 1970 - art. 1 () JORF 5 juin 1970 en vigueur le 1er janvier 1971
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 10 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 11 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 12 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 13 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 14 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 15 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 9 (V)
+
+
+###### Article 383
+
+L'administration légale est exercée par le père avec le concours de la mère dans le cas de l'article 389-1 et, dans les
+autres cas, sous le contrôle du juge, soit par le père, soit par la mère, selon les dispositions du chapitre précédent.
+
+La jouissance légale appartient à celui des père et mère qui a la charge de l'administration.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°70-459 du 4 juin 1970 - art. 1 () JORF 5 juin 1970 en vigueur le 1er janvier 1971
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 10 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 11 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 12 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 13 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 14 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 15 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 9 (V)
+
+	**Cité par**:
+
+	  - Code civil - art. 388-2 (V)
+	  - Code de procédure civile - art. 1210-1 (V)
+
+	**Cite**:
+
+	  - Code civil - art. 389-1 (M)
+
+
+###### Article 385
+
+Les charges de cette jouissance sont :
+
+1° Celles auxquelles sont tenus en général les usufruitiers ;
+
+2° La nourriture, l'entretien et l'éducation de l'enfant, selon sa fortune ;
+
+3° Les dettes grevant la succession recueillie par l'enfant en tant qu'elles auraient dû être acquittées sur les revenus.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°70-459 du 4 juin 1970 - art. 1 () JORF 5 juin 1970 en vigueur le 1er janvier 1971
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 10 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 11 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 12 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 13 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 14 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 15 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 9 (V)
+
+
+###### Article 386
+
+Cette jouissance n'aura pas lieu au profit de l'époux survivant qui aurait omis de faire inventaire, authentique ou sous
+seing privé, des biens échus au mineur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°70-459 du 4 juin 1970 - art. 1 () JORF 5 juin 1970 en vigueur le 1er janvier 1971
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 10 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 11 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 12 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 13 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 14 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 15 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 9 (V)
+
+
+###### Article 387
+
+La jouissance légale ne s'étend pas aux biens que l'enfant peut acquérir par son travail, ni à ceux qui lui sont donnés ou
+légués sous la condition expresse que les père et mère n'en jouiront pas.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°70-459 du 4 juin 1970 - art. 1 () JORF 5 juin 1970 en vigueur le 1er janvier 1971
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 10 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 11 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 12 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 13 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 14 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 15 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 9 (V)
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 1180-12 (V)
+	  - Code de procédure civile - art. 1180-14 (V)
+
+
 ## Titre X : De la minorité et de l'émancipation
 
 ### Chapitre Ier : De la minorité
 
 #### Section 1 : De l'administration légale
+
+###### Article 389
+
+Si l'autorité parentale est exercée en commun par les deux parents, le père est administrateur légal. Dans les autres cas,
+l'administration légale appartient à celui des parents qui exerce l'autorité parentale.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+
+	**Cité par**:
+
+	  - Loi n°64-1230 du 14 décembre 1964 - art. 10 (V)
+	  - Loi n°64-1230 du 14 décembre 1964 - art. 9 (V)
+	  - Code civil - art. 2143 (T)
+	  - Code civil - art. 2409 (VT)
+	  - Code civil - art. 288 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°70-459 du 4 juin 1970 - art. 2 () JORF 5 juin 1970 en vigueur le 1er janvier 1971
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
 
 ###### Article 389-1
 
@@ -26471,6 +28132,90 @@ imprudence.
 	**Créé par**:
 
 	  - Loi n°1804-02-09 promulguée le 19 février 1804
+
+
+###### Article 1384
+
+On est responsable non seulement du dommage  que l'on cause par son propre fait, mais encore de celui qui est causé par le
+fait des personnes dont on doit répondre, ou des choses que l'on a sous sa garde.
+
+Toutefois, celui qui détient, à un titre quelconque, tout ou partie de l'immeuble ou des biens mobiliers dans lesquels un
+incendie a pris naissance ne sera responsable, vis-à-vis des tiers, des dommages causés par cet incendie que s'il est prouvé
+qu'il doit être attribué à sa faute ou à la faute des personnes dont il est responsable.
+
+Cette disposition ne s'applique pas aux rapports entre propriétaires et locataires, qui demeurent régis par les articles 1733
+et 1734 du code civil.
+
+Le père et la mère, en tant qu'ils exercent le droit de garde, sont solidairement responsables du dommage causé par leurs
+enfants mineurs habitant avec eux.
+
+Les maîtres et les commettants, du dommage causé par leurs domestiques et préposés dans les fonctions auxquelles ils les ont
+employés ;
+
+Les instituteurs et les artisans, du dommage causé par leurs élèves et apprentis pendant le temps qu'ils sont sous leur
+surveillance.
+
+La responsabilité ci-dessus a lieu, à moins que les père et mère et les artisans ne prouvent qu'ils n'ont pu empêcher le fait
+qui donne lieu à cette responsabilité.
+
+En ce qui concerne les instituteurs, les fautes, imprudences ou négligences invoquées contre eux comme ayant causé le fait
+dommageable, devront être prouvées, conformément au droit commun, par le demandeur, à l'instance.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°1881-07-29 du 29 juillet 1881 - art. 44 (M)
+	  - Loi n°1885-03-28 du 28 mars 1885 - art. 14 (Ab)
+	  - Décret n°53-511 du 21 mai 1953 - art. 37 (M)
+	  - Décret n°66-619 du 10 août 1966 - art. 31 (Ab)
+	  - Arrêté du 28 mai 1968 - art. 9 (Ab)
+	  - Loi n°70-459 du 4 juin 1970 - art. 13 (V)
+	  - Loi n°72-6 du 3 janvier 1972 - art. 11 (Ab)
+	  - Loi n°74-696 du 7 août 1974 - art. 23 (V)
+	  - Arrêté du 6 mars 1989 - art. ANNEXE VI (V)
+	  - Décret n°90-437 du 28 mai 1990 - art. 34 (Ab)
+	  - Décret n°91-573 du 19 juin 1991 - art. 34 (Ab)
+	  - Décret n°92-159 du 21 février 1992 - art. 27 (Ab)
+	  - Arrêté du 21 décembre 1994 - art. Annexe VI (V)
+	  - Décret n°98-844 du 22 septembre 1998 - art. 49 (Ab)
+	  - Rapport - art. 7 (V)
+	  - Arrêté du 27 décembre 2000 - art. 1 (Ab)
+	  - Décret n°2002-566 du 17 avril 2002 - art. Annexe (VT)
+	  - Arrêté du 2 juillet 2008 - art. Annexe II (V)
+	  - Décret n°2016-253 du 2 mars 2016 - art. (M)
+	  - Arrêté du 14 mars 1969 - art. Annexe art. 17 (Ab)
+	  - CODE PENAL - art. 69 (Ab)
+	  - Code de l'éducation - art. R442-40 (M)
+	  - Code de la construction et de l'habitation. - art. L112-12 (V)
+	  - Code des assurances - art. L121-2 (V)
+	  - Code des assurances - art. L511-1 (M)
+	  - Code des postes et des communications électronique - art. L75 (V)
+	  - Code du sport. - art. L321-3-1 (V)
+	  - Code forestier - art. L351-6 (Ab)
+	  - Code monétaire et financier - art. L342-10 (Ab)
+	  - Code monétaire et financier - art. L343-5 (Ab)
+	  - Code rural - art. L228-43 (Ab)
+	  - Code rural ancien - art. 391 (Ab)
+	  - Code rural ancien - art. 491 (Ab)
+	  - Décret n°1986-03-14 du 14 mars 1986 - art. ANNEXE (Ab)
+
+	**Cite**:
+
+	  - Code civil - art. 1733 (V)
+	  - Code civil - art. 1734 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-09
+
+	**Créé par**:
+
+	  - Loi n°1804-02-09 promulguée le 19 février 1804
+
+	**Modifié par**:
+
+	  - Loi n°1937-04-05 JORF 6 avril 1937 rectificatif JORF 12 mai 1937
 
 
 ###### Article 1385

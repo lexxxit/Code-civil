@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1964-06-15
+Version Consolidée au 1964-12-15
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -10075,6 +10075,75 @@ il sera procédé suivant les formes prescrites par les lois sur la procédure.
 	  - Loi n°1803-04-19 promulguée le 29 avril 1803
 
 
+###### Article 838
+
+Si tous les cohéritiers ne sont pas présents, le partage doit être fait en justice, suivant les règles des articles 819 à
+837.
+
+Il en est de même s'il y a parmi eux des mineurs non émancipés ou des majeurs en tutelle, sous réserve de l'article 466.
+
+S'il y a plusieurs mineurs, il peut leur être donné à chacun un tuteur spécial et particulier.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-04-19
+
+	**Créé par**:
+
+	  - Loi n°1803-04-19 promulguée le 29 avril 1803
+
+	**Cité par**:
+
+	  - Loi n°1924-06-01 du 1 juin 1924 - art. 227 (V)
+	  - Loi n°1924-06-01 du 1 juin 1924 - art. 228 (V)
+	  - Loi n°1924-06-01 du 1 juin 1924 - art. 235 (V)
+	  - Loi n°1924-06-01 du 1 juin 1924 - art. 245 (V)
+	  - Loi n°1924-06-01 du 1 juin 1924 - art. 247 (V)
+	  - Loi n°1924-06-01 du 1 juin 1924 - art. 255 (V)
+	  - Code civil - art. 116 (M)
+	  - Code civil - art. 839 (M)
+	  - Code de procédure civile - art. 966 (V)
+
+	**Modifié par**:
+
+	  - Loi n°64-1230 du 14 décembre 1964 - art. 2 () JORF 15 décembre 1964
+
+	**Cite**:
+
+	  - Code civil - art. 466 (M)
+	  - Code civil 466, 819 à 837
+
+
+###### Article 839
+
+S'il y a lieu à licitation, dans le cas prévu par l'alinéa 1er de l'article précédent, elle ne peut être faite qu'en justice
+avec les formalités prescrites pour l'aliénation des biens des mineurs. Les étrangers y sont toujours admis.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-04-19
+
+	**Créé par**:
+
+	  - Loi n°1803-04-19 promulguée le 29 avril 1803
+
+	**Cité par**:
+
+	  - Ordonnance n°45-1483 du 30 juin 1945 - art. 53 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°64-1230 du 14 décembre 1964 - art. 2 () JORF 15 décembre 1964
+
+	**Cite**:
+
+	  - Code civil - art. 838 (M)
+
+
 ###### Article 841
 
 Toute personne, même parente du défunt, qui n'est pas successible, et à laquelle un cohéritier aurait cédé son droit à la
@@ -10961,6 +11030,32 @@ Le mineur âgé de moins de seize ans ne pourra aucunement disposer, sauf ce qui
 	  - Loi n°1803-05-03 promulguée le 13 mai 1803
 
 
+###### Article 904
+
+Le mineur, parvenu à l'âge de seize ans et non émancipé, ne pourra disposer que par testament, et jusqu'à concurrence
+seulement de la moitié des biens dont la loi permet au majeur de disposer.
+
+Toutefois, s'il est appelé sous les drapeaux pour une campagne de guerre, il pourra, pendant la durée des hostilités,
+disposer de la même quotité que s'il était majeur, en faveur de l'un quelconque de ses parents ou de plusieurs d'entre eux et
+jusqu'au sixième degré inclusivement ou encore en faveur de son conjoint survivant.
+
+A défaut de parents au sixième degré inclusivement, le mineur pourra disposer comme le ferait un majeur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+	**Modifié par**:
+
+	  - Loi n°64-1230 du 14 décembre 1964 - art. 2 () JORF 15 décembre 1964
+
+
 ###### Article 906
 
 Pour être capable de recevoir entre vifs, il suffit d'être conçu au moment de la donation.
@@ -10978,6 +11073,30 @@ Néanmoins, la donation ou le testament n'auront leur effet qu'autant que l'enfa
 	**Créé par**:
 
 	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 907
+
+Le mineur, quoique parvenu à l'âge de seize ans, ne pourra, même par testament, disposer au profit de son tuteur.
+
+Le mineur, devenu majeur ou émancipé, ne pourra disposer, soit par donation entre vifs, soit par testament, au profit de
+celui qui aura été son tuteur, si le compte définitif de la tutelle n'a été préalablement rendu et apuré.
+
+Sont exceptés, dans les deux cas ci-dessus, les ascendants des mineurs, qui sont ou qui ont été leurs tuteurs.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+	**Modifié par**:
+
+	  - Loi n°64-1230 du 14 décembre 1964 - art. 2 () JORF 15 décembre 1964
 
 
 ###### Article 909
@@ -11314,6 +11433,33 @@ la minute de l'acceptation qui serait faite par acte séparé.
 	**Créé par**:
 
 	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 935
+
+La donation faite à un mineur non émancipé ou à un majeur en tutelle devra être acceptée par son tuteur, conformément à
+l'article 463, au titre De la minorité, de la tutelle et de l'émancipation.
+
+Néanmoins, les père et mère du mineur non émancipé, ou les autres ascendants, même du vivant des père et mère, quoiqu'ils ne
+soient pas tuteurs du mineur, pourront accepter pour lui.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code civil - art. 463 (AbD)
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+	**Modifié par**:
+
+	  - Loi n°64-1230 du 14 décembre 1964 - art. 2 () JORF 15 décembre 1964
 
 
 ###### Article 936
@@ -13575,6 +13721,35 @@ libres, que pour le capital des deniers dotaux, et dans le cas seulement où le 
 	**Créé par**:
 
 	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 1055
+
+Celui qui fera les dispositions autorisées par les articles précédents pourra, par le même acte, ou par un acte postérieur,
+en forme authentique, nommer un tuteur chargé de l'exécution de ces dispositions : ce tuteur ne pourra être dispensé que pour
+une des causes exprimées aux articles 428 et suivants.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code civil - art. 1061 (V)
+
+	**Cite**:
+
+	  - Code civil - art. 428 (AbD)
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+	**Modifié par**:
+
+	  - Loi n°64-1230 du 14 décembre 1964 - art. 2 () JORF 15 décembre 1964
 
 
 ###### Article 1056
@@ -31734,6 +31909,65 @@ publiés, la publicité des warrants demeurant soumise aux lois spéciales qui l
 
 #### Section 6 : Des règles particulières à l'hypothèque légale des personnes en tutelle.
 
+###### Article 2143
+
+A l'ouverture de toute tutelle, le conseil de famille, après avoir entendu le tuteur, décide si une inscription doit être
+requise sur les immeubles du tuteur. Dans l'affirmative, il fixe la somme pour laquelle il sera pris inscription et désigne
+les immeubles qui en seront grevés. Dans la négative, il peut, toutefois, décider que l'inscription de l'hypothèque sera
+remplacée par la constitution d'un gage, dont il détermine lui-même les conditions.
+
+Au cours de la tutelle, le conseil de famille peut toujours ordonner, lorsque les intérêts du mineur ou du majeur en tutelle
+paraissent l'exiger, qu'il sera pris, soit une première inscription, soit des inscriptions complémentaires, ou qu'un gage
+sera constitué.
+
+Dans les cas où il y a lieu à l'administration légale selon l'article 389, le juge des tutelles, statuant soit d'office, soit
+à la requête d'un parent ou allié ou du ministère public, peut pareillement décider qu'une inscription sera prise sur les
+immeubles de l'administrateur légal, ou que celui-ci devra constituer un gage.
+
+Les inscriptions prévues par le présent article sont prises à la requête du greffier du juge des tutelles, et les frais en
+sont imputés au compte de la tutelle.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°55-22 du 4 janvier 1955 - art. 20 () JORF 7 janvier 1955
+	  - Ordonnance 59-71 1959-01-07 art. 1 JORF 8 janvier 1959
+	  - Loi n°64-1230 du 14 décembre 1964 - art. 2 () JORF 15 décembre 1964
+
+	**Cité par**:
+
+	  - Décret n°55-1350 du 14 octobre 1955 - art. 87 (M)
+	  - Loi n°2002-306 du 4 mars 2002 - art. 7 (M)
+	  - Code civil - art. 2145 (T)
+	  - Code civil - art. 2164 (T)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-19
+
+	**Créé par**:
+
+	  - Loi n°1804-03-19 promulguée le 29 mars 1804
+
+	**Transféré par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2409 (AbD)
+	  - Code civil - art. 2409 (VD)
+
+	**Cite**:
+
+	  - Code civil - art. 389 (M)
+
+
 ###### Article 2144
 
 Le pupille, après sa majorité ou son émancipation, ou le majeur en tutelle, après la mainlevée de la tutelle des majeurs,
@@ -32451,6 +32685,58 @@ somme plus forte.
 	**Nouveaux textes**:
 
 	  - Code civil - art. 2445 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-19
+
+	**Créé par**:
+
+	  - Loi n°1804-03-19 promulguée le 29 mars 1804
+
+	**Transféré par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
+
+
+#### Section 2 : Dispositions particulières relatives aux hypothèques des époux et des personnes en tutelle.
+
+###### Article 2164
+
+Si la valeur des immeubles sur lesquels l'hypothèque du mineur ou du majeur en tutelle a été inscrite excède notablement ce
+qui est nécessaire pour garantir la gestion du tuteur, celui-ci peut demander au conseil de famille de réduire l'inscription
+aux immeubles suffisants.
+
+Il peut pareillement lui demander de réduire l'évaluation qui avait été faite de ses obligations envers le pupille.
+
+L'administrateur légal peut, dans les mêmes cas, lorsqu'une inscription a été prise sur ses immeubles en vertu de l'article
+2143, demander au juge des tutelles de la réduire, soit quant aux immeubles grevés, soit quant aux sommes garanties.
+
+Le tuteur et l'administrateur légal peuvent en outre, s'il y a lieu, sous l'observation des mêmes conditions, demander la
+mainlevée totale de l'hypothèque.
+
+La radiation partielle ou totale de l'hypothèque sera faite au vu d'un acte de mainlevée signé par un membre du conseil de
+famille ayant reçu délégation à cet effet, en ce qui concerne les immeubles du tuteur, et au vu d'une décision du juge des
+tutelles, en ce qui concerne les immeubles de l'administrateur légal.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°55-22 du 4 janvier 1955 - art. 27 () JORF 7 janvier 1955
+	  - Loi n°64-1230 du 14 décembre 1964 - art. 2 () JORF 15 décembre 1964
+
+	**Cite**:
+
+	  - Code civil - art. 2143 (T)
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2447 (V)
 
 	**Codifié par**:
 

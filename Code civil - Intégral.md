@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1804-02-24
+Version Consolidée au 1804-03-16
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -16631,6 +16631,2300 @@ d'entretien ou par le vice de sa construction.
 	**Codifié par**:
 
 	  - Loi n°65-570 1965-07-13
+
+
+## Titre VI : De la vente
+
+### Chapitre Ier : De la nature et de la forme de la vente.
+
+###### Article 1582
+
+La vente est une convention par laquelle l'un s'oblige à livrer une chose, et l'autre à la payer.
+
+Elle peut être faite par acte authentique ou sous seing privé.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code de la consommation - art. L151-1 (VT)
+	  - Code de la consommation - art. L611-1 (VD)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-06
+
+	**Créé par**:
+
+	  - Loi n°1804-03-06 promulguée le 16 mars 1804
+
+
+###### Article 1583
+
+Elle est parfaite entre les parties, et la propriété est acquise de droit à l'acheteur à l'égard du vendeur, dès qu'on est
+convenu de la chose et du prix, quoique la chose n'ait pas encore été livrée ni le prix payé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-06
+
+	**Créé par**:
+
+	  - Loi n°1804-03-06 promulguée le 16 mars 1804
+
+
+###### Article 1584
+
+La vente peut être faite purement et simplement, ou sous une condition soit suspensive, soit résolutoire.
+
+Elle peut aussi avoir pour objet deux ou plusieurs choses alternatives.
+
+Dans tous ces cas, son effet est réglé par les principes généraux des conventions.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-06
+
+	**Créé par**:
+
+	  - Loi n°1804-03-06 promulguée le 16 mars 1804
+
+
+###### Article 1585
+
+Lorsque des marchandises ne sont pas vendues en bloc, mais au poids, au compte ou à la mesure, la vente n'est point parfaite,
+en ce sens que les choses vendues sont aux risques du vendeur jusqu'à ce qu'elles soient pesées, comptées ou mesurées ; mais
+l'acheteur peut en demander ou la délivrance ou des dommages-intérêts, s'il y a lieu, en cas d'inexécution de l'engagement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-06
+
+	**Créé par**:
+
+	  - Loi n°1804-03-06 promulguée le 16 mars 1804
+
+
+###### Article 1586
+
+Si, au contraire, les marchandises ont été vendues en bloc, la vente est parfaite, quoique les marchandises n'aient pas
+encore été pesées, comptées ou mesurées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-06
+
+	**Créé par**:
+
+	  - Loi n°1804-03-06 promulguée le 16 mars 1804
+
+
+###### Article 1587
+
+A l'égard du vin, de l'huile, et des autres choses que l'on est dans l'usage de goûter avant d'en faire l'achat, il n'y a
+point de vente tant que l'acheteur ne les a pas goûtées et agréées.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L3322-9 (VD)
+	  - Code de la santé publique - art. L3351-6-2 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-06
+
+	**Créé par**:
+
+	  - Loi n°1804-03-06 promulguée le 16 mars 1804
+
+
+###### Article 1588
+
+La vente faite à l'essai est toujours présumée faite sous une condition suspensive.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-06
+
+	**Créé par**:
+
+	  - Loi n°1804-03-06 promulguée le 16 mars 1804
+
+
+###### Article 1590
+
+Si la promesse de vendre a été faite avec des arrhes chacun des contractants est maître de s'en départir,
+
+Celui qui les a données, en les perdant,
+
+Et celui qui les a reçues, en restituant le double.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code de la consommation - art. L214-1 (VD)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-06
+
+	**Créé par**:
+
+	  - Loi n°1804-03-06 promulguée le 16 mars 1804
+
+
+###### Article 1591
+
+Le prix de la vente doit être déterminé et désigné par les parties.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-06
+
+	**Créé par**:
+
+	  - Loi n°1804-03-06 promulguée le 16 mars 1804
+
+
+###### Article 1592
+
+Il peut cependant être laissé à l'arbitrage d'un tiers ; si le tiers ne veut ou ne peut faire l'estimation, il n'y a point de
+vente.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-06
+
+	**Créé par**:
+
+	  - Loi n°1804-03-06 promulguée le 16 mars 1804
+
+
+###### Article 1593
+
+Les frais d'actes et autres accessoires à la vente sont à la charge de l'acheteur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-06
+
+	**Créé par**:
+
+	  - Loi n°1804-03-06 promulguée le 16 mars 1804
+
+
+### Chapitre II : Qui peut acheter ou vendre.
+
+###### Article 1594
+
+Tous ceux auxquels la loi ne l'interdit pas peuvent acheter ou vendre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-06
+
+	**Créé par**:
+
+	  - Loi n°1804-03-06 promulguée le 16 mars 1804
+
+
+###### Article 1595
+
+Le contrat de vente ne peut avoir lieu entre époux que dans les trois cas suivants :
+
+1° Celui où l'un des deux époux cède des biens à l'autre, séparé judiciairement d'avec lui, en paiement de ses droits ;
+
+2° Celui où la cession que le mari fait à sa femme, même non séparée, a une cause légitime, telle que le remploi de ses
+immeubles aliénés, ou de deniers à elle appartenant, si ces immeubles ou deniers ne tombent pas en communauté ;
+
+3° Celui où la femme cède des biens à son mari en paiement d'une somme qu'elle lui aurait promise en dot, et lorsqu'il y a
+exclusion de communauté ;
+
+Sauf, dans ces trois cas, les droits des héritiers des parties contractantes, s'il y a avantage indirect.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-06
+
+	**Créé par**:
+
+	  - Loi n°1804-03-06 promulguée le 16 mars 1804
+
+	**Abrogé par**:
+
+	  - Loi n°85-1372 du 23 décembre 1985 - art. 35 (V) JORF 26 décembre 1985 en vigueur le 1er juillet 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°85-1372 du 23 décembre 1985 - art. 55 (V)
+
+	**Cité par**:
+
+	  - Loi n°85-1372 du 23 décembre 1985 - art. 35 (V)
+
+
+###### Article 1596
+
+Ne peuvent se rendre adjudicataires, sous peine de nullité, ni par eux-mêmes, ni par personnes interposées :
+
+Les tuteurs, des biens de ceux dont ils ont la tutelle ;
+
+Les mandataires, des biens qu'ils sont chargés de vendre ;
+
+Les administrateurs, de ceux des communes ou des établissements publics confiés à leurs soins ;
+
+Les officiers publics, des biens nationaux dont les ventes se font par leur ministère.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°93-618 du 27 mars 1993 - art. Annexe, 26 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-06
+
+	**Créé par**:
+
+	  - Loi n°1804-03-06 promulguée le 16 mars 1804
+
+
+###### Article 1597
+
+Les juges, leurs suppléants, les magistrats remplissant le ministère public, les greffiers, huissiers, avocats, défenseurs
+officieux et notaires, ne peuvent devenir cessionnaires des procès, droits et actions litigieux qui sont de la compétence du
+tribunal dans le ressort duquel ils exercent leurs fonctions, à peine de nullité, et des dépens, dommages et intérêts.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-06
+
+	**Créé par**:
+
+	  - Loi n°1804-03-06 promulguée le 16 mars 1804
+
+
+### Chapitre III : Des choses qui peuvent être vendues.
+
+###### Article 1598
+
+Tout ce qui est dans le commerce peut être vendu lorsque des lois particulières n'en ont pas prohibé l'aliénation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-06
+
+	**Créé par**:
+
+	  - Loi n°1804-03-06 promulguée le 16 mars 1804
+
+
+###### Article 1599
+
+La vente de la chose d'autrui est nulle : elle peut donner lieu à des dommages-intérêts lorsque l'acheteur a ignoré que la
+chose fût à autrui.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-06
+
+	**Créé par**:
+
+	  - Loi n°1804-03-06 promulguée le 16 mars 1804
+
+
+###### Article 1600
+
+On ne peut vendre la succession d'une personne vivante, même de son consentement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-06
+
+	**Créé par**:
+
+	  - Loi n°1804-03-06 promulguée le 16 mars 1804
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2001-1135 2001-12-03 art. 25 (dérogations à l'entrée en vigueur), II (ouverture des successions)
+
+	**Abrogé par**:
+
+	  - Loi n°2001-1135 du 3 décembre 2001 - art. 21 () JORF 4 décembre 2001 en vigueur le 1er juillet 2002
+
+
+###### Article 1601
+
+Si au moment de la vente la chose vendue était périe en totalité, la vente serait nulle.
+
+Si une partie seulement de la chose est périe, il est au choix de l'acquéreur d'abandonner la vente, ou de demander la partie
+conservée, en faisant déterminer le prix par la ventilation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-06
+
+	**Créé par**:
+
+	  - Loi n°1804-03-06 promulguée le 16 mars 1804
+
+	**Cité par**:
+
+	  - Ordonnance n°2013-516 du 20 juin 2013 - art. 1 (VD)
+
+
+### Chapitre IV : Des obligations du vendeur
+
+#### Section 1 : Dispositions générales.
+
+###### Article 1602
+
+Le vendeur est tenu d'expliquer clairement ce à quoi il s'oblige.
+
+Tout pacte obscur ou ambigu s'interprète contre le vendeur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-06
+
+	**Créé par**:
+
+	  - Loi n°1804-03-06 promulguée le 16 mars 1804
+
+
+###### Article 1603
+
+Il a deux obligations principales, celle de délivrer et celle de garantir la chose qu'il vend.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-06
+
+	**Créé par**:
+
+	  - Loi n°1804-03-06 promulguée le 16 mars 1804
+
+
+#### Section 2 : De la délivrance.
+
+###### Article 1604
+
+La délivrance est le transport de la chose vendue en la puissance et possession de l'acheteur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-06
+
+	**Créé par**:
+
+	  - Loi n°1804-03-06 promulguée le 16 mars 1804
+
+
+###### Article 1605
+
+L'obligation de délivrer les immeubles est remplie de la part du vendeur lorsqu'il a remis les clefs, s'il s'agit d'un
+bâtiment, ou lorsqu'il a remis les titres de propriété.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-06
+
+	**Créé par**:
+
+	  - Loi n°1804-03-06 promulguée le 16 mars 1804
+
+
+###### Article 1606
+
+La délivrance des effets mobiliers s'opère :
+
+Ou par la tradition réelle,
+
+Ou par la remise des clefs des bâtiments qui les contiennent,
+
+Ou même par le seul consentement des parties, si le transport ne peut pas s'en faire au moment de la vente, ou si l'acheteur
+les avait déjà en son pouvoir à un autre titre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-06
+
+	**Créé par**:
+
+	  - Loi n°1804-03-06 promulguée le 16 mars 1804
+
+
+###### Article 1607
+
+La tradition des droits incorporels se fait, ou par la remise des titres, ou par l'usage que l'acquéreur en fait du
+consentement du vendeur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-06
+
+	**Créé par**:
+
+	  - Loi n°1804-03-06 promulguée le 16 mars 1804
+
+
+###### Article 1608
+
+Les frais de la délivrance sont à la charge du vendeur, et ceux de l'enlèvement à la charge de l'acheteur, s'il n'y a eu
+stipulation contraire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-06
+
+	**Créé par**:
+
+	  - Loi n°1804-03-06 promulguée le 16 mars 1804
+
+
+###### Article 1609
+
+La délivrance doit se faire au lieu où était, au temps de la vente, la chose qui en a fait l'objet, s'il n'en a été autrement
+convenu.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-06
+
+	**Créé par**:
+
+	  - Loi n°1804-03-06 promulguée le 16 mars 1804
+
+
+###### Article 1610
+
+Si le vendeur manque à faire la délivrance dans le temps convenu entre les parties, l'acquéreur pourra, à son choix, demander
+la résolution de la vente, ou sa mise en possession, si le retard ne vient que du fait du vendeur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-06
+
+	**Créé par**:
+
+	  - Loi n°1804-03-06 promulguée le 16 mars 1804
+
+
+###### Article 1611
+
+Dans tous les cas, le vendeur doit être condamné aux dommages et intérêts, s'il résulte un préjudice pour l'acquéreur, du
+défaut de délivrance au terme convenu.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-06
+
+	**Créé par**:
+
+	  - Loi n°1804-03-06 promulguée le 16 mars 1804
+
+
+###### Article 1612
+
+Le vendeur n'est pas tenu de délivrer la chose, si l'acheteur n'en paye pas le prix, et que le vendeur ne lui ait pas accordé
+un délai pour le paiement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-06
+
+	**Créé par**:
+
+	  - Loi n°1804-03-06 promulguée le 16 mars 1804
+
+
+###### Article 1613
+
+Il ne sera pas non plus obligé à la délivrance, quand même il aurait accordé un délai pour le paiement, si, depuis la vente,
+l'acheteur est tombé en faillite ou en état de déconfiture, en sorte que le vendeur se trouve en danger imminent de perdre le
+prix ; à moins que l'acheteur ne lui donne caution de payer au terme.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-06
+
+	**Créé par**:
+
+	  - Loi n°1804-03-06 promulguée le 16 mars 1804
+
+
+###### Article 1614
+
+La chose doit être délivrée en l'état où elle se trouve au moment de la vente.
+
+Depuis ce jour, tous les fruits appartiennent à l'acquéreur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-06
+
+	**Créé par**:
+
+	  - Loi n°1804-03-06 promulguée le 16 mars 1804
+
+
+###### Article 1615
+
+L'obligation de délivrer la chose comprend ses accessoires et tout ce qui a été destiné à son usage perpétuel.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-06
+
+	**Créé par**:
+
+	  - Loi n°1804-03-06 promulguée le 16 mars 1804
+
+
+###### Article 1616
+
+Le vendeur est tenu de délivrer la contenance telle qu'elle est portée au contrat, sous les modifications ci-après exprimées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-06
+
+	**Créé par**:
+
+	  - Loi n°1804-03-06 promulguée le 16 mars 1804
+
+
+###### Article 1617
+
+Si la vente d'un immeuble a été faite avec indication de la contenance, à raison de tant la mesure, le vendeur est obligé de
+délivrer à l'acquéreur, s'il l'exige, la quantité indiquée au contrat ;
+
+Et si la chose ne lui est pas possible, ou si l'acquéreur ne l'exige pas, le vendeur est obligé de souffrir une diminution
+proportionnelle du prix.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code civil - art. 1618 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-06
+
+	**Créé par**:
+
+	  - Loi n°1804-03-06 promulguée le 16 mars 1804
+
+
+###### Article 1618
+
+Si, au contraire, dans le cas de l'article précédent, il se trouve une contenance plus grande que celle exprimée au contrat,
+l'acquéreur a le choix de fournir le supplément du prix, ou de se désister du contrat, si l'excédent est d'un vingtième au-
+dessus de la contenance déclarée.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code civil - art. 1617 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-06
+
+	**Créé par**:
+
+	  - Loi n°1804-03-06 promulguée le 16 mars 1804
+
+
+###### Article 1619
+
+Dans tous les autres cas,
+
+Soit que la vente soit faite d'un corps certain et limité,
+
+Soit qu'elle ait pour objet des fonds distincts et séparés,
+
+Soit qu'elle commence par la mesure, ou par la désignation de l'objet vendu suivie de la mesure,
+
+L'expression de cette mesure ne donne lieu à aucun supplément de prix, en faveur du vendeur, pour l'excédent de mesure, ni en
+faveur de l'acquéreur, à aucune diminution du prix pour moindre mesure, qu'autant que la différence de la mesure réelle à
+celle exprimée au contrat est d'un vingtième en plus ou en moins, eu égard à la valeur de la totalité des objets vendus, s'il
+n'y a stipulation contraire.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code civil - art. 1620 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-06
+
+	**Créé par**:
+
+	  - Loi n°1804-03-06 promulguée le 16 mars 1804
+
+
+###### Article 1620
+
+Dans le cas où, suivant l'article précédent, il y a lieu à augmentation de prix pour excédent de mesure, l'acquéreur a le
+choix ou de se désister du contrat ou de fournir le supplément du prix, et ce, avec les intérêts s'il a gardé l'immeuble.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code civil - art. 1619 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-06
+
+	**Créé par**:
+
+	  - Loi n°1804-03-06 promulguée le 16 mars 1804
+
+
+###### Article 1621
+
+Dans tous les cas où l'acquéreur a le droit de se désister du contrat, le vendeur est tenu de lui restituer, outre le prix,
+s'il l'a reçu, les frais de ce contrat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-06
+
+	**Créé par**:
+
+	  - Loi n°1804-03-06 promulguée le 16 mars 1804
+
+
+###### Article 1622
+
+L'action en supplément de prix de la part du vendeur, et celle en diminution de prix ou en résiliation du contrat de la part
+de l'acquéreur, doivent être intentées dans l'année, à compter du jour du contrat, à peine de déchéance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-06
+
+	**Créé par**:
+
+	  - Loi n°1804-03-06 promulguée le 16 mars 1804
+
+
+###### Article 1623
+
+S'il a été vendu deux fonds par le même contrat, et pour un seul et même prix, avec désignation de la mesure de chacun, et
+qu'il se trouve moins de contenance en l'un et plus en l'autre, on fait compensation jusqu'à due concurrence ; et l'action,
+soit en supplément, soit en diminution du prix, n'a lieu que suivant les règles ci-dessus établies.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-06
+
+	**Créé par**:
+
+	  - Loi n°1804-03-06 promulguée le 16 mars 1804
+
+
+###### Article 1624
+
+La question de savoir sur lequel, du vendeur ou de l'acquéreur, doit tomber la perte ou la détérioration de la chose vendue
+avant la livraison, est jugée d'après les règles prescrites au titre "Des contrats ou des obligations conventionnelles en
+général".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-06
+
+	**Créé par**:
+
+	  - Loi n°1804-03-06 promulguée le 16 mars 1804
+
+
+#### Section 3 : De la garantie.
+
+###### Article 1625
+
+La garantie que le vendeur doit à l'acquéreur a deux objets : le premier est la possession paisible de la chose vendue ; le
+second, les défauts cachés de cette chose ou les vices rédhibitoires.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-06
+
+	**Créé par**:
+
+	  - Loi n°1804-03-06 promulguée le 16 mars 1804
+
+
+##### Paragraphe 1 : De la garantie en cas d'éviction.
+
+###### Article 1626
+
+Quoique lors de la vente il n'ait été fait aucune stipulation sur la garantie, le vendeur est obligé de droit à garantir
+l'acquéreur de l'éviction qu'il souffre dans la totalité ou partie de l'objet vendu, ou des charges prétendues sur cet objet,
+et non déclarées lors de la vente.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-06
+
+	**Créé par**:
+
+	  - Loi n°1804-03-06 promulguée le 16 mars 1804
+
+
+###### Article 1627
+
+Les parties peuvent, par des conventions particulières, ajouter à cette obligation de droit ou en diminuer l'effet ; elles
+peuvent même convenir que le vendeur ne sera soumis à aucune garantie.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-06
+
+	**Créé par**:
+
+	  - Loi n°1804-03-06 promulguée le 16 mars 1804
+
+
+###### Article 1628
+
+Quoiqu'il soit dit que le vendeur ne sera soumis à aucune garantie, il demeure cependant tenu de celle qui résulte d'un fait
+qui lui est personnel : toute convention contraire est nulle.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-06
+
+	**Créé par**:
+
+	  - Loi n°1804-03-06 promulguée le 16 mars 1804
+
+
+###### Article 1629
+
+Dans le même cas de stipulation de non-garantie, le vendeur, en cas d'éviction, est tenu à la restitution du prix, à moins
+que l'acquéreur n'ait connu lors de la vente le danger de l'éviction ou qu'il n'ait acheté à ses périls et risques.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-06
+
+	**Créé par**:
+
+	  - Loi n°1804-03-06 promulguée le 16 mars 1804
+
+
+###### Article 1630
+
+Lorsque la garantie a été promise, ou qu'il n'a rien été stipulé à ce sujet, si l'acquéreur est évincé, il a droit de
+demander contre le vendeur :
+
+1° La restitution du prix ;
+
+2° Celle des fruits, lorsqu'il est obligé de les rendre au propriétaire qui l'évince ;
+
+3° Les frais faits sur la demande en garantie de l'acheteur, et ceux faits par le demandeur originaire ;
+
+4° Enfin les dommages et intérêts, ainsi que les frais et loyaux coûts du contrat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-06
+
+	**Créé par**:
+
+	  - Loi n°1804-03-06 promulguée le 16 mars 1804
+
+
+###### Article 1631
+
+Lorsqu'à l'époque de l'éviction, la chose vendue se trouve diminuée de valeur, ou considérablement détériorée, soit par la
+négligence de l'acheteur, soit par des accidents de force majeure, le vendeur n'en est pas moins tenu de restituer la
+totalité du prix.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code civil - art. 1632 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-06
+
+	**Créé par**:
+
+	  - Loi n°1804-03-06 promulguée le 16 mars 1804
+
+
+###### Article 1632
+
+Mais si l'acquéreur a tiré profit des dégradations par lui faites, le vendeur a droit de retenir sur le prix une somme égale
+à ce profit.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°67-237 du 23 mars 1967 - art. 58 (Ab)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code civil - art. 1631 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-06
+
+	**Créé par**:
+
+	  - Loi n°1804-03-06 promulguée le 16 mars 1804
+
+
+###### Article 1633
+
+Si la chose vendue se trouve avoir augmenté de prix à l'époque de l'éviction, indépendamment même du fait de l'acquéreur, le
+vendeur est tenu de lui payer ce qu'elle vaut au-dessus du prix de la vente.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-06
+
+	**Créé par**:
+
+	  - Loi n°1804-03-06 promulguée le 16 mars 1804
+
+
+###### Article 1634
+
+Le vendeur est tenu de rembourser ou de faire rembourser à l'acquéreur, par celui qui l'évince, toutes les réparations et
+améliorations utiles qu'il aura faites au fonds.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-06
+
+	**Créé par**:
+
+	  - Loi n°1804-03-06 promulguée le 16 mars 1804
+
+
+###### Article 1635
+
+Si le vendeur avait vendu de mauvaise foi le fonds d'autrui, il sera obligé de rembourser à l'acquéreur toutes les dépenses,
+même voluptuaires ou d'agrément, que celui-ci aura faites au fonds.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-06
+
+	**Créé par**:
+
+	  - Loi n°1804-03-06 promulguée le 16 mars 1804
+
+
+###### Article 1636
+
+Si l'acquéreur n'est évincé que d'une partie de la chose, et qu'elle soit de telle conséquence, relativement au tout, que
+l'acquéreur n'eût point acheté sans la partie dont il a été évincé, il peut faire résilier la vente.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-06
+
+	**Créé par**:
+
+	  - Loi n°1804-03-06 promulguée le 16 mars 1804
+
+
+###### Article 1637
+
+Si, dans le cas de l'éviction d'une partie du fonds vendu, la vente n'est pas résiliée, la valeur de la partie dont
+l'acquéreur se trouve évincé lui est remboursée suivant l'estimation à l'époque de l'éviction, et non proportionnellement au
+prix total de la vente, soit que la chose vendue ait augmenté ou diminué de valeur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-06
+
+	**Créé par**:
+
+	  - Loi n°1804-03-06 promulguée le 16 mars 1804
+
+
+###### Article 1638
+
+Si l'héritage vendu se trouve grevé, sans qu'il en ait été fait de déclaration, de servitudes non apparentes, et qu'elles
+soient de telle importance qu'il y ait lieu de présumer que l'acquéreur n'aurait pas acheté s'il en avait été instruit, il
+peut demander la résiliation du contrat, si mieux il n'aime se contenter d'une indemnité.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-06
+
+	**Créé par**:
+
+	  - Loi n°1804-03-06 promulguée le 16 mars 1804
+
+
+###### Article 1639
+
+Les autres questions auxquelles peuvent donner lieu les dommages et intérêts résultant pour l'acquéreur de l'inexécution de
+la vente doivent être décidées suivant les règles générales établies au titre "Des contrats ou des obligations
+conventionnelles en général".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-06
+
+	**Créé par**:
+
+	  - Loi n°1804-03-06 promulguée le 16 mars 1804
+
+
+###### Article 1640
+
+La garantie pour cause d'éviction cesse lorsque l'acquéreur s'est laissé condamner par un jugement en dernier ressort, ou
+dont l'appel n'est plus recevable, sans appeler son vendeur, si celui-ci prouve qu'il existait des moyens suffisants pour
+faire rejeter la demande.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-06
+
+	**Créé par**:
+
+	  - Loi n°1804-03-06 promulguée le 16 mars 1804
+
+
+##### Paragraphe 2 : De la garantie des défauts de la chose vendue.
+
+###### Article 1641
+
+Le vendeur est tenu de la garantie à raison des défauts cachés de la chose vendue qui la rendent impropre à l'usage auquel on
+la destine, ou qui diminuent tellement cet usage que l'acheteur ne l'aurait pas acquise, ou n'en aurait donné qu'un moindre
+prix, s'il les avait connus.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°87-1045 du 22 décembre 1987 - art. Annexe (Ab)
+	  - Arrêté du 15 septembre 2003 - art. 17 (V)
+	  - Arrêté du 22 avril 2008 - art. 19 (V)
+	  - Loi n°2014-344 du 17 mars 2014 - art. 15 (V)
+	  - Arrêté du 18 décembre 2014 - art. 1 (V)
+	  - Arrêté du 18 décembre 2014 - art. 2 (V)
+	  - Arrêté du 18 décembre 2014 - art. 3 (V)
+	  - Code civil - art. 1644 (V)
+	  - Code de la consommation - art. L211-13 (VT)
+	  - Code de la consommation - art. L211-15 (VT)
+	  - Code de la consommation - art. L217-13 (VD)
+	  - Code de la consommation - art. L217-15 (VD)
+	  - Code de la consommation - art. R111-1 (Ab)
+	  - Code de la consommation - art. R111-1 (V)
+	  - Code rural ancien - art. 285 (Ab)
+	  - Code rural et de la pêche maritime - art. R213-1 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L211-1 (VT)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-06
+
+	**Créé par**:
+
+	  - Loi n°1804-03-06 promulguée le 16 mars 1804
+
+
+###### Article 1642
+
+Le vendeur n'est pas tenu des vices apparents et dont l'acheteur a pu se convaincre lui-même.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L211-1 (VT)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-06
+
+	**Créé par**:
+
+	  - Loi n°1804-03-06 promulguée le 16 mars 1804
+
+
+###### Article 1643
+
+Il est tenu des vices cachés, quand même il ne les aurait pas connus, à moins que, dans ce cas, il n'ait stipulé qu'il ne
+sera obligé à aucune garantie.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°99-471 du 8 juin 1999 - art. 8 (Ab)
+	  - Loi n°2003-8 du 3 janvier 2003 - art. 17 (VT)
+	  - Code civil - art. 1644 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L211-1 (VT)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-06
+
+	**Créé par**:
+
+	  - Loi n°1804-03-06 promulguée le 16 mars 1804
+
+
+###### Article 1644
+
+Dans le cas des articles 1641 et 1643, l'acheteur a le choix de rendre la chose et de se faire restituer le prix, ou de
+garder la chose et de se faire rendre une partie du prix, telle qu'elle sera arbitrée par experts.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°1935-06-29 du 29 juin 1935 - art. 13 (Ab)
+	  - Arrêté du 18 décembre 2014 - art. 3 (V)
+	  - Code de commerce - art. L141-3 (V)
+	  - Code rural - art. L213-7 (V)
+	  - Code rural - art. L913-7 (T)
+	  - Code rural ancien - art. 287 (Ab)
+
+	**Cite**:
+
+	  - Code civil - art. 1641 (V)
+	  - Code civil - art. 1643 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L211-1 (VT)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-06
+
+	**Créé par**:
+
+	  - Loi n°1804-03-06 promulguée le 16 mars 1804
+
+
+###### Article 1645
+
+Si le vendeur connaissait les vices de la chose, il est tenu, outre la restitution du prix qu'il en a reçu, de tous les
+dommages et intérêts envers l'acheteur.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°1935-06-29 du 29 juin 1935 - art. 13 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L211-1 (VT)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-06
+
+	**Créé par**:
+
+	  - Loi n°1804-03-06 promulguée le 16 mars 1804
+
+
+###### Article 1646
+
+Si le vendeur ignorait les vices de la chose, il ne sera tenu qu'à la restitution du prix, et à rembourser à l'acquéreur les
+frais occasionnés par la vente.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L211-1 (VT)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-06
+
+	**Créé par**:
+
+	  - Loi n°1804-03-06 promulguée le 16 mars 1804
+
+
+###### Article 1647
+
+Si la chose qui avait des vices a péri par suite de sa mauvaise qualité, la perte est pour le vendeur, qui sera tenu envers
+l'acheteur à la restitution du prix et aux autres dédommagements expliqués dans les deux articles précédents.
+
+Mais la perte arrivée par cas fortuit sera pour le compte de l'acheteur.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code de la consommation - art. L211-1 (VT)
+
+	**Cité par**:
+
+	  - Code rural - art. L213-3 (V)
+	  - Code rural - art. L913-3 (T)
+	  - Code rural ancien - art. 285-1 (Ab)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-06
+
+	**Créé par**:
+
+	  - Loi n°1804-03-06 promulguée le 16 mars 1804
+
+
+###### Article 1649
+
+Elle n'a pas lieu dans les ventes faites par autorité de justice.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-06
+
+	**Créé par**:
+
+	  - Loi n°1804-03-06 promulguée le 16 mars 1804
+
+
+### Chapitre V : Des obligations de l'acheteur.
+
+###### Article 1650
+
+La principale obligation de l'acheteur est de payer le prix au jour et au lieu réglés par la vente.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-06
+
+	**Créé par**:
+
+	  - Loi n°1804-03-06 promulguée le 16 mars 1804
+
+
+###### Article 1651
+
+S'il n'a rien été réglé à cet égard lors de la vente, l'acheteur doit payer au lieu et dans le temps où doit se faire la
+délivrance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-06
+
+	**Créé par**:
+
+	  - Loi n°1804-03-06 promulguée le 16 mars 1804
+
+
+###### Article 1652
+
+L'acheteur doit l'intérêt du prix de la vente jusqu'au paiement du capital, dans les trois cas suivants :
+
+S'il a été ainsi convenu lors de la vente ;
+
+Si la chose vendue et livrée produit des fruits ou autres revenus ;
+
+Si l'acheteur a été sommé de payer.
+
+Dans ce dernier cas, l'intérêt ne court que depuis la sommation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-06
+
+	**Créé par**:
+
+	  - Loi n°1804-03-06 promulguée le 16 mars 1804
+
+
+###### Article 1653
+
+Si l'acheteur est troublé ou a juste sujet de craindre d'être troublé par une action, soit hypothécaire, soit en
+revendication, il peut suspendre le paiement du prix jusqu'à ce que le vendeur ait fait cesser le trouble, si mieux n'aime
+celui-ci donner caution, ou à moins qu'il n'ait été stipulé que, nonobstant le trouble, l'acheteur paiera.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-06
+
+	**Créé par**:
+
+	  - Loi n°1804-03-06 promulguée le 16 mars 1804
+
+
+###### Article 1654
+
+Si l'acheteur ne paye pas le prix, le vendeur peut demander la résolution de la vente.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°1909-03-17 du 17 mars 1909 - art. 2 (Ab)
+	  - Code civil - art. 2108 (T)
+	  - Code civil - art. 2379 (V)
+	  - Code de commerce - art. L141-6 (V)
+	  - Code du domaine de l'Etat - art. D17-1 (Ab)
+	  - Code général de la propriété des personnes publ... - art. D3211-29 (V)
+	  - Code général des impôts, CGI. - art. 1961 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-06
+
+	**Créé par**:
+
+	  - Loi n°1804-03-06 promulguée le 16 mars 1804
+
+
+###### Article 1655
+
+La résolution de la vente d'immeubles est prononcée de suite si le vendeur est en danger de perdre la chose et le prix.
+
+Si ce danger n'existe pas, le juge peut accorder à l'acquéreur un délai plus ou moins long suivant les circonstances.
+
+Ce délai passé sans que l'acquéreur ait payé, la résolution de la vente sera prononcée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-06
+
+	**Créé par**:
+
+	  - Loi n°1804-03-06 promulguée le 16 mars 1804
+
+
+###### Article 1656
+
+S'il a été stipulé lors de la vente d'immeubles que, faute du paiement du prix dans le terme convenu, la vente serait résolue
+de plein droit, l'acquéreur peut néanmoins payer après l'expiration du délai, tant qu'il n'a pas été mis en demeure par une
+sommation ; mais, après cette sommation, le juge ne peut pas lui accorder ce délai.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-06
+
+	**Créé par**:
+
+	  - Loi n°1804-03-06 promulguée le 16 mars 1804
+
+
+###### Article 1657
+
+En matière de vente de denrées et effets mobiliers, la résolution de la vente aura lieu de plein droit et sans sommation, au
+profit du vendeur, après l'expiration du terme convenu pour le retirement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-06
+
+	**Créé par**:
+
+	  - Loi n°1804-03-06 promulguée le 16 mars 1804
+
+
+### Chapitre VI : De la nullité et de la résolution de la vente.
+
+###### Article 1658
+
+Indépendamment des causes de nullité ou de résolution déjà expliquées dans ce titre, et de celles qui sont communes à toutes
+les conventions, le contrat de vente peut être résolu par l'exercice de la faculté de rachat et par la vileté du prix.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-06
+
+	**Créé par**:
+
+	  - Loi n°1804-03-06 promulguée le 16 mars 1804
+
+
+#### Section 1 : De la faculté de rachat.
+
+###### Article 1659
+
+La faculté de rachat ou de réméré est un pacte par lequel le vendeur se réserve de reprendre la chose vendue, moyennant la
+restitution du prix principal et le remboursement dont il est parlé à l'article 1673.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°2009-1193 du 7 octobre 2009 - art. 4 (V)
+	  - Code général des impôts, CGI. - art. 1961 (V)
+
+	**Cite**:
+
+	  - Code civil - art. 1673 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-06
+
+	**Créé par**:
+
+	  - Loi n°1804-03-06 promulguée le 16 mars 1804
+
+
+###### Article 1660
+
+La faculté de rachat ne peut être stipulée pour un terme excédant cinq années.
+
+Si elle a été stipulée pour un terme plus long, elle est réduite à ce terme.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-06
+
+	**Créé par**:
+
+	  - Loi n°1804-03-06 promulguée le 16 mars 1804
+
+
+###### Article 1661
+
+Le terme fixé est de rigueur et ne peut être prolongé par le juge.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-06
+
+	**Créé par**:
+
+	  - Loi n°1804-03-06 promulguée le 16 mars 1804
+
+
+###### Article 1662
+
+Faute par le vendeur d'avoir exercé son action de réméré dans le terme prescrit, l'acquéreur demeure propriétaire
+irrévocable.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-06
+
+	**Créé par**:
+
+	  - Loi n°1804-03-06 promulguée le 16 mars 1804
+
+
+###### Article 1663
+
+Le délai court contre toutes personnes, même contre le mineur, sauf, s'il y a lieu, le recours contre qui de droit.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-06
+
+	**Créé par**:
+
+	  - Loi n°1804-03-06 promulguée le 16 mars 1804
+
+
+###### Article 1664
+
+Le vendeur à pacte de rachat peut exercer son action contre un second acquéreur, quand même la faculté de réméré n'aurait pas
+été déclarée dans le second contrat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-06
+
+	**Créé par**:
+
+	  - Loi n°1804-03-06 promulguée le 16 mars 1804
+
+
+###### Article 1665
+
+L'acquéreur à pacte de rachat exerce tous les droits de son vendeur ; il peut prescrire tant contre le véritable maître que
+contre ceux qui prétendraient des droits ou hypothèques sur la chose vendue.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-06
+
+	**Créé par**:
+
+	  - Loi n°1804-03-06 promulguée le 16 mars 1804
+
+
+###### Article 1666
+
+Il peut opposer le bénéfice de la discussion aux créanciers de son vendeur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-06
+
+	**Créé par**:
+
+	  - Loi n°1804-03-06 promulguée le 16 mars 1804
+
+
+###### Article 1667
+
+Si l'acquéreur à pacte de réméré d'une partie indivise d'un héritage s'est rendu adjudicataire de la totalité sur une
+licitation provoquée contre lui, il peut obliger le vendeur à retirer le tout lorsque celui-ci veut user du pacte.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-06
+
+	**Créé par**:
+
+	  - Loi n°1804-03-06 promulguée le 16 mars 1804
+
+
+###### Article 1668
+
+Si plusieurs ont vendu conjointement, et par un seul contrat, un héritage commun entre eux, chacun ne peut exercer l'action
+en réméré que pour la part qu'il y avait.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code civil - art. 1670 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-06
+
+	**Créé par**:
+
+	  - Loi n°1804-03-06 promulguée le 16 mars 1804
+
+
+###### Article 1669
+
+Il en est de même si celui qui a vendu seul un héritage a laissé plusieurs héritiers.
+
+Chacun de ces cohéritiers ne peut user de la faculté de rachat que pour la part qu'il prend pour la succession.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code civil - art. 1670 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-06
+
+	**Créé par**:
+
+	  - Loi n°1804-03-06 promulguée le 16 mars 1804
+
+
+###### Article 1670
+
+Mais, dans le cas des deux articles précédents, l'acquéreur peut exiger que tous les covendeurs ou tous les cohéritiers
+soient mis en cause, afin de se concilier entre eux pour la reprise de l'héritage entier ; et, s'ils ne se concilient pas, il
+sera renvoyé de la demande.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code civil - art. 1668 (V)
+	  - TXT_ASSOCIE: Code civil - art. 1669 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-06
+
+	**Créé par**:
+
+	  - Loi n°1804-03-06 promulguée le 16 mars 1804
+
+
+###### Article 1671
+
+Si la vente d'un héritage appartenant à plusieurs n'a pas été faite conjointement et de tout l'héritage ensemble, et que
+chacun n'ait vendu que la part qu'il y avait, ils peuvent exercer séparément l'action en réméré sur la portion qui leur
+appartenait ;
+
+Et l'acquéreur ne peut forcer celui qui l'exercera de cette manière à retirer le tout.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-06
+
+	**Créé par**:
+
+	  - Loi n°1804-03-06 promulguée le 16 mars 1804
+
+
+###### Article 1672
+
+Si l'acquéreur a laissé plusieurs héritiers, l'action en réméré ne peut être exercée contre chacun d'eux que pour sa part,
+dans le cas où elle est encore indivise, et dans celui où la chose vendue a été partagée entre eux.
+
+Mais s'il y a eu partage de l'hérédité et que la chose vendue soit échue au lot de l'un des héritiers, l'action en réméré
+peut être intentée contre lui pour le tout.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-06
+
+	**Créé par**:
+
+	  - Loi n°1804-03-06 promulguée le 16 mars 1804
+
+
+###### Article 1673
+
+Le vendeur qui use du pacte de rachat doit rembourser non seulement le prix principal, mais encore les frais et loyaux coûts
+de la vente, les réparations nécessaires, et celles qui ont augmenté la valeur du fonds, jusqu'à concurrence de cette
+augmentation. Il ne peut entrer en possession qu'après avoir satisfait à toutes ces obligations.
+
+Lorsque le vendeur rentre dans son héritage par l'effet du pacte de rachat, il le reprend, exempt de toutes les charges et
+hypothèques dont l'acquéreur l'aurait grevé, à la condition que ce pacte ait été régulièrement publié au bureau des
+hypothèques, antérieurement à la publication desdites charges et hypothèques. Il est tenu d'exécuter les baux faits sans
+fraude par l'acquéreur.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code civil - art. 1659 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-06
+
+	**Créé par**:
+
+	  - Loi n°1804-03-06 promulguée le 16 mars 1804
+
+
+#### Section 2 : De la rescision de la vente pour cause de lésion.
+
+###### Article 1674
+
+Si le vendeur a été lésé de plus de sept douzièmes dans le prix d'un immeuble, il a le droit de demander la rescision de la
+vente, quand même il aurait expressément renoncé dans le contrat à la faculté de demander cette rescision, et qu'il aurait
+déclaré donner la plus-value.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-06
+
+	**Créé par**:
+
+	  - Loi n°1804-03-06 promulguée le 16 mars 1804
+
+
+###### Article 1675
+
+Pour savoir s'il y a lésion de plus de sept douzièmes, il faut estimer l'immeuble suivant son état et sa valeur au moment de
+la vente.
+
+En cas de promesse de vente unilatérale, la lésion s'apprécie au jour de la réalisation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-06
+
+	**Créé par**:
+
+	  - Loi n°1804-03-06 promulguée le 16 mars 1804
+
+
+###### Article 1676
+
+La demande n'est plus recevable après l'expiration de deux années, à compter du jour de la vente.
+
+Ce délai court contre les femmes mariées et contre les absents, les majeurs en tutelle et les mineurs venant du chef d'un
+majeur qui a vendu.
+
+Ce délai court aussi et n'est pas suspendu pendant la durée du temps stipulé pour le pacte du rachat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-06
+
+	**Créé par**:
+
+	  - Loi n°1804-03-06 promulguée le 16 mars 1804
+
+
+###### Article 1677
+
+La preuve de la lésion ne pourra être admise que par jugement, et dans le cas seulement où les faits articulés seraient assez
+vraisemblables et assez graves pour faire présumer la lésion.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-06
+
+	**Créé par**:
+
+	  - Loi n°1804-03-06 promulguée le 16 mars 1804
+
+
+###### Article 1678
+
+Cette preuve ne pourra se faire que par un rapport de trois experts, qui seront tenus de dresser un seul procès-verbal
+commun, et de ne former qu'un seul avis à la pluralité des voix.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-06
+
+	**Créé par**:
+
+	  - Loi n°1804-03-06 promulguée le 16 mars 1804
+
+
+###### Article 1679
+
+S'il y a des avis différents, le procès-verbal en contiendra les motifs, sans qu'il soit permis de faire connaître de quel
+avis chaque expert a été.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-06
+
+	**Créé par**:
+
+	  - Loi n°1804-03-06 promulguée le 16 mars 1804
+
+
+###### Article 1680
+
+Les trois experts seront nommés d'office, à moins que les parties ne se soient accordées pour les nommer tous les trois
+conjointement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-06
+
+	**Créé par**:
+
+	  - Loi n°1804-03-06 promulguée le 16 mars 1804
+
+
+###### Article 1681
+
+Dans le cas où l'action en rescision est admise, l'acquéreur a le choix ou de rendre la chose en retirant le prix qu'il en a
+payé, ou de garder le fonds en payant le supplément du juste prix, sous la déduction du dixième du prix total.
+
+Le tiers possesseur a le même droit, sauf sa garantie contre son vendeur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-06
+
+	**Créé par**:
+
+	  - Loi n°1804-03-06 promulguée le 16 mars 1804
+
+
+###### Article 1682
+
+Si l'acquéreur préfère garder la chose en fournissant le supplément réglé par l'article précédent, il doit l'intérêt du
+supplément, du jour de la demande en rescision.
+
+S'il préfère la rendre et recevoir le prix, il rend les fruits du jour de la demande.
+
+L'intérêt du prix qu'il a payé lui est aussi compté du jour de la même demande, ou du jour du paiement, s'il n'a touché
+aucuns fruits.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-06
+
+	**Créé par**:
+
+	  - Loi n°1804-03-06 promulguée le 16 mars 1804
+
+
+###### Article 1683
+
+La rescision pour lésion n'a pas lieu en faveur de l'acheteur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-06
+
+	**Créé par**:
+
+	  - Loi n°1804-03-06 promulguée le 16 mars 1804
+
+
+###### Article 1684
+
+Elle n'a pas lieu en toutes ventes qui, d'après la loi, ne peuvent être faites que d'autorité de justice.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-06
+
+	**Créé par**:
+
+	  - Loi n°1804-03-06 promulguée le 16 mars 1804
+
+
+###### Article 1685
+
+Les règles expliquées dans la section précédente pour les cas où plusieurs ont vendu conjointement ou séparément, et pour
+celui où le vendeur ou l'acheteur a laissé plusieurs héritiers, sont pareillement observées pour l'exercice de l'action en
+rescision.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-06
+
+	**Créé par**:
+
+	  - Loi n°1804-03-06 promulguée le 16 mars 1804
+
+
+### Chapitre VII : De la licitation.
+
+###### Article 1686
+
+Si une chose commune à plusieurs ne peut être partagée commodément et sans perte ;
+
+Ou si, dans un partage fait de gré à gré de biens communs, il s'en trouve quelques-uns qu'aucun des copartageants ne puisse
+ou ne veuille prendre,
+
+La vente s'en fait aux enchères, et le prix en est partagé entre les copropriétaires.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°2017-862 du 9 mai 2017 - art. 2
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-06
+
+	**Créé par**:
+
+	  - Loi n°1804-03-06 promulguée le 16 mars 1804
+
+
+###### Article 1687
+
+Chacun des copropriétaires est le maître de demander que les étrangers soient appelés à la licitation : ils sont
+nécessairement appelés, lorsque l'un des copropriétaires est mineur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-06
+
+	**Créé par**:
+
+	  - Loi n°1804-03-06 promulguée le 16 mars 1804
+
+
+###### Article 1688
+
+Le mode et les formalités à observer pour la licitation sont expliqués au titre "Des successions" et au code de procédure.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-06
+
+	**Créé par**:
+
+	  - Loi n°1804-03-06 promulguée le 16 mars 1804
+
+
+### Chapitre VIII : Du transport des créances et autres droits incorporels.
+
+###### Article 1689
+
+Dans le transport d'une créance, d'un droit ou d'une action sur un tiers, la délivrance s'opère entre le cédant et le
+cessionnaire par la remise du titre.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code civil - art. 1701-1 (VD)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-06
+
+	**Créé par**:
+
+	  - Loi n°1804-03-06 promulguée le 16 mars 1804
+
+
+###### Article 1690
+
+Le cessionnaire n'est saisi à l'égard des tiers que par la signification du transport faite au débiteur.
+
+Néanmoins, le cessionnaire peut être également saisi par l'acceptation du transport faite par le débiteur dans un acte
+authentique.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°1889-02-19 du 19 février 1889 - art. 4 (V)
+	  - Décret n°49-1470 du 10 novembre 1949 - art. 3 (V)
+	  - Décret n°53-380 du 28 avril 1953 - art. 42 (V)
+	  - Loi n°66-537 du 24 juillet 1966 - art. 20 (Ab)
+	  - Loi n°66-879 du 29 novembre 1966 - art. 22 (Ab)
+	  - Décret n°67-18 du 5 janvier 1967 - art. 11 (M)
+	  - Décret n°69-763 du 24 juillet 1969 - art. 27 (M)
+	  - Décret n°69-810 du 12 août 1969 - art. 147 (Ab)
+	  - Décret n°69-1057 du 20 novembre 1969 - art. 27 (M)
+	  - Décret n°69-1274 du 31 décembre 1969 - art. 27 (M)
+	  - Décret n°71-688 du 11 août 1971 - art. 27 (Ab)
+	  - Décret n°71-689 du 11 août 1971 - art. 21 (Ab)
+	  - Décret n°72-698 du 26 juillet 1972 - art. 19 (Ab)
+	  - Décret n°76-73 du 15 janvier 1976 - art. 22 (V)
+	  - Loi n°76-519 du 15 juin 1976 - art. 12 (V)
+	  - Loi n°76-519 du 15 juin 1976 - art. 6 (V)
+	  - Décret n°77-636 du 14 juin 1977 - art. 26 (Ab)
+	  - Décret n°77-1480 du 28 décembre 1977 - art. 24 (V)
+	  - Loi n°78-13 du 4 janvier 1978 - art. 2 (V)
+	  - Décret n°78-326 du 15 mars 1978 - art. 25 (Ab)
+	  - Décret n°78-380 du 15 mars 1978 - art. 27 (V)
+	  - Décret n°78-906 du 24 août 1978 - art. 25 (Ab)
+	  - Décret n°79-949 du 9 novembre 1979 - art. 29 (Ab)
+	  - Décret n°81-509 du 12 mai 1981 - art. 29 (Ab)
+	  - Loi n°85-1321 du 14 décembre 1985 - art. 4 (V)
+	  - Décret n°86-636 du 14 mars 1986 - art. 22 (Ab)
+	  - Décret n°93-977 du 31 juillet 1993 - art. 6 (V)
+	  - Décret n°2016-230 du 26 février 2016 - art.
+	  - Code civil - art. 1865 (V)
+	  - Code civil - art. 1873-2 (V)
+	  - Code de commerce - art. L221-14 (V)
+	  - Code de commerce - art. L239-2 (V)
+	  - Code de commerce - art. R822-86 (V)
+	  - Code de commerce. - art. R822-124 (V)
+	  - Code de la construction et de l'habitation. - art. R*212-8 (V)
+	  - Code de la mutualité - art. L223-10 (VD)
+	  - Code de la mutualité - art. L223-16 (V)
+	  - Code de la santé publique - art. R4113-50 (V)
+	  - Code de la santé publique - art. R4381-53 (V)
+	  - Code de la santé publique - art. R4381-66 (T)
+	  - Code de la santé publique - art. R6212-24 (Ab)
+	  - Code des assurances - art. L132-15 (VD)
+	  - Code des assurances - art. L132-8 (VD)
+	  - Code des marchés publics - art. 201 ter (Ab)
+	  - Code forestier (nouveau) - art. L331-4 (VD)
+	  - Code forestier - art. L241-4 (VT)
+	  - Code monétaire et financier - art. L214-162-8 (V)
+	  - Code rural et de la pêche maritime - art. R173-21 (V)
+	  - Décret n°72-669 du 13 juillet 1972 - art. 26 (Ab)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-06
+
+	**Créé par**:
+
+	  - Loi n°1804-03-06 promulguée le 16 mars 1804
+
+
+###### Article 1691
+
+Si, avant que le cédant ou le cessionnaire eût signifié le transport au débiteur, celui-ci avait payé le cédant, il sera
+valablement libéré.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-06
+
+	**Créé par**:
+
+	  - Loi n°1804-03-06 promulguée le 16 mars 1804
+
+
+###### Article 1692
+
+La vente ou cession d'une créance comprend les accessoires de la créance, tels que caution, privilège et hypothèque.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°51-59 du 18 janvier 1951 - art. 6 (Ab)
+	  - Code de commerce - art. L525-6 (VT)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 5
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-06
+
+	**Créé par**:
+
+	  - Loi n°1804-03-06 promulguée le 16 mars 1804
+
+
+###### Article 1693
+
+Celui qui vend une créance ou autre droit incorporel doit en garantir l'existence au temps du transport, quoiqu'il soit fait
+sans garantie.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code civil - art. 1701-1 (VD)
+	  - Décret n°1852-02-28 du 28 février 1852 - art. 13 (Ab)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-06
+
+	**Créé par**:
+
+	  - Loi n°1804-03-06 promulguée le 16 mars 1804
+
+
+###### Article 1694
+
+Il ne répond de la solvabilité du débiteur que lorsqu'il s'y est engagé, et jusqu'à concurrence seulement du prix qu'il a
+retiré de la créance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-06
+
+	**Créé par**:
+
+	  - Loi n°1804-03-06 promulguée le 16 mars 1804
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 5
+
+
+###### Article 1695
+
+Lorsqu'il a promis la garantie de la solvabilité du débiteur, cette promesse ne s'entend que de la solvabilité actuelle, et
+ne s'étend pas au temps à venir, si le cédant ne l'a expressément stipulé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-06
+
+	**Créé par**:
+
+	  - Loi n°1804-03-06 promulguée le 16 mars 1804
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 5
+
+
+###### Article 1696
+
+Celui qui vend une hérédité sans en spécifier en détail les objets n'est tenu de garantir que sa qualité d'héritier.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-06
+
+	**Créé par**:
+
+	  - Loi n°1804-03-06 promulguée le 16 mars 1804
+
+
+###### Article 1697
+
+S'il avait déjà profité des fruits de quelque fonds, ou reçu le montant de quelque créance appartenant à cette hérédité, ou
+vendu quelques effets de la succession, il est tenu de les rembourser à l'acquéreur, s'il ne les a expressément réservés lors
+de la vente.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-06
+
+	**Créé par**:
+
+	  - Loi n°1804-03-06 promulguée le 16 mars 1804
+
+
+###### Article 1698
+
+L'acquéreur doit de son côté rembourser au vendeur ce que celui-ci a payé pour les dettes et charges de la succession, et lui
+faire raison de tout ce dont il était créancier, s'il n'y a stipulation contraire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-06
+
+	**Créé par**:
+
+	  - Loi n°1804-03-06 promulguée le 16 mars 1804
+
+
+###### Article 1699
+
+Celui contre lequel on a cédé un droit litigieux peut s'en faire tenir quitte par le cessionnaire, en lui remboursant le prix
+réel de la cession avec les frais et loyaux coûts, et avec les intérêts à compter du jour où le cessionnaire a payé le prix
+de la cession à lui faite.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-06
+
+	**Créé par**:
+
+	  - Loi n°1804-03-06 promulguée le 16 mars 1804
+
+	**Cité par**:
+
+	  - Code civil - art. 1701 (V)
+
+
+###### Article 1700
+
+La chose est censée litigieuse dès qu'il y a procès et contestation sur le fond du droit.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-06
+
+	**Créé par**:
+
+	  - Loi n°1804-03-06 promulguée le 16 mars 1804
+
+
+###### Article 1701
+
+La disposition portée en l'article 1699 cesse : 
+
+1° Dans le cas où la cession a été faite à un cohéritier ou copropriétaire du droit cédé ; 
+
+2° Lorsqu'elle a été faite à un créancier en paiement de ce qui lui est dû ; 
+
+3° Lorsqu'elle a été faite au possesseur de l'héritage sujet au droit litigieux.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code civil - art. 1699 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-06
+
+	**Créé par**:
+
+	  - Loi n°1804-03-06 promulguée le 16 mars 1804
 
 
 ## Titre XIV : Du cautionnement.

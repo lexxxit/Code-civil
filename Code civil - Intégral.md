@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1927-04-08
+Version Consolidée au 1927-07-17
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -1556,11 +1556,22 @@ peines édictées par l'article 363 du code pénal.
 	  - Loi n°1803-03-17 promulguée le 27 mars 1803
 
 
-###### Article 152
+###### Article 150
 
-(article abrogé).
+Si le père et la mère sont morts, ou s'ils sont dans l'impossibilité de manifester leur volonté, les aïeuls et aïeules les
+remplacent ; s'il y a dissentiment entre l'aïeul et l'aïeule de la même ligne, ou s'il y a dissentiment entre les deux
+lignes, ce partage emporte consentement.
+
+Si la résidence actuelle des père et mère est inconnue et s'ils n'ont pas donné de leurs nouvelles depuis un an, il pourra
+être procédé à la célébration du mariage si les aïeuls et aïeules ainsi que l'enfant lui-même en font la déclaration sous
+serment. Il en est de même si, un ou plusieurs aïeuls ou aïeules donnant leur consentement au mariage, la résidence actuelle
+des autres aïeuls ou aïeules est inconnue et s'ils n'ont pas donné de leurs nouvelles depuis un an.
 
 **Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code civil - art. 151 (V)
 
 	**Codifié par**:
 

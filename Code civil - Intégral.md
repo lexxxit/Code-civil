@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1900-04-10
+Version Consolidée au 1900-05-17
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -9697,6 +9697,63 @@ assujetti à aucune autre forme.
 
 
 #### Section 2 : Des règles particulières sur la forme de certains testaments.
+
+###### Article 981
+
+Les testaments des militaires, des marins de l'Etat et des personnes employées à la suite des armées pourront être reçus dans
+les cas et conditions prévus à l'article 93, soit par un officier supérieur ou médecin militaire d'un grade correspondant, en
+présence de deux témoins ; soit par deux fonctionnaires de l'intendance ou officiers du commissariat ; soit par un de ces
+fonctionnaires ou officiers en présence de deux témoins ; soit enfin, dans un détachement isolé, par l'officier commandant ce
+détachement, assisté de deux témoins, s'il n'existe pas dans le détachement d'officier supérieur ou médecin militaire d'un
+grade correspondant, de fonctionnaire de l'intendance ou d'officier du commissariat.
+
+Le testament de l'officier commandant un détachement isolé pourra être reçu par l'officier qui vient après lui dans l'ordre
+du service.
+
+La faculté de tester dans les conditions prévues au présent article s'étendra aux prisonniers chez l'ennemi.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code civil - art. 93 (M)
+
+	**Cité par**:
+
+	  - Code civil - art. 983 (V)
+	  - Code de la défense. - art. L4121-8 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 982
+
+Les testaments mentionnés à l'article précédent pourront encore, si le testateur est malade ou blessé, être reçus, dans les
+hôpitaux ou les formations sanitaires militaires, telles que les définissent les règlements de l'armée, par le médecin-chef,
+quel que soit son grade, assisté de l'officier d'administration gestionnaire.
+
+A défaut de cet officier d'administration, la présence de deux témoins sera nécessaire.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code civil - art. 983 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
 
 ###### Article 983
 

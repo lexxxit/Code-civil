@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1981-05-14
+Version Consolidée au 1981-12-31
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -48692,7 +48692,9 @@ forme de société adoptée.
 ###### Article 1844-5
 
 La réunion de toutes les parts sociales en une seule main n'entraîne pas la dissolution de plein droit de la société. Tout
-intéressé peut demander la dissolution de la société si la situation n'a pas été régularisée dans le délai d'un an.
+intéressé peut demander cette dissolution si la situation n'a pas été régularisée dans le délai d'un an. Le tribunal peut
+accorder à la société un délai maximal de six mois pour régulariser la situation. Il ne peut prononcer la dissolution si, au
+jour où il statue sur le fond, cette régularisation a eu lieu.
 
 L'appartenance de l'usufruit de toutes les parts sociales à la même personne est sans conséquence sur l'existence de la
 société.
@@ -48743,13 +48745,9 @@ société.
 
 	  - Loi n°78-9 1978-01-04
 
-	**Créé par**:
-
-	  - Loi n°78-9 1978-01-04 JORF 5 janvier 1978 rectificatif JORF 15 janvier, 12 mai 1978 en vigueur le 1er juillet 1978
-
 	**Liens**:
 
-	  - TXT_ASSOCIE: Code civil 1844-10 *nullité*
+	  - SPEC_APPLI: Loi n°81-1162 du 30 décembre 1981 - art. 33, v. init.
 
 
 ###### Article 1844-6

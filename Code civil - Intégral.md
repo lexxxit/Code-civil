@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1965-06-05
+Version Consolidée au 1965-06-15
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -2418,6 +2418,73 @@ dispositions contenues aux alinéas 3, 4 et 5 de l'article 149 sont applicables 
 	  - Code civil - art. 151 (V)
 
 
+###### Article 159
+
+S'il n'y a ni père, ni mère, ni aïeuls, ni aïeules, ou s'ils se trouvent tous dans l'impossibilité de manifester leur
+volonté, les mineurs de dix-huit ans ne peuvent contracter mariage sans le consentement du conseil de famille.
+
+L'enfant naturel qui n'a point été reconnu, et celui qui, après l'avoir été, a perdu ses père et mère ou dont les père et
+mère ne peuvent manifester leur volonté, ne pourront, avant l'âge de dix-huit ans révolus, se marier qu'après avoir obtenu le
+consentement du conseil de famille.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°1803-03-17 promulguée le 27 mars 1803
+
+	**Modifié par**:
+
+	  - Loi n°64-1230 du 14 décembre 1964 - art. 2 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°64-1230 du 14 décembre 1964 - art. 6 (V)
+	  - SPEC_APPLI: Loi n°64-1230 du 14 décembre 1964 - art. 7 (V)
+	  - SPEC_APPLI: Loi n°64-1230 du 14 décembre 1964 - art. 8 (V)
+
+	**Cité par**:
+
+	  - Ordonnance n°2010-590 du 3 juin 2010 - art. 9 (V)
+	  - Code civil - art. 151 (V)
+	  - Code civil - art. 174 (V)
+	  - Code civil - art. 73 (V)
+
+
+###### Article 160
+
+Si la résidence actuelle de ceux des ascendants du mineur de dix-huit ans dont le décès n'est pas établi est inconnue et si
+ces ascendants n'ont pas donné de leurs nouvelles depuis un an, le mineur en fera la déclaration sous serment devant le juge
+des tutelles de sa résidence, assisté de son greffier, dans son cabinet, et le juge des tutelles en donnera acte.
+
+Le juge des tutelles notifiera ce serment au conseil de famille, qui statuera sur la demande d'autorisation en mariage.
+Toutefois, le mineur pourra prêter directement serment en présence des membres du conseil de famille.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°1803-03-17 promulguée le 27 mars 1803
+
+	**Modifié par**:
+
+	  - Loi n°64-1230 du 14 décembre 1964 - art. 2 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°64-1230 du 14 décembre 1964 - art. 6 (V)
+	  - SPEC_APPLI: Loi n°64-1230 du 14 décembre 1964 - art. 7 (V)
+	  - SPEC_APPLI: Loi n°64-1230 du 14 décembre 1964 - art. 8 (V)
+
+
 ###### Article 161
 
 En ligne directe, le mariage est prohibé entre tous les ascendants et descendants légitimes ou naturels, et les alliés dans
@@ -3568,17 +3635,1471 @@ Le mariage se dissout :
 	  - Loi n°1803-03-17 promulguée le 27 mars 1803
 
 
+## Titre X : De la minorité et de l'émancipation
+
+### Chapitre Ier : De la minorité
+
+#### Section 1 : De l'administration légale
+
+###### Article 389-1
+
+L'administration légale est pure et simple quand le mineur est un enfant légitime dont les parents sont vivants, non divorcés
+ni séparés de corps et ne se trouvent pas dans un des cas prévus à l'article 373.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+
+	**Cite**:
+
+	  - Code civil - art. 373 (M)
+
+	**Cité par**:
+
+	  - Code civil - art. 383 (M)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 389-2
+
+Elle est placée sous le contrôle du juge des tutelles :
+
+1° Lorsque l'un ou l'autre des deux parents est décédé ou se trouve dans l'un des cas prévus à l'article 373 ;
+
+2° Lorsque les père et mère sont divorcés ou séparés de corps ;    3° Lorsque le mineur est un enfant naturel, qu'il ait été
+reconnu par un seul de ses parents ou par les deux.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+
+	**Cite**:
+
+	  - Code civil - art. 373 (M)
+
+	**Cité par**:
+
+	  - Code civil - art. 392 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 389-3
+
+L'administrateur légal représentera le mineur dans tous les actes civils, sauf les cas dans lesquels la loi ou l'usage
+autorise les mineurs à agir eux-mêmes.
+
+Quand ses intérêts sont en opposition avec ceux du mineur, il doit faire nommer un administrateur ad hoc par le juge des
+tutelles.
+
+Ne sont pas soumis à l'administration légale, les biens qui auraient été donnés ou légués au mineur sous la condition qu'ils
+seraient administrés par un tiers. Ce tiers administrateur aura les pouvoirs qui lui auront été conférés par la donation ou
+le testament ; à défaut, ceux d'un administrateur légal sous contrôle judiciaire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+
+	**Cité par**:
+
+	  - Décret n°2000-35 du 17 janvier 2000 - art. 1 (Ab)
+	  - Code civil - art. 317 (M)
+	  - Code civil - art. 388-2 (V)
+	  - Code de procédure civile - art. 1210-1 (M)
+	  - Code de procédure pénale - art. R93 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 389-5
+
+Dans l'administration légale pure et simple, l'administrateur accomplit avec le consentement de son conjoint les actes qu'un
+tuteur ne pourrait faire qu'avec l'autorisation du conseil de famille. Il doit, cependant, à peine de l'amende prévue au code
+de procédure civile, en donner avis sans formalité au juge des tutelles quinze jours au moins à l'avance.
+
+A défaut du consentement du conjoint, l'acte doit être autorisé par le juge des tutelles.
+
+Même du consentement de son conjoint, l'administrateur légal ne peut ni vendre de gré à gré, ni apporter en société un
+immeuble ou un fonds de commerce appartenant au mineur, ni contracter d'emprunt en son nom, ni renoncer pour lui à un droit,
+sans l'autorisation du juge des tutelles. La même autorisation est requise pour le partage amiable, et l'état liquidatif
+devra être homologué dans les conditions prévues à l'article 466.
+
+Si l'acte auquel il a consenti cause un préjudice au mineur, le conjoint de l'administrateur légal en sera responsable
+solidairement avec celui-ci.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+
+	**Cite**:
+
+	  - Code civil - art. 466 (M)
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 1230 (M)
+	  - Code de procédure civile - art. 1239-1 (M)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 389-7
+
+Les règles de la tutelle sont, pour le surplus, applicables à l'administration légale, avec les modalités résultant de ce que
+celle-ci ne comporte ni conseil de famille ni subrogé tuteur, et sans préjudicier, d'autre part, aux droits que les père et
+mère tiennent du titre "De l'autorité parentale", notamment quant à l'éducation de l'enfant et à l'usufruit de ses biens.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+
+
+#### Section 2 : De la tutelle
+
+##### Sous-section 1 : Des cas d'ouverture et de fin de la tutelle
+
+###### Article 390
+
+La tutelle s'ouvre lorsque le père et la mère sont tous deux décédés ou se trouvent dans l'un des cas prévus à l'article 373.
+
+Elle s'ouvre, aussi, à l'égard d'un enfant naturel, s'il n'a ni père ni mère qui l'aient volontairement reconnu.
+
+Il n'est pas dérogé aux lois particulières qui régissent le service de l'aide sociale à l'enfance.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+
+	**Cité par**:
+
+	  - Loi n°64-1230 du 14 décembre 1964 - art. 9 (V)
+	  - Code civil - art. 373-4 (M)
+	  - Code civil - art. 373-5 (V)
+	  - Code de l'action sociale et des familles - art. L122-2 (V)
+	  - Code de la famille et de l'aide sociale. - art. 193 (Ab)
+	  - Code de procédure civile - art. 1217 (V)
+
+	**Cite**:
+
+	  - Code civil - art. 373 (M)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 391
+
+Dans le cas de l'administration légale sous contrôle judiciaire, le juge des tutelles peut, à tout moment, soit d'office,
+soit à la requête de parents ou alliés ou du ministère public, décider d'ouvrir la tutelle après avoir entendu ou appelé,
+sauf urgence, l'administrateur légal. Celui-ci ne peut faire, à partir de la demande et jusqu'au jugement définitif, sauf le
+cas d'urgence, aucun acte qui requerrait l'autorisation du conseil de famille si la tutelle était ouverte.
+
+Le juge des tutelles peut aussi décider, mais seulement pour cause grave, d'ouvrir la tutelle dans le cas d'administration
+légale pure et simple.
+
+Dans l'un et l'autre cas, si la tutelle est ouverte, le juge des tutelles convoque le conseil de famille qui pourra soit
+nommer tuteur l'administrateur légal, soit désigner un autre tuteur.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code civil - art. 428 (VT)
+	  - Code de procédure civile - art. 1217 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+
+
+###### Article 392
+
+Si un enfant naturel vient à être reconnu par l'un de ses deux parents après l'ouverture de la tutelle, le juge des tutelles
+pourra, à la requête de ce parent, décider de substituer à la tutelle l'administration légale dans les termes de l'article
+389-2.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+
+	**Cite**:
+
+	  - Code civil - art. 389-2 (M)
+
+	**Cité par**:
+
+	  - Code civil - art. 393 (M)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
 ## Titre X : De la minorité, de la tutelle et de l'émancipation.
 
 ### Chapitre II : De la tutelle.
 
 #### Section 2 : De l'organisation de la tutelle.
 
+##### Paragraphe 1 : Du juge des tutelles.
+
+###### Article 393
+
+Les fonctions de juge des tutelles sont exercées par un juge appartenant au tribunal d'instance dans le ressort duquel le
+mineur a son domicile.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L322-1 (Ab)
+
+	**Cité par**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L322-1 (Ab)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 394
+
+Si le domicile du pupille est transporté dans un autre lieu, le tuteur en donne aussitôt avis au juge des tutelles
+antérieurement saisi. Celui-ci transmet le dossier de la tutelle au juge des tutelles du nouveau domicile. Mention de cette
+transmission sera conservée au greffe du tribunal d'instance.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+
+
+###### Article 395
+
+Le juge des tutelles exerce une surveillance générale sur les administrations légales et les tutelles de son ressort.
+
+Il peut convoquer les administrateurs légaux, tuteurs et autres organes tutélaires, leur réclamer des éclaircissements, leur
+adresser des observations, prononcer contre eux des injonctions.
+
+Il peut condamner à l'amende prévue au code de procédure civile ceux qui, sans excuse légitime, n'auront pas déféré à ses
+injonctions.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de procédure civile 1230
+
+	**Cité par**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L322-2 (Ab)
+	  - Code civil - art. 445 (V)
+	  - Code civil - art. 480 (VD)
+	  - Nouveau code de procédure civile - art. 1230 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 396
+
+Les formes de procéder devant le juge des tutelles seront réglées par le code de procédure civile.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 1234-2 (V)
+	  - Code de procédure civile - art. 1234-4 (V)
+	  - Code des pensions militaires d'invalidité et de... - art. L422-2 (VD)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
 ##### Paragraphe 2 : Du tuteur.
 
-###### Article 399
+###### Article 397
 
-(article abrogé).
+Le droit individuel de choisir un tuteur, parent ou non, n'appartient qu'au dernier mourant des père et mère, s'il a
+conservé, au jour de sa mort, l'exercice de l'administration légale ou de la tutelle.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+
+	**Cité par**:
+
+	  - Code civil - art. 445 (V)
+	  - Code de procédure civile - art. 1213 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 398
+
+Cette nomination ne peut être faite que dans la forme d'un testament ou d'une déclaration spéciale devant notaire.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+
+	**Cité par**:
+
+	  - Code civil - art. 456 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 401
+
+Le tuteur élu par le père ou la mère n'est pas tenu d'accepter la tutelle s'il n'est d'ailleurs dans la classe des personnes
+qu'à défaut de cette élection spéciale le conseil de famille eût pu en charger.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+
+	**Cité par**:
+
+	  - Code civil - art. 456 (V)
+
+
+###### Article 403
+
+En cas de concours entre ascendants du même degré, le conseil de famille désigne celui d'entre eux qui sera tuteur.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+
+	**Cité par**:
+
+	  - Code de la sécurité sociale. - art. L351-4 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 404
+
+S'il n'y a ni tuteur testamentaire ni ascendant tuteur ou si celui qui avait été désigné en cette qualité vient à cesser ses
+fonctions, un tuteur sera donné au mineur par le conseil de famille.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+
+
+###### Article 405
+
+Ce conseil sera convoqué par le juge des tutelles, soit d'office, soit sur la réquisition que lui en feront des parents ou
+alliés des père et mère, des créanciers ou autres parties intéressées, ou le ministère public. Toute personne pourra dénoncer
+au juge le fait qui donnera lieu à la nomination d'un tuteur.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+
+
+###### Article 406
+
+Le tuteur est désigné pour la durée de la tutelle.
+
+Le conseil de famille peut néanmoins pourvoir à son remplacement en cours de tutelle, si des circonstances graves le
+requièrent, sans préjudice des cas d'excuse, d'incapacité ou de destitution.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+
+	**Cité par**:
+
+	  - Décret du 26 mars 1910 - art. 11 (Ab)
+
+
+##### Paragraphe 3 : Du conseil de famille.
+
+###### Article 407
+
+Le conseil de famille est composé de quatre à six membres, y compté le subrogé tuteur, mais non le tuteur ni le juge des
+tutelles. 
+
+Le juge les désigne pour la durée de la tutelle. Il peut, néanmoins, sans préjudice des articles 428 et suivants, pourvoir
+d'office au remplacement d'un ou plusieurs membres en cours de tutelle afin de répondre à des changements qui auraient pu
+survenir dans la situation des parties.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+
+	**Cite**:
+
+	  - Code civil - art. 428 (VT)
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R443-36 (Ab)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 408
+
+Le juge des tutelles choisit les membres du conseil de famille parmi les parents ou alliés des père et mère du mineur, en
+appréciant toutes les circonstances du cas : la proximité du degré, le lieu de la résidence, l'âge et les aptitudes des
+intéressés.
+
+Il doit éviter, autant que possible, de laisser l'une des deux lignes sans représentation. Mais il a égard, avant tout, aux
+relations habituelles que le père et la mère avaient avec leurs différents parents ou alliés, ainsi qu'à l'intérêt que ces
+parents ou alliés ont porté ou paraissent pouvoir porter à la personne de l'enfant.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+
+
+###### Article 409
+
+Le juge des tutelles peut aussi appeler pour faire partie du conseil de famille, des amis, des voisins ou toutes autres
+personnes qui lui semblent pouvoir s'intéresser à l'enfant.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+
+
+###### Article 411
+
+La convocation doit être faite huit jours au moins avant la réunion.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. L222-5 (V)
+	  - Code de la construction et de l'habitation. - art. R443-38 (Ab)
+	  - Décret du 26 mars 1910 - art. 12 (Ab)
+
+
+###### Article 412
+
+Les membres du conseil de famille sont tenus de se rendre en personne à la réunion. Chacun peut, toutefois, se faire
+représenter par un parent ou allié des père et mère du mineur, si ce parent ou allié n'est pas déjà, en son propre nom,
+membre du conseil de famille. Le mari peut représenter la femme ou réciproquement.
+
+Les membres du conseil de famille qui, sans excuse légitime, ne seront ni présents ni valablement représentés, encourront
+l'amende prévue au code de procédure civile.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+
+	**Cité par**:
+
+	  - Ordonnance n°2012-1222 du 2 novembre 2012 - art. 4 (V)
+	  - Code civil - art. 386 (V)
+	  - Code de la construction et de l'habitation. - art. R443-38 (Ab)
+	  - Décret du 26 mars 1910 - art. 12 (Ab)
+	  - Nouveau code de procédure civile - art. 1230 (V)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de procédure civile 1230
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 413
+
+Si le juge des tutelles estime que la décision peut être prise sans que la tenue d'une séance soit nécessaire, il communique
+à chacun des membres du conseil le texte de la décision à prendre en y joignant les éclaircissements utiles.
+
+Chacun des membres émettra son vote par lettre missive dans le délai que le juge lui aura imparti ; faute de quoi, il
+encourra l'amende prévue au code de procédure civile.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de procédure civile 1230
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Cité par**:
+
+	  - Nouveau code de procédure civile - art. 1222 (V)
+	  - Nouveau code de procédure civile - art. 1230 (V)
+
+
+###### Article 414
+
+Le conseil de famille ne peut délibérer que si la moitié au moins de ses membres sont présents ou représentés. Si ce nombre
+n'est pas réuni, le juge peut soit ajourner la séance, soit, en cas d'urgence, prendre lui-même la décision.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. L311-4 (V)
+	  - Code de l'action sociale et des familles - art. L311-4-1 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 415
+
+Le conseil de famille est présidé par le juge des tutelles, qui aura voix délibérative et prépondérante en cas de partage.
+
+Le tuteur doit assister à la séance ; il y est entendu mais ne vote pas, non plus que le subrogé tuteur dans le cas où il
+remplace le tuteur.
+
+Le mineur âgé de seize ans révolus peut, si le juge l'estime utile, assister à la séance à titre consultatif. Il y est
+obligatoirement convoqué, quand le conseil a été réuni à sa réquisition.
+
+En aucun cas, son assentiment à un acte ne décharge le tuteur et les autres organes de la tutelle de leurs responsabilités.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. Annexe 4-3 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 416
+
+Les délibérations du conseil de famille sont nulles lorsqu'elles ont été surprises par dol ou fraude, ou que des formalités
+substantielles ont été omises. 
+
+La nullité est couverte par une nouvelle délibération valant confirmation selon l'article 1338.
+
+L'action en nullité peut être exercée par le tuteur, le subrogé tuteur, les membres du conseil de famille ou par le ministère
+public, dans les deux années de la délibération, ainsi que par le pupille devenu majeur ou émancipé, dans les deux années de
+sa majorité ou de son émancipation. La prescription ne court pas s'il y a eu dol ou fraude, jusqu'à ce que le fait ait été
+découvert. 
+
+Les actes accomplis en vertu d'une délibération annulée sont eux-mêmes annulables de la même manière. Le délai courra,
+toutefois, de l'acte et non de la délibération.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+
+	**Cite**:
+
+	  - Code civil - art. 1338 (V)
+
+	**Cité par**:
+
+	  - Code civil - art. 494 (V)
+	  - Code de l'action sociale et des familles - art. L472-10 (V)
+	  - Code de l'action sociale et des familles - art. L554-6 (V)
+	  - Code de l'action sociale et des familles - art. L564-6 (V)
+	  - Code de l'action sociale et des familles - art. L574-6 (V)
+	  - Code de procédure civile - art. 1212 (V)
+
+
+##### Paragraphe 4 : Des autres organes de la tutelle.
+
+###### Article 417
+
+Le conseil de famille peut, en considérant les aptitudes des intéressés et la consistance du patrimoine à administrer,
+décider que la tutelle sera divisée entre un tuteur à la personne et un tuteur aux biens, ou que la gestion de certains biens
+particuliers sera confiée à un tuteur adjoint.
+
+Les tuteurs ainsi nommés seront indépendants, et non responsables l'un envers l'autre, dans leurs fonctions respectives, à
+moins qu'il n'en ait été autrement ordonné par le conseil de famille.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 1213 (V)
+	  - Code de procédure civile - art. 1216 (V)
+
+
+###### Article 418
+
+La tutelle est une charge personnelle.
+
+Elle ne se communique point au conjoint du tuteur. Si, pourtant, ce conjoint s'immisce dans la gestion du patrimoine
+pupillaire, il devient responsable solidairement avec le tuteur de toute la gestion postérieure à son immixtion.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+
+
+###### Article 419
+
+La tutelle ne passe point aux héritiers du tuteur. Ceux-ci seront seulement responsables de la gestion de leur auteur ; et,
+s'ils sont majeurs, ils seront tenus à la continuer jusqu'à la nomination d'un nouveau tuteur.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+
+	**Cité par**:
+
+	  - Décret n°2008-1554 du 31 décembre 2008 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 420
+
+Dans toute tutelle, il y aura un subrogé tuteur, nommé par le conseil de famille parmi ses membres.
+
+Les fonctions du subrogé tuteur consisteront à surveiller la gestion tutélaire et à représenter le mineur lorsque ses
+intérêts seront en opposition avec ceux du tuteur.
+
+S'il constate des fautes dans la gestion du tuteur, il doit, à peine d'engager sa responsabilité personnelle, en informer
+immédiatement le juge des tutelles.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+
+
+###### Article 421
+
+Si le tuteur s'est ingéré dans la gestion avant la nomination du subrogé tuteur, il pourra, s'il y a eu fraude de sa part,
+être destitué de la tutelle, sans préjudice des indemnités dues au mineur.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+
+
+###### Article 423
+
+Si le tuteur n'est parent ou allié du mineur que dans une ligne, le subrogé tuteur est pris, autant que possible, dans
+l'autre ligne.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+
+
+###### Article 424
+
+Le subrogé tuteur ne remplace pas de plein droit le tuteur qui est mort ou est devenu incapable, ou qui abandonne la
+tutelle ; mais il doit alors, sous peine des dommages-intérêts qui pourraient en résulter pour le mineur, provoquer la
+nomination d'un nouveau tuteur.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+
+
+###### Article 425
+
+La charge du subrogé tuteur cessera à la même époque que celle du tuteur.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+
+	**Cité par**:
+
+	  - Arrêté du 23 décembre 2009 - art. Annexe (V)
+	  - Décret n°2016-914 du 4 juillet 2016 - art. 1
+	  - Code civil - art. 1146 (V)
+	  - Code civil - art. 433 (V)
+	  - Code civil - art. 440 (V)
+	  - Code civil - art. 441 (V)
+	  - Code civil - art. 442 (V)
+	  - Code civil - art. 477 (VD)
+	  - Code civil - art. 481 (V)
+	  - Code civil - art. 483 (V)
+	  - Code de la santé publique - art. L3211-6 (V)
+	  - Code de la santé publique - art. L3211-8 (VD)
+	  - Code de la santé publique - art. R1111-26 (V)
+	  - Code de la sécurité intérieure - art. R312-21 (VD)
+	  - Code de la sécurité intérieure - art. R312-70 (VD)
+	  - Code de la sécurité intérieure - art. R313-6 (VD)
+	  - Code de procédure civile - art. 1046-1 (V)
+	  - Code de procédure civile - art. 1047 (V)
+	  - Code de procédure civile - art. 1258 (V)
+	  - Code de procédure civile - art. 1258-1 (V)
+	  - Code de procédure civile - art. 1259 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 426
+
+Le tuteur ne pourra provoquer la destitution du subrogé tuteur ni voter dans les conseils de famille qui seront convoqués
+pour cet objet.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+
+	**Cité par**:
+
+	  - Décret n°2008-1484 du 22 décembre 2008 - art. Annexe 1 (V)
+	  - Arrêté du 2 janvier 2009 - art. (V)
+	  - Code civil - art. 431-1 (Ab)
+	  - Code de l'action sociale et des familles - art. Annexe 4-3 (V)
+	  - Code de procédure civile - art. 1256 (V)
+	  - Code de procédure pénale - art. R217-1 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+##### Paragraphe 5 : Des charges tutélaires.
+
+###### Article 427
+
+La tutelle, protection due à l'enfant, est une charge publique.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+
+	**Cité par**:
+
+	  - Décret n°2008-1484 du 22 décembre 2008 - art. Annexe 1 (V)
+	  - Décret n°2012-663 du 4 mai 2012 (V)
+	  - Décret n°2012-663 du 4 mai 2012 - art. 12 (V)
+	  - Code civil - art. 494-7 (VD)
+	  - Code de l'action sociale et des familles - art. Annexe 4-3 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 428
+
+Peuvent être dispensés de la tutelle, excepté les père et mère dans le cas de l'article 391, ceux à qui l'âge, la maladie,
+l'éloignement, des occupations professionnelles ou familiales exceptionnellement absorbantes ou une tutelle antérieure
+rendraient particulièrement lourde cette nouvelle charge.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+
+	**Cité par**:
+
+	  - Code civil - art. 1055 (M)
+	  - Code civil - art. 407 (VT)
+	  - Code civil - art. 429 (AbD)
+	  - Code de l'action sociale et des familles - art. R215-15 (V)
+	  - Code de procédure civile - art. 1218 (V)
+
+	**Cite**:
+
+	  - Code civil - art. 391 (VT)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 429
+
+Hormis les père et mère, peuvent être déchargés de la tutelle ceux qui ne peuvent continuer à s'en acquitter en raison de
+l'une des causes prévues par l'article précédent, si elle est survenue depuis la nomination.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+
+	**Cite**:
+
+	  - Code civil - art. 428 (AbD)
+
+	**Cité par**:
+
+	  - Code civil - art. 494-3 (VD)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 432
+
+Celui qui n'était ni parent ni allié des père et mère du mineur ne peut être forcé d'accepter la tutelle.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+
+	**Cité par**:
+
+	  - Code civil - art. 2502 (V)
+	  - Code civil - art. 433 (V)
+	  - Code civil - art. 442 (M)
+	  - Code civil - art. 494-4 (VD)
+	  - Code de procédure civile - art. 1220-2 (V)
+	  - Code de procédure civile - art. 1226 (V)
+	  - Code de procédure civile - art. 1232 (Ab)
+	  - Code de procédure civile - art. 1245 (V)
+	  - Code de procédure civile - art. 1256 (V)
+	  - Code de procédure civile - art. 1260-5 (V)
+	  - Code de procédure pénale - art. R217-1 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 433
+
+Si la tutelle reste vacante, le juge des tutelles la défère à l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+
+	**Cité par**:
+
+	  - Loi n°64-1230 du 14 décembre 1964 - art. 17 (V)
+	  - Décret n°74-930 du 6 novembre 1974 - art. 1 (V)
+	  - Arrêté du 22 septembre 1989 - art. 1 (Ab)
+	  - Arrêté du 15 janvier 1990 - art. 1 (V)
+	  - Code civil - art. 2502 (V)
+	  - Code civil - art. 439 (V)
+	  - Code civil - art. 473 (VT)
+	  - Code de l'action sociale et des familles - art. L222-5 (V)
+	  - Code de l'action sociale et des familles - art. L228-3 (V)
+	  - Code de la famille et de l'aide sociale. - art. 46 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 49 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 85 (Ab)
+	  - Code de procédure civile - art. 1249 (V)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°74-930 du 6 novembre 1974
+	  - TXT_SOURCE: Décret n°74-930 du 6 novembre 1974 - art. 1 (V)
+	  - TXT_SOURCE: Décret n°74-930 du 6 novembre 1974 - art. 10 (V)
+	  - TXT_SOURCE: Décret n°74-930 du 6 novembre 1974 - art. 11 (Ab)
+	  - TXT_SOURCE: Décret n°74-930 du 6 novembre 1974 - art. 12 (V)
+	  - TXT_SOURCE: Décret n°74-930 du 6 novembre 1974 - art. 12-1 (V)
+	  - TXT_SOURCE: Décret n°74-930 du 6 novembre 1974 - art. 12-2 (Ab)
+	  - TXT_SOURCE: Décret n°74-930 du 6 novembre 1974 - art. 12-3 (V)
+	  - TXT_SOURCE: Décret n°74-930 du 6 novembre 1974 - art. 14 (V)
+	  - TXT_SOURCE: Décret n°74-930 du 6 novembre 1974 - art. 2 (V)
+	  - TXT_SOURCE: Décret n°74-930 du 6 novembre 1974 - art. 3 (V)
+	  - TXT_SOURCE: Décret n°74-930 du 6 novembre 1974 - art. 4 (V)
+	  - TXT_SOURCE: Décret n°74-930 du 6 novembre 1974 - art. 5 (V)
+	  - TXT_SOURCE: Décret n°74-930 du 6 novembre 1974 - art. 6 (V)
+	  - TXT_SOURCE: Décret n°74-930 du 6 novembre 1974 - art. 7 (V)
+	  - TXT_SOURCE: Décret n°74-930 du 6 novembre 1974 - art. 8 (V)
+	  - TXT_SOURCE: Décret n°74-930 du 6 novembre 1974 - art. 9 (V)
+	  - TXT_SOURCE: Arrêté du 22 août 1988
+	  - TXT_SOURCE: Arrêté du 22 août 1988 - art. 2 (V)
+	  - TXT_SOURCE: Arrêté du 22 septembre 1989
+	  - TXT_SOURCE: Arrêté du 22 septembre 1989 - art. 1 (Ab)
+	  - TXT_SOURCE: Arrêté du 22 septembre 1989 - art. 2 (Ab)
+	  - TXT_SOURCE: Arrêté du 22 septembre 1989 - art. 3 (Ab)
+	  - TXT_SOURCE: Arrêté du 22 septembre 1989 - art. 4 (Ab)
+	  - TXT_SOURCE: Arrêté du 22 septembre 1989 - art. 5 (Ab)
+	  - TXT_SOURCE: Arrêté du 15 janvier 1990
+	  - TXT_SOURCE: Arrêté du 15 janvier 1990 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 15 janvier 1990 - art. 2 (V)
+	  - TXT_SOURCE: Arrêté du 15 janvier 1990 - art. 3 (V)
+	  - TXT_SOURCE: Arrêté du 15 janvier 1990 - art. 4 (V)
+	  - TXT_SOURCE: Arrêté du 15 janvier 1990 - art. 5 (V)
+	  - TXT_SOURCE: Arrêté du 15 janvier 1990 - art. 6 (V)
+	  - TXT_SOURCE: Arrêté du 23 avril 1998
+	  - TXT_SOURCE: Arrêté du 23 avril 1998 - art. 1 ()
+	  - TXT_SOURCE: Arrêté du 23 avril 1998 - art. 2 ()
+	  - TXT_SOURCE: Arrêté du 23 avril 1998 - art. 3 ()
+	  - TXT_SOURCE: Arrêté du 23 avril 1998 - art. 4 ()
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 434
+
+Les excuses qui dispensent ou déchargent de la tutelle peuvent être étendues au subrogé tuteur, et même aux membres du
+conseil de famille, mais seulement suivant la gravité de la cause.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+
+	**Cité par**:
+
+	  - Code civil - art. 439 (V)
+
+
+###### Article 437
+
+Le conseil de famille statue sur les excuses du tuteur et du subrogé tuteur ; le juge des tutelles, sur les excuses proposées
+par les membres du conseil de famille.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+
+	**Cité par**:
+
+	  - Décret n°67-223 du 17 mars 1967 - art. 32 (V)
+	  - Code civil - art. 435 (VD)
+	  - Code de l'action sociale et des familles - art. R472-8 (V)
+	  - Code de procédure civile - art. 1250 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 438
+
+Si le tuteur nommé est présent à la délibération qui lui défère la tutelle, il devra sur-le-champ, et sous peine d'être
+déclaré non recevable dans toutes réclamations ultérieures, proposer ses excuses sur lesquelles le conseil de famille
+délibérera.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code civil - art. 439 (AbD)
+
+
+###### Article 439
+
+S'il n'était pas présent, il devra, dans les huit jours de la notification qu'il aura reçue de sa nomination, faire convoquer
+le conseil de famille pour délibérer sur ses excuses.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code civil - art. 438 (AbD)
+
+
+###### Article 440
+
+Si ses excuses sont rejetées, il pourra se pourvoir devant le tribunal de grande instance pour les faire admettre ; mais il
+sera, pendant le litige, tenu d'administrer provisoirement.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+
+	**Cité par**:
+
+	  - Décret n°95-589 du 6 mai 1995 - art. 5-3 (VT)
+	  - Décret n°95-589 du 6 mai 1995 - art. 71-2 (VT)
+	  - Décret n°95-589 du 6 mai 1995 - art. 9 (VT)
+	  - Décret n°2009-450 du 21 avril 2009 - art. 26 (VT)
+	  - Décret n°2009-450 du 21 avril 2009 - art. 5-3 (VT)
+	  - Décret n°2009-450 du 21 avril 2009 - art. 87 (VT)
+	  - Décret n°2009-451 du 21 avril 2009 - art. 26 (VT)
+	  - Décret n°2009-451 du 21 avril 2009 - art. 5-3 (VT)
+	  - Décret n°2009-451 du 21 avril 2009 - art. 87 (VT)
+	  - Décret n°2013-700 du 30 juillet 2013 - art. 75 (Ab)
+	  - Décret n°2017-909 du 9 mai 2017 - art. 11
+	  - Décret n°2017-909 du 9 mai 2017 - art. 5
+	  - Code de commerce - art. R123-69 (V)
+	  - Code de commerce. - art. R123-46 (V)
+	  - Code de la défense. - art. R2332-6 (V)
+	  - Code de la santé publique - art. L3211-8 (VD)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 441
+
+Les différentes charges de la tutelle peuvent être remplies par toutes personnes, sans distinction de sexe, mais sous réserve
+des causes d'incapacité, exclusion, destitution ou récusation exprimées ci-dessous.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+
+	**Cité par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 45 (V)
+
+
+###### Article 442
+
+Sont incapables des différentes charges de la tutelle :
+
+1° Les mineurs, excepté le père ou la mère ;
+
+2° Les majeurs en tutelle, les aliénés et les majeurs en curatelle.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+
+	**Cité par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 45 (VD)
+	  - Code civil - art. 439 (V)
+	  - Code de procédure civile - art. 1217 (V)
+	  - Code de procédure civile - art. 1228 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 443
+
+Sont exclus ou destitués de plein droit des différentes charges de la tutelle :
+
+1° Ceux qui ont été condamnés à une peine afflictive ou infamante ou à qui l'exercice des charges tutélaires a été interdit
+par application de l'article 42 du code pénal.
+
+Ils pourront, toutefois, être admis à la tutelle de leurs propres enfants, sur avis conforme du conseil de famille.
+
+2° Ceux qui ont été déchus de l'autorité parentale.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code pénal 42
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+
+
+###### Article 444
+
+Peuvent être exclus ou destitués des différentes charges de la tutelle les gens d'une inconduite notoire et ceux dont
+l'improbité, la négligence habituelle ou l'inaptitude aux affaires aurait été constatée.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+
+	**Cité par**:
+
+	  - Code civil - art. 494-6 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 446
+
+Si un membre du conseil de famille est passible d'exclusion, de destitution ou de récusation, le juge des tutelles prononcera
+lui-même, soit d'office, soit à la réquisition du tuteur, du subrogé tuteur, ou du ministère public.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 
 **Liens relatifs à cet article**
 
@@ -3592,260 +5113,294 @@ Le mariage se dissout :
 
 	**Créé par**:
 
-	  - Loi n°1803-03-26 promulguée le 5 avril 1803
-
-	**Abrogé par**:
-
 	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
 
 
-###### Article 400
+###### Article 447
 
-(article abrogé).
+Si la cause d'exclusion, de destitution ou récusation concerne le tuteur ou le subrogé tuteur, le conseil de famille
+prononcera. Il sera convoqué par le juge des tutelles soit d'office, soit sur la réquisition qu'en feront les personnes
+mentionnées à l'article 410 ou le ministère public.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
 
 	**Créé par**:
-
-	  - Loi n°1803-03-26 promulguée le 5 avril 1803
-
-	**Abrogé par**:
-
-	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
-
-
-##### Paragraphe 4 : Des autres organes de la tutelle.
-
-###### Article 422
-
-(article abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°1803-03-26 promulguée le 5 avril 1803
-
-	**Abrogé par**:
-
-	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
-
-	**Cité par**:
-
-	  - Ordonnance n°2012-1222 du 2 novembre 2012 - art. 4 (V)
-
-
-##### Paragraphe 5 : Des charges tutélaires.
-
-###### Article 430
-
-(article abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°1803-03-26 promulguée le 5 avril 1805
-
-	**Abrogé par**:
-
-	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
-
-	**Cité par**:
-
-	  - Code civil - art. 442 (V)
-	  - Code de procédure civile - art. 1218-1 (V)
-	  - Code de procédure civile - art. 1220-4 (V)
-	  - Code de procédure civile - art. 1222 (V)
-	  - Code de procédure civile - art. 1239 (V)
-	  - Code de procédure civile - art. 1251-1 (V)
-
-
-###### Article 431
-
-(article abrogé).
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
-
-	**Cité par**:
-
-	  - Arrêté du 23 décembre 2009 - art. Annexe (V)
-	  - Code civil - art. 426 (M)
-	  - Code civil - art. 431-1 (Ab)
-	  - Code civil - art. 432 (V)
-	  - Code civil - art. 441 (V)
-	  - Code civil - art. 442 (V)
-	  - Code civil - art. 481 (V)
-	  - Code civil - art. 494-4 (VD)
-	  - Code civil - art. 494-6 (V)
-	  - Code de procédure civile - art. 1218 (V)
-	  - Code de procédure civile - art. 1219 (V)
-	  - Code de procédure civile - art. 1256 (V)
-	  - Code de procédure civile - art. 1258 (V)
-	  - Code de procédure civile - art. 1258-1 (V)
-	  - Code de procédure civile - art. 1259 (V)
-	  - Code de procédure civile - art. 1260-3 (V)
-	  - Code de procédure pénale - art. D47-24 (V)
-	  - Code de procédure pénale - art. R217-1 (V)
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°1803-03-26 promulguée le 5 avril 1805
-
-
-###### Article 435
-
-(article abrogé).
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
-
-	**Cité par**:
-
-	  - Code civil - art. 1150 (V)
-	  - Code civil - art. 437 (V)
-	  - Code civil - art. 465 (V)
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°1803-03-26 promulguée le 5 avril 1803
-
-
-###### Article 436
-
-(article abrogé).
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
-
-	**Cité par**:
-
-	  - Code civil - art. 437 (V)
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°1803-03-26 promulguée le 5 avril 1803
-
-
-### Chapitre III : De l'émancipation.
-
-###### Article 483
-
-(article abrogé).
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
-
-	**Cité par**:
-
-	  - Code de procédure civile - art. 1213 (V)
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°1803-03-26 promulguée le 5 avril 1803
-
-
-###### Article 484
-
-(article abrogé).
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
-
-	**Cité par**:
-
-	  - Code de procédure civile - art. 1213 (V)
-	  - Code de procédure civile - art. 1259-3 (V)
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°1803-03-26 promulguée le 5 avril 1803
-
-
-###### Article 485
-
-(article abrogé).
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
 
 	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
 
 	**Cité par**:
 
 	  - Décret n°67-223 du 17 mars 1967 - art. 32 (V)
-	  - Code de procédure civile - art. 1217 (V)
-	  - Code de procédure civile - art. 1259-5 (V)
+
+	**Cite**:
+
+	  - Code civil - art. 410 (VT)
 
 	**Codifié par**:
 
 	  - Loi n°1803-03-14
 
+
+###### Article 448
+
+Le tuteur ou le subrogé tuteur ne pourra être exclu, destitué ou récusé qu'après avoir été entendu ou appelé.
+
+S'il adhère à la délibération, mention en sera faite, et le nouveau tuteur ou subrogé tuteur entrera aussitôt en fonctions.
+
+S'il n'y adhère pas, il lui sera loisible de faire opposition suivant les règles fixées par le code de procédure civile ;
+mais le juge des tutelles pourra, s'il estime qu'il y a urgence, prescrire séance tenante des mesures provisoires dans
+l'intérêt du mineur.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+
+**Liens relatifs à cet article**
+
 	**Créé par**:
 
-	  - Loi n°1803-03-26 promulguée le 5 avril 1803
+	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+
+	**Cité par**:
+
+	  - Code civil - art. 437 (V)
+	  - Code civil - art. 449 (V)
+	  - Code de procédure civile - art. 1255 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
 
 
-###### Article 486
+#### Section 2 : De l'organisation de la tutelle.
 
-(article abrogé).
+##### Paragraphe 2 : Du tuteur.
+
+###### Article 402
+
+Lorsqu'il n'a pas été choisi de tuteur par le dernier mourant des père et mère, la tutelle de l'enfant légitime est déférée à
+celui des ascendants qui est du degré le plus rapproché.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+
+	**Cité par**:
+
+	  - Code civil - art. 456 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+#### Section 3 : Du fonctionnement de la tutelle.
+
+###### Article 449
+
+Le conseil de famille règle les conditions générales de l'entretien et de l'éducation de l'enfant, en ayant égard à la
+volonté que les père et mère avaient pu exprimer à ce sujet.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+
+	**Cité par**:
+
+	  - Décret n°2008-1507 du 30 décembre 2008 (V)
+	  - Arrêté du 22 février 2011 - art. 1 (V)
+	  - Code de l'action sociale et des familles - art. L215-4 (V)
+	  - Code de l'action sociale et des familles - art. R215-14 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 450
+
+Le tuteur prendra soin de la personne du mineur et le représentera dans tous les actes civils, sauf les cas dans lesquels la
+loi ou l'usage autorise les mineurs à agir eux-mêmes.
+
+Il administrera ses biens en bon père de famille et répondra des dommages et intérêts qui pourraient résulter d'une mauvaise
+gestion.
+
+Il ne peut ni acheter les biens du mineur, ni les prendre à loyer ou à ferme, à moins que le conseil de famille n'ait
+autorisé le subrogé tuteur à lui en passer bail, ni accepter la cession d'aucun droit ou créance contre son pupille.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+
+	**Cité par**:
+
+	  - Décret n°2008-1512 du 30 décembre 2008 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 451
+
+Le tuteur administre et agit en cette qualité, du jour de sa nomination, si elle a été faite en sa présence ; sinon, du jour
+qu'elle lui a été notifiée.
+
+Dans les dix jours qui suivront, il requerra la levée des scellés, s'ils ont été apposés, et fera procéder immédiatement à
+l'inventaire des biens du mineur, en présence du subrogé tuteur. Expédition de cet inventaire sera transmise au juge des
+tutelles.
+
+A défaut d'inventaire dans le délai prescrit, le subrogé tuteur saisira le juge des tutelles à l'effet d'y faire procéder, à
+peine d'être solidairement responsable avec le tuteur de toutes les condamnations qui pourraient être prononcées au profit du
+pupille. Le défaut d'inventaire autorisera le pupille à faire la preuve de la valeur et de la consistance de ses biens par
+tous les moyens, même la commune renommée.
+
+Si le mineur doit quelque chose au tuteur, celui-ci devra le déclarer dans l'inventaire, à peine de déchéance, et ce sur la
+réquisition que l'officier public sera tenu de lui en faire, et dont mention sera portée au procès-verbal.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+
+	**Cité par**:
+
+	  - Décret n°2008-1505 du 30 décembre 2008 (V)
+	  - Code civil - art. 459-1 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 452
+
+Dans les trois mois qui suivent l'ouverture de la tutelle, le tuteur devra convertir en titres nominatifs ou déposer, à un
+compte ouvert au nom du mineur et portant mention de sa minorité, chez un dépositaire agréé par le gouvernement pour recevoir
+les fonds et valeurs pupillaires, tous les titres au porteur appartenant au mineur, à moins qu'il ne soit autorisé à les
+aliéner conformément aux articles 457 et 468. 
+
+Il devra pareillement, et sous la même réserve, convertir en titres nominatifs ou déposer chez un dépositaire agréé les
+titres au porteur qui adviendront par la suite au mineur, de quelque manière que ce soit, et ce dans le même délai de trois
+mois à partir de l'entrée en possession. 
+
+Il ne pourra retirer des titres au porteur qui auraient été déposés conformément aux précédents alinéas, ni convertir en
+titres au porteur des titres nominatifs, à moins que la conversion ne soit opérée par l'intermédiaire d'un dépositaire agréé
+par le gouvernement. 
+
+Le conseil de famille pourra, s'il est nécessaire, fixer un terme plus long pour l'accomplissement de ces opérations.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 
 **Liens relatifs à cet article**
 
 	**Cité par**:
 
-	  - Arrêté du 23 décembre 2009 - art. Annexe (V)
-	  - Code civil - art. 491 (VD)
-	  - Code civil - art. 494 (V)
+	  - Ordonnance n°45-1483 du 30 juin 1945 - art. 53 (Ab)
+	  - Décret n°65-961 du 5 novembre 1965 - art. 1 (V)
+	  - Décret n°65-961 du 5 novembre 1965 - art. 2 (V)
+	  - Décret n°2008-1484 du 22 décembre 2008 (V)
+	  - Décret n°2009-1628 du 23 décembre 2009 (V)
+	  - Décret n°2015-1669 du 14 décembre 2015 (V)
+
+	**Créé par**:
+
+	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°65-961 du 5 novembre 1965
+	  - TXT_SOURCE: Décret n°65-961 du 5 novembre 1965 - art. 1 (V)
+	  - TXT_SOURCE: Décret n°65-961 du 5 novembre 1965 - art. 2 (V)
+
+	**Cite**:
+
+	  - Code civil - art. 457 (VT)
+	  - Code civil - art. 468 (VT)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 453
+
+Le tuteur ne peut donner quittance des capitaux qu'il reçoit pour le compte du pupille qu'avec le contreseing du subrogé
+tuteur.
+
+Ces capitaux seront déposés par lui à un compte ouvert au nom du mineur et portant mention de sa minorité, chez un
+dépositaire agréé par le gouvernement pour recevoir les fonds et valeurs pupillaires.    Le dépôt doit être fait dans le
+délai d'un mois à dater de la réception des capitaux ; ce délai passé, le tuteur est de plein droit débiteur des intérêts.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°65-961 du 5 novembre 1965
+	  - TXT_SOURCE: Décret n°65-961 du 5 novembre 1965 - art. 1 (V)
+	  - TXT_SOURCE: Décret n°65-961 du 5 novembre 1965 - art. 3 (V)
+
+	**Cité par**:
+
+	  - Décret n°65-961 du 5 novembre 1965 - art. 1 (V)
+	  - Décret n°65-961 du 5 novembre 1965 - art. 3 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 454
+
+Lors de l'entrée en exercice de toute tutelle, le conseil de famille réglera par aperçu, et selon l'importance des biens
+régis, la somme annuellement disponible pour l'entretien et l'éducation du pupille, les dépenses d'administration de ses
+biens, ainsi qu'éventuellement les indemnités qui pourront être allouées au tuteur.
+
+La même délibération spécifiera si le tuteur est autorisé à porter en compte les salaires des administrateurs particuliers ou
+agents dont il peut demander le concours, sous sa propre responsabilité.
+
+Le conseil de famille pourra aussi autoriser le tuteur à passer un contrat pour la gestion des valeurs mobilières du pupille.
+La délibération désigne le tiers contractant en considérant sa solvabilité et son expérience professionnelle, et spécifie les
+clauses du contrat. Malgré toute stipulation contraire, la convention peut, à tout moment, être résiliée au nom du pupille.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+
+**Liens relatifs à cet article**
 
 	**Codifié par**:
 
@@ -3853,11 +5408,769 @@ Le mariage se dissout :
 
 	**Créé par**:
 
-	  - Loi n°1803-03-26 promulguée le 5 avril 1803
+	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
 
-	**Abrogé par**:
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. R472-8 (V)
+
+
+###### Article 455
+
+Le conseil de famille détermine la somme à laquelle commencera, pour le tuteur, l'obligation d'employer les capitaux liquides
+du mineur, ainsi que l'excédent de ses revenus. Cet emploi devra être fait dans le délai de six mois, sauf prorogation par le
+conseil de famille. Passé ce délai, le tuteur est de plein droit comptable des intérêts.
+
+La nature des biens qui peuvent être acquis en emploi est déterminée par le conseil de famille, soit d'avance, soit à
+l'occasion de chaque opération.
+
+En aucun cas, les tiers ne seront garants de l'emploi.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
 
 	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+
+
+###### Article 456
+
+Le tuteur accomplit seul, comme représentant du mineur, tous les actes d'administration.
+
+Il peut ainsi aliéner, à titre onéreux, les meubles d'usage courant et les biens ayant le caractère de fruits.
+
+Les baux consentis par le tuteur ne confèrent au preneur, à l'encontre du mineur devenu majeur ou émancipé, aucun droit de
+renouvellement et aucun droit à se maintenir dans les lieux à l'expiration du bail, nonobstant toutes dispositions légales
+contraires. Ces dispositions ne sont toutefois pas applicables aux baux consentis avant l'ouverture de la tutelle et
+renouvelés par le tuteur.
+
+Les actes qui, pour la gestion des valeurs mobilières du pupille, doivent être regardés comme des actes d'administration
+entrant dans les obligations et les pouvoirs, soit des administrateurs légaux et tuteurs, soit des dépositaires agréés, sont
+déterminés par décret en Conseil d'Etat.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+
+	**Cité par**:
+
+	  - Loi n°65-570 du 13 juillet 1965 - art. 22 (V)
+	  - Décret n°65-961 du 5 novembre 1965 - art. 4 (Ab)
+	  - Décret n°65-961 du 5 novembre 1965 - art. 7 (Ab)
+	  - Code civil - art. 1873-7 (V)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°65-961 du 5 novembre 1965
+	  - TXT_SOURCE: Décret n°65-961 du 5 novembre 1965 - art. 4 (V)
+	  - TXT_SOURCE: Décret n°65-961 du 5 novembre 1965 - art. 5 (V)
+	  - TXT_SOURCE: Décret n°65-961 du 5 novembre 1965 - art. 6 (V)
+	  - TXT_SOURCE: Décret n°65-961 du 5 novembre 1965 - art. 7 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 457
+
+Le tuteur ne peut, sans y être autorisé par le conseil de famille, faire des actes de disposition au nom du mineur.
+
+Sans cette autorisation, il ne peut, notamment, emprunter pour le pupille, ni aliéner ou grever de droits réels les
+immeubles, les fonds de commerce, les valeurs mobilières et autres droits incorporels, non plus que les meubles précieux ou
+qui constitueraient une part importante du patrimoine pupillaire.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+
+	**Cité par**:
+
+	  - Code civil - art. 452 (VT)
+	  - Code civil - art. 511 (V)
+	  - Code de procédure civile - art. 1237 (V)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code civil - art. 460 (AbD)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 458
+
+Le conseil de famille, en donnant son autorisation, pourra prescrire toutes les mesures qu'il jugera utiles, en particulier
+quant au remploi des fonds.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°2008-1556 du 31 décembre 2008 (V)
+	  - Arrêté du 2 janvier 2009 - art. (V)
+	  - Code civil - art. 459 (V)
+	  - Code de l'action sociale et des familles - art. Annexe 4-3 (V)
+	  - Code de l'action sociale et des familles - art. D471-7 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+
+
+###### Article 460
+
+L'autorisation exigée par l'article 457 pour l'aliénation des biens du mineur ne s'applique point au cas où un jugement
+aurait ordonné la licitation à la demande d'un copropriétaire par indivis.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code civil - art. 457 (AbD)
+
+	**Cite**:
+
+	  - Code civil - art. 953 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+
+
+###### Article 461
+
+Le tuteur ne peut accepter une succession échue au mineur que sous bénéfice d'inventaire. Toutefois, le conseil de famille
+pourra, par une délibération spéciale, l'autoriser à accepter purement et simplement, si l'actif dépasse manifestement le
+passif.
+
+Le tuteur ne peut répudier une succession échue au mineur sans une autorisation du conseil de famille.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+
+	**Cité par**:
+
+	  - Décret n°2006-1806 du 23 décembre 2006 - art. 1 (VD)
+	  - Ordonnance n°2012-1222 du 2 novembre 2012 - art. 4 (V)
+
+
+###### Article 462
+
+Dans le cas où la succession répudiée au nom du mineur n'aurait pas été acceptée par un autre, elle pourra être reprise, soit
+par le tuteur autorisé à cet effet par une nouvelle délibération du conseil de famille, soit par le mineur devenu majeur,
+mais dans l'état où elle se trouvera lors de la reprise et sans pouvoir attaquer les ventes et autres actes qui auraient été
+légalement faits durant la vacance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+
+	**Cité par**:
+
+	  - Décret n°2006-1806 du 23 décembre 2006 - art. 1 (VD)
+	  - Ordonnance n°2012-1222 du 2 novembre 2012 - art. 4 (V)
+
+
+###### Article 463
+
+Le tuteur peut accepter sans autorisation les donations et legs particuliers advenus au pupille, à moins qu'ils ne soient
+grevés de charges.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+
+	**Cité par**:
+
+	  - Code civil - art. 935 (V)
+
+
+###### Article 464
+
+Le tuteur peut, sans autorisation, introduire en justice une action relative aux droits patrimoniaux du mineur. Il peut de
+même se désister de cette instance. Le conseil de famille peut lui enjoindre d'introduire une action, de s'en désister ou de
+faire des offres aux fins de désistement, à peine d'engager sa responsabilité.
+
+Le tuteur peut défendre seul à une action introduite contre le mineur, mais il ne peut y acquiescer qu'avec l'autorisation du
+conseil de famille.
+
+L'autorisation du conseil de famille est toujours requise pour les actions relatives à des droits qui ne sont point
+patrimoniaux.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+
+	**Cité par**:
+
+	  - Code civil - art. 328 (V)
+	  - Code civil - art. 340-2 (Ab)
+	  - Code civil - art. 466 (V)
+	  - Code civil - art. 494-9 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 465
+
+Le tuteur ne peut, sans l'autorisation du conseil de famille, introduire une demande de partage au nom du mineur ; mais il
+pourra, sans cette autorisation, répondre à une demande en partage dirigée contre le mineur, ou s'adjoindre à la requête
+collective à fin de partage, présentée par tous les intéressés selon l'article 822.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°1924-06-01 du 1 juin 1924 - art. 221 (V)
+	  - Décret n°2008-1484 du 22 décembre 2008 - art. Annexe 1 (V)
+	  - Code civil - art. 1150 (V)
+
+	**Créé par**:
+
+	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+
+	**Cite**:
+
+	  - Code civil - art. 822 (M)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 466
+
+Pour obtenir à l'égard du mineur tout l'effet qu'il aurait entre majeurs, le partage devra être fait en justice, conformément
+aux dispositions des articles 815 et suivants.
+
+Toutefois, le conseil de famille pourra autoriser le partage, même partiel, à l'amiable. En ce cas, il désignera un notaire
+pour y procéder. L'état liquidatif, auquel sera jointe la délibération du conseil de famille, sera soumis à l'homologation du
+tribunal de grande instance.
+
+Tout autre partage ne sera considéré que comme provisionnel.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+
+	**Cité par**:
+
+	  - Loi n°2006-728 du 23 juin 2006 - art. 47 (V)
+	  - Code civil - art. 389-5 (M)
+	  - Code civil - art. 838 (M)
+	  - Code de procédure civile - art. 975 (Ab)
+	  - Nouveau code de procédure civile - art. 1231 (V)
+
+	**Cite**:
+
+	  - Code civil - art. 815 (M)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 467
+
+Le tuteur ne pourra transiger au nom du mineur qu'après avoir fait approuver par le conseil de famille les clauses de la
+transaction.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+
+	**Cité par**:
+
+	  - Code civil - art. 2045 (V)
+	  - Code civil - art. 471 (V)
+	  - Code de l'action sociale et des familles - art. R472-8 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+#### Section 4 : Des comptes de la tutelle et des responsabilités.
+
+###### Article 469
+
+Tout tuteur est comptable de sa gestion lorsqu'elle finit.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 1213 (V)
+
+
+###### Article 471
+
+Dans les trois mois qui suivront la fin de la tutelle, le compte définitif sera rendu soit au mineur lui-même, devenu majeur
+ou émancipé, soit à ses héritiers. Le tuteur en avancera les frais ; la charge en incombera au pupille.
+
+On y allouera au tuteur toutes dépenses suffisamment justifiées et dont l'objet sera utile.
+
+Si le tuteur vient à cesser ses fonctions avant la fin de la tutelle, il rendra un compte récapitulatif de sa gestion au
+nouveau tuteur, qui ne pourra l'accepter qu'avec l'autorisation du conseil de famille, sur les observations du subrogé
+tuteur.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code civil - art. 480 (VT)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+
+
+###### Article 472
+
+Le mineur devenu majeur ou émancipé ne peut approuver le compte de tutelle qu'un mois après que le tuteur le lui aura remis,
+contre récépissé, avec les pièces justificatives. Toute approbation est nulle si elle est donnée avant la fin du délai.
+
+Est de même nulle toute convention passée entre le pupille, devenu majeur ou émancipé, et celui qui a été son tuteur si elle
+a pour effet de soustraire celui-ci en tout ou en partie, à son obligation de rendre compte.
+
+Si le compte donne lieu à des contestations, elles seront poursuivies et jugées conformément au titre du code de procédure
+civile Des redditions de comptes.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+
+	**Cité par**:
+
+	  - Code civil - art. 2045 (V)
+	  - Code civil - art. 495-7 (VD)
+	  - Code de l'action sociale et des familles - art. R472-8 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 473
+
+L'approbation du compte ne préjudicie point aux actions en responsabilité qui peuvent appartenir au pupille contre le tuteur
+et les autres organes de la tutelle.
+
+L'Etat est seul responsable à l'égard du pupille, sauf son recours s'il y a lieu, du dommage résultant d'une faute quelconque
+qui aurait été commise dans le fonctionnement de la tutelle, soit par le juge des tutelles ou son greffier, soit par
+l'administrateur public chargé d'une tutelle vacante en vertu de l'article 433.
+
+L'action en responsabilité exercée par le pupille contre l'Etat est portée, dans tous les cas, devant le tribunal de grande
+instance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+
+	**Cité par**:
+
+	  - Loi n°64-1230 du 14 décembre 1964 - art. 13 (V)
+	  - Loi n°64-1230 du 14 décembre 1964 - art. 15 (V)
+	  - Code civil - art. 504 (V)
+	  - Code civil - art. 511 (M)
+	  - Code de l'action sociale et des familles - art. R472-8 (V)
+
+	**Cite**:
+
+	  - Code civil - art. 433 (M)
+
+
+###### Article 474
+
+La somme à laquelle s'élèvera le reliquat dû par le tuteur portera intérêt de plein droit à compter de l'approbation du
+compte et, au plus tard, trois mois après la cessation de la tutelle.
+
+Les intérêts de ce qui sera dû au tuteur par le mineur ne courront que du jour de la sommation de payer qui aura suivi
+l'approbation du compte.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+
+
+###### Article 475
+
+Toute action du mineur contre le tuteur, les organes tutélaires ou l'Etat relativement aux faits de la tutelle se prescrit
+par cinq ans, à compter de la majorité, lors même qu'il y aurait eu émancipation.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+
+	**Cité par**:
+
+	  - Décret n°2008-1484 du 22 décembre 2008 - art. Annexe 1 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+### Chapitre III : De l'émancipation.
+
+###### Article 479
+
+Lorsque, dans le cas de l'article précédent, aucune diligence n'ayant été faite par le tuteur, un membre du conseil de
+famille estimera que le mineur est capable d'être émancipé, il pourra requérir le juge des tutelles de convoquer le conseil
+pour délibérer à ce sujet. Le mineur lui-même pourra demander cette convocation.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+
+	**Transféré par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 1 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 413-4 (VD)
+
+	**Cite**:
+
+	  - Code civil - art. 478 (AbD)
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 1259-3 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 480
+
+Le compte de l'administration ou de la tutelle, selon les cas, est rendu au mineur émancipé dans les conditions prévues par
+l'article 471.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+
+	**Transféré par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 1 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 413-5 (VD)
+
+	**Cite**:
+
+	  - Code civil - art. 471 (VT)
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 1259-3 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 481
+
+Le mineur émancipé est capable, comme un majeur, de tous les actes de la vie civile.
+
+Il doit néanmoins, pour se marier ou se donner en adoption, observer les mêmes règles que s'il n'était point émancipé.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°2007-1702 du 30 novembre 2007 - art. 2 (V)
+	  - Loi n°64-1230 du 14 décembre 1964 - art. 14 (V)
+	  - Ordonnance n°2012-1222 du 2 novembre 2012 - art. 4 (V)
+	  - Code civil - art. 483 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+
+	**Transféré par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 1 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 413-6 (VD)
+
+
+###### Article 482
+
+Le mineur émancipé cesse d'être sous l'autorité de ses père et mère.
+
+Ceux-ci ne sont pas responsables de plein droit, en leur seule qualité de père ou de mère, du dommage qu'il pourra causer à
+autrui postérieurement à son émancipation.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+
+	**Transféré par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 1 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 413-7 (VD)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 487
+
+Le mineur émancipé ne peut être commerçant.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+
+	**Transféré par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 1 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 413-8 (VD)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+## Titre XI : De la majorité et des majeurs protégés par la loi
+
+### Chapitre II : Des mesures de protection juridique des majeurs
+
+#### Section 4 : De la curatelle et de la tutelle
+
+##### Sous-section 3 : Des organes de protection
+
+###### Article 445
+
+Ceux qui ont, ou dont les père et mère ont avec le mineur un litige mettant en cause l'état de celui-ci ou une partie notable
+de ses biens doivent se récuser, et peuvent être récusés, des différentes charges tutélaires.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er février 2009.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code civil - art. 437 (V)
+	  - Code civil - art. 480 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+
+
+##### Sous-section 6 : Des actes faits dans la curatelle
+
+###### Article 468
+
+Dans tous les cas où l'autorisation du conseil de famille est requise pour la validité d'un acte du tuteur, elle peut être
+suppléée par celle du juge des tutelles, si l'acte qu'il s'agit de passer porte sur les biens dont la valeur en capital
+n'excède pas une somme qui est fixée par décret.
+
+Le juge des tutelles peut aussi, à la requête du tuteur, autoriser une vente de valeur mobilière au lieu et place du conseil
+de famille, s'il lui apparaît qu'il y aurait péril en la demeure, mais à charge qu'il en soit rendu compte dans le plus bref
+délai au conseil qui décidera du remploi.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Ordonnance n°58-1301 du 23 décembre 1958 - art. 5 (V)
+	  - Décret n°65-961 du 5 novembre 1965 - art. 8 (Ab)
+	  - Décret n°2008-1484 du 22 décembre 2008 - art. Annexe 1 (V)
+	  - Code civil - art. 452 (VT)
+
+	**Créé par**:
+
+	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Décret n°65-961 du 5 novembre 1965 - art. 8 (M)
+	  - TXT_SOURCE: Décret n°65-961 du 5 novembre 1965
+	  - TXT_SOURCE: Décret n°65-961 du 5 novembre 1965 - art. 8 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
 
 
 ## Titre XI : De la majorité et des majeurs qui sont protégés par la loi.

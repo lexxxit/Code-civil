@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1976-01-01
+Version Consolidée au 1976-07-01
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -1818,6 +1818,81 @@ doit exercer ces fonctions.
 	  - Loi n°1803-03-14 promulguée le 24 mars 1803
 
 
+###### Article 108
+
+Le mari et la femme peuvent avoir un domicile distinct sans qu'il soit pour autant porté atteinte aux règles relatives à la
+communauté de la vie.
+
+Toute notification faite à un époux, même séparé de corps, en matière d'état et de capacité des personnes, doit également
+être adressée à son conjoint, sous peine de nullité.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°75-617 1975-07-11 art. 2 JORF 12 juillet 1975 en vigueur le 1er juillet 1976
+
+	**Cité par**:
+
+	  - Code de la famille et de l'aide sociale. - art. 193 (M)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°1803-03-14 promulguée le 24 mars 1803
+
+
+###### Article 108-1
+
+La résidence séparée des époux, au cours de la procédure de divorce ou de séparation de corps, entraîne de plein droit
+domicile distinct.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°75-617 1975-07-11 art. 2 JORF 12 juillet 1975 en vigueur le 1er juillet 1976
+
+
+###### Article 108-2
+
+Le mineur non émancipé est domicilié chez ses père et mère.
+
+Si les père et mère ont des domiciles distincts, il est domicilié chez celui des parents avec lequel il réside.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°75-617 1975-07-11 art. 2 JORF 12 juillet 1975 en vigueur le 1er juillet 1976
+
+
+###### Article 108-3
+
+Le majeur en tutelle est domicilié chez son tuteur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°75-617 1975-07-11 art. 2 JORF 12 juillet 1975 en vigueur le 1er juillet 1976
+
+
 ###### Article 109
 
 Les majeurs qui servent ou travaillent habituellement chez autrui auront le même domicile que la personne qu'ils servent ou
@@ -2597,6 +2672,34 @@ la même ligne.
 	  - Loi n°1803-03-17 promulguée le 27 mars 1803
 
 
+###### Article 162
+
+En ligne collatérale, le mariage est prohibé, entre le frère et la soeur légitimes ou naturels.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°75-617 1975-07-11 art. 9 JORF 12 juillet 1975 en vigueur le 1er juillet 1976
+
+	**Cité par**:
+
+	  - Code civil - art. 171-4 (V)
+	  - Code civil - art. 171-7 (V)
+	  - Code civil - art. 171-8 (V)
+	  - Code civil - art. 184 (V)
+	  - Code civil - art. 310-2 (V)
+	  - Code civil - art. 334-10 (Ab)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°1803-03-17 promulguée le 27 mars 1803
+
+
 ###### Article 163
 
 Le mariage est encore prohibé entre l'oncle et la nièce, la tante et le neveu, que la parenté soit légitime ou naturelle.
@@ -2614,6 +2717,45 @@ Le mariage est encore prohibé entre l'oncle et la nièce, la tante et le neveu,
 	  - Code civil - art. 171-7 (V)
 	  - Code civil - art. 171-8 (V)
 	  - Code civil - art. 184 (M)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°1803-03-17 promulguée le 27 mars 1803
+
+
+###### Article 164
+
+Néanmoins, il est loisible au Président de la République de lever, pour des causes graves, les prohibitions portées : 
+
+1° Par l'article 161 aux mariages entre alliés en ligne directe lorsque la personne qui a créé l'alliance est décédée ; 
+
+2° (Abrogé) ; 
+
+3° Par l'article 163 aux mariages entre l'oncle et la nièce, la tante et le neveu.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°75-617 1975-07-11 art. 9 JORF 12 juillet 1975 en vigueur le 1er juillet 1976
+
+	**Cité par**:
+
+	  - Décret n°2014-1279 du 23 octobre 2014 - art. (VD)
+	  - Décret n°2015-1411 du 5 novembre 2015 - art. Annexe I (V)
+	  - Code civil - art. 342 (V)
+	  - Code civil - art. 342-7 (V)
+	  - Code civil - art. 356 (V)
+	  - Code civil - art. 364 (V)
+
+	**Cite**:
+
+	  - Code civil - art. 161 (V)
+	  - Code civil - art. 163 (V)
 
 	**Codifié par**:
 
@@ -2954,6 +3096,44 @@ Les jugements et arrêts par défaut rejetant les oppositions à mariage ne sont
 
 
 ### Chapitre IV : Des demandes en nullité de mariage
+
+###### Article 180
+
+Le mariage qui a été contracté sans le consentement libre des deux époux, ou de l'un d'eux, ne peut être attaqué que par les
+époux, ou par celui des deux dont le consentement n'a pas été libre.
+
+S'il y a eu erreur dans la personne, ou sur des qualités essentielles de la personne, l'autre époux peut demander la nullité
+du mariage.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°75-617 1975-07-11 art. 5 JORF 12 juillet 1975 en vigueur le 1er juillet 1976
+
+	**Cité par**:
+
+	  - Code civil - art. 170 (Ab)
+	  - Code civil - art. 170-1 (Ab)
+	  - Code civil - art. 171-4 (V)
+	  - Code civil - art. 171-7 (V)
+	  - Code civil - art. 171-8 (V)
+	  - Code civil - art. 175-2 (V)
+	  - Code civil - art. 202-1 (V)
+	  - Code civil - art. 63 (V)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code civil - art. 181 (M)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°1803-03-17 promulguée le 27 mars 1803
+
 
 ###### Article 181
 
@@ -3876,17 +4056,11 @@ préparent leur avenir.
 
 ###### Article 214
 
-Si le contrat de mariage ne règle pas la contribution des époux aux charges du mariage, ils contribuent à celles-ci en
+Si les conventions matrimoniales ne règlent pas la contribution des époux aux charges du mariage, ils y contribuent à
 proportion de leurs facultés respectives.
 
-L'obligation d'assumer ces charges pèse, à titre principal, sur le mari. Il est obligé de fournir à la femme tout ce qui est
-nécessaire pour les besoins de la vie selon ses facultés et son état.
-
-La femme s'acquitte de sa contribution aux charges du mariage par ses apports en dot ou en communauté et par les prélèvements
-qu'elle fait sur les ressources personnelles dont l'administration lui est réservée.
-
-Si l'un des deux époux ne remplit pas ses obligations, il peut y être contraint par l'autre époux dans les formes prévues à
-l'article 864 du code de procédure civile.
+Si l'un des époux ne remplit pas ses obligations, il peut y être contraint par l'autre dans les formes prévues au code de
+procédure civile.
 
 **Liens relatifs à cet article**
 
@@ -3927,28 +4101,57 @@ l'article 864 du code de procédure civile.
 
 	**Modifié par**:
 
-	  - Loi du 22 septembre 1942, v. init.
+	  - Loi n°65-570 du 13 juillet 1965 - art. 1 () JORF 14 juillet 1965 en vigueur le 1er février 1966
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°65-570 du 13 juillet 1965 - art. 9, v. init.
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°1803-03-17 promulguée le 27 mars 1803
 
 
 ###### Article 215
 
-Le choix de la résidence de la famille appartient au mari ; la femme est obligée d'habiter avec lui, et il est tenu de la
-recevoir.
+Les époux s'obligent mutuellement à une communauté de vie.
 
-Lorsque la résidence fixée par le mari présente pour la famille des dangers d'ordre physique ou d'ordre moral, la femme peut,
-par exception, être autorisée à avoir, pour elle et ses enfants, une autre résidence fixée par le juge.
+La résidence de la famille est au lieu qu'ils choisissent d'un commun accord.
+
+Les époux ne peuvent l'un sans l'autre disposer des droits par lesquels est assuré le logement de la famille, ni des meubles
+meublants dont il est garni. Celui des deux qui n'a pas donné son consentement à l'acte peut en demander l'annulation :
+l'action en nullité lui est ouverte dans l'année à partir du jour où il a eu connaissance de l'acte, sans pouvoir jamais être
+intentée plus d'un an après que le régime matrimonial s'est dissous.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
-
-	  - Loi du 22 septembre 1942, v. init.
-
 	**Cité par**:
 
-	  - Loi n°54-439 du 15 avril 1954 - art. 10 (VD)
 	  - Code civil - art. 222 (V)
 	  - Code civil - art. 75 (VD)
+	  - Loi n°54-439 du 15 avril 1954 - art. 10 (VD)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°1803-03-17 promulguée le 27 mars 1803
+
+	**Modifié par**:
+
+	  - Loi n°65-570 du 13 juillet 1965 - art. 1 () JORF 14 juillet 1965 en vigueur le 1er février 1966
+	  - Loi n°70-459 du 4 juin 1970 - art. 2 () JORF 5 juin 1970 en vigueur le 1er janvier 1971
+	  - Loi n°75-617 1975-07-11 art. 3 JORF 12 juillet 1975 en vigueur le 1er juillet 1976
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°65-570 du 13 juillet 1965 - art. 9, v. init.
 
 
 ###### Article 216
@@ -4420,6 +4623,55 @@ Le mariage se dissout :
 	**Créé par**:
 
 	  - Loi n°1803-03-17 promulguée le 27 mars 1803
+
+
+### Chapitre VIII : Des seconds mariages.
+
+###### Article 228
+
+La femme ne peut contracter un nouveau mariage qu'après trois cents jours révolus depuis la dissolution du mariage précédent.
+
+Ce délai prend fin en cas d'accouchement après le décès du mari. Il prend fin également si la femme produit un certificat
+médical attestant qu'elle n'est pas en état de grossesse.
+
+Le président du tribunal de grande instance, dans le ressort duquel le mariage doit être célébré, peut, par ordonnance, sur
+simple requête, abréger le délai prévu par le présent article, lorsqu'il résulte avec évidence des circonstances que, depuis
+trois cents jours, le précédent mari n'a pas cohabité avec sa femme. La requête est sujette à communication au ministère
+public. En cas de rejet de la requête, il peut être interjeté appel.
+
+**Nota:**
+
+NOTA : La loi 2004-439 du 26 mai 2004 entrera en vigueur le 1er janvier 2005 sauf pour les exceptions citées par l'article 33
+II.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°1803-03-17 promulguée le 27 mars 1803
+
+	**Modifié par**:
+
+	  - Loi n°75-617 1975-07-11 art. 7 JORF 12 juillet 1975 en vigueur le 1er juillet 1976
+
+	**Abrogé par**:
+
+	  - Loi n°2004-439 du 26 mai 2004 - art. 23 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
+
+	**Cité par**:
+
+	  - CODE PENAL - art. R40 (Ab)
+	  - Code civil - art. 261 (Ab)
+	  - Code civil - art. 298 (V)
+	  - Code pénal - art. R645-3 (M)
+
+	**Anciens textes**:
+
+	  - Code civil - art. 247 (M)
 
 
 ## Titre VI : Du divorce

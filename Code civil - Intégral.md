@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1980-07-05
+Version Consolidée au 1980-07-13
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -38112,11 +38112,10 @@ exécuté de sa part la convention portée dans l'acte.
 
 ###### Article 1326
 
-Le billet ou la promesse sous seing privé par lequel une seule partie s'engage envers l'autre à lui payer une somme d'argent
-ou une chose appréciable, doit être écrit en entier de la main de celui qui le souscrit ; ou du moins il faut qu'outre sa
-signature, il ait écrit de sa main un bon ou un approuvé, portant en toutes lettres la somme ou la quantité de la chose.
-
-Excepté dans le cas où l'acte émane de marchands, artisans, laboureurs, vignerons, gens de journée et de service.
+L'acte juridique par lequel une seule partie s'engage envers une autre à lui payer une somme d'argent ou à lui livrer un bien
+fongible doit être constaté dans un titre qui comporte la signature de celui qui souscrit cet engagement ainsi que la
+mention, écrite de sa main, de la somme ou de la quantité en toutes lettres et en chiffres. En cas de différence, l'acte sous
+seing privé vaut pour la somme écrite en toutes lettres.
 
 **Liens relatifs à cet article**
 
@@ -38129,31 +38128,6 @@ Excepté dans le cas où l'acte émane de marchands, artisans, laboureurs, vigne
 	**Codifié par**:
 
 	  - Loi n°1804-02-07
-
-	**Créé par**:
-
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
-
-
-###### Article 1327
-
-Lorsque la somme exprimée au corps de l'acte est différente de celle exprimée au bon, l'obligation est présumée n'être que de
-la somme moindre, lors même que l'acte ainsi que le bon sont écrits en entier de la main de celui qui s'est obligé, à moins
-qu'il ne soit prouvé de quel côté est l'erreur.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1804-02-07
-
-	**Créé par**:
-
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
-
-	**Abrogé par**:
-
-	  - Loi n°80-525 du 12 juillet 1980, v. init.
 
 
 ###### Article 1328
@@ -38436,9 +38410,9 @@ son décès, emporte leur renonciation à opposer soit les vices de forme, soit 
 
 ###### Article 1341
 
-Il doit être passé acte devant notaires ou sous signatures privées de toutes choses excédant la somme ou la valeur de 50 F,
-même pour dépôts volontaires, et il n'est reçu aucune preuve par témoins contre et outre le contenu aux actes, ni sur ce qui
-serait allégué avoir été dit avant, lors ou depuis les actes, encore qu'il s'agisse d'une somme ou valeur moindre de 50 F.
+Il doit être passé acte devant notaires ou sous signatures privées de toutes choses excédant une somme ou une valeur fixée
+par décret, même pour dépôts volontaires, et il n'est reçu aucune preuve par témoins contre et outre le contenu aux actes, ni
+sur ce qui serait allégué avoir été dit avant, lors ou depuis les actes, encore qu'il s'agisse d'une somme ou valeur moindre.
 
 Le tout sans préjudice de ce qui est prescrit dans les lois relatives au commerce.
 
@@ -38455,11 +38429,17 @@ Le tout sans préjudice de ce qui est prescrit dans les lois relatives au commer
 	  - Code civil - art. 1950 (V)
 	  - Code de la propriété intellectuelle - art. L131-2 (VT)
 
+	**Modifié par**:
+
+	  - Loi n°80-525 du 12 juillet 1980, v. init.
+
 	**Liens**:
 
 	  - TXT_SOURCE: Décret n°80-533 du 15 juillet 1980 - art. 1 (M)
+	  - SPEC_APPLI: Ordonnance 98-774 1998-09-02 art. 1 I (champ d'application territoriale aux TOM et à Mayotte)
 	  - TXT_SOURCE: Décret n°99-235 du 22 mars 1999
 	  - TXT_SOURCE: Décret n°99-235 du 22 mars 1999 - art. 1 ()
+	  - SPEC_APPLI: Décret n°2001-476 2001-05-30 art. 1 (montant en euros), art. 2 (champ d'application territoriale), art. 3 (date d'effet)
 	  - TXT_SOURCE: Décret n°2001-476 du 30 mai 2001
 	  - TXT_SOURCE: Décret n°2001-476 du 30 mai 2001 - art. 2 (V)
 	  - TXT_SOURCE: Décret n°2001-476 du 30 mai 2001 - art. 3 (V)
@@ -38468,15 +38448,11 @@ Le tout sans préjudice de ce qui est prescrit dans les lois relatives au commer
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
-
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
-
 
 ###### Article 1342
 
 La règle ci-dessus s'applique au cas où l'action contient, outre la demande du capital, une demande d'intérêts qui, réunis au
-capital, excèdent la somme de 50 F.
+capital, excèdent le chiffre prévu à l'article précédent.
 
 **Liens relatifs à cet article**
 
@@ -38484,19 +38460,23 @@ capital, excèdent la somme de 50 F.
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
-
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
-
 	**Cité par**:
 
 	  - Loi n°57-298 du 11 mars 1957 - art. 31 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°80-525 du 12 juillet 1980, v. init.
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 98-774 1998-09-02 art. 1 I (champ d'application territoriale aux TOM et à Mayotte)
 
 
 ###### Article 1343
 
-Celui qui a formé une demande excédant 50 F ne peut plus être admis à la preuve testimoniale, même en restreignant sa demande
-primitive.
+Celui qui a formé une demande excédant le chiffre prévu à l'article 1341 ne peut plus être admis à la preuve testimoniale,
+même en restreignant sa demande primitive.
 
 **Liens relatifs à cet article**
 
@@ -38504,42 +38484,55 @@ primitive.
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
-
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
-
 	**Cité par**:
 
 	  - Loi n°57-298 du 11 mars 1957 - art. 31 (Ab)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 98-774 1998-09-02 art. 1 I (champ d'application territoriale aux TOM et à Mayotte)
+
+	**Cite**:
+
+	  - Code civil - art. 1341 (V)
 
 
 ###### Article 1344
 
-La preuve testimoniale, sur la demande d'une somme même moindre de 50 F, ne peut être admise lorsque cette somme est déclarée
-être le restant ou faire partie d'une créance plus forte qui n'est point prouvée par écrit.
+La preuve testimoniale, sur la demande d'une somme même inférieure à celle qui est prévue à l'article 1341, ne peut être
+admise lorsque cette somme est déclarée être le restant ou faire partie d'une créance plus forte qui n'est point prouvée par
+écrit.
 
 **Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Code de commerce - art. Annexe 4-9 (V)
-	  - Loi n°57-298 du 11 mars 1957 - art. 31 (Ab)
 
 	**Codifié par**:
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
+	**Cité par**:
 
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
+	  - Loi n°57-298 du 11 mars 1957 - art. 31 (Ab)
+	  - Code de commerce - art. Annexe 4-9 (V)
+
+	**Modifié par**:
+
+	  - Loi n°80-525 du 12 juillet 1980,  art. 5 v. init.
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 98-774 1998-09-02 art. 1 I (champ d'application territoriale aux TOM et à Mayotte)
+
+	**Cite**:
+
+	  - Code civil - art. 1341 (V)
 
 
 ###### Article 1345
 
 Si, dans la même instance, une partie fait plusieurs demandes, dont il n'y ait point de titre par écrit, et que, jointes
-ensemble, elles excèdent la somme de 50 F, la preuve par témoins n'en peut être admise, encore que la partie allègue que ces
-créances proviennent de différentes causes, et qu'elles se soient formées en différents temps, si ce n'était que ces droits
-procédassent par succession, donation ou autrement, de personnes différentes.
+ensemble, elles excèdent la somme prévue à l'article 1341, la preuve par témoins n'en peut être admise, encore que la partie
+allègue que ces créances proviennent de différentes causes, et qu'elles se soient formées en différents temps, si ce n'était
+que ces droits procédassent par succession, donation ou autrement, de personnes différentes.
 
 **Liens relatifs à cet article**
 
@@ -38549,17 +38542,21 @@ procédassent par succession, donation ou autrement, de personnes différentes.
 	  - Décret n°2012-1246 du 7 novembre 2012 - art. 39 (V)
 	  - Arrêté du 24 décembre 2012 - art. 9 (V)
 
+	**Modifié par**:
+
+	  - Loi n°80-525 du 12 juillet 1980, v. init.
+
 	**Liens**:
 
-	  - TXT_ASSOCIE: Code civil - art. 1346 (V)
+	  - SPEC_APPLI: Ordonnance 98-774 1998-09-02 art. 1 I (champ d'application territoriale aux TOM et à Mayotte)
+
+	**Cite**:
+
+	  - Code civil - art. 1341 (V)
 
 	**Codifié par**:
 
 	  - Loi n°1804-02-07
-
-	**Créé par**:
-
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
 
 
 ###### Article 1346
@@ -38622,35 +38619,33 @@ partie lors de sa comparution personnelle, son refus de répondre ou son absence
 
 ###### Article 1348
 
-Elles reçoivent encore exception toutes les fois qu'il n'a pas été possible au créancier de se procurer une preuve littérale
-de l'obligation qui a été contractée envers lui.
+Les règles ci-dessus reçoivent encore exception lorsque l'obligation est née d'un quasi-contrat, d'un délit ou d'un quasi-
+délit, ou lorsque l'une des parties, soit n'a pas eu la possibilité matérielle ou morale de se procurer une preuve littérale
+de l'acte juridique, soit a perdu le titre qui lui servait de preuve littérale, par suite d'un cas fortuit ou d'une force
+majeure.
 
-Cette seconde exception s'applique :
-
-1° Aux obligations qui naissent des quasi-contrats et des délits ou quasi-délits ;
-
-2° Aux dépôts nécessaires faits en cas d'incendie, tumulte ou naufrage, et à ceux faits par les voyageurs en logeant dans une
-hôtellerie, le tout suivant la qualité des personnes et les circonstances du fait ;
-
-3° Aux obligations contractées en cas d'accidents imprévus, où l'on ne pourrait pas avoir fait des actes par écrit ;
-
-4° Au cas où le créancier a perdu le titre qui lui servait de preuve littérale, par suite d'un cas fortuit, imprévu et
-résultant d'une force majeure.
+Elles reçoivent aussi exception lorsqu'une partie ou le dépositaire n'a pas conservé le titre original et présente une copie
+qui en est la reproduction non seulement fidèle mais aussi durable. Est réputée durable toute reproduction indélébile de
+l'original qui entraîne une modification irréversible du support.
 
 **Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Décret n°2016-1673 du 5 décembre 2016 (V)
-	  - Loi n°57-298 du 11 mars 1957 - art. 31 (Ab)
 
 	**Codifié par**:
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
+	**Cité par**:
 
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
+	  - Loi n°57-298 du 11 mars 1957 - art. 31 (Ab)
+	  - Décret n°2016-1673 du 5 décembre 2016 (V)
+
+	**Modifié par**:
+
+	  - Loi n°80-525 du 12 juillet 1980, art. 7 v. init.
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 98-774 1998-09-02 art. 1 I (champ d'application territoriale aux TOM et à Mayotte)
 
 
 #### Section 3 : Des présomptions.
@@ -51275,40 +51270,21 @@ exprès ou tacite.
 	  - Loi n°1804-03-14 promulguée le 24 mars 1804
 
 
-###### Article 1923
-
-Le dépôt volontaire doit être prouvé par écrit. La preuve testimoniale n'en est point reçue pour valeur excédant 50 F.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1804-03-14
-
-	**Créé par**:
-
-	  - Loi n°1804-03-14 promulguée le 24 mars 1804
-
-	**Abrogé par**:
-
-	  - Loi n°80-525 du 12 juillet 1980 - art. 8, v. init.
-
-
 ###### Article 1924
 
-Lorsque le dépôt, étant au-dessus de 50 F, n'est point prouvé par écrit, celui qui est attaqué comme dépositaire, en est cru
-sur sa déclaration, soit pour le fait même du dépôt, soit pour la chose qui en faisait l'objet, soit pour le fait de sa
-restitution.
+Lorsque le dépôt étant au-dessus du chiffre prévu à l'article 1341 n'est point prouvé par écrit, celui qui est attaqué comme
+dépositaire en est cru sur sa déclaration soit pour le fait même du dépôt, soit pour la chose qui en faisait l'objet, soit
+pour le fait de sa restitution.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code civil - art. 1341 (V)
 
 	**Codifié par**:
 
 	  - Loi n°1804-03-14
-
-	**Créé par**:
-
-	  - Loi n°1804-03-14 promulguée le 24 mars 1804
 
 
 ###### Article 1925
@@ -51756,7 +51732,8 @@ autre événement imprévu.
 
 ###### Article 1950
 
-La preuve par témoins peut être reçue pour le dépôt nécessaire, même quand il s'agit d'une valeur au-dessus de 50 F.
+La preuve par témoins peut être reçue pour le dépôt nécessaire, même quand il s'agit d'une valeur supérieure au chiffre prévu
+à l'article 1341.
 
 **Liens relatifs à cet article**
 
@@ -51764,9 +51741,13 @@ La preuve par témoins peut être reçue pour le dépôt nécessaire, même quan
 
 	  - Loi n°1804-03-14
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°1804-03-14 promulguée le 24 mars 1804
+	  - Loi n°80-525 du 12 juillet 1980 - art. 9, v. init.
+
+	**Cite**:
+
+	  - Code civil - art. 1341 (V)
 
 
 ###### Article 1951
@@ -52459,21 +52440,17 @@ Le contrat ne se forme que par l'acceptation du mandataire.
 
 ###### Article 1985
 
-Le mandat peut être donné ou par acte public, ou par écrit sous seing privé, même par lettre. Il peut aussi être donné
-verbalement ; mais la preuve testimoniale n'en est reçue que conformément au titre : Des contrats ou des obligations
-conventionnelles en général.
+Le mandat peut être donné par acte authentique ou par acte sous seing privé, même par lettre. Il peut aussi être donné
+verbalement, mais la preuve testimoniale n'en est reçue que conformément au titre "Des contrats ou des obligations
+conventionnelles en général".
 
-L'acceptation du mandat peut n'être que tacite, et résulter de l'exécution qui lui a été donnée par le mandataire.
+L'acceptation du mandat peut n'être que tacite et résulter de l'exécution qui lui a été donnée par le mandataire.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Loi n°1804-03-10
-
-	**Créé par**:
-
-	  - Loi n°1804-03-10 promulguée le 20 mars 1804
 
 
 ###### Article 1986
@@ -54566,11 +54543,9 @@ autres créanciers.
 
 ###### Article 2074
 
-Ce privilège n'a lieu qu'autant qu'il y a un acte public ou sous seing privé, dûment enregistré, contenant la déclaration de
-la somme dûe, ainsi que l'espèce et la nature des choses remises en gage, ou un état annexé de leur qualité, poids et
-mesures.
-
-La rédaction de l'acte par écrit et son enregistrement ne sont néanmoins prescrits qu'en matière excédant la valeur de 50 F.
+Ce privilège n'a lieu à l'égard des tiers qu'autant qu'il y a un acte authentique ou sous seing privé, dûment enregistré,
+contenant la déclaration de la somme due, ainsi que l'espèce et la nature des biens donnés en gage, ou un état annexé de
+leurs qualité, poids et mesures.
 
 **Liens relatifs à cet article**
 
@@ -54583,15 +54558,19 @@ La rédaction de l'acte par écrit et son enregistrement ne sont néanmoins pres
 
 	  - Loi n°1804-03-16
 
-	**Créé par**:
+	**Liens**:
 
-	  - Loi n°1804-03-16 promulguée le 26 mars 1804
+	  - SPEC_APPLI: Ordonnance 98-774 1998-09-02 art. 1 I (champ d'application territoriale aux TOM et à Mayotte)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 56 () JORF 24 mars 2006
 
 
 ###### Article 2075
 
-Le privilège énoncé en l'article précédent, ne s'établit sur les meubles incorporels, tels que les créances mobilières, que
-par acte public ou sous seing privé, aussi enregistré, et signifié au débiteur de la créance donnée en gage.
+Lorsque le gage s'établit sur des meubles incorporels, tels que les créances mobilières, l'acte authentique ou sous seing
+privé, dûment enregistré, est signifié au débiteur de la créance donnée en gage, ou accepté par lui dans un acte authentique.
 
 **Liens relatifs à cet article**
 
@@ -54607,13 +54586,17 @@ par acte public ou sous seing privé, aussi enregistré, et signifié au débite
 	  - Code des marchés publics - art. 189 (M)
 	  - Code des marchés publics - art. 197 (Ab)
 
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 98-774 1998-09-02 art. 1 I (champ d'application territoriale aux TOM et à Mayotte)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 56 () JORF 24 mars 2006
+
 	**Codifié par**:
 
 	  - Loi n°1804-03-16
-
-	**Créé par**:
-
-	  - Loi n°1804-03-16 promulguée le 26 mars 1804
 
 
 ###### Article 2075-1

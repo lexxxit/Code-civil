@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1965-06-15
+Version Consolidée au 1965-07-14
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -18132,6 +18132,33 @@ exclusivement attachés à la personne.
 	  - Loi n°1804-02-07 promulguée le 17 février 1804
 
 
+###### Article 1167
+
+Ils peuvent aussi, en leur nom personnel, attaquer les actes faits par leur débiteur en fraude de leurs droits.
+
+Ils doivent néanmoins, quant à leurs droits énoncés au titre "Des successions" et au titre "Du contrat de mariage et des
+régimes matrimoniaux", se conformer aux règles qui y sont prescrites.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°67-563 du 13 juillet 1967 - art. 78 (Ab)
+	  - Code civil - art. 1397 (V)
+	  - Code civil - art. 1578 (V)
+	  - Code civil - art. 794 (V)
+	  - Code de la mutualité - art. L223-15 (VT)
+	  - Code des assurances - art. L132-14 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
 ### Chapitre IV : Des diverses espèces d'obligations.
 
 #### Section 1 : Des obligations conditionnelles.
@@ -33839,6 +33866,75 @@ Il n'est rien innové par le présent code aux dispositions des lois maritimes c
 	**Transféré par**:
 
 	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
+
+
+#### Section 1 : Des hypothèques légales.
+
+###### Article 2121
+
+Indépendamment des hypothèques légales résultant d'autres codes ou de lois particulières, les droits et créances auxquels
+l'hypothèque légale est attribuée sont :
+
+1° Ceux d'un époux, sur les biens de l'autre ;
+
+2° Ceux des mineurs ou majeurs en tutelle, sur les biens du tuteur ou de l'administrateur légal ;
+
+3° Ceux de l'Etat, des départements, des communes et des établissements publics, sur les biens des receveurs et
+administrateurs comptables ;
+
+4° Ceux du légataire, sur les biens de la succession, en vertu de l'article 1017 ;
+
+5° Ceux énoncés en l'article 2101, 2°, 3°, 5°, 6°, 7° et 8°.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-19
+
+	**Cité par**:
+
+	  - Loi n°1924-06-01 du 1 juin 1924 - art. 20 (Ab)
+	  - Loi n°1924-06-01 du 1 juin 1924 - art. 23 (Ab)
+	  - Décret n°53-1227 du 10 décembre 1953 - art. 6 (Ab)
+	  - Décret n°55-22 du 4 janvier 1955 - art. 31 (M)
+	  - Code civil - art. 2134 (T)
+	  - Code civil - art. 2148 (T)
+	  - Code civil - art. 2323 (MMN)
+	  - Code de l'action sociale et des familles - art. L224-9 (M)
+	  - Code de la construction et de l'habitation. - art. R423-34 (V)
+	  - Code de la famille et de l'aide sociale. - art. 60 (M)
+	  - Code de la famille et de l'aide sociale. - art. 64 (Ab)
+	  - Code des pensions militaires d'invalidité et des v - art. D457 (M)
+	  - Code des pensions militaires d'invalidité et des v - art. L474 (M)
+	  - Décret n°1893-07-12. du 12 juillet 1893 - art. 22 (Ab)
+	  - Décret n°1921-02-09 du 9 février 1921 - art. 60 (M)
+
+	**Modifié par**:
+
+	  - Ordonnance 59-71 1959-01-07 art. 1 JORF 8 janvier 1959
+	  - Loi n°65-570 du 13 juillet 1965 - art. 3 () JORF 14 juillet 1965
+
+	**Transféré par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
+
+	**Cite**:
+
+	  - Code civil - art. 1017 (M)
+	  - Code civil - art. 2101 (M)
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2400 (V)
+
+	**Créé par**:
+
+	  - Loi n°1804-03-19 promulguée le 29 mars 1804
 
 
 #### Section 2 : Des hypothèques judiciaires.

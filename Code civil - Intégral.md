@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1946-10-07
+Version Consolidée au 1948-02-22
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -17725,6 +17725,134 @@ son décès, emporte leur renonciation à opposer soit les vices de forme, soit 
 
 #### Section 2 : De la preuve testimoniale.
 
+###### Article 1341
+
+Il doit être passé acte devant notaires ou sous signatures privées de toutes choses excédant la somme ou la valeur de 50 F,
+même pour dépôts volontaires, et il n'est reçu aucune preuve par témoins contre et outre le contenu aux actes, ni sur ce qui
+serait allégué avoir été dit avant, lors ou depuis les actes, encore qu'il s'agisse d'une somme ou valeur moindre de 50 F.
+
+Le tout sans préjudice de ce qui est prescrit dans les lois relatives au commerce.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°57-298 du 11 mars 1957 - art. 31 (Ab)
+	  - Décret n°80-533 du 15 juillet 1980 - art. 1 (M)
+	  - Code civil - art. 1343 (V)
+	  - Code civil - art. 1344 (V)
+	  - Code civil - art. 1345 (M)
+	  - Code civil - art. 1924 (V)
+	  - Code civil - art. 1950 (V)
+	  - Code de la propriété intellectuelle - art. L131-2 (VT)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°80-533 du 15 juillet 1980 - art. 1 (M)
+	  - TXT_SOURCE: Décret n°99-235 du 22 mars 1999
+	  - TXT_SOURCE: Décret n°99-235 du 22 mars 1999 - art. 1 ()
+	  - TXT_SOURCE: Décret n°2001-476 du 30 mai 2001
+	  - TXT_SOURCE: Décret n°2001-476 du 30 mai 2001 - art. 2 (V)
+	  - TXT_SOURCE: Décret n°2001-476 du 30 mai 2001 - art. 3 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1342
+
+La règle ci-dessus s'applique au cas où l'action contient, outre la demande du capital, une demande d'intérêts qui, réunis au
+capital, excèdent la somme de 50 F.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+	**Cité par**:
+
+	  - Loi n°57-298 du 11 mars 1957 - art. 31 (Ab)
+
+
+###### Article 1343
+
+Celui qui a formé une demande excédant 50 F ne peut plus être admis à la preuve testimoniale, même en restreignant sa demande
+primitive.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+	**Cité par**:
+
+	  - Loi n°57-298 du 11 mars 1957 - art. 31 (Ab)
+
+
+###### Article 1344
+
+La preuve testimoniale, sur la demande d'une somme même moindre de 50 F, ne peut être admise lorsque cette somme est déclarée
+être le restant ou faire partie d'une créance plus forte qui n'est point prouvée par écrit.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code de commerce - art. Annexe 4-9 (V)
+	  - Loi n°57-298 du 11 mars 1957 - art. 31 (Ab)
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1345
+
+Si, dans la même instance, une partie fait plusieurs demandes, dont il n'y ait point de titre par écrit, et que, jointes
+ensemble, elles excèdent la somme de 50 F, la preuve par témoins n'en peut être admise, encore que la partie allègue que ces
+créances proviennent de différentes causes, et qu'elles se soient formées en différents temps, si ce n'était que ces droits
+procédassent par succession, donation ou autrement, de personnes différentes.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°57-298 du 11 mars 1957 - art. 31 (Ab)
+	  - Décret n°2012-1246 du 7 novembre 2012 - art. 39 (V)
+	  - Arrêté du 24 décembre 2012 - art. 9 (V)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code civil - art. 1346 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
 ###### Article 1346
 
 Toutes les demandes, à quelque titre que ce soit, qui ne seront pas entièrement justifiées par écrit, seront formées par un
@@ -25051,6 +25179,42 @@ exprès ou tacite.
 	  - Loi n°1804-03-14 promulguée le 24 mars 1804
 
 
+###### Article 1923
+
+Le dépôt volontaire doit être prouvé par écrit. La preuve testimoniale n'en est point reçue pour valeur excédant 50 F.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-14
+
+	**Créé par**:
+
+	  - Loi n°1804-03-14 promulguée le 24 mars 1804
+
+	**Abrogé par**:
+
+	  - Loi n°80-525 du 12 juillet 1980 - art. 8, v. init.
+
+
+###### Article 1924
+
+Lorsque le dépôt, étant au-dessus de 50 F, n'est point prouvé par écrit, celui qui est attaqué comme dépositaire, en est cru
+sur sa déclaration, soit pour le fait même du dépôt, soit pour la chose qui en faisait l'objet, soit pour le fait de sa
+restitution.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-14
+
+	**Créé par**:
+
+	  - Loi n°1804-03-14 promulguée le 24 mars 1804
+
+
 ###### Article 1925
 
 Le dépôt volontaire ne peut avoir lieu qu'entre personnes capables de contracter.
@@ -25482,6 +25646,21 @@ Le dépositaire peut retenir le dépôt jusqu'à l'entier paiement de ce qui lui
 
 Le dépôt nécessaire est celui qui a été forcé par quelque accident, tel qu'un incendie, une ruine, un pillage, un naufrage ou
 autre événement imprévu.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-14
+
+	**Créé par**:
+
+	  - Loi n°1804-03-14 promulguée le 24 mars 1804
+
+
+###### Article 1950
+
+La preuve par témoins peut être reçue pour le dépôt nécessaire, même quand il s'agit d'une valeur au-dessus de 50 F.
 
 **Liens relatifs à cet article**
 
@@ -28095,6 +28274,30 @@ autres créanciers.
 	**Abrogé par**:
 
 	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 56 () JORF 24 mars 2006
+
+
+###### Article 2074
+
+Ce privilège n'a lieu qu'autant qu'il y a un acte public ou sous seing privé, dûment enregistré, contenant la déclaration de
+la somme dûe, ainsi que l'espèce et la nature des choses remises en gage, ou un état annexé de leur qualité, poids et
+mesures.
+
+La rédaction de l'acte par écrit et son enregistrement ne sont néanmoins prescrits qu'en matière excédant la valeur de 50 F.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°53-968 du 30 septembre 1953 - art. 1 (V)
+	  - Ordonnance n°98-774 du 2 septembre 1998 - art. 1 (VD)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-16
+
+	**Créé par**:
+
+	  - Loi n°1804-03-16 promulguée le 26 mars 1804
 
 
 ###### Article 2075

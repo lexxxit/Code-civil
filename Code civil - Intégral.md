@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1927-08-15
+Version Consolidée au 1929-07-11
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -684,6 +684,38 @@ Si la publication a été faite dans plusieurs communes, l'officier de l'état c
 celui d'entre eux qui doit célébrer le mariage un certificat constatant qu'il n'existe point d'opposition.
 
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-11
+
+	**Créé par**:
+
+	  - Loi n°1803-03-11 promulguée le 21 mars 1803
+
+
+###### Article 71
+
+Celui des futurs époux qui serait dans l'impossibilité de se procurer cet acte pourra le suppléer en rapportant un acte de
+notoriété délivré par le juge du tribunal d'instance du lieu de sa naissance ou par celui de son domicile.
+
+L'acte de notoriété contiendra la déclaration faite par trois témoins de l'un ou de l'autre sexe, parents ou non parents, des
+prénoms, nom, profession et domicile du futur époux, et de ceux de ses père et mère, s'ils sont connus ; le lieu, et, autant
+que possible, l'époque de sa naissance, et les causes qui empêchent d'en rapporter l'acte. Les témoins signeront l'acte de
+notoriété avec le juge du tribunal d'instance ; et s'il en est qui ne puissent ou ne sachent signer, il en sera fait mention.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°1920-06-20 du 20 juin 1920 - art. 2 (V)
+	  - Décret n°81-778 du 13 août 1981  - art. (VD)
+	  - Loi n°2011-331 du 28 mars 2011 - art. 37 (V)
+	  - Décret n°2016-92 du 1er février 2016 - art. 1
+	  - Décret n°2017-908 du 6 mai 2017 - art. 18 (V)
+	  - Code civil - art. 311-3 (Ab)
+	  - Code civil - art. 317 (V)
+	  - Code civil - art. 63 (V)
 
 	**Codifié par**:
 

@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1942-09-22
+Version Consolidée au 1942-11-04
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -2783,21 +2783,19 @@ Les époux se doivent mutuellement fidélité, secours, assistance.
 
 ###### Article 213
 
-Le mari, chef de la famille, a le choix de la résidence du ménage ; la femme est obligée d'habiter avec son mari, celui-ci
-est tenu de la recevoir.
+Le mari est le chef de la famille. Il exerce cette fonction dans l'intérêt commun du ménage et des enfants.
 
-Un droit de recours au tribunal, statuant en chambre du conseil, le mari dûment appelé et le ministère public entendu, est
-ouvert à la femme contre une fixation abusive de la résidence du ménage par le mari.
+La femme concourt avec le mari à assurer la direction morale et matérielle de la famille, à pourvoir à son entretien, à
+élever les enfants et à préparer leur établissement.
 
-La qualité de chef de famille cesse d'exister au profit du mari 1° dans les cas d'absence, d'interdiction, d'impossibilité
-pour le mari de manifester sa volonté, et de séparation de corps ; 2° lorsqu'il est condamné, même par contumace, à une peine
-criminelle, pendant la durée de sa peine.
+La femme remplace le mari dans sa fonction de chef s'il est hors d'état de manifester sa volonté en raison de son incapacité,
+de son absence, de son éloignement ou de tout autre cause.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi du 18 février 1938, v. init.
+	  - Loi du 22 septembre 1942, v. init.
 
 	**Cité par**:
 
@@ -2811,27 +2809,17 @@ criminelle, pendant la durée de sa peine.
 
 ###### Article 214
 
-Le mari est obligé de fournir à la femme tout ce qui est nécessaire pour les besoins de sa vie selon ses facultés et son
-état.
+Si le contrat de mariage ne règle pas la contribution des époux aux charges du mariage, ils contribuent à celles-ci en
+proportion de leurs facultés respectives.
 
-Sur les biens dont elle a l'administration, la femme doit contribuer proportionnellement à ses facultés et à celles de son
-mari tant aux frais du ménage qu'à ceux d'éducation des enfants communs, sauf dans les cas prévus aux articles 1537 ou 1575,
-où la contribution de la femme est fixée sur les bases en ces articles.
+L'obligation d'assumer ces charges pèse, à titre principal, sur le mari. Il est obligé de fournir à la femme tout ce qui est
+nécessaire pour les besoins de la vie selon ses facultés et son état.
 
-Faute par l'un des époux de remplir son obligation, l'autre époux pourra obtenir du juge de paix l'autorisation de saisir-
-arrêter et de toucher des salaires, du produit du travail ou des revenus de son conjoint une part proportionnée à ses
-besoins.
+La femme s'acquitte de sa contribution aux charges du mariage par ses apports en dot ou en communauté et par les prélèvements
+qu'elle fait sur les ressources personnelles dont l'administration lui est réservée.
 
-Les époux seront appelés devant le juge de paix par une lettre recommandée du greffier indiquant la nature de la demande.
-
-Ils devront comparaître en personne, sauf en cas d'empêchement absolu et dûment justifié.
-
-La signification du jugement par l'époux qui l'aura obtenu à son conjoint et aux tiers débiteurs lui vaut par elle-même
-attribution des sommes saisies.
-
-Les jugements ainsi rendus seront exécutoires par provision nonobstant opposition ou appel.
-
-Une nouvelle décision peut toujours être provoquée si un changement des situations respectives le justifie.
+Si l'un des deux époux ne remplit pas ses obligations, il peut y être contraint par l'autre époux dans les formes prévues à
+l'article 864 du code de procédure civile.
 
 **Liens relatifs à cet article**
 
@@ -2872,20 +2860,22 @@ Une nouvelle décision peut toujours être provoquée si un changement des situa
 
 	**Modifié par**:
 
-	  - Loi du 18 février 1938, v. init.
+	  - Loi du 22 septembre 1942, v. init.
 
 
 ###### Article 215
 
-La femme mariée a le plein exercice de sa capacité civile.
+Le choix de la résidence de la famille appartient au mari ; la femme est obligée d'habiter avec lui, et il est tenu de la
+recevoir.
 
-Les restrictions à cet exercice ne peuvent résulter que de limitations légales ou du régime matrimonial qu'elle a adopté.
+Lorsque la résidence fixée par le mari présente pour la famille des dangers d'ordre physique ou d'ordre moral, la femme peut,
+par exception, être autorisée à avoir, pour elle et ses enfants, une autre résidence fixée par le juge.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi du 18 février 1938, v. init.
+	  - Loi du 22 septembre 1942, v. init.
 
 	**Cité par**:
 

@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 2004-12-10
+Version Consolidée au 2005-01-01
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -4526,30 +4526,26 @@ L'acte de naissance sera rédigé immédiatement.
 
 ###### Article 57
 
-L'acte de naissance énoncera le jour, l'heure et le lieu de la naissance, le sexe de l'enfant et les prénoms qui lui seront
-donnés, les prénoms, noms, âges, professions et domiciles des père et mère et, s'il y a lieu, ceux du déclarant. Si les père
-et mère de l'enfant naturel, ou l'un d'eux, ne sont pas désignés à l'officier de l'état civil, il ne sera fait sur les
-registres aucune mention à ce sujet.
+L'acte de naissance énoncera le jour, l'heure et le lieu de la naissance, le sexe de l'enfant, les prénoms qui lui seront
+donnés, le nom de famille, suivi le cas échéant de la mention de la déclaration conjointe de ses parents quant au choix
+effectué, ainsi que les prénoms, noms, âges, professions et domiciles des père et mère et, s'il y a lieu, ceux du déclarant.
+Si les père et mère de l'enfant naturel, ou l'un d'eux, ne sont pas désignés à l'officier de l'état civil, il ne sera fait
+sur les registres aucune mention à ce sujet.
 
 Les prénoms de l'enfant sont choisis par ses père et mère. La femme qui a demandé le secret de son identité lors de
 l'accouchement peut faire connaître les prénoms qu'elle souhaite voir attribuer à l'enfant. A défaut ou lorsque les parents
-de celui-ci ne sont pas connus, l'officier de l'état civil choisit trois prénoms dont le dernier tient lieu de patronyme à
-l'enfant. L'officier de l'état civil porte immédiatement sur l'acte de naissance les prénoms choisis. Tout prénom inscrit
+de celui-ci ne sont pas connus, l'officier de l'état civil choisit trois prénoms dont le dernier tient lieu de nom de famille
+à l'enfant. L'officier de l'état civil porte immédiatement sur l'acte de naissance les prénoms choisis. Tout prénom inscrit
 dans l'acte de naissance peut être choisi comme prénom usuel.
 
 Lorsque ces prénoms ou l'un deux, seul ou associé aux autres prénoms ou au nom, lui paraissent contraires à l'intérêt de
-l'enfant ou au droit des tiers à voir protéger leur patronyme, l'officier de l'état civil en avise sans délai le procureur de
-la République. Celui-ci peut saisir le juge aux affaires familiales.
+l'enfant ou au droit des tiers à voir protéger leur nom de famille, l'officier de l'état civil en avise sans délai le
+procureur de la République. Celui-ci peut saisir le juge aux affaires familiales.
 
 Si le juge estime que le prénom n'est pas conforme à l'intérêt de l'enfant ou méconnaît le droit des tiers à voir protéger
-leur patronyme, il en ordonne la suppression sur les registres de l'état civil. Il attribue, le cas échéant, à l'enfant un
-autre prénom qu'il détermine lui-même à défaut par les parents d'un nouveau choix qui soit conforme aux intérêts susvisés.
+leur nom de famille, il en ordonne la suppression sur les registres de l'état civil. Il attribue, le cas échéant, à l'enfant
+un autre prénom qu'il détermine lui-même à défaut par les parents d'un nouveau choix qui soit conforme aux intérêts susvisés.
 Mention de la décision est portée en marge des actes de l'état civil de l'enfant.
-
-**Nota:**
-
-Ces dispositions demeurent en vigueur jusqu'au 1er janvier 2005, l'article 13 de la loi n° 2003-516 ayant reporté au 1er
-janvier 2005 la date initiale du 1er septembre 2003 prévue par l'article 25 de la loi n° 2002-304.
 
 **Liens relatifs à cet article**
 
@@ -4571,9 +4567,13 @@ janvier 2005 la date initiale du 1er septembre 2003 prévue par l'article 25 de 
 	  - Code de procédure civile - art. 1055-5 (V)
 	  - Code de procédure civile - art. 1056-1 (V)
 
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2003-516 2003-06-18 art. 13
+
 	**Modifié par**:
 
-	  - Loi n°96-604 du 5 juillet 1996 - art. 24 () JORF 6 juillet 1996
+	  - Loi n°2003-516 du 18 juin 2003 - art. 1 () JORF 19 juin 2003 en vigueur le 1er janvier 2005
 
 	**Codifié par**:
 
@@ -4822,19 +4822,18 @@ Le changement de nom s'étend de plein droit aux enfants du bénéficiaire lorsq
 Tout changement de nom de l'enfant de plus de treize ans nécessite son consentement personnel lorsque ce changement ne
 résulte pas de l'établissement ou d'une modification d'un lien de filiation.
 
-L'établissement ou la modification du lien de filiation n'emporte cependant le changement du patronyme des enfants majeurs
-que sous réserve de leur consentement.
+L'établissement ou la modification du lien de filiation n'emporte cependant le changement du nom de famille des enfants
+majeurs que sous réserve de leur consentement.
 
 **Liens relatifs à cet article**
 
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°93-22 1993-01-08 art. 64 *date d'effet*
+	  - SPEC_APPLI: Loi n°2002-304 2002-03-04 art. 24 et art. 25 (date d'effet à Mayotte)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°93-22 du 8 janvier 1993 - art. 4 () JORF 9 janvier 1993 en vigueur le 1er février 1994
-	  - Loi n°93-22 du 8 janvier 1993 - art. 64 (V) JORF 9 janvier 1993 en vigueur le 1er février 1994
+	  - Loi n°2002-304 du 4 mars 2002 - art. 3 () JORF 5 mars 2002 en vigueur le 1er janvier 2005
 
 	**Cité par**:
 
@@ -9428,42 +9427,49 @@ Il peut notamment interdire à cet époux de faire, sans le consentement de l'au
 biens ou sur ceux de la communauté, meubles ou immeubles. Il peut aussi interdire le déplacement des meubles, sauf à
 spécifier ceux dont il attribue l'usage personnel à l'un ou à l'autre des conjoints.
 
-La durée des mesures prévues au présent article doit être déterminée. Elle ne saurait, prolongation éventuellement comprise,
-dépasser trois ans.
+Lorsque les violences exercées par l'un des époux mettent en danger son conjoint, un ou plusieurs enfants, le juge peut
+statuer sur la résidence séparée des époux en précisant lequel des deux continuera à résider dans le logement conjugal. Sauf
+circonstances particulières, la jouissance de ce logement est attribuée au conjoint qui n'est pas l'auteur des violences. Le
+juge se prononce, s'il y a lieu, sur les modalités d'exercice de l'autorité parentale et sur la contribution aux charges du
+mariage. Les mesures prises sont caduques si, à l'expiration d'un délai de quatre mois à compter de leur prononcé, aucune
+requête en divorce ou en séparation de corps n'a été déposée.
+
+La durée des autres mesures prises en application du présent article doit être déterminée par le juge et ne saurait,
+prolongation éventuellement comprise, dépasser trois ans.
 
 **Liens relatifs à cet article**
 
 	**Cité par**:
 
-	  - Loi n°1924-06-01 du 1 juin 1924 - art. 30 (Ab)
-	  - Loi n°65-570 du 13 juillet 1965 - art. 6 (V)
-	  - Décret n°67-237 du 23 mars 1967 - art. 30 (Ab)
-	  - Décret n°67-237 du 23 mars 1967 - art. 9 (Ab)
-	  - Décret n°84-406 du 30 mai 1984 - art. 8 (M)
 	  - Arrêté du 29 juillet 1987 - art. 4 (M)
 	  - Arrêté du 9 février 1988 - art. Annexe I (V)
 	  - Arrêté du 9 février 1988 - art. Annexe II (V)
 	  - Arrêté du 9 février 1988 - art. Annexe III (V)
 	  - Arrêté du 9 février 1988 - art. Annexe VI (V)
-	  - Loi n°91-650 du 9 juillet 1991 - art. 66-1 (V)
 	  - Code civil - art. 257 (V)
 	  - Code de la construction et de l'habitation. - art. L441-1 (V)
 	  - Code de procédure civile - art. 1290 (V)
+	  - Loi n°1924-06-01 du 1 juin 1924 - art. 30 (Ab)
+	  - Loi n°65-570 du 13 juillet 1965 - art. 6 (V)
+	  - Décret n°67-237 du 23 mars 1967 - art. 30 (Ab)
+	  - Décret n°67-237 du 23 mars 1967 - art. 9 (Ab)
+	  - Décret n°84-406 du 30 mai 1984 - art. 8 (M)
+	  - Loi n°91-650 du 9 juillet 1991 - art. 66-1 (V)
 
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°93-22 1993-01-08 art. 63, art. 64
 	  - TXT_ASSOCIE: Code civil - art. 220-2 (V)
 	  - TXT_ASSOCIE: Code civil - art. 220-3 (V)
-
-	**Modifié par**:
-
-	  - Loi n°93-22 du 8 janvier 1993 - art. 48 () JORF 9 janvier 1993 en vigueur le 1er février 1994
-	  - Loi n°93-22 du 8 janvier 1993 - art. 64 (V) JORF 9 janvier 1993 en vigueur le 1er février 1994
+	  - TXT_SOURCE: Directive 2003-87 CE 2003-10-13 (Parlement et Conseil)
+	  - SPEC_APPLI: Loi n°2004-439 2004-05-26 art. 32 I : Champ d'application
 
 	**Codifié par**:
 
 	  - Loi n°1803-03-14
+
+	**Modifié par**:
+
+	  - Loi n°2004-439 du 26 mai 2004 - art. 22 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
 
 
 ###### Article 220-2
@@ -9658,42 +9664,37 @@ Le mariage se dissout :
 	  - Loi n°1803-03-17 promulguée le 27 mars 1803
 
 
-### Chapitre VIII : Des seconds mariages.
+## Titre VI : Du divorce
 
 ###### Article 228
 
-La femme ne peut contracter un nouveau mariage qu'après trois cents jours révolus depuis la dissolution du mariage précédent.
+Le tribunal de grande instance statuant en matière civile est seul compétent pour se prononcer sur le divorce et ses
+conséquences.
 
-Ce délai prend fin en cas d'accouchement après le décès du mari. Il prend fin également si la femme produit un certificat
-médical attestant qu'elle n'est pas en état de grossesse.
+Un juge de ce tribunal est délégué aux affaires familiales.
 
-Le président du tribunal de grande instance, dans le ressort duquel le mariage doit être célébré, peut, par ordonnance, sur
-simple requête, abréger le délai prévu par le présent article, lorsqu'il résulte avec évidence des circonstances que, depuis
-trois cents jours, le précédent mari n'a pas cohabité avec sa femme. La requête est sujette à communication au ministère
-public. En cas de rejet de la requête, il peut être interjeté appel.
+Ce juge a compétence pour prononcer le divorce, quelle qu'en soit la cause. Il peut renvoyer l'affaire en l'état à une
+audience collégiale. Ce renvoi est de droit à la demande d'une partie.
 
-**Nota:**
-
-NOTA : La loi 2004-439 du 26 mai 2004 entrera en vigueur le 1er janvier 2005 sauf pour les exceptions citées par l'article 33
-II.
+Il est également seul compétent, après le prononcé du divorce, quelle qu'en soit la cause, pour statuer sur les modalités de
+l'exercice de l'autorité parentale, sur la modification de la contribution à l'entretien et l'éducation des enfants et pour
+décider de confier ceux-ci à un tiers ainsi que sur la révision de la prestation compensatoire ou de ses modalités de
+paiement. Il statue alors sans formalité et peut être saisi par les parties intéressées sur simple requête.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Liens**:
 
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°1803-03-17 promulguée le 27 mars 1803
+	  - SPEC_APPLI: Loi n°2004-439 2004-05-26 art. 32 I : Champ d'application
 
 	**Modifié par**:
 
-	  - Loi n°75-617 1975-07-11 art. 7 JORF 12 juillet 1975 en vigueur le 1er juillet 1976
+	  - Loi n°2004-439 du 26 mai 2004 - art. 22 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
+	  - Loi n°2004-439 du 26 mai 2004 - art. 6 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
 
 	**Abrogé par**:
 
-	  - Loi n°2004-439 du 26 mai 2004 - art. 23 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
+	  - Loi n°2009-526 du 12 mai 2009 - art. 14 (V)
 
 	**Cité par**:
 
@@ -9706,8 +9707,10 @@ II.
 
 	  - Code civil - art. 247 (M)
 
+	**Codifié par**:
 
-## Titre VI : Du divorce
+	  - Loi n°1803-03-14
+
 
 ### Chapitre Ier : Des cas de divorce
 
@@ -9717,20 +9720,22 @@ Le divorce peut être prononcé en cas :
 
 - soit de consentement mutuel ;
 
-- soit de rupture de la vie commune ;
+- soit d'acceptation du principe de la rupture du mariage ;
+
+- soit d'altération définitive du lien conjugal ;
 
 - soit de faute.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
-
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+	  - SPEC_APPLI: Loi n°2004-439 2004-05-26 art. 32 I : Champ d'application
+	  - TXT_SOURCE: Directive 2003-87 CE 2003-10-13 (Parlement et Conseil)
+
+	**Modifié par**:
+
+	  - Loi n°2004-439 du 26 mai 2004 - art. 1 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
 
 	**Cité par**:
 
@@ -9745,51 +9750,47 @@ Le divorce peut être prononcé en cas :
 
 ###### Article 230
 
-Lorsque les époux demandent ensemble le divorce, ils n'ont pas à en faire connaître la cause ; ils doivent seulement
-soumettre à l'approbation du juge un projet de convention qui en règle les conséquences.
+Le divorce peut être demandé conjointement par les époux lorsqu'ils s'entendent sur la rupture du mariage et ses effets en
+soumettant à l'approbation du juge une convention réglant les conséquences du divorce.
 
-La demande peut être présentée, soit par les avocats respectifs des parties, soit par un avocat choisi d'un commun accord.
+**Nota:**
 
-Le divorce par consentement mutuel ne peut être demandé au cours des six premiers mois de mariage.
+
 
 **Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_SOURCE: Directive 2003-87 CE 2003-10-13 (Parlement et Conseil)
+	  - SPEC_APPLI: Loi n°2004-439 2004-05-26 art. 32 I : Champ d'application
 
 	**Codifié par**:
 
 	  - Loi n°1803-03-14
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+	  - Loi n°2004-439 du 26 mai 2004 - art. 2 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
 
 
 ###### Article 232
 
-Le juge prononce le divorce s'il a acquis la conviction que la volonté de chacun des époux est réelle et que chacun d'eux a
-donné librement son accord. Il homologue, par la même décision, la convention réglant les conséquences du divorce.
+Le juge homologue la convention et prononce le divorce s'il a acquis la conviction que la volonté de chacun des époux est
+réelle et que leur consentement est libre et éclairé.
 
 Il peut refuser l'homologation et ne pas prononcer le divorce s'il constate que la convention préserve insuffisamment les
 intérêts des enfants ou de l'un des époux.
 
+**Nota:**
+
+
+
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
 
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+	  - TXT_SOURCE: Directive 2003-87 CE 2003-10-13 (Parlement et Conseil)
+	  - SPEC_APPLI: Loi n°2004-439 2004-05-26 art. 32 I : Champ d'application
 
 	**Cité par**:
 
@@ -9797,55 +9798,27 @@ intérêts des enfants ou de l'un des époux.
 	  - Code civil - art. 250-1 (V)
 	  - Code général des impôts, CGI. - art. 862 (V)
 
-
-##### Paragraphe 1 : Du divorce sur demande conjointe des époux.
-
-###### Article 231
-
-Le juge examine la demande avec chacun des époux, puis les réunit. Il appelle ensuite le ou les avocats.
-
-Si les époux persistent en leur intention de divorcer, le juge leur indique que leur demande doit être renouvelée après un
-délai de réflexion de trois mois.
-
-A défaut de renouvellement dans les six mois qui suivent l'expiration de ce délai de réflexion, la demande conjointe sera
-caduque.
-
-**Nota:**
-
-NOTA : La loi 2004-439 du 26 mai 2004 entrera en vigueur le 1er janvier 2005 sauf pour les exceptions citées par l'article 33
-II.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
-
-	**Abrogé par**:
-
-	  - Loi n°2004-439 du 26 mai 2004 - art. 23 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
-
-	**Cité par**:
-
-	  - Code civil - art. 246 (M)
-	  - Nouveau code de procédure civile - art. 1095 (Ab)
-
 	**Codifié par**:
 
 	  - Loi n°1803-03-14
 
+	**Modifié par**:
 
-##### Paragraphe 2 : Du divorce demandé par un époux et accepté par l'autre.
+	  - Loi n°2004-439 du 26 mai 2004 - art. 2 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
+
+
+#### Section 2 : Du divorce accepté
 
 ###### Article 233
 
-L'un des époux peut demander le divorce en faisant état d'un ensemble de faits, procédant de l'un et de l'autre, qui rendent
-intolérable le maintien de la vie commune.
+Le divorce peut être demandé par l'un ou l'autre des époux ou par les deux lorsqu'ils acceptent le principe de la rupture du
+mariage sans considération des faits à l'origine de celle-ci.
+
+Cette acceptation n'est pas susceptible de rétractation, même par la voie de l'appel.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
@@ -9853,14 +9826,13 @@ intolérable le maintien de la vie commune.
 
 	  - Loi n°1803-03-14
 
-	**Créé par**:
-
-	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
-
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+	  - SPEC_APPLI: Loi n°2004-439 2004-05-26 art. 32 I : Champ d'application
+
+	**Modifié par**:
+
+	  - Loi n°2004-439 du 26 mai 2004 - art. 3 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
 
 	**Cité par**:
 
@@ -9874,33 +9846,12 @@ intolérable le maintien de la vie commune.
 
 ###### Article 234
 
-Si l'autre époux reconnaît les faits devant le juge, celui-ci prononce le divorce sans avoir à statuer sur la répartition des
-torts. Le divorce ainsi prononcé produit les effets d'un divorce aux torts partagés.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
-
-
-###### Article 235
-
-Si l'autre époux ne reconnaît pas les faits, le juge ne prononce pas le divorce.
+S'il a acquis la conviction que chacun des époux a donné librement son accord, le juge prononce le divorce et statue sur ses
+conséquences.
 
 **Nota:**
 
-Nota : La loi 2004-439 du 26 mai 2004 entrera en vigueur le 1er janvier 2005 sauf pour les exceptions citées par l'article 33
-II.
+
 
 **Liens relatifs à cet article**
 
@@ -9908,55 +9859,24 @@ II.
 
 	  - Loi n°1803-03-14
 
-	**Créé par**:
-
-	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
-
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+	  - SPEC_APPLI: Loi n°2004-439 2004-05-26 art. 32 I : Champ d'application
 
-	**Abrogé par**:
+	**Modifié par**:
 
-	  - Loi n°2004-439 du 26 mai 2004 - art. 23 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
-
-
-###### Article 236
-
-Les déclarations faites par les époux ne peuvent être utilisées comme moyen de preuve dans aucune autre action en justice.
-
-**Nota:**
-
-Nota : La loi 2004-439 du 26 mai 2004 entrera en vigueur le 1er janvier 2005 sauf pour les exceptions citées par l'article 33
-II.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
-
-	**Abrogé par**:
-
-	  - Loi n°2004-439 du 26 mai 2004 - art. 23 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
+	  - Loi n°2004-439 du 26 mai 2004 - art. 3 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
 
 
-#### Section 2 : Du divorce pour rupture de la vie commune.
+#### Section 3 : Du divorce pour altération définitive du lien conjugal
 
 ###### Article 237
 
-Un époux peut demander le divorce, en raison d'une rupture prolongée de la vie commune, lorsque les époux vivent séparés de
-fait depuis six ans.
+Le divorce peut être demandé par l'un des époux lorsque le lien conjugal est définitivement altéré.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
@@ -9973,34 +9893,32 @@ fait depuis six ans.
 	  - Code civil - art. 261-1 (Ab)
 	  - Code civil - art. 264 (M)
 
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2004-439 2004-05-26 art. 32 I : Champ d'application
+
+	**Modifié par**:
+
+	  - Loi n°2004-439 du 26 mai 2004 - art. 4 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
+
 	**Codifié par**:
 
 	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
 
 
 ###### Article 238
 
-Il en est de même lorsque les facultés mentales du conjoint se trouvent, depuis six ans, si gravement altérées qu'aucune
-communauté de vie ne subsiste plus entre les époux et ne pourra, selon les prévisions les plus raisonnables, se reconstituer
-dans l'avenir.
+L'altération définitive du lien conjugal résulte de la cessation de la communauté de vie entre les époux, lorsqu'ils vivent
+séparés depuis deux ans lors de l'assignation en divorce. 
 
-Le juge peut rejeter d'office cette demande, sous réserve des dispositions de l'article 240, si le divorce risque d'avoir des
-conséquences trop graves sur la maladie du conjoint.
+Nonobstant ces dispositions, le divorce est prononcé pour altération définitive du lien conjugal dans le cas prévu au second
+alinéa de l'article 246, dès lors que la demande présentée sur ce fondement est formée à titre reconventionnel.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
 
 	**Cité par**:
 
@@ -10023,155 +9941,33 @@ conséquences trop graves sur la maladie du conjoint.
 	  - Nouveau code de procédure civile - art. 1120 (M)
 	  - Nouveau code de procédure civile - art. 1124 (M)
 
-	**Créé par**:
-
-	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
-
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+	  - SPEC_APPLI: Loi n°2004-439 2004-05-26 art. 32 I : Champ d'application
 
+	**Modifié par**:
 
-###### Article 239
-
-L'époux qui demande le divorce pour rupture de la vie commune en supporte toutes les charges. Dans sa demande il doit
-préciser les moyens par lesquels il exécutera ses obligations à l'égard de son conjoint et des enfants.
-
-**Nota:**
-
-Nota : La loi 2004-439 du 26 mai 2004 entrera en vigueur le 1er janvier 2005 sauf pour les exceptions citées par l'article 33
-II.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Décret n°50-1225 du 21 septembre 1950 - art. 62-1 (M)
-	  - Décret n°51-727 du 6 juin 1951 - art. 2 (Ab)
-	  - Décret n°55-753 du 31 mai 1955 - art. 40 (T)
-	  - Décret n°55-753 du 31 mai 1955 - art. 57 (T)
-	  - Décret n°55-753 du 31 mai 1955 - art. 62 (Ab)
-	  - Loi n°75-618 du 11 juillet 1975 - art. 16 (Ab)
-	  - Décret n°77-1194 du 20 octobre 1977 - art. 1 (Ab)
-	  - Code de procédure civile - art. 1136-2 (VD)
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
-
-	**Abrogé par**:
-
-	  - Loi n°2004-439 du 26 mai 2004 - art. 23 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
-
-
-###### Article 240
-
-Si l'autre époux établit que le divorce aurait, soit pour lui, compte tenu notamment de son âge et de la durée du mariage,
-soit pour les enfants, des conséquences matérielles ou morales d'une exceptionnelle dureté, le juge rejette la demande.
-
-Il peut même la rejeter d'office dans le cas prévu à l'article 238.
-
-**Nota:**
-
-Nota : La loi 2004-439 du 26 mai 2004 entrera en vigueur le 1er janvier 2005 sauf pour les exceptions citées par l'article 33
-II.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Loi n°1928-03-30 du 30 mars 1928 - art. 2 septies (V)
-	  - Loi n°1930-08-24 du 24 août 1930 - art. 7 (V)
-	  - Décret n°50-1225 du 21 septembre 1950 - art. 62-1 (M)
-	  - Décret n°51-727 du 6 juin 1951 - art. 2 (Ab)
-	  - Décret n°55-753 du 31 mai 1955 - art. 40 (T)
-	  - Décret n°55-753 du 31 mai 1955 - art. 57 (T)
-	  - Décret n°55-753 du 31 mai 1955 - art. 62 (Ab)
-	  - Loi n°75-618 du 11 juillet 1975 - art. 16 (Ab)
-	  - Décret n°77-1194 du 20 octobre 1977 - art. 1 (Ab)
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
-
-	**Abrogé par**:
-
-	  - Loi n°2004-439 du 26 mai 2004 - art. 23 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
+	  - Loi n°2004-439 du 26 mai 2004 - art. 4 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
 
 	**Cite**:
 
-	  - Code civil - art. 238 (M)
-
-
-###### Article 241
-
-La rupture de la vie commune ne peut être invoquée comme cause du divorce que par l'époux qui présente la demande initiale,
-appelée demande principale.
-
-L'autre époux peut alors présenter une demande, appelée demande reconventionnelle, invoquant les torts de celui qui a pris
-l'initiative. Cette demande reconventionnelle ne peut tendre qu'au divorce et non à la séparation de corps. Si le juge
-l'admet, il rejette la demande principale et prononce le divorce aux torts de l'époux qui en a pris l'initiative.
-
-**Nota:**
-
-Nota : La loi 2004-439 du 26 mai 2004 entrera en vigueur le 1er janvier 2005 sauf pour les exceptions citées par l'article 33
-II.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Décret n°50-1225 du 21 septembre 1950 - art. 62-1 (M)
-	  - Décret n°51-727 du 6 juin 1951 - art. 2 (Ab)
-	  - Décret n°55-753 du 31 mai 1955 - art. 40 (T)
-	  - Décret n°55-753 du 31 mai 1955 - art. 57 (T)
-	  - Décret n°55-753 du 31 mai 1955 - art. 62 (Ab)
-	  - Décret n°77-1194 du 20 octobre 1977 - art. 1 (Ab)
-	  - Loi n°75-618 du 11 juillet 1975 - art. 16 (Ab)
+	  - Code civil - art. 246 (V)
 
 	**Codifié par**:
 
 	  - Loi n°1803-03-14
 
-	**Créé par**:
 
-	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
-
-	**Abrogé par**:
-
-	  - Loi n°2004-439 du 26 mai 2004 - art. 23 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
-
-
-#### Section 3 : Du divorce pour faute.
+#### Section 4 : Du divorce pour faute
 
 ###### Article 242
 
-Le divorce peut être demandé par un époux pour des faits imputables à l'autre lorsque ces faits constituent une violation
-grave ou renouvelée des devoirs et obligations du mariage et rendent intolérable le maintien de la vie commune.
+Le divorce peut être demandé par l'un des époux lorsque des faits constitutifs d'une violation grave ou renouvelée des
+devoirs et obligations du mariage sont imputables à son conjoint et rendent intolérable le maintien de la vie commune.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
@@ -10179,51 +9975,17 @@ grave ou renouvelée des devoirs et obligations du mariage et rendent intolérab
 
 	  - Loi n°1803-03-14
 
-	**Créé par**:
-
-	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
-
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+	  - SPEC_APPLI: Loi n°2004-439 2004-05-26 art. 32 I : Champ d'application
+
+	**Modifié par**:
+
+	  - Loi n°2004-439 du 26 mai 2004 - art. 5 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
 
 	**Cité par**:
 
 	  - Décret n°2014-945 du 21 août 2014 - art. 1 (VT)
-
-
-###### Article 243
-
-Il peut être demandé par un époux lorsque l'autre a été condamné à l'une des peines prévues par l'article 131-1 du code
-pénal.
-
-**Nota:**
-
-NOTA : La loi 2004-439 du 26 mai 2004 entrera en vigueur le 1er janvier 2005 sauf pour les exceptions citées par l'article 33
-II.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Modifié par**:
-
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 136 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
-
-	**Abrogé par**:
-
-	  - Loi n°2004-439 du 26 mai 2004 - art. 23 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
-
-	**Cite**:
-
-	  - Code pénal - art. 131-1 (V)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Ordonnance n°96-267 1996-03-28 art. 12 I *la loi n°92-1336 du 16 décembre 1992 relative à l'entrée en vigueur du nouveau code pénal entre en application dans les TOM et à Mayotte au 1er mai 1996*
 
 
 ###### Article 244
@@ -10236,20 +9998,23 @@ découverts depuis la réconciliation, les faits anciens pouvant alors être rap
 Le maintien ou la reprise temporaire de la vie commune ne sont pas considérés comme une réconciliation s'ils ne résultent que
 de la nécessité ou d'un effort de conciliation ou des besoins de l'éducation des enfants.
 
+**Nota:**
+
+
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Loi n°1803-03-14
 
-	**Créé par**:
-
-	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
-
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+	  - SPEC_APPLI: Loi n°2004-439 2004-05-26 art. 32 I : Champ d'application
+
+	**Modifié par**:
+
+	  - Loi n°2004-439 du 26 mai 2004 - art. 5 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
 
 
 ###### Article 245
@@ -10263,108 +10028,185 @@ demandes sont accueillies, le divorce est prononcé aux torts partagés.
 Même en l'absence de demande reconventionnelle, le divorce peut être prononcé aux torts partagés des deux époux si les débats
 font apparaître des torts à la charge de l'un et de l'autre.
 
+**Nota:**
+
+
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Loi n°1803-03-14
 
-	**Créé par**:
-
-	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
-
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+	  - SPEC_APPLI: Loi n°2004-439 2004-05-26 art. 32 I : Champ d'application
+
+	**Modifié par**:
+
+	  - Loi n°2004-439 du 26 mai 2004 - art. 5 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
 
 	**Cité par**:
 
 	  - Code de procédure civile - art. 1136-2 (VD)
 
 
+###### Article 245-1
+
+A la demande des conjoints, le juge peut se limiter à constater dans les motifs du jugement qu'il existe des faits
+constituant une cause de divorce, sans avoir à énoncer les torts et griefs des parties.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2004-439 2004-05-26 art. 32 I : Champ d'application
+
+	**Créé par**:
+
+	  - Loi n°2004-439 2004-05-26 art. 5, art. 6, art. 22 III, IV JORF 27 mai 2004 en vigueur le 1er janvier 2005
+	  - Loi n°2004-439 du 26 mai 2004 - art. 22 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
+	  - Loi n°2004-439 du 26 mai 2004 - art. 5 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
+	  - Loi n°2004-439 du 26 mai 2004 - art. 6 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
+
+	**Anciens textes**:
+
+	  - Code civil - art. 248-1 (M)
+	  - Code civil - art. 248-1 (T)
+
+
 ###### Article 246
 
-Lorsque le divorce aura été demandé en application des articles 233 à 245, les époux pourront, tant qu'aucune décision sur le
-fond n'aura été rendue, demander au juge aux affaires familiales de constater leur accord et d'homologuer le projet de
-convention réglant les conséquences du divorce.
+Si une demande pour altération définitive du lien conjugal et une demande pour faute sont concurremment présentées, le juge
+examine en premier lieu la demande pour faute.
 
-Les dispositions des articles 231 et 232 seront alors applicables.
+S'il rejette celle-ci, le juge statue sur la demande en divorce pour altération définitive du lien conjugal.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°93-22 1993-01-08 art. 63 *Mayotte*, art. 64 *date d'effet*
+	  - SPEC_APPLI: Loi n°2004-439 2004-05-26 art. 32 I : Champ d'application
 
 	**Modifié par**:
 
-	  - Loi n°93-22 du 8 janvier 1993 - art. 48 () JORF 9 janvier 1993 en vigueur le 1er février 1994
-	  - Loi n°93-22 du 8 janvier 1993 - art. 64 (V) JORF 9 janvier 1993 en vigueur le 1er février 1994
+	  - Loi n°2004-439 du 26 mai 2004 - art. 5 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
 
 	**Cité par**:
 
 	  - Loi n°2004-439 du 26 mai 2004 - art. 33 (V)
 	  - Code civil - art. 238 (V)
 
-	**Cite**:
-
-	  - Code civil - art. 231 (Ab)
-	  - Code civil - art. 232 (M)
-	  - Code civil 231, 232, 233 à 245
-
 	**Codifié par**:
 
 	  - Loi n°1803-03-14
 
 
-### Chapitre II : De la procédure du divorce
-
-#### Section 1 : Dispositions générales
+#### Section 5 : Des modifications du fondement d'une demande en divorce
 
 ###### Article 247
 
-Le tribunal de grande instance statuant en matière civile est seul compétent pour se prononcer sur le divorce et ses
-conséquences.
-
-Un juge de ce tribunal est délégué aux affaires familiales.
-
-Ce juge a compétence pour prononcer le divorce, quelle qu'en soit la cause. Il peut renvoyer l'affaire en l'état à une
-audience collégiale. Ce renvoi est de droit à la demande d'une partie.
-
-Il est également seul compétent, après le prononcé du divorce, quelle qu'en soit la cause, pour statuer sur les modalités de
-l'exercice de l'autorité parentale, sur la modification de la pension alimentaire et sur la révision de la prestation
-compensatoire ou de ses modalités de paiement, ainsi que pour décider de confier les enfants à un tiers. Il statue alors sans
-formalité et peut être saisi par les parties intéressées sur simple requête.
+Les époux peuvent, à tout moment de la procédure, demander au juge de constater leur accord pour voir prononcer leur divorce
+par consentement mutuel en lui présentant une convention réglant les conséquences de celui-ci.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
-
-	  - Loi n°2002-305 du 4 mars 2002 - art. 8 () JORF 5 mars 2002
-
-	**Transféré par**:
-
-	  - Loi n°2004-439 du 26 mai 2004 - art. 6 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
-
 	**Cité par**:
 
-	  - Loi n°2004-439 du 26 mai 2004 - art. 33 (V)
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L312-1 (M)
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R311-29-3 (Ab)
 	  - Code de procédure civile - art. 1077 (VD)
+	  - Loi n°2004-439 du 26 mai 2004 - art. 33 (V)
 	  - Nouveau code de procédure civile - art. 1074 (M)
 
 	**Nouveaux textes**:
 
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L312-1 (V)
-	  - Code civil - art. 228 (Ab)
 	  - Code civil - art. 228 (V)
 
 	**Codifié par**:
 
 	  - Loi n°1803-03-14
 
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2004-439 2004-05-26 art. 32 I : Champ d'application
+
+	**Modifié par**:
+
+	  - Loi n°2004-439 du 26 mai 2004 - art. 7 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
+
+
+###### Article 247-1
+
+Les époux peuvent également, à tout moment de la procédure, lorsque le divorce aura été demandé pour altération définitive du
+lien conjugal ou pour faute, demander au juge de constater leur accord pour voir prononcer le divorce pour acceptation du
+principe de la rupture du mariage.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2004-439 2004-05-26 art. 32 I : Champ d'application
+
+	**Créé par**:
+
+	  - Loi n°2004-439 du 26 mai 2004 - art. 7 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
+
+	**Cité par**:
+
+	  - Loi n°2004-439 du 26 mai 2004 - art. 33 (M)
+	  - Code de procédure civile - art. 1123 (V)
+
+
+###### Article 247-2
+
+Si, dans le cadre d'une instance introduite pour altération définitive du lien conjugal, le défendeur demande
+reconventionnellement le divorce pour faute, le demandeur peut invoquer les fautes de son conjoint pour modifier le fondement
+de sa demande.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2004-439 2004-05-26 art. 32 I : Champ d'application
+
+	**Créé par**:
+
+	  - Loi n°2004-439 du 26 mai 2004 - art. 7 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
+
+
+### Chapitre II : De la procédure du divorce
+
+#### Section 1 : Dispositions générales
 
 ###### Article 248
 
@@ -10386,62 +10228,34 @@ Les débats sur la cause, les conséquences du divorce et les mesures provisoire
 	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
 
 
-###### Article 248-1
-
-En cas de divorce pour faute, et à la demande des conjoints, le juge aux affaires familiales peut se limiter à constater dans
-les motifs du jugement qu'il existe des faits constituant une cause de divorce, sans avoir à énoncer les torts et griefs des
-parties.
-
-**Nota:**
-
-NOTA : La loi 2004-439 du 26 mai 2004 entrera en vigueur le 1er janvier 2005 sauf pour les exceptions citées par l'article 33
-II.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°93-22 1993-01-08 art. 63 *Mayotte*, art. 64 *date d'effet*
-
-	**Modifié par**:
-
-	  - Loi n°93-22 du 8 janvier 1993 - art. 48 () JORF 9 janvier 1993 en vigueur le 1er février 1994
-	  - Loi n°93-22 du 8 janvier 1993 - art. 64 (V) JORF 9 janvier 1993 en vigueur le 1er février 1994
-
-	**Transféré par**:
-
-	  - Loi n°2004-439 du 26 mai 2004 - art. 6 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
-
-	**Nouveaux textes**:
-
-	  - Code civil - art. 245-1 (V)
-
-
 ###### Article 249
 
-Si une demande en divorce doit être formée au nom d'un majeur en tutelle, elle est présentée par le tuteur avec
-l'autorisation du conseil de famille, après avis du médecin traitant.
+Si une demande en divorce doit être formée au nom d'un majeur en tutelle, elle est présentée par le tuteur, avec
+l'autorisation du conseil de famille s'il a été institué ou du juge des tutelles. Elle est formée après avis du médecin
+traitant et, dans la mesure du possible, après audition de l'intéressé, selon le cas, par le conseil de famille ou le juge.
 
 Le majeur en curatelle exerce l'action lui-même avec l'assistance du curateur.
 
+**Nota:**
+
+La loi 2004-439 du 26 mai 2004 entrera en vigueur le 1er janvier 2005 sauf pour les exceptions citées par l'article 33 II.
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+
 **Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_SOURCE: Directive 2003-87 CE 2003-10-13 (Parlement et Conseil)
+	  - SPEC_APPLI: Loi n°2004-439 2004-05-26 art. 32 I : Champ d'application
 
 	**Codifié par**:
 
 	  - Loi n°1803-03-14
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+	  - Loi n°2004-439 du 26 mai 2004 - art. 8 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
 
 
 ###### Article 249-1
@@ -10492,88 +10306,201 @@ La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 ###### Article 249-3
 
 Si l'un des époux se trouve placé sous la sauvegarde de justice, la demande en divorce ne peut être examinée qu'après
-organisation de la tutelle ou de la curatelle.
+organisation de la tutelle ou de la curatelle. Toutefois, le juge peut prendre les mesures provisoires prévues aux articles
+254 et 255 et les mesures urgentes prévues à l'article 257.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2004-439 du 26 mai 2004 - art. 8 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
+
+	**Cite**:
+
+	  - Code civil - art. 254 (V)
+	  - Code civil - art. 255 (V)
+	  - Code civil - art. 257 (V)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Directive 2003-87 CE 2003-10-13 (Parlement et Conseil)
 
 	**Codifié par**:
 
 	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
 
 
 ###### Article 249-4
 
 Lorsque l'un des époux se trouve placé sous l'un des régimes de protection prévus à l'article 490 ci-dessous, aucune demande
-en divorce par consentement mutuel ne peut être présentée.
+en divorce par consentement mutuel ou pour acceptation du principe de la rupture du mariage ne peut être présentée.
+
+**Nota:**
+
+La loi 2004-439 du 26 mai 2004 entrera en vigueur le 1er janvier 2005 sauf pour les exceptions citées par l'article 33 II.
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 
 **Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_SOURCE: Directive 2003-87 CE 2003-10-13 (Parlement et Conseil)
+	  - SPEC_APPLI: Loi n°2004-439 2004-05-26 art. 32 I : Champ d'application
 
 	**Codifié par**:
 
 	  - Loi n°1803-03-14
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+	  - Loi n°2004-439 du 26 mai 2004 - art. 8 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
 
 	**Cite**:
 
-	  - Code civil - art. 490 (AbD)
+	  - Code civil - art. 490 (VD)
 
+
+#### Section 2 : De la procédure applicable au divorce par consentement mutuel
 
 ###### Article 250
 
-En cas d'interdiction légale résultant d'une condamnation, l'action en divorce ne peut être exercée par le tuteur qu'avec
-l'autorisation de l'époux interdit.
+La demande en divorce est présentée par les avocats respectifs des parties ou par un avocat choisi d'un commun accord.
+
+Le juge examine la demande avec chacun des époux, puis les réunit. Il appelle ensuite le ou les avocats.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
-
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+	  - SPEC_APPLI: Loi n°2004-439 2004-05-26 art. 32 I : Champ d'application
+
+	**Modifié par**:
+
+	  - Loi n°2004-439 du 26 mai 2004 - art. 9 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
 
 	**Cité par**:
 
 	  - Code de procédure civile - art. 1099 (V)
 
+	**Codifié par**:
 
-#### Section 2 : De la conciliation.
+	  - Loi n°1803-03-14
 
-###### Article 251
 
-Quand le divorce est demandé pour rupture de la vie commune ou pour faute, une tentative de conciliation est obligatoire
-avant l'instance judiciaire. Elle peut être renouvelée pendant l'instance.
+###### Article 250-1
 
-Quand le divorce est demandé par consentement mutuel des époux, une conciliation peut être tentée en cours d'instance suivant
-les règles de procédure propres à ce cas de divorce.
+Lorsque les conditions prévues à l'article 232 sont réunies, le juge homologue la convention réglant les conséquences du
+divorce et, par la même décision, prononce celui-ci.
 
 **Nota:**
 
-NOTA : La loi 2004-439 du 26 mai 2004 entrera en vigueur le 1er janvier 2005 sauf pour les exceptions citées par l'article 33
-II.
+
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2004-439 2004-05-26 art. 32 I : Champ d'application
+
+	**Créé par**:
+
+	  - Loi n°2004-439 du 26 mai 2004 - art. 9 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
+
+	**Cite**:
+
+	  - Code civil - art. 232 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 250-2
+
+En cas de refus d'homologation de la convention, le juge peut cependant homologuer les mesures provisoires au sens des
+articles 254 et 255 que les parties s'accordent à prendre jusqu'à la date à laquelle le jugement de divorce passe en force de
+chose jugée, sous réserve qu'elles soient conformes à l'intérêt du ou des enfants. 
+
+Une nouvelle convention peut alors être présentée par les époux dans un délai maximum de six mois.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2004-439 2004-05-26 art. 32 I : Champ d'application
+
+	**Créé par**:
+
+	  - Loi n°2004-439 du 26 mai 2004 - art. 9 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
+
+	**Cité par**:
+
+	  - Code civil - art. 250-3 (V)
+	  - Code civil - art. 313 (V)
+	  - Code de procédure civile - art. 1100 (V)
+
+	**Cite**:
+
+	  - Code civil - art. 254 (V)
+	  - Code civil - art. 255 (V)
+
+
+###### Article 250-3
+
+A défaut de présentation d'une nouvelle convention dans le délai fixé à l'article 250-2 ou si le juge refuse une nouvelle
+fois l'homologation, la demande en divorce est caduque.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2004-439 2004-05-26 art. 32 I : Champ d'application
+
+	**Créé par**:
+
+	  - Loi n°2004-439 du 26 mai 2004 - art. 9 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
+
+	**Cite**:
+
+	  - Code civil - art. 250-2 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+#### Section 3 : De la procédure applicable aux autres cas de divorce
+
+##### Paragraphe 1 : De la requête initiale.
+
+###### Article 251
+
+L'époux qui forme une demande en divorce présente, par avocat, une requête au juge, sans indiquer les motifs du divorce.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
@@ -10581,66 +10508,40 @@ II.
 
 	  - Décret n°65-422 du 1 juin 1965 - art. 12 (V)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
-
-	**Transféré par**:
-
+	  - Loi n°2004-439 du 26 mai 2004 - art. 10 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
 	  - Loi n°2004-439 du 26 mai 2004 - art. 6 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
 
 	**Nouveaux textes**:
 
-	  - Code civil - art. 252 (M)
 	  - Code civil - art. 252 (V)
-
-
-###### Article 252
-
-Lorsque le juge cherche à concilier les époux, il doit s'entretenir personnellement avec chacun d'eux séparément avant de les
-réunir en sa présence.
-
-Les avocats doivent ensuite, si les époux le demandent, être appelées à assister et à participer à l'entretien.
-
-Dans le cas de l'article 238, et dans le cas où l'époux contre lequel la demande est formée ne se présente pas devant le
-juge, celui-ci doit néanmoins s'entretenir avec l'autre conjoint et l'inviter à la réflexion.
-
-**Nota:**
-
-NOTA : La loi 2004-439 du 26 mai 2004 entrera en vigueur le 1er janvier 2005 sauf pour les exceptions citées par l'article 33
-II.
-
-**Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Loi n°1803-03-14
 
-	**Créé par**:
 
-	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
+##### Paragraphe 2 : De la conciliation.
 
-	**Liens**:
+###### Article 252
 
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+Une tentative de conciliation est obligatoire avant l'instance judiciaire. Elle peut être renouvelée pendant l'instance.
 
-	**Transféré par**:
+Le juge cherche à concilier les époux tant sur le principe du divorce que sur ses conséquences.
 
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2004-439 2004-05-26 art. 6, art. 10 I, art. 11 I, II JORF 27 mai 2004 en vigueur le 1er janvier 2005
+	  - Loi n°2004-439 du 26 mai 2004 - art. 10 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
+	  - Loi n°2004-439 du 26 mai 2004 - art. 11 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
 	  - Loi n°2004-439 du 26 mai 2004 - art. 6 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
-
-	**Cite**:
-
-	  - Code civil - art. 238 (M)
 
 	**Anciens textes**:
 
@@ -10648,7 +10549,6 @@ II.
 
 	**Nouveaux textes**:
 
-	  - Code civil - art. 252-1 (M)
 	  - Code civil - art. 252-1 (V)
 
 	**Cité par**:
@@ -10656,8 +10556,57 @@ II.
 	  - Code civil - art. 254 (V)
 	  - Code de procédure civile - art. 1108 (V)
 
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
 
 ###### Article 252-1
+
+Lorsque le juge cherche à concilier les époux, il doit s'entretenir personnellement avec chacun d'eux séparément avant de les
+réunir en sa présence.
+
+Les avocats sont ensuite appelés à assister et à participer à l'entretien.
+
+Dans le cas où l'époux qui n'a pas formé la demande ne se présente pas à l'audience ou se trouve hors d'état de manifester sa
+volonté, le juge s'entretient avec l'autre conjoint et l'invite à la réflexion.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2004-439 2004-05-26 art. 32 I : Champ d'application
+
+	**Modifié par**:
+
+	  - Loi n°2004-439 2004-05-26 art. 6, art. 10 I, art. 11 I, III JORF 27 mai 2004 en vigueur le 1er janvier 2005
+	  - Loi n°2004-439 du 26 mai 2004 - art. 10 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
+	  - Loi n°2004-439 du 26 mai 2004 - art. 11 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
+	  - Loi n°2004-439 du 26 mai 2004 - art. 6 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
+
+	**Anciens textes**:
+
+	  - Code civil - art. 252 (M)
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 252-2 (V)
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 1110 (V)
+	  - Nouveau code de procédure civile - art. 1111 (M)
+
+
+###### Article 252-2
 
 La tentative de conciliation peut être suspendue et reprise sans formalité, en ménageant aux époux des temps de réflexion
 dans une limite de huit jours.
@@ -10667,52 +10616,7 @@ conciliation dans les six mois au plus. Il ordonne, s'il y a lieu, les mesures p
 
 **Nota:**
 
-NOTA : La loi 2004-439 du 26 mai 2004 entrera en vigueur le 1er janvier 2005 sauf pour les exceptions citées par l'article 33
-II.
 
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
-
-	**Transféré par**:
-
-	  - Loi n°2004-439 du 26 mai 2004 - art. 6 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
-
-	**Anciens textes**:
-
-	  - Code civil - art. 252 (M)
-
-	**Nouveaux textes**:
-
-	  - Code civil - art. 252-2 (M)
-	  - Code civil - art. 252-2 (V)
-
-	**Cité par**:
-
-	  - Code de procédure civile - art. 1110 (V)
-	  - Nouveau code de procédure civile - art. 1111 (M)
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-
-###### Article 252-2
-
-Lorsqu'il ne parvient pas à les faire renoncer au divorce, le juge essaye d'amener les époux à en régler les conséquences à
-l'amiable, notamment, en ce qui concerne les enfants, par des accords dont pourra tenir compte le jugement à intervenir.
-
-**Nota:**
-
-NOTA : La loi 2004-439 du 26 mai 2004 entrera en vigueur le 1er janvier 2005 sauf pour les exceptions citées par l'article 33
-II.
 
 **Liens relatifs à cet article**
 
@@ -10722,15 +10626,12 @@ II.
 
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°93-22 1993-01-08 art. 63 *Mayotte*, art. 64 *date d'effet*
+	  - SPEC_APPLI: Loi n°2004-439 2004-05-26 art. 32 I : Champ d'application
 
 	**Modifié par**:
 
-	  - Loi n°93-22 du 8 janvier 1993 - art. 49 () JORF 9 janvier 1993 en vigueur le 1er février 1994
-	  - Loi n°93-22 du 8 janvier 1993 - art. 64 (V) JORF 9 janvier 1993 en vigueur le 1er février 1994
-
-	**Transféré par**:
-
+	  - Loi n°2004-439 du 26 mai 2004 - art. 10 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
+	  - Loi n°2004-439 du 26 mai 2004 - art. 11 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
 	  - Loi n°2004-439 du 26 mai 2004 - art. 6 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
 
 	**Anciens textes**:
@@ -10739,37 +10640,32 @@ II.
 
 	**Nouveaux textes**:
 
-	  - Code civil - art. 252-3 (M)
 	  - Code civil - art. 252-3 (V)
 
 
 ###### Article 252-3
 
-Ce qui a été dit ou écrit à l'occasion d'une tentative de conciliation, sous quelque forme qu'elle ait eu lieu, ne pourra pas
-être invoqué pour ou contre un époux ou un tiers dans la suite de la procédure.
+Lorsque le juge constate que le demandeur maintient sa demande, il incite les époux à régler les conséquences du divorce à
+l'amiable. 
+
+Il leur demande de présenter pour l'audience de jugement un projet de règlement des effets du divorce. A cet effet, il peut
+prendre les mesures provisoires prévues à l'article 255.
 
 **Nota:**
 
-NOTA : La loi 2004-439 du 26 mai 2004 entrera en vigueur le 1er janvier 2005 sauf pour les exceptions citées par l'article 33
-II.
+
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
-
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+	  - SPEC_APPLI: Loi n°2004-439 2004-05-26 art. 32 I : Champ d'application
 
-	**Transféré par**:
+	**Modifié par**:
 
+	  - Loi n°2004-439 2004-05-26 art. 6, art. 10 I, art. 11 I, IV JORF 27 mai 2004 en vigueur le 1er janvier 2005
+	  - Loi n°2004-439 du 26 mai 2004 - art. 10 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
+	  - Loi n°2004-439 du 26 mai 2004 - art. 11 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
 	  - Loi n°2004-439 du 26 mai 2004 - art. 6 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
 
 	**Anciens textes**:
@@ -10780,67 +10676,101 @@ II.
 
 	  - Code civil - art. 252-4 (V)
 
+	**Cite**:
 
-#### Section 3 : Des mesures provisoires.
+	  - Code civil - art. 255 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 252-4
+
+Ce qui a été dit ou écrit à l'occasion d'une tentative de conciliation, sous quelque forme qu'elle ait eu lieu, ne pourra pas
+être invoqué pour ou contre un époux ou un tiers dans la suite de la procédure.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2004-439 2004-05-26 art. 32 I : Champ d'application
+
+	**Créé par**:
+
+	  - Loi n°2004-439 du 26 mai 2004 - art. 6 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
+
+	**Anciens textes**:
+
+	  - Code civil - art. 252-3 (M)
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 1110 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
 
 ###### Article 253
 
-En cas de divorce sur demande conjointe, les époux règlent eux-mêmes les mesures provisoires dans la convention temporaire
-qui doit être annexée à leur requête initiale.
-
-Toutefois, le juge pourra faire supprimer ou modifier les clauses de cette convention qui lui paraîtraient contraires à
-l'intérêt des enfants.
+Les époux ne peuvent accepter le principe de la rupture du mariage et le prononcé du divorce sur le fondement de l'article
+233 que s'ils sont chacun assistés par un avocat.
 
 **Nota:**
 
-NOTA : La loi 2004-439 du 26 mai 2004 entrera en vigueur le 1er janvier 2005 sauf pour les exceptions citées par l'article 33
-II.
+
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
-
-
-###### Article 254
-
-Lors de la comparution des époux dans le cas visé à l'article 233, ou de l'ordonnance de non-conciliation dans les autres
-cas, le juge prescrit les mesures qui sont nécessaires pour assurer l'existence des époux et des enfants jusqu'à la date à
-laquelle le jugement prend force de chose jugée.
-
-**Nota:**
-
-NOTA : La loi 2004-439 du 26 mai 2004 entrera en vigueur le 1er janvier 2005 sauf pour les exceptions citées par l'article 33
-II.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
 
 	**Cite**:
 
-	  - Code civil - art. 233 (M)
+	  - Code civil - art. 233 (V)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Directive 2003-87 CE 2003-10-13 (Parlement et Conseil)
+	  - SPEC_APPLI: Loi n°2004-439 2004-05-26 art. 32 I : Champ d'application
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Modifié par**:
+
+	  - Loi n°2004-439 2004-05-26 art. 10 I, art. 11 I, V JORF 27 mai 2004 en vigueur le 1er janvier 2005
+	  - Loi n°2004-439 du 26 mai 2004 - art. 10 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
+	  - Loi n°2004-439 du 26 mai 2004 - art. 11 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
+
+
+##### Paragraphe 3 : Des mesures provisoires.
+
+###### Article 254
+
+Lors de l'audience prévue à l'article 252, le juge prescrit, en considération des accords éventuels des époux, les mesures
+nécessaires pour assurer leur existence et celle des enfants jusqu'à la date à laquelle le jugement passe en force de chose
+jugée.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2004-439 2004-05-26 art. 10 I, art. 12 I, II JORF 27 mai 2004 en vigueur le 1er janvier 2005
+	  - Loi n°2004-439 du 26 mai 2004 - art. 10 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
+	  - Loi n°2004-439 du 26 mai 2004 - art. 12 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2004-439 2004-05-26 art. 32 I : Champ d'application
 
 	**Cité par**:
 
@@ -10848,36 +10778,51 @@ II.
 	  - Code civil - art. 250-2 (V)
 	  - Code de procédure civile - art. 1111 (V)
 
+	**Cite**:
+
+	  - Code civil - art. 252 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
 
 ###### Article 255
 
 Le juge peut notamment :
 
-1° Autoriser les époux à résider séparément ;
+1° Proposer aux époux une mesure de médiation et, après avoir recueilli leur accord, désigner un médiateur familial pour y
+procéder ;
 
-2° Attribuer à l'un d'eux la jouissance du logement et du mobilier du ménage, ou partager entre eux cette jouissance ;
+2° Enjoindre aux époux de rencontrer un médiateur familial qui les informera sur l'objet et le déroulement de la médiation ;
 
-3° Ordonner la remise des vêtements et objets personnels ;
+3° Statuer sur les modalités de la résidence séparée des époux ;
 
-4° Fixer la pension alimentaire et la provision pour frais d'instance que l'un des époux devra verser à son conjoint ;
+4° Attribuer à l'un d'eux la jouissance du logement et du mobilier du ménage ou partager entre eux cette jouissance, en
+précisant son caractère gratuit ou non et, le cas échéant, en constatant l'accord des époux sur le montant d'une indemnité
+d'occupation ;
 
-5° Accorder à l'un des conjoints des provisions sur sa part de communauté si la situation le rend nécessaire.
+5° Ordonner la remise des vêtements et objets personnels ;
+
+6° Fixer la pension alimentaire et la provision pour frais d'instance que l'un des époux devra verser à son conjoint,
+désigner celui ou ceux des époux qui devront assurer le règlement provisoire de tout ou partie des dettes ;
+
+7° Accorder à l'un des époux des provisions à valoir sur ses droits dans la liquidation du régime matrimonial si la situation
+le rend nécessaire ;
+
+8° Statuer sur l'attribution de la jouissance ou de la gestion des biens communs ou indivis autres que ceux visés au 4°, sous
+réserve des droits de chacun des époux dans la liquidation du régime matrimonial ;
+
+9° Désigner tout professionnel qualifié en vue de dresser un inventaire estimatif ou de faire des propositions quant au
+règlement des intérêts pécuniaires des époux ;
+
+10° Désigner un notaire en vue d'élaborer un projet de liquidation du régime matrimonial et de formation des lots à partager.
 
 **Nota:**
 
-NOTA : La loi 2004-439 du 26 mai 2004 entrera en vigueur le 1er janvier 2005 sauf pour les exceptions citées par l'article 33
-II.
+
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
 
 	**Cité par**:
 
@@ -10910,18 +10855,32 @@ II.
 
 	  - Loi n°1803-03-14
 
+	**Modifié par**:
+
+	  - Loi n°2004-439 2004-05-26 art. 10 I, art. 12 I, III JORF 27 mai 2004 en vigueur le 1er janvier 2005
+	  - Loi n°2004-439 du 26 mai 2004 - art. 10 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
+	  - Loi n°2004-439 du 26 mai 2004 - art. 12 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2004-439 2004-05-26 art. 32 I : Champ d'application
+
 
 ###### Article 256
 
-Les conséquences de la séparation pour les enfants sont réglées selon les dispositions du chapitre Ier du titre IX du présent
+Les mesures provisoires relatives aux enfants sont réglées selon les dispositions du chapitre Ier du titre IX du présent
 livre.
 
 **Nota:**
 
-NOTA : La loi 2004-439 du 26 mai 2004 entrera en vigueur le 1er janvier 2005 sauf pour les exceptions citées par l'article 33
-II.
+
 
 **Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_SOURCE: Directive 2003-87 CE 2003-10-13 (Parlement et Conseil)
+	  - SPEC_APPLI: Loi n°2004-439 2004-05-26 art. 32 I : Champ d'application
 
 	**Codifié par**:
 
@@ -10929,7 +10888,9 @@ II.
 
 	**Modifié par**:
 
-	  - Loi n°2002-305 du 4 mars 2002 - art. 1 () JORF 5 mars 2002
+	  - Loi n°2004-439 du 26 mai 2004 - art. 10 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
+	  - Loi n°2004-439 du 26 mai 2004 - art. 12 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
+	  - Loi n°2004-439 du 26 mai 2004 - art. 22 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
 
 	**Cité par**:
 
@@ -10938,9 +10899,9 @@ II.
 
 ###### Article 257
 
-Le juge peut prendre, dès la requête initiale, des mesures d'urgence.
+Le juge peut prendre, dès la requête initiale, des mesures d'urgence. 
 
-Il peut, à ce titre, autoriser l'époux demandeur à résider séparément, s'il y a lieu avec ses enfants mineurs.
+Il peut, à ce titre, autoriser l'époux demandeur à résider séparément, s'il y a lieu avec ses enfants mineurs. 
 
 Il peut aussi, pour la garantie des droits d'un époux, ordonner toutes mesures conservatoires telles que l'apposition de
 scellés sur les biens communs. Les dispositions de l'article 220-1 et les autres sauvegardes instituées par le régime
@@ -10948,19 +10909,9 @@ matrimonial demeurent cependant applicables.
 
 **Nota:**
 
-NOTA : La loi 2004-439 du 26 mai 2004 entrera en vigueur le 1er janvier 2005 sauf pour les exceptions citées par l'article 33
-II.
+
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
 
 	**Cité par**:
 
@@ -10971,13 +10922,85 @@ II.
 	  - Code de procédure civile - art. 1107 (V)
 	  - Code de procédure civile - art. 1121-1 (V)
 
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2004-439 2004-05-26 art. 32 I : Champ d'application
+
+	**Modifié par**:
+
+	  - Loi n°2004-439 du 26 mai 2004 - art. 10 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
+	  - Loi n°2004-439 du 26 mai 2004 - art. 12 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
+
 	**Cite**:
 
-	  - Code civil - art. 220-1 (M)
+	  - Code civil - art. 220-1 (V)
 
 	**Codifié par**:
 
 	  - Loi n°1803-03-14
+
+
+##### Paragraphe 4 : De l'introduction de l'instance en divorce.
+
+###### Article 257-1
+
+Après l'ordonnance de non-conciliation, un époux peut introduire l'instance ou former une demande reconventionnelle pour
+acceptation du principe de la rupture du mariage, pour altération définitive du lien conjugal ou pour faute. 
+
+Toutefois, lorsqu'à l'audience de conciliation les époux ont déclaré accepter le principe de la rupture du mariage et le
+prononcé du divorce sur le fondement de l'article 233, l'instance ne peut être engagée que sur ce même fondement.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code civil - art. 233 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°2004-439 2004-05-26 art. 13 I, II JORF 27 mai 2004 en vigueur le 1er janvier 2005
+	  - Loi n°2004-439 du 26 mai 2004 - art. 13 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2004-439 2004-05-26 art. 32 I : Champ d'application
+
+
+###### Article 257-2
+
+A peine d'irrecevabilité, la demande introductive d'instance comporte une proposition de règlement des intérêts pécuniaires
+et patrimoniaux des époux.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°2004-439 2004-05-26 art. 13 I, II JORF 27 mai 2004 en vigueur le 1er janvier 2005
+	  - Loi n°2004-439 du 26 mai 2004 - art. 13 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2004-439 2004-05-26 art. 32 I : Champ d'application
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 1115 (V)
 
 
 ###### Article 258
@@ -10987,8 +11010,7 @@ résidence de la famille et les modalités de l'exercice de l'autorité parental
 
 **Nota:**
 
-NOTA : La loi 2004-439 du 26 mai 2004 entrera en vigueur le 1er janvier 2005 sauf pour les exceptions citées par l'article 33
-II.
+
 
 **Liens relatifs à cet article**
 
@@ -10998,29 +11020,28 @@ II.
 
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°87-570 du 22 juillet 1987 - art. 29 (V)
-	  - SPEC_APPLI: Loi n°87-570 du 22 juillet 1987 - art. 30 (V)
+	  - SPEC_APPLI: Loi n°2004-439 2004-05-26 art. 32 I : Champ d'application
 
 	**Modifié par**:
 
-	  - Loi n°87-570 du 22 juillet 1987 - art. 3 () JORF 24 juillet 1987
+	  - Loi n°2004-439 du 26 mai 2004 - art. 10 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
+	  - Loi n°2004-439 du 26 mai 2004 - art. 13 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
 
 	**Cité par**:
 
 	  - Nouveau code de procédure civile - art. 1073 (M)
 
 
-#### Section 4 : Des preuves.
+##### Paragraphe 5 : Des preuves.
 
 ###### Article 259
 
 Les faits invoqués en tant que causes de divorce ou comme défenses à une demande peuvent être établis par tout mode de
-preuve, y compris l'aveu.
+preuve, y compris l'aveu. Toutefois, les descendants ne peuvent jamais être entendus sur les griefs invoqués par les époux.
 
 **Nota:**
 
-NOTA : La loi 2004-439 du 26 mai 2004 entrera en vigueur le 1er janvier 2005 sauf pour les exceptions citées par l'article 33
-II.
+
 
 **Liens relatifs à cet article**
 
@@ -11028,25 +11049,24 @@ II.
 
 	  - Loi n°1803-03-14
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
+	  - Loi n°2004-439 2004-05-26 art. 10 I, art. 14 I, II JORF 27 mai 2004 en vigueur le 1er janvier 2005
+	  - Loi n°2004-439 du 26 mai 2004 - art. 10 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
+	  - Loi n°2004-439 du 26 mai 2004 - art. 14 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
 
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+	  - SPEC_APPLI: Loi n°2004-439 2004-05-26 art. 32 I : Champ d'application
 
 
 ###### Article 259-1
 
-Un époux ne peut verser aux débats les lettres échangées entre son conjoint et un tiers qu'il aurait obtenues par violence ou
-fraude.
+Un époux ne peut verser aux débats un élément de preuve qu'il aurait obtenu par violence ou fraude.
 
 **Nota:**
 
-NOTA : La loi 2004-439 du 26 mai 2004 entrera en vigueur le 1er janvier 2005 sauf pour les exceptions citées par l'article 33
-II.
+
 
 **Liens relatifs à cet article**
 
@@ -11054,14 +11074,15 @@ II.
 
 	  - Loi n°1803-03-14
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
+	  - Loi n°2004-439 2004-05-26 art. 10 I, art. 14 I, III JORF 27 mai 2004 en vigueur le 1er janvier 2005
+	  - Loi n°2004-439 du 26 mai 2004 - art. 10 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
+	  - Loi n°2004-439 du 26 mai 2004 - art. 14 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
 
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+	  - SPEC_APPLI: Loi n°2004-439 2004-05-26 art. 32 I : Champ d'application
 
 
 ###### Article 259-2
@@ -11071,8 +11092,7 @@ l'intimité de la vie privée.
 
 **Nota:**
 
-NOTA : La loi 2004-439 du 26 mai 2004 entrera en vigueur le 1er janvier 2005 sauf pour les exceptions citées par l'article 33
-II.
+
 
 **Liens relatifs à cet article**
 
@@ -11080,28 +11100,28 @@ II.
 
 	  - Loi n°1803-03-14
 
-	**Créé par**:
-
-	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
-
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+	  - SPEC_APPLI: Loi n°2004-439 2004-05-26 art. 32 I : Champ d'application
+
+	**Modifié par**:
+
+	  - Loi n°2004-439 du 26 mai 2004 - art. 10 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
+	  - Loi n°2004-439 du 26 mai 2004 - art. 14 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
 
 
 ###### Article 259-3
 
-Les époux doivent se communiquer et communiquer au juge ainsi qu'aux experts désignés par lui, tous renseignements et
-documents utiles pour fixer les prestations et pensions et liquider le régime matrimonial.
+Les époux doivent se communiquer et communiquer au juge ainsi qu'aux experts et aux autres personnes désignées par lui en
+application des 9° et 10° de l'article 255, tous renseignements et documents utiles pour fixer les prestations et pensions et
+liquider le régime matrimonial. 
 
 Le juge peut faire procéder à toutes recherches utiles auprès des débiteurs ou de ceux qui détiennent des valeurs pour le
 compte des époux sans que le secret professionnel puisse être opposé.
 
 **Nota:**
 
-NOTA : La loi 2004-439 du 26 mai 2004 entrera en vigueur le 1er janvier 2005 sauf pour les exceptions citées par l'article 33
-II.
+
 
 **Liens relatifs à cet article**
 
@@ -11109,14 +11129,19 @@ II.
 
 	  - Loi n°1803-03-14
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
+	  - Loi n°2004-439 2004-05-26 art. 10 I, art. 14 I, IV JORF 27 mai 2004 en vigueur le 1er janvier 2005
+	  - Loi n°2004-439 du 26 mai 2004 - art. 10 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
+	  - Loi n°2004-439 du 26 mai 2004 - art. 14 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
 
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+	  - SPEC_APPLI: Loi n°2004-439 2004-05-26 art. 32 I : Champ d'application
+
+	**Cite**:
+
+	  - Code civil - art. 255 (V)
 
 
 ### Chapitre III : Des conséquences du divorce
@@ -11141,110 +11166,6 @@ La décision qui prononce le divorce dissout le mariage à la date à laquelle e
 
 	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
 	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
-
-
-###### Article 261
-
-Pour contracter un nouveau mariage, la femme doit observer le délai de trois cents jours prévu par l'article 228.
-
-**Nota:**
-
-NOTA : La loi 2004-439 du 26 mai 2004 entrera en vigueur le 1er janvier 2005 sauf pour les exceptions citées par l'article 33
-II.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
-
-	**Abrogé par**:
-
-	  - Loi n°2004-439 du 26 mai 2004 - art. 23 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
-
-	**Cite**:
-
-	  - Code civil - art. 228 (Ab)
-
-
-###### Article 261-1
-
-Si les époux ont été autorisés à résider séparément au cours du procès, ce délai commence à courir à partir du jour de la
-décision autorisant la résidence séparée ou homologuant, en cas de demande conjointe, la convention temporaire passée à ce
-sujet.
-
-La femme peut se remarier sans délai quand le divorce a été prononcé dans les cas prévus aux articles 237 et 238.
-
-**Nota:**
-
-NOTA : La loi 2004-439 du 26 mai 2004 entrera en vigueur le 1er janvier 2005 sauf pour les exceptions citées par l'article 33
-II.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
-
-	**Abrogé par**:
-
-	  - Loi n°2004-439 du 26 mai 2004 - art. 23 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
-
-	**Cite**:
-
-	  - Code civil - art. 237 (M)
-	  - Code civil - art. 238 (M)
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-
-###### Article 261-2
-
-Le délai prend fin si un accouchement a lieu après la décision autorisant ou homologuant la résidence séparée ou, à défaut,
-après la date à laquelle le jugement de divorce a pris force de chose jugée.
-
-Si le mari meurt, avant que le jugement de divorce n'ait pris force de chose jugée, le délai court à compter de la décision
-autorisant ou homologuant la résidence séparée.
-
-**Nota:**
-
-NOTA : La loi 2004-439 du 26 mai 2004 entrera en vigueur le 1er janvier 2005 sauf pour les exceptions citées par l'article 33
-II.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
-
-	**Abrogé par**:
-
-	  - Loi n°2004-439 du 26 mai 2004 - art. 23 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
 
 
 ###### Article 262
@@ -11275,30 +11196,37 @@ mention en marge prescrites par les règles de l'état civil ont été accomplie
 
 ###### Article 262-1
 
-Le jugement de divorce prend effet dans les rapports entre époux, en ce qui concerne leurs biens, dès la date d'assignation.
+Le jugement de divorce prend effet dans les rapports entre les époux, en ce qui concerne leurs biens :
 
-Les époux peuvent, l'un ou l'autre, demander s'il y a lieu, que l'effet du jugement soit reporté à la date où ils ont cessé
-de cohabiter et de collaborer. Celui auquel incombent à titre principal les torts de la séparation ne peut obtenir ce report.
+- lorsqu'il est prononcé par consentement mutuel, à la date de l'homologation de la convention réglant l'ensemble des
+conséquences du divorce, à moins que celle-ci n'en dispose autrement ;
+
+- lorsqu'il est prononcé pour acceptation du principe de la rupture du mariage, pour altération définitive du lien conjugal
+ou pour faute, à la date de l'ordonnance de non-conciliation.
+
+A la demande de l'un des époux, le juge peut fixer les effets du jugement à la date à laquelle ils ont cessé de cohabiter et
+de collaborer. Cette demande ne peut être formée qu'à l'occasion de l'action en divorce. La jouissance du logement conjugal
+par un seul des époux conserve un caractère gratuit jusqu'à l'ordonnance de non-conciliation, sauf décision contraire du
+juge.
 
 **Nota:**
 
-NOTA : La loi 2004-439 du 26 mai 2004 entrera en vigueur le 1er janvier 2005 sauf pour les exceptions citées par l'article 33
-II.
+
 
 **Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_SOURCE: Directive 2003-87 CE 2003-10-13 (Parlement et Conseil)
+	  - SPEC_APPLI: Loi n°2004-439 2004-05-26 art. 32 I : Champ d'application
 
 	**Codifié par**:
 
 	  - Loi n°1803-03-14
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
-
 	**Modifié par**:
 
-	  - Loi n°85-1372 du 23 décembre 1985 - art. 20 () JORF 26 décembre 1985 en vigueur le 1er juillet 1986
+	  - Loi n°2004-439 du 26 mai 2004 - art. 15 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
 
 
 ###### Article 262-2
@@ -11349,83 +11277,43 @@ Si les époux divorcés veulent contracter entre eux une autre union, une nouvel
 
 ###### Article 264
 
-A la suite du divorce, chacun des époux reprend l'usage de son nom.
+A la suite du divorce, chacun des époux perd l'usage du nom de son conjoint.
 
-Toutefois, dans les cas prévus aux articles 237 et 238, la femme a le droit de conserver l'usage du nom du mari lorsque le
-divorce a été demandé par celui-ci.
-
-Dans les autres cas, la femme pourra conserver l'usage du nom du mari soit avec l'accord de celui-ci, soit avec
-l'autorisation du juge, si elle justifie qu'un intérêt particulier s'y attache pour elle-même ou pour les enfants.
+L'un des époux peut néanmoins conserver l'usage du nom de l'autre, soit avec l'accord de celui-ci, soit avec l'autorisation
+du juge, s'il justifie d'un intérêt particulier pour lui ou pour les enfants.
 
 **Nota:**
 
-NOTA : La loi 2004-439 du 26 mai 2004 entrera en vigueur le 1er janvier 2005 sauf pour les exceptions citées par l'article 33
-II.
+
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Codifié par**:
 
-	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+	  - Loi n°1803-03-14
 
 	**Cité par**:
 
 	  - Loi n°75-617 du 11 juillet 1975 - art. 24 (V)
 
-	**Cite**:
-
-	  - Code civil - art. 237 (M)
-	  - Code civil - art. 238 (M)
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-
-###### Article 264-1
-
-En prononçant le divorce, le juge aux affaires familiales ordonne la liquidation et le partage des intérêts patrimoniaux des
-époux et il statue, s'il y a lieu, sur les demandes de maintien dans l'indivision ou d'attribution préférentielle.
-
-**Nota:**
-
-NOTA : La loi 2004-439 du 26 mai 2004 entrera en vigueur le 1er janvier 2005 sauf pour les exceptions citées par l'article 33
-II.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°93-22 1993-01-08 art. 63 *Mayotte*, art. 64 *date d'effet*
+	  - SPEC_APPLI: Loi n°2004-439 2004-05-26 art. 32 I : Champ d'application
 
 	**Modifié par**:
 
-	  - Loi n°93-22 du 8 janvier 1993 - art. 48 () JORF 9 janvier 1993 en vigueur le 1er février 1994
-	  - Loi n°93-22 du 8 janvier 1993 - art. 64 (V) JORF 9 janvier 1993 en vigueur le 1er février 1994
-
-	**Abrogé par**:
-
-	  - Loi n°2004-439 du 26 mai 2004 - art. 23 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
+	  - Loi n°2004-439 du 26 mai 2004 - art. 16 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
 
 
 ###### Article 265
 
-Le divorce est réputé prononcé contre un époux s'il a eu lieu à ses torts exclusifs. Il est aussi réputé prononcé contre
-l'époux qui a pris l'initiative du divorce lorsqu'il a été obtenu en raison de la rupture de la vie commune.
+Le divorce est sans incidence sur les avantages matrimoniaux qui prennent effet au cours du mariage et sur les donations de
+biens présents quelle que soit leur forme.
 
-L'époux contre lequel le divorce est prononcé perd les droits que la loi ou des conventions passées avec des tiers attribuent
-au conjoint divorcé.
-
-Ces droits ne sont pas perdus en cas de partage des torts ou de divorce par consentement mutuel.
+Le divorce emporte révocation de plein droit des avantages matrimoniaux qui ne prennent effet qu'à la dissolution du régime
+matrimonial ou au décès de l'un des époux et des dispositions à cause de mort, accordés par un époux envers son conjoint par
+contrat de mariage ou pendant l'union, sauf volonté contraire de l'époux qui les a consentis. Cette volonté est constatée par
+le juge au moment du prononcé du divorce et rend irrévocables l'avantage ou la disposition maintenus.
 
 **Nota:**
 
@@ -11434,14 +11322,13 @@ II.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
-
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+	  - SPEC_APPLI: Loi n°2004-439 2004-05-26 art. 32 I : Champ d'application
+
+	**Modifié par**:
+
+	  - Loi n°2004-439 du 26 mai 2004 - art. 16 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
 
 	**Cité par**:
 
@@ -11453,29 +11340,242 @@ II.
 	  - Loi n°1803-03-14
 
 
+###### Article 265-1
+
+Le divorce est sans incidence sur les droits que l'un ou l'autre des époux tient de la loi ou des conventions passées avec
+des tiers.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2004-439 2004-05-26 art. 32 I : Champ d'application
+
+	**Créé par**:
+
+	  - Loi n°2004-439 du 26 mai 2004 - art. 16 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
+
+
+###### Article 265-2
+
+Les époux peuvent, pendant l'instance en divorce, passer toutes conventions pour la liquidation et le partage de leur régime
+matrimonial.
+
+Lorsque la liquidation porte sur des biens soumis à la publicité foncière, la convention doit être passée par acte notarié.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°65-570 1965-07-13
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2004-439 2004-05-26 art. 32 I : Champ d'application
+
+	**Créé par**:
+
+	  - Loi n°2004-439 2004-05-26 art. 6, art. 21 III, IV JORF 27 mai 2004 en vigueur le 1er janvier 2005
+	  - Loi n°2004-439 du 26 mai 2004 - art. 21 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
+	  - Loi n°2004-439 du 26 mai 2004 - art. 6 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
+
+	**Cité par**:
+
+	  - Code civil - art. 1397-1 (V)
+	  - Code civil - art. 1451 (V)
+
+	**Anciens textes**:
+
+	  - Code civil - art. 1450 (M)
+	  - Code civil - art. 1450 (T)
+
+
+##### Paragraphe 2 : Des conséquences propres aux divorces autres que par consentement mutuel.
+
+###### Article 266
+
+Sans préjudice de l'application de l'article 270, des dommages et intérêts peuvent être accordés à un époux en réparation des
+conséquences d'une particulière gravité qu'il subit du fait de la dissolution du mariage soit lorsqu'il était défendeur à un
+divorce prononcé pour altération définitive du lien conjugal et qu'il n'avait lui-même formé aucune demande en divorce, soit
+lorsque le divorce est prononcé aux torts exclusifs de son conjoint. 
+
+Cette demande ne peut être formée qu'à l'occasion de l'action en divorce.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2004-439 2004-05-26 art. 32 I : Champ d'application
+
+	**Modifié par**:
+
+	  - Loi n°2004-439 du 26 mai 2004 - art. 17 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
+
+	**Cite**:
+
+	  - Code civil - art. 270 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 267
+
+A défaut d'un règlement conventionnel par les époux, le juge, en prononçant le divorce, ordonne la liquidation et le partage
+de leurs intérêts patrimoniaux. 
+
+Il statue sur les demandes de maintien dans l'indivision ou d'attribution préférentielle. 
+
+Il peut aussi accorder à l'un des époux ou aux deux une avance sur sa part de communauté ou de biens indivis. 
+
+Si le projet de liquidation du régime matrimonial établi par le notaire désigné sur le fondement du 10° de l'article 255
+contient des informations suffisantes, le juge, à la demande de l'un ou l'autre des époux, statue sur les désaccords
+persistant entre eux.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2004-439 2004-05-26 art. 32 I : Champ d'application
+
+	**Modifié par**:
+
+	  - Loi n°2004-439 du 26 mai 2004 - art. 17 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
+
+	**Cite**:
+
+	  - Code civil - art. 255 (V)
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 1116 (V)
+	  - Code de procédure civile - art. 1136-2 (V)
+	  - Code de procédure civile - art. 1136-3 (Ab)
+
+
+###### Article 267-1
+
+Si les opérations de liquidation et de partage ne sont pas achevées dans le délai d'un an après que le jugement de divorce
+est passé en force de chose jugée, le notaire transmet au tribunal un procès-verbal de difficultés reprenant les déclarations
+respectives des parties.
+
+Au vu de celui-ci, le tribunal peut accorder un délai supplémentaire d'une durée maximale de six mois.
+
+Si, à l'expiration de ce délai, les opérations ne sont toujours pas achevées, le notaire en informe le tribunal. Il établit,
+si les changements intervenus le rendent nécessaire, un nouveau procès-verbal.
+
+Le tribunal statue sur les contestations subsistant entre les parties et les renvoie devant le notaire afin d'établir l'état
+liquidatif.
+
+**Nota:**
+
+La loi 2004-439 du 26 mai 2004 entrera en vigueur le 1er janvier 2005 sauf pour les exceptions citées par l'article 33 II.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2004-439 2004-05-26 art. 32 I : Champ d'application
+
+	**Modifié par**:
+
+	  - Loi n°2004-439 du 26 mai 2004 - art. 17 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
+
+	**Cité par**:
+
+	  - Loi n°2004-439 du 26 mai 2004 - art. 31 (V)
+	  - Code de procédure civile - art. 1136-3 (Ab)
+
+
+###### Article 268
+
+Les époux peuvent, pendant l'instance, soumettre à l'homologation du juge des conventions réglant tout ou partie des
+conséquences du divorce.
+
+Le juge, après avoir vérifié que les intérêts de chacun des époux et des enfants sont préservés, homologue les conventions en
+prononçant le divorce.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2004-439 2004-05-26 art. 32 I : Champ d'application
+
+	**Modifié par**:
+
+	  - Loi n°2004-439 du 26 mai 2004 - art. 17 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
+
+	**Cité par**:
+
+	  - Code civil - art. 1518 (M)
+	  - Code civil - art. 279-1 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
 ##### Paragraphe 3 : Des prestations compensatoires.
 
 ###### Article 270
 
-Sauf lorsqu'il est prononcé en raison de la rupture de la vie commune, le divorce met fin au devoir de secours prévu par
-l'article 212 du code civil ; mais l'un des époux peut être tenu de verser à l'autre une prestation destinée à compenser,
-autant qu'il est possible, la disparité que la rupture du mariage crée dans les conditions de vie respectives.
+Le divorce met fin au devoir de secours entre époux.
+
+L'un des époux peut être tenu de verser à l'autre une prestation destinée à compenser, autant qu'il est possible, la
+disparité que la rupture du mariage crée dans les conditions de vie respectives. Cette prestation a un caractère forfaitaire.
+Elle prend la forme d'un capital dont le montant est fixé par le juge. 
+
+Toutefois, le juge peut refuser d'accorder une telle prestation si l'équité le commande, soit en considération des critères
+prévus à l'article 271, soit lorsque le divorce est prononcé aux torts exclusifs de l'époux qui demande le bénéfice de cette
+prestation, au regard des circonstances particulières de la rupture.
 
 **Nota:**
 
-NOTA : La loi 2004-439 du 26 mai 2004 entrera en vigueur le 1er janvier 2005 sauf pour les exceptions citées par l'article 33
-II.
+
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
-
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+	  - TXT_SOURCE: Directive 2003-87 CE 2003-10-13 (Parlement et Conseil)
+	  - SPEC_APPLI: Loi n°2004-439 2004-05-26 art. 32 I : Champ d'application
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
 
 	**Cité par**:
 
@@ -11488,13 +11588,13 @@ II.
 	  - Code de la sécurité sociale. - art. L524-4 (VT)
 	  - Code de la sécurité sociale. - art. R844-2 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2004-439 du 26 mai 2004 - art. 18 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
+
 	**Cite**:
 
-	  - Code civil - art. 212 (M)
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
+	  - Code civil - art. 271 (V)
 
 
 ###### Article 271
@@ -11502,27 +11602,28 @@ II.
 La prestation compensatoire est fixée selon les besoins de l'époux à qui elle est versée et les ressources de l'autre en
 tenant compte de la situation au moment du divorce et de l'évolution de celle-ci dans un avenir prévisible.
 
-Dans le cadre de la fixation d'une prestation compensatoire, par le juge ou par les parties dans la convention visée à
-l'article 278, ou à l'occasion d'une demande de révision, les parties fournissent au juge une déclaration certifiant sur
-l'honneur l'exactitude de leurs ressources, revenus, patrimoine et conditions de vie.
+A cet effet, le juge prend en considération notamment :
+
+- la durée du mariage ;
+
+- l'âge et l'état de santé des époux ;
+
+- leur qualification et leur situation professionnelles ;
+
+- les conséquences des choix professionnels faits par l'un des époux pendant la vie commune pour l'éducation des enfants et
+du temps qu'il faudra encore y consacrer ou pour favoriser la carrière de son conjoint au détriment de la sienne ;
+
+- le patrimoine estimé ou prévisible des époux, tant en capital qu'en revenu, après la liquidation du régime matrimonial ;
+
+- leurs droits existants et prévisibles ;
+
+- leur situation respective en matière de pensions de retraite.
 
 **Nota:**
 
-NOTA : Loi 2000-596 2000-06-30 art. 23.
 
-NOTA : La loi 2004-439 du 26 mai 2004 entrera en vigueur le 1er janvier 2005 sauf pour les exceptions citées par l'article 33
-II.
 
 **Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
-
-	**Modifié par**:
-
-	  - Loi n°2000-596 du 30 juin 2000 - art. 1 () JORF 1er juillet 2000
 
 	**Cité par**:
 
@@ -11530,13 +11631,15 @@ II.
 	  - Code civil - art. 276 (V)
 	  - Nouveau code de procédure civile - art. 1075-1 (M)
 
-	**Nouveaux textes**:
+	**Liens**:
 
-	  - Code civil - art. 272 (M)
+	  - TXT_SOURCE: Directive 2003-87 CE 2003-10-13 (Parlement et Conseil)
+	  - SPEC_APPLI: Loi n°2004-439 2004-05-26 art. 32 I : Champ d'application
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code civil - art. 278 (M)
+	  - Loi n°2004-439 du 26 mai 2004 - art. 18 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
+	  - Loi n°2004-439 du 26 mai 2004 - art. 6 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
 
 	**Codifié par**:
 
@@ -11545,33 +11648,30 @@ II.
 
 ###### Article 272
 
-Dans la détermination des besoins et des ressources, le juge prend en considération notamment :
-
-- l'âge et l'état de santé des époux ;
-
-- la durée du mariage ;
-
-- le temps déjà consacré ou qu'il leur faudra consacrer à l'éducation des enfants ;
-
-- leur qualification et leur situation professionnelles au regard du marché du travail ;
-
-- leur disponibilité pour de nouveaux emplois ;
-
-- leurs droits existants et prévisibles ;
-
-- leur situation respective en matière de pensions de retraite ;
-
-- leur patrimoine, tant en capital qu'en revenu, après la liquidation du régime matrimonial.
+Dans le cadre de la fixation d'une prestation compensatoire, par le juge ou par les parties, ou à l'occasion d'une demande de
+révision, les parties fournissent au juge une déclaration certifiant sur l'honneur l'exactitude de leurs ressources, revenus,
+patrimoine et conditions de vie.
 
 **Nota:**
 
-Loi 2000-596 2000-06-30 art. 23 [*dispositions transitoires*]
+NOTA : La loi 2004-439 du 26 mai 2004 entrera en vigueur le 1er janvier 2005 sauf pour les exceptions citées par l'article 33
+II.
 
 **Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2004-439 2004-05-26 art. 32 I : Champ d'application
+
+	**Modifié par**:
+
+	  - Loi n°2004-439 du 26 mai 2004 - art. 14 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
+	  - Loi n°2004-439 du 26 mai 2004 - art. 6 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
 
 	**Anciens textes**:
 
 	  - Code civil - art. 271 (M)
+	  - Code civil 271 al. 2
 
 	**Cité par**:
 
@@ -11582,63 +11682,35 @@ Loi 2000-596 2000-06-30 art. 23 [*dispositions transitoires*]
 
 	  - Loi n°1803-03-14
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
-
-	**Modifié par**:
-
-	  - Loi n°2000-596 du 30 juin 2000 - art. 2 () JORF 1er juillet 2000
-
-
-###### Article 273
-
-La prestation compensatoire a un caractère forfaitaire.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
-
-	**Modifié par**:
-
-	  - Loi n°2000-596 du 30 juin 2000 - art. 3 () JORF 1er juillet 2000
-
-	**Abrogé par**:
-
-	  - Loi n°2004-439 du 26 mai 2004 - art. 23 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
-
-	**Cité par**:
-
-	  - Code de procédure civile - art. 1136-2 (VD)
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
 
 ###### Article 274
 
-La prestation compensatoire prend la forme d'un capital dont le montant est fixé par le juge.
+Le juge décide des modalités selon lesquelles s'exécutera la prestation compensatoire en capital parmi les formes
+suivantes : 
+
+1° Versement d'une somme d'argent, le prononcé du divorce pouvant être subordonné à la constitution des garanties prévues à
+l'article 277 ; 
+
+2° Attribution de biens en propriété ou d'un droit temporaire ou viager d'usage, d'habitation ou d'usufruit, le jugement
+opérant cession forcée en faveur du créancier. Toutefois, l'accord de l'époux débiteur est exigé pour l'attribution en
+propriété de biens qu'il a reçus par succession ou donation.
 
 **Nota:**
 
-Loi 2000-596 2000-06-30 art. 23 [*dispositions transitoires*]    NOTA : La loi 2004-439 du 26 mai 2004 entrera en vigueur le
-1er janvier 2005 sauf pour les exceptions citées par l'article 33 II.
+Dans sa décision n
+  **° **2011-151 QPC du 13 juillet 2011 (NOR : CSCX1119558S), le Conseil constitutionnel a déclaré, sous la réserve énoncée
+au considérant 8, le 2° de l'article 274 du code civil conforme à la Constitution.
 
 **Liens relatifs à cet article**
 
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+	  - SPEC_APPLI: Loi n°2004-439 2004-05-26 art. 32 I : Champ d'application
+	  - TXT_SOURCE: Directive 2003-87 CE 2003-10-13 (Parlement et Conseil)
 
 	**Modifié par**:
 
-	  - Loi n°2000-596 du 30 juin 2000 - art. 4 () JORF 1er juillet 2000
+	  - Loi n°2004-439 du 26 mai 2004 - art. 18 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
 
 	**Cité par**:
 
@@ -11651,6 +11723,10 @@ Loi 2000-596 2000-06-30 art. 23 [*dispositions transitoires*]    NOTA : La loi 2
 	  - Code général des impôts, CGI. - art. 1133 ter (V)
 	  - Code général des impôts, CGI. - art. 199 octodecies (VD)
 
+	**Cite**:
+
+	  - Code civil - art. 277 (V)
+
 	**Codifié par**:
 
 	  - Loi n°1803-03-14
@@ -11658,33 +11734,24 @@ Loi 2000-596 2000-06-30 art. 23 [*dispositions transitoires*]    NOTA : La loi 2
 
 ###### Article 275
 
-Le juge décide des modalités selon lesquelles s'exécutera l'attribution ou l'affectation de biens en capital :
+Lorsque le débiteur n'est pas en mesure de verser le capital dans les conditions prévues par l'article 274, le juge fixe les
+modalités de paiement du capital, dans la limite de huit années, sous forme de versements périodiques indexés selon les
+règles applicables aux pensions alimentaires. 
 
-1. Versement d'une somme d'argent ;
+Le débiteur peut demander la révision de ces modalités de paiement en cas de changement important de sa situation. A titre
+exceptionnel, le juge peut alors, par décision spéciale et motivée, autoriser le versement du capital sur une durée totale
+supérieure à huit ans. 
 
-2. Abandon de biens en nature, meubles ou immeubles, en propriété, en usufruit, pour l'usage ou l'habitation, le jugement
-opérant cession forcée en faveur du créancier ;
+Le débiteur peut se libérer à tout moment du solde du capital indexé. 
 
-3. Dépôt de valeurs productives de revenus entre les mains d'un tiers chargé de verser les revenus à l'époux créancier de la
-prestation jusqu'au terme fixé.
-
-Le jugement de divorce peut être subordonné au versement effectif du capital ou à la constitution des garanties prévues à
-l'article 277.
+Après la liquidation du régime matrimonial, le créancier de la prestation compensatoire peut saisir le juge d'une demande en
+paiement du solde du capital indexé.
 
 **Nota:**
 
-Loi 2000-596 2000-06-30 art. 23 [*dispositions transitoires*]
+
 
 **Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
-
-	**Modifié par**:
-
-	  - Loi n°2000-596 du 30 juin 2000 - art. 5 () JORF 1er juillet 2000
 
 	**Cité par**:
 
@@ -11700,13 +11767,22 @@ Loi 2000-596 2000-06-30 art. 23 [*dispositions transitoires*]
 	  - Code général des impôts, CGI. - art. 156 (VT)
 	  - Code général des impôts, CGI. - art. 80 quater (VD)
 
-	**Anciens textes**:
+	**Liens**:
 
-	  - Code civil - art. 275-1 (M)
+	  - SPEC_APPLI: Loi n°2004-439 2004-05-26 art. 32 I : Champ d'application
+
+	**Modifié par**:
+
+	  - Loi n°2004-439 du 26 mai 2004 - art. 18 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
+	  - Loi n°2004-439 du 26 mai 2004 - art. 6 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
 
 	**Cite**:
 
-	  - Code civil - art. 277 (M)
+	  - Code civil - art. 274 (V)
+
+	**Anciens textes**:
+
+	  - Code civil - art. 275-1 (M)
 
 	**Codifié par**:
 
@@ -11715,37 +11791,18 @@ Loi 2000-596 2000-06-30 art. 23 [*dispositions transitoires*]
 
 ###### Article 275-1
 
-Lorsque le débiteur n'est pas en mesure de verser le capital dans les conditions prévues par l'article 275, le juge fixe les
-modalités de paiement du capital, dans la limite de huit années, sous forme de versements mensuels ou annuels indexés selon
-les règles applicables aux pensions alimentaires.
-
-Le débiteur peut demander la révision de ces modalités de paiement en cas de changement notable de sa situation. A titre
-exceptionnel, le juge peut alors, par décision spéciale et motivée, autoriser le versement du capital sur une durée totale
-supérieure à huit ans.
-
-A la mort de l'époux débiteur, la charge du solde du capital passe à ses héritiers. Les héritiers peuvent demander la
-révision des modalités de paiement dans les conditions prévues au précédent alinéa.
-
-Le débiteur ou ses héritiers peuvent se libérer à tout moment du solde du capital.
-
-Après la liquidation du régime matrimonial, le créancier de la prestation compensatoire peut saisir le juge d'une demande en
-paiement du solde du capital.
+Les modalités de versement prévues au premier alinéa de l'article 275 ne sont pas exclusives du versement d'une partie du
+capital dans les formes prévues par l'article 274.
 
 **Nota:**
 
-Loi 2000-596 2000-06-30 art. 23 [*dispositions transitoires*]    NOTA : La loi 2004-439 du 26 mai 2004 entrera en vigueur le
-1er janvier 2005 sauf pour les exceptions citées par l'article 33 II.
+
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Codifié par**:
 
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
-
-	**Modifié par**:
-
-	  - Loi n°2000-596 du 30 juin 2000 - art. 6 () JORF 1er juillet 2000
+	  - Loi n°1803-03-14
 
 	**Cité par**:
 
@@ -11757,36 +11814,43 @@ Loi 2000-596 2000-06-30 art. 23 [*dispositions transitoires*]    NOTA : La loi 2
 	  - Code civil - art. 276-4 (V)
 	  - Code civil - art. 279 (M)
 
-	**Transféré par**:
+	**Liens**:
 
-	  - Loi n°2004-439 du 26 mai 2004 - art. 6 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
+	  - SPEC_APPLI: Loi n°2004-439 2004-05-26 art. 32 I : Champ d'application
+
+	**Modifié par**:
+
+	  - Loi n°2004-439 du 26 mai 2004 - art. 18 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
 
 	**Cite**:
 
-	  - Code civil - art. 275 (M)
+	  - Code civil - art. 274 (V)
+	  - Code civil - art. 275 (V)
 
 	**Nouveaux textes**:
 
-	  - Code civil - art. 275 (M)
 	  - Code civil - art. 275 (V)
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
 
 
 ###### Article 276
 
-A titre exceptionnel, le juge peut, par décision spécialement motivée, en raison de l'âge ou de l'état de santé du créancier
-ne lui permettant pas de subvenir à ses besoins, fixer la prestation compensatoire sous forme de rente viagère. Il prend en
-considération les éléments d'appréciation prévus à l'article 272.
+A titre exceptionnel, le juge peut, par décision spécialement motivée, lorsque l'âge ou l'état de santé du créancier ne lui
+permet pas de subvenir à ses besoins, fixer la prestation compensatoire sous forme de rente viagère. Il prend en
+considération les éléments d'appréciation prévus à l'article 271. 
+
+Le montant de la rente peut être minoré, lorsque les circonstances l'imposent, par l'attribution d'une fraction en capital
+parmi les formes prévues à l'article 274.
 
 **Nota:**
 
-Loi 2000-596 2000-06-30 art. 23 [*dispositions transitoires*]    NOTA : La loi 2004-439 du 26 mai 2004 entrera en vigueur le
-1er janvier 2005 sauf pour les exceptions citées par l'article 33 II.
+
 
 **Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_SOURCE: Directive 2003-87 CE 2003-10-13 (Parlement et Conseil)
+	  - SPEC_APPLI: Loi n°2004-439 2004-05-26 art. 32 I : Champ d'application
 
 	**Cité par**:
 
@@ -11813,18 +11877,14 @@ Loi 2000-596 2000-06-30 art. 23 [*dispositions transitoires*]    NOTA : La loi 2
 	  - Code général des impôts, CGI. - art. 80 quater (VD)
 	  - Nouveau code de procédure civile - art. 465-1 (V)
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
-
 	**Modifié par**:
 
-	  - Loi n°2000-596 du 30 juin 2000 - art. 7 () JORF 1er juillet 2000
+	  - Loi n°2004-439 du 26 mai 2004 - art. 18 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
 
 	**Cite**:
 
-	  - Code civil - art. 272 (M)
+	  - Code civil - art. 271 (V)
+	  - Code civil - art. 274 (V)
 
 	**Codifié par**:
 
@@ -11854,64 +11914,27 @@ successives suivant l'évolution probable des ressources et des besoins.
 	  - Loi n°2000-596 du 30 juin 2000 - art. 8 () JORF 1er juillet 2000
 
 
-###### Article 276-2
-
-A la mort de l'époux débiteur, la charge de la rente viagère passe à ses héritiers. Les pensions de réversion éventuellement
-versées du chef du conjoint décédé sont déduites de plein droit de la rente versée au créancier. Sauf décision contraire du
-juge saisi par le créancier, une déduction du même montant continue à être opérée si le créancier perd son droit à pension de
-réversion.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
-
-	**Modifié par**:
-
-	  - Loi n°2000-596 du 30 juin 2000 - art. 9 () JORF 1er juillet 2000
-
-	**Transféré par**:
-
-	  - Loi n°2004-439 du 26 mai 2004 - art. 6 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
-
-	**Nouveaux textes**:
-
-	  - Code civil - art. 280-2 (V)
-
-
 ###### Article 276-3
 
-La prestation compensatoire fixée sous forme de rente viagère peut être révisée, suspendue ou supprimée en cas de changement
-important dans les ressources ou les besoins des parties.
+La prestation compensatoire fixée sous forme de rente peut être révisée, suspendue ou supprimée en cas de changement
+important dans les ressources ou les besoins de l'une ou l'autre des parties.
 
 La révision ne peut avoir pour effet de porter la rente à un montant supérieur à celui fixé initialement par le juge.
 
-L'action en révision est ouverte au débiteur et à ses héritiers.
-
 **Nota:**
 
-NOTA : La loi 2004-439 du 26 mai 2004 entrera en vigueur le 1er janvier 2005 sauf pour les exceptions citées par l'article 33
-II.
+
 
 **Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_SOURCE: Directive 2003-87 CE 2003-10-13 (Parlement et Conseil)
+	  - SPEC_APPLI: Loi n°2004-439 2004-05-26 art. 32 I : Champ d'application
 
 	**Codifié par**:
 
 	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°2000-596 du 30 juin 2000 - art. 10 () JORF 1er juillet 2000
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°2000-596 du 30 juin 2000 - art. 23 (Ab)
 
 	**Cité par**:
 
@@ -11920,45 +11943,57 @@ II.
 	  - Code civil - art. 279 (VD)
 	  - Code civil - art. 280-1 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2004-439 du 26 mai 2004 - art. 22 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
+	  - Loi n°2004-439 du 26 mai 2004 - art. 23 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
+
 
 ###### Article 276-4
 
-Le débiteur d'une prestation compensatoire sous forme de rente viagère peut à tout moment saisir le juge aux fins de statuer
-sur la substitution à la rente d'un capital déterminé selon les modalités prévues aux articles 275 et 275-1.
-
-Cette action est ouverte aux héritiers du débiteur.
+Le débiteur d'une prestation compensatoire sous forme de rente peut, à tout moment, saisir le juge d'une demande de
+substitution d'un capital à tout ou partie de la rente. La substitution s'effectue selon des modalités fixées par décret en
+Conseil d'Etat. 
 
 Le créancier de la prestation compensatoire peut former la même demande s'il établit qu'une modification de la situation du
-débiteur permet cette substitution, notamment lors de la liquidation du régime matrimonial.
+débiteur permet cette substitution, notamment lors de la liquidation du régime matrimonial. 
+
+Les modalités d'exécution prévues aux articles 274, 275 et 275-1 sont applicables. Le refus du juge de substituer un capital
+à tout ou partie de la rente doit être spécialement motivé.
 
 **Nota:**
 
-Loi 2000-596 2000-06-30 art. 23 [*dispositions transitoires*]    NOTA : La loi 2004-439 du 26 mai 2004 entrera en vigueur le
-1er janvier 2005 sauf pour les exceptions citées par l'article 33 II.
+
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Liens**:
 
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°2000-596 du 30 juin 2000 - art. 11 () JORF 1er juillet 2000
+	  - SPEC_APPLI: Loi n°2004-439 2004-05-26 art. 32 I : Champ d'application
+	  - TXT_SOURCE: Directive 2003-87 CE 2003-10-13 (Parlement et Conseil)
 
 	**Cité par**:
 
-	  - Loi n°2000-596 du 30 juin 2000 - art. 20 (Ab)
 	  - Loi n°2004-439 du 26 mai 2004 - art. 33 (V)
 	  - Décret n°2004-1157 du 29 octobre 2004 - art. 1 (V)
 	  - CODE GENERAL DES IMPOTS, CGI. - art. 1133 ter (M)
 	  - Code civil - art. 279 (VD)
 	  - Code civil - art. 280-1 (V)
+	  - Loi n°2000-596 du 30 juin 2000 - art. 20 (Ab)
 
 	**Cite**:
 
-	  - Code civil - art. 275 (M)
-	  - Code civil - art. 275-1 (M)
+	  - Code civil - art. 274 (V)
+	  - Code civil - art. 275 (V)
+	  - Code civil - art. 275-1 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Modifié par**:
+
+	  - Loi n°2004-439 du 26 mai 2004 - art. 18 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
 
 
 ###### Article 277
@@ -11993,30 +12028,27 @@ caution ou de souscrire un contrat garantissant le paiement de la rente ou du ca
 
 ###### Article 278
 
-En cas de demande conjointe, les époux fixent le montant et les modalités de la prestation compensatoire dans la convention
-qu'ils soumettent à l'homologation du juge. Ils peuvent prévoir que le versement de la prestation cessera à compter de la
-réalisation d'un évènement déterminé. La prestation peut prendre la forme d'une rente attribuée pour une durée limitée.
+En cas de divorce par consentement mutuel, les époux fixent le montant et les modalités de la prestation compensatoire dans
+la convention qu'ils soumettent à l'homologation du juge. Ils peuvent prévoir que le versement de la prestation cessera à
+compter de la réalisation d'un événement déterminé. La prestation peut prendre la forme d'une rente attribuée pour une durée
+limitée.
 
 Le juge, toutefois, refuse d'homologuer la convention si elle fixe inéquitablement les droits et obligations des époux.
 
 **Nota:**
 
-NOTA : La loi 2004-439 du 26 mai 2004 entrera en vigueur le 1er janvier 2005 sauf pour les exceptions citées par l'article 33
-II.
+
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Liens**:
 
-	  - Loi n°1803-03-14
+	  - SPEC_APPLI: Loi n°2004-439 2004-05-26 art. 32 I : Champ d'application
+	  - TXT_SOURCE: Directive 2003-87 CE 2003-10-13 (Parlement et Conseil)
 
 	**Modifié par**:
 
-	  - Loi n°2000-596 du 30 juin 2000 - art. 14 () JORF 1er juillet 2000
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°2000-596 du 30 juin 2000 - art. 23 (Ab)
+	  - Loi n°2004-439 du 26 mai 2004 - art. 22 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
 
 	**Cité par**:
 
@@ -12027,23 +12059,28 @@ II.
 	  - Code général des impôts, CGI. - art. 199 octodecies (V)
 	  - Code général des impôts, CGI. - art. 80 quater (VD)
 
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
 
 ###### Article 279
 
-La convention homologuée a la même force exécutoire qu'une décision de justice.
+La convention homologuée a la même force exécutoire qu'une décision de justice. 
 
-Elle ne peut être modifiée que par une nouvelle convention entre des époux, également soumise à l'homologation.
+Elle ne peut être modifiée que par une nouvelle convention entre des époux, également soumise à homologation. 
 
 Les époux ont néanmoins la faculté de prévoir dans leur convention que chacun d'eux pourra, en cas de changement important
-dans les ressources et les besoins des parties, demander au juge de réviser la prestation compensatoire.
+dans les ressources ou les besoins de l'une ou l'autre des parties, demander au juge de réviser la prestation compensatoire.
+Les dispositions prévues aux deuxième et troisième alinéas de l'article 275 ainsi qu'aux articles 276-3 et 276-4 sont
+également applicables, selon que la prestation compensatoire prend la forme d'un capital ou d'une rente temporaire ou
+viagère. 
 
-Ils peuvent également demander la révision de la prestation compensatoire sur le fondement des articles 275-1, 276-3 et
-276-4.
+Sauf disposition particulière de la convention, les articles 280 à 280-2 sont applicables.
 
 **Nota:**
 
-NOTA : La loi 2004-439 du 26 mai 2004 entrera en vigueur le 1er janvier 2005 sauf pour les exceptions citées par l'article 33
-II.
+
 
 **Liens relatifs à cet article**
 
@@ -12055,238 +12092,88 @@ II.
 
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°2001-1135 2001-12-03 art. 25 I, II
+	  - SPEC_APPLI: Loi n°2004-439 2004-05-26 art. 32 I : Champ d'application
+	  - TXT_SOURCE: Directive 2003-87 CE 2003-10-13 (Parlement et Conseil)
 
 	**Modifié par**:
 
-	  - Loi n°2001-1135 du 3 décembre 2001 - art. 23 () JORF 4 décembre 2001
+	  - Loi n°2004-439 du 26 mai 2004 - art. 22 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
 
 	**Cite**:
 
-	  - Code civil - art. 275-1 (M)
-	  - Code civil - art. 276-3 (M)
-	  - Code civil - art. 276-4 (M)
+	  - Code civil - art. 275 (V)
+	  - Code civil - art. 276-3 (V)
+	  - Code civil - art. 276-4 (V)
+	  - Code civil - art. 280 (V)
 
 	**Codifié par**:
 
 	  - Loi n°1803-03-14
 
 
-#### Section 2 : Des conséquences du divorce pour les époux.
+###### Article 279-1
 
-##### Paragraphe 2 : Des suites propres aux différents cas de divorce.
-
-###### Article 266
-
-Quand le divorce est prononcé aux torts exclusifs de l'un des époux, celui-ci peut être condamné à des dommages-intérêts en
-réparation du préjudice matériel ou moral que la dissolution du mariage fait subir à son conjoint.
-
-Ce dernier ne peut demander des dommages-intérêts qu'à l'occasion de l'action en divorce.
+Lorsqu'en application de l'article 268, les époux soumettent à l'homologation du juge une convention relative à la prestation
+compensatoire, les dispositions des articles 278 et 279 sont applicables.
 
 **Nota:**
 
-NOTA : La loi 2004-439 du 26 mai 2004 entrera en vigueur le 1er janvier 2005 sauf pour les exceptions citées par l'article 33
-II.
+
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Liens**:
 
-	  - Loi n°1803-03-14
+	  - SPEC_APPLI: Loi n°2004-439 2004-05-26 art. 32 I : Champ d'application
 
 	**Créé par**:
 
-	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
-
-
-###### Article 267
-
-Quand le divorce est prononcé aux torts exclusifs de l'un des époux, celui-ci perd de plein droit toutes les donations et
-tous les avantages matrimoniaux que son conjoint lui avait consentis, soit lors du mariage, soit après.
-
-L'autre conjoint conserve les donations et avantages qui lui avaient été consentis, encore qu'ils aient été stipulés
-réciproques et que la réciprocité n'ait pas lieu.
-
-**Nota:**
-
-NOTA : La loi 2004-439 du 26 mai 2004 entrera en vigueur le 1er janvier 2005 sauf pour les exceptions citées par l'article 33
-II.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+	  - Loi n°2004-439 du 26 mai 2004 - art. 18 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
 
 	**Cité par**:
 
-	  - Code de procédure civile - art. 1116 (V)
-	  - Code de procédure civile - art. 1136-2 (V)
-	  - Code de procédure civile - art. 1136-3 (Ab)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 156 (M)
+	  - Code général des impôts, CGI. - art. 1133 ter (V)
+	  - Code général des impôts, CGI. - art. 199 octodecies (VD)
+	  - Code général des impôts, CGI. - art. 80 quater (VD)
 
+	**Cite**:
 
-###### Article 267-1
-
-Quand le divorce est prononcé aux torts partagés, chacun des époux peut révoquer tout ou partie des donations et avantages
-qu'il avait consentis à l'autre.
-
-**Nota:**
-
-NOTA : La loi 2004-439 du 26 mai 2004 entrera en vigueur le 1er janvier 2005 sauf pour les exceptions citées par l'article 33
-II.
-
-**Liens relatifs à cet article**
+	  - Code civil - art. 268 (V)
+	  - Code civil - art. 278 (V)
+	  - Code civil - art. 279 (V)
 
 	**Codifié par**:
 
 	  - Loi n°1803-03-14
 
-	**Créé par**:
-
-	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
-
-	**Cité par**:
-
-	  - Loi n°2004-439 du 26 mai 2004 - art. 31 (V)
-	  - Code de procédure civile - art. 1136-3 (Ab)
-
-
-###### Article 268
-
-Quand le divorce est prononcé sur demande conjointe, les époux décident eux-mêmes du sort des donations et avantages qu'ils
-s'étaient consentis ; s'ils n'ont rien décidé à cet égard, ils sont censés les avoir maintenus.
-
-**Nota:**
-
-NOTA : La loi 2004-439 du 26 mai 2004 entrera en vigueur le 1er janvier 2005 sauf pour les exceptions citées par l'article 33
-II.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
-
-	**Cité par**:
-
-	  - Code civil - art. 1518 (M)
-	  - Code civil - art. 279-1 (V)
-
-
-###### Article 268-1
-
-Quand le divorce est prononcé sur demande acceptée par l'autre conjoint, chacun des époux peut révoquer tout ou partie des
-donations et avantages qu'il avait consentis à l'autre.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
-
-	**Abrogé par**:
-
-	  - Loi n°2004-439 du 26 mai 2004 - art. 23 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
-
-
-###### Article 269
-
-Quand le divorce est prononcé en raison de la rupture de la vie commune, celui qui a pris l'initiative du divorce perd de
-plein droit les donations et avantages que son conjoint lui avait consentis.
-
-L'autre époux conserve les siens.
-
-**Nota:**
-
-
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
-
-	**Abrogé par**:
-
-	  - Loi n°2004-439 du 26 mai 2004 - art. 23 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
-
-
-##### Paragraphe 3 : Des prestations compensatoires.
 
 ###### Article 280
 
-Les transferts et abandons prévus au présent paragraphe sont considérés comme participant du régime matrimonial. Ils ne sont
-pas assimilés à des donations.
+A la mort de l'époux débiteur, le paiement de la prestation compensatoire, quelle que soit sa forme, est prélevé sur la
+succession. Le paiement est supporté par tous les héritiers, qui n'y sont pas tenus personnellement, dans la limite de
+l'actif successoral et, en cas d'insuffisance, par tous les légataires particuliers, proportionnellement à leur émolument,
+sous réserve de l'application de l'article 927. 
+
+Lorsque la prestation compensatoire a été fixée sous forme d'un capital payable dans les conditions de l'article 275, le
+solde de ce capital indexé devient immédiatement exigible. 
+
+Lorsqu'elle a été fixée sous forme de rente, il lui est substitué un capital immédiatement exigible. La substitution
+s'effectue selon des modalités fixées par décret en Conseil d'Etat.
 
 **Nota:**
 
-NOTA : La loi 2004-439 du 26 mai 2004 entrera en vigueur le 1er janvier 2005 sauf pour les exceptions citées par l'article 33
-II.
+
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
-
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+	  - SPEC_APPLI: Loi n°2004-439 2004-05-26 art. 32 I : Champ d'application
 
-	**Transféré par**:
+	**Modifié par**:
 
-	  - Loi n°2004-439 du 26 mai 2004 - art. 6 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
+	  - Loi n°2004-439 du 26 mai 2004 - art. 18 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
 
 	**Cité par**:
 
@@ -12298,60 +12185,74 @@ II.
 	  - Code civil - art. 285 (Ab)
 	  - Code civil - art. 294 (Ab)
 
+	**Cite**:
+
+	  - Code civil - art. 275 (V)
+	  - Code civil - art. 927 (V)
+
 	**Nouveaux textes**:
 
-	  - Code civil - art. 281 (M)
 	  - Code civil - art. 281 (V)
-
-
-###### Article 280-1
-
-L'époux aux torts exclusifs de qui le divorce est prononcé n'a droit à aucune prestation compensatoire.
-
-Toutefois, il peut obtenir une indemnité à titre exceptionnel, si, compte tenu de la durée de la vie commune et de la
-collaboration apportée à la profession de l'autre époux, il apparaît manifestement contraire à l'équité de lui refuser toute
-compensation pécuniaire à la suite du divorce.
-
-**Nota:**
-
-NOTA : La loi 2004-439 du 26 mai 2004 entrera en vigueur le 1er janvier 2005 sauf pour les exceptions citées par l'article 33
-II.
-
-**Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Loi n°1803-03-14
 
-	**Créé par**:
 
-	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
+###### Article 280-1
+
+Par dérogation à l'article 280, les héritiers peuvent décider ensemble de maintenir les formes et modalités de règlement de
+la prestation compensatoire qui incombaient à l'époux débiteur, en s'obligeant personnellement au paiement de cette
+prestation. A peine de nullité, l'accord est constaté par un acte notarié. Il est opposable aux tiers à compter de sa
+notification à l'époux créancier lorsque celui-ci n'est pas intervenu à l'acte. 
+
+Lorsque les modalités de règlement de la prestation compensatoire ont été maintenues, les actions prévues au deuxième alinéa
+de l'article 275 et aux articles 276-3 et 276-4, selon que la prestation compensatoire prend la forme d'un capital ou d'une
+rente temporaire ou viagère, sont ouvertes aux héritiers du débiteur. Ceux-ci peuvent également se libérer à tout moment du
+solde du capital indexé lorsque la prestation compensatoire prend la forme prévue au premier alinéa de l'article 275.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
 
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+	  - TXT_SOURCE: Directive 2003-87 CE 2003-10-13 (Parlement et Conseil)
+	  - SPEC_APPLI: Loi n°2004-439 2004-05-26 art. 32 I : Champ d'application
+
+	**Modifié par**:
+
+	  - Loi n°2004-439 du 26 mai 2004 - art. 18 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
 
 	**Cité par**:
 
 	  - Décret n°2016-230 du 26 février 2016 - art.
 	  - Code civil - art. 280-2 (V)
 
+	**Cite**:
 
-##### Paragraphe 4 : Du devoir de secours après le divorce.
+	  - Code civil - art. 275 (V)
+	  - Code civil - art. 276-3 (V)
+	  - Code civil - art. 276-4 (V)
+	  - Code civil - art. 280 (V)
 
-###### Article 281
+	**Codifié par**:
 
-Quand le divorce est prononcé pour rupture de la vie commune, l'époux qui a pris l'initiative du divorce reste entièrement
-tenu au devoir de secours.
+	  - Loi n°1803-03-14
 
-Dans le cas de l'article 238, le devoir de secours couvre tout ce qui est nécessaire au traitement médical du conjoint
-malade.
+
+###### Article 280-2
+
+Les pensions de réversion éventuellement versées du chef du conjoint décédé sont déduites de plein droit du montant de la
+prestation compensatoire, lorsque celle-ci, au jour du décès, prenait la forme d'une rente. Si les héritiers usent de la
+faculté prévue à l'article 280-1 et sauf décision contraire du juge, une déduction du même montant continue à être opérée si
+le créancier perd son droit ou subit une variation de son droit à pension de réversion.
 
 **Nota:**
 
-NOTA : La loi 2004-439 du 26 mai 2004 entrera en vigueur le 1er janvier 2005 sauf pour les exceptions citées par l'article 33
-II.
+
 
 **Liens relatifs à cet article**
 
@@ -12359,170 +12260,69 @@ II.
 
 	  - Loi n°1803-03-14
 
-	**Créé par**:
-
-	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
-
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+	  - SPEC_APPLI: Loi n°2004-439 2004-05-26 art. 32 I : Champ d'application
+
+	**Créé par**:
+
+	  - Loi n°2004-439 du 26 mai 2004 - art. 22 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
+	  - Loi n°2004-439 du 26 mai 2004 - art. 6 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
+
+	**Anciens textes**:
+
+	  - Code civil - art. 276-2 (M)
+	  - Code civil - art. 276-2 (T)
 
 	**Cite**:
 
-	  - Code civil - art. 238 (M)
+	  - Code civil - art. 280-1 (V)
+
+
+###### Article 281
+
+Les transferts et abandons prévus au présent paragraphe sont, quelles que soient leurs modalités de versement, considérés
+comme participant du régime matrimonial. Ils ne sont pas assimilés à des donations.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2004-439 2004-05-26 art. 32 I : Champ d'application
+
+	**Modifié par**:
+
+	  - Loi n°2004-439 du 26 mai 2004 - art. 22 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
+	  - Loi n°2004-439 du 26 mai 2004 - art. 6 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
 
 	**Anciens textes**:
 
 	  - Code civil - art. 280 (M)
 
 
-###### Article 282
-
-L'accomplissement du devoir de secours prend la forme d'une pension alimentaire. Celle-ci peut toujours être révisée en
-fonction des ressources et des besoins de chacun des époux.
-
-**Nota:**
-
-
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
-
-	**Cité par**:
-
-	  - Loi n°88-1088 du 1 décembre 1988 - art. 23 (Ab)
-	  - Code de l'action sociale et des familles - art. L262-35 (M)
-
-	**Abrogé par**:
-
-	  - Loi n°2004-439 du 26 mai 2004 - art. 23 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
-
-
-###### Article 283
-
-La pension alimentaire cesse de plein droit d'être due si le conjoint qui en est créancier contracte un nouveau mariage.
-
-Il y est mis fin si le créancier vit en état de concubinage notoire.
-
-**Nota:**
-
-
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
-
-	**Abrogé par**:
-
-	  - Loi n°2004-439 du 26 mai 2004 - art. 23 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
-
-
-###### Article 284
-
-A la mort de l'époux débiteur, la charge de la pension passe à ses héritiers.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
-
-	**Abrogé par**:
-
-	  - Loi n°2004-439 du 26 mai 2004 - art. 23 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
-
-
-###### Article 285
-
-Lorsque la consistance des biens de l'époux débiteur s'y prête, la pension alimentaire est remplacée, en tout ou partie, par
-la constitution d'un capital, selon les règles des articles 274 à 275-1, 277 et 280.
-
-Si ce capital devient insuffisant pour couvrir les besoins du conjoint créancier, celui-ci peut demander un complément sous
-forme de pension alimentaire.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
-
-	**Modifié par**:
-
-	  - Loi n°2000-596 du 30 juin 2000 - art. 16 () JORF 1er juillet 2000
-
-	**Abrogé par**:
-
-	  - Loi n°2004-439 du 26 mai 2004 - art. 23 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
-
-	**Cite**:
-
-	  - Code civil - art. 277 (M)
-	  - Code civil - art. 280 (M)
-	  - Code civil 274 à 275-1, 277, 280
-
-	**Cité par**:
-
-	  - Code civil - art. 303 (M)
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-
-##### Paragraphe 5 : Du logement.
+##### Paragraphe 4 : Du logement.
 
 ###### Article 285-1
 
 Si le local servant de logement à la famille appartient en propre ou personnellement à l'un des époux, le juge peut le
-concéder à bail à l'autre conjoint :
+concéder à bail au conjoint qui exerce seul ou en commun l'autorité parentale sur un ou plusieurs de leurs enfants lorsque
+ceux-ci résident habituellement dans ce logement et que leur intérêt le commande.
 
-1° Lorsque l'autorité parentale est exercée par celui-ci sur un ou plusieurs enfants ou, en cas d'exercice en commun de
-l'autorité parentale, lorsqu'un ou plusieurs enfants ont leur résidence habituelle dans ce logement ;
+Le juge fixe la durée du bail et peut le renouveler jusqu'à la majorité du plus jeune des enfants.
 
-2° Lorsque le divorce a été prononcé à la demande de l'époux propriétaire, pour rupture de la vie commune.
+Le juge peut résilier le bail si des circonstances nouvelles le justifient.
 
-Dans le cas prévu au 1° ci-dessus, le juge fixe la durée du bail et peut le renouveler jusqu'à la majorité du plus jeune des
-enfants.
+**Nota:**
 
-Dans le cas prévu au 2°, le bail ne peut être concédé pour une durée excédant neuf années, mais peut être prolongé par une
-nouvelle décision. Il prend fin, de plein droit, en cas de remariage de celui à qui il a été concédé. Il y est mis fin si
-celui-ci vit en état de concubinage notoire.
 
-Dans tous les cas, le juge peut résilier le bail si des circonstances nouvelles le justifient.
 
 **Liens relatifs à cet article**
 
@@ -12537,12 +12337,11 @@ Dans tous les cas, le juge peut résilier le bail si des circonstances nouvelles
 
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°87-570 du 22 juillet 1987 - art. 29 (V)
-	  - SPEC_APPLI: Loi n°87-570 du 22 juillet 1987 - art. 30 (V)
+	  - SPEC_APPLI: Loi n°2004-439 2004-05-26 art. 32 I : Champ d'application
 
 	**Modifié par**:
 
-	  - Loi n°87-570 du 22 juillet 1987 - art. 4 () JORF 24 juillet 1987
+	  - Loi n°2004-439 du 26 mai 2004 - art. 19 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
 
 
 #### Section 3 : Des conséquences du divorce pour les enfants
@@ -12600,15 +12399,43 @@ divorce.
 ###### Article 297
 
 L'époux contre lequel est présentée une demande en divorce peut former une demande reconventionnelle en séparation de corps.
-L'époux contre lequel est présentée une demande en séparation de corps peut former une demande reconventionnelle en divorce.
-
-Si une demande en divorce et une demande en séparation de corps sont simultanément accueillies, le juge prononce à l'égard
-des deux conjoints le divorce aux torts partagés.
+Toutefois, lorsque la demande principale en divorce est fondée sur l'altération définitive du lien conjugal, la demande
+reconventionnelle ne peut tendre qu'au divorce. L'époux contre lequel est présentée une demande en séparation de corps peut
+former une demande reconventionnelle en divorce.
 
 **Nota:**
 
-NOTA : La loi 2004-439 du 26 mai 2004 entrera en vigueur le 1er janvier 2005 sauf pour les exceptions citées par l'article 33
-II.
+
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_SOURCE: Directive 2003-87 CE 2003-10-13 (Parlement et Conseil)
+	  - SPEC_APPLI: Loi n°2004-439 2004-05-26 art. 32 I : Champ d'application
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Modifié par**:
+
+	  - Loi n°2004-439 du 26 mai 2004 - art. 20 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
+	  - Loi n°2004-439 du 26 mai 2004 - art. 23 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
+
+
+###### Article 297-1
+
+Lorsqu'une demande en divorce et une demande en séparation de corps sont concurremment présentées, le juge examine en premier
+lieu la demande en divorce. Il prononce celui-ci dès lors que les conditions en sont réunies. A défaut, il statue sur la
+demande en séparation de corps.
+
+Toutefois, lorsque ces demandes sont fondées sur la faute, le juge les examine simultanément et, s'il les accueille, prononce
+à l'égard des deux conjoints le divorce aux torts partagés.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
@@ -12616,39 +12443,34 @@ II.
 
 	  - Loi n°1803-03-14
 
-	**Créé par**:
-
-	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
-
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+	  - SPEC_APPLI: Loi n°2004-439 2004-05-26 art. 32 I : Champ d'application
+
+	**Créé par**:
+
+	  - Loi n°2004-439 du 26 mai 2004 - art. 20 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
 
 
 ###### Article 298
 
-En outre, les règles contenues au chapitre II ci-dessus sont applicables à la procédure de la séparation de corps.
+En outre, les règles contenues à l'article 228 ainsi qu'au chapitre II ci-dessus sont applicables à la procédure de la
+séparation de corps.
 
 **Nota:**
 
-NOTA : La loi 2004-439 du 26 mai 2004 entrera en vigueur le 1er janvier 2005 sauf pour les exceptions citées par l'article 33
-II.
+
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
-
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+	  - SPEC_APPLI: Loi n°2004-439 2004-05-26 art. 32 I : Champ d'application
+	  - TXT_SOURCE: Directive 2003-87 CE 2003-10-13 (Parlement et Conseil)
+
+	**Modifié par**:
+
+	  - Loi n°2004-439 du 26 mai 2004 - art. 22 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
 
 	**Cité par**:
 
@@ -12657,6 +12479,14 @@ II.
 	**Nouveaux textes**:
 
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L312-1 (V)
+
+	**Cite**:
+
+	  - Code civil - art. 228 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
 
 
 #### Section 2 : Des conséquences de la séparation de corps
@@ -12683,44 +12513,50 @@ La séparation de corps ne dissout pas le mariage mais elle met fin au devoir de
 
 ###### Article 300
 
-La femme séparée conserve l'usage du nom du mari. Toutefois, le jugement de séparation de corps, ou un jugement postérieur,
-peut le lui interdire. Dans le cas où le mari aurait joint à son nom le nom de la femme, celle-ci pourra également demander
-qu'il soit interdit au mari de le porter.
+Chacun des époux séparés conserve l'usage du nom de l'autre. Toutefois, le jugement de séparation de corps ou un jugement
+postérieur peut, compte tenu des intérêts respectifs des époux, le leur interdire.
 
 **Nota:**
 
-NOTA : La loi 2004-439 du 26 mai 2004 entrera en vigueur le 1er janvier 2005 sauf pour les exceptions citées par l'article 33
-II.
+
 
 **Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_SOURCE: Directive 2003-87 CE 2003-10-13 (Parlement et Conseil)
+	  - SPEC_APPLI: Loi n°2004-439 2004-05-26 art. 32 I : Champ d'application
 
 	**Codifié par**:
 
 	  - Loi n°1803-03-14
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+	  - Loi n°2004-439 du 26 mai 2004 - art. 20 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
 
 
 ###### Article 301
 
 En cas de décès de l'un des époux séparés de corps, l'autre époux conserve les droits que la loi accorde au conjoint
-survivant. Il en est toutefois privé si la séparation de corps est prononcée contre lui suivant les distinctions faites à
-l'article 265. Lorsque la séparation de corps est prononcée sur demande conjointe, les époux peuvent inclure dans leur
+survivant. Lorsque la séparation de corps est prononcée par consentement mutuel, les époux peuvent inclure dans leur
 convention une renonciation aux droits successoraux qui leur sont conférés par les articles 756 à 757-3 et 764 à 766.
 
 **Nota:**
 
-NOTA : La loi 2004-439 du 26 mai 2004 entrera en vigueur le 1er janvier 2005 sauf pour les exceptions citées par l'article 33
-II.
+
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code civil - art. 756 (V)
+	  - Code civil - art. 764 (V)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Directive 2003-87 CE 2003-10-13 (Parlement et Conseil)
+	  - SPEC_APPLI: Loi n°2004-439 2004-05-26 art. 32 I : Champ d'application
 
 	**Codifié par**:
 
@@ -12731,18 +12567,9 @@ II.
 	  - Loi n°1928-03-30 du 30 mars 1928 - art. 2 septies (V)
 	  - Loi n°1930-08-24 du 24 août 1930 - art. 7 (V)
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°2001-1135 2001-12-03 art. 25 I, II
-
 	**Modifié par**:
 
-	  - Loi n°2001-1135 du 3 décembre 2001 - art. 15 () JORF 4 décembre 2001
-
-	**Cite**:
-
-	  - Code civil - art. 265 (M)
-	  - Code civil 265, 756 à 757-3, 764 à 766
+	  - Loi n°2004-439 du 26 mai 2004 - art. 22 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
 
 
 ###### Article 302
@@ -12779,38 +12606,41 @@ dispositions des articles 262 à 262-2.
 ###### Article 303
 
 La séparation de corps laisse subsister le devoir de secours ; le jugement qui la prononce ou un jugement postérieur fixe la
-pension alimentaire qui est due à l'époux dans le besoin.
+pension alimentaire qui est due à l'époux dans le besoin. 
 
 Cette pension est attribuée sans considération des torts. L'époux débiteur peut néanmoins invoquer, s'il y a lieu, les
-dispositions de l'article 207, alinéa 2.
+dispositions de l'article 207, alinéa 2. 
 
-Cette pension est soumise aux règles des obligations alimentaires ; les dispositions de l'article 285 lui sont toutefois
-applicables.
+Cette pension est soumise aux règles des obligations alimentaires. 
+
+Toutefois, lorsque la consistance des biens de l'époux débiteur s'y prête, la pension alimentaire est remplacée, en tout ou
+partie, par la constitution d'un capital, selon les règles des articles 274 à 275-1,277 et 281. Si ce capital devient
+insuffisant pour couvrir les besoins du créancier, celui-ci peut demander un complément sous forme de pension alimentaire.
 
 **Nota:**
 
-NOTA : La loi 2004-439 du 26 mai 2004 entrera en vigueur le 1er janvier 2005 sauf pour les exceptions citées par l'article 33
-II.
+
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
-
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+	  - SPEC_APPLI: Loi n°2004-439 2004-05-26 art. 32 I : Champ d'application
+	  - TXT_SOURCE: Directive 2003-87 CE 2003-10-13 (Parlement et Conseil)
+
+	**Modifié par**:
+
+	  - Loi n°2004-439 du 26 mai 2004 - art. 20 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
 
 	**Cite**:
 
 	  - Code civil - art. 207 (V)
-	  - Code civil - art. 285 (M)
+	  - Code civil - art. 274 (V)
+	  - Code civil - art. 277 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
 
 
 ###### Article 304
@@ -12869,55 +12699,53 @@ La séparation de biens subsiste sauf si les époux adoptent un nouveau régime 
 ###### Article 306
 
 A la demande de l'un des époux, le jugement de séparation de corps est converti de plein droit en jugement de divorce quand
-la séparation de corps a duré trois ans.
+la séparation de corps a duré deux ans.
 
 **Nota:**
 
-NOTA : La loi 2004-439 du 26 mai 2004 entrera en vigueur le 1er janvier 2005 sauf pour les exceptions citées par l'article 33
-II.
+
 
 **Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_SOURCE: Directive 2003-87 CE 2003-10-13 (Parlement et Conseil)
+	  - SPEC_APPLI: Loi n°2004-439 2004-05-26 art. 32 I : Champ d'application
 
 	**Codifié par**:
 
 	  - Loi n°1803-03-14
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+	  - Loi n°2004-439 du 26 mai 2004 - art. 22 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
 
 
 ###### Article 307
 
-Dans tous les cas de séparation de corps, celle-ci peut être convertie en divorce par une demande conjointe.
+Dans tous les cas de séparation de corps, celle-ci peut être convertie en divorce par consentement mutuel.
 
-Quand la séparation de corps a été prononcée sur demande conjointe, elle ne peut être convertie en divorce que par une
+Quand la séparation de corps a été prononcée par consentement mutuel, elle ne peut être convertie en divorce que par une
 nouvelle demande conjointe.
 
 **Nota:**
 
-NOTA : La loi 2004-439 du 26 mai 2004 entrera en vigueur le 1er janvier 2005 sauf pour les exceptions citées par l'article 33
-II.
+
 
 **Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_SOURCE: Directive 2003-87 CE 2003-10-13 (Parlement et Conseil)
+	  - SPEC_APPLI: Loi n°2004-439 2004-05-26 art. 32 I : Champ d'application
 
 	**Codifié par**:
 
 	  - Loi n°1803-03-14
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+	  - Loi n°2004-439 du 26 mai 2004 - art. 22 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
 
 
 ###### Article 308
@@ -13647,6 +13475,133 @@ la procréation, ne reconnaît pas l'enfant qui en est issu. L'action obéit aux
 	**Cite**:
 
 	  - Code civil 340-2 à 340-6
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+#### Section 5 : Des règles de dévolution du nom de famille
+
+###### Article 311-21
+
+Lorsque la filiation d'un enfant est établie à l'égard de ses deux parents au plus tard le jour de la déclaration de sa
+naissance ou par la suite mais simultanément, ces derniers choisissent le nom de famille qui lui est dévolu : soit le nom du
+père, soit le nom de la mère, soit leurs deux noms accolés dans l'ordre choisi par eux dans la limite d'un nom de famille
+pour chacun d'eux. En l'absence de déclaration conjointe à l'officier de l'état civil mentionnant le choix du nom de
+l'enfant, celui-ci prend le nom de celui de ses parents à l'égard duquel sa filiation est établie en premier lieu et le nom
+de son père si sa filiation est établie simultanément à l'égard de l'un et de l'autre.
+
+En cas de naissance à l'étranger d'un enfant dont l'un au moins des parents est français, les parents qui n'ont pas usé de la
+faculté de choix du nom dans les conditions du précédent alinéa peuvent effectuer une telle déclaration lors de la demande de
+transcription de l'acte, au plus tard dans les trois ans de la naissance de l'enfant.
+
+Le nom dévolu au premier enfant vaut pour les autres enfants communs.
+
+Lorsque les parents ou l'un d'entre eux portent un double nom de famille, ils peuvent, par une déclaration écrite conjointe,
+ne transmettre qu'un seul nom à leurs enfants.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°74-449 du 15 mai 1974 - art. 9 (V)
+	  - Décret n°93-1362 du 30 décembre 1993 - art. 13 (V)
+	  - Décret n°93-1362 du 30 décembre 1993 - art. 42 (V)
+	  - Décret n°2004-1159 du 29 octobre 2004 - art. 1 (V)
+	  - Décret n°2004-1159 du 29 octobre 2004 - art. 14 (V)
+	  - Décret n°2004-1159 du 29 octobre 2004 - art. 4 (V)
+	  - Décret n°2004-1159 du 29 octobre 2004 - art. 5 (V)
+	  - Décret n°2004-1159 du 29 octobre 2004 - art. 9 (V)
+	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 20 (V)
+	  - Décret n°2013-429 du 24 mai 2013 (V)
+	  - Code civil - art. 2291 (T)
+	  - Code civil - art. 2497 (Ab)
+	  - Code civil - art. 311-22 (V)
+	  - Code civil - art. 311-23 (V)
+	  - Code civil - art. 311-24 (V)
+	  - Code civil - art. 331 (MMN)
+	  - Code civil - art. 332-1 (Ab)
+	  - Code civil - art. 333-5 (Ab)
+	  - Code civil - art. 357 (V)
+	  - Code civil - art. 357-1 (V)
+	  - Code civil - art. 55 (V)
+
+	**Créé par**:
+
+	  - Loi n°2003-516 du 18 juin 2003 - art. 2 () JORF 19 juin 2003 en vigueur le 1er janvier 2005
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 311-22
+
+Les dispositions de l'article 311-21 sont applicables à l'enfant qui devient français en application des dispositions de
+l'article 22-1, dans les conditions fixées par un décret pris en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2003-516 du 18 juin 2003 - art. 3 () JORF 19 juin 2003 en vigueur le 1er janvier 2005
+
+	**Cite**:
+
+	  - Code civil - art. 22-1 (M)
+	  - Code civil - art. 311-21 (MMN)
+
+	**Cité par**:
+
+	  - Code civil - art. 2291 (T)
+	  - Code civil - art. 2497 (Ab)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 311-23
+
+La faculté de choix ouverte en application des articles 311-21 et 334-2 ne peut être exercée qu'une seule fois.
+
+**Nota:**
+
+NOTA : L'article 2-1 de la loi n° 2002-304 créant l'article 311-23 du code civil a été inséré par l'article 4 de la loi n°
+2003-516.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°74-449 du 15 mai 1974 - art. 9 (V)
+	  - Décret n°2004-1159 du 29 octobre 2004 - art. 10 (VD)
+	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 20 (V)
+	  - Code civil - art. 311-21 (V)
+	  - Code civil - art. 311-23 (T)
+	  - Code civil - art. 311-24 (V)
+	  - Code civil - art. 333-5 (Ab)
+	  - Code civil - art. 357 (V)
+	  - Code civil - art. 55 (M)
+
+	**Cite**:
+
+	  - Loi n°2002-304 2002-03-04 art. 2-1
+	  - Loi n°2003-516 2003-06-18 art. 4
+	  - Code civil - art. 334-2 (M)
+
+	**Créé par**:
+
+	  - Loi n°2002-304 2002-03-04 art. 2-1 JORF 5 mars 2002 en vigueur le 1er janvier 2005
+
+	**Transféré par**:
+
+	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 2 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 311-24 (V)
 
 	**Codifié par**:
 
@@ -14431,7 +14386,12 @@ Cette mention peut être requise par tout intéressé. Dans le cas de l'article 
 même, s'il a eu connaissance de l'existence des enfants.
 
 La mention de la légitimation sur l'acte de naissance d'un enfant majeur est dépourvue d'effet sur son patronyme si l'acte ne
-comporte pas, en outre, la mention du consentement de l'intéressé à la modification de son patronyme.
+comporte pas, en outre, la mention du consentement de l'intéressé à la modification de son nom de famille.
+
+**Nota:**
+
+NOTA : L'article 13 de la loi n° 2003-516 a reporté au 1er janvier 2005 la date initiale du 1er septembre 2003, prévue par
+l'article 25 de la loi n° 2002-304.
 
 **Liens relatifs à cet article**
 
@@ -14441,7 +14401,7 @@ comporte pas, en outre, la mention du consentement de l'intéressé à la modifi
 
 	**Modifié par**:
 
-	  - Loi n°93-22 du 8 janvier 1993 - art. 19 () JORF 9 janvier 1993
+	  - Loi n°2002-304 du 4 mars 2002 - art. 6 () JORF 5 mars 2002 en vigueur le 1er janvier 2005
 
 	**Cité par**:
 
@@ -14449,6 +14409,14 @@ comporte pas, en outre, la mention du consentement de l'intéressé à la modifi
 	  - Code civil - art. 2291 (T)
 	  - Code civil - art. 2497 (Ab)
 	  - Code civil - art. 333-6 (Ab)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2005-759 2005-07-04 art. 20 : Spécificité d'application
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 18 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
 
 	**Cite**:
 
@@ -14459,15 +14427,12 @@ comporte pas, en outre, la mention du consentement de l'intéressé à la modifi
 
 La légitimation confère à l'enfant légitimé les droits et les devoirs de l'enfant légitime.
 
-Toutefois, la légitimation ne peut avoir pour effet de modifier le patronyme d'un enfant majeur sans le consentement de
-celui-ci.
+Par déclaration conjointe produite lors de la célébration du mariage ou constatée par le juge, les parents bénéficient de
+l'option ouverte à l'article 311-21, lorsque la filiation a été établie dans les conditions de l'article 334-1 et qu'ils
+n'ont pas usé de la faculté ouverte à l'article 334-2. Toutefois, la légitimation ne peut avoir pour effet de modifier le nom
+de famille d'un enfant majeur sans le consentement de celui-ci.
 
 Elle prend effet à la date du mariage.
-
-**Nota:**
-
-NOTA : Ces dispositions demeurent en vigueur jusqu'au 1er janvier 2005, l'article 13 de la loi n° 2003-516 ayant reporté au
-1er janvier 2005 la date initiale du 1er septembre 2003 prévue par l'article 25 de la loi n° 2002-304.
 
 **Liens relatifs à cet article**
 
@@ -14475,16 +14440,30 @@ NOTA : Ces dispositions demeurent en vigueur jusqu'au 1er janvier 2005, l'articl
 
 	  - Loi n°1803-03-14
 
-	**Modifié par**:
-
-	  - Loi n°93-22 du 8 janvier 1993 - art. 20 () JORF 9 janvier 1993
-
 	**Cité par**:
 
 	  - Loi n°2002-304 du 4 mars 2002 - art. 24 (V)
 	  - Code civil - art. 2291 (T)
 	  - Code civil - art. 2497 (Ab)
 	  - Code civil - art. 333-6 (Ab)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2003-516 2003-06-18 art. 12, art. 13 (date d'effet à Mayotte)
+
+	**Modifié par**:
+
+	  - Loi n°2003-516 du 18 juin 2003 - art. 5 () JORF 19 juin 2003 en vigueur le 1er janvier 2005
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 15 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
+
+	**Cite**:
+
+	  - Code civil - art. 311-21 (MMN)
+	  - Code civil - art. 334-1 (M)
+	  - Code civil - art. 334-2 (M)
 
 
 ##### Paragraphe 2 : De la légitimation par autorité de justice
@@ -14600,22 +14579,18 @@ requérant, il prononce, s'il l'estime justifiée, la légitimation.
 La légitimation par autorité de justice prend effet à la date de la décision qui la prononce définitivement.
 
 Si elle a eu lieu à la requête d'un seul des parents, elle n'a point d'effet à l'égard de l'autre ; elle n'emporte pas
-modification du nom de l'enfant, sauf décision contraire du tribunal.
+modification du nom de famille de l'enfant, sauf décision contraire du tribunal.
+
+**Nota:**
+
+NOTA : L'article 13 de la loi n° 2003-516 a reporté au 1er janvier 2005 la date initiale du 1er septembre 2003, prévue par
+l'article 25 de la loi n° 2002-304.
 
 **Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Code civil - art. 2291 (T)
-	  - Code civil - art. 2497 (Ab)
 
 	**Codifié par**:
 
 	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°72-3 du 3 janvier 1972 - art. 1 () JORF 5 janvier 1972 en vigueur le 1er août 1972
 
 	**Liens**:
 
@@ -14623,52 +14598,67 @@ modification du nom de l'enfant, sauf décision contraire du tribunal.
 	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 12 (V)
 	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 13 (V)
 	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 14 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2002-304 du 4 mars 2002 - art. 8 () JORF 5 mars 2002 en vigueur le 1er janvier 2005
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 15 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
+
+	**Cité par**:
+
+	  - Code civil - art. 2291 (T)
+	  - Code civil - art. 2497 (Ab)
 
 
 ###### Article 333-5
 
-Si la légitimation par autorité de justice a été prononcée à l'égard des deux parents, l'enfant prend le nom du père ; s'il
-est mineur, le tribunal statue sur les modalités d'exercice de l'autorité parentale, comme en matière de divorce.
-
-**Nota:**
-
-NOTA : Ces dispositions demeurent en vigueur jusqu'au 1er janvier 2005, l'article 13 de la loi n° 2003-516 ayant reporté au
-1er janvier 2005 la date initiale du 1er septembre 2003 prévue par l'article 25 de la loi n° 2002-304.
+Si la légitimation par autorité de justice a été prononcée à l'égard des deux parents, le nom de famille de l'enfant est
+déterminé en application des dispositions des articles 311-21 et 311-23 s'il est mineur, le tribunal statue sur les modalités
+d'exercice de l'autorité parentale, comme en matière de divorce.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
 	**Modifié par**:
 
-	  - Loi n°87-570 du 22 juillet 1987 - art. 13 () JORF 24 juillet 1987
+	  - Loi n°2003-516 du 18 juin 2003 - art. 9 () JORF 19 juin 2003 en vigueur le 1er janvier 2005
 
-	**Liens**:
+	**Abrogé par**:
 
-	  - SPEC_APPLI: Loi n°87-570 du 22 juillet 1987 - art. 29 (V)
-	  - SPEC_APPLI: Loi n°87-570 du 22 juillet 1987 - art. 30 (V)
+	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 15 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
 
 	**Cité par**:
 
 	  - Code civil - art. 2291 (T)
 	  - Code civil - art. 2497 (Ab)
 
+	**Cite**:
+
+	  - Code civil - art. 311-21 (MMN)
+	  - Code civil - art. 311-23 (T)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
 
 ###### Article 333-6
 
-Les dispositions des articles 331-2, 332 et 332-1, alinéa 1er sont applicables à la légitimation par autorité de justice.
+Les dispositions de l'article 331-2 et des deux premiers alinéas de l'article 332-1 sont applicables à la légitimation par
+autorité de justice.
+
+**Nota:**
+
+NOTA : L'article 13 de la loi n° 2003-516 a reporté au 1er janvier 2005 la date initiale du 1er septembre 2003, prévue par
+l'article 25 de la loi n° 2002-304.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°72-3 du 3 janvier 1972 - art. 1 () JORF 5 janvier 1972 en vigueur le 1er août 1972
 
 	**Liens**:
 
@@ -14676,6 +14666,14 @@ Les dispositions des articles 331-2, 332 et 332-1, alinéa 1er sont applicables 
 	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 12 (V)
 	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 13 (V)
 	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 14 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2002-304 du 4 mars 2002 - art. 10 () JORF 5 mars 2002 en vigueur le 1er janvier 2005
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 15 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
 
 	**Cité par**:
 
@@ -14685,7 +14683,6 @@ Les dispositions des articles 331-2, 332 et 332-1, alinéa 1er sont applicables 
 	**Cite**:
 
 	  - Code civil - art. 331-2 (M)
-	  - Code civil - art. 332 (Ab)
 	  - Code civil - art. 332-1 (M)
 
 
@@ -14695,14 +14692,18 @@ Les dispositions des articles 331-2, 332 et 332-1, alinéa 1er sont applicables 
 
 ###### Article 334-1
 
-L'enfant naturel acquiert le nom de celui de ses deux parents à l'égard de qui sa filiation est établie en premier lieu ; le
-nom de son père, si la filiation est établie simultanément à l'égard de l'un et de l'autre.
+L'enfant naturel acquiert le nom de celui de ses deux parents à l'égard de qui sa filiation est établie en premier lieu.
+
+**Nota:**
+
+NOTA : L'article 13 de la loi n° 2003-516 a reporté au 1er janvier 2005 la date initiale du 1er septembre 2003, prévue par
+l'article 25 de la loi n° 2002-304.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Codifié par**:
 
-	  - Loi n°72-3 du 3 janvier 1972 - art. 1 () JORF 5 janvier 1972 en vigueur le 1er août 1972
+	  - Loi n°1803-03-14
 
 	**Liens**:
 
@@ -14711,29 +14712,30 @@ nom de son père, si la filiation est établie simultanément à l'égard de l'u
 	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 13 (V)
 	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 14 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2002-304 du 4 mars 2002 - art. 11 () JORF 5 mars 2002 en vigueur le 1er janvier 2005
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 15 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
+
 	**Cité par**:
 
 	  - Code civil - art. 2291 (T)
 	  - Code civil - art. 2497 (Ab)
 	  - Code civil - art. 332-1 (Ab)
 
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
 
 ###### Article 334-2
 
-Lors même que sa filiation n'aurait été établie qu'en second lieu à l'égard du père, l'enfant naturel pourra prendre le nom
-de celui-ci par substitution, si, pendant sa minorité, ses deux parents en font la déclaration conjointe devant le greffier
-en chef du tribunal de grande instance.
+Lorsque le nom de l'enfant naturel n'a pas été transmis dans les conditions prévues à l'article 311-21, ses parents peuvent,
+par déclaration conjointe devant l'officier de l'état civil, choisir pendant sa minorité soit de lui substituer le nom de
+famille du parent à l'égard duquel la filiation a été établie en second lieu, soit d'accoler leurs deux noms, dans l'ordre
+choisi par eux, dans la limite d'un nom de famille pour chacun d'eux. Mention du changement de nom figurera en marge de
+l'acte de naissance.
 
 Si l'enfant a plus de treize ans, son consentement personnel est nécessaire.
-
-**Nota:**
-
-NOTA : Ces dispositions demeurent en vigueur jusqu'au 1er janvier 2005, l'article 13 de la loi n° 2003-516 ayant reporté au
-1er janvier 2005 la date initiale du 1er septembre 2003 prévue par l'article 25 de la loi n° 2002-304.
 
 **Liens relatifs à cet article**
 
@@ -14752,11 +14754,15 @@ NOTA : Ces dispositions demeurent en vigueur jusqu'au 1er janvier 2005, l'articl
 
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°95-125 du 8 février 1995 - art. 19 (V)
+	  - SPEC_APPLI: Loi n°2003-516 2003-06-18 art. 12, art. 13 (date d'effet à Mayotte)
 
 	**Modifié par**:
 
-	  - Loi n°95-125 du 8 février 1995 - art. 8 () JORF 9 février 1995 en vigueur le 9 mai 1995
+	  - Loi n°2003-516 du 18 juin 2003 - art. 12 () JORF 19 juin 2003 en vigueur le 1er janvier 2005
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 15 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
 
 	**Codifié par**:
 
@@ -14765,9 +14771,10 @@ NOTA : Ces dispositions demeurent en vigueur jusqu'au 1er janvier 2005, l'articl
 
 ###### Article 334-3
 
-Dans les autres cas, le changement de nom de l'enfant naturel doit être demandé au juge aux affaires familiales. Toutefois,
-le tribunal de grande instance saisi d'une requête en modification de l'état de l'enfant naturel peut dans un seul et même
-jugement statuer sur celle-ci et sur la demande de changement de nom de l'enfant qui lui serait présentée.
+Lorsque la déclaration prévue à l'article 334-2 n'a pu être faite, le changement de nom  de l'enfant naturel doit être
+demandé au juge aux affaires familiales. Toutefois, le tribunal de grande instance saisi d'une requête en modification de
+l'état de l'enfant naturel peut dans un seul et même jugement statuer sur celle-ci et sur la demande de changement de nom de
+l'enfant qui lui serait présentée.
 
 L'action est ouverte pendant la minorité de l'enfant et dans les deux années qui suivront, soit sa majorité, soit une
 modification apportée à son état.
@@ -14778,14 +14785,17 @@ modification apportée à son état.
 
 	  - Loi n°1803-03-14
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°93-22 1993-01-08 art. 63, art. 64
-
 	**Modifié par**:
 
-	  - Loi n°93-22 du 8 janvier 1993 - art. 48 () JORF 9 janvier 1993 en vigueur le 1er février 1994
-	  - Loi n°93-22 du 8 janvier 1993 - art. 64 (V) JORF 9 janvier 1993 en vigueur le 1er février 1994
+	  - Loi n°2002-304 2002-03-04 art. 12-1 JORF 5 mars 2002 en vigueur le 1er janvier 2005
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 15 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
+
+	**Cite**:
+
+	  - Code civil - art. 334-2 (M)
 
 	**Cité par**:
 
@@ -14817,43 +14827,6 @@ leur consentement.
 	**Abrogé par**:
 
 	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 15 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
-
-
-###### Article 334-5
-
-En l'absence de filiation maternelle ou paternelle établie, la femme du père ou le mari de la mère selon le cas peut conférer
-par substitution son propre nom de famille à l'enfant par une déclaration faite conjointement avec l'autre époux dans les
-conditions définies à l'article 334-2. Il peut également aux mêmes conditions être conféré à l'enfant les noms accolés des
-deux époux dans l'ordre choisi par eux et dans la limite d'un nom de famille pour chacun d'eux.
-
-L'enfant pourra toutefois demander à reprendre le nom qu'il portait antérieurement par une demande qu'il soumettra au juge
-aux affaires familiales, dans les deux années suivant sa majorité.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Décret n°74-449 du 15 mai 1974 - art. 9 (V)
-	  - Loi n°2002-304 du 4 mars 2002 - art. 24 (M)
-	  - Code civil - art. 2291 (T)
-	  - Code civil - art. 2497 (Ab)
-	  - Nouveau code de procédure civile - art. 1152 (Ab)
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Modifié par**:
-
-	  - Loi n°2002-304 du 4 mars 2002 - art. 13 () JORF 5 mars 2002 en vigueur le 1er septembre 2003
-
-	**Abrogé par**:
-
-	  - Loi n°2003-516 du 18 juin 2003 - art. 9 () JORF 19 juin 2003 en vigueur le 1er janvier 2005
-
-	**Cite**:
-
-	  - Code civil - art. 334-2 (M)
 
 
 ###### Article 334-6
@@ -16329,40 +16302,49 @@ adoptants.
 
 Dans les quinze jours de la date à laquelle elle est passée en force de chose jugée, la décision prononçant l'adoption
 plénière est transcrite sur les registres de l'état civil du lieu de naissance de l'adopté, à la requête du procureur de la
-République.
+République. 
 
 Lorsque l'adopté est né à l'étranger, la décision est transcrite sur les registres du service central d'état civil du
-ministère des affaires étrangères.
+ministère des affaires étrangères. 
 
-La transcription énonce le jour, l'heure et le lieu de la naissance, le sexe de l'enfant ainsi que ses prénoms, tels qu'ils
-résultent du jugement d'adoption, les prénoms, noms, date et lieu de naissance, profession et domicile du ou des adoptants.
-Elle ne contient aucune indication relative à la filiation réelle de l'enfant.
+La transcription énonce le jour, l'heure et le lieu de la naissance, le sexe de l'enfant ainsi que ses nom de famille et
+prénoms, tels qu'ils résultent du jugement d'adoption, les prénoms, noms, date et lieu de naissance, profession et domicile
+du ou des adoptants. Elle ne contient aucune indication relative à la filiation réelle de l'enfant. 
 
 La transcription tient lieu d'acte de naissance à l'adopté.
 
 L'acte de naissance originaire conservé par un officier de l'état civil français et, le cas échéant, l'acte de naissance
-établi en application de l'article 58 sont, à la diligence du procureur de la République, revêtus de la mention "adoption" et
-considérés comme nuls.
+établi en application de l'article 58 sont, à la diligence du procureur de la République, revêtus de la mention " adoption "
+et considérés comme nuls.
+
+**Nota:**
+
+L'article 13 de la loi n° 2003-516 a reporté au 1er janvier 2005 la date initiale du 1er septembre 2003, prévue par l'article
+25 de la loi n° 2002-304.
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
 	**Cité par**:
 
-	  - Décret n°82-938 du 28 octobre 1982 - art. 2 (Ab)
 	  - Loi n°66-500 du 11 juillet 1966 - art. 13 (V)
+	  - Décret n°82-938 du 28 octobre 1982 - art. 2 (Ab)
 	  - Loi n°2002-304 du 4 mars 2002 - art. 24 (V)
 	  - Décret n°2017-890 du 6 mai 2017 - art. 37 (VD)
 	  - Code civil - art. 2292 (T)
 	  - Code civil - art. 2498 (VT)
 	  - Code de l'action sociale et des familles - art. L147-8 (V)
 
-	**Codifié par**:
+	**Liens**:
 
-	  - Loi n°1803-03-14
+	  - SPEC_APPLI: Loi n°2002-304 2002-03-04 art. 24 et art. 25 (date d'effet à Mayotte)
 
 	**Modifié par**:
 
-	  - Loi n°96-604 du 5 juillet 1996 - art. 12 () JORF 6 juillet 1996
+	  - Loi n°2002-304 du 4 mars 2002 - art. 14 () JORF 5 mars 2002 en vigueur le 1er janvier 2005
 
 	**Cite**:
 
@@ -16443,13 +16425,25 @@ famille. Elle produit, pour le surplus, les effets d'une adoption par deux épou
 
 ###### Article 357
 
-L'adoption confère à l'enfant le nom de l'adoptant et, en cas d'adoption par deux époux, le nom du mari.
+L'adoption confère à l'enfant le nom de l'adoptant. 
 
-Sur la demande du ou des adoptants, le tribunal peut modifier les prénoms de l'enfant.
+En cas d'adoption par deux époux, le nom conféré à l'enfant est déterminé en application des règles énoncées à l'article
+311-21.
 
-Si l'adoptant est une femme mariée, le tribunal peut, dans le jugement d'adoption, décider du consentement du mari de
-l'adoptante que le nom de ce dernier sera conféré à l'adopté ; si le mari est décédé ou dans l'impossibilité de manifester sa
-volonté, le tribunal apprécie souverainement après avoir consulté les héritiers du mari ou ses successibles les plus proches.
+Sur la demande du ou des adoptants, le tribunal peut modifier les prénoms de l'enfant. 
+
+Si l'adoptant est une femme mariée ou un homme marié, le tribunal peut, dans le jugement d'adoption, décider, à la demande de
+l'adoptant, que le nom de son conjoint, sous réserve du consentement de celui-ci, sera conféré à l'enfant. Le tribunal peut
+également, à la demande de l'adoptant et sous réserve du consentement de son conjoint, conférer à l'enfant les noms accolés
+des époux dans l'ordre choisi par eux et dans la limite d'un nom de famille pour chacun d'eux. 
+
+Si le mari ou la femme de l'adoptant est décédé ou dans l'impossibilité de manifester sa volonté, le tribunal apprécie
+souverainement après avoir consulté les héritiers du défunt ou ses successibles les plus proches.
+
+**Nota:**
+
+L'article 13 de la loi n° 2003-516 a reporté au 1er janvier 2005 la date initiale du 1er septembre 2003, prévue par l'article
+25 de la loi n° 2002-304.
 
 **Liens relatifs à cet article**
 
@@ -16463,16 +16457,53 @@ volonté, le tribunal apprécie souverainement après avoir consulté les hérit
 	  - Code civil - art. 357-1 (V)
 	  - Code civil - art. 361 (V)
 
-	**Créé par**:
-
-	  - Loi n°66-500 du 11 juillet 1966 - art. 1 () JORF 12 juillet 1966 en vigueur le 1er novembre 1966
-
 	**Liens**:
 
 	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 11 (V)
 	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 12 (V)
 	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 13 (V)
 	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 7 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2002-304 du 4 mars 2002 - art. 15 () JORF 5 mars 2002 en vigueur le 1er janvier 2005
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 357-1
+
+Les dispositions de l'article 311-21 sont applicables à l'enfant qui a fait l'objet d'une adoption régulièrement prononcée à
+l'étranger ayant en France les effets de l'adoption plénière. 
+
+Les adoptants exercent l'option qui leur est ouverte par cet article lors de la demande de transcription du jugement
+d'adoption, par déclaration adressée au procureur de la République du lieu où cette transcription doit être opérée. 
+
+Lorsque les adoptants sollicitent l'exequatur du jugement d'adoption étranger, ils joignent la déclaration d'option à leur
+demande. Mention de cette déclaration est portée dans la décision. 
+
+La mention du nom choisi est opérée à la diligence du procureur de la République, dans l'acte de naissance de l'enfant.
+
+**Nota:**
+
+L'article 13 de la loi n° 2003-516 a reporté au 1er janvier 2005 la date initiale du 1er septembre 2003, prévue par l'article
+25 de la loi n° 2002-304.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2002-304 du 4 mars 2002 - art. 15 () JORF 5 mars 2002 en vigueur le 1er janvier 2005
+
+	**Cité par**:
+
+	  - Décret n°2004-1159 du 29 octobre 2004 - art. 4-1 (V)
+
+	**Cite**:
+
+	  - Code civil - art. 311-21 (V)
 
 	**Codifié par**:
 
@@ -16562,8 +16593,13 @@ Si l'adopté est âgé de plus de treize ans, il doit consentir personnellement 
 
 ###### Article 361
 
-Les dispositions des articles 343 à 344, 346 à 350, 353, 353-1, 353-2, 355 et 357, dernier alinéa, sont applicables à
-l'adoption simple.
+Les dispositions des articles 343 à 344, 346 à 350, 353, 353-1, 353-2, 355 et des deux derniers alinéas de l'article 357 sont
+applicables à l'adoption simple.
+
+**Nota:**
+
+L'article 13 de la loi n° 2003-516 a reporté au 1er janvier 2005 la date initiale du 1er septembre 2003, prévue par l'article
+25 de la loi n° 2002-304.
 
 **Liens relatifs à cet article**
 
@@ -16577,10 +16613,11 @@ l'adoption simple.
 	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 12 (V)
 	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 13 (V)
 	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 7 (V)
+	  - SPEC_APPLI: Loi n°2002-304 2002-03-04 art. 24 et art. 25 (date d'effet à Mayotte)
 
 	**Modifié par**:
 
-	  - Loi n°2001-111 du 6 février 2001 - art. 4 ()
+	  - Loi n°2002-304 du 4 mars 2002 - art. 17 () JORF 5 mars 2002 en vigueur le 1er janvier 2005
 
 	**Cité par**:
 
@@ -16590,12 +16627,8 @@ l'adoption simple.
 
 	**Cite**:
 
-	  - Code civil - art. 353 (M)
-	  - Code civil - art. 353-1 (T)
-	  - Code civil - art. 353-2 (V)
-	  - Code civil - art. 355 (V)
-	  - Code civil - art. 357 (M)
-	  - Code civil 343 à 344, 346 à 350, 353, 353-1, 353-2, 355, 357
+	  - Code civil - art. 343 (V)
+	  - Code civil - art. 357 (V)
 
 
 ###### Article 362
@@ -16631,14 +16664,22 @@ est mentionnée ou transcrite sur les registres de l'état civil à la requête 
 
 L'adoption simple confère le nom de l'adoptant à l'adopté en l'ajoutant au nom de ce dernier.
 
-Le tribunal peut, toutefois, à la demande de l'adoptant, décider que l'adopté ne portera que le nom de l'adoptant. Cette
-demande peut également être formée postérieurement à l'adoption. Si l'adopté est âgé de plus de treize ans, son consentement
-personnel à cette substitution de patronyme est nécessaire.
+Lorsque l'adopté et l'adoptant, ou l'un d'entre eux, portent un double nom de famille, le nom conféré à l'adopté résulte de
+l'adjonction du nom de l'adoptant à son propre nom, dans la limite d'un nom pour chacun d'eux. Le choix appartient à
+l'adoptant, qui doit recueillir le consentement de l'adopté âgé de plus de treize ans. En cas de désaccord ou à défaut de
+choix, le nom conféré à l'adopté résulte de l'adjonction du premier nom de l'adoptant au premier nom de l'adopté.
 
-**Nota:**
+En cas d'adoption par deux époux, le nom ajouté au nom de l'adopté est, à la demande des adoptants, soit celui du mari, soit
+celui de la femme, dans la limite d'un nom pour chacun d'eux et, à défaut d'accord entre eux, le premier nom du mari. Si
+l'adopté porte un double nom de famille, le choix du nom conservé appartient aux adoptants, qui doivent recueillir le
+consentement de l'adopté âgé de plus de treize ans. En cas de désaccord ou à défaut de choix, le nom des adoptants retenu est
+ajouté au premier nom de l'adopté.
 
-NOTA : Ces dispositions demeurent en vigueur jusqu'au 1er janvier 2005, l'article 13 de la loi n° 2003-516 ayant reporté au
-1er janvier 2005 la date initiale du 1er septembre 2003 prévue par l'article 25 de la loi n° 2002-304.
+Le tribunal peut, toutefois, à la demande de l'adoptant, décider que l'adopté ne portera que le nom de l'adoptant. En cas
+d'adoption par deux époux, le nom de famille substitué à celui de l'adopté peut, au choix des adoptants, être soit celui du
+mari, soit celui de la femme, soit les noms accolés des époux dans l'ordre choisi par eux et dans la limite d'un seul nom
+pour chacun d'eux. Cette demande peut également être formée postérieurement à l'adoption. Si l'adopté est âgé de plus de
+treize ans, son consentement personnel à cette substitution du nom de famille est nécessaire.
 
 **Liens relatifs à cet article**
 
@@ -16646,16 +16687,52 @@ NOTA : Ces dispositions demeurent en vigueur jusqu'au 1er janvier 2005, l'articl
 
 	  - Loi n°1803-03-14
 
-	**Modifié par**:
-
-	  - Loi n°93-22 du 8 janvier 1993 - art. 32 () JORF 9 janvier 1993
-
 	**Cité par**:
 
 	  - Loi n°2002-304 du 4 mars 2002 - art. 24 (V)
 	  - Code civil - art. 2292 (T)
 	  - Code civil - art. 2498 (VT)
 	  - Code civil - art. 363-1 (V)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2003-516 2003-06-18 art. 12, art. 13 (date d'effet à Mayotte)
+	  - SPEC_APPLI: Code civil 363-1 (champ d'application)
+
+	**Modifié par**:
+
+	  - Loi n°2003-516 du 18 juin 2003 - art. 10 () JORF 19 juin 2003 en vigueur le 1er janvier 2005
+
+
+###### Article 363-1
+
+Les dispositions de l'article 363 sont applicables à l'enfant ayant fait l'objet d'une adoption régulièrement prononcée à
+l'étranger ayant en France les effets d'une adoption simple, lorsque l'acte de naissance de l'adopté est conservé par une
+autorité française. 
+
+Les adoptants exercent l'option qui leur est ouverte par cet article par déclaration adressée au procureur de la République
+du lieu où l'acte de naissance est conservé à l'occasion de la demande de mise à jour de celui-ci. 
+
+La mention du nom choisi est portée à la diligence du procureur de la République dans l'acte de naissance de l'enfant.
+
+**Nota:**
+
+L'article 13 de la loi n° 2003-516 a reporté au 1er janvier 2005 la date initiale du 1er septembre 2003, prévue par l'article
+25 de la loi n° 2002-304.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°2002-304 du 4 mars 2002 - art. 21 () JORF 5 mars 2002 en vigueur le 1er janvier 2005
+
+	**Cite**:
+
+	  - Code civil - art. 363 (V)
 
 
 ###### Article 364
@@ -38275,6 +38352,40 @@ consentement, il pourra donner tout ce que la loi permet à l'époux majeur de d
 	  - Loi n°1803-05-03 promulguée le 13 mai 1803
 
 
+###### Article 1096
+
+La donation de biens à venir faite entre époux pendant le mariage sera toujours révocable.
+
+La donation de biens présents faite entre époux ne sera révocable que dans les conditions prévues par les articles 953 à 958.
+
+Les donations faites entre époux de biens présents ou de biens à venir ne sont pas révoquées par la survenance d'enfants.
+
+**Nota:**
+
+NOTA : La loi 2004-439 du 26 mai 2004 entrera en vigueur le 1er janvier 2005 sauf pour les exceptions citées par l'article 33
+II.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_SOURCE: Directive 2003-87 CE 2003-10-13 (Parlement et Conseil)
+	  - SPEC_APPLI: Loi n°2004-439 2004-05-26 art. 32 I : Champ d'application
+
+	**Modifié par**:
+
+	  - Loi n°2004-439 du 26 mai 2004 - art. 21 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
+
+	**Cité par**:
+
+	  - Loi n°2006-728 du 23 juin 2006 - art. 46 (V)
+	  - Loi n°2006-728 du 23 juin 2006 - art. 47 (V)
+
+	**Cite**:
+
+	  - Code civil 953 à 958
+
+
 ###### Article 1098
 
 Si un époux remarié a fait à son second conjoint, dans les limites de l'article 1094-1, une libéralité en propriété, chacun
@@ -38311,6 +38422,26 @@ Ceux qui auront exercé cette faculté pourront exiger que soient appliquées le
 
 	  - Code civil - art. 1094-1 (M)
 	  - Code civil - art. 1094-3 (M)
+
+
+###### Article 1099
+
+Les époux ne pourront se donner indirectement au-delà de ce qui leur est permis par les dispositions ci-dessus.
+
+**Nota:**
+
+NOTA : La loi 2004-439 du 26 mai 2004 entrera en vigueur le 1er janvier 2005 sauf pour les exceptions citées par l'article 33
+II.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2004-439 2004-05-26 art. 32 I : Champ d'application
+
+	**Modifié par**:
+
+	  - Loi n°2004-439 du 26 mai 2004 - art. 23 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
 
 
 ###### Article 1099-1
@@ -38598,47 +38729,6 @@ usufruit seulement.
 	  - Code civil - art. 758-6 (V)
 	  - Code général des impôts, CGI. - art. 788 bis (V)
 	  - Code général des impôts, CGI. - art. 885 G (V)
-
-
-###### Article 1096
-
-Toutes donations faites entre époux pendant le mariage, quoique qualifiées entre vifs, seront toujours révocables.
-
-Ces donations ne seront point révoquées par la survenance d'enfants.
-
-**Nota:**
-
-NOTA : La loi 2004-439 du 26 mai 2004 entrera en vigueur le 1er janvier 2005 sauf pour les exceptions citées par l'article 33
-II.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°1803-05-03 promulguée le 13 mai 1803
-
-	**Cité par**:
-
-	  - Loi n°2006-728 du 23 juin 2006 - art. 46 (V)
-	  - Loi n°2006-728 du 23 juin 2006 - art. 47 (V)
-
-
-###### Article 1099
-
-Les époux ne pourront se donner indirectement au-delà de ce qui leur est permis par les dispositions ci-dessus.
-
-Toute donation, ou déguisée, ou faite à personnes interposées, sera nulle.
-
-**Nota:**
-
-NOTA : La loi 2004-439 du 26 mai 2004 entrera en vigueur le 1er janvier 2005 sauf pour les exceptions citées par l'article 33
-II.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°1803-05-03 promulguée le 13 mai 1803
 
 
 ## Titre III : Des contrats ou des obligations conventionnelles en général
@@ -46029,14 +46119,9 @@ dans les conditions du code de procédure civile.
 ###### Article 1397-1
 
 Les dispositions de l'article précédent ne sont pas applicables aux conventions qui sont passées par les époux en instance de
-divorce en vue de liquider leur régime matrimonial.
+divorce en vue de liquider leur régime matrimonial. 
 
-Les articles 1450 et 1451 sont applicables à ces conventions.
-
-**Nota:**
-
-NOTA : La loi 2004-439 du 26 mai 2004 entrera en vigueur le 1er janvier 2005 sauf pour les exceptions citées par l'article 33
-II.
+Les articles 265-2 et 1451 sont applicables à ces conventions.
 
 **Liens relatifs à cet article**
 
@@ -46046,12 +46131,18 @@ II.
 
 	**Liens**:
 
+	  - SPEC_APPLI: Loi n°2004-439 2004-05-26 art. 32 I : Champ d'application
 	  - SPEC_APPLI: Code civil - art. 1397 (M)
+	  - TXT_SOURCE: Directive 2003-87 CE 2003-10-13 (Parlement et Conseil)
+
+	**Modifié par**:
+
+	  - Loi n°2004-439 du 26 mai 2004 - art. 22 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
 
 	**Cite**:
 
-	  - Code civil - art. 1450 (M)
-	  - Code civil - art. 1451 (M)
+	  - Code civil - art. 1451 (V)
+	  - Code civil - art. 265-2 (V)
 
 
 ###### Article 1397-2
@@ -47112,6 +47203,29 @@ La communauté se dissout :
 	  - Loi n°65-570 1965-07-13
 
 
+###### Article 1442
+
+Il ne peut y avoir lieu à la continuation de la communauté, malgré toutes conventions contraires.
+
+Les époux peuvent, l'un ou l'autre, demander, s'il y a lieu, que, dans leurs rapports mutuels, l'effet de la dissolution soit
+reporté à la date où ils ont cessé de cohabiter et de collaborer.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_SOURCE: Directive 2003-87 CE 2003-10-13 (Parlement et Conseil)
+	  - SPEC_APPLI: Loi n°2004-439 2004-05-26 art. 32 I : Champ d'application
+
+	**Codifié par**:
+
+	  - Loi n°65-570 1965-07-13
+
+	**Modifié par**:
+
+	  - Loi n°2004-439 du 26 mai 2004 - art. 21 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
+
+
 ###### Article 1443
 
 Si, par le désordre des affaires d'un époux, sa mauvaise administration ou son inconduite, il apparaît que le maintien de la
@@ -47250,6 +47364,40 @@ lequel assumera désormais seul à l'égard des tiers les règlements de toutes 
 	**Cite**:
 
 	  - Code civil - art. 1536 (V)
+
+
+###### Article 1451
+
+Les conventions passées en application de l'article 265-2 sont suspendues, quant à leurs effets, jusqu'au prononcé du
+divorce ; elles ne peuvent être exécutées, même dans les rapports entre époux, que lorsque le jugement a pris force de chose
+jugée.
+
+L'un des époux peut demander que le jugement de divorce modifie la convention si les conséquences du divorce fixées par ce
+jugement remettent en cause les bases de la liquidation et du partage.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°1924-11-18 du 18 novembre 1924 - art. 41 (M)
+	  - Code civil - art. 1397-1 (V)
+
+	**Codifié par**:
+
+	  - Loi n°65-570 1965-07-13
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2004-439 2004-05-26 art. 32 I : Champ d'application
+	  - TXT_SOURCE: Directive 2003-87 CE 2003-10-13 (Parlement et Conseil)
+
+	**Modifié par**:
+
+	  - Loi n°2004-439 du 26 mai 2004 - art. 21 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
+
+	**Cite**:
+
+	  - Code civil - art. 265-2 (V)
 
 
 ##### Paragraphe 2 : De la liquidation et du partage de la communauté.
@@ -47439,6 +47587,32 @@ payable comptant.
 	**Codifié par**:
 
 	  - Loi n°65-570 1965-07-13
+
+
+###### Article 1477
+
+Celui des époux qui aurait diverti ou recelé quelques effets de la communauté est privé de sa portion dans lesdits effets.
+
+De même, celui qui aurait dissimulé sciemment l'existence d'une dette commune doit l'assumer définitivement.
+
+**Nota:**
+
+La loi 2004-439 du 26 mai 2004 entre en vigueur le 1er janvier 2005 sauf pour les exceptions citées par l'article 33 II.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_SOURCE: Directive 2003-87 CE 2003-10-13 (Parlement et Conseil)
+	  - SPEC_APPLI: Loi n°2004-439 2004-05-26 art. 32 I : Champ d'application
+
+	**Codifié par**:
+
+	  - Loi n°65-570 1965-07-13
+
+	**Modifié par**:
+
+	  - Loi n°2004-439 du 26 mai 2004 - art. 21 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
 
 
 ###### Article 1478
@@ -47719,113 +47893,6 @@ représentent et sont soumis aux mêmes obligations.
 	  - Loi n°2001-1135 du 3 décembre 2001 - art. 15 () JORF 4 décembre 2001
 
 
-##### Section III : De la dissolution de la communauté
-
-##### Paragraphe I : Des causes de dissolution et de la séparation de biens.
-
-###### Article 1442
-
-IL ne peut y avoir lieu à la continuation de la communauté, malgré toutes conventions contraires.
-
-Les époux peuvent, l'un ou l'autre, demander, s'il y a lieu, que, dans leurs rapports mutuels, l'effet de la dissolution soit
-reporté à la date où ils ont cessé de cohabiter et de collaborer. Celui auquel incombent à titre principal les torts de la
-séparation ne peut pas obtenir ce report.
-
-**Nota:**
-
-NOTA : La loi 2004-439 du 26 mai 2004 entrera en vigueur le 1er janvier 2005 sauf pour les exceptions citées par l'article 33
-II.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°65-570 1965-07-13
-
-	**Modifié par**:
-
-	  - Loi n°85-1372 1985-12-23 art. 19 I, II JORF 26 décembre 1985 en vigueur le 1er juillet 1986
-	  - Loi n°85-1372 du 23 décembre 1985 - art. 19 () JORF 26 décembre 1985 en vigueur le 1er juillet 1986
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°85-1372 du 23 décembre 1985 - art. 55 (V)
-
-
-###### Article 1450
-
-Les époux peuvent, pendant l'instance en divorce, passer toutes conventions pour la liquidation et le partage de la
-communauté.
-
-Ces conventions doivent être passées par acte notarié, sauf en cas de demande conjointe.
-
-**Nota:**
-
-NOTA : La loi 2004-439 du 26 mai 2004 entrera en vigueur le 1er janvier 2005 sauf pour les exceptions citées par l'article 33
-II.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°65-570 1965-07-13
-
-	**Transféré par**:
-
-	  - Loi n°2004-439 du 26 mai 2004 - art. 6 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
-
-	**Cité par**:
-
-	  - Code civil - art. 1397-1 (M)
-
-	**Nouveaux textes**:
-
-	  - Code civil - art. 265-2 (V)
-
-
-###### Article 1451
-
-Les conventions ainsi passées sont suspendues, quant à leurs effets, jusqu'au prononcé du divorce ; elles ne peuvent être
-exécutées, même dans les rapports entre époux, que lorsque le jugement a pris force de chose jugée.
-
-L'un des époux peut demander que le jugement de divorce modifie la convention si les conséquences du divorce fixées par ce
-jugement remettent en cause les bases de la liquidation et du partage.
-
-**Nota:**
-
-NOTA : La loi 2004-439 du 26 mai 2004 entrera en vigueur le 1er janvier 2005 sauf pour les exceptions citées par l'article 33
-II.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Décret n°1924-11-18 du 18 novembre 1924 - art. 41 (M)
-	  - Code civil - art. 1397-1 (V)
-
-	**Codifié par**:
-
-	  - Loi n°65-570 1965-07-13
-
-
-##### Paragraphe II : De la liquidation et du partage de la communauté.
-
-###### Article 1477
-
-Celui des époux qui aurait diverti ou recelé quelques effets de la communauté, est privé de sa portion dans lesdits effets.
-
-**Nota:**
-
-NOTA : La loi 2004-439 du 26 mai 2004 entrera en vigueur le 1er janvier 2005 sauf pour les exceptions citées par l'article 33
-II.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°65-570 1965-07-13
-
-
 #### Deuxième partie : De la communauté conventionnelle.
 
 ###### Article 1497
@@ -48070,6 +48137,36 @@ mariage et entre associés.
 	  - Loi n°65-570 1965-07-13
 
 
+###### Article 1518
+
+Lorsque la communauté se dissout du vivant des époux, il n'y a pas lieu à la délivrance du préciput ; mais l'époux au profit
+duquel il a été stipulé conserve ses droits pour le cas de survie, sous réserve de l'article 265. Il peut exiger une caution
+de son conjoint en garantie de ses droits.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_SOURCE: Directive 2003-87 CE 2003-10-13 (Parlement et Conseil)
+	  - SPEC_APPLI: Loi n°2004-439 2004-05-26 art. 32 I : Champ d'application
+
+	**Codifié par**:
+
+	  - Loi n°65-570 1965-07-13
+
+	**Modifié par**:
+
+	  - Loi n°2004-439 du 26 mai 2004 - art. 21 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
+
+	**Cité par**:
+
+	  - Code civil - art. 1524 (V)
+
+	**Cite**:
+
+	  - Code civil - art. 265 (V)
+
+
 ###### Article 1519
 
 Les créanciers de la communauté ont toujours le droit de faire vendre les effets compris dans le préciput, sauf le recours de
@@ -48080,43 +48177,6 @@ l'époux sur le reste de la communauté.
 	**Codifié par**:
 
 	  - Loi n°65-570 1965-07-13
-
-
-##### Section IV : Du préciput.
-
-###### Article 1518
-
-Lorsque la communauté se dissout du vivant des époux, il n'y a pas lieu à la délivrance du préciput ; mais l'époux au profit
-duquel il a été stipulé conserve ses droits pour le cas de survie, à moins que les avantages matrimoniaux n'aient été perdus
-de plein droit ou révoqués à la suite d'un jugement de divorce ou de séparation de corps, sans préjudice de l'application de
-l'article 268. Il peut exiger une caution de son conjoint en garantie de ses droits.
-
-**Nota:**
-
-NOTA : La loi 2004-439 du 26 mai 2004 entrera en vigueur le 1er janvier 2005 sauf pour les exceptions citées par l'article 33
-II.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°65-570 1965-07-13
-
-	**Modifié par**:
-
-	  - Loi n°85-1372 du 23 décembre 1985 - art. 31 () JORF 26 décembre 1985 en vigueur le 1er juillet 1986
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°85-1372 du 23 décembre 1985 - art. 55 (V)
-
-	**Cité par**:
-
-	  - Code civil - art. 1524 (V)
-
-	**Cite**:
-
-	  - Code civil - art. 268 (M)
 
 
 ##### Section 5 : De la stipulation de parts inégales.
@@ -59665,10 +59725,27 @@ montant de la créance garantie et de ces accessoires au moins annuellement à l
 
 ###### Article 2017
 
-Les engagements des cautions passent à leurs héritiers, à l'exception de la contrainte par corps, si l'engagement était tel
+Les engagements des cautions passent à leurs héritiers, à l'exception de la contrainte judiciaire, si l'engagement était tel
 que la caution y fût obligée.
 
+**Nota:**
+
+Nota : Loi 2004-204 2004-03-09 art. 207 II : Les articles 159 à 193 et 198 entreront en vigueur, sous réserve des
+dispositions des III et IV du présent article, le 1er janvier 2005.
+
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-14
+
+	**Modifié par**:
+
+	  - Loi n°2004-204 du 9 mars 2004 - art. 198 (V) JORF 10 mars 2004 en vigueur le 1er janvier 2005
+
+	**Transféré par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 5 () JORF 24 mars 2006
 
 	**Cité par**:
 
@@ -59677,15 +59754,8 @@ que la caution y fût obligée.
 
 	**Nouveaux textes**:
 
+	  - Code civil - art. 2294 (T)
 	  - Code civil - art. 2294 (V)
-
-	**Codifié par**:
-
-	  - Loi n°1804-02-14
-
-	**Créé par**:
-
-	  - Loi n°1804-02-14 promulguée le 24 février 1804
 
 
 ###### Article 2018
@@ -60377,9 +60447,26 @@ ce cas, poursuivre le débiteur pour le forcer au paiement.
 Toutes les fois qu'une personne est obligée, par la loi ou par une condamnation, à fournir une caution, la caution offerte
 doit remplir les conditions prescrites par les articles 2018 et 2019.
 
-Lorsqu'il s'agit d'un cautionnement judiciaire, la caution doit, en outre, être susceptible de contrainte par corps.
+Lorsqu'il s'agit d'un cautionnement judiciaire, la caution doit, en outre, être susceptible de contrainte judiciaire.
+
+**Nota:**
+
+Nota : Loi 2004-204 2004-03-09 art. 207 II : Les articles 159 à 193 et 198 entreront en vigueur, sous réserve des
+dispositions des III et IV du présent article, le 1er janvier 2005.
 
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-14
+
+	**Modifié par**:
+
+	  - Loi n°2004-204 du 9 mars 2004 - art. 198 (V) JORF 10 mars 2004 en vigueur le 1er janvier 2005
+
+	**Transféré par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 5 () JORF 24 mars 2006
 
 	**Cite**:
 
@@ -60388,15 +60475,8 @@ Lorsqu'il s'agit d'un cautionnement judiciaire, la caution doit, en outre, être
 
 	**Nouveaux textes**:
 
+	  - Code civil - art. 2317 (MMN)
 	  - Code civil - art. 2317 (V)
-
-	**Codifié par**:
-
-	  - Loi n°1804-02-14
-
-	**Créé par**:
-
-	  - Loi n°1804-02-14 promulguée le 24 février 1804
 
 
 ###### Article 2041
@@ -68835,6 +68915,39 @@ vigueur à Mayotte à compter du 1er janvier 2007.
 	**Codifié par**:
 
 	  - Loi n°1804-03-15
+
+
+###### Article 2290-1
+
+Les dispositions du titre VI du livre Ier sont applicables à Mayotte aux personnes relevant du statut civil de droit local
+accédant à l'âge requis pour se marier à compter du 1er janvier 2005.
+
+**Nota:**
+
+NOTA : La loi 2004-439 du 26 mai 2004 entrera en vigueur le 1er janvier 2005 sauf pour les exceptions citées par l'article 33
+II.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2004-439 2004-05-26 art. 32 I : Champ d'application
+
+	**Créé par**:
+
+	  - Loi n°2004-439 du 26 mai 2004 - art. 32 (V) JORF 27 mai 2004 en vigueur le 1er janvier 2005
+
+	**Transféré par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 1 () JORF 24 mars 2006
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2496 (V)
 
 
 ###### Article 2291

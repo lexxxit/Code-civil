@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1993-07-23
+Version Consolidée au 1993-08-29
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -1478,13 +1478,16 @@ L'assimilation de résidence qui profite à l'un des époux s'étend à l'autre 
 
 ###### Article 21-27
 
-Sous réserve des dispositions prévues aux articles 21-7, 21-8 et 22-1 nul ne peut acquérir la nationalité française ou être
+Sous réserve des dispositions prévues aux articles 21-7, 21-8 et 22-1, nul ne peut acquérir la nationalité française ou être
 réintégré dans cette nationalité s'il a été l'objet soit d'une condamnation pour crimes ou délits contre la sûreté de l'Etat
 ou liés au terrorisme, soit, quelle que soit l'infraction considérée, s'il a été condamné à une peine égale ou supérieure à
 six mois d'emprisonnement, non assortie d'une mesure de sursis.
 
 Il en est de même de celui qui a fait l'objet soit d'un arrêté d'expulsion non expressément rapporté ou abrogé (1), soit
 d'une interdiction du territoire français non entièrement exécutée.
+
+Il en est de même de celui dont le séjour en France est irrégulier au regard des lois et conventions relatives au séjour des
+étrangers en France.
 
 (1) Dispositions de cet alinéa non reproduites car déclarées non conformes à la Constitution par décision du Conseil
 constitutionnel n° 93-321 DC du 20 juillet 1993 : "ou d'un arrêté d'assignation à résidence non expressément rapporté ou
@@ -1496,9 +1499,9 @@ abrogé, soit d'un arrêté de reconduite à la frontière".
 
 	  - Loi n°93-933 1993-07-22
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°93-933 du 22 juillet 1993 - art. 50 () JORF 23 juillet 1993
+	  - Loi n°93-1027 du 24 août 1993 - art. 32 () JORF 29 août 1993
 
 	**Cité par**:
 
@@ -5869,6 +5872,27 @@ Il n'y a pas de mariage lorsqu'il n'y a point de consentement.
 	  - Loi n°1803-03-17 promulguée le 27 mars 1803
 
 
+###### Article 146-1
+
+Le mariage d'un Français, même contracté à l'étranger, requiert sa présence.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°93-1027 du 24 août 1993 - art. 31 () JORF 29 août 1993
+
+	**Cité par**:
+
+	  - Code civil - art. 171-4 (V)
+	  - Code civil - art. 171-7 (V)
+	  - Code civil - art. 171-8 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
 ###### Article 147
 
 On ne peut contracter un second mariage avant la dissolution du premier.
@@ -6489,6 +6513,42 @@ Toutefois, les agents diplomatiques ou les consuls ne pourront procéder à la c
 	  - Loi n°1803-03-17 promulguée le 27 mars 1803
 
 
+###### Article 170-1
+
+Lorsqu'il existe des indices sérieux laissant présumer qu'un mariage célébré à l'étranger encourt la nullité au titre des
+articles 184, 190-1 ou 191, l'agent diplomatique ou consulaire chargé de transcrire l'acte en informe immédiatement le
+ministère public et sursoit à la transcription.
+
+Le procureur de la République se prononce sur la transcription. Lorsqu'il demande la nullité du mariage, il ordonne que la
+transcription soit limitée à la seule fin de saisine du juge ; jusqu'à la décision de celui-ci, une expédition de l'acte
+transcrit ne peut être délivrée qu'aux autorités judiciaires ou avec l'autorisation du procureur de la République.
+
+Si le procureur de la République ne s'est pas prononcé dans un délai de six mois à compter de sa saisine, l'agent
+diplomatique ou consulaire transcrit l'acte.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°93-1027 du 24 août 1993 - art. 31 () JORF 29 août 1993
+
+	**Cité par**:
+
+	  - Décret n°2005-170 du 23 février 2005 - art. 6 (Ab)
+	  - Décret n°2007-773 du 10 mai 2007 - art. 18 (V)
+	  - Nouveau code de procédure civile - art. 1056-1 (M)
+
+	**Cite**:
+
+	  - Code civil - art. 184 (M)
+	  - Code civil - art. 190-1 (Ab)
+	  - Code civil - art. 191 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
 ###### Article 171
 
 Le Président de la République peut, pour des motifs graves, autoriser la célébration du mariage si l'un des futurs époux est
@@ -6616,6 +6676,37 @@ curatelle, former opposition qu'autant qu'il y aura été autorisé par un conse
 	**Créé par**:
 
 	  - Loi n°1803-03-17 promulguée le 27 mars 1803
+
+
+###### Article 175-1
+
+Le ministère public peut former opposition pour les cas où il pourrait demander la nullité du mariage.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°93-1027 du 24 août 1993 - art. 31 () JORF 29 août 1993
+
+
+###### Article 175-2
+
+(Dispositions déclarées non conformes à la Constitution par décision du Conseil constitutionnel n° 93-325 DC du 13 août
+1993).
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°93-1027 du 24 août 1993 - art. 31 () JORF 29 août 1993
 
 
 ###### Article 176
@@ -6803,19 +6894,14 @@ l'âge compétent pour consentir par lui-même au mariage.
 
 ###### Article 184
 
-Tout mariage contracté en contravention aux dispositions contenues aux articles 144, 146, 147, 161, 162 et 163, peut être
-attaqué soit par les époux eux-mêmes, soit par tous ceux qui y ont intérêt, soit par le ministère public.
+Tout mariage contracté en contravention aux dispositions contenues aux articles 144, 146, 146-1, 147, 161, 162 et 163 peut
+être attaqué soit par les époux eux-mêmes, soit par tous ceux qui y ont intérêt, soit par le ministère public.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code civil - art. 144 (M)
-	  - Code civil - art. 146 (V)
-	  - Code civil - art. 147 (V)
-	  - Code civil - art. 161 (M)
-	  - Code civil - art. 162 (M)
-	  - Code civil - art. 163 (M)
+	  - Loi n°93-1027 du 24 août 1993 - art. 31 () JORF 29 août 1993
 
 	**Cité par**:
 
@@ -6831,10 +6917,6 @@ attaqué soit par les époux eux-mêmes, soit par tous ceux qui y ont intérêt,
 	**Codifié par**:
 
 	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°1803-03-17 promulguée le 27 mars 1803
 
 
 ###### Article 185

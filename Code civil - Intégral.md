@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1804-02-19
+Version Consolidée au 1804-02-24
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -16631,5 +16631,990 @@ d'entretien ou par le vice de sa construction.
 	**Codifié par**:
 
 	  - Loi n°65-570 1965-07-13
+
+
+## Titre XIV : Du cautionnement.
+
+### Chapitre I : De la nature et de l'étendue du cautionnement.
+
+###### Article 2011
+
+Celui qui se rend caution d'une obligation, se soumet envers le créancier à satisfaire à cette obligation, si le débiteur n'y
+satisfait pas lui-même.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 18 mars 2002 - art. 1 (V)
+	  - Loi n°2007-211 du 19 février 2007 - art. 12 (VD)
+	  - Loi n°2013-1279 du 29 décembre 2013 - art. 79 (M)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 223 V (T)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 238 quater B (V)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 238 quater N (V)
+	  - Code civil - art. 2372-1 (V)
+	  - Code civil - art. 2488-1 (V)
+	  - Code de commerce. - art. L632-1 (VD)
+	  - Code général des impôts, CGI. - art. 102 ter (V)
+	  - Code général des impôts, CGI. - art. 151 septies (VD)
+	  - Code général des impôts, CGI. - art. 50-0 (V)
+	  - Code général des impôts, CGI. - art. 69 E (V)
+	  - Code général des impôts, CGI. - art. 92 (V)
+	  - Code monétaire et financier - art. L561-3 (VD)
+	  - Code monétaire et financier - art. L562-2-1 (Ab)
+
+	**Transféré par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 5 () JORF 24 mars 2006
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2288 (T)
+	  - Code civil - art. 2288 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-14
+
+	**Créé par**:
+
+	  - Loi n°1804-02-14 promulguée le 24 février 1804
+
+
+###### Article 2012
+
+Le cautionnement ne peut exister que sur une obligation valable.
+
+On peut néanmoins cautionner une obligation, encore qu'elle pût être annulée par une exception purement personnelle à
+l'obligé ; par exemple, dans le cas de minorité.
+
+**Liens relatifs à cet article**
+
+	**Transféré par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 5 () JORF 24 mars 2006
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2289 (T)
+	  - Code civil - art. 2289 (V)
+
+	**Cité par**:
+
+	  - Code de commerce - art. A444-163-1 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-14
+
+	**Créé par**:
+
+	  - Loi n°1804-02-14 promulguée le 24 février 1804
+
+
+###### Article 2013
+
+Le cautionnement ne peut excéder ce qui est dû par le débiteur, ni être contracté sous des conditions plus onéreuses.
+
+Il peut être contracté pour une partie de la dette seulement, et sous des conditions moins onéreuses.
+
+Le cautionnement qui excède la dette, ou qui est contracté sous des conditions plus onéreuses, n'est point nul : il est
+seulement réductible à la mesure de l'obligation principale.
+
+**Liens relatifs à cet article**
+
+	**Transféré par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 5 () JORF 24 mars 2006
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2290 (T)
+	  - Code civil - art. 2290 (V)
+
+	**Cité par**:
+
+	  - Livre des procédures fiscales - art. L64 C (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-14
+
+	**Créé par**:
+
+	  - Loi n°1804-02-14 promulguée le 24 février 1804
+
+
+###### Article 2014
+
+On peut se rendre caution sans ordre de celui pour lequel on s'oblige, et même à son insu.
+
+On peut aussi se rendre caution, non seulement du débiteur principal, mais encore de celui qui l'a cautionné.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2291 (T)
+	  - Code civil - art. 2291 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-14
+
+	**Créé par**:
+
+	  - Loi n°1804-02-14 promulguée le 24 février 1804
+
+	**Transféré par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 5 () JORF 24 mars 2006
+
+
+###### Article 2015
+
+Le cautionnement ne se présume point ; il doit être exprès, et on ne peut pas l'étendre au-delà des limites dans lesquelles
+il a été contracté.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°2016-1793 du 21 décembre 2016 - art. 1
+	  - Code monétaire et financier - art. L561-25 (VD)
+	  - Loi n°2007-211 du 19 février 2007 - art. 12 (VD)
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2292 (T)
+	  - Code civil - art. 2292 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-14
+
+	**Créé par**:
+
+	  - Loi n°1804-02-14 promulguée le 24 février 1804
+
+	**Transféré par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 5 () JORF 24 mars 2006
+
+
+###### Article 2016
+
+Le cautionnement indéfini d'une obligation principale s'étend à tous les accessoires de la dette, même aux frais de la
+première demande, et à tous ceux postérieurs à la dénonciation qui en est faite à la caution.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2293 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-14
+
+	**Créé par**:
+
+	  - Loi n°1804-02-14 promulguée le 24 février 1804
+
+
+###### Article 2017
+
+Les engagements des cautions passent à leurs héritiers, à l'exception de la contrainte par corps, si l'engagement était tel
+que la caution y fût obligée.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code civil - art. 2022 (VD)
+	  - Code civil - art. 2027 (V)
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2294 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-14
+
+	**Créé par**:
+
+	  - Loi n°1804-02-14 promulguée le 24 février 1804
+
+
+###### Article 2018
+
+Le débiteur obligé à fournir une caution doit en présenter une qui ait la capacité de contracter, qui ait un bien suffisant
+pour répondre de l'objet de l'obligation, et dont le domicile soit dans le ressort de la cour royale (la cour d'appel) où
+elle doit être donnée.
+
+**Liens relatifs à cet article**
+
+	**Transféré par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 5 () JORF 24 mars 2006
+
+	**Cité par**:
+
+	  - Code civil - art. 2040 (T)
+	  - Code civil - art. 2372-2 (V)
+	  - Code civil - art. 2488-2 (V)
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2295 (T)
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-14
+
+	**Créé par**:
+
+	  - Loi n°1804-02-14 promulguée le 24 février 1804
+
+
+###### Article 2019
+
+La solvabilité d'une caution ne s'estime qu'eu égard à ses propriétés foncières, excepté en matière de commerce, ou lorsque
+la dette est modique.
+
+On n'a point égard aux immeubles litigieux, ou dont la discussion deviendrait trop difficile par l'éloignement de leur
+situation.
+
+**Liens relatifs à cet article**
+
+	**Transféré par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 5 () JORF 24 mars 2006
+
+	**Cité par**:
+
+	  - Code civil - art. 2040 (T)
+	  - Code civil - art. 2372-5 (V)
+	  - Code civil - art. 2488-5 (V)
+	  - Code de commerce - art. A444-163-1 (V)
+	  - Code général des impôts, CGI. - art. 635 (VD)
+	  - Livre des procédures fiscales - art. L12 (V)
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2296 (T)
+	  - Code civil - art. 2296 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-14
+
+	**Créé par**:
+
+	  - Loi n°1804-02-14 promulguée le 24 février 1804
+
+
+###### Article 2020
+
+Lorsque la caution reçue par le créancier, volontairement ou en justice, est ensuite devenue insolvable, il doit en être
+donné une autre.
+
+Cette règle reçoit exception dans le cas seulement où la caution n'a été donnée qu'en vertu d'une convention par laquelle le
+créancier a exigé une telle personne pour caution.
+
+**Liens relatifs à cet article**
+
+	**Transféré par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 5 () JORF 24 mars 2006
+
+	**Cité par**:
+
+	  - Arrêté du 21 février 2013 - art. (V)
+	  - Arrêté du 24 février 2014 - art. (V)
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2297 (T)
+	  - Code civil - art. 2297 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-14
+
+	**Créé par**:
+
+	  - Loi n°1804-02-14 promulguée le 24 février 1804
+
+
+### Chapitre II : De l'effet du cautionnement
+
+#### Section 1 : De l'effet du cautionnement entre le créancier et la caution.
+
+###### Article 2021
+
+La caution n'est obligée envers le créancier à le payer qu'à défaut du débiteur, qui doit être préalablement discuté dans ses
+biens, à moins que la caution n'ait renoncé au bénéfice de discussion, ou à moins qu'elle ne se soit obligée solidairement
+avec le débiteur ; auquel cas l'effet de son engagement se règle par les principes qui ont été établis pour les dettes
+solidaires.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°55-603 du 20 mai 1955 - art. 6 (Ab)
+	  - Loi n°78-22 du 10 janvier 1978 - art. 7-2 (Ab)
+	  - Loi n°79-596 du 13 juillet 1979 - art. 9-2 (Ab)
+	  - Loi n°85-99 du 25 janvier 1985 - art. 34 (Ab)
+	  - Arrêté du 21 juillet 1993 - art. ANNEXE , 38 (Ab)
+	  - Arrêté du 23 février 1998 - art. ANNEXE (V)
+	  - Code de commerce. - art. L814-3 (M)
+	  - Code de la consommation - art. L313-8 (M)
+	  - Code de la consommation - art. L341-3 (M)
+	  - Code du travail - art. R124-16 (M)
+	  - Décret n°55-604 du 20 mai 1955 - art. 12 (M)
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-14
+
+	**Créé par**:
+
+	  - Loi n°1804-02-14 promulguée le 24 février 1804
+
+	**Transféré par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 5 () JORF 24 mars 2006
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2298 (T)
+	  - Code civil - art. 2298 (V)
+
+
+###### Article 2022
+
+Le créancier n'est obligé de discuter le débiteur principal que lorsque la caution le requiert sur les premières poursuites
+dirigées contre elle.
+
+**Liens relatifs à cet article**
+
+	**Transféré par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 5 () JORF 24 mars 2006
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2299 (T)
+	  - Code civil - art. 2299 (V)
+
+	**Cité par**:
+
+	  - Code du travail - art. R124-16 (M)
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-14
+
+	**Créé par**:
+
+	  - Loi n°1804-02-14 promulguée le 24 février 1804
+
+
+###### Article 2023
+
+La caution qui requiert la discussion doit indiquer au créancier les biens du débiteur principal, et avancer les deniers
+suffisants pour faire la discussion.
+
+Elle ne doit indiquer ni des biens du débiteur principal situés hors de l'arrondissement de la cour royale (la cour d'appel)
+du lieu où le paiement doit être fait, ni des biens litigieux, ni ceux hypothéqués à la dette qui ne sont plus en la
+possession du débiteur.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2300 (T)
+	  - Code civil - art. 2300 (V)
+
+	**Cité par**:
+
+	  - Code du travail - art. R124-16 (M)
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-14
+
+	**Créé par**:
+
+	  - Loi n°1804-02-14 promulguée le 24 février 1804
+
+	**Transféré par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 5 () JORF 24 mars 2006
+
+
+###### Article 2025
+
+Lorsque plusieurs personnes se sont rendues cautions d'un même débiteur pour une même dette, elles sont obligées chacune à
+toute la dette.
+
+**Liens relatifs à cet article**
+
+	**Transféré par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 5 () JORF 24 mars 2006
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2302 (T)
+	  - Code civil - art. 2302 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-14
+
+	**Créé par**:
+
+	  - Loi n°1804-02-14 promulguée le 24 février 1804
+
+
+###### Article 2026
+
+Néanmoins chacune d'elles peut, à moins qu'elle n'ait renoncé au bénéfice de division, exiger que le créancier divise
+préalablement son action, et la réduise à la part et portion de chaque caution.
+
+Lorsque, dans le temps où une des cautions a fait prononcer la division, il y en avait d'insolvables, cette caution est tenue
+proportionnellement de ces insolvabilités ; mais elle ne peut plus être recherchée à raison des insolvabilités survenues
+depuis la division.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2303 (MMN)
+	  - Code civil - art. 2303 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-14
+
+	**Créé par**:
+
+	  - Loi n°1804-02-14 promulguée le 24 février 1804
+
+	**Transféré par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 5 () JORF 24 mars 2006
+
+
+###### Article 2027
+
+Si le créancier a divisé lui-même et volontairement son action, il ne peut revenir contre cette division, quoiqu'il y eût,
+même antérieurement au temps où il l'a ainsi consentie, des cautions insolvables.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2304 (MMN)
+	  - Code civil - art. 2304 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-14
+
+	**Créé par**:
+
+	  - Loi n°1804-02-14 promulguée le 24 février 1804
+
+	**Transféré par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 5 () JORF 24 mars 2006
+
+
+#### Section 1 : De l'effet du cautionnement entre le créancier et la caution.
+
+###### Article 2024
+
+Toutes les fois que la caution a fait l'indication de biens autorisée par l'article précédent, et qu'elle a fourni les
+deniers suffisants pour la discussion, le créancier est, jusqu'à concurrence des biens indiqués, responsable à l'égard de la
+caution, de l'insolvabilité du débiteur principal survenue par le défaut de poursuites.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2301 (V)
+
+	**Cité par**:
+
+	  - Code du travail - art. R124-16 (M)
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-14
+
+	**Créé par**:
+
+	  - Loi n°1804-02-14 promulguée le 24 février 1804
+
+
+#### Section 2 : De l'effet du cautionnement entre le débiteur et la caution.
+
+###### Article 2028
+
+La caution qui a payé a son recours contre le débiteur principal, soit que le cautionnement ait été donné au su ou à l'insu
+du débiteur.
+
+Ce recours a lieu tant pour le principal que pour les intérêts et les frais ; néanmoins la caution n'a de recours que pour
+les frais par elle faits depuis qu'elle a dénoncé au débiteur principal les poursuites dirigées contre elle.
+
+Elle a aussi recours pour les dommages et intérêts, s'il y a lieu.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2305 (MMN)
+	  - Code civil - art. 2305 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-14
+
+	**Créé par**:
+
+	  - Loi n°1804-02-14 promulguée le 24 février 1804
+
+	**Transféré par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 5 () JORF 24 mars 2006
+
+
+###### Article 2029
+
+La caution qui a payé la dette est subrogée à tous les droits qu'avait le créancier contre le débiteur.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°72-678 du 20 juillet 1972 - art. 43 (Ab)
+	  - Décret n°72-678 du 20 juillet 1972 - art. 48-6 (M)
+	  - Décret n°94-490 du 15 juin 1994 - art. 17 (M)
+	  - Code civil - art. 2372-1 (V)
+	  - Code civil - art. 2488-1 (V)
+
+	**Transféré par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 5 () JORF 24 mars 2006
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2306 (MMN)
+	  - Code civil - art. 2306 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-14
+
+	**Créé par**:
+
+	  - Loi n°1804-02-14 promulguée le 24 février 1804
+
+
+###### Article 2030
+
+Lorsqu'il y avait plusieurs débiteurs principaux solidaires d'une même dette, la caution qui les a tous cautionnés, a, contre
+chacun d'eux, le recours pour la répétition du total de ce qu'elle a payé.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2307 (MMN)
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-14
+
+	**Créé par**:
+
+	  - Loi n°1804-02-14 promulguée le 24 février 1804
+
+	**Transféré par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 5 () JORF 24 mars 2006
+
+
+###### Article 2031
+
+La caution qui a payé une première fois, n'a point de recours contre le débiteur principal qui a payé une seconde fois,
+lorsqu'elle ne l'a point averti du paiement par elle fait ; sauf son action en répétition contre le créancier.
+
+Lorsque la caution aura payé sans être poursuivie et sans avoir averti le débiteur principal, elle n'aura point de recours
+contre lui dans le cas où, au moment du paiement, ce débiteur aurait eu des moyens pour faire déclarer la dette éteinte ;
+sauf son action en répétition contre le créancier.
+
+**Liens relatifs à cet article**
+
+	**Transféré par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 5 () JORF 24 mars 2006
+
+	**Cité par**:
+
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 223 VB (Ab)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 792 ter (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2308 (MMN)
+	  - Code civil - art. 2308 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-14
+
+	**Créé par**:
+
+	  - Loi n°1804-02-14 promulguée le 24 février 1804
+
+
+###### Article 2032
+
+La caution, même avant d'avoir payé, peut agir contre le débiteur, pour être par lui indemnisée :
+
+1° Lorsqu'elle est poursuivie en justice pour le paiement ;
+
+2° Lorsque le débiteur a fait faillite, ou est en déconfiture ;
+
+3° Lorsque le débiteur s'est obligé de lui rapporter sa décharge dans un certain temps ;
+
+4° Lorsque la dette est devenue exigible par l'échéance du terme sous lequel elle avait été contractée ;
+
+5° Au bout de dix années, lorsque l'obligation principale n'a point de terme fixe d'échéance, à moins que l'obligation
+principale, telle qu'une tutelle, ne soit pas de nature à pouvoir être éteinte avant un temps déterminé.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code civil - art. 2033 (T)
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2309 (MMN)
+	  - Code civil - art. 2309 (V)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code civil 2033 *recours entre cofidéjusseurs*
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-14
+
+	**Créé par**:
+
+	  - Loi n°1804-02-14 promulguée le 24 février 1804
+
+	**Transféré par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 5 () JORF 24 mars 2006
+
+
+#### Section 3 : De l'effet du cautionnement entre les cofidéjusseurs.
+
+###### Article 2033
+
+Lorsque plusieurs personnes ont cautionné un même débiteur pour une même dette, la caution qui a acquitté la dette, a recours
+contre les autres cautions, chacune pour sa part et portion ;
+
+Mais ce recours n'a lieu que lorsque la caution a payé dans l'un des cas énoncés en l'article précédent.
+
+**Liens relatifs à cet article**
+
+	**Transféré par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 5 () JORF 24 mars 2006
+
+	**Cite**:
+
+	  - Code civil - art. 2032 (T)
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2310 (MMN)
+	  - Code civil - art. 2310 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-14
+
+	**Créé par**:
+
+	  - Loi n°1804-02-14 promulguée le 24 février 1804
+
+
+### Chapitre III : De l'extinction du cautionnement.
+
+###### Article 2034
+
+L'obligation qui résulte du cautionnement, s'éteint par les mêmes causes que les autres obligations.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2311 (MMN)
+	  - Code civil - art. 2311 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-14
+
+	**Créé par**:
+
+	  - Loi n°1804-02-14 promulguée le 24 février 1804
+
+	**Transféré par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 5 () JORF 24 mars 2006
+
+
+###### Article 2035
+
+La confusion qui s'opère dans la personne du débiteur principal et de sa caution, lorsqu'ils deviennent héritiers l'un de
+l'autre, n'éteint point l'action du créancier contre celui qui s'est rendu caution de la caution.
+
+**Liens relatifs à cet article**
+
+	**Transféré par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 5 () JORF 24 mars 2006
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2312 (MMN)
+	  - Code civil - art. 2312 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-14
+
+	**Créé par**:
+
+	  - Loi n°1804-02-14 promulguée le 24 février 1804
+
+
+###### Article 2036
+
+La caution peut opposer au créancier toutes les exceptions qui appartiennent au débiteur principal, et qui sont inhérentes à
+la dette ;
+
+Mais elle ne peut opposer les exceptions qui sont purement personnelles au débiteur.
+
+**Liens relatifs à cet article**
+
+	**Transféré par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 5 () JORF 24 mars 2006
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2313 (MMN)
+	  - Code civil - art. 2313 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-14
+
+	**Créé par**:
+
+	  - Loi n°1804-02-14 promulguée le 24 février 1804
+
+
+###### Article 2037
+
+La caution est déchargée, lorsque la subrogation aux droits, hypothèques et privilèges du créancier, ne peut plus, par le
+fait de ce créancier, s'opérer en faveur de la caution.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 29 novembre 1976 - art. Annexe III art. 64 (M)
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2314 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-14
+
+	**Créé par**:
+
+	  - Loi n°1804-02-14 promulguée le 24 février 1804
+
+
+###### Article 2038
+
+L'acceptation volontaire que le créancier a faite d'un immeuble ou d'un effet quelconque en paiement de la dette principale,
+décharge la caution, encore que le créancier vienne à en être évincé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-14
+
+	**Créé par**:
+
+	  - Loi n°1804-02-14 promulguée le 24 février 1804
+
+	**Transféré par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 5 () JORF 24 mars 2006
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2315 (MMN)
+	  - Code civil - art. 2315 (V)
+
+
+###### Article 2039
+
+La simple prorogation de terme, accordée par le créancier au débiteur principal, ne décharge point la caution, qui peut, en
+ce cas, poursuivre le débiteur pour le forcer au paiement.
+
+**Liens relatifs à cet article**
+
+	**Transféré par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 5 () JORF 24 mars 2006
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2316 (MMN)
+	  - Code civil - art. 2316 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-14
+
+	**Créé par**:
+
+	  - Loi n°1804-02-14 promulguée le 24 février 1804
+
+
+### Chapitre IV : De la caution légale et de la caution judiciaire.
+
+###### Article 2040
+
+Toutes les fois qu'une personne est obligée, par la loi ou par une condamnation, à fournir une caution, la caution offerte
+doit remplir les conditions prescrites par les articles 2018 et 2019.
+
+Lorsqu'il s'agit d'un cautionnement judiciaire, la caution doit, en outre, être susceptible de contrainte par corps.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code civil - art. 2018 (T)
+	  - Code civil - art. 2019 (T)
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2317 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-14
+
+	**Créé par**:
+
+	  - Loi n°1804-02-14 promulguée le 24 février 1804
+
+
+###### Article 2041
+
+Celui qui ne peut pas trouver une caution est reçu à donner à sa place un gage en nantissement suffisant.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°1924-06-01 du 1 juin 1924 - art. 190 (M)
+	  - Code de procédure civile - art. 832 (M)
+
+	**Transféré par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 5 () JORF 24 mars 2006
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2318 (MMN)
+	  - Code civil - art. 2318 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-14
+
+	**Créé par**:
+
+	  - Loi n°1804-02-14 promulguée le 24 février 1804
+
+
+###### Article 2042
+
+La caution judiciaire ne peut point demander la discussion du débiteur principal.
+
+**Liens relatifs à cet article**
+
+	**Transféré par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 5 () JORF 24 mars 2006
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2319 (MMN)
+	  - Code civil - art. 2319 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-14
+
+	**Créé par**:
+
+	  - Loi n°1804-02-14 promulguée le 24 février 1804
+
+
+###### Article 2043
+
+Celui qui a simplement cautionné la caution judiciaire, ne peut demander la discussion du débiteur principal et de la
+caution.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2320 (MMN)
+	  - Code civil - art. 2320 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-14
+
+	**Créé par**:
+
+	  - Loi n°1804-02-14 promulguée le 24 février 1804
+
+	**Transféré par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 5 () JORF 24 mars 2006
 
 

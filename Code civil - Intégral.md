@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1959-01-08
+Version Consolidée au 1960-01-12
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -33098,6 +33098,70 @@ NOTA : Ordonnance 2006-346 du 6 mars 2006 art. 57 : Spécificités d'application
 	**Nouveaux textes**:
 
 	  - Code civil - art. 2452 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-19
+
+	**Créé par**:
+
+	  - Loi n°1804-03-19 promulguée le 29 mars 1804
+
+
+###### Article 2200
+
+Les conservateurs seront tenus d'avoir un registre sur lequel ils inscriront, jour par jour, et par ordre numérique, les
+remises qui leur seront faites d'actes, décisions judiciaires, bordereaux et, généralement, de documents déposés en vue de
+l'exécution d'une formalité de publicité.
+
+Ils ne pourront exécuter les formalités qu'à la date et dans l'ordre des remises qui leur auront été faites.
+
+Chaque année, une reproduction des registres clôturés pendant l'année précédente sera déposée sans frais au greffe d'un
+tribunal de grande instance ou d'un tribunal d'instance situés dans un arrondissement autre que celui où réside le
+conservateur. 
+
+Le tribunal au greffe duquel sera déposée la reproduction sera désigné par arrêté du ministre de la justice.
+
+Un décret déterminera les modalités d'application du présent article et, notamment, les procédés techniques susceptibles
+d'être employés pour l'établissement de la reproduction à déposer au greffe.
+
+**Nota:**
+
+NOTA : Ordonnance 2006-346 du 6 mars 2006 art. 57 : Spécificités d'application.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°55-22 du 4 janvier 1955 - art. 50 () JORF 7 janvier 1955
+	  - Décret n°59-89 1959-01-07 art. 13 JORF 8 janvier 1959
+	  - Décret n°60-4 1960-01-06 art. 1 JORF 12 janvier 1960
+
+	**Cité par**:
+
+	  - Décret n°55-22 du 4 janvier 1955 - art. 31 (M)
+	  - Décret n°55-1350 du 14 octobre 1955 - art. 23 (M)
+	  - Décret n°55-1350 du 14 octobre 1955 - art. 28 (M)
+	  - Décret n°55-1350 du 14 octobre 1955 - art. 34 (M)
+	  - Décret n°55-1350 du 14 octobre 1955 - art. 51 (M)
+	  - Décret n°55-1350 du 14 octobre 1955 - art. 52 (Ab)
+	  - Décret n°55-1350 du 14 octobre 1955 - art. 77 (M)
+	  - Décret n°55-1350 du 14 octobre 1955 - art. 77-2 (M)
+	  - Ordonnance n°2006-461 du 21 avril 2006 - art. 24 (VT)
+	  - Décret n°2006-936 du 27 juillet 2006 - art. 26 (Ab)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 970 (Ab)
+	  - Code civil - art. 2134 (T)
+	  - Code civil - art. 2150 (T)
+	  - Code civil - art. 2203 (T)
+	  - Code de procédure civile - art. 674 (M)
+
+	**Transféré par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2453 (V)
 
 	**Codifié par**:
 

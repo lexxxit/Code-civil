@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1965-07-14
+Version Consolidée au 1966-01-01
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -7911,6 +7911,48 @@ Les arbres fruitiers qui meurent, ceux mêmes qui sont arrachés ou brisés par 
 charge de les remplacer par d'autres.
 
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-01-30
+
+	**Créé par**:
+
+	  - Loi n°1804-01-30 promulguée le 9 février 1804
+
+
+###### Article 595
+
+L'usufruitier peut jouir par lui-même, donner à bail à un autre, même vendre ou céder son droit à titre gratuit.
+
+Les baux que l'usufruitier seul a faits pour un temps qui excède neuf ans ne sont, en cas de cessation de l'usufruit,
+obligatoires à l'égard du nu-propriétaire que pour le temps qui reste à courir, soit de la première période de neuf ans, si
+les parties s'y trouvent encore, soit de la seconde, et ainsi de suite de manière que le preneur n'ait que le droit d'achever
+la jouissance de la période de neuf ans où il se trouve.
+
+Les baux de neuf ans ou au-dessous que l'usufruitier seul a passés ou renouvelés plus de trois ans avant l'expiration du bail
+courant s'il s'agit de biens ruraux, et plus de deux ans avant la même époque s'il s'agit de maisons, sont sans effet, à
+moins que leur exécution n'ait commencé avant la cessation de l'usufruit.
+
+L'usufruitier ne peut, sans le concours du nu-propriétaire, donner à bail un fonds rural ou un immeuble à usage commercial,
+industriel ou artisanal. A défaut d'accord du nu-propriétaire, l'usufruitier peut être autorisé par justice à passer seul cet
+acte.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°65-570 du 13 juillet 1965 - art. 4 () JORF 14 juillet 1965 en vigueur le 1er janvier 1966
+
+	**Cité par**:
+
+	  - Loi n°65-570 du 13 juillet 1965 - art. 22 (V)
+	  - Décret n°2008-1484 du 22 décembre 2008 - art. Annexe 1 (V)
+	  - Code civil - art. 1424 (M)
+	  - Code civil - art. 1507 (Ab)
+	  - Code civil - art. 1718 (V)
+	  - Code de la construction et de l'habitation. - art. L253-4 (V)
+	  - Code de procédure civile - art. 1270 (V)
 
 	**Codifié par**:
 

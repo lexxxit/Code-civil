@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1967-09-29
+Version Consolidée au 1967-12-29
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -18246,6 +18246,30 @@ consentement, il pourra donner tout ce que la loi permet à l'époux majeur de d
 	**Créé par**:
 
 	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 1099-1
+
+Quand un époux acquiert un bien avec des deniers qui lui ont été donnés par l'autre à cette fin, la donation n'est que des
+deniers et non du bien auquel ils sont employés.
+
+En ce cas, les droits du donateur ou de ses héritiers n'ont pour objet qu'une somme d'argent suivant la valeur actuelle du
+bien. Si le bien a été aliéné, on considère la valeur qu'il avait au jour de l'aliénation, et si un nouveau bien a été
+subrogé au bien aliéné, la valeur de ce nouveau bien.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°67-1179 du 28 décembre 1967 - art. 1 () JORF 29 décembre 1967
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°67-1179 du 28 décembre 1967 - art. 2 (V)
+
+	**Cité par**:
+
+	  - Loi n°67-1179 du 28 décembre 1967 - art. 2 (V)
 
 
 ## Titre II : Des donations entre vifs et des testaments

@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1963-11-07
+Version Consolidée au 1964-05-17
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -4712,6 +4712,59 @@ ses frais et lui appartenir, si le contraire n'est prouvé ; sans préjudice de 
 ou pourrait acquérir par prescription soit d'un souterrain sous le bâtiment d'autrui, soit de toute autre partie du bâtiment.
 
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-01-27
+
+	**Créé par**:
+
+	  - Loi n°1804-01-27 promulguée le 6 février 1804
+
+
+###### Article 554
+
+Le propriétaire du sol qui a fait des constructions, plantations et ouvrages avec des matériaux qui ne lui appartenaient pas
+doit en payer la valeur estimée à la date du paiement ; il peut aussi être condamné à des dommages-intérêts, s'il ya lieu :
+mais le propriétaire des matériaux n'a pas le droit de les enlever.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-01-27
+
+	**Créé par**:
+
+	  - Loi n°1804-01-27 promulguée le 6 février 1804
+
+
+###### Article 555
+
+Lorsque les plantations, constructions et ouvrages ont été faits par un tiers et avec des matériaux appartenant à ce dernier,
+le propriétaire du fonds a le droit, sous réserve des dispositions de l'alinéa 4, soit d'en conserver la propriété, soit
+d'obliger le tiers à les enlever.
+
+Si le propriétaire du fonds exige la suppression des constructions, plantations et ouvrages, elle est exécutée aux frais du
+tiers, sans aucune indemnité pour lui ; le tiers peut, en outre, être condamné à des dommages-intérêts pour le préjudice
+éventuellement subi par le propriétaire du fonds.
+
+Si le propriétaire du fonds préfère conserver la propriété des constructions, plantations et ouvrages, il doit, à son choix,
+rembourser au tiers, soit une somme égale à celle dont le fonds a augmenté de valeur, soit le coût des matériaux et le prix
+de la main-d'oeuvre estimés à la date du remboursement, compte tenu de l'état dans lequel se trouvent lesdites constructions,
+plantations et ouvrages.
+
+Si les plantations, constructions et ouvrages ont été faits par un tiers évincé qui n'aurait pas été condamné, en raison de
+sa bonne foi, à la restitution des fruits, le propriétaire ne pourra exiger la suppression desdits ouvrages, constructions et
+plantations, mais il aura le choix de rembourser au tiers l'une ou l'autre des sommes visées à l'alinéa précédent.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°2011-725 du 23 juin 2011 - art. 9 (V)
+	  - Loi n°2011-725 du 23 juin 2011 - art. 10 (V)
+	  - Loi n°2011-725 du 23 juin 2011 - art. 11 (V)
 
 	**Codifié par**:
 

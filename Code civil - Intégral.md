@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1910-12-31
+Version Consolidée au 1915-07-28
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -9928,6 +9928,52 @@ spéciale et pendant un nouveau délai de six mois après son expiration.
 	**Créé par**:
 
 	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 985
+
+Les testaments faits dans un lieu avec lequel toute communication sera interceptée à cause de la peste ou autre maladie
+contagieuse, pourront être faits devant le juge du tribunal d'instance ou devant l'un des officiers municipaux de la commune,
+en présence des deux témoins.
+
+Cette disposition aura lieu tant à l'égard de ceux qui seraient attaqués de ces maladies que de ceux qui seraient dans les
+lieux qui en sont infectés, encore qu'ils ne fussent pas actuellement malades.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code civil - art. 986 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 986
+
+Les testaments faits dans une île du territoire européen de la France où il n'existe pas d'office notarial, quand il y aura
+impossibilité de communiquer avec le continent, pourront être reçus ainsi qu'il est dit à l'article précédent.
+L'impossibilité des communications sera attestée dans l'acte par le juge du tribunal d'instance ou l'officier municipal qui
+aura reçu le testament.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°68-1092 1968-12-04 art. 3
 
 
 ###### Article 987

@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1981-01-08
+Version Consolidée au 1981-05-14
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -1828,6 +1828,49 @@ rectification.
 
 ### Chapitre VII : De la rectification des actes d'état civil.
 
+###### Article 99
+
+La rectification des actes de l'état civil est ordonnée par le président du tribunal.
+
+La rectification des jugements déclaratifs ou supplétifs d'actes de l'état civil est ordonnée par le tribunal.
+
+La requête en rectification peut être présentée par toute personne intéressée ou par le procureur de la République ; celui-ci
+est tenu d'agir d'office quand l'erreur ou l'omission porte sur une indication essentielle de l'acte ou de la décision qui en
+tient lieu.
+
+Le procureur de la République territorialement compétent peut procéder à la rectification administrative des erreurs et
+omissions purement matérielles des actes de l'état civil ; à cet effet, il donne directement les instructions utiles aux
+dépositaires des registres.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°1925-10-30 du 30 octobre 1925 - art. 14 (V)
+	  - Décret n°46-1917 du 19 août 1946 - art. 5 (Ab)
+	  - Décret n°60-323  du 2 avril 1960  - art. 61 (VT)
+	  - Loi n°68-671 du 25 juillet 1968 - art. 7 (V)
+	  - Décret n°2008-521 du 2 juin 2008 - art. 8 (VD)
+	  - Code civil - art. 127 (V)
+	  - Code civil - art. 57 (M)
+	  - Code civil - art. 76 (V)
+	  - Code civil - art. 87 (V)
+	  - Code civil - art. 91 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance 58-779 1958-08-23 art. 1 JORF 30 août 1958
+	  - Décret n°81-500 1981-05-12 art. 1 JORF 14 mai 1981
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-11
+
+	**Créé par**:
+
+	  - Loi n°1803-03-11 promulguée le 21 mars 1803
+
+
 ###### Article 99-1
 
 Les personnes habilitées à exercer les fonctions d'officier de l'état civil pour dresser les actes mentionnés aux articles 98
@@ -1877,6 +1920,36 @@ Toute rectification judiciaire ou administrative d'un acte ou jugement relatif �
 	**Modifié par**:
 
 	  - Ordonnance 58-779 1958-08-23 art. 1 JORF 30 août 1958
+
+
+###### Article 101
+
+Expédition de l'acte ne peut plus être délivrée qu'avec les rectifications ordonnées, à peine de l'amende édictée par
+l'article 50 du code civil et de tous dommages-intérêts contre le dépositaire des registres.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°81-500 1981-05-12 art. 1 JORF 14 mai 1981
+	  - Ordonnance 58-779 1958-08-23 art. 1 JORF 30 août 1958
+
+	**Cite**:
+
+	  - Code civil - art. 50 (V)
+
+	**Cité par**:
+
+	  - Code civil - art. 57 (M)
+	  - Code civil - art. 61-4 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-11
+
+	**Créé par**:
+
+	  - Loi n°1803-03-11 promulguée le 21 mars 1803
 
 
 ## Titre III : Du domicile
@@ -36660,43 +36733,6 @@ l'exécution de la convention ;
 	**Abrogé par**:
 
 	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
-
-
-###### Article 1259
-
-Il n'est pas nécessaire, pour la validité de la consignation, qu'elle ait été autorisée par le juge ; il suffit :
-
-1° Qu'elle ait été précédée d'une sommation signifiée au créancier, et contenant l'indication du jour, de l'heure et du lieu
-où la chose offerte sera déposée ;
-
-2° Que le débiteur se soit dessaisi de la chose offerte, en la remettant dans le dépôt indiqué par la loi pour recevoir les
-consignations, avec les intérêts jusqu'au jour du dépôt ;
-
-3° Qu'il y ait eu procès-verbal dressé par l'officier ministériel, de la nature des espèces offertes, du refus qu'a fait le
-créancier de les recevoir, ou de sa non-comparution, et enfin du dépôt ;
-
-4° Qu'en cas de non-comparution de la part du créancier, le procès-verbal du dépôt lui ait été signifié avec sommation de
-retirer la chose déposée.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1804-02-07
-
-	**Créé par**:
-
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
-
-	**Cité par**:
-
-	  - Loi n°1913-08-08 du 8 août 1913 - art. 8 (Ab)
-	  - Loi n°1940-09-12 du 12 septembre 1940 - art. 7 (V)
-	  - Loi n°1932-04-21 du 21 avril 1932 - art. 6 (Ab)
-
-	**Abrogé par**:
-
-	  - Décret n°81-500 1981-05-12 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
 
 
 ###### Article 1260

@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1927-07-17
+Version Consolidée au 1927-08-10
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -141,48 +141,6 @@ On ne peut déroger, par des conventions particulières, aux lois qui intéresse
 ## Titre Ier : De la jouissance et de la privation des droits civils.
 
 ### Chapitre Ier : De la jouissance des droits civils.
-
-###### Article 12
-
-(article abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-08
-
-	**Créé par**:
-
-	  - Loi n°1803-03-08 promulguée le 18 mars 1803
-
-	**Abrogé par**:
-
-	  - Loi n°1927-08-10 art. 13
-
-
-###### Article 13
-
-(article abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-08
-
-	**Créé par**:
-
-	  - Loi n°1803-03-08 promulguée le 18 mars 1803
-
-	**Abrogé par**:
-
-	  - Loi n°1927-08-10 art. 13
-
-	**Cité par**:
-
-	  - Loi du 12 juillet 1909 - art. 1 (VT)
-
 
 ###### Article 16
 

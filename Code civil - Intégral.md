@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 2001-05-16
+Version Consolidée au 2001-06-01
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -48942,6 +48942,27 @@ La date de la convention, même régularisée ultérieurement, sera celle du ver
 	**Créé par**:
 
 	  - Loi n°1804-03-06 promulguée le 16 mars 1804
+
+
+###### Article 1589-1
+
+Est frappé de nullité tout engagement unilatéral souscrit en vue de l'acquisition d'un bien ou d'un droit immobilier pour
+lequel il est exigé ou reçu de celui qui s'engage un versement, quelle qu'en soit la cause et la forme.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-06
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2000-1208 2000-12-13 art. 72 IV *date d'effet*
+
+	**Créé par**:
+
+	  - Loi n°2000-1208 du 13 décembre 2000 - art. 72 (V) JORF 14 décembre 2000 en vigueur le 1er juin 2001
+	  - Loi n°2000-1208 du 13 décembre 2000 - art. 72 (V)
 
 
 ###### Article 1590

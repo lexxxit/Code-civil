@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1999-12-30
+Version Consolidée au 2000-01-01
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -452,12 +452,16 @@ agissements illicites portant sur des éléments ou des produits de celui-ci.
 
 ###### Article 16-3
 
-Il ne peut être porté atteinte à l'intégrité du corps humain qu'en cas de nécessité thérapeutique pour la personne.
+Il ne peut être porté atteinte à l'intégrité du corps humain qu'en cas de nécessité médicale pour la personne.
 
 Le consentement de l'intéressé doit être recueilli préalablement hors le cas où son état rend nécessaire une intervention
 thérapeutique à laquelle il n'est pas à même de consentir.
 
 **Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L2131-4-1 (V)
 
 	**Codifié par**:
 
@@ -467,13 +471,9 @@ thérapeutique à laquelle il n'est pas à même de consentir.
 
 	  - SPEC_APPLI: Loi n°94-653 1994-07-29 art. 11 *champ d'application*
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-653 du 29 juillet 1994 - art. 3 () JORF 30 juillet 1994
-
-	**Cité par**:
-
-	  - Code de la santé publique - art. L2131-4-1 (V)
+	  - Loi n°99-641 du 27 juillet 1999 - art. 70 () JORF 28 juillet 1999 en vigueur le 1er janvier 2000
 
 
 ###### Article 16-4

@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1964-12-15
+Version Consolidée au 1965-02-01
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -28094,6 +28094,26 @@ de compromettre.
 	**Créé par**:
 
 	  - Loi n°1804-03-10 promulguée le 20 mars 1804
+
+
+###### Article 1990
+
+Un mineur non émancipé peut être choisi pour mandataire ; mais le mandant n'aura d'action contre lui que d'après les règles
+générales relatives aux obligations des mineurs.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-10
+
+	**Créé par**:
+
+	  - Loi n°1804-03-10 promulguée le 20 mars 1804
+
+	**Cité par**:
+
+	  - Loi du 1er juillet 1901 - art. 2 bis (V)
 
 
 ### Chapitre II : Des obligations du mandataire.

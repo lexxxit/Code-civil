@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1998-02-07
+Version Consolidée au 1998-04-07
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 

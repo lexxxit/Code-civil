@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1804-02-04
+Version Consolidée au 1804-02-06
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -2783,6 +2783,105 @@ prétendre.
 
 ## Titre II : De la propriété
 
+###### Article 544
+
+La propriété est le droit de jouir et disposer des choses de la manière la plus absolue, pourvu qu'on n'en fasse pas un usage
+prohibé par les lois ou par les règlements.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°84-810 du 30 août 1984 - art. 1 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-01-27
+
+	**Créé par**:
+
+	  - Loi n°1804-01-27 promulguée le 6 février 1804
+
+
+###### Article 545
+
+Nul ne peut être contraint de céder sa propriété, si ce n'est pour cause d'utilité publique, et moyennant une juste et
+préalable indemnité.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-01-27
+
+	**Créé par**:
+
+	  - Loi n°1804-01-27 promulguée le 6 février 1804
+
+
+###### Article 546
+
+La propriété d'une chose soit mobilière, soit immobilière, donne droit sur tout ce qu'elle produit, et sur ce qui s'y unit
+accessoirement soit naturellement, soit artificiellement.
+
+Ce droit s'appelle "droit d'accession".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-01-27
+
+	**Créé par**:
+
+	  - Loi n°1804-01-27 promulguée le 6 février 1804
+
+
+### Chapitre Ier : Du droit d'accession sur ce qui est produit par la chose
+
+###### Article 547
+
+Les fruits naturels ou industriels de la terre,
+
+Les fruits civils,
+
+Le croît des animaux, appartiennent au propriétaire par droit d'accession.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°78-262 du 8 mars 1978 - art. 17 (Ab)
+	  - Décret n°2016-230 du 26 février 2016 - art. 2
+	  - Code de commerce - art. R444-66 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-01-27
+
+	**Créé par**:
+
+	  - Loi n°1804-01-27 promulguée le 6 février 1804
+
+
+###### Article 550
+
+Le possesseur est de bonne foi quand il possède comme propriétaire, en vertu d'un titre translatif de propriété dont il
+ignore les vices.
+
+Il cesse d'être de bonne foi du moment où ces vices lui sont connus.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-01-27
+
+	**Créé par**:
+
+	  - Loi n°1804-01-27 promulguée le 6 février 1804
+
+
 ### Chapitre II : Du droit d'accession sur ce qui s'unit et s'incorpore à la chose
 
 ###### Article 551
@@ -2801,6 +2900,239 @@ Tout ce qui s'unit et s'incorpore à la chose appartient au propriétaire, suiva
 
 
 #### Section 1 : Du droit d'accession relativement aux choses immobilières
+
+###### Article 552
+
+La propriété du sol emporte la propriété du dessus et du dessous.
+
+Le propriétaire peut faire au-dessus toutes les plantations et constructions qu'il juge à propos, sauf les exceptions
+établies au titre "Des servitudes ou services fonciers".
+
+Il peut faire au-dessous toutes les constructions et fouilles qu'il jugera à propos, et tirer de ces fouilles tous les
+produits qu'elles peuvent fournir, sauf les modifications résultant des lois et règlements relatifs aux mines, et des lois et
+règlements de police.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°41-4011 du 27 septembre 1941 - art. 18-1 (Ab)
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 5
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 6
+	  - Code du domaine de l'Etat - art. L90 (Ab)
+	  - Code du domaine de l'Etat et des collectivités pub - art. L112-2 (Ab)
+	  - Code du patrimoine - art. L541-1 (V)
+	  - Code du patrimoine - art. L541-4 (V)
+	  - Code général de la propriété des personnes publ... - art. L5121-1 (V)
+	  - Code général de la propriété des personnes publ... - art. L5261-1 (VD)
+	  - Code général de la propriété des personnes publ... - art. L5331-8 (T)
+
+	**Codifié par**:
+
+	  - Loi n°1804-01-27
+
+	**Créé par**:
+
+	  - Loi n°1804-01-27 promulguée le 6 février 1804
+
+
+###### Article 553
+
+Toutes constructions, plantations et ouvrages sur un terrain ou dans l'intérieur sont présumés faits par le propriétaire à
+ses frais et lui appartenir, si le contraire n'est prouvé ; sans préjudice de la propriété qu'un tiers pourrait avoir acquise
+ou pourrait acquérir par prescription soit d'un souterrain sous le bâtiment d'autrui, soit de toute autre partie du bâtiment.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-01-27
+
+	**Créé par**:
+
+	  - Loi n°1804-01-27 promulguée le 6 février 1804
+
+
+###### Article 556
+
+Les atterrissements et accroissements qui se forment successivement et imperceptiblement aux fonds riverains d'un fleuve ou
+d'une rivière s'appellent "alluvion".
+
+L'alluvion profite au propriétaire riverain, soit qu'il s'agisse d'un fleuve ou d'une rivière navigable, flottable ou non ; à
+la charge, dans le premier cas, de laisser le marchepied ou chemin de halage, conformément aux règlements.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code de l'environnement - art. L215-14 (V)
+	  - Code de l'environnement - art. L215-6 (V)
+	  - Code du domaine public fluvial et de la navigation - art. 10 (Ab)
+	  - Code général de la propriété des personnes publ... - art. L2111-13 (V)
+	  - Code général de la propriété des personnes publ... - art. L3211-15 (V)
+	  - Code rural ancien - art. 102 (Ab)
+	  - Code rural ancien - art. 114 (Ab)
+	  - Loi n°1898-04-08 du 8 avril 1898 - art. 18 (Ab)
+	  - Loi n°1898-04-08 du 8 avril 1898 - art. 39 (Ab)
+	  - Loi n°1898-04-08 du 8 avril 1898 - art. 7 (Ab)
+
+	**Codifié par**:
+
+	  - Loi n°1804-01-27
+
+	**Créé par**:
+
+	  - Loi n°1804-01-27 promulguée le 6 février 1804
+
+
+###### Article 557
+
+Il en est de même des relais que forme l'eau courante qui se retire insensiblement de l'une de ses rives en se portant sur
+l'autre : le propriétaire de la rive découverte profite de l'alluvion, sans que le riverain du côté opposé y puisse venir
+réclamer le terrain qu'il a perdu.
+
+Ce droit n'a pas lieu à l'égard des relais de la mer.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code de l'environnement - art. L215-14 (M)
+	  - Code du domaine public fluvial et de la navigation - art. 10 (Ab)
+	  - Code rural ancien - art. 102 (Ab)
+	  - Code rural ancien - art. 114 (Ab)
+	  - Loi n°1898-04-08 du 8 avril 1898 - art. 18 (Ab)
+	  - Loi n°1898-04-08 du 8 avril 1898 - art. 39 (Ab)
+	  - Loi n°1898-04-08 du 8 avril 1898 - art. 7 (Ab)
+
+	**Codifié par**:
+
+	  - Loi n°1804-01-27
+
+	**Créé par**:
+
+	  - Loi n°1804-01-27 promulguée le 6 février 1804
+
+
+###### Article 558
+
+L'alluvion n'a pas lieu à l'égard des lacs et étangs, dont le propriétaire conserve toujours le terrain que l'eau couvre
+quand elle est à la hauteur de la décharge de l'étang, encore que le volume de l'eau vienne à diminuer.
+
+Réciproquement, le propriétaire de l'étang n'acquiert aucun droit sur les terres riveraines que son eau vient à couvrir dans
+des crues extraordinaires.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code du domaine public fluvial et de la navigation - art. 10 (M)
+	  - Code général de la propriété des personnes publ... - art. L2111-13 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-01-27
+
+	**Créé par**:
+
+	  - Loi n°1804-01-27 promulguée le 6 février 1804
+
+
+###### Article 559
+
+Si un fleuve ou une rivière, navigable ou non, enlève par une force subite une partie considérable et reconnaissable d'un
+champ riverain, et la porte vers un champ inférieur ou sur la rive opposée, le propriétaire de la partie enlevée peut
+réclamer sa propriété ; mais il est tenu de former sa demande dans l'année : après ce délai, il n'y sera plus recevable, à
+moins que le propriétaire du champ auquel la partie enlevée a été unie, n'eût pas encore pris possession de celle-ci.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code de l'environnement - art. L215-6 (V)
+	  - Code du domaine public fluvial et de la navigation - art. 12 (Ab)
+	  - Code général de la propriété des personnes publ... - art. L2124-15 (V)
+	  - Code rural ancien - art. 102 (Ab)
+	  - Loi n°1898-04-08 du 8 avril 1898 - art. 7 (Ab)
+
+	**Codifié par**:
+
+	  - Loi n°1804-01-27
+
+	**Créé par**:
+
+	  - Loi n°1804-01-27 promulguée le 6 février 1804
+
+
+###### Article 560
+
+Les îles, îlots, atterrissements qui se forment dans le lit des fleuves ou des rivières navigables ou flottables
+appartiennent à l'Etat s'il n'y a titre ou prescription contraire.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code du domaine public fluvial et de la navigation - art. 10 (Ab)
+	  - Code général de la propriété des personnes publ... - art. L2111-13 (V)
+	  - Loi n°1898-04-08 du 8 avril 1898 - art. 39 (Ab)
+
+	**Codifié par**:
+
+	  - Loi n°1804-01-27
+
+	**Créé par**:
+
+	  - Loi n°1804-01-27 promulguée le 6 février 1804
+
+
+###### Article 561
+
+Les îles et atterrissements qui se forment dans les rivières non navigables et non flottables appartiennent aux propriétaires
+riverains du côté où l'île s'est formée : si l'île n'est pas formée d'un seul côté, elle appartient aux propriétaires
+riverains des deux côtés, à partir de la ligne qu'on suppose tracée au milieu de la rivière.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code de l'environnement - art. L215-6 (V)
+	  - Code rural ancien - art. 102 (Ab)
+	  - Loi n°1898-04-08 du 8 avril 1898 - art. 7 (Ab)
+
+	**Codifié par**:
+
+	  - Loi n°1804-01-27
+
+	**Créé par**:
+
+	  - Loi n°1804-01-27 promulguée le 6 février 1804
+
+
+###### Article 562
+
+Si une rivière ou un fleuve, en se formant un bras nouveau, coupe et embrasse le champ d'un propriétaire riverain, et en fait
+une île, ce propriétaire conserve la propriété de son champ, encore que l'île se soit formée dans un fleuve ou dans une
+rivière navigable ou flottable.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code du domaine public fluvial et de la navigation - art. 10 (Ab)
+	  - Code général de la propriété des personnes publ... - art. L2111-13 (V)
+	  - Code rural ancien - art. 102 (Ab)
+	  - Loi n°1898-04-08 du 8 avril 1898 - art. 39 (Ab)
+	  - Loi n°1898-04-08 du 8 avril 1898 - art. 7 (Ab)
+
+	**Codifié par**:
+
+	  - Loi n°1804-01-27
+
+	**Créé par**:
+
+	  - Loi n°1804-01-27 promulguée le 6 février 1804
+
 
 ###### Article 564
 
@@ -2827,6 +3159,132 @@ objets, pourvu qu'ils n'y aient point été attirés par fraude et artifice.
 	**Codifié par**:
 
 	  - Loi n°1804-01-27
+
+
+#### Section 2 : Du droit d'accession relativement aux choses mobilières
+
+###### Article 565
+
+Le droit d'accession, quand il a pour objet deux choses mobilières appartenant à deux maîtres différents, est entièrement
+subordonné aux principes de l'équité naturelle.
+
+Les règles suivantes serviront d'exemple au juge pour se déterminer, dans les cas non prévus, suivant les circonstances
+particulières.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-01-27
+
+	**Créé par**:
+
+	  - Loi n°1804-01-27 promulguée le 6 février 1804
+
+
+###### Article 567
+
+Est réputée partie principale celle à laquelle l'autre n'a été unie que pour l'usage, l'ornement ou le complément de la
+première.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-01-27
+
+	**Créé par**:
+
+	  - Loi n°1804-01-27 promulguée le 6 février 1804
+
+
+###### Article 568
+
+Néanmoins, quand la chose unie est beaucoup plus précieuse que la chose principale, et quand elle a été employée à l'insu du
+propriétaire, celui-ci peut demander que la chose unie soit séparée pour lui être rendue, même quand il pourrait en résulter
+quelque dégradation de la chose à laquelle elle a été jointe.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-01-27
+
+	**Créé par**:
+
+	  - Loi n°1804-01-27 promulguée le 6 février 1804
+
+
+###### Article 569
+
+Si de deux choses unies pour former un seul tout, l'une ne peut point être regardée comme l'accessoire de l'autre, celle-là
+est réputée principale qui est la plus considérable en valeur, ou en volume, si les valeurs sont à peu près égales.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-01-27
+
+	**Créé par**:
+
+	  - Loi n°1804-01-27 promulguée le 6 février 1804
+
+
+###### Article 573
+
+Lorsqu'une chose a été formée par le mélange de plusieurs matières appartenant à différents propriétaires, mais dont aucune
+ne peut être regardée comme la matière principale, si les matières peuvent être séparées, celui à l'insu duquel les matières
+ont été mélangées peut en demander la division.
+
+Si les matières ne peuvent plus être séparées sans inconvénient, ils en acquièrent en commun la propriété dans la proportion
+de la quantité, de la qualité et de la valeur des matières appartenant à chacun d'eux.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-01-27
+
+	**Créé par**:
+
+	  - Loi n°1804-01-27 promulguée le 6 février 1804
+
+
+###### Article 575
+
+Lorsque la chose reste en commun entre les propriétaires des matières dont elle a été formée, elle doit être licitée au
+profit commun.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code civil - art. 572 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-01-27
+
+	**Créé par**:
+
+	  - Loi n°1804-01-27 promulguée le 6 février 1804
+
+
+###### Article 577
+
+Ceux qui auront employé des matières appartenant à d'autres, et à leur insu, pourront aussi être condamnés à des dommages et
+intérêts, s'il y a lieu, sans préjudice des poursuites par voie extraordinaire, si le cas y échet.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-01-27
+
+	**Créé par**:
+
+	  - Loi n°1804-01-27 promulguée le 6 février 1804
 
 
 ## Titre IV : Des servitudes ou services fonciers

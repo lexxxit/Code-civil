@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1804-03-30
+Version Consolidée au 1808-04-05
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -2046,6 +2046,54 @@ l'enfant à qui il devra des aliments, devra dans ce cas être dispensé de paye
 	**Créé par**:
 
 	  - Loi n°1803-03-26 promulguée le 5 avril 1805
+
+
+###### Article 435
+
+(article abrogé).
+
+**Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+
+	**Cité par**:
+
+	  - Code civil - art. 1150 (V)
+	  - Code civil - art. 437 (V)
+	  - Code civil - art. 465 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°1803-03-26 promulguée le 5 avril 1803
+
+
+###### Article 436
+
+(article abrogé).
+
+**Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+
+	**Cité par**:
+
+	  - Code civil - art. 437 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°1803-03-26 promulguée le 5 avril 1803
 
 
 ### Chapitre III : De l'émancipation.

@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1907-01-21
+Version Consolidée au 1907-06-21
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -622,6 +622,22 @@ pourront se pourvoir contre le jugement.
 
 
 ### Chapitre III : Des actes de mariage.
+
+###### Article 65
+
+Si le mariage n'a pas été célébré dans l'année, à compter de l'expiration du délai de la publication, il ne pourra plus être
+célébré qu'après une nouvelle publication faite dans la forme ci-dessus.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-11
+
+	**Créé par**:
+
+	  - Loi n°1803-03-11 promulguée le 21 mars 1803
+
 
 ###### Article 66
 
@@ -1373,6 +1389,34 @@ consentement donné par cet ascendant.
 	  - SPEC_APPLI: Loi n°70-643 1970-07-17
 
 
+###### Article 156
+
+Les officiers de l'état civil qui auraient procédé à la célébration des mariages contractés par des fils ou filles n'ayant
+pas atteint l'âge de dix-huit ans accomplis sans que le consentement des pères et mères, celui des aïeuls ou aïeules et celui
+du conseil de famille, dans le cas où il est requis, soit énoncé dans l'acte de mariage, seront, à la diligence des parties
+intéressées ou du procureur de la République près le tribunal de grande instance de l'arrondissement où le mariage aura été
+célébré, condamnés à l'amende portée en l'article 192 du code civil.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Ordonnance n°2010-590 du 3 juin 2010 - art. 9 (V)
+	  - CODE DES COMMUNES. - art. L122-25 (Ab)
+
+	**Cite**:
+
+	  - Code civil - art. 192 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°1803-03-17 promulguée le 27 mars 1803
+
+
 ###### Article 161
 
 En ligne directe, le mariage est prohibé entre tous les ascendants et descendants légitimes ou naturels, et les alliés dans
@@ -1404,6 +1448,34 @@ la même ligne.
 
 
 ### Chapitre II : Des formalités relatives à la célébration du mariage
+
+###### Article 165
+
+Le mariage sera célébré publiquement devant l'officier de l'état civil de la commune où l'un des époux aura son domicile ou
+sa résidence à la date de la publication prévue par l'article 63, et, en cas de dispense de publication, à la date de la
+dispense prévue à l'article 169 ci-après.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°2009-594 du 27 mai 2009 - art. 58 (V)
+	  - Code civil - art. 171-9 (V)
+	  - Code civil - art. 193 (V)
+
+	**Cite**:
+
+	  - Code civil - art. 169 (V)
+	  - Code civil - art. 63 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°1803-03-17 promulguée le 27 mars 1803
+
 
 ###### Article 167
 
@@ -1441,6 +1513,33 @@ la même ligne.
 	**Abrogé par**:
 
 	  - Ordonnance 58-779 1958-12-23 art. 8 JORF 30 août 1958
+
+
+###### Article 170
+
+Le mariage contracté en pays étranger entre français et entre français et étranger sera valable, s'il a été célébré dans les
+formes usitées dans le pays, pourvu qu'il ait été précédé de la publication prescrite par l'article 63, au titre Des actes de
+l'état civil, et que le français n'ait point contrevenu aux dispositions contenues au chapitre précédent.
+
+Il en sera de même du mariage contracté en pays étranger entre un français et une étrangère, s'il a été célébré par les
+agents diplomatiques, ou par les consuls de France, conformément aux lois françaises.
+
+Toutefois, les agents diplomatiques ou les consuls ne pourront procéder à la célébration du mariage entre un français et une
+étrangère que dans les pays qui seront désignés par décrets du Président de la République.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code civil - art. 63 (M)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°1803-03-17 promulguée le 27 mars 1803
 
 
 ### Chapitre III : Des oppositions au mariage

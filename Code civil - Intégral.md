@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 2002-01-01
+Version Consolidée au 2002-01-23
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -4843,6 +4843,27 @@ instrumentaires désignés en cet article et dans les formes qui y sont indiqué
 	**Codifié par**:
 
 	  - Loi n°1803-03-11
+
+
+###### Article 62-1
+
+Si la transcription de la reconnaissance paternelle s'avère impossible, du fait du secret de son identité opposé par la mère,
+le père peut en informer le procureur de la République. Celui-ci procède à la recherche des date et lieu d'établissement de
+l'acte de naissance de l'enfant.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-11
+
+	**Créé par**:
+
+	  - Loi n°2002-93 du 22 janvier 2002 - art. 14 () JORF 23 janvier 2002
+
+	**Cité par**:
+
+	  - Code civil - art. 2492 (VD)
 
 
 ### Chapitre III : Des actes de mariage.
@@ -16629,9 +16650,9 @@ Le jugement prononçant l'adoption n'est pas motivé.
 
 ###### Article 353-1
 
-Dans le cas d'adoption d'un pupille de l'Etat ou d'un enfant étranger qui n'est pas l'enfant du conjoint de l'adoptant, le
-tribunal vérifie avant de prononcer l'adoption que le ou les requérants ont obtenu l'agrément pour adopter ou en étaient
-dispensés.
+Dans le cas d'adoption d'un pupille de l'Etat, d'un enfant remis à un organisme autorisé pour l'adoption ou d'un enfant
+étranger qui n'est pas l'enfant du conjoint de l'adoptant, le tribunal vérifie avant de prononcer l'adoption que le ou les
+requérants ont obtenu l'agrément pour adopter ou en étaient dispensés.
 
 Si l'agrément a été refusé ou s'il n'a pas été délivré dans le délai légal, le tribunal peut prononcer l'adoption s'il estime
 que les requérants sont aptes à accueillir l'enfant et que celle-ci est conforme à son intérêt.
@@ -16640,7 +16661,7 @@ que les requérants sont aptes à accueillir l'enfant et que celle-ci est confor
 
 	**Créé par**:
 
-	  - Loi n°96-604 du 5 juillet 1996 - art. 11 () JORF 6 juillet 1996
+	  - Loi n°2002-93 du 22 janvier 2002 - art. 15 () JORF 23 janvier 2002
 
 	**Cité par**:
 

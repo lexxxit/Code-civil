@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1997-01-01
+Version Consolidée au 1997-10-29
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -5201,50 +5201,51 @@ prononcera, au nom de la loi, qu'elles sont unies par le mariage, et il en dress
 
 ###### Article 76
 
-L'acte de mariage énoncera :
+L'acte de mariage énoncera : 
 
-1° Les prénoms, noms, professions, âges, dates et lieux de naissance, domiciles et résidences des époux ;
+1° Les prénoms, noms, professions, âges, dates et lieux de naissance, domiciles et résidences des époux ; 
 
-2° Les prénoms, noms, professions et domiciles des pères et mères ;
+2° Les prénoms, noms, professions et domiciles des pères et mères ; 
 
-3° Le consentement des pères et mères, aïeuls ou aïeules, et celui du conseil de famille, dans le cas où ils sont requis ;
+3° Le consentement des pères et mères, aïeuls ou aïeules, et celui du conseil de famille, dans le cas où ils sont requis ; 
 
-4° Les prénoms et nom du précédent conjoint de chacun des époux ;
+4° Les prénoms et nom du précédent conjoint de chacun des époux ; 
 
-5° (abrogé) ;
+5° (abrogé) ; 
 
-6° La déclaration des contractants de se prendre pour époux, et le prononcé de leur union par l'officier de l'état civil ;
+6° La déclaration des contractants de se prendre pour époux, et le prononcé de leur union par l'officier de l'état civil ; 
 
-7° Les prénoms, noms, professions, domiciles des témoins et leur qualité de majeurs ;
+7° Les prénoms, noms, professions, domiciles des témoins et leur qualité de majeurs ; 
 
 8° La déclaration, faite sur l'interpellation prescrite par l'article précédent, qu'il a été ou qu'il n'a pas été fait de
 contrat de mariage, et, autant que possible, la date du contrat, s'il existe, ainsi que les nom et lieu de résidence du
-notaire qui l'aura reçu ; le tout à peine, contre l'officier de l'état civil, de l'amende fixée par l'article 50.
+notaire qui l'aura reçu ; le tout à peine, contre l'officier de l'état civil, de l'amende fixée par l'article 50. 
 
 Dans le cas où la déclaration aurait été omise ou serait erronée, la rectification de l'acte, en ce qui touche l'omission ou
 l'erreur, pourra être demandée par le procureur de la République, sans préjudice du droit des parties intéressées,
-conformément à l'article 99.
+conformément à l'article 99. 
+
+9° S'il y a lieu, la déclaration qu'il a été fait un acte de désignation de la loi applicable conformément à la convention
+sur la loi applicable aux régimes matrimoniaux, faite à La Haye le 14 mars 1978, ainsi que la date et le lieu de signature de
+cet acte et, le cas échéant, le nom et la qualité de la personne qui l'a établi. 
 
 En marge de l'acte de naissance de chaque époux, il sera fait mention de la célébration du mariage et du nom du conjoint.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Loi n°97-987 du 28 octobre 1997 - art. 1 () JORF 29 octobre 1997
+
 	**Cite**:
 
-	  - Code civil - art. 50 (M)
+	  - Code civil - art. 50 (V)
 	  - Code civil - art. 99 (V)
+	  - Convention 1978-03-14, faite à La Haye
 
 	**Codifié par**:
 
 	  - Loi n°1803-03-11
-
-	**Créé par**:
-
-	  - Loi n°1803-03-11 promulguée le 21 mars 1803
-
-	**Modifié par**:
-
-	  - Loi n°59-71 1959-01-07 art. 1 JORF 8 janvier 1959
 
 
 ### Chapitre IV : Des actes de décès.
@@ -44637,6 +44638,156 @@ II.
 
 	  - Code civil - art. 1450 (M)
 	  - Code civil - art. 1451 (M)
+
+
+###### Article 1397-2
+
+Lorsque les époux désignent la loi applicable à leur régime matrimonial en vertu de la convention sur la loi applicable aux
+régimes matrimoniaux, faite à La Haye le 14 mars 1978, il est fait application des dispositions des articles 1397-3 et
+1397-4.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°65-570 1965-07-13
+
+	**Cité par**:
+
+	  - Décret n°84-406 du 30 mai 1984 - art. 8 (M)
+	  - Arrêté du 9 février 1988 - art. Annexe I (V)
+	  - Arrêté du 9 février 1988 - art. Annexe III (V)
+	  - Arrêté du 9 février 1988 - art. Annexe VI (V)
+
+	**Créé par**:
+
+	  - Loi n°97-987 du 28 octobre 1997 - art. 2 () JORF 29 octobre 1997
+
+	**Cite**:
+
+	  - Code civil - art. 1397-3 (V)
+	  - Code civil - art. 1397-4 (V)
+	  - Convention 1978-03-14, faite à La Haye
+
+
+###### Article 1397-3
+
+Lorsque la désignation de la loi applicable est faite avant le mariage, les futurs époux présentent à l'officier de l'état
+civil soit l'acte par lequel ils ont opéré cette désignation, soit un certificat délivré par la personne compétente pour
+établir cet acte. Le certificat énonce les noms et prénoms des futurs époux, le lieu où ils demeurent, la date de l'acte de
+désignation, ainsi que les nom, qualité et résidence de la personne qui l'a établi.
+
+Lorsque la désignation de la loi applicable est faite au cours du mariage, les époux font procéder aux mesures de publicité
+relatives à la désignation de la loi applicable dans les conditions et formes prévues au nouveau code de procédure civile.
+S'ils ont passé un contrat de mariage, mention de la loi applicable ainsi désignée est portée sur la minute de celui-ci.
+
+A l'occasion de la désignation de la loi applicable, avant le mariage ou au cours de celui-ci, les époux peuvent désigner la
+nature du régime matrimonial choisi par eux.
+
+Si l'un des époux est commerçant lors du mariage ou le devient ultérieurement, l'acte de désignation de la loi applicable
+passé avant le mariage ou au cours de celui-ci est publié dans les conditions et sous les sanctions prévues par les
+dispositions relatives au registre du commerce et des sociétés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°65-570 1965-07-13
+
+	**Cité par**:
+
+	  - Décret n°84-406 du 30 mai 1984 - art. 12 (Ab)
+	  - Décret n°84-406 du 30 mai 1984 - art. 12-1 (Ab)
+	  - Décret n°84-406 du 30 mai 1984 - art. 8 (M)
+	  - Arrêté du 9 février 1988 - art. Annexe I (V)
+	  - Arrêté du 9 février 1988 - art. Annexe II (V)
+	  - Arrêté du 9 février 1988 - art. Annexe III (V)
+	  - Arrêté du 9 février 1988 - art. Annexe VI (V)
+	  - Loi n°97-987 du 28 octobre 1997 - art. 3 (V)
+	  - Ordonnance n°2002-1476 du 19 décembre 2002 - art. 10 (VD)
+	  - Code civil - art. 1397-2 (V)
+	  - Code civil - art. 1397-4 (V)
+	  - Nouveau code de procédure civile - art. 1303-1 (V)
+
+	**Créé par**:
+
+	  - Loi n°97-987 du 28 octobre 1997 - art. 2 () JORF 29 octobre 1997
+
+
+###### Article 1397-4
+
+Lorsque la désignation de la loi applicable est faite au cours du mariage, cette désignation prend effet entre les parties à
+compter de l'établissement de l'acte de désignation et, à l'égard des tiers, trois mois après que les formalités de publicité
+prévues à l'article 1397-3 auront été accomplies. 
+
+Toutefois, en l'absence d'accomplissement de ces formalités, la désignation de la loi applicable est opposable aux tiers si,
+dans les actes passés avec eux, les époux ont déclaré la loi applicable à leur régime matrimonial.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°65-570 1965-07-13
+
+	**Créé par**:
+
+	  - Loi n°97-987 du 28 octobre 1997 - art. 2 () JORF 29 octobre 1997
+
+	**Cité par**:
+
+	  - Code civil - art. 1397-2 (V)
+
+	**Cite**:
+
+	  - Code civil - art. 1397-3 (V)
+
+
+###### Article 1397-5
+
+Lorsqu'un changement au régime matrimonial intervient par application d'une loi étrangère régissant les effets de l'union,
+les époux font procéder aux formalités de publicité prévues au nouveau code de procédure civile.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°65-570 1965-07-13
+
+	**Cité par**:
+
+	  - Décret n°84-406 du 30 mai 1984 - art. 12 (Ab)
+	  - Décret n°84-406 du 30 mai 1984 - art. 12-1 (Ab)
+	  - Arrêté du 9 février 1988 - art. Annexe II (V)
+	  - Arrêté du 9 février 1988 - art. Annexe III (V)
+	  - Arrêté du 9 février 1988 - art. Annexe VI (V)
+	  - Code civil - art. 1397-6 (V)
+
+	**Créé par**:
+
+	  - Loi n°97-987 du 28 octobre 1997 - art. 4 () JORF 29 octobre 1997
+
+
+###### Article 1397-6
+
+Le changement de régime matrimonial prend effet entre les parties à dater de la décision ou de l'acte qui le prévoit et, à
+l'égard des tiers, trois mois après que les formalités de publicité prévues à l'article 1397-5 auront été accomplies. 
+
+Toutefois, en l'absence d'accomplissement de ces formalités, le changement de régime matrimonial est opposable aux tiers si,
+dans les actes passés avec eux, les époux ont déclaré avoir modifié leur régime matrimonial.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°65-570 1965-07-13
+
+	**Créé par**:
+
+	  - Loi n°97-987 du 28 octobre 1997 - art. 4 () JORF 29 octobre 1997
+
+	**Cite**:
+
+	  - Code civil - art. 1397-5 (V)
 
 
 ###### Article 1398

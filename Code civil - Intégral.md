@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1868-08-02
+Version Consolidée au 1881-08-26
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -4881,6 +4881,159 @@ la prescription soit acquise.
 	  - Loi n°1804-01-31 promulguée le 10 février 1804
 
 
+###### Article 666
+
+Toute clôture qui sépare des héritages est réputée mitoyenne, à moins qu'il n'y ait qu'un seul des héritages en état de
+clôture, ou s'il n'y a titre, prescription ou marque contraire.
+
+Pour les fossés, il y a marque de non-mitoyenneté lorsque la levée ou le rejet de la terre se trouve d'un côté seulement du
+fossé. 
+
+Le fossé est censé appartenir exclusivement à celui du côté duquel le rejet se trouve.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-01-31
+
+	**Créé par**:
+
+	  - Loi n°1804-01-31 promulguée le 10 février 1804
+
+
+###### Article 667
+
+La clôture mitoyenne doit être entretenue à frais communs ; mais le voisin peut se soustraire à cette obligation en renonçant
+à la mitoyenneté.
+
+Cette faculté cesse si le fossé sert habituellement à l'écoulement des eaux.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-01-31
+
+	**Créé par**:
+
+	  - Loi n°1804-01-31 promulguée le 10 février 1804
+
+
+###### Article 668
+
+Le voisin dont l'héritage joint un fossé ou une haie non mitoyens ne peut contraindre le propriétaire de ce fossé ou de cette
+haie à lui céder la mitoyenneté.
+
+Le copropriétaire d'une haie mitoyenne peut la détruire jusqu'à la limite de sa propriété, à la charge de construire un mur
+sur cette limite.
+
+La même règle est applicable au copropriétaire d'un fossé mitoyen qui ne sert qu'à la clôture.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-01-31
+
+	**Créé par**:
+
+	  - Loi n°1804-01-31 promulguée le 10 février 1804
+
+
+###### Article 669
+
+Tant que dure la mitoyenneté de la haie, les produits en appartiennent aux propriétaires par moitié.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-01-31
+
+	**Créé par**:
+
+	  - Loi n°1804-01-31 promulguée le 10 février 1804
+
+
+###### Article 670
+
+Les arbres qui se trouvent dans la haie mitoyenne sont mitoyens comme la haie. Les arbres plantés sur la ligne séparative de
+deux héritages sont aussi réputés mitoyens. Lorsqu'ils meurent ou lorsqu'ils sont coupés ou arrachés, ces arbres sont
+partagés par moitié. Les fruits sont recueillis à frais communs et partagés aussi par moitié, soit qu'ils tombent
+naturellement, soit que la chute en ait été provoquée, soit qu'ils aient été cueillis.
+
+Chaque propriétaire a le droit d'exiger que les arbres mitoyens soient arrachés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-01-31
+
+	**Créé par**:
+
+	  - Loi n°1804-01-31 promulguée le 10 février 1804
+
+
+###### Article 671
+
+Il n'est permis d'avoir des arbres, arbrisseaux et arbustes près de la limite de la propriété voisine qu'à la distance
+prescrite par les règlements particuliers actuellement existants, ou par des usages constants et reconnus et, à défaut de
+règlements et usages, qu'à la distance de deux mètres de la ligne séparative des deux héritages pour les plantations dont la
+hauteur dépasse deux mètres, et à la distance d'un demi-mètre pour les autres plantations.
+
+Les arbres, arbustes et arbrisseaux de toute espèce peuvent être plantés en espaliers, de chaque côté du mur séparatif, sans
+que l'on soit tenu d'observer aucune distance, mais ils ne pourront dépasser la crête du mur.
+
+Si le mur n'est pas mitoyen, le propriétaire seul a le droit d'y appuyer les espaliers.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°61-602 du 13 juin 1961 - art. 3 (Ab)
+	  - Décret n°86-1420 du 31 décembre 1986 - art. 2 (Ab)
+	  - Ordonnance n°2013-516 du 20 juin 2013 - art. 1 (VD)
+	  - Code civil - art. 672 (V)
+	  - Code rural - art. L182-6 (VD)
+	  - Code rural - art. R126-3 (M)
+	  - Code rural et de la pêche maritime - art. L114-1 (VD)
+	  - Code rural et de la pêche maritime - art. R126-2 (VD)
+
+	**Codifié par**:
+
+	  - Loi n°1804-01-31
+
+	**Créé par**:
+
+	  - Loi n°1804-03-19 promulguée le 29 mars 1804
+
+
+###### Article 672
+
+Le voisin peut exiger que les arbres, arbrisseaux et arbustes, plantés à une distance moindre que la distance légale, soient
+arrachés ou réduits à la hauteur déterminée dans l'article précédent, à moins qu'il n'y ait titre, destination du père de
+famille ou prescription trentenaire.
+
+Si les arbres meurent ou s'ils sont coupés ou arrachés, le voisin ne peut les remplacer qu'en observant les distances
+légales.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code civil - art. 671 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-01-31
+
+	**Créé par**:
+
+	  - Loi n°1804-01-31 promulguée le 10 février 1804
+
+
 #### Section I : Du mur et du fossé mitoyens.
 
 ###### Article 664
@@ -5040,6 +5193,70 @@ Tout propriétaire doit établir des toits de manière que les eaux pluviales s'
 publique ; il ne peut les faire verser sur le fonds de son voisin.
 
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-01-31
+
+	**Créé par**:
+
+	  - Loi n°1804-01-31 promulguée le 10 février 1804
+
+
+#### Section 5 : Du droit de passage
+
+###### Article 683
+
+Le passage doit régulièrement être pris du côté où le trajet est le plus court du fonds enclavé à la voie publique.
+
+Néanmoins, il doit être fixé dans l'endroit le moins dommageable à celui sur le fonds duquel il est accordé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-01-31
+
+	**Créé par**:
+
+	  - Loi n°1804-01-31 promulguée le 10 février 1804
+
+
+###### Article 684
+
+Si l'enclave résulte de la division d'un fonds par suite d'une vente, d'un échange, d'un partage ou de tout autre contrat, le
+passage ne peut être demandé que sur les terrains qui ont fait l'objet de ces actes. 
+
+Toutefois, dans le cas où un passage suffisant ne pourrait être établi sur les fonds divisés, l'article 682 serait
+applicable.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code civil - art. 682 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-01-31
+
+	**Créé par**:
+
+	  - Loi n°1804-01-31 promulguée le 10 février 1804
+
+
+###### Article 685
+
+L'assiette et le mode de servitude de passage pour cause d'enclave sont déterminés par trente ans d'usage continu.
+
+L'action en indemnité, dans le cas prévu par l'article 682, est prescriptible, et le passage peut être continué, quoique
+l'action en indemnité ne soit plus recevable.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code civil - art. 682 (V)
 
 	**Codifié par**:
 

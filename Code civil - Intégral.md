@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1975-07-10
+Version Consolidée au 1976-01-01
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -1863,6 +1863,38 @@ Le lieu où la succession s'ouvrira sera déterminé par le domicile.
 	**Abrogé par**:
 
 	  - Loi n°2001-1135 du 3 décembre 2001 - art. 21 () JORF 4 décembre 2001 en vigueur le 1er juillet 2002
+
+
+###### Article 111
+
+Lorsqu'un acte contiendra, de la part des parties ou de l'une d'elles, élection de domicile pour l'exécution de ce même acte
+dans un autre lieu que celui du domicile réel, les significations, demandes et poursuites relatives à cet acte pourront être
+faites au domicile convenu, et, sous réserve des dispositions de l'article 48 du nouveau code de procédure civile, devant le
+juge de ce domicile.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°75-1122 1975-12-05 art. 1 JORF 9 décembre 1975 en vigueur le 1er janvier 1976
+
+	**Cite**:
+
+	  - Code de procédure civile 48
+
+	**Cité par**:
+
+	  - Code de la famille et de l'aide sociale. - art. 193 (M)
+	  - Code monétaire et financier - art. R518-38 (V)
+	  - Ordonnance n°1816-07-03 du 3 juillet 1816 - art. 4 (Ab)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°1803-03-14 promulguée le 24 mars 1803
 
 
 ## Titre IV : Des absents
@@ -4388,6 +4420,3365 @@ Le mariage se dissout :
 	**Créé par**:
 
 	  - Loi n°1803-03-17 promulguée le 27 mars 1803
+
+
+## Titre VI : Du divorce
+
+### Chapitre Ier : Des cas de divorce
+
+###### Article 229
+
+Le divorce peut être prononcé en cas :
+
+- soit de consentement mutuel ;
+
+- soit de rupture de la vie commune ;
+
+- soit de faute.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 1077 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+#### Section 1 : Du divorce par consentement mutuel
+
+###### Article 230
+
+Lorsque les époux demandent ensemble le divorce, ils n'ont pas à en faire connaître la cause ; ils doivent seulement
+soumettre à l'approbation du juge un projet de convention qui en règle les conséquences.
+
+La demande peut être présentée, soit par les avocats respectifs des parties, soit par un avocat choisi d'un commun accord.
+
+Le divorce par consentement mutuel ne peut être demandé au cours des six premiers mois de mariage.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+
+
+###### Article 232
+
+Le juge prononce le divorce s'il a acquis la conviction que la volonté de chacun des époux est réelle et que chacun d'eux a
+donné librement son accord. Il homologue, par la même décision, la convention réglant les conséquences du divorce.
+
+Il peut refuser l'homologation et ne pas prononcer le divorce s'il constate que la convention préserve insuffisamment les
+intérêts des enfants ou de l'un des époux.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+
+	**Cité par**:
+
+	  - Code civil - art. 246 (M)
+	  - Code civil - art. 250-1 (V)
+	  - Code général des impôts, CGI. - art. 862 (V)
+
+
+##### Paragraphe 1 : Du divorce sur demande conjointe des époux.
+
+###### Article 231
+
+Le juge examine la demande avec chacun des époux, puis les réunit. Il appelle ensuite le ou les avocats.
+
+Si les époux persistent en leur intention de divorcer, le juge leur indique que leur demande doit être renouvelée après un
+délai de réflexion de trois mois.
+
+A défaut de renouvellement dans les six mois qui suivent l'expiration de ce délai de réflexion, la demande conjointe sera
+caduque.
+
+**Nota:**
+
+NOTA : La loi 2004-439 du 26 mai 2004 entrera en vigueur le 1er janvier 2005 sauf pour les exceptions citées par l'article 33
+II.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+
+	**Abrogé par**:
+
+	  - Loi n°2004-439 du 26 mai 2004 - art. 23 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
+
+	**Cité par**:
+
+	  - Code civil - art. 246 (M)
+	  - Nouveau code de procédure civile - art. 1095 (Ab)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+##### Paragraphe 2 : Du divorce demandé par un époux et accepté par l'autre.
+
+###### Article 233
+
+L'un des époux peut demander le divorce en faisant état d'un ensemble de faits, procédant de l'un et de l'autre, qui rendent
+intolérable le maintien de la vie commune.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+
+	**Cité par**:
+
+	  - Décret n°2014-945 du 21 août 2014 - art. 1 (VT)
+	  - Code civil - art. 253 (V)
+	  - Code civil - art. 254 (M)
+	  - Code civil - art. 257-1 (V)
+	  - Code de procédure civile - art. 1123 (V)
+	  - Nouveau code de procédure civile - art. 1129 (M)
+
+
+###### Article 234
+
+Si l'autre époux reconnaît les faits devant le juge, celui-ci prononce le divorce sans avoir à statuer sur la répartition des
+torts. Le divorce ainsi prononcé produit les effets d'un divorce aux torts partagés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+
+
+###### Article 235
+
+Si l'autre époux ne reconnaît pas les faits, le juge ne prononce pas le divorce.
+
+**Nota:**
+
+Nota : La loi 2004-439 du 26 mai 2004 entrera en vigueur le 1er janvier 2005 sauf pour les exceptions citées par l'article 33
+II.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+
+	**Abrogé par**:
+
+	  - Loi n°2004-439 du 26 mai 2004 - art. 23 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
+
+
+###### Article 236
+
+Les déclarations faites par les époux ne peuvent être utilisées comme moyen de preuve dans aucune autre action en justice.
+
+**Nota:**
+
+Nota : La loi 2004-439 du 26 mai 2004 entrera en vigueur le 1er janvier 2005 sauf pour les exceptions citées par l'article 33
+II.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+
+	**Abrogé par**:
+
+	  - Loi n°2004-439 du 26 mai 2004 - art. 23 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
+
+
+#### Section 2 : Du divorce pour rupture de la vie commune.
+
+###### Article 237
+
+Un époux peut demander le divorce, en raison d'une rupture prolongée de la vie commune, lorsque les époux vivent séparés de
+fait depuis six ans.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°50-1225 du 21 septembre 1950 - art. 62-1 (M)
+	  - Décret n°51-727 du 6 juin 1951 - art. 2 (Ab)
+	  - Décret n°55-753 du 31 mai 1955 - art. 40 (T)
+	  - Décret n°55-753 du 31 mai 1955 - art. 57 (T)
+	  - Décret n°55-753 du 31 mai 1955 - art. 62 (Ab)
+	  - Loi n°75-618 du 11 juillet 1975 - art. 16 (Ab)
+	  - Décret n°77-1194 du 20 octobre 1977 - art. 1 (Ab)
+	  - Décret n°2014-945 du 21 août 2014 - art. 1 (VT)
+	  - Code civil - art. 261-1 (Ab)
+	  - Code civil - art. 264 (M)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+
+
+###### Article 238
+
+Il en est de même lorsque les facultés mentales du conjoint se trouvent, depuis six ans, si gravement altérées qu'aucune
+communauté de vie ne subsiste plus entre les époux et ne pourra, selon les prévisions les plus raisonnables, se reconstituer
+dans l'avenir.
+
+Le juge peut rejeter d'office cette demande, sous réserve des dispositions de l'article 240, si le divorce risque d'avoir des
+conséquences trop graves sur la maladie du conjoint.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Cité par**:
+
+	  - Loi n°1928-03-30 du 30 mars 1928 - art. 2 septies (V)
+	  - Loi n°1930-08-24 du 24 août 1930 - art. 7 (V)
+	  - Décret n°50-1225 du 21 septembre 1950 - art. 62-1 (M)
+	  - Décret n°51-727 du 6 juin 1951 - art. 2 (Ab)
+	  - Décret n°55-753 du 31 mai 1955 - art. 40 (T)
+	  - Décret n°55-753 du 31 mai 1955 - art. 57 (T)
+	  - Décret n°55-753 du 31 mai 1955 - art. 62 (Ab)
+	  - Loi n°75-618 du 11 juillet 1975 - art. 16 (Ab)
+	  - Décret n°77-1194 du 20 octobre 1977 - art. 1 (Ab)
+	  - Loi n°2004-439 du 26 mai 2004 - art. 33 (V)
+	  - Code civil - art. 240 (Ab)
+	  - Code civil - art. 252 (M)
+	  - Code civil - art. 261-1 (Ab)
+	  - Code civil - art. 264 (M)
+	  - Code civil - art. 281 (M)
+	  - Code de procédure civile - art. 1126 (V)
+	  - Nouveau code de procédure civile - art. 1120 (M)
+	  - Nouveau code de procédure civile - art. 1124 (M)
+
+	**Créé par**:
+
+	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+
+
+###### Article 239
+
+L'époux qui demande le divorce pour rupture de la vie commune en supporte toutes les charges. Dans sa demande il doit
+préciser les moyens par lesquels il exécutera ses obligations à l'égard de son conjoint et des enfants.
+
+**Nota:**
+
+Nota : La loi 2004-439 du 26 mai 2004 entrera en vigueur le 1er janvier 2005 sauf pour les exceptions citées par l'article 33
+II.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°50-1225 du 21 septembre 1950 - art. 62-1 (M)
+	  - Décret n°51-727 du 6 juin 1951 - art. 2 (Ab)
+	  - Décret n°55-753 du 31 mai 1955 - art. 40 (T)
+	  - Décret n°55-753 du 31 mai 1955 - art. 57 (T)
+	  - Décret n°55-753 du 31 mai 1955 - art. 62 (Ab)
+	  - Loi n°75-618 du 11 juillet 1975 - art. 16 (Ab)
+	  - Décret n°77-1194 du 20 octobre 1977 - art. 1 (Ab)
+	  - Code de procédure civile - art. 1136-2 (VD)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+
+	**Abrogé par**:
+
+	  - Loi n°2004-439 du 26 mai 2004 - art. 23 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
+
+
+###### Article 240
+
+Si l'autre époux établit que le divorce aurait, soit pour lui, compte tenu notamment de son âge et de la durée du mariage,
+soit pour les enfants, des conséquences matérielles ou morales d'une exceptionnelle dureté, le juge rejette la demande.
+
+Il peut même la rejeter d'office dans le cas prévu à l'article 238.
+
+**Nota:**
+
+Nota : La loi 2004-439 du 26 mai 2004 entrera en vigueur le 1er janvier 2005 sauf pour les exceptions citées par l'article 33
+II.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°1928-03-30 du 30 mars 1928 - art. 2 septies (V)
+	  - Loi n°1930-08-24 du 24 août 1930 - art. 7 (V)
+	  - Décret n°50-1225 du 21 septembre 1950 - art. 62-1 (M)
+	  - Décret n°51-727 du 6 juin 1951 - art. 2 (Ab)
+	  - Décret n°55-753 du 31 mai 1955 - art. 40 (T)
+	  - Décret n°55-753 du 31 mai 1955 - art. 57 (T)
+	  - Décret n°55-753 du 31 mai 1955 - art. 62 (Ab)
+	  - Loi n°75-618 du 11 juillet 1975 - art. 16 (Ab)
+	  - Décret n°77-1194 du 20 octobre 1977 - art. 1 (Ab)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+
+	**Abrogé par**:
+
+	  - Loi n°2004-439 du 26 mai 2004 - art. 23 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
+
+	**Cite**:
+
+	  - Code civil - art. 238 (M)
+
+
+###### Article 241
+
+La rupture de la vie commune ne peut être invoquée comme cause du divorce que par l'époux qui présente la demande initiale,
+appelée demande principale.
+
+L'autre époux peut alors présenter une demande, appelée demande reconventionnelle, invoquant les torts de celui qui a pris
+l'initiative. Cette demande reconventionnelle ne peut tendre qu'au divorce et non à la séparation de corps. Si le juge
+l'admet, il rejette la demande principale et prononce le divorce aux torts de l'époux qui en a pris l'initiative.
+
+**Nota:**
+
+Nota : La loi 2004-439 du 26 mai 2004 entrera en vigueur le 1er janvier 2005 sauf pour les exceptions citées par l'article 33
+II.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°50-1225 du 21 septembre 1950 - art. 62-1 (M)
+	  - Décret n°51-727 du 6 juin 1951 - art. 2 (Ab)
+	  - Décret n°55-753 du 31 mai 1955 - art. 40 (T)
+	  - Décret n°55-753 du 31 mai 1955 - art. 57 (T)
+	  - Décret n°55-753 du 31 mai 1955 - art. 62 (Ab)
+	  - Décret n°77-1194 du 20 octobre 1977 - art. 1 (Ab)
+	  - Loi n°75-618 du 11 juillet 1975 - art. 16 (Ab)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+
+	**Abrogé par**:
+
+	  - Loi n°2004-439 du 26 mai 2004 - art. 23 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
+
+
+#### Section 3 : Du divorce pour faute.
+
+###### Article 242
+
+Le divorce peut être demandé par un époux pour des faits imputables à l'autre lorsque ces faits constituent une violation
+grave ou renouvelée des devoirs et obligations du mariage et rendent intolérable le maintien de la vie commune.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+
+	**Cité par**:
+
+	  - Décret n°2014-945 du 21 août 2014 - art. 1 (VT)
+
+
+###### Article 243
+
+Il peut être demandé par un époux lorsque l'autre a été condamné à l'une des peines prévues par l'article 7 du code pénal en
+matière criminelle.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+
+	**Cite**:
+
+	  - Code pénal 7
+
+
+###### Article 244
+
+La réconciliation des époux intervenue depuis les faits allégués empêche de les invoquer comme cause de divorce.
+
+Le juge déclare alors la demande irrecevable. Une nouvelle demande peut cependant être formée en raison de faits survenus ou
+découverts depuis la réconciliation, les faits anciens pouvant alors être rappelés à l'appui de cette nouvelle demande.
+
+Le maintien ou la reprise temporaire de la vie commune ne sont pas considérés comme une réconciliation s'ils ne résultent que
+de la nécessité ou d'un effort de conciliation ou des besoins de l'éducation des enfants.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+
+
+###### Article 245
+
+Les fautes de l'époux qui a pris l'initiative du divorce n'empêchent pas d'examiner sa demande ; elles peuvent, cependant,
+enlever aux faits qu'il reproche à son conjoint le caractère de gravité qui en aurait fait une cause de divorce.
+
+Ces fautes peuvent aussi être invoquées par l'autre époux à l'appui d'une demande reconventionnelle en divorce. Si les deux
+demandes sont accueillies, le divorce est prononcé aux torts partagés.
+
+Même en l'absence de demande reconventionnelle, le divorce peut être prononcé aux torts partagés des deux époux si les débats
+font apparaître des torts à la charge de l'un et de l'autre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 1136-2 (VD)
+
+
+#### Section 3 : Du divorce pour faute.
+
+###### Article 246
+
+Lorsque le divorce aura été demandé en application des articles 233 à 245, les époux pourront, tant qu'aucune décision sur le
+fond n'aura été rendue, demander au tribunal de constater leur accord et d'homologuer le projet de convention réglant les
+conséquences du divorce.
+
+Les dispositions des articles 231 et 232 seront alors applicables.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+
+	**Cité par**:
+
+	  - Loi n°2004-439 du 26 mai 2004 - art. 33 (V)
+	  - Code civil - art. 238 (V)
+
+	**Cite**:
+
+	  - Code civil - art. 231 (Ab)
+	  - Code civil - art. 232 (M)
+	  - Code civil 231, 232, 233 à 245
+
+
+### Chapitre II : De la procédure du divorce
+
+#### Section 1 : Dispositions générales.
+
+###### Article 247
+
+Le tribunal de grande instance statuant en matière civile est seul compétent pour se prononcer sur le divorce et ses
+conséquences.
+
+Un juge de ce tribunal est délégué aux affaires matrimoniales. Il est plus spécialement chargé de veiller à la sauvegarde des
+intérêts des enfants mineurs.
+
+Le juge aux affaires matrimoniales a compétence exclusive pour prononcer le divorce lorsqu'il est demandé par consentement
+mutuel.
+
+Il est également seul compétent pour statuer, après le prononcé du divorce, quelle qu'en soit la cause, sur la garde des
+enfants et la modification de la pension alimentaire. Il statue alors sans formalité et peut être saisi par les parties
+intéressées sur simple requête.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+
+	**Cité par**:
+
+	  - Loi n°2004-439 du 26 mai 2004 - art. 33 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L312-1 (M)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R311-29-3 (Ab)
+	  - Code de procédure civile - art. 1077 (VD)
+	  - Nouveau code de procédure civile - art. 1074 (M)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L312-1 (V)
+	  - Code civil - art. 228 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 248-1
+
+En cas de divorce pour faute, et à la demande des conjoints, le tribunal peut se limiter à constater dans les motifs du
+jugement qu'il existe des faits constituant une cause de divorce, sans avoir à énoncer les torts et griefs des parties.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 245-1 (V)
+
+
+#### Section 1 : Dispositions générales
+
+###### Article 248
+
+Les débats sur la cause, les conséquences du divorce et les mesures provisoires ne sont pas publics.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+
+
+###### Article 249
+
+Si une demande en divorce doit être formée au nom d'un majeur en tutelle, elle est présentée par le tuteur avec
+l'autorisation du conseil de famille, après avis du médecin traitant.
+
+Le majeur en curatelle exerce l'action lui-même avec l'assistance du curateur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+
+
+###### Article 249-1
+
+Si l'époux contre lequel la demande est formée est en tutelle, l'action est exercée contre le tuteur ; s'il est en curatelle,
+il se défend lui-même, avec l'assistance du curateur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+
+
+###### Article 249-2
+
+Un tuteur ou un curateur spécial est nommé lorsque la tutelle ou la curatelle avait été confiée au conjoint de l'incapable.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+
+
+###### Article 249-3
+
+Si l'un des époux se trouve placé sous la sauvegarde de justice, la demande en divorce ne peut être examinée qu'après
+organisation de la tutelle ou de la curatelle.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+
+
+###### Article 249-4
+
+Lorsque l'un des époux se trouve placé sous l'un des régimes de protection prévus à l'article 490 ci-dessous, aucune demande
+en divorce par consentement mutuel ne peut être présentée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+
+	**Cite**:
+
+	  - Code civil - art. 490 (AbD)
+
+
+###### Article 250
+
+En cas d'interdiction légale résultant d'une condamnation, l'action en divorce ne peut être exercée par le tuteur qu'avec
+l'autorisation de l'époux interdit.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 1099 (V)
+
+
+#### Section 2 : De la conciliation.
+
+###### Article 251
+
+Quand le divorce est demandé pour rupture de la vie commune ou pour faute, une tentative de conciliation est obligatoire
+avant l'instance judiciaire. Elle peut être renouvelée pendant l'instance.
+
+Quand le divorce est demandé par consentement mutuel des époux, une conciliation peut être tentée en cours d'instance suivant
+les règles de procédure propres à ce cas de divorce.
+
+**Nota:**
+
+NOTA : La loi 2004-439 du 26 mai 2004 entrera en vigueur le 1er janvier 2005 sauf pour les exceptions citées par l'article 33
+II.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°65-422 du 1 juin 1965 - art. 12 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+
+	**Transféré par**:
+
+	  - Loi n°2004-439 du 26 mai 2004 - art. 6 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 252 (M)
+	  - Code civil - art. 252 (V)
+
+
+###### Article 252
+
+Lorsque le juge cherche à concilier les époux, il doit s'entretenir personnellement avec chacun d'eux séparément avant de les
+réunir en sa présence.
+
+Les avocats doivent ensuite, si les époux le demandent, être appelées à assister et à participer à l'entretien.
+
+Dans le cas de l'article 238, et dans le cas où l'époux contre lequel la demande est formée ne se présente pas devant le
+juge, celui-ci doit néanmoins s'entretenir avec l'autre conjoint et l'inviter à la réflexion.
+
+**Nota:**
+
+NOTA : La loi 2004-439 du 26 mai 2004 entrera en vigueur le 1er janvier 2005 sauf pour les exceptions citées par l'article 33
+II.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+
+	**Transféré par**:
+
+	  - Loi n°2004-439 du 26 mai 2004 - art. 6 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
+
+	**Cite**:
+
+	  - Code civil - art. 238 (M)
+
+	**Anciens textes**:
+
+	  - Code civil - art. 251 (M)
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 252-1 (M)
+	  - Code civil - art. 252-1 (V)
+
+	**Cité par**:
+
+	  - Code civil - art. 254 (V)
+	  - Code de procédure civile - art. 1108 (V)
+
+
+###### Article 252-1
+
+La tentative de conciliation peut être suspendue et reprise sans formalité, en ménageant aux époux des temps de réflexion
+dans une limite de huit jours.
+
+Si un plus long délai paraît utile, le juge peut décider de suspendre la procédure et de recourir à une nouvelle tentative de
+conciliation dans les six mois au plus. Il ordonne, s'il y a lieu, les mesures provisoires nécessaires.
+
+**Nota:**
+
+NOTA : La loi 2004-439 du 26 mai 2004 entrera en vigueur le 1er janvier 2005 sauf pour les exceptions citées par l'article 33
+II.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+
+	**Transféré par**:
+
+	  - Loi n°2004-439 du 26 mai 2004 - art. 6 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
+
+	**Anciens textes**:
+
+	  - Code civil - art. 252 (M)
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 252-2 (M)
+	  - Code civil - art. 252-2 (V)
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 1110 (V)
+	  - Nouveau code de procédure civile - art. 1111 (M)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 252-3
+
+Ce qui a été dit ou écrit à l'occasion d'une tentative de conciliation, sous quelque forme qu'elle ait eu lieu, ne pourra pas
+être invoqué pour ou contre un époux ou un tiers dans la suite de la procédure.
+
+**Nota:**
+
+NOTA : La loi 2004-439 du 26 mai 2004 entrera en vigueur le 1er janvier 2005 sauf pour les exceptions citées par l'article 33
+II.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+
+	**Transféré par**:
+
+	  - Loi n°2004-439 du 26 mai 2004 - art. 6 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
+
+	**Anciens textes**:
+
+	  - Code civil - art. 252-2 (M)
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 252-4 (V)
+
+
+#### Section 2 : De la conciliation.
+
+###### Article 252-2
+
+Lorsqu'il ne parvient pas à les faire renoncer au divorce, le juge essaye d'amener les époux à en régler les conséquences à
+l'amiable, notamment, en ce qui concerne les enfants, par des accords dont le tribunal pourra tenir compte dans son jugement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+
+	**Anciens textes**:
+
+	  - Code civil - art. 252-1 (M)
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 252-3 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+#### Section 3 : Des mesures provisoires.
+
+###### Article 253
+
+En cas de divorce sur demande conjointe, les époux règlent eux-mêmes les mesures provisoires dans la convention temporaire
+qui doit être annexée à leur requête initiale.
+
+Toutefois, le juge pourra faire supprimer ou modifier les clauses de cette convention qui lui paraîtraient contraires à
+l'intérêt des enfants.
+
+**Nota:**
+
+NOTA : La loi 2004-439 du 26 mai 2004 entrera en vigueur le 1er janvier 2005 sauf pour les exceptions citées par l'article 33
+II.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+
+
+###### Article 254
+
+Lors de la comparution des époux dans le cas visé à l'article 233, ou de l'ordonnance de non-conciliation dans les autres
+cas, le juge prescrit les mesures qui sont nécessaires pour assurer l'existence des époux et des enfants jusqu'à la date à
+laquelle le jugement prend force de chose jugée.
+
+**Nota:**
+
+NOTA : La loi 2004-439 du 26 mai 2004 entrera en vigueur le 1er janvier 2005 sauf pour les exceptions citées par l'article 33
+II.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+
+	**Cite**:
+
+	  - Code civil - art. 233 (M)
+
+	**Cité par**:
+
+	  - Code civil - art. 249-3 (V)
+	  - Code civil - art. 250-2 (V)
+	  - Code de procédure civile - art. 1111 (V)
+
+
+###### Article 255
+
+Le juge peut notamment :
+
+1° Autoriser les époux à résider séparément ;
+
+2° Attribuer à l'un d'eux la jouissance du logement et du mobilier du ménage, ou partager entre eux cette jouissance ;
+
+3° Ordonner la remise des vêtements et objets personnels ;
+
+4° Fixer la pension alimentaire et la provision pour frais d'instance que l'un des époux devra verser à son conjoint ;
+
+5° Accorder à l'un des conjoints des provisions sur sa part de communauté si la situation le rend nécessaire.
+
+**Nota:**
+
+NOTA : La loi 2004-439 du 26 mai 2004 entrera en vigueur le 1er janvier 2005 sauf pour les exceptions citées par l'article 33
+II.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+
+	**Cité par**:
+
+	  - Décret n°78-262 du 8 mars 1978 - art. 5-1 (Ab)
+	  - Loi n°88-1088 du 1 décembre 1988 - art. 23 (Ab)
+	  - Décret n°91-1266 du 19 décembre 1991 - art. 95 (V)
+	  - Arrêté du 19 mars 2012 - art. (V)
+	  - Décret n°2016-230 du 26 février 2016 - art.
+	  - Décret n°2016-230 du 26 février 2016 - art. 2
+	  - Arrêté du 28 octobre 2016 - art. 5
+	  - Code civil - art. 249-3 (V)
+	  - Code civil - art. 250-2 (V)
+	  - Code civil - art. 252-3 (V)
+	  - Code civil - art. 259-3 (V)
+	  - Code civil - art. 267 (VD)
+	  - Code de commerce - art. A444-83 (V)
+	  - Code de commerce - art. R444-60 (V)
+	  - Code de l'action sociale et des familles - art. L262-10 (VD)
+	  - Code de l'action sociale et des familles - art. L262-35 (V)
+	  - Code de la sécurité sociale. - art. L524-4 (VT)
+	  - Code de procédure civile - art. 1071 (V)
+	  - Code de procédure civile - art. 1074-1 (V)
+	  - Code de procédure civile - art. 1108 (V)
+	  - Code de procédure civile - art. 1120 (V)
+	  - Code de procédure civile - art. 1121 (VD)
+	  - Code de procédure civile - art. 1136-2 (VD)
+	  - Nouveau code de procédure civile - art. 1136-1 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 257
+
+Le juge peut prendre, dès la requête initiale, des mesures d'urgence.
+
+Il peut, à ce titre, autoriser l'époux demandeur à résider séparément, s'il y a lieu avec ses enfants mineurs.
+
+Il peut aussi, pour la garantie des droits d'un époux, ordonner toutes mesures conservatoires telles que l'apposition de
+scellés sur les biens communs. Les dispositions de l'article 220-1 et les autres sauvegardes instituées par le régime
+matrimonial demeurent cependant applicables.
+
+**Nota:**
+
+NOTA : La loi 2004-439 du 26 mai 2004 entrera en vigueur le 1er janvier 2005 sauf pour les exceptions citées par l'article 33
+II.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+
+	**Cité par**:
+
+	  - Arrêté du 29 juillet 1987 - art. 4 (M)
+	  - Ordonnance n°2010-590 du 3 juin 2010 - art. 11 (V)
+	  - Code civil - art. 249-3 (V)
+	  - Code de la construction et de l'habitation. - art. L441-1 (V)
+	  - Code de procédure civile - art. 1107 (V)
+	  - Code de procédure civile - art. 1121-1 (V)
+
+	**Cite**:
+
+	  - Code civil - art. 220-1 (M)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+#### Section 3 : Des mesures provisoires.
+
+###### Article 256
+
+S'il y a des enfants mineurs, le juge se prononce sur leur garde, ainsi que sur le droit de visite et d'hébergement. Il fixe
+la contribution due, pour leur entretien et leur éducation, par l'époux qui n'a pas la garde.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+
+	**Cité par**:
+
+	  - Ordonnance n°2010-590 du 3 juin 2010 - art. 11 (V)
+
+
+###### Article 258
+
+Lorsqu'il rejette définitivement la demande en divorce, le juge peut statuer sur la contribution aux charges du mariage, la
+résidence de la famille et la garde des enfants mineurs.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+
+	**Cité par**:
+
+	  - Nouveau code de procédure civile - art. 1073 (M)
+
+
+#### Section 4 : Des preuves.
+
+###### Article 259
+
+Les faits invoqués en tant que causes de divorce ou comme défenses à une demande peuvent être établis par tout mode de
+preuve, y compris l'aveu.
+
+**Nota:**
+
+NOTA : La loi 2004-439 du 26 mai 2004 entrera en vigueur le 1er janvier 2005 sauf pour les exceptions citées par l'article 33
+II.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+
+
+###### Article 259-1
+
+Un époux ne peut verser aux débats les lettres échangées entre son conjoint et un tiers qu'il aurait obtenues par violence ou
+fraude.
+
+**Nota:**
+
+NOTA : La loi 2004-439 du 26 mai 2004 entrera en vigueur le 1er janvier 2005 sauf pour les exceptions citées par l'article 33
+II.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+
+
+###### Article 259-2
+
+Les constats dressés à la demande d'un époux sont écartés des débats s'il y a eu violation de domicile ou atteinte illicite à
+l'intimité de la vie privée.
+
+**Nota:**
+
+NOTA : La loi 2004-439 du 26 mai 2004 entrera en vigueur le 1er janvier 2005 sauf pour les exceptions citées par l'article 33
+II.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+
+
+###### Article 259-3
+
+Les époux doivent se communiquer et communiquer au juge ainsi qu'aux experts désignés par lui, tous renseignements et
+documents utiles pour fixer les prestations et pensions et liquider le régime matrimonial.
+
+Le juge peut faire procéder à toutes recherches utiles auprès des débiteurs ou de ceux qui détiennent des valeurs pour le
+compte des époux sans que le secret professionnel puisse être opposé.
+
+**Nota:**
+
+NOTA : La loi 2004-439 du 26 mai 2004 entrera en vigueur le 1er janvier 2005 sauf pour les exceptions citées par l'article 33
+II.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+
+
+### Chapitre III : Des conséquences du divorce
+
+#### Section 1 : De la date à laquelle se produisent les effets du divorce
+
+###### Article 260
+
+La décision qui prononce le divorce dissout le mariage à la date à laquelle elle prend force de chose jugée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+
+
+###### Article 261
+
+Pour contracter un nouveau mariage, la femme doit observer le délai de trois cents jours prévu par l'article 228.
+
+**Nota:**
+
+NOTA : La loi 2004-439 du 26 mai 2004 entrera en vigueur le 1er janvier 2005 sauf pour les exceptions citées par l'article 33
+II.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+
+	**Abrogé par**:
+
+	  - Loi n°2004-439 du 26 mai 2004 - art. 23 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
+
+	**Cite**:
+
+	  - Code civil - art. 228 (Ab)
+
+
+###### Article 261-1
+
+Si les époux ont été autorisés à résider séparément au cours du procès, ce délai commence à courir à partir du jour de la
+décision autorisant la résidence séparée ou homologuant, en cas de demande conjointe, la convention temporaire passée à ce
+sujet.
+
+La femme peut se remarier sans délai quand le divorce a été prononcé dans les cas prévus aux articles 237 et 238.
+
+**Nota:**
+
+NOTA : La loi 2004-439 du 26 mai 2004 entrera en vigueur le 1er janvier 2005 sauf pour les exceptions citées par l'article 33
+II.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+
+	**Abrogé par**:
+
+	  - Loi n°2004-439 du 26 mai 2004 - art. 23 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
+
+	**Cite**:
+
+	  - Code civil - art. 237 (M)
+	  - Code civil - art. 238 (M)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 261-2
+
+Le délai prend fin si un accouchement a lieu après la décision autorisant ou homologuant la résidence séparée ou, à défaut,
+après la date à laquelle le jugement de divorce a pris force de chose jugée.
+
+Si le mari meurt, avant que le jugement de divorce n'ait pris force de chose jugée, le délai court à compter de la décision
+autorisant ou homologuant la résidence séparée.
+
+**Nota:**
+
+NOTA : La loi 2004-439 du 26 mai 2004 entrera en vigueur le 1er janvier 2005 sauf pour les exceptions citées par l'article 33
+II.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+
+	**Abrogé par**:
+
+	  - Loi n°2004-439 du 26 mai 2004 - art. 23 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
+
+
+###### Article 262
+
+Le jugement de divorce est opposable aux tiers, en ce qui concerne les biens des époux, à partir du jour où les formalités de
+mention en marge prescrites par les règles de l'état civil ont été accomplies.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+
+	**Cité par**:
+
+	  - Code civil - art. 302 (V)
+	  - Code de procédure civile - art. 1104 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 262-1
+
+Le jugement de divorce prend effet dans les rapports entre époux, en ce qui concerne leurs biens, dès la date d'assignation.
+
+L'un des époux peut demander que l'effet du jugement soit avancé à la date où, par la faute de l'autre, leur cohabitation et
+leur collaboration ont cessé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+
+
+###### Article 262-2
+
+Toute obligation contractée par l'un des époux à la charge de la communauté, toute aliénation de biens communs faite par l'un
+d'eux dans la limite de ses pouvoirs, postérieurement à la requête initiale, sera déclarée nulle, s'il est prouvé qu'il y a
+eu fraude aux droits de l'autre conjoint.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+
+
+#### Section 2 : Des conséquences du divorce pour les époux
+
+##### Paragraphe 1 : Dispositions générales.
+
+###### Article 263
+
+Si les époux divorcés veulent contracter entre eux une autre union, une nouvelle célébration du mariage est nécessaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+
+
+###### Article 264
+
+A la suite du divorce, chacun des époux reprend l'usage de son nom.
+
+Toutefois, dans les cas prévus aux articles 237 et 238, la femme a le droit de conserver l'usage du nom du mari lorsque le
+divorce a été demandé par celui-ci.
+
+Dans les autres cas, la femme pourra conserver l'usage du nom du mari soit avec l'accord de celui-ci, soit avec
+l'autorisation du juge, si elle justifie qu'un intérêt particulier s'y attache pour elle-même ou pour les enfants.
+
+**Nota:**
+
+NOTA : La loi 2004-439 du 26 mai 2004 entrera en vigueur le 1er janvier 2005 sauf pour les exceptions citées par l'article 33
+II.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+
+	**Cité par**:
+
+	  - Loi n°75-617 du 11 juillet 1975 - art. 24 (V)
+
+	**Cite**:
+
+	  - Code civil - art. 237 (M)
+	  - Code civil - art. 238 (M)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 265
+
+Le divorce est réputé prononcé contre un époux s'il a eu lieu à ses torts exclusifs. Il est aussi réputé prononcé contre
+l'époux qui a pris l'initiative du divorce lorsqu'il a été obtenu en raison de la rupture de la vie commune.
+
+L'époux contre lequel le divorce est prononcé perd les droits que la loi ou des conventions passées avec des tiers attribuent
+au conjoint divorcé.
+
+Ces droits ne sont pas perdus en cas de partage des torts ou de divorce par consentement mutuel.
+
+**Nota:**
+
+NOTA : La loi 2004-439 du 26 mai 2004 entrera en vigueur le 1er janvier 2005 sauf pour les exceptions citées par l'article 33
+II.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+
+	**Cité par**:
+
+	  - Code civil - art. 1518 (V)
+	  - Code civil - art. 301 (M)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+##### Paragraphe 3 : Des prestations compensatoires.
+
+###### Article 270
+
+Sauf lorsqu'il est prononcé en raison de la rupture de la vie commune, le divorce met fin au devoir de secours prévu par
+l'article 212 du code civil ; mais l'un des époux peut être tenu de verser à l'autre une prestation destinée à compenser,
+autant qu'il est possible, la disparité que la rupture du mariage crée dans les conditions de vie respectives.
+
+**Nota:**
+
+NOTA : La loi 2004-439 du 26 mai 2004 entrera en vigueur le 1er janvier 2005 sauf pour les exceptions citées par l'article 33
+II.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+
+	**Cité par**:
+
+	  - Loi n°88-1088 du 1 décembre 1988 - art. 23 (Ab)
+	  - Décret n°2015-1709 du 21 décembre 2015 - art. 1
+	  - Code civil - art. 266 (V)
+	  - Code de l'action sociale et des familles - art. L262-10 (VD)
+	  - Code de l'action sociale et des familles - art. L262-35 (V)
+	  - Code de l'action sociale et des familles - art. R245-47 (V)
+	  - Code de la sécurité sociale. - art. L524-4 (VT)
+	  - Code de la sécurité sociale. - art. R844-2 (V)
+
+	**Cite**:
+
+	  - Code civil - art. 212 (M)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+#### Section 2 : Des conséquences du divorce pour les époux.
+
+##### Paragraphe 2 : Des suites propres aux différents cas de divorce.
+
+###### Article 266
+
+Quand le divorce est prononcé aux torts exclusifs de l'un des époux, celui-ci peut être condamné à des dommages-intérêts en
+réparation du préjudice matériel ou moral que la dissolution du mariage fait subir à son conjoint.
+
+Ce dernier ne peut demander des dommages-intérêts qu'à l'occasion de l'action en divorce.
+
+**Nota:**
+
+NOTA : La loi 2004-439 du 26 mai 2004 entrera en vigueur le 1er janvier 2005 sauf pour les exceptions citées par l'article 33
+II.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+
+
+###### Article 267
+
+Quand le divorce est prononcé aux torts exclusifs de l'un des époux, celui-ci perd de plein droit toutes les donations et
+tous les avantages matrimoniaux que son conjoint lui avait consentis, soit lors du mariage, soit après.
+
+L'autre conjoint conserve les donations et avantages qui lui avaient été consentis, encore qu'ils aient été stipulés
+réciproques et que la réciprocité n'ait pas lieu.
+
+**Nota:**
+
+NOTA : La loi 2004-439 du 26 mai 2004 entrera en vigueur le 1er janvier 2005 sauf pour les exceptions citées par l'article 33
+II.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 1116 (V)
+	  - Code de procédure civile - art. 1136-2 (V)
+	  - Code de procédure civile - art. 1136-3 (Ab)
+
+
+###### Article 267-1
+
+Quand le divorce est prononcé aux torts partagés, chacun des époux peut révoquer tout ou partie des donations et avantages
+qu'il avait consentis à l'autre.
+
+**Nota:**
+
+NOTA : La loi 2004-439 du 26 mai 2004 entrera en vigueur le 1er janvier 2005 sauf pour les exceptions citées par l'article 33
+II.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+
+	**Cité par**:
+
+	  - Loi n°2004-439 du 26 mai 2004 - art. 31 (V)
+	  - Code de procédure civile - art. 1136-3 (Ab)
+
+
+###### Article 268
+
+Quand le divorce est prononcé sur demande conjointe, les époux décident eux-mêmes du sort des donations et avantages qu'ils
+s'étaient consentis ; s'ils n'ont rien décidé à cet égard, ils sont censés les avoir maintenus.
+
+**Nota:**
+
+NOTA : La loi 2004-439 du 26 mai 2004 entrera en vigueur le 1er janvier 2005 sauf pour les exceptions citées par l'article 33
+II.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+
+	**Cité par**:
+
+	  - Code civil - art. 1518 (M)
+	  - Code civil - art. 279-1 (V)
+
+
+###### Article 268-1
+
+Quand le divorce est prononcé sur demande acceptée par l'autre conjoint, chacun des époux peut révoquer tout ou partie des
+donations et avantages qu'il avait consentis à l'autre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+
+	**Abrogé par**:
+
+	  - Loi n°2004-439 du 26 mai 2004 - art. 23 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
+
+
+###### Article 269
+
+Quand le divorce est prononcé en raison de la rupture de la vie commune, celui qui a pris l'initiative du divorce perd de
+plein droit les donations et avantages que son conjoint lui avait consentis.
+
+L'autre époux conserve les siens.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+
+	**Abrogé par**:
+
+	  - Loi n°2004-439 du 26 mai 2004 - art. 23 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
+
+
+##### Paragraphe 3 : Des prestations compensatoires.
+
+###### Article 271
+
+La prestation compensatoire est fixée selon les besoins de l'époux à qui elle est versée et les ressources de l'autre en
+tenant compte de la situation au moment du divorce et de l'évolution de celle-ci dans un avenir prévisible.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+
+	**Cité par**:
+
+	  - Code civil - art. 270 (V)
+	  - Code civil - art. 276 (V)
+	  - Nouveau code de procédure civile - art. 1075-1 (M)
+
+
+###### Article 272
+
+Dans la détermination des besoins et des ressources, le juge prend en considération notamment :
+
+- l'âge et l'état de santé des époux ;
+
+- le temps déjà consacré ou qu'il leur faudra consacrer à l'éducation des enfants ;
+
+- leurs qualifications professionnelles ;
+
+- leur disponibilité pour de nouveaux emplois ;
+
+- leurs droits existants et prévisibles ;
+
+- la perte éventuelle de leurs droits en matière de pensions de réversion ;
+
+- leur patrimoine, tant en capital qu'en revenu, après la liquidation du régime matrimonial.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code civil - art. 271 (M)
+
+	**Cité par**:
+
+	  - Code civil - art. 276 (M)
+	  - Code de procédure civile - art. 1075-1 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+
+
+###### Article 273
+
+La prestation compensatoire a un caractère forfaitaire. Elle ne peut être révisée même en cas de changement imprévu dans les
+ressources ou les besoins des parties, sauf si l'absence de révision devait avoir pour l'un des conjoints des conséquences
+d'une exceptionnelle gravité.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 1136-2 (VD)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+
+
+###### Article 274
+
+Lorsque la consistance des biens de l'époux débiteur de la prestation compensatoire le permet, celle-ci prend la forme d'un
+capital.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+
+	**Cité par**:
+
+	  - Code civil - art. 275 (V)
+	  - Code civil - art. 275-1 (V)
+	  - Code civil - art. 276 (V)
+	  - Code civil - art. 276-4 (V)
+	  - Code civil - art. 303 (V)
+	  - Code de procédure civile - art. 1080 (V)
+	  - Code général des impôts, CGI. - art. 1133 ter (V)
+	  - Code général des impôts, CGI. - art. 199 octodecies (VD)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 275
+
+Le juge décide des modalités selon lesquelles s'exécutera l'attribution ou l'affectation de biens en capital :
+
+1. Versement d'une somme d'argent ;
+
+2. Abandon de biens en nature, meubles ou immeubles, mais pour l'usufruit seulement, le jugement opérant cession forcée en
+faveur du créancier ;
+
+3. Dépôt de valeurs productives de revenus entre les mains d'un tiers chargé de verser les revenus à l'époux créancier de la
+prestation jusqu'au terme fixé.
+
+Le jugement de divorce peut être subordonné au versement effectif du capital ou à la constitution des garanties prévues à
+l'article 277.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+
+	**Cité par**:
+
+	  - Loi n°2000-596 du 30 juin 2000 - art. 21 (Ab)
+	  - Loi n°2004-439 du 26 mai 2004 - art. 33 (V)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 199 octodecies (M)
+	  - Code civil - art. 275-1 (V)
+	  - Code civil - art. 276-4 (V)
+	  - Code civil - art. 279 (VD)
+	  - Code civil - art. 280 (V)
+	  - Code civil - art. 280-1 (V)
+	  - Code de procédure civile - art. 1136-2 (VD)
+	  - Code général des impôts, CGI. - art. 156 (VT)
+	  - Code général des impôts, CGI. - art. 80 quater (VD)
+
+	**Anciens textes**:
+
+	  - Code civil - art. 275-1 (M)
+
+	**Cite**:
+
+	  - Code civil - art. 277 (M)
+
+
+###### Article 275-1
+
+Si l'époux débiteur de la prestation compensatoire ne dispose pas de liquidités immédiates, il peut être autorisé, sous les
+garanties prévues à l'article 277, à constituer le capital en trois annuités.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+
+	**Cité par**:
+
+	  - Loi n°2000-596 du 30 juin 2000 - art. 17 (V)
+	  - Loi n°2000-596 du 30 juin 2000 - art. 21 (Ab)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 156 (M)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 199 octodecies (M)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 80 quater (M)
+	  - Code civil - art. 276-4 (V)
+	  - Code civil - art. 279 (M)
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 275 (V)
+
+	**Cite**:
+
+	  - Code civil - art. 277 (M)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 276
+
+A défaut de capital ou si celui-ci n'est pas suffisant, la prestation compensatoire prend la forme d'une rente.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°73-5 du 2 janvier 1973 - art. 1 (VT)
+	  - Loi n°73-5 du 2 janvier 1973 - art. 7-1 (VT)
+	  - Décret n°73-216 du 1 mars 1973 - art. 8 (Ab)
+	  - Loi n°75-618 du 11 juillet 1975 - art. 15 (V)
+	  - Loi n°75-1278 du 30 décembre 1975 - art. 61 (V)
+	  - Décret n°75-1339 du 31 décembre 1975 - art. 22 (V)
+	  - Loi n°84-1171 du 22 décembre 1984 - art. 9 (V)
+	  - Décret n°85-560 du 30 mai 1985 - art. 18 (Ab)
+	  - Loi - art. 128 (T)
+	  - Loi n°2000-596 du 30 juin 2000 - art. 17 (V)
+	  - Loi n°2004-439 du 26 mai 2004 - art. 33 (V)
+	  - Décret n°2017-122 du 1er février 2017 - art. 2
+	  - Code de la sécurité sociale. - art. L136-2 (V)
+	  - Code de la sécurité sociale. - art. L581-3 (V)
+	  - Code de la sécurité sociale. - art. R581-9 (V)
+	  - Code de procédure civile - art. 1136-2 (VD)
+	  - Code des procédures civiles d'exécution - art. L161-3 (VD)
+	  - Code des procédures civiles d'exécution - art. L213-1 (VD)
+	  - Code général des impôts, CGI. - art. 156 (VD)
+	  - Code général des impôts, CGI. - art. 199 octodecies (VD)
+	  - Code général des impôts, CGI. - art. 80 quater (VD)
+	  - Nouveau code de procédure civile - art. 465-1 (V)
+
+	**Créé par**:
+
+	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 276-1
+
+La rente est attribuée pour une durée égale ou inférieure à la vie de l'époux créancier.
+
+Elle est indexée ; l'indice est déterminé comme en matière de pension alimentaire.
+
+Le montant de la rente avant indexation est fixé de façon uniforme pour toute sa durée ou peut varier par périodes
+successives suivant l'évolution probable des ressources et des besoins.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+
+
+###### Article 276-2
+
+A la mort de l'époux débiteur, la charge de la rente passe à ses héritiers.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 280-2 (V)
+
+
+###### Article 277
+
+Indépendamment de l'hypothèque légale ou judiciaire, le juge peut imposer à l'époux débiteur de constituer un gage ou de
+donner une caution pour garantir la rente.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+
+	**Cité par**:
+
+	  - Code civil - art. 274 (V)
+	  - Code civil - art. 275 (M)
+	  - Code civil - art. 275-1 (M)
+	  - Code civil - art. 285 (Ab)
+	  - Code civil - art. 294 (Ab)
+	  - Code civil - art. 303 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 278
+
+En cas de demande conjointe, les époux fixent le montant et les modalités de la prestation compensatoire dans la convention
+qu'ils soumettent à l'homologation du juge.
+
+Le juge, toutefois, refuse d'homologuer la convention si elle fixe inéquitablement les droits et obligations des époux.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+
+	**Cité par**:
+
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 156 (M)
+	  - Code civil - art. 271 (M)
+	  - Code civil - art. 279-1 (V)
+	  - Code général des impôts, CGI. - art. 1133 ter (V)
+	  - Code général des impôts, CGI. - art. 199 octodecies (V)
+	  - Code général des impôts, CGI. - art. 80 quater (VD)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 279
+
+La convention homologuée a la même force exécutoire qu'une décision de justice.
+
+Elle ne peut être modifiée que par une nouvelle convention entre des époux, également soumise à l'homologation.
+
+Les époux ont néanmoins la faculté de prévoir dans leur convention que chacun d'eux pourra, en cas de changement imprévu dans
+ses ressources et ses besoins, demander au juge de réviser la prestation compensatoire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+
+	**Cité par**:
+
+	  - Loi n°2000-596 du 30 juin 2000 - art. 21-1 (Ab)
+	  - Code civil - art. 279-1 (V)
+	  - Nouveau code de procédure civile - art. 1084 (M)
+
+
+###### Article 280
+
+Les transferts et abandons prévus au présent paragraphe sont considérés comme participant du régime matrimonial. Ils ne sont
+pas assimilés à des donations.
+
+**Nota:**
+
+NOTA : La loi 2004-439 du 26 mai 2004 entrera en vigueur le 1er janvier 2005 sauf pour les exceptions citées par l'article 33
+II.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+
+	**Transféré par**:
+
+	  - Loi n°2004-439 du 26 mai 2004 - art. 6 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
+
+	**Cité par**:
+
+	  - Loi n°2004-439 du 26 mai 2004 - art. 33 (V)
+	  - Décret n°2004-1157 du 29 octobre 2004 - art. 1 (V)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 1133 ter (M)
+	  - Code civil - art. 279 (VD)
+	  - Code civil - art. 280-1 (V)
+	  - Code civil - art. 285 (Ab)
+	  - Code civil - art. 294 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 281 (M)
+	  - Code civil - art. 281 (V)
+
+
+###### Article 280-1
+
+L'époux aux torts exclusifs de qui le divorce est prononcé n'a droit à aucune prestation compensatoire.
+
+Toutefois, il peut obtenir une indemnité à titre exceptionnel, si, compte tenu de la durée de la vie commune et de la
+collaboration apportée à la profession de l'autre époux, il apparaît manifestement contraire à l'équité de lui refuser toute
+compensation pécuniaire à la suite du divorce.
+
+**Nota:**
+
+NOTA : La loi 2004-439 du 26 mai 2004 entrera en vigueur le 1er janvier 2005 sauf pour les exceptions citées par l'article 33
+II.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+
+	**Cité par**:
+
+	  - Décret n°2016-230 du 26 février 2016 - art.
+	  - Code civil - art. 280-2 (V)
+
+
+##### Paragraphe 4 : Du devoir de secours après le divorce.
+
+###### Article 281
+
+Quand le divorce est prononcé pour rupture de la vie commune, l'époux qui a pris l'initiative du divorce reste entièrement
+tenu au devoir de secours.
+
+Dans le cas de l'article 238, le devoir de secours couvre tout ce qui est nécessaire au traitement médical du conjoint
+malade.
+
+**Nota:**
+
+NOTA : La loi 2004-439 du 26 mai 2004 entrera en vigueur le 1er janvier 2005 sauf pour les exceptions citées par l'article 33
+II.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+
+	**Cite**:
+
+	  - Code civil - art. 238 (M)
+
+	**Anciens textes**:
+
+	  - Code civil - art. 280 (M)
+
+
+###### Article 282
+
+L'accomplissement du devoir de secours prend la forme d'une pension alimentaire. Celle-ci peut toujours être révisée en
+fonction des ressources et des besoins de chacun des époux.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+
+	**Cité par**:
+
+	  - Loi n°88-1088 du 1 décembre 1988 - art. 23 (Ab)
+	  - Code de l'action sociale et des familles - art. L262-35 (M)
+
+	**Abrogé par**:
+
+	  - Loi n°2004-439 du 26 mai 2004 - art. 23 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
+
+
+###### Article 283
+
+La pension alimentaire cesse de plein droit d'être due si le conjoint qui en est créancier contracte un nouveau mariage.
+
+Il y est mis fin si le créancier vit en état de concubinage notoire.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+
+	**Abrogé par**:
+
+	  - Loi n°2004-439 du 26 mai 2004 - art. 23 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
+
+
+###### Article 284
+
+A la mort de l'époux débiteur, la charge de la pension passe à ses héritiers.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+
+	**Abrogé par**:
+
+	  - Loi n°2004-439 du 26 mai 2004 - art. 23 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
+
+
+###### Article 285
+
+Lorsque la consistance des biens de l'époux débiteur s'y prête, la pension alimentaire est remplacée, en tout ou partie, par
+la constitution d'un capital, selon les règles des articles 274 à 275-1 et 280.
+
+Si ce capital devient insuffisant pour couvrir les besoins du conjoint créancier, celui-ci peut demander un complément sous
+forme de pension alimentaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+
+	**Cite**:
+
+	  - Code civil - art. 280 (M)
+	  - Code civil 274 à 275-1, 280
+
+	**Cité par**:
+
+	  - Code civil - art. 303 (M)
+
+
+##### Paragraphe 5 : Du logement.
+
+###### Article 285-1
+
+Si le local servant de logement à la famille appartient en propre ou personnellement à l'un des époux, le juge peut le
+concéder à bail à l'autre conjoint :
+
+1° Lorsque la garde d'un ou plusieurs enfants a été confiée à celui-ci ;
+
+2° Lorsque le divorce a été prononcé à la demande de l'époux propriétaire, pour rupture de la vie commune.
+
+Dans le cas prévu au 1° ci-dessus, le juge fixe la durée du bail et peut le renouveler jusqu'à la majorité du plus jeune des
+enfants.
+
+Dans le cas prévu au 2°, le bail ne peut être concédé pour une durée excédant neuf années, mais peut être prolongé par une
+nouvelle décision. Il prend fin, de plein droit, en cas de remariage de celui à qui il a été concédé. Il y est mis fin si
+celui-ci vit en état de concubinage notoire.
+
+Dans tous les cas, le juge peut résilier le bail si des circonstances nouvelles le justifient.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+
+	**Cité par**:
+
+	  - Loi n°75-617 du 11 juillet 1975 - art. 24 (V)
+	  - Ordonnance n°2010-590 du 3 juin 2010 - art. 11 (V)
+
+
+#### Section 3 : Des conséquences du divorce pour les enfants.
+
+###### Article 286
+
+Le divorce laisse subsister les droits et les devoirs des père et mère à l'égard de leurs enfants, sous réserve des règles
+qui suivent.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+
+
+###### Article 287
+
+Selon l'intérêt des enfants mineurs, leur garde est confiée à l'un ou l'autre des époux. A titre exceptionnel et si l'intérêt
+des enfants l'exige, cette garde peut être confiée, soit à une autre personne choisie de préférence dans leur parenté, soit,
+si cela s'avérait impossible, à un établissement d'éducation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+
+	**Cité par**:
+
+	  - Code civil - art. 373-2 (M)
+	  - Code civil - art. 375-3 (M)
+
+
+###### Article 287-1
+
+Avant de statuer sur la garde des enfants, provisoire ou définitive, et sur le droit de visite, le juge peut donner mission à
+toute personne qualifiée d'effectuer une enquête sociale. Celle-ci a pour but de recueillir des renseignements sur la
+situation matérielle et morale de la famille, sur les conditions dans lesquelles vivent et sont élevés les enfants et sur les
+mesures qu'il y a lieu de prendre dans leur intérêt.
+
+Si l'un des époux conteste les conclusions de l'enquête sociale, il peut demander une contre-enquête.
+
+L'enquête sociale ne peut être utilisée dans le débat sur la cause du divorce.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. R93 (M)
+	  - Code civil - art. 290 (Ab)
+	  - Code civil - art. 375-3 (M)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 288
+
+L'époux à qui la garde des enfants n'a pas été confiée conserve le droit de surveiller leur entretien et leur éducation. Il y
+contribue à proportion de ses ressources.
+
+Un droit de visite et d'hébergement ne peut lui être refusé que pour des motifs graves.
+
+Il peut être chargé d'administrer sous contrôle judiciaire tout ou partie du patrimoine des enfants, par dérogation aux
+articles 372-2 et 389, si l'intérêt d'une bonne administration de ce patrimoine l'exige.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+
+	**Cité par**:
+
+	  - Code civil - art. 293 (Ab)
+
+	**Cite**:
+
+	  - Code civil - art. 372-2 (M)
+	  - Code civil - art. 389 (M)
+
+
+###### Article 289
+
+Le juge statue sur l'attribution de la garde et sur les modalités de l'exercice de l'autorité parentale, à la demande de l'un
+des époux, d'un membre de la famille ou du ministère public.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+
+
+###### Article 290
+
+Le juge tient compte :
+
+1° Des accords passés entre les époux ;
+
+2° Des renseignements qui ont été recueillis dans l'enquête et la contre-enquête sociale prévues à l'article 287-1 ;
+
+3° Des sentiments exprimés par les enfants mineurs lorsque leur audition a paru nécessaire et qu'elle ne comporte pas
+d'inconvénients pour eux.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+
+	**Cite**:
+
+	  - Code civil - art. 287-1 (M)
+
+
+###### Article 291
+
+Les décisions relatives à l'exercice de l'autorité parentale peuvent être modifiées ou complétées à tout moment par le juge,
+à la demande d'un époux, d'un membre de la famille ou du ministère public.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+
+	**Abrogé par**:
+
+	  - Loi n°2002-305 du 4 mars 2002 - art. 1 () JORF 5 mars 2002
+
+
+###### Article 292
+
+En cas de divorce sur demande conjointe, les dispositions de la convention homologuée par le juge relatives à l'exercice de
+l'autorité parentale peuvent être révisées, pour des motifs graves, à la demande de l'un des époux ou du ministère public.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+
+	**Abrogé par**:
+
+	  - Loi n°2002-305 du 4 mars 2002 - art. 1 () JORF 5 mars 2002
+
+
+###### Article 293
+
+La contribution à l'entretien et à l'éducation des enfants prévue à l'article 288 prend la forme d'une pension alimentaire
+versée à la personne qui en a la garde.
+
+Les modalités et les garanties de cette pension alimentaire sont fixées par le jugement ou, en cas de divorce sur demande
+conjointe, par la convention des époux homologuée par le juge.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+
+	**Cite**:
+
+	  - Code civil - art. 288 (M)
+
+
+###### Article 294
+
+Lorsque la consistance des biens du débiteur s'y prête, la pension alimentaire peut être remplacée, en tout ou partie, selon
+les règles des articles 274 à 275-1 et 280, par le versement d'une somme d'argent entre les mains d'un organisme accrédité
+chargé d'accorder en contrepartie à l'enfant une rente indexée, l'abandon de biens en usufruit ou l'affectation de biens
+productifs de revenus.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+
+	**Cité par**:
+
+	  - Loi n°75-1278 du 30 décembre 1975 - art. 61 (V)
+	  - CODE GENERAL DES IMPOTS ANNEXE 2, CGIAN2. - art. 91 quinquies (M)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 156 (M)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 757 A (M)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 80 quater (M)
+
+	**Cite**:
+
+	  - Code civil - art. 280 (M)
+	  - Code civil 274 à 275-1, 280
+
+
+###### Article 294-1
+
+Si le capital ainsi constitué devient insuffisant pour couvrir les besoins des enfants, la personne qui a la garde peut
+demander l'attribution d'un complément sous forme de pension alimentaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+
+
+###### Article 295
+
+Le parent qui assume à titre principal la charge d'enfants majeurs qui ne peuvent eux-mêmes subvenir à leurs besoins peut
+demander à son conjoint de lui verser une contribution à leur entretien et à leur éducation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+
+	**Cité par**:
+
+	  - Loi n°75-617 du 11 juillet 1975 - art. 24 (V)
+
+	**Abrogé par**:
+
+	  - Loi n°2002-305 du 4 mars 2002 - art. 1 () JORF 5 mars 2002
+
+
+### Chapitre IV : De la séparation de corps
+
+#### Section 1 : Des cas et de la procédure de la séparation de corps
+
+###### Article 296
+
+La séparation de corps peut être prononcée à la demande de l'un des époux dans les mêmes cas et aux mêmes conditions que le
+divorce.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°2014-945 du 21 août 2014 - art. 1 (VT)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+
+
+###### Article 297
+
+L'époux contre lequel est présentée une demande en divorce peut former une demande reconventionnelle en séparation de corps.
+L'époux contre lequel est présentée une demande en séparation de corps peut former une demande reconventionnelle en divorce.
+
+Si une demande en divorce et une demande en séparation de corps sont simultanément accueillies, le juge prononce à l'égard
+des deux conjoints le divorce aux torts partagés.
+
+**Nota:**
+
+NOTA : La loi 2004-439 du 26 mai 2004 entrera en vigueur le 1er janvier 2005 sauf pour les exceptions citées par l'article 33
+II.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+
+
+###### Article 298
+
+En outre, les règles contenues au chapitre II ci-dessus sont applicables à la procédure de la séparation de corps.
+
+**Nota:**
+
+NOTA : La loi 2004-439 du 26 mai 2004 entrera en vigueur le 1er janvier 2005 sauf pour les exceptions citées par l'article 33
+II.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+
+	**Cité par**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L312-1 (M)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L312-1 (V)
+
+
+#### Section 2 : Des conséquences de la séparation de corps
+
+###### Article 299
+
+La séparation de corps ne dissout pas le mariage mais elle met fin au devoir de cohabitation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+
+
+###### Article 300
+
+La femme séparée conserve l'usage du nom du mari. Toutefois, le jugement de séparation de corps, ou un jugement postérieur,
+peut le lui interdire. Dans le cas où le mari aurait joint à son nom le nom de la femme, celle-ci pourra également demander
+qu'il soit interdit au mari de le porter.
+
+**Nota:**
+
+NOTA : La loi 2004-439 du 26 mai 2004 entrera en vigueur le 1er janvier 2005 sauf pour les exceptions citées par l'article 33
+II.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+
+
+###### Article 301
+
+En cas de décès de l'un des époux séparés de corps, l'autre époux conserve les droits que la loi accorde au conjoint
+survivant. Il en est toutefois privé si la séparation de corps est prononcée contre lui suivant les distinctions faites à
+l'article 265. Lorsque la séparation de corps est prononcée sur demande conjointe, les époux peuvent inclure dans leur
+convention une renonciation aux droits successoraux qui leur sont conférés par les articles 765 à 767.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Cité par**:
+
+	  - Loi n°1928-03-30 du 30 mars 1928 - art. 2 septies (V)
+	  - Loi n°1930-08-24 du 24 août 1930 - art. 7 (V)
+
+	**Créé par**:
+
+	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+
+	**Cite**:
+
+	  - Code civil - art. 265 (M)
+	  - Code civil 265, 765 à 767
+
+
+###### Article 302
+
+La séparation de corps entraîne toujours séparation de biens. 
+
+En ce qui concerne les biens, la date à laquelle la séparation de corps produit ses effets est déterminée conformément aux
+dispositions des articles 262 à 262-2.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+
+	**Cite**:
+
+	  - Code civil - art. 262 (V)
+
+	**Cité par**:
+
+	  - Code civil - art. 375-3 (M)
+
+
+###### Article 303
+
+La séparation de corps laisse subsister le devoir de secours ; le jugement qui la prononce ou un jugement postérieur fixe la
+pension alimentaire qui est due à l'époux dans le besoin.
+
+Cette pension est attribuée sans considération des torts. L'époux débiteur peut néanmoins invoquer, s'il y a lieu, les
+dispositions de l'article 207, alinéa 2.
+
+Cette pension est soumise aux règles des obligations alimentaires ; les dispositions de l'article 285 lui sont toutefois
+applicables.
+
+**Nota:**
+
+NOTA : La loi 2004-439 du 26 mai 2004 entrera en vigueur le 1er janvier 2005 sauf pour les exceptions citées par l'article 33
+II.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+
+	**Cite**:
+
+	  - Code civil - art. 207 (V)
+	  - Code civil - art. 285 (M)
+
+
+###### Article 304
+
+Sous réserve des dispositions de la présente section, les conséquences de la séparation de corps obéissent aux mêmes règles
+que les conséquences du divorce énoncées au chapitre III ci-dessus.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+
+
+#### Section 3 : De la fin de la séparation de corps
+
+###### Article 305
+
+La reprise volontaire de la vie commune met fin à la séparation de corps.
+
+Pour être opposable aux tiers, celle-ci doit, soit être constatée par acte notarié, soit faire l'objet d'une déclaration à
+l'officier d'état civil. Mention en est faite en marge de l'acte de mariage.
+
+La séparation de biens subsiste sauf si les époux adoptent un nouveau régime matrimonial suivant les règles de l'article
+1397.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Cité par**:
+
+	  - Loi n°1924-06-01 du 1 juin 1924 - art. 30 (Ab)
+
+	**Créé par**:
+
+	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+
+	**Cite**:
+
+	  - Code civil - art. 1397 (M)
+
+
+###### Article 306
+
+A la demande de l'un des époux, le jugement de séparation de corps est converti de plein droit en jugement de divorce quand
+la séparation de corps a duré trois ans.
+
+**Nota:**
+
+NOTA : La loi 2004-439 du 26 mai 2004 entrera en vigueur le 1er janvier 2005 sauf pour les exceptions citées par l'article 33
+II.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+
+
+###### Article 307
+
+Dans tous les cas de séparation de corps, celle-ci peut être convertie en divorce par une demande conjointe.
+
+Quand la séparation de corps a été prononcée sur demande conjointe, elle ne peut être convertie en divorce que par une
+nouvelle demande conjointe.
+
+**Nota:**
+
+NOTA : La loi 2004-439 du 26 mai 2004 entrera en vigueur le 1er janvier 2005 sauf pour les exceptions citées par l'article 33
+II.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+
+
+###### Article 308
+
+Du fait de la conversion, la cause de la séparation de corps devient la cause du divorce ; l'attribution des torts n'est pas
+modifiée.
+
+Le juge fixe les conséquences du divorce. Les prestations et pensions entre époux sont déterminées selon les règles propres
+au divorce.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+
+
+### Chapitre V : Du conflit des lois relatives au divorce et à la séparation de corps
+
+###### Article 310
+
+Le divorce et la séparation de corps sont régis par la loi française :
+
+- lorsque l'un et l'autre époux sont de nationalité française ;
+
+- lorsque les époux ont, l'un et l'autre, leur domicile sur le territoire français ;
+
+- lorsque aucune loi étrangère ne se reconnaît compétence, alors que les tribunaux français sont compétents pour connaître du
+divorce ou de la séparation de corps.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+
+	**Transféré par**:
+
+	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 2 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 309 (V)
+
+	**Anciens textes**:
+
+	  - Code civil - art. 310-1 (T)
+
+	**Cité par**:
+
+	  - Loi n°1941-04-02 du 2 avril 1941 - art. 6 (Ab)
 
 
 ## Titre VII : De la filiation
@@ -9861,6 +13252,26 @@ le testament ; à défaut, ceux d'un administrateur légal sous contrôle judici
 	  - Loi n°1803-03-14
 
 
+###### Article 389-4
+
+Dans l'administration légale pure et simple, chacun des époux est réputé, à l'égard des tiers, avoir reçu de l'autre le
+pouvoir de faire seul les actes pour lesquels un tuteur n'aurait besoin d'aucune autorisation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+
+	**Modifié par**:
+
+	  - Loi n°75-617 1975-07-11 art. 4 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
+
+
 ###### Article 389-5
 
 Dans l'administration légale pure et simple, l'administrateur accomplit avec le consentement de son conjoint les actes qu'un
@@ -9895,6 +13306,32 @@ solidairement avec celui-ci.
 	**Codifié par**:
 
 	  - Loi n°1803-03-14
+
+
+###### Article 389-6
+
+Dans l'administration légale sous contrôle judiciaire, l'administrateur doit se pourvoir d'une autorisation du juge des
+tutelles pour accomplir les actes qu'un tuteur ne pourrait faire qu'avec une autorisation.
+
+Il peut faire seul les autres actes.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+
+	**Modifié par**:
+
+	  - Loi n°75-617 1975-07-11 art. 4 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
 
 
 ###### Article 389-7
@@ -34051,6 +37488,34 @@ dans les conditions du code de procédure civile.
 	  - SPEC_APPLI: Code civil - art. 1397-1 (M)
 
 
+###### Article 1397-1
+
+Les dispositions de l'article précédent ne sont pas applicables aux conventions qui sont passées par les époux en instance de
+divorce en vue de liquider leur régime matrimonial.
+
+Les articles 1450 et 1451 sont applicables à ces conventions.
+
+**Nota:**
+
+NOTA : La loi 2004-439 du 26 mai 2004 entrera en vigueur le 1er janvier 2005 sauf pour les exceptions citées par l'article 33
+II.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°65-570 1965-07-13
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code civil - art. 1397 (M)
+
+	**Cite**:
+
+	  - Code civil - art. 1450 (M)
+	  - Code civil - art. 1451 (M)
+
+
 ###### Article 1398
 
 Le mineur habile à contracter mariage est habile à consentir toutes les conventions dont ce contrat est susceptible et les
@@ -35195,6 +38660,62 @@ les mains de celle-ci, laquelle assumera désormais, à l'égard des tiers, le r
 	  - Code civil - art. 1536 (V)
 
 
+###### Article 1450
+
+Les époux peuvent, pendant l'instance en divorce, passer toutes conventions pour la liquidation et le partage de la
+communauté.
+
+Ces conventions doivent être passées par acte notarié, sauf en cas de demande conjointe.
+
+**Nota:**
+
+NOTA : La loi 2004-439 du 26 mai 2004 entrera en vigueur le 1er janvier 2005 sauf pour les exceptions citées par l'article 33
+II.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°65-570 1965-07-13
+
+	**Transféré par**:
+
+	  - Loi n°2004-439 du 26 mai 2004 - art. 6 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
+
+	**Cité par**:
+
+	  - Code civil - art. 1397-1 (M)
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 265-2 (V)
+
+
+###### Article 1451
+
+Les conventions ainsi passées sont suspendues, quant à leurs effets, jusqu'au prononcé du divorce ; elles ne peuvent être
+exécutées, même dans les rapports entre époux, que lorsque le jugement a pris force de chose jugée.
+
+L'un des époux peut demander que le jugement de divorce modifie la convention si les conséquences du divorce fixées par ce
+jugement remettent en cause les bases de la liquidation et du partage.
+
+**Nota:**
+
+NOTA : La loi 2004-439 du 26 mai 2004 entrera en vigueur le 1er janvier 2005 sauf pour les exceptions citées par l'article 33
+II.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°1924-11-18 du 18 novembre 1924 - art. 41 (M)
+	  - Code civil - art. 1397-1 (V)
+
+	**Codifié par**:
+
+	  - Loi n°65-570 1965-07-13
+
+
 ##### Paragraphe II : De la liquidation et du partage de la communauté.
 
 ###### Article 1469
@@ -36144,6 +39665,27 @@ son profit.
 	**Codifié par**:
 
 	  - Loi n°65-570 1965-07-13
+
+
+###### Article 1542
+
+Après la dissolution du mariage par le décès de l'un des conjoints, le partage des biens indivis entre époux séparés de
+biens, pour tout ce qui concerne ses formes, le maintien de l'indivision et l'attribution préférentielle, la licitation des
+biens, les effets du partage, la garantie et les soultes, est soumis à toutes les règles qui sont établies au titre "Des
+successions" pour les partages entre cohéritiers.
+
+Les mêmes règles s'appliquent après divorce ou séparation de corps. Toutefois, l'attribution préférentielle n'est jamais de
+droit. Il peut toujours être décidé que la totalité de la soulte éventuellement due sera payable comptant.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°65-570 1965-07-13
+
+	**Cité par**:
+
+	  - Loi n°75-617 du 11 juillet 1975 - art. 24 (V)
 
 
 ### Chapitre IV : Du régime de participation aux acquêts.

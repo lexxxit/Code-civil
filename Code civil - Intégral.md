@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1976-07-01
+Version Consolidée au 1976-12-23
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -10688,9 +10688,84 @@ l'endroit d'un autre que le débiteur.
 
 #### Section 1 : Des conditions requises pour l'adoption plénière
 
-###### Article 345-1
+###### Article 343
 
-(article abrogé).
+L'adoption peut être demandée après cinq ans de mariage par deux époux non séparés de corps.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°66-500 du 11 juillet 1966 - art. 1 () JORF 12 juillet 1966 en vigueur le 1er novembre 1966
+
+	**Modifié par**:
+
+	  - Loi n°76-1179 1976-12-22 art. 1 JORF 23 décembre 1976
+
+	**Cité par**:
+
+	  - Décret n°82-938 du 28 octobre 1982 - art. 2 (Ab)
+	  - Code civil - art. 361 (V)
+	  - Code de l'action sociale et des familles - art. Annexe 2-6 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 343-1
+
+L'adoption peut être aussi demandée par toute personne âgée de plus de trente ans.
+
+Si l'adoptant est marié et non séparé de corps, le consentement de son conjoint est nécessaire à moins que ce conjoint ne
+soit dans l'impossibilité de manifester sa volonté.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°66-500 du 11 juillet 1966 - art. 1 () JORF 12 juillet 1966 en vigueur le 1er novembre 1966
+
+	**Modifié par**:
+
+	  - Loi n°76-1179 1976-12-22 art. 2 JORF 23 décembre 1976
+
+	**Cité par**:
+
+	  - Code civil - art. 343-2 (V)
+	  - Code de l'action sociale et des familles - art. Annexe 2-6 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 343-2
+
+La condition d'âge prévue à l'article précédent n'est pas exigée en cas d'adoption de l'enfant du conjoint.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code civil - art. 343-1 (M)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°76-1179 1976-12-22 art. 3 JORF 23 décembre 1976
+
+
+###### Article 344
+
+Les adoptants doivent avoir quinze ans de plus que les enfants qu'ils se proposent d'adopter. Si ces derniers sont les
+enfants de leur conjoint, la différence d'âge exigée n'est que de dix ans.
+
+Toutefois, le tribunal peut, s'il y a de justes motifs, prononcer l'adoption lorsque la différence d'âge est inférieure à
+celles que prévoit l'alinéa précédent.
 
 **Liens relatifs à cet article**
 
@@ -10709,9 +10784,84 @@ l'endroit d'un autre que le débiteur.
 	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 13 (V)
 	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 7 (V)
 
-	**Abrogé par**:
+	**Modifié par**:
 
-	  - Loi n°76-1179 1976-12-22 art. 6 JORF 23 décembre 1976
+	  - Loi n°76-1179 1976-12-22 art. 4 JORF 23 décembre 1976
+
+	**Cité par**:
+
+	  - Décret n°82-938 du 28 octobre 1982 - art. 2 (Ab)
+
+
+###### Article 345
+
+L'adoption n'est permise qu'en faveur des enfants âgés de moins de quinze ans, accueillis au foyer du ou des adoptants depuis
+au moins six mois.
+
+Toutefois, si l'enfant a plus de quinze ans et a été accueilli avant d'avoir atteint cet âge par des personnes qui ne
+remplissaient pas les conditions légales pour adopter ou s'il a fait l'objet d'une adoption simple avant d'avoir atteint cet
+âge, l'adoption plénière pourra être demandée, si les conditions en sont remplies, pendant toute la minorité de l'enfant.
+
+S'il a plus de treize ans, l'adopté doit consentir personnellement à son adoption plénière.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°66-500 du 11 juillet 1966 - art. 1 () JORF 12 juillet 1966 en vigueur le 1er novembre 1966
+
+	**Cité par**:
+
+	  - Loi n°66-500 du 11 juillet 1966 - art. 7 (V)
+	  - Loi n°74-631 du 5 juillet 1974 - art. 22 (V)
+	  - Décret n°82-938 du 28 octobre 1982 - art. 2 (Ab)
+	  - Code civil - art. 361 (V)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°76-1179 1976-12-22 art. 22
+
+	**Modifié par**:
+
+	  - Loi n°76-1179 1976-12-22 art. 5 JORF 23 décembre 1976
+
+
+###### Article 346
+
+Nul ne peut être adopté par plusieurs personnes si ce n'est par deux époux.
+
+Toutefois, une nouvelle adoption peut être prononcée soit après décès de l'adoptant, ou des deux adoptants, soit encore après
+décès de l'un des deux adoptants, si la demande est présentée par le nouveau conjoint du survivant d'entre eux.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°66-500 du 11 juillet 1966 - art. 1 () JORF 12 juillet 1966 en vigueur le 1er novembre 1966
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 11 (V)
+	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 12 (V)
+	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 13 (V)
+	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 7 (V)
+
+	**Modifié par**:
+
+	  - Loi n°76-1179 1976-12-22 art. 7 JORF 23 décembre 1976
+
+	**Cité par**:
+
+	  - Décret n°82-938 du 28 octobre 1982 - art. 2 (Ab)
+	  - Code civil - art. 361 (V)
 
 
 ###### Article 347
@@ -10986,6 +11136,58 @@ famille de ces pupilles.
 	  - Code de l'action sociale et des familles - art. R224-18 (V)
 
 
+###### Article 350
+
+L'enfant recueilli par un particulier, une oeuvre privée ou un service de l'aide sociale à l'enfance, dont les parents se
+sont manifestement désintéressés pendant l'année qui précède l'introduction de la demande en déclaration d'abandon, peut être
+déclaré abandonné par le tribunal de grande instance.
+
+Sont considérés comme s'étant manifestement désintéressés de leur enfant les parents qui n'ont pas entretenu avec lui les
+relations nécessaires au maintien de liens affectifs.
+
+La simple rétractation du consentement à l'adoption, la demande de nouvelles ou l'intention exprimée mais non suivie d'effet
+de reprendre l'enfant n'est pas une marque d'intérêt suffisante pour motiver de plein droit le rejet d'une demande en
+déclaration d'abandon.
+
+L'abandon n'est pas déclaré si, au cours du délai prévu au premier alinéa du présent article, un membre de la famille a
+demandé à assumer la charge de l'enfant et si cette demande est jugée conforme à l'intérêt de ce dernier.
+
+Lorsqu'il déclare l'enfant abandonné, le tribunal délègue par la même décision les droits d'autorité parentale sur l'enfant
+au service de l'aide sociale à l'enfance, à l'établissement ou au particulier gardien de l'enfant.
+
+La tierce opposition n'est recevable qu'en cas de dol, de fraude ou d'erreur sur l'identité de l'enfant.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°66-500 du 11 juillet 1966 - art. 1 () JORF 12 juillet 1966 en vigueur le 1er novembre 1966
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 11 (V)
+	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 12 (V)
+	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 13 (V)
+	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 7 (V)
+
+	**Modifié par**:
+
+	  - Loi n°76-1179 1976-12-22 art. 8 JORF 23 décembre 1976
+
+	**Cité par**:
+
+	  - Décret n°82-938 du 28 octobre 1982 - art. 2 (Ab)
+	  - Code civil - art. 347 (M)
+	  - Code de l'action sociale et des familles - art. L224-4 (M)
+	  - Code de la famille et de l'aide sociale. - art. 50 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 61 (Ab)
+	  - Code des pensions militaires d'invalidité et de... - art. L161-3 (VD)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
 #### Section 2 : Du placement en vue de l'adoption plénière et du jugement d'adoption plénière
 
 ###### Article 351
@@ -11063,6 +11265,50 @@ sont rétroactivement résolus.
 	  - Code de l'action sociale et des familles - art. L224-6 (V)
 	  - Code de l'action sociale et des familles - art. R225-25 (V)
 	  - Code de la famille et de l'aide sociale. - art. 62 (Ab)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 353
+
+L'adoption est prononcée à la requête de l'adoptant par le tribunal de grande instance qui vérifie si les conditions de la
+loi sont remplies et si l'adoption est conforme à l'intérêt de l'enfant.
+
+Dans le cas où l'adoptant a des descendants le tribunal vérifie en outre si l'adoption n'est pas de nature à compromettre la
+vie familiale.
+
+Si l'adoptant décède, après avoir régulièrement recueilli l'enfant en vue de son adoption, la requête peut être présentée en
+son nom par le conjoint survivant ou l'un des héritiers de l'adoptant.
+
+Le jugement prononçant l'adoption n'est pas motivé.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°66-500 du 11 juillet 1966 - art. 1 () JORF 12 juillet 1966 en vigueur le 1er novembre 1966
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 11 (V)
+	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 12 (V)
+	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 13 (V)
+	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 7 (V)
+
+	**Cité par**:
+
+	  - Décret n°73-934 du 25 septembre 1973 - art. 2 (Ab)
+	  - Arrêté du 24 mai 1974 - art. 9 (Ab)
+	  - Décret n°82-938 du 28 octobre 1982 - art. 2 (Ab)
+	  - Code civil - art. 361 (V)
+	  - Code de la défense. - art. D4123-4 (V)
+	  - Code de la défense. - art. R4123-21 (V)
+
+	**Modifié par**:
+
+	  - Loi n°76-1179 1976-12-22 art. 9 JORF 23 décembre 1976
 
 	**Codifié par**:
 
@@ -11177,6 +11423,49 @@ L'adoption produit ses effets à compter du jour du dépôt de la requête en ad
 	**Codifié par**:
 
 	  - Loi n°1803-03-14
+
+
+###### Article 356
+
+L'adoption confère à l'enfant une filiation qui se substitue à sa filiation d'origine : l'adopté cesse d'appartenir à sa
+famille par le sang, sous réserve des prohibitions au mariage visées aux articles 161 à 164. 
+
+Toutefois l'adoption de l'enfant du conjoint laisse subsister sa filiation d'origine à l'égard de ce conjoint et de sa
+famille. Elle produit, pour le surplus, les effets d'une adoption par deux époux.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Cité par**:
+
+	  - Loi n°1928-03-30 du 30 mars 1928 - art. 2 septies (V)
+	  - Loi n°1930-08-24 du 24 août 1930 - art. 7 (V)
+	  - Loi n°66-500 du 11 juillet 1966 - art. 11 (V)
+	  - Décret n°82-938 du 28 octobre 1982 - art. 2 (Ab)
+	  - Code de procédure civile - art. 1174 (V)
+
+	**Créé par**:
+
+	  - Loi n°66-500 du 11 juillet 1966 - art. 1 () JORF 12 juillet 1966 en vigueur le 1er novembre 1966
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 11 (V)
+	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 12 (V)
+	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 13 (V)
+	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 7 (V)
+
+	**Modifié par**:
+
+	  - Loi n°76-1179 1976-12-22 art. 10 JORF 23 décembre 1976
+
+	**Cite**:
+
+	  - Code civil - art. 161 (V)
+	  - Code civil - art. 164 (V)
 
 
 ###### Article 357
@@ -11302,6 +11591,47 @@ Si l'adopté est âgé de plus de quinze ans, il doit consentir personnellement 
 	  - Loi n°66-500 du 11 juillet 1966 - art. 13 (V)
 
 
+###### Article 361
+
+Les dispositions des articles 343 à 344, 346 à 350, 353, 353-1, 355 et 357, dernier alinéa, sont applicables à l'adoption
+simple.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°66-500 du 11 juillet 1966 - art. 1 () JORF 12 juillet 1966 en vigueur le 1er novembre 1966
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 11 (V)
+	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 12 (V)
+	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 13 (V)
+	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 7 (V)
+
+	**Modifié par**:
+
+	  - Loi n°76-1179 1976-12-22 art. 11 JORF 23 décembre 1976
+
+	**Cité par**:
+
+	  - Loi n°2002-304 du 4 mars 2002 - art. 24 (V)
+	  - Code civil - art. 2292 (T)
+	  - Code civil - art. 2498 (VT)
+
+	**Cite**:
+
+	  - Code civil - art. 353 (M)
+	  - Code civil - art. 353-1 (T)
+	  - Code civil - art. 355 (V)
+	  - Code civil - art. 357 (M)
+	  - Code civil 343 à 344, 346 à 350, 353, 353-1, 355, 357
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
 ###### Article 362
 
 Dans les quinze jours de la date à laquelle elle est passée en force de chose jugée, la décision prononçant l'adoption simple
@@ -11422,6 +11752,41 @@ Les règles de l'administration légale et de la tutelle de l'enfant légitime s
 	**Cité par**:
 
 	  - Code de procédure civile - art. 1180-1 (V)
+
+
+###### Article 366
+
+Le lien de parenté résultant de l'adoption s'étend aux enfants légitimes de l'adopté.
+
+Le mariage est prohibé :
+
+1° Entre l'adoptant, l'adopté et ses descendants ;
+
+2° Entre l'adopté et le conjoint de l'adoptant ; réciproquement entre l'adoptant et le conjoint de l'adopté ;
+
+3° Entre les enfants adoptifs du même individu ;
+
+4° Entre l'adopté et les enfants de l'adoptant.
+
+Néanmoins, les prohibitions au mariage portées aux 3° et 4° ci-dessus peuvent être levées par dispense du Président de la
+République, s'il y a des causes graves.
+
+La prohibition au mariage portée au 2° ci-dessus peut être levée dans les mêmes conditions lorsque la personne qui a créé
+l'alliance est décédée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°66-500 du 11 juillet 1966 - art. 1 () JORF 12 juillet 1966 en vigueur le 1er novembre 1966
+
+	**Modifié par**:
+
+	  - Loi n°76-1179 1976-12-22 art. 12 JORF 23 décembre 1976
 
 
 ###### Article 367

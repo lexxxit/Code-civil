@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1922-10-28
+Version Consolidée au 1924-02-07
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -821,6 +821,41 @@ d'habitation continue à la date de la publication prévue par la loi.
 	  - Loi n°1803-03-11 promulguée le 21 mars 1803
 
 
+###### Article 78
+
+L'acte de décès sera dressé par l'officier de l'état civil de la commune où le décès a eu lieu, sur la déclaration d'un
+parent du défunt ou sur celle d'une personne possédant sur son état civil les renseignements les plus exacts et les plus
+complets qu'il sera possible.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 16 juillet 1987
+	  - TXT_SOURCE: Arrêté du 16 juillet 1987 - art. 1 (Ab)
+
+	**Cité par**:
+
+	  - Code civil - art. 93 (V)
+	  - Code général des collectivités territoriales - art. R2213-20 (V)
+	  - Code général des collectivités territoriales - art. R2213-29 (V)
+	  - Code général des collectivités territoriales - art. R2213-32 (V)
+	  - Code général des collectivités territoriales - art. R2213-8 (VD)
+	  - Code général des collectivités territoriales - art. R2213-8-1 (VD)
+	  - Décret n°41-5050 du 31 décembre 1941 - art. 11 (Ab)
+	  - Décret n°41-5050 du 31 décembre 1941 - art. 20 (Ab)
+	  - Décret n°41-5050 du 31 décembre 1941 - art. 23-2 (Ab)
+	  - Décret n°41-5050 du 31 décembre 1941 - art. 4-1 (Ab)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-11
+
+	**Créé par**:
+
+	  - Loi n°1803-03-11 promulguée le 21 mars 1803
+
+
 ###### Article 81
 
 Lorsqu'il y aura des signes ou indices de mort violente, ou d'autres circonstances qui donneront lieu de le soupçonner, on ne
@@ -1434,6 +1469,42 @@ On ne peut contracter un second mariage avant la dissolution du premier.
 	  - Code civil - art. 171-7 (V)
 	  - Code civil - art. 171-8 (V)
 	  - Code civil - art. 184 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°1803-03-17 promulguée le 27 mars 1803
+
+
+###### Article 149
+
+Si l'un des deux est mort ou s'il est dans l'impossibilité de manifester sa volonté, le consentement de l'autre suffit.
+
+Il n'est pas nécessaire de produire l'acte de décès du père ou de la mère de l'un des futurs époux lorsque le conjoint ou les
+père et mère du défunt attestent ce décès sous serment.
+
+Si la résidence actuelle du père ou de la mère est inconnue, et s'il n'a pas donné de ses nouvelles depuis un an, il pourra
+être procédé à la célébration du mariage si l'enfant et celui de ses père et mère qui donnera son consentement en fait la
+déclaration sous serment.
+
+Du tout, il sera fait mention sur l'acte de mariage.
+
+Le faux serment prêté dans les cas prévus au présent article et aux articles suivants du présent chapitre sera puni des
+peines édictées par l'article 363 du code pénal.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code pénal 363
+
+	**Cité par**:
+
+	  - Code civil - art. 151 (V)
+	  - Code civil - art. 158 (Ab)
 
 	**Codifié par**:
 

@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1979-01-03
+Version Consolidée au 1979-01-04
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -55134,12 +55134,31 @@ Les créances privilégiées sur la généralité des meubles sont celles ci-apr
 3° Les frais quelconques de la dernière maladie, quelle qu'en ait été la terminaison, concurremment entre ceux à qui ils sont
 dus ;
 
-4° Les salaires des gens de service, pour l'année échue et ce qui est dû de l'année courante, les sommes pour lesquelles un
-privilège est établi à l'article 549 du code de commerce et les appointements de tous ceux qui louent leurs services, pour
-les six derniers mois ;
+4° Sans préjudice de l'application éventuelle des dispositions des articles L. 143-10, L. 143-11, L. 742-6 et L. 751-15 du
+code du travail :
+
+Les rémunérations des gens de service pour l'année échue et l'année courante ;
+
+Le salaire différé résultant du contrat de travail institué par l'article 63 du décret du 29 juillet 1939 relatif à la
+famille et à la natalité françaises, pour l'année échue et l'année courante ;
+
+Les rémunérations pour les six derniers mois des salariés et apprentis ;
+
+Les indemnités dues en raison de l'inobservation du préavis fixé par l'article L. 122-3 ou du délai-congé prévu par l'article
+L. 122-6 ;
+
+Les indemnités dues pour les congés payés ;
+
+Les indemnités de licenciement dues en application des conventions collectives de travail, des accords collectifs
+d'établissement, des règlements de travail, des usages, des dispositions des articles L. 122-9, L. 761-5 et L. 761-7 pour la
+totalité de la portion inférieure ou égale au plafond visé à l'article L. 143-10 du code du travail et pour le quart de la
+portion supérieure audit plafond ;
+
+Les indemnités dues, le cas échéant, au salarié en application des articles L. 122-2-1, L. 122-3-2, L. 122-14-4 et L.
+122-14-6 alinéa 3.
 
 5° Les fournitures de subsistances faites au débiteur et à sa famille pendant la dernière année et, pendant le même délai,
-les produits livrés par un producteur agricole dans le cadre d'un accord interprofessionnel à long terme homologué ;
+les produits livrés par un producteur agricole dans le cadre d'un accord interprofessionnel à long terme homologué.
 
 6° La créance de la victime de l'accident ou de ses ayants droit relative aux frais médicaux, pharmaceutiques et funéraires,
 ainsi qu'aux indemnités allouées à la suite de l'incapacité temporaire de travail ;
@@ -55153,14 +55172,6 @@ l'égard de leurs adhérents, pour les cotisations que ceux-ci se sont engagés 
 familiales et de la péréquation des charges résultant du versement desdites prestations.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1804-03-19
-
-	**Créé par**:
-
-	  - Loi n°1804-03-19 promulguée le 29 mars 1804
 
 	**Cité par**:
 
@@ -55189,6 +55200,7 @@ familiales et de la péréquation des charges résultant du versement desdites p
 	  - Loi n°90-9 du 2 janvier 1990 - art. 5 (Ab)
 	  - Ordonnance n°2006-344 du 23 mars 2006 - art. 8 (MMN)
 	  - CODE DES COMMUNES. - art. L354-10 (Ab)
+	  - Code civil - art. 2101 (M)
 	  - Code civil - art. 2121 (T)
 	  - Code de commerce. - art. L626-20 (VT)
 	  - Code de l'aviation civile - art. L426-5 (M)
@@ -55223,17 +55235,31 @@ familiales et de la péréquation des charges résultant du versement desdites p
 
 	**Modifié par**:
 
-	  - Loi n°64-678 1964-07-06 JORF 8 juillet 1964 rectificatif JORF 30 juillet 1964
-
-	**Cite**:
-
-	  - Code de commerce 549
-	  - Code civil - art. 2101 (M)
-	  - Code du travail 23, 29, 47, 74
+	  - Loi n°79-11 1979-01-03 JORF 4 janvier 1979 rectificatif JORF 17 janvier 1979
 
 	**Nouveaux textes**:
 
 	  - Code civil - art. 2331 (M)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-19
+
+	**Cite**:
+
+	  - Code du travail - art. L122-14 (Ab)
+	  - Code du travail - art. L122-2 (T)
+	  - Code du travail - art. L122-3 (T)
+	  - Code du travail - art. L122-6 (Ab)
+	  - Code du travail - art. L122-9 (Ab)
+	  - Code du travail - art. L143-10 (M)
+	  - Code du travail - art. L143-11 (M)
+	  - Code du travail - art. L742-6 (V)
+	  - Code du travail - art. L751-15 (AbD)
+	  - Code du travail - art. L761-5 (AbD)
+	  - Code du travail - art. L761-7 (AbD)
+	  - Code du travail 74, L122-2, L122-3, L122-6, L122-9, L122-14, L143-10, L143-11, L742-6, L751-15, L761-5, L761-7
+	  - Décret n°1939-07-29 art. 63
 
 
 ##### Paragraphe II : Des privilèges sur certains meubles.
@@ -55469,14 +55495,28 @@ Les créances privilégiées sur la généralité des immeubles sont :
 
 1° Les frais de justice ;
 
-2° Les salaires des gens de service, pour l'année échue et ce qui est dû de l'année courante ; les sommes pour lesquelles un
-privilège est établi à l'article 530 du code de commerce, les salaires et appointements des ouvriers, commis et façonniers,
-tels que tisseurs, guimpiers et passementiers, ainsi que de tous ceux qui louent leurs services, pour les six derniers mois ;
-les indemnités prévues par l'article 23 du livre Ier du code du travail, soit à raison de l'inobservation du délai congé,
-soit à raison de la résiliation abusive du contrat ; le salaire différé, pour lequel un privilège est établi par l'article 73
-du décret du 29 juillet 1939, relatif à la famille et à la natalité françaises, pour l'année échue et l'année courante ; les
-indemnités dues pour les congés payés ; le tout sans préjudice de l'application éventuelle des dispositions de l'article 47 a
-du livre Ier du code du travail.
+2° Sans préjudice de l'application éventuelle des dispositions des articles L. 143-10, L. 143-11, L. 742-6 et L. 751-15 du
+code du travail :
+
+Les rémunérations des gens de service pour l'année échue et l'année courante ;
+
+Le salaire différé résultant du contrat de travail institué par l'article 63 du décret du 29 juillet 1939 relatif à la
+famille et à la natalité françaises pour l'année échue et l'année courante ;
+
+Les rémunérations pour les six derniers mois des salariés et apprentis ;
+
+Les indemnités dues en raison de l'inobservation du préavis fixé par l'article L. 122-3 ou du délai-congé prévu par l'article
+L. 122-6 ;
+
+Les indemnités dues pour les congés payés ;
+
+Les indemnités de licenciement dues en application des conventions collectives de travail, des accords collectifs
+d'établissement, des règlements de travail, des usages, des dispositions des articles L. 122-9, L. 761-5 et L. 761-7 pour la
+totalité de la portion inférieure ou égale au plafond visé à l'article L. 143-10 du code du travail et pour le quart de la
+portion supérieure audit plafond.
+
+Les indemnités dues, le cas échéant, au salarié en application des articles L. 122-2-1, L. 122-3-2, L. 122-14-4 et L.
+122-14-6, alinéa 3.
 
 **Liens relatifs à cet article**
 
@@ -55512,17 +55552,25 @@ du livre Ier du code du travail.
 	  - Code rural - art. L321-21 (M)
 	  - Code rural - art. L321-21-1 (M)
 
-	**Modifié par**:
-
-	  - Décret n°55-22 1955-01-04 JORF 7 janvier 1955 rectificatif JORF 27 janvier 1955
-	  - Ordonnance 59-71 1959-01-07 JORF 8 janvier 1959 rectificatif JORF 31 janvier 1959
-
 	**Cite**:
 
 	  - Ordonnance 67-581 1967-07-13 art. 2, art. 4
-	  - Code de commerce 530
-	  - Code du travail 23, 29, 47
+	  - Code du travail - art. L122-14 (Ab)
+	  - Code du travail - art. L122-2 (T)
+	  - Code du travail - art. L122-3 (T)
+	  - Code du travail - art. L122-6 (Ab)
+	  - Code du travail - art. L122-9 (Ab)
+	  - Code du travail - art. L143-10 (M)
+	  - Code du travail - art. L143-11 (M)
+	  - Code du travail - art. L742-6 (V)
+	  - Code du travail - art. L751-15 (AbD)
+	  - Code du travail - art. L761-5 (AbD)
+	  - Code du travail - art. L761-7 (AbD)
 	  - Décret n°1939-07-29 art. 63
+
+	**Modifié par**:
+
+	  - Loi n°79-11 1979-01-03 JORF 4 janvier 1979 rectificatif JORF 17 janvier 1979
 
 	**Nouveaux textes**:
 
@@ -55531,10 +55579,6 @@ du livre Ier du code du travail.
 	**Codifié par**:
 
 	  - Loi n°1804-03-19
-
-	**Créé par**:
-
-	  - Loi n°1804-03-19 promulguée le 29 mars 1804
 
 
 #### Section 4 : Comment se conservent les privilèges.

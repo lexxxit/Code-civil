@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1988-01-06
+Version Consolidée au 1988-01-23
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -16651,6 +16651,56 @@ La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 	**Créé par**:
 
 	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+
+
+###### Article 459
+
+La vente des immeubles et des fonds de commerce appartenant à un mineur se fera publiquement aux enchères, en présence du
+subrogé tuteur, dans les conditions prévues aux articles 953 et suivants du code de procédure civile.
+
+Le conseil de famille peut, toutefois, autoriser la vente à l'amiable soit par adjudication sur la mise à prix qu'il fixe,
+soit de gré à gré, aux prix et stipulations qu'il détermine. En cas d'adjudication amiable, il peut toujours être fait
+surenchère, dans les conditions prévues au code de procédure civile.
+
+L'apport en société d'un immeuble ou d'un fonds de commerce a lieu à l'amiable. Il est autorisé par le conseil de famille sur
+le rapport d'un expert que désigne le juge des tutelles.
+
+Les valeurs mobilières qui sont inscrites à une cote officielle sont vendues par le ministère d'une société de bourse.
+
+Les autres valeurs mobilières sont vendues aux enchères par le ministère d'une société de bourse ou d'un notaire désigné dans
+la délibération qui autorise la vente. Le conseil de famille pourra néanmoins, sur le rapport d'un expert désigné par le juge
+des tutelles, en autoriser la vente de gré à gré aux prix et stipulations qu'il détermine.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+
+	**Modifié par**:
+
+	  - Loi n°88-70 du 22 janvier 1988 - art. 25 (Ab) JORF 23 janvier 1988
+
+	**Cité par**:
+
+	  - Loi n°2015-1776 du 28 décembre 2015 - art. 27
+	  - Loi n°2016-41 du 26 janvier 2016 - art. 189
+	  - Code civil - art. 459-1 (V)
+	  - Code de l'action sociale et des familles - art. Annexe 4-3 (V)
+	  - Code de l'action sociale et des familles - art. L311-5-1 (V)
+	  - Code de la santé publique - art. L1111-7 (V)
+	  - Code de la sécurité intérieure - art. R321-28 (VD)
+	  - Code de procédure civile - art. 1213 (V)
+	  - Code de procédure civile - art. 1276 (V)
+	  - Code de procédure civile - art. 1280 (V)
+
+	**Cite**:
+
+	  - Code de procédure civile 953
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
 
 
 ###### Article 460

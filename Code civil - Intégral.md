@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1964-05-17
+Version Consolidée au 1964-06-15
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -18512,6 +18512,25 @@ ou actions en indemnité par rapport à cette chose, de les céder à son créan
 
 #### Section 7 : De l'action en nullité ou en rescision des conventions.
 
+###### Article 1305
+
+La simple lésion donne lieu à la rescision en faveur du mineur non émancipé, contre toutes sortes de conventions.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+	**Modifié par**:
+
+	  - Loi n°64-1230 du 14 décembre 1964 - art. 2
+
+
 ###### Article 1306
 
 Le mineur n'est pas restituable pour cause de lésion, lorsqu'elle ne résulte que d'un événement casuel et imprévu.
@@ -34804,6 +34823,27 @@ L'interpellation faite au débiteur principal, ou sa reconnaissance, interrompt 
 La prescription court contre toutes personnes, à moins qu'elles ne soient dans quelque exception établie par une loi.
 
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-15
+
+	**Créé par**:
+
+	  - Loi n°1804-03-15 promulguée le 25 mars 1804
+
+
+###### Article 2252
+
+La prescription ne court pas contre les mineurs non émancipés et les majeurs en tutelle, sauf ce qui est dit à l'article 2278
+et à l'exception des autres cas déterminés par la loi.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code civil - art. 464 (V)
+	  - Loi n°74-631 du 5 juillet 1974 - art. 20 (V)
 
 	**Codifié par**:
 

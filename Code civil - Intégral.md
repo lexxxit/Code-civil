@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1958-12-24
+Version Consolidée au 1958-12-25
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -7707,6 +7707,58 @@ admise : ainsi le plus jeune est présumé avoir survécu au plus âgé.
 	  - Loi n°1803-04-19 promulguée le 29 avril 1803
 
 
+###### Article 723
+
+La loi règle l'ordre de succéder entre les héritiers légitimes, les héritiers naturels et le conjoint survivant. A leur
+défaut, les biens passent à l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code du domaine de l'Etat - art. L23 (M)
+
+	**Codifié par**:
+
+	  - Loi n°1803-04-19
+
+	**Créé par**:
+
+	  - Loi n°1803-04-19 promulguée le 29 avril 1803
+
+	**Modifié par**:
+
+	  - Ordonnance 58-1307 1958-12-23 art. 1 JORF 25 décembre 1958
+
+
+###### Article 724
+
+Les héritiers légitimes, les héritiers naturels et le conjoint survivant sont saisis de plein droit des biens, droits et
+actions du défunt, sous l'obligation d'acquitter toutes les charges de la succession.
+
+L'Etat doit se faire envoyer en possession.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 9
+	  - Code du domaine de l'Etat - art. L23 (Ab)
+	  - Code général de la propriété des personnes publ... - art. L1122-1 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance 58-1307 1958-12-23 art. 1 JORF 25 décembre 1958
+
+	**Codifié par**:
+
+	  - Loi n°1803-04-19
+
+	**Créé par**:
+
+	  - Loi n°1803-04-19 promulguée le 29 avril 1803
+
+
 ### Chapitre II : Des qualités requises pour succéder - De la preuve de la qualité d'héritier.
 
 ###### Article 727
@@ -7792,6 +7844,26 @@ la loi accorde aux pères et mères sur les biens de leurs enfants.
 ### Chapitre III : Des divers ordres de succession.
 
 #### Section 1 : Dispositions générales.
+
+###### Article 731
+
+Les successions sont déférées aux enfants et descendants du défunt, à ses ascendants, à ses parents collatéraux et à son
+conjoint survivant, dans l'ordre et suivant les règles ci-après déterminées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-04-19
+
+	**Créé par**:
+
+	  - Loi n°1803-04-19 promulguée le 29 avril 1803
+
+	**Modifié par**:
+
+	  - Ordonnance 58-1307 1958-12-23 art. 1 JORF 25 décembre 1958
+
 
 ###### Article 732
 
@@ -8222,17 +8294,22 @@ séparation de corps passé en force de chose jugée, les parents de l'autre lig
 
 #### Section 1 : Dispositions générales.
 
-###### Article 771
+###### Article 768
 
-(article abrogé).
+A défaut d'héritiers, la succession est acquise à l'Etat.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Ordonnance 58-1307 1958-12-23 art. 1, art. 2 JORF 25 décembre 1958
+
 	**Cité par**:
 
-	  - Décret n°2008-1484 du 22 décembre 2008 - art. Annexe 1 (V)
-	  - Décret n°2016-230 du 26 février 2016 - art.
-	  - Code civil - art. 774 (V)
+	  - Code civil - art. 461 (VT)
+	  - Code civil - art. 507-1 (VD)
+	  - Code du domaine de l'Etat - art. L23 (Ab)
+	  - Code général de la propriété des personnes publ... - art. L1122-1 (V)
 
 	**Codifié par**:
 
@@ -8242,9 +8319,83 @@ séparation de corps passé en force de chose jugée, les parents de l'autre lig
 
 	  - Loi n°1803-04-19 promulguée le 29 avril 1803
 
-	**Abrogé par**:
 
-	  - Ordonnance 58-1307 1958-12-23 art. 3 JORF 25 décembre 1958
+###### Article 769
+
+L'administration des domaines qui prétend droit à la succession est tenue de faire apposer les scellés et de faire faire
+inventaire dans les formes prescrites pour l'acceptation des successions sous bénéfice d'inventaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-04-19
+
+	**Créé par**:
+
+	  - Loi n°1803-04-19 promulguée le 29 avril 1803
+
+	**Modifié par**:
+
+	  - Ordonnance 58-1307 1958-12-23 art. 1, art. 2 JORF 25 décembre 1958
+
+
+###### Article 770
+
+Elle doit demander l'envoi en possession au tribunal de grande instance dans le ressort duquel la succession est ouverte.
+
+Elle est dispensée de recourir au ministère d'un avocat ; le tribunal statue sur la demande trois mois et quarante jours
+après une publication et affiche dans les formes usitées, et après avoir entendu le procureur de la République.
+
+Lorsque, la vacance ayant été régulièrement déclarée, l'administration des domaines a été nommée curateur, elle peut, avant
+de former sa demande, procéder par elle-même aux formalités de publicité prévues à l'alinéa précédent.
+
+Dans tous les cas, il sera justifié de l'affichage par un exemplaire du placard signé du directeur des domaines et revêtu
+d'un certificat du maire du lieu d'ouverture de la succession.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Ordonnance 58-1007 1958-10-24 art. 1 JORF 28 octobre 1958
+	  - Ordonnance 58-1307 1958-12-23 art. 1, art. 2 JORF 25 décembre 1958
+
+	**Cité par**:
+
+	  - Code général de la propriété des personnes publ... - art. L1122-1 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-04-19
+
+	**Créé par**:
+
+	  - Loi n°1803-04-19 promulguée le 29 avril 1803
+
+
+###### Article 772
+
+L'administration des domaines qui n'aurait pas rempli les formalités qui lui sont prescrites pourra être condamnée aux
+dommages et intérêts envers les héritiers, s'il s'en représente.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Ordonnance 58-1307 1958-12-23 art. 1, art. 2 JORF 25 décembre 1958
+
+	**Cité par**:
+
+	  - Code civil - art. 774 (V)
+	  - Nouveau code de procédure civile - art. 1380 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-04-19
+
+	**Créé par**:
+
+	  - Loi n°1803-04-19 promulguée le 29 avril 1803
 
 
 ###### Article 774

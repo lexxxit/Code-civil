@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1968-01-03
+Version Consolidée au 1968-07-04
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -19102,6 +19102,83 @@ Toute personne peut contracter si elle n'en est pas déclarée incapable par la 
 	  - Ordonnance n°2016-131 du 10 février 2016 - art. 9 (V)
 
 
+###### Article 1124
+
+Sont incapables de contracter, dans la mesure définie par la loi : 
+
+Les mineurs non émancipés ; 
+
+Les majeurs protégés au sens de l'article 488 du présent code.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°68-5 du 3 janvier 1968 - art. 2
+
+	**Cite**:
+
+	  - Code civil - art. 488 (VT)
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1125
+
+Les personnes capables de s'engager ne peuvent opposer l'incapacité de ceux avec qui elles ont contracté.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°68-5 du 3 janvier 1968 - art. 2
+
+	**Cité par**:
+
+	  - Code civil - art. 1127-4 (V)
+	  - Code du tourisme. - art. R211-3-1 (V)
+	  - Code du tourisme. - art. R211-6 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1125-1
+
+Sauf autorisation de justice, il est interdit, à peine de nullité, à quiconque exerce une fonction ou occupe un emploi dans
+un établissement hébergeant des personnes âgées ou dispensant des soins psychiatriques de se rendre acquéreur d'un bien ou
+cessionnaire d'un droit appartenant à une personne admise dans l'établissement, non plus que de prendre à bail le logement
+occupé par cette personne avant son admission dans l'établissement.
+
+Pour l'application du présent article, sont réputées personnes interposées, le conjoint, les ascendants et les descendants
+des personnes auxquelles s'appliquent les interdictions ci-dessus édictées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°68-5 du 3 janvier 1968 - art. 3
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
+
+
 #### Section 3 : De l'objet et de la matière des contrats.
 
 ###### Article 1126
@@ -22749,6 +22826,47 @@ ou actions en indemnité par rapport à cette chose, de les céder à son créan
 
 #### Section 7 : De l'action en nullité ou en rescision des conventions.
 
+###### Article 1304
+
+Dans tous les cas où l'action en nullité ou en rescision d'une convention n'est pas limitée à un moindre temps par une loi
+particulière, cette action dure cinq ans.
+
+Ce temps ne court dans le cas de violence que du jour où elle a cessé ; dans le cas d'erreur ou de dol, du jour où ils ont
+été découverts.
+
+Le temps ne court, à l'égard des actes faits par un mineur, que du jour de la majorité ou de l'émancipation ; et à l'égard
+des actes faits par un majeur protégé, que du jour où il en a eu connaissance, alors qu'il était en situation de les refaire
+valablement. Il ne court contre les héritiers de l'incapable que du jour du décès, s'il n'a commencé à courir auparavant.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°68-5 du 3 janvier 1968 - art. 21 (V)
+	  - Arrêté du 23 décembre 2009 - art. Annexe (M)
+	  - Code civil - art. 414-2 (VD)
+	  - Code civil - art. 435 (V)
+	  - Code civil - art. 465 (V)
+	  - Code civil - art. 488 (V)
+	  - Code civil - art. 489 (VT)
+	  - Code civil - art. 491-2 (VT)
+	  - Code civil - art. 510-1 (VT)
+	  - Code de procédure civile - art. 1200-2 (V)
+	  - Code général des impôts, CGI. - art. 1961 (VD)
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
 ###### Article 1305
 
 La simple lésion donne lieu à la rescision en faveur du mineur non émancipé, contre toutes sortes de conventions.
@@ -24753,6 +24871,25 @@ consentement est nécessaire pour la validité du mariage.
 Si des conventions matrimoniales ont été passées sans cette assistance, l'annulation en pourra être demandée par le mineur ou
 par les personnes dont le consentement était requis, mais seulement jusqu'à l'expiration de l'année qui suivra la majorité
 accomplie.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°65-570 1965-07-13
+
+
+###### Article 1399
+
+Le majeur en tutelle ou en curatelle ne peut passer de conventions matrimoniales sans être assisté, dans le contrat, de ceux
+qui doivent consentir à son mariage.
+
+A défaut de cette assistance, l'annulation des conventions peut être poursuivie dans l'année du mariage, soit par l'incapable
+lui-même, soit par ceux dont le consentement était requis, soit par le tuteur ou le curateur.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 
 **Liens relatifs à cet article**
 

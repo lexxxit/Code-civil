@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1995-02-02
+Version Consolidée au 1995-05-09
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -3656,24 +3656,18 @@ qualité de Français.
 
 ###### Article 31
 
-Le juge du tribunal d'instance a seul qualité pour délivrer un certificat de nationalité française à toute personne
-justifiant qu'elle a cette nationalité.
+Le greffier en chef du tribunal d'instance a seul qualité pour délivrer un certificat de nationalité française à toute
+personne justifiant qu'elle a cette nationalité.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Liens**:
 
-	  - Code de la nationalité française 149
-	  - Code de la nationalité française. - art. 149 (Ab)
+	  - SPEC_APPLI: Loi n°95-125 1995-02-08 art. 19 *date d'effet*
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Loi n°93-933 1993-07-22
-
-	**Créé par**:
-
-	  - Loi n°93-933 du 22 juillet 1993 - art. 50 () JORF 23 juillet 1993
-	  - Loi n°1803-03-08 promulguée le 18 mars 1803
+	  - Loi n°95-125 du 8 février 1995 - art. 15 () JORF 9 février 1995 en vigueur le 9 mai 1995
 
 	**Cité par**:
 
@@ -3681,6 +3675,14 @@ justifiant qu'elle a cette nationalité.
 	  - Décret n°2017-890 du 6 mai 2017 - art. 32 (VD)
 	  - Code civil - art. 30 (V)
 	  - Code civil - art. 33-2 (V)
+
+	**Anciens textes**:
+
+	  - Code de la nationalité française. - art. 149 (Ab)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-08
 
 
 ###### Article 31-1
@@ -3713,49 +3715,55 @@ décret.
 
 ###### Article 31-2
 
-Le certificat de nationalité indique en se référant aux chapitres II, III, IV et VII du présent titre, la disposition légale
-en vertu de laquelle l'intéressé a la qualité de français, ainsi que les documents qui ont permis de l'établir. Il fait foi
+Le certificat de nationalité indique, en se référant aux chapitres II, III, IV et VII du présent titre, la disposition légale
+en vertu de laquelle l'intéressé a la qualité de Français, ainsi que les documents qui ont permis de l'établir. Il fait foi
 jusqu'à preuve du contraire.
 
-Pour l'établissement d'un certificat de nationalité, le juge du tribunal d'instance pourra présumer, à défaut d'autres
-éléments, que les actes d'état civil dressés à l'étranger et qui sont produits devant lui, emportent les effets que la loi
-française y aurait attachés.
+Pour l'établissement d'un certificat de nationalité, le greffier en chef du tribunal d'instance pourra présumer, à défaut
+d'autres éléments, que les actes d'état civil dressés à l'étranger et qui sont produits devant lui emportent les effets que
+la loi française y aurait attachés.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Code de la nationalité française 150
 	  - Code de la nationalité française. - art. 150 (Ab)
 
 	**Codifié par**:
 
-	  - Loi n°93-933 1993-07-22
+	  - Loi n°1803-03-08
 
-	**Créé par**:
+	**Liens**:
 
-	  - Loi n°93-933 du 22 juillet 1993 - art. 50 () JORF 23 juillet 1993
+	  - SPEC_APPLI: Loi n°95-125 1995-02-08 art. 19 *date d'effet*
+
+	**Modifié par**:
+
+	  - Loi n°95-125 du 8 février 1995 - art. 16 () JORF 9 février 1995 en vigueur le 9 mai 1995
 
 
 ###### Article 31-3
 
-Lorsque le juge du tribunal d'instance refuse de délivrer un certificat de nationalité, l'intéressé peut saisir le ministre
-de la justice, qui décide s'il y a lieu de procéder à cette délivrance.
+Lorsque le greffier en chef du tribunal d'instance refuse de délivrer un certificat de nationalité, l'intéressé peut saisir
+le ministre de la justice, qui décide s'il y a lieu de procéder à cette délivrance.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Code de la nationalité française 151
-	  - Code de la nationalité française. - art. 151 (Ab)
-
 	**Codifié par**:
 
-	  - Loi n°93-933 1993-07-22
+	  - Loi n°1803-03-08
 
-	**Créé par**:
+	**Liens**:
 
-	  - Loi n°93-933 du 22 juillet 1993 - art. 50 () JORF 23 juillet 1993
+	  - SPEC_APPLI: Loi n°95-125 1995-02-08 art. 19 *date d'effet*
+
+	**Modifié par**:
+
+	  - Loi n°95-125 du 8 février 1995 - art. 17 () JORF 9 février 1995 en vigueur le 9 mai 1995
+
+	**Anciens textes**:
+
+	  - Code de la nationalité française. - art. 151 (Ab)
 
 
 ### Chapitre VII : Des effets sur la nationalité française des transferts de souveraineté relatifs à certains territoires
@@ -14842,10 +14850,15 @@ nom de son père, si la filiation est établie simultanément à l'égard de l'u
 ###### Article 334-2
 
 Lors même que sa filiation n'aurait été établie qu'en second lieu à l'égard du père, l'enfant naturel pourra prendre le nom
-de celui-ci par substitution, si, pendant sa minorité, ses deux parents en font la déclaration conjointe devant le juge aux
-affaires familiales.
+de celui-ci par substitution, si, pendant sa minorité, ses deux parents en font la déclaration conjointe devant le greffier
+en chef du tribunal de grande instance.
 
 Si l'enfant a plus de treize ans, son consentement personnel est nécessaire.
+
+**Nota:**
+
+NOTA : Ces dispositions demeurent en vigueur jusqu'au 1er janvier 2005, l'article 13 de la loi n° 2003-516 ayant reporté au
+1er janvier 2005 la date initiale du 1er septembre 2003 prévue par l'article 25 de la loi n° 2002-304.
 
 **Liens relatifs à cet article**
 
@@ -14864,12 +14877,11 @@ Si l'enfant a plus de treize ans, son consentement personnel est nécessaire.
 
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°93-22 1993-01-08 art. 63 *Mayotte*, art. 64 *date d'effet*
+	  - SPEC_APPLI: Loi n°95-125 du 8 février 1995 - art. 19 (V)
 
 	**Modifié par**:
 
-	  - Loi n°93-22 du 8 janvier 1993 - art. 21 () JORF 9 janvier 1993 en vigueur le 1er février 1994
-	  - Loi n°93-22 du 8 janvier 1993 - art. 64 (V) JORF 9 janvier 1993 en vigueur le 1er février 1994
+	  - Loi n°95-125 du 8 février 1995 - art. 8 () JORF 9 février 1995 en vigueur le 9 mai 1995
 
 	**Codifié par**:
 
@@ -16137,10 +16149,9 @@ Il en est de même lorsque la filiation de l'enfant n'est pas établie.
 
 ###### Article 348-3
 
-Le consentement à l'adoption est donné par acte authentique devant le juge du tribunal d'instance du domicile ou de la
-résidence de la personne qui consent, ou devant un notaire français ou étranger, ou devant les agents diplomatiques ou
-consulaires français. Il peut également être reçu par le service de l'aide sociale à l'enfance lorsque l'enfant lui a été
-remis.
+Le consentement à l'adoption est donné devant le greffier en chef du tribunal d'instance du domicile ou de la résidence de la
+personne qui consent, ou devant un notaire français ou étranger, ou devant les agents diplomatiques ou consulaires français.
+Il peut également être reçu par le service de l'aide sociale à l'enfance lorsque l'enfant lui a été remis.
 
 Le consentement à l'adoption peut être rétracté pendant trois mois. La rétractation doit être faite par lettre recommandée
 avec demande d'avis de réception adressée à la personne ou au service qui a reçu le consentement à l'adoption. La remise de
@@ -16152,21 +16163,6 @@ refuse de le rendre, les parents peuvent saisir le tribunal qui apprécie, compt
 d'en ordonner la restitution. La restitution rend caduc le consentement à l'adoption.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°66-500 du 11 juillet 1966 - art. 1 () JORF 12 juillet 1966 en vigueur le 1er novembre 1966
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 11 (V)
-	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 12 (V)
-	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 13 (V)
-	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 7 (V)
 
 	**Cité par**:
 
@@ -16181,6 +16177,18 @@ d'en ordonner la restitution. La restitution rend caduc le consentement à l'ado
 	  - Code de la famille et de l'aide sociale. - art. 62 (Ab)
 	  - Code de procédure civile - art. 1165 (V)
 	  - Loi du 16 mars 1803 - art. 10 (Ab)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°95-125 1995-02-08 art. 19 *date d'effet*
+
+	**Modifié par**:
+
+	  - Loi n°95-125 du 8 février 1995 - art. 9 () JORF 9 février 1995 en vigueur le 9 mai 1995
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
 
 
 ###### Article 348-4
@@ -17719,7 +17727,7 @@ l'autorité parentale.
 
 Lorsque sa filiation est établie à l'égard de ses deux parents selon des modalités autres que celles prévues à l'article 372,
 l'autorité parentale est exercée par la mère. Toutefois, elle est exercée en commun par les deux parents s'ils en font la
-déclaration conjointe devant le juge aux affaires familiales.
+déclaration conjointe devant le greffier en chef du tribunal de grande instance.
 
 Dans tous les cas, le juge aux affaires familiales peut, à la demande du père, de la mère ou du ministère public, modifier
 les conditions d'exercice de l'autorité parentale à l'égard d'un enfant naturel. Il peut décider qu'elle sera exercée soit
@@ -17734,23 +17742,31 @@ contribue à leur entretien et à leur éducation à proportion des facultés re
 
 **Liens relatifs à cet article**
 
-	**Cité par**:
-
-	  - Décret n°93-1091 du 16 septembre 1993 - art. 22 (V)
-	  - Code civil - art. 340-6 (M)
-	  - Code civil - art. 372 (M)
-	  - Loi n°70-459 du 4 juin 1970 - art. 11 (V)
-	  - Loi n°93-22 du 8 janvier 1993 - art. 46 (V)
-	  - Nouveau code de procédure civile - art. 1180-1 (M)
-	  - Nouveau code de procédure civile - art. 1180-2 (M)
-
 	**Codifié par**:
 
 	  - Loi n°1803-03-14
 
+	**Cité par**:
+
+	  - Loi n°70-459 du 4 juin 1970 - art. 11 (V)
+	  - Loi n°93-22 du 8 janvier 1993 - art. 46 (V)
+	  - Décret n°93-1091 du 16 septembre 1993 - art. 22 (V)
+	  - Code civil - art. 340-6 (M)
+	  - Code civil - art. 372 (M)
+	  - Nouveau code de procédure civile - art. 1180-1 (M)
+	  - Nouveau code de procédure civile - art. 1180-2 (M)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°95-125 1995-02-08 art. 19 *date d'effet*
+
 	**Modifié par**:
 
-	  - Loi n°93-22 du 8 janvier 1993 - art. 44 () JORF 9 janvier 1993
+	  - Loi n°95-125 du 8 février 1995 - art. 10 () JORF 9 février 1995 en vigueur le 9 mai 1995
+
+	**Abrogé par**:
+
+	  - Loi n°2002-305 du 4 mars 2002 - art. 8 () JORF 5 mars 2002
 
 
 #### Section 2 : De l'assistance éducative
@@ -21305,28 +21321,34 @@ La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 Dès avant la fin de la tutelle, le tuteur est tenu de remettre chaque année au subrogé tuteur un compte de gestion. Ce compte
 sera rédigé et remis, sans frais, sur papier non timbré.
 
-Le subrogé tuteur transmet le compte, avec ses observations, au juge des tutelles, lequel, s'il y échet, convoque le conseil
-de famille.
+Le subrogé tuteur transmet le compte avec ses observations au greffier en chef du tribunal d'instance, lequel peut lui
+demander toutes informations. En cas de difficulté, le greffier en chef en réfère au juge des tutelles, qui peut convoquer le
+conseil de famille, sans préjudice de la faculté pour le juge d'obtenir la communication du compte et à tout moment de le
+contrôler.
 
 Si le mineur a atteint l'âge de seize ans révolus, le juge des tutelles peut décider que le compte lui sera communiqué.
 
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
-
-	**Modifié par**:
-
-	  - Loi n°74-631 du 5 juillet 1974 - art. 5 () JORF 7 juillet 1974
-
-	**Cité par**:
-
-	  - Décret n°2008-1484 du 22 décembre 2008 - art. Annexe 1 (V)
 
 	**Codifié par**:
 
 	  - Loi n°1803-03-14
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°95-125 1995-02-08 art. 19 *date d'effet*
+
+	**Modifié par**:
+
+	  - Loi n°95-125 du 8 février 1995 - art. 11 () JORF 9 février 1995 en vigueur le 9 mai 1995
+
+	**Cité par**:
+
+	  - Décret n°2008-1484 du 22 décembre 2008 - art. Annexe 1 (V)
 
 
 ###### Article 471
@@ -21397,21 +21419,22 @@ L'approbation du compte ne préjudicie point aux actions en responsabilité qui 
 et les autres organes de la tutelle.
 
 L'Etat est seul responsable à l'égard du pupille, sauf son recours s'il y a lieu, du dommage résultant d'une faute quelconque
-qui aurait été commise dans le fonctionnement de la tutelle, soit par le juge des tutelles ou son greffier, soit par
-l'administrateur public chargé d'une tutelle vacante en vertu de l'article 433.
+qui aurait été commise dans le fonctionnement de la tutelle, soit par le juge des tutelles ou son greffier, soit par le
+greffier en chef du tribunal d'instance, soit par l'administrateur public chargé d'une tutelle vacante en vertu de l'article
+433.
 
 L'action en responsabilité exercée par le pupille contre l'Etat est portée, dans tous les cas, devant le tribunal de grande
 instance.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
 
 	**Cité par**:
 
@@ -21421,9 +21444,17 @@ instance.
 	  - Code civil - art. 511 (M)
 	  - Code de l'action sociale et des familles - art. R472-8 (V)
 
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°95-125 1995-02-08 art. 19 *date d'effet*
+
+	**Modifié par**:
+
+	  - Loi n°95-125 du 8 février 1995 - art. 12 () JORF 9 février 1995 en vigueur le 9 mai 1995
+
 	**Cite**:
 
-	  - Code civil - art. 433 (M)
+	  - Code civil - art. 433 (VT)
 
 
 ###### Article 474
@@ -22317,7 +22348,12 @@ ne peut, pendant cette période, être révoquée par le mandant qu'avec l'autor
 Dans tous les cas, le juge, soit d'office, soit à la requête de l'une des personnes qui aurait qualité pour demander
 l'ouverture d'une tutelle, peut prononcer la révocation du mandat.
 
-Il peut aussi, même d'office, ordonner que les comptes lui seront soumis pour approbation.
+Il peut aussi, même d'office, ordonner que les comptes seront soumis au greffier en chef du tribunal d'instance pour
+approbation, sans préjudice de la faculté pour le juge d'exercer lui-même ce contrôle.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 
 **Liens relatifs à cet article**
 
@@ -22325,18 +22361,17 @@ Il peut aussi, même d'office, ordonner que les comptes lui seront soumis pour a
 
 	  - Loi n°1803-03-14
 
-	**Créé par**:
-
-	  - Loi n°68-5 du 3 janvier 1968 - art. 1 () JORF 4 janvier 1968 en vigueur le 1er novembre 1968
-
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 14 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 15 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 16 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 17 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 21 (V)
-	  - SPEC_APPLI: Loi n°68-696 1968-07-31 art. 14
+	  - SPEC_APPLI: Loi n°95-125 1995-02-08 art. 19 *date d'effet*
+
+	**Modifié par**:
+
+	  - Loi n°95-125 du 8 février 1995 - art. 13 () JORF 9 février 1995 en vigueur le 9 mai 1995
+
+	**Abrogé par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
 
 
 ###### Article 491-4
@@ -22954,31 +22989,18 @@ La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 
 Le gérant de la tutelle perçoit les revenus de la personne protégée et les applique à l'entretien et au traitement de celle-
 ci, ainsi qu'à l'acquittement des obligations alimentaires dont elle pourrait être tenue. S'il y a un excédent, il le verse à
-un compte qu'il doit faire ouvrir chez un dépositaire agréé. Chaque année, il rend compte de sa gestion directement au juge
-des tutelles.
+un compte qu'il doit faire ouvrir chez un dépositaire agréé. Chaque année, il rend compte de sa gestion directement au
+greffier en chef du tribunal d'instance, sans préjudice de la faculté pour le juge de demander à tout moment au greffier en
+chef que le compte de gestion lui soit communiqué et que la reddition de celui-ci lui soit directement adressée.
 
 Si d'autres actes deviennent nécessaires, il saisit le juge, qui pourra, soit l'autoriser à les faire, soit décider de
 constituer la tutelle complètement.
 
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°68-5 du 3 janvier 1968 - art. 1 () JORF 4 janvier 1968 en vigueur le 1er novembre 1968
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 14 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 15 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 16 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 17 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 21 (V)
-	  - SPEC_APPLI: Loi n°68-696 1968-07-31 art. 14
-	  - TXT_SOURCE: Arrêté du 4 mars 1970
-	  - TXT_SOURCE: Arrêté du 4 mars 1970 - art. 1 (V)
-	  - TXT_SOURCE: Arrêté du 4 mars 1970 - art. 2 (V)
-	  - TXT_SOURCE: Arrêté du 4 mars 1970 - art. 3 (V)
-	  - TXT_SOURCE: Arrêté du 4 mars 1970 - art. 4 (V)
 
 	**Cité par**:
 
@@ -22990,9 +23012,22 @@ constituer la tutelle complètement.
 	  - Décret n°2008-1484 du 22 décembre 2008 - art. Annexe 1 (V)
 	  - Code de l'action sociale et des familles - art. L342-2 (V)
 
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 4 mars 1970
+	  - TXT_SOURCE: Arrêté du 4 mars 1970 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 4 mars 1970 - art. 2 (V)
+	  - TXT_SOURCE: Arrêté du 4 mars 1970 - art. 3 (V)
+	  - TXT_SOURCE: Arrêté du 4 mars 1970 - art. 4 (V)
+	  - SPEC_APPLI: Loi n°95-125 1995-02-08 art. 19 *date d'effet*
+
 	**Codifié par**:
 
 	  - Loi n°1803-03-14
+
+	**Modifié par**:
+
+	  - Loi n°95-125 du 8 février 1995 - art. 14 () JORF 9 février 1995 en vigueur le 9 mai 1995
 
 
 ###### Article 501
@@ -23626,7 +23661,13 @@ En nommant le curateur, le juge peut ordonner qu'il percevra seul les revenus de
 à l'égard des tiers, le règlement des dépenses et versera l'excédent, s'il y a lieu, à un compte ouvert chez un dépositaire
 agréé.
 
-Le curateur nommé avec cette mission rend compte de sa gestion chaque année au juge des tutelles.
+Le curateur nommé avec cette mission rend compte de sa gestion chaque année au greffier en chef du tribunal d'instance, sans
+préjudice de la faculté pour le juge de demander à tout moment au greffier en chef que le compte de gestion lui soit
+communiqué et que la reddition de celui-ci lui soit directement adressée.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 
 **Liens relatifs à cet article**
 
@@ -23634,18 +23675,13 @@ Le curateur nommé avec cette mission rend compte de sa gestion chaque année au
 
 	  - Loi n°1803-03-14
 
-	**Créé par**:
-
-	  - Loi n°68-5 du 3 janvier 1968 - art. 1 () JORF 4 janvier 1968 en vigueur le 1er novembre 1968
-
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 14 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 15 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 16 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 17 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 21 (V)
-	  - SPEC_APPLI: Loi n°68-696 1968-07-31 art. 14
+	  - SPEC_APPLI: Loi n°95-125 1995-02-08 art. 19 *date d'effet*
+
+	**Modifié par**:
+
+	  - Loi n°95-125 du 8 février 1995 - art. 14 () JORF 9 février 1995 en vigueur le 9 mai 1995
 
 	**Cité par**:
 

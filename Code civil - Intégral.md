@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1966-06-10
+Version Consolidée au 1966-07-14
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -28664,6 +28664,30 @@ Cette clause est toujours de rigueur.
 	  - Code rural - art. L411-35 (V)
 	  - Code rural - art. L461-10 (VD)
 	  - Code rural - art. L461-7 (VT)
+
+
+###### Article 1718
+
+Les dispositions des deuxième et troisième alinéas de l'article 595 relatif aux baux passés par les usufruitiers sont
+applicables aux baux passés par le tuteur sans l'autorisation du conseil de famille.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code civil - art. 595 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-07
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+	**Modifié par**:
+
+	  - Loi n°65-570 1965-07-13 JORF 14 juillet 1965 rectificatif JORF 13 novembre en vigueur le 1er février 1966
 
 
 ###### Article 1719

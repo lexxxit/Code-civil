@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1994-10-01
+Version Consolidée au 1995-01-01
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -60615,7 +60615,7 @@ l'article L. 721-1 du code du travail sur les sommes dues à ce travailleur par 
 	  - Code du travail 721-1
 
 
-#### Section II : Des privilèges spéciaux sur les immeubles.
+#### Section 2 : Des privilèges spéciaux sur les immeubles.
 
 ###### Article 2103
 
@@ -60625,6 +60625,14 @@ Les créanciers privilégiés sur les immeubles sont :
 
 S'il y a plusieurs ventes successives dont le prix soit dû en tout ou en partie, le premier vendeur est préféré au second, le
 deuxième au troisième, et ainsi de suite ;
+
+1° bis Conjointement avec le vendeur et, le cas échéant, avec le prêteur de deniers mentionné au 2°, le syndicat des
+copropriétaires, sur le lot vendu, pour le paiement des charges et travaux mentionnés aux articles 10 et 30 de la loi n°
+65-557 du 10 juillet 1965 fixant le statut de la copropriété des immeubles bâtis, relatifs à l'année courante et aux quatre
+dernières années échues.
+
+Toutefois, le syndicat est préféré au vendeur et au prêteur de deniers pour les créances afférentes aux charges et travaux de
+l'année courante et des deux dernières années échues.
 
 2° Même en l'absence de subrogation, ceux qui ont fourni les deniers pour l'acquisition d'un immeuble, pourvu qu'il soit
 authentiquement constaté, par l'acte d'emprunt, que la somme était destinée à cet emploi et, par quittance du vendeur, que ce
@@ -60654,7 +60662,15 @@ qu'ils tiennent de l'article 878.
 définissant la location-accession à la propriété immobilière sur l'immeuble faisant l'objet du contrat, pour la garantie des
 droits qu'ils tiennent de ce contrat.
 
+**Nota:**
+
+
+
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-19
 
 	**Cité par**:
 
@@ -60676,21 +60692,28 @@ droits qu'ils tiennent de ce contrat.
 
 	**Cite**:
 
+	  - Loi n°65-557 du 10 juillet 1965 - art. 10 (M)
+	  - Loi n°65-557 du 10 juillet 1965 - art. 30 (V)
 	  - Loi n°84-595 1984-07-12
 	  - Code civil - art. 866 (M)
 	  - Code civil - art. 878 (M)
 
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°94-624 1994-07-21 art. 34 V *date d'effet*
+
 	**Modifié par**:
 
-	  - Loi n°84-595 du 12 juillet 1984 - art. 35 () JORF 13 juillet 1984 rectificatif JORF 21 juillet 1984
+	  - Loi n°94-624 du 21 juillet 1994 - art. 34 () JORF 24 juillet 1994 en vigueur le 1er janvier 1995
+
+	**Transféré par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
 
 	**Nouveaux textes**:
 
+	  - Code civil - art. 2374 (M)
 	  - Code civil - art. 2374 (V)
-
-	**Codifié par**:
-
-	  - Loi n°1804-03-19
 
 
 #### Section 3 : Des privilèges généraux sur les immeubles.
@@ -60883,6 +60906,47 @@ une inscription à la conservation des hypothèques, de la manière déterminée
 	**Créé par**:
 
 	  - Loi n°1804-03-19 promulguée le 29 mars 1804
+
+
+###### Article 2107
+
+Sont exceptées de la formalité de l'inscription les créances énumérées à l'article 2104 et les créances du syndicat de
+copropriétaires énumérées à l'article 2103.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-19
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°94-624 1994-07-21 art. 34 V *date d'effet*
+
+	**Modifié par**:
+
+	  - Loi n°94-624 du 21 juillet 1994 - art. 34 () JORF 24 juillet 1994 en vigueur le 1er janvier 1995
+
+	**Transféré par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
+
+	**Cite**:
+
+	  - Code civil - art. 2103 (M)
+	  - Code civil - art. 2104 (M)
+
+	**Cité par**:
+
+	  - Code civil - art. 2146 (T)
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2378 (V)
 
 
 ###### Article 2108
@@ -61226,39 +61290,6 @@ l'hypothèque ne prend rang, à l'égard des tiers, que de la date des inscripti
 	**Nouveaux textes**:
 
 	  - Code civil - art. 2386 (V)
-
-	**Codifié par**:
-
-	  - Loi n°1804-03-19
-
-	**Créé par**:
-
-	  - Loi n°1804-03-19 promulguée le 29 mars 1804
-
-
-#### Section IV : Comment se conservent les privilèges.
-
-###### Article 2107
-
-Sont exceptées de la formalité de l'inscription les créances énumérées à l'article 2104.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°55-22 du 4 janvier 1955 - art. 14 () JORF 7 janvier 1955
-
-	**Cite**:
-
-	  - Code civil - art. 2104 (M)
-
-	**Cité par**:
-
-	  - Code civil - art. 2146 (T)
-
-	**Nouveaux textes**:
-
-	  - Code civil - art. 2378 (V)
 
 	**Codifié par**:
 

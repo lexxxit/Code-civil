@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1978-07-01
+Version Consolidée au 1979-01-01
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -1681,7 +1681,180 @@ décret, dans les périodes et sur les territoires où l'autorité militaire est
 	  - Loi n°1803-03-11 promulguée le 21 mars 1803
 
 
+### Chapitre VI : De l'état civil des personnes nées à l'étranger qui acquièrent ou recouvrent la nationalité française.
+
+###### Article 98
+
+Un acte tenant lieu d'acte de naissance est dressé pour toute personne née à l'étranger qui acquiert ou recouvre la
+nationalité française à moins que l'acte dressé à sa naissance n'ait déjà été porté sur un registre conservé par une autorité
+française.
+
+Cet acte énonce les nom, prénoms et sexe de l'intéressé et indique le lieu et la date de sa naissance, sa filiation, sa
+résidence à la date de l'acquisition de la nationalité française.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°55-1350 du 14 octobre 1955 - art. 75 (VD)
+	  - Décret n°2004-1159 du 29 octobre 2004 - art. 8 (V)
+	  - Code civil - art. 98-3 (V)
+	  - Code civil - art. 98-4 (V)
+	  - Code civil - art. 99-1 (V)
+
+	**Modifié par**:
+
+	  - Loi n°78-731 du 12 juillet 1978 - art. 2 () JORF 13 juillet 1978 en vigueur le 1er janvier 1979
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-11
+
+	**Créé par**:
+
+	  - Loi n°1803-03-11 promulguée le 21 mars 1803
+
+
+###### Article 98-1
+
+De même, un acte tenant lieu d'acte de mariage est dressé lorsque la personne qui acquiert ou recouvre la nationalité
+française a contracté mariage antérieurement à l'étranger, à moins que la célébration du mariage n'ait déjà été constatée par
+un acte porté sur un registre conservé par une autorité française.
+
+L'acte énonce :
+
+- la date et le lieu de la célébration ;
+
+- l'indication de l'autorité qui y a procédé ;
+
+- les noms, prénoms, dates et lieux de naissance de chacun des époux ;
+
+- la filiation des époux ;
+
+- ainsi que, s'il y a lieu, le nom, la qualité et la résidence de l'autorité qui a reçu le contrat de mariage.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°78-731 du 12 juillet 1978 - art. 3 () JORF 13 juillet 1978 en vigueur le 1er janvier 1979
+
+	**Cité par**:
+
+	  - Code civil - art. 99-1 (M)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-11
+
+
+###### Article 98-2
+
+Un même acte peut être dressé portant les énonciations relatives à la naissance et au mariage, à moins que la naissance et le
+mariage n'aient déjà été constatés par des actes portés sur un registre conservé par une autorité française.
+
+Il tient lieu à la fois d'acte de naissance et d'acte de mariage.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°55-1350 du 14 octobre 1955 - art. 75 (VD)
+	  - Code civil - art. 99-1 (M)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-11
+
+	**Créé par**:
+
+	  - Loi n°78-731 du 12 juillet 1978 - art. 4 () JORF 13 juillet 1978 en vigueur le 1er janvier 1979
+
+
+###### Article 98-3
+
+Les actes visés aux articles 98 à 98-2 indiquent en outre :
+
+- la date à laquelle ils ont été dressés ;
+
+- le nom et la signature de l'officier de l'état civil ;
+
+- les mentions portées en marge de l'acte dont ils tiennent lieu ;
+
+- l'indication des actes et décisions relatifs à la nationalité de la personne. 
+
+Mention est faite ultérieurement en marge :
+
+- des indications prescrites pour chaque catégorie d'acte par le droit en vigueur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-11
+
+	**Créé par**:
+
+	  - Loi n°78-731 du 12 juillet 1978 - art. 5 () JORF 13 juillet 1978 en vigueur le 1er janvier 1979
+
+	**Cite**:
+
+	  - Code civil - art. 98 (V)
+
+
+###### Article 98-4
+
+Les personnes pour lesquelles des actes ont été dressés en application des articles 98 à 98-2 perdent la faculté de requérir
+la transcription de leur acte de naissance ou de mariage reçu par une autorité étrangère. 
+
+En cas de désaccord entre les énonciations de l'acte de l'état civil étranger ou de l'acte de l'état civil consulaire
+français et celles de l'acte dressé selon les dispositions desdits articles, ces dernières feront foi jusqu'à décision de
+rectification.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code civil - art. 98 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-11
+
+	**Créé par**:
+
+	  - Loi n°78-731 du 12 juillet 1978 - art. 6 () JORF 13 juillet 1978 en vigueur le 1er janvier 1979
+
+
 ### Chapitre VII : De la rectification des actes d'état civil.
+
+###### Article 99-1
+
+Les personnes habilitées à exercer les fonctions d'officier de l'état civil pour dresser les actes mentionnés aux articles 98
+à 98-2 peuvent procéder à la rectification administrative des erreurs et omissions purement matérielles contenues dans ces
+actes.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°78-731 du 12 juillet 1978 - art. 7 () JORF 13 juillet 1978 en vigueur le 1er janvier 1979
+
+	**Cité par**:
+
+	  - Décret n°80-308 du 25 avril 1980 - art. 5 (V)
+	  - Code de procédure civile - art. 1047 (V)
+
+	**Cite**:
+
+	  - Code civil - art. 98 (V)
+	  - Code civil - art. 98-1 (V)
+	  - Code civil - art. 98-2 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-11
+
 
 ###### Article 100
 
@@ -43288,6 +43461,63 @@ frais occasionnés par la vente.
 	  - Loi n°1804-03-06 promulguée le 16 mars 1804
 
 
+###### Article 1646-1
+
+Le vendeur d'un immeuble à construire est tenu, à compter de la réception des travaux, des obligations dont les architectes,
+entrepreneurs et autres personnes liées au maître de l'ouvrage par un contrat de louage d'ouvrage sont eux-mêmes tenus en
+application des articles 1792, 1792-1, 1792-2 et 1792-3 du présent code. 
+
+Ces garanties bénéficient aux propriétaires successifs de l'immeuble. 
+
+Il n'y aura pas lieu à résolution de la vente ou à diminution du prix si le vendeur s'oblige à réparer les dommages définis
+aux articles 1792, 1792-1 et 1792-2 du présent code et à assumer la garantie prévue à l'article 1792-3.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°67-3 du 3 janvier 1967 - art. 2 () JORF 4 janvier 1967 en vigueur le 1er janvier 1967
+
+	**Cité par**:
+
+	  - Loi n°67-3 du 3 janvier 1967 - art. 12 (V)
+	  - Loi n°67-3 du 3 janvier 1967 - art. 5 (V)
+	  - Loi n°71-579 du 16 juillet 1971 - art. 2 (Ab)
+	  - Ordonnance n°98-774 du 2 septembre 1998 - art. 1 (VD)
+	  - Code civil - art. 1245-5 (V)
+	  - Code civil - art. 1386-6 (Ab)
+	  - Code de la construction et de l'habitation. - art. L211-2 (V)
+	  - Code de la construction et de l'habitation. - art. L261-16 (V)
+	  - Code de la construction et de l'habitation. - art. L261-21 (Ab)
+	  - Code de la construction et de l'habitation. - art. L261-6 (M)
+	  - Code de la construction et de l'habitation. - art. L261-9 (V)
+	  - Code de la construction et de l'habitation. - art. R*261-10 (V)
+	  - Code de la construction et de l'habitation. - art. R*261-8 (V)
+	  - Code de la construction et de l'habitation. - art. R*261-9 (V)
+	  - Code des assurances - art. R124-2 (V)
+
+	**Modifié par**:
+
+	  - Loi n°67-547 1967-07-07 art. 7 JORF 9 juillet 1967
+	  - Loi n°78-12 du 4 janvier 1978 - art. 4 () JORF 5 janvier 1978 en vigueur le 1er janvier 1979
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 98-774 1998-09-02 art. 1 II (champ d'application territoriale Polynésie française)
+	  - PILOTE_SUIVEUR: Code de la construction et de l'habitation. - art. L261-6 (V)
+
+	**Cite**:
+
+	  - Code civil - art. 1792 (V)
+	  - Code civil - art. 1792-1 (V)
+	  - Code civil - art. 1792-2 (V)
+	  - Code civil - art. 1792-3 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-06
+
+
 ###### Article 1647
 
 Si la chose qui avait des vices a péri par suite de sa mauvaise qualité, la perte est pour le vendeur, qui sera tenu envers
@@ -46279,6 +46509,304 @@ faite pour toutes les parties payées, si le maître paye l'ouvrier en proportio
 	  - Loi n°1804-03-07 promulguée le 17 mars 1804
 
 
+###### Article 1792
+
+Tout constructeur d'un ouvrage est responsable de plein droit, envers le maître ou l'acquéreur de l'ouvrage, des dommages,
+même résultant d'un vice du sol, qui compromettent la solidité de l'ouvrage ou qui, l'affectant dans l'un de ses éléments
+constitutifs ou l'un de ses éléments d'équipement, le rendent impropre à sa destination.
+
+Une telle responsabilité n'a point lieu si le constructeur prouve que les dommages proviennent d'une cause étrangère.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°67-3 du 3 janvier 1967 - art. 4 () JORF 4 janvier 1967 en vigueur le 1er juillet 1967
+	  - Loi n°78-12 du 4 janvier 1978 - art. 1 () JORF 5 janvier 1978 en vigueur le 1er janvier 1979
+
+	**Cité par**:
+
+	  - Décret n°67-223 du 17 mars 1967 - art. 28 (M)
+	  - Décret n°76-87 du 21 janvier 1976 - art. Annexe article 45 (VT)
+	  - Loi n°78-12 du 4 janvier 1978 - art. 9 (V)
+	  - Décret n°92-1186 du 30 octobre 1992 - art. 2 (Ab)
+	  - Décret n°96-478 du 31 mai 1996 - art. 34 (V)
+	  - Arrêté du 26 février 2002 - art. Annexe 2 (V)
+	  - Loi n°2005-1719 du 30 décembre 2005 - art. 110 (V)
+	  - Décret n°2008-1466 du 22 décembre 2008 (V)
+	  - Arrêté du 8 septembre 2009 - art. 44 (VD)
+	  - Code civil - art. 1245-5 (V)
+	  - Code civil - art. 1386-6 (Ab)
+	  - Code civil - art. 1646-1 (V)
+	  - Code civil - art. 1792-2 (V)
+	  - Code civil - art. 1792-4 (V)
+	  - Code civil - art. 1792-4-1 (V)
+	  - Code civil - art. 1792-4-2 (V)
+	  - Code civil - art. 1792-4-3 (V)
+	  - Code civil - art. 1792-5 (V)
+	  - Code civil - art. 1792-7 (V)
+	  - Code civil - art. 1831-1 (V)
+	  - Code civil - art. 2270 (T)
+	  - Code civil - art. 2270-2 (T)
+	  - Code de la construction et de l'habitation. - art. L111-12 (V)
+	  - Code de la construction et de l'habitation. - art. L111-15 (V)
+	  - Code de la construction et de l'habitation. - art. L111-17 (V)
+	  - Code de la construction et de l'habitation. - art. L111-18 (V)
+	  - Code de la construction et de l'habitation. - art. L111-19 (V)
+	  - Code de la construction et de l'habitation. - art. L111-19-1 (Ab)
+	  - Code de la construction et de l'habitation. - art. L111-20 (V)
+	  - Code de la construction et de l'habitation. - art. L111-20-1 (V)
+	  - Code de la construction et de l'habitation. - art. L111-20-3 (V)
+	  - Code de la construction et de l'habitation. - art. L111-24 (V)
+	  - Code de la construction et de l'habitation. - art. L111-28 (V)
+	  - Code de la construction et de l'habitation. - art. L111-29 (V)
+	  - Code de la construction et de l'habitation. - art. L111-30 (V)
+	  - Code de la construction et de l'habitation. - art. L221-1 (V)
+	  - Code de la construction et de l'habitation. - art. L261-6 (M)
+	  - Code de la construction et de l'habitation. - art. R*111-24 (V)
+	  - Code de la construction et de l'habitation. - art. R*111-25 (V)
+	  - Code de la construction et de l'habitation. - art. R*231-11 (M)
+	  - Code des assurances - art. A243-3 (VD)
+	  - Code des assurances - art. A243-4 (VD)
+	  - Code des assurances - art. Annexe I art A243-1 (V)
+	  - Code des assurances - art. Annexe III art A243-1 (V)
+	  - Code des assurances - art. L241-1 (V)
+	  - Code des assurances - art. L241-2 (V)
+	  - Code des assurances - art. L242-1 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-07
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+
+###### Article 1792-1
+
+Est réputé constructeur de l'ouvrage :
+
+1° Tout architecte, entrepreneur, technicien ou autre personne liée au maître de l'ouvrage par un contrat de louage
+d'ouvrage ;
+
+2° Toute personne qui vend, après achèvement, un ouvrage qu'elle a construit ou fait construire ;
+
+3° Toute personne qui, bien qu'agissant en qualité de mandataire du propriétaire de l'ouvrage, accomplit une mission
+assimilable à celle d'un locateur d'ouvrage.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°78-12 du 4 janvier 1978 - art. 1 () JORF 5 janvier 1978 en vigueur le 1er janvier 1979
+
+	**Cité par**:
+
+	  - Loi n°78-12 du 4 janvier 1978 - art. 9 (V)
+	  - Décret n°92-1186 du 30 octobre 1992 - art. 12 (Ab)
+	  - Décret n°92-1186 du 30 octobre 1992 - art. 2 (Ab)
+	  - Décret n°92-1186 du 30 octobre 1992 - art. Annexe II (Ab)
+	  - Décret n°99-443 du 28 mai 1999 - art. ANNEXE B (V)
+	  - Arrêté du 19 novembre 2009 - art.
+	  - Code civil - art. 1646-1 (V)
+	  - Code civil - art. 1792-5 (V)
+	  - Code civil - art. 1831-1 (V)
+	  - Code de la construction et de l'habitation. - art. L111-12 (V)
+	  - Code de la construction et de l'habitation. - art. L111-14 (V)
+	  - Code de la construction et de l'habitation. - art. L111-18 (V)
+	  - Code de la construction et de l'habitation. - art. L111-20 (V)
+	  - Code de la construction et de l'habitation. - art. L111-20-1 (V)
+	  - Code de la construction et de l'habitation. - art. L111-24 (V)
+	  - Code de la construction et de l'habitation. - art. L111-30 (M)
+	  - Code de la construction et de l'habitation. - art. L231-1 (V)
+	  - Code de la construction et de l'habitation. - art. L231-2 (M)
+	  - Code de la construction et de l'habitation. - art. L261-6 (M)
+	  - Code de la construction et de l'habitation. - art. R*111-40 (V)
+	  - Code des assurances - art. Annexe II art A243-1 (V)
+	  - Code des assurances - art. L242-1 (V)
+	  - Code des assurances - art. R124-2 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-07
+
+
+###### Article 1792-2
+
+La présomption de responsabilité établie par l'article 1792 s'étend également aux dommages qui affectent la solidité des
+éléments d'équipement d'un bâtiment, mais seulement lorsque ceux-ci font indissociablement corps avec les ouvrages de
+viabilité, de fondation, d'ossature, de clos ou de couvert.
+
+Un élément d'équipement est considéré comme formant indissociablement corps avec l'un des ouvrages mentionnés à l'alinéa
+précédent lorsque sa dépose, son démontage ou son remplacement ne peut s'effectuer sans détérioration ou enlèvement de
+matière de cet ouvrage.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°78-12 du 4 janvier 1978 - art. 2 () JORF 5 janvier 1978 en vigueur le 1er janvier 1979
+
+	**Cité par**:
+
+	  - Loi n°78-12 du 4 janvier 1978 - art. 9 (V)
+	  - Décret n°92-1186 du 30 octobre 1992 - art. 2 (Ab)
+	  - Arrêté du 19 novembre 2009 - art.
+	  - Code civil - art. 1646-1 (V)
+	  - Code civil - art. 1792-4 (V)
+	  - Code civil - art. 1792-5 (V)
+	  - Code civil - art. 1792-7 (V)
+	  - Code civil - art. 1831-1 (V)
+	  - Code civil - art. 2270-2 (T)
+	  - Code de la construction et de l'habitation. - art. L111-18 (V)
+	  - Code de la construction et de l'habitation. - art. L111-19 (V)
+	  - Code de la construction et de l'habitation. - art. L111-19-1 (Ab)
+	  - Code de la construction et de l'habitation. - art. L111-20-1 (V)
+	  - Code de la construction et de l'habitation. - art. L111-20-3 (V)
+	  - Code de la construction et de l'habitation. - art. L111-24 (M)
+	  - Code de la construction et de l'habitation. - art. L111-29 (M)
+	  - Code de la construction et de l'habitation. - art. L261-6 (M)
+	  - Code des assurances - art. A241-2 (An)
+	  - Code des assurances - art. A243-4 (VD)
+	  - Code des assurances - art. L241-2 (M)
+
+	**Cite**:
+
+	  - Code civil - art. 1792 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-07
+
+
+###### Article 1792-3
+
+Les autres éléments d'équipement du bâtiment font l'objet d'une garantie de bon fonctionnement d'une durée minimale de deux
+ans à compter de la réception de l'ouvrage.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°78-12 du 4 janvier 1978 - art. 2 () JORF 5 janvier 1978 en vigueur le 1er janvier 1979
+
+	**Cité par**:
+
+	  - Code civil - art. 1646-1 (V)
+	  - Code civil - art. 1792-4 (V)
+	  - Code civil - art. 1792-4-1 (V)
+	  - Code civil - art. 1792-4-2 (V)
+	  - Code civil - art. 1792-4-3 (V)
+	  - Code civil - art. 1792-5 (V)
+	  - Code civil - art. 1792-7 (V)
+	  - Code civil - art. 1831-1 (V)
+	  - Code civil - art. 2270-2 (T)
+	  - Code de la construction et de l'habitation. - art. L111-16 (M)
+	  - Code de la construction et de l'habitation. - art. L111-18 (V)
+	  - Code de la construction et de l'habitation. - art. L111-19 (V)
+	  - Code de la construction et de l'habitation. - art. L111-19-1 (Ab)
+	  - Code de la construction et de l'habitation. - art. L111-20 (V)
+	  - Code de la construction et de l'habitation. - art. L111-20-1 (V)
+	  - Code de la construction et de l'habitation. - art. L111-20-3 (V)
+	  - Code de la construction et de l'habitation. - art. L261-6 (M)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-07
+
+
+###### Article 1792-4
+
+Le fabricant d'un ouvrage, d'une partie d'ouvrage ou d'un élément d'équipement conçu et produit pour satisfaire, en état de
+service, à des exigences précises et déterminées à l'avance, est solidairement responsable des obligations mises par les
+articles 1792, 1792-2 et 1792-3 à la charge du locateur d'ouvrage qui a mis en oeuvre, sans modification et conformément aux
+règles édictées par le fabricant, l'ouvrage, la partie d'ouvrage ou élément d'équipement considéré. 
+
+Sont assimilés à des fabricants pour l'application du présent article : 
+
+Celui qui a importé un ouvrage, une partie d'ouvrage ou un élément d'équipement fabriqué à l'étranger ; 
+
+Celui qui l'a présenté comme son oeuvre en faisant figurer sur lui son nom, sa marque de fabrique ou tout autre signe
+distinctif.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°78-12 du 4 janvier 1978 - art. 2 () JORF 5 janvier 1978 en vigueur le 1er janvier 1979
+
+	**Cité par**:
+
+	  - Arrêté du 19 novembre 2009 - art.
+	  - Code civil - art. 1792-5 (V)
+	  - Code civil - art. 1792-7 (V)
+	  - Code civil - art. 2270 (T)
+	  - Code de la construction et de l'habitation. - art. L111-18 (V)
+	  - Code de la construction et de l'habitation. - art. L111-19-1 (Ab)
+	  - Code de la construction et de l'habitation. - art. L111-20-1 (V)
+	  - Code de la construction et de l'habitation. - art. L111-20-3 (V)
+	  - Code des assurances - art. A241-2 (An)
+	  - Code des assurances - art. Annexe II art A243-1 (V)
+	  - Code des assurances - art. R431-51 (V)
+
+	**Cite**:
+
+	  - Code civil - art. 1792 (V)
+	  - Code civil - art. 1792-2 (V)
+	  - Code civil - art. 1792-3 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-07
+
+
+###### Article 1792-6
+
+La réception est l'acte par lequel le maître de l'ouvrage déclare accepter l'ouvrage avec ou sans réserves. Elle intervient à
+la demande de la partie la plus diligente, soit à l'amiable, soit à défaut judiciairement. Elle est, en tout état de cause,
+prononcée contradictoirement.
+
+La garantie de parfait achèvement, à laquelle l'entrepreneur est tenu pendant un délai d'un an, à compter de la réception,
+s'étend à la réparation de tous les désordres signalés par le maître de l'ouvrage, soit au moyen de réserves mentionnées au
+procès-verbal de réception, soit par voie de notification écrite pour ceux révélés postérieurement à la réception.
+
+Les délais nécessaires à l'exécution des travaux de réparation sont fixés d'un commun accord par le maître de l'ouvrage et
+l'entrepreneur concerné.
+
+En l'absence d'un tel accord ou en cas d'inexécution dans le délai fixé, les travaux peuvent, après mise en demeure restée
+infructueuse, être exécutés aux frais et risques de l'entrepreneur défaillant.
+
+L'exécution des travaux exigés au titre de la garantie de parfait achèvement est constatée d'un commun accord, ou, à défaut,
+judiciairement.
+
+La garantie ne s'étend pas aux travaux nécessaires pour remédier aux effets de l'usure normale ou de l'usage.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°78-12 du 4 janvier 1978 - art. 2 () JORF 5 janvier 1978 en vigueur le 1er janvier 1979
+
+	**Cité par**:
+
+	  - Loi n°78-12 du 4 janvier 1978 - art. 7 (V)
+	  - Arrêté du 8 septembre 2009 - art. 41 (VD)
+	  - Arrêté du 19 novembre 2009 - art.
+	  - Code civil - art. 1245-5 (V)
+	  - Code civil - art. 1792-5 (V)
+	  - Code de la construction et de l'habitation. - art. L111-11 (V)
+	  - Code de la construction et de l'habitation. - art. L111-19 (V)
+	  - Code de la construction et de l'habitation. - art. L111-20-1 (V)
+	  - Code de la construction et de l'habitation. - art. L111-30 (V)
+	  - Code des assurances - art. Annexe II art A243-1 (V)
+	  - Code des assurances - art. L242-1 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-07
+
+
 ###### Article 1793
 
 Lorsqu'un architecte ou un entrepreneur s'est chargé de la construction à forfait d'un bâtiment, d'après un plan arrêté et
@@ -46400,6 +46928,37 @@ règles prescrites dans la présente section : ils sont entrepreneurs dans la pa
 	**Créé par**:
 
 	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+
+#### Section III : Des devis et des marchés.
+
+###### Article 1792-5
+
+Tout clause d'un contrat qui a pour objet, soit d'exclure ou de limiter la responsabilité prévue aux articles 1792, 1792-1 et
+1792-2, soit d'exclure la garantie prévue à l'article 1792-3 ou d'en limiter la portée, soit d'écarter ou de limiter la
+solidarité prévue à l'article 1792-4, est réputée non écrite.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°78-12 du 4 janvier 1978 - art. 2 () JORF 5 janvier 1978 en vigueur le 1er janvier 1979
+
+	**Cite**:
+
+	  - Code civil - art. 1792 (V)
+	  - Code civil - art. 1792-1 (V)
+	  - Code civil - art. 1792-2 (M)
+	  - Code civil - art. 1792-3 (M)
+	  - Code civil - art. 1792-4 (V)
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. L111-12 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-07
 
 
 ### Chapitre IV : Du bail à cheptel
@@ -46966,6 +47525,58 @@ seulement le profit des veaux qui en naissent.
 
 
 ## Titre VIII bis : Du contrat de promotion immobilière
+
+###### Article 1831-1
+
+Le contrat de promotion immobilière est un mandat d'intérêt commun par lequel une personne dite " promoteur immobilier "
+s'oblige envers le maître d'un ouvrage à faire procéder, pour un prix convenu, au moyen de contrats de louage d'ouvrage, à la
+réalisation d'un programme de construction d'un ou de plusieurs édifices ainsi qu'à procéder elle-même ou à faire procéder,
+moyennant une rémunération convenue, à tout ou partie des opérations juridiques, administratives et financières concourant au
+même objet. Ce promoteur est garant de l'exécution des obligations mises à la charge des personnes avec lesquelles il a
+traité au nom du maître de l'ouvrage. Il est notamment tenu des obligations résultant des articles 1792, 1792-1, 1792-2 et
+1792-3 du présent code. 
+
+Si le promoteur s'engage à exécuter lui-même partie des opérations du programme, il est tenu, quant à ces opérations, des
+obligations d'un locateur d'ouvrage.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°71-579 1971-07-16
+
+	**Cité par**:
+
+	  - Loi n°71-579 du 16 juillet 1971 - art. 12 (Ab)
+	  - Loi n°71-579 du 16 juillet 1971 - art. 23 (Ab)
+	  - Loi n°71-579 du 16 juillet 1971 - art. 33 (Ab)
+	  - Ordonnance n°98-774 du 2 septembre 1998 - art. 1 (VD)
+	  - Décret n°2016-230 du 26 février 2016 - art.
+	  - Code de la construction et de l'habitation. - art. L111-31 (V)
+	  - Code de la construction et de l'habitation. - art. L212-10 (V)
+	  - Code de la construction et de l'habitation. - art. L213-6 (V)
+	  - Code de la construction et de l'habitation. - art. L222-1 (V)
+	  - Code de la construction et de l'habitation. - art. L222-2 (V)
+	  - Code de la construction et de l'habitation. - art. R*222-9 (V)
+	  - Code des assurances - art. L242-2 (V)
+	  - Code des assurances - art. R124-2 (V)
+
+	**Modifié par**:
+
+	  - Loi n°78-12 du 4 janvier 1978 - art. 5 () JORF 5 janvier 1978 en vigueur le 1er janvier 1979
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 98-774 1998-09-02 art. 1 I (champ d'application territoriale aux TOM et à Mayotte)
+	  - PILOTE_SUIVEUR: Code de la construction et de l'habitation. - art. L221-1 (V)
+
+	**Cite**:
+
+	  - Code civil - art. 1792 (V)
+	  - Code civil - art. 1792-1 (V)
+	  - Code civil - art. 1792-2 (V)
+	  - Code civil - art. 1792-3 (V)
+
 
 ###### Article 1831-2
 
@@ -60202,40 +60813,6 @@ Elle court encore pendant les trois mois pour faire inventaire, et les quarante 
 
 ### Chapitre V : Du temps requis pour prescrire.
 
-###### Article 2270
-
-Les architectes, entrepreneurs et autres personnes liées au maître de l'ouvrage par un contrat de louage d'ouvrage sont
-déchargés de la garantie des ouvrages qu'ils ont faits ou dirigés après dix ans s'il s'agit de gros ouvrages, après deux ans
-pour les menus ouvrages.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°67-3 du 3 janvier 1967 - art. 4 () JORF 4 janvier 1967 en vigueur le 1er juillet 1967
-
-	**Cité par**:
-
-	  - Décret n°76-87 du 21 janvier 1976 - art. Annexe article 45 (VT)
-	  - Loi n°78-12 du 4 janvier 1978 - art. 9 (V)
-	  - Décret n°96-478 du 31 mai 1996 - art. 34 (V)
-	  - Arrêté du 8 septembre 2009 - art. 44 (VD)
-	  - Code de la construction et de l'habitation. - art. L111-24 (M)
-	  - Code de la construction et de l'habitation. - art. R*111-24 (V)
-	  - Code de la construction et de l'habitation. - art. R*111-25 (V)
-	  - Code de la construction et de l'habitation. - art. R*231-11 (M)
-	  - Code des assurances - art. Annexe I art A243-1 (V)
-	  - Code des assurances - art. L243-2 (M)
-
-	**Codifié par**:
-
-	  - Loi n°1804-03-15
-
-	**Créé par**:
-
-	  - Loi n°1804-03-15 promulguée le 25 mars 1804
-
-
 #### Section 1 : Dispositions générales.
 
 ###### Article 2260
@@ -60451,6 +61028,53 @@ Il suffit que la bonne foi ait existé au moment de l'acquisition.
 	**Créé par**:
 
 	  - Loi n°1804-03-15 promulguée le 25 mars 1804
+
+
+###### Article 2270
+
+Toute personne physique ou morale dont la responsabilité peut être engagée en vertu des articles 1792 à 1792-4 du présent
+code est déchargée des responsabilités et garanties pesant sur elle, en application des articles 1792 à 1792-2, après dix ans
+à compter de la réception des travaux ou, en application de l'article 1792-3, à l'expiration du délai visé à cet article.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°76-87 du 21 janvier 1976 - art. Annexe article 45 (VT)
+	  - Loi n°78-12 du 4 janvier 1978 - art. 9 (V)
+	  - Décret n°96-478 du 31 mai 1996 - art. 34 (V)
+	  - Arrêté du 8 septembre 2009 - art. 44 (VD)
+	  - Code de la construction et de l'habitation. - art. L111-24 (M)
+	  - Code de la construction et de l'habitation. - art. R*111-24 (V)
+	  - Code de la construction et de l'habitation. - art. R*111-25 (V)
+	  - Code de la construction et de l'habitation. - art. R*231-11 (M)
+	  - Code des assurances - art. Annexe I art A243-1 (V)
+	  - Code des assurances - art. L243-2 (M)
+
+	**Modifié par**:
+
+	  - Loi n°78-12 du 4 janvier 1978 - art. 3 () JORF 5 janvier 1978 en vigueur le 1er janvier 1979
+
+	**Transféré par**:
+
+	  - Loi n°2008-561 du 17 juin 2008 - art. 1
+
+	**Cite**:
+
+	  - Code civil - art. 1792 (V)
+	  - Code civil - art. 1792-4 (V)
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 1792-4-1 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°78-12 1978-04-01 art. 14 *l'article 2270 du code civil, tel que modifié en 1978, s'applique aux contrats relatifs aux chantiers dont la déclaration réglementaire d'ouverture a été établie postérieurement à la date du 1er janvier 1979*
 
 
 #### Section 4 : De quelques prescriptions particulières.

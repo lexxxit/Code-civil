@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1966-07-14
+Version Consolidée au 1966-11-01
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -4139,6 +4139,944 @@ Le mariage se dissout :
 	**Créé par**:
 
 	  - Loi n°1803-03-17 promulguée le 27 mars 1803
+
+
+## Titre VIII : De la filiation adoptive
+
+### Chapitre Ier : De l'adoption plénière
+
+#### Section 1 : Des conditions requises pour l'adoption plénière
+
+###### Article 345-1
+
+(article abrogé).
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°66-500 du 11 juillet 1966 - art. 1 () JORF 12 juillet 1966 en vigueur le 1er novembre 1966
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 11 (V)
+	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 12 (V)
+	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 13 (V)
+	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 7 (V)
+
+	**Abrogé par**:
+
+	  - Loi n°76-1179 1976-12-22 art. 6 JORF 23 décembre 1976
+
+
+###### Article 347
+
+Peuvent être adoptés : 
+
+1° Les enfants pour lesquels les père et mère ou le conseil de famille ont valablement consenti à l'adoption ; 
+
+2° Les pupilles de l'Etat ; 
+
+3° Les enfants déclarés abandonnés dans les conditions prévues par l'article 350.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°66-500 du 11 juillet 1966 - art. 1 () JORF 12 juillet 1966 en vigueur le 1er novembre 1966
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 11 (V)
+	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 12 (V)
+	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 13 (V)
+	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 7 (V)
+
+	**Cité par**:
+
+	  - Décret n°82-938 du 28 octobre 1982 - art. 2 (Ab)
+
+	**Cite**:
+
+	  - Code civil - art. 350 (V)
+
+
+###### Article 348
+
+Lorsque la filiation d'un enfant est établie à l'égard de son père et de sa mère, ceux-ci doivent consentir l'un et l'autre à
+l'adoption.
+
+Si l'un des deux est mort ou dans l'impossibilité de manifester sa volonté, s'il a perdu ses droits d'autorité parentale, le
+consentement de l'autre suffit.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°66-500 du 11 juillet 1966 - art. 1 () JORF 12 juillet 1966 en vigueur le 1er novembre 1966
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 11 (V)
+	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 12 (V)
+	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 13 (V)
+	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 7 (V)
+
+	**Cité par**:
+
+	  - Décret n°81-778 du 13 août 1981  - art. (VD)
+	  - Décret n°82-938 du 28 octobre 1982 - art. 2 (Ab)
+	  - Décret n°2016-92 du 1er février 2016 - art. 1
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 348-1
+
+Lorsque la filiation d'un enfant n'est établie qu'à l'égard d'un de ses auteurs, celui-ci donne le consentement à l'adoption.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°66-500 du 11 juillet 1966 - art. 1 () JORF 12 juillet 1966 en vigueur le 1er novembre 1966
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 11 (V)
+	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 12 (V)
+	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 13 (V)
+	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 7 (V)
+
+
+###### Article 348-2
+
+Lorsque les père et mère de l'enfant sont décédés, dans l'impossibilité de manifester leur volonté ou s'ils ont perdu leurs
+droits d'autorité parentale, le consentement est donné par le conseil de famille, après avis de la personne qui, en fait,
+prend soin de l'enfant.
+
+Il en est de même lorsque la filiation de l'enfant n'est pas établie.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°66-500 du 11 juillet 1966 - art. 1 () JORF 12 juillet 1966 en vigueur le 1er novembre 1966
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 11 (V)
+	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 12 (V)
+	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 13 (V)
+	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 7 (V)
+
+
+###### Article 348-3
+
+Le consentement à l'adoption est donné par acte authentique devant le juge du tribunal d'instance du domicile ou de la
+résidence de la personne qui consent, ou devant un notaire français ou étranger, ou devant les agents diplomatiques ou
+consulaires français. Il peut également être reçu par le service de l'aide sociale à l'enfance lorsque l'enfant lui a été
+remis.
+
+Le consentement à l'adoption peut être rétracté pendant trois mois. La rétractation doit être faite par lettre recommandée
+avec demande d'avis de réception adressée à la personne ou au service qui a reçu le consentement à l'adoption. La remise de
+l'enfant à ses parents sur demande même verbale vaut également preuve de la rétractation.
+
+Si à l'expiration du délai de trois mois, le consentement n'a pas été rétracté, les parents peuvent encore demander la
+restitution de l'enfant à condition que celui-ci n'ait pas été placé en vue de l'adoption. Si la personne qui l'a recueilli
+refuse de le rendre, les parents peuvent saisir le tribunal qui apprécie, compte tenu de l'intérêt de l'enfant, s'il y a lieu
+d'en ordonner la restitution. La restitution rend caduc le consentement à l'adoption.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°66-500 du 11 juillet 1966 - art. 1 () JORF 12 juillet 1966 en vigueur le 1er novembre 1966
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 11 (V)
+	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 12 (V)
+	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 13 (V)
+	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 7 (V)
+
+	**Cité par**:
+
+	  - Loi n°66-500 du 11 juillet 1966 - art. 8 (V)
+	  - Décret n°67-45 du 10 janvier 1967 - art. 11 (Ab)
+	  - Décret n°89-95 du 10 février 1989 - art. 22 (Ab)
+	  - Décret n°2002-575 du 18 avril 2002 - art. 18 (Ab)
+	  - Code civil - art. 345 (V)
+	  - Code de commerce - art. A444-163-4 (V)
+	  - Code de l'action sociale et des familles - art. L224-5 (VD)
+	  - Code de l'action sociale et des familles - art. R225-31 (VD)
+	  - Code de la famille et de l'aide sociale. - art. 62 (Ab)
+	  - Code de procédure civile - art. 1165 (V)
+	  - Loi du 16 mars 1803 - art. 10 (Ab)
+
+
+###### Article 348-4
+
+Les père et mère ou le conseil de famille peuvent consentir à l'adoption de l'enfant en laissant le choix de l'adoptant au
+service de l'aide sociale à l'enfance ou à l'oeuvre d'adoption autorisée qui recueillerait provisoirement l'enfant.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°66-500 du 11 juillet 1966 - art. 1 () JORF 12 juillet 1966 en vigueur le 1er novembre 1966
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 11 (V)
+	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 12 (V)
+	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 13 (V)
+	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 7 (V)
+
+	**Cité par**:
+
+	  - Décret n°89-95 du 10 février 1989 - art. 22 (Ab)
+	  - Décret n°2002-575 du 18 avril 2002 - art. 18 (Ab)
+	  - Code de l'action sociale et des familles - art. R225-31 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 348-5
+
+Sauf le cas où il existe un lien de parenté ou d'alliance jusqu'au sixième degré inclus entre l'adoptant et l'adopté, le
+consentement à l'adoption des enfants de moins de deux ans n'est valable que si l'enfant a été effectivement remis au service
+de l'aide sociale à l'enfance ou à une oeuvre d'adoption autorisée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°66-500 du 11 juillet 1966 - art. 1 () JORF 12 juillet 1966 en vigueur le 1er novembre 1966
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 11 (V)
+	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 12 (V)
+	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 13 (V)
+	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 7 (V)
+
+
+###### Article 348-6
+
+Le tribunal peut prononcer l'adoption s'il estime abusif le refus de consentement opposé par les parents légitimes et
+naturels ou par l'un d'entre eux seulement, lorsqu'ils se sont désintéressés de l'enfant au risque d'en compromettre la santé
+ou la moralité.
+
+Il en est de même en cas de refus abusif de consentement du conseil de famille.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°66-500 du 11 juillet 1966 - art. 1 () JORF 12 juillet 1966 en vigueur le 1er novembre 1966
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 11 (V)
+	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 12 (V)
+	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 13 (V)
+	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 7 (V)
+
+
+###### Article 349
+
+Pour les pupilles de l'Etat dont les parents n'ont pas consenti à l'adoption, le consentement est donné par le conseil de
+famille de ces pupilles.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°66-500 du 11 juillet 1966 - art. 1 () JORF 12 juillet 1966 en vigueur le 1er novembre 1966
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 11 (V)
+	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 12 (V)
+	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 13 (V)
+	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 7 (V)
+
+	**Cité par**:
+
+	  - Décret n°82-938 du 28 octobre 1982 - art. 2 (Ab)
+	  - Décret n°85-937 du 23 août 1985 - art. 19 (Ab)
+	  - Code de l'action sociale et des familles - art. R224-18 (V)
+
+
+#### Section 2 : Du placement en vue de l'adoption plénière et du jugement d'adoption plénière
+
+###### Article 351
+
+Le placement en vue de l'adoption est réalisé par la remise effective aux futurs adoptants d'un enfant pour lequel il a été
+valablement et définitivement consenti à l'adoption, d'un pupille de l'Etat ou d'un enfant déclaré abandonné par décision
+judiciaire.
+
+Lorsque la filiation de l'enfant n'est pas établie, il ne peut y avoir de placement en vue de l'adoption pendant un délai de
+trois mois à compter du recueil de l'enfant.
+
+Le placement ne peut avoir lieu lorsque les parents ont demandé la restitution de l'enfant tant qu'il n'a pas été statué sur
+le bien-fondé de cette demande à la requête de la partie la plus diligente.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°66-500 du 11 juillet 1966 - art. 1 () JORF 12 juillet 1966 en vigueur le 1er novembre 1966
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 11 (V)
+	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 12 (V)
+	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 13 (V)
+	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 7 (V)
+
+	**Cité par**:
+
+	  - Loi n°66-500 du 11 juillet 1966 - art. 8 (V)
+	  - Décret n°67-45 du 10 janvier 1967 - art. 11 (Ab)
+	  - Décret n°73-934 du 25 septembre 1973 - art. 2 (Ab)
+	  - Arrêté du 24 mai 1974 - art. 9 (Ab)
+	  - Décret n°82-938 du 28 octobre 1982 - art. 2 (Ab)
+	  - Décret n°85-937 du 23 août 1985 - art. 16 (Ab)
+	  - Décret n°85-937 du 23 août 1985 - art. 18 (Ab)
+	  - Décret n°89-95 du 10 février 1989 - art. 22 (Ab)
+	  - Décret n°2002-575 du 18 avril 2002 - art. 18 (Ab)
+	  - Code de l'action sociale et des familles - art. R224-15 (VD)
+	  - Code de l'action sociale et des familles - art. R224-17 (VD)
+	  - Code de l'action sociale et des familles - art. R225-31 (VD)
+	  - Code de la défense. - art. D4123-4 (V)
+	  - Code de la défense. - art. R4123-21 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 352
+
+Le placement en vue de l'adoption met obstacle à toute restitution de l'enfant à sa famille d'origine. Il fait échec à toute
+déclaration de filiation et à toute reconnaissance.
+
+Si le placement en vue de l'adoption cesse ou si le tribunal a refusé de prononcer l'adoption, les effets de ce placement
+sont rétroactivement résolus.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°66-500 du 11 juillet 1966 - art. 1 () JORF 12 juillet 1966 en vigueur le 1er novembre 1966
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 11 (V)
+	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 12 (V)
+	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 13 (V)
+	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 7 (V)
+
+	**Cité par**:
+
+	  - Décret n°82-938 du 28 octobre 1982 - art. 2 (Ab)
+	  - Décret n°2002-575 du 18 avril 2002 - art. 12 (Ab)
+	  - Code de l'action sociale et des familles - art. L224-6 (V)
+	  - Code de l'action sociale et des familles - art. R225-25 (V)
+	  - Code de la famille et de l'aide sociale. - art. 62 (Ab)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 353-1
+
+La tierce opposition à l'encontre du jugement d'adoption n'est recevable qu'en cas de dol ou de fraude imputable aux
+adoptants.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°66-500 du 11 juillet 1966 - art. 1 () JORF 12 juillet 1966 en vigueur le 1er novembre 1966
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 11 (V)
+	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 12 (V)
+	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 13 (V)
+	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 7 (V)
+
+	**Cité par**:
+
+	  - Décret n°2002-575 du 18 avril 2002 - art. 28 (Ab)
+	  - Code civil - art. 361 (V)
+	  - Code de l'action sociale et des familles - art. Annexe 2-6 (V)
+	  - Code de l'action sociale et des familles - art. R225-41 (V)
+
+	**Nouveaux textes**:
+
+	  - Code civil 353-2 (1ère version)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 354
+
+Dans les quinze jours de la date à laquelle elle est passée en force de chose jugée, la décision prononçant l'adoption
+plénière est transcrite sur les registres de l'état civil du lieu de naissance de l'adopté, à la requête du procureur de la
+République.
+
+La transcription énonce le jour, l'heure et le lieu de la naissance, le sexe de l'enfant ainsi que ses prénoms, tels qu'ils
+résultent du jugement d'adoption, les prénoms, noms, date et lieu de naissance, profession et domicile du ou des adoptants.
+Elle ne contient aucune indication relative à la filiation réelle de l'enfant.
+
+La transcription tient lieu d'acte de naissance à l'adopté.
+
+L'acte de naissance originaire et le cas échéant, l'acte de naissance établi en application de l'article 58 sont, à la
+diligence du procureur de la République, revêtus de la mention "adoption" et considérés comme nuls.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°66-500 du 11 juillet 1966 - art. 1 () JORF 12 juillet 1966 en vigueur le 1er novembre 1966
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 11 (V)
+	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 12 (V)
+	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 13 (V)
+	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 7 (V)
+
+	**Cité par**:
+
+	  - Loi n°66-500 du 11 juillet 1966 - art. 13 (V)
+	  - Décret n°82-938 du 28 octobre 1982 - art. 2 (Ab)
+	  - Loi n°2002-304 du 4 mars 2002 - art. 24 (V)
+	  - Décret n°2017-890 du 6 mai 2017 - art. 37 (VD)
+	  - Code civil - art. 2292 (T)
+	  - Code civil - art. 2498 (VT)
+	  - Code de l'action sociale et des familles - art. L147-8 (V)
+
+	**Cite**:
+
+	  - Code civil - art. 58 (V)
+
+
+#### Section 3 : Des effets de l'adoption plénière
+
+###### Article 355
+
+L'adoption produit ses effets à compter du jour du dépôt de la requête en adoption.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°66-500 du 11 juillet 1966 - art. 1 () JORF 12 juillet 1966 en vigueur le 1er novembre 1966
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 11 (V)
+	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 12 (V)
+	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 13 (V)
+	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 7 (V)
+
+	**Cité par**:
+
+	  - Décret n°82-938 du 28 octobre 1982 - art. 2 (Ab)
+	  - Code civil - art. 361 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 357
+
+L'adoption confère à l'enfant le nom de l'adoptant et, en cas d'adoption par deux époux, le nom du mari.
+
+Sur la demande du ou des adoptants, le tribunal peut modifier les prénoms de l'enfant.
+
+Si l'adoptant est une femme mariée, le tribunal peut, dans le jugement d'adoption, décider du consentement du mari de
+l'adoptante que le nom de ce dernier sera conféré à l'adopté ; si le mari est décédé ou dans l'impossibilité de manifester sa
+volonté, le tribunal apprécie souverainement après avoir consulté les héritiers du mari ou ses successibles les plus proches.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°65-422 du 1 juin 1965 - art. 12 (V)
+	  - Décret n°82-938 du 28 octobre 1982 - art. 2 (Ab)
+	  - Décret n°2004-1159 du 29 octobre 2004 - art. 4-1 (V)
+	  - Code civil - art. 311-21 (V)
+	  - Code civil - art. 311-23 (V)
+	  - Code civil - art. 357-1 (V)
+	  - Code civil - art. 361 (V)
+
+	**Créé par**:
+
+	  - Loi n°66-500 du 11 juillet 1966 - art. 1 () JORF 12 juillet 1966 en vigueur le 1er novembre 1966
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 11 (V)
+	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 12 (V)
+	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 13 (V)
+	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 7 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 358
+
+L'adopté a, dans la famille de l'adoptant, les mêmes droits et les mêmes obligations qu'un enfant légitime.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Cité par**:
+
+	  - Loi n°1928-03-30 du 30 mars 1928 - art. 2 sexies (Ab)
+	  - Décret n°82-938 du 28 octobre 1982 - art. 2 (Ab)
+
+	**Créé par**:
+
+	  - Loi n°66-500 du 11 juillet 1966 - art. 1 () JORF 12 juillet 1966 en vigueur le 1er novembre 1966
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 11 (V)
+	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 12 (V)
+	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 13 (V)
+	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 7 (V)
+
+
+###### Article 359
+
+L'adoption est irrévocable.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°66-500 du 11 juillet 1966 - art. 1 () JORF 12 juillet 1966 en vigueur le 1er novembre 1966
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 11 (V)
+	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 12 (V)
+	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 13 (V)
+	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 7 (V)
+
+	**Cité par**:
+
+	  - Décret n°82-938 du 28 octobre 1982 - art. 2 (Ab)
+
+
+### Chapitre II : De l'adoption simple
+
+#### Section 1 : Des conditions requises et du jugement
+
+###### Article 360
+
+L'adoption simple est permise quel que soit l'âge de l'adopté.
+
+Si l'adopté est âgé de plus de quinze ans, il doit consentir personnellement à l'adoption.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°66-500 du 11 juillet 1966 - art. 1 () JORF 12 juillet 1966 en vigueur le 1er novembre 1966
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 11 (V)
+	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 12 (V)
+	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 13 (V)
+	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 7 (V)
+
+	**Cité par**:
+
+	  - Loi n°66-500 du 11 juillet 1966 - art. 13 (V)
+
+
+###### Article 362
+
+Dans les quinze jours de la date à laquelle elle est passée en force de chose jugée, la décision prononçant l'adoption simple
+est mentionnée ou transcrite sur les registres de l'état civil à la requête du procureur de la République.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°66-500 du 11 juillet 1966 - art. 1 () JORF 12 juillet 1966 en vigueur le 1er novembre 1966
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 11 (V)
+	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 12 (V)
+	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 13 (V)
+	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 7 (V)
+
+	**Cité par**:
+
+	  - Code civil - art. 370-1 (V)
+
+
+#### Section 2 : Des effets de l'adoption simple
+
+###### Article 363
+
+L'adoption simple confère le nom de l'adoptant à l'adopté en l'ajoutant au nom de ce dernier. Le tribunal peut toutefois
+décider que l'adopté ne portera que le nom de l'adoptant.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°66-500 du 11 juillet 1966 - art. 1 () JORF 12 juillet 1966 en vigueur le 1er novembre 1966
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 11 (V)
+	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 12 (V)
+	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 13 (V)
+	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 7 (V)
+
+	**Cité par**:
+
+	  - Loi n°2002-304 du 4 mars 2002 - art. 24 (V)
+	  - Code civil - art. 2292 (T)
+	  - Code civil - art. 2498 (VT)
+	  - Code civil - art. 363-1 (V)
+
+
+###### Article 364
+
+L'adopté reste dans sa famille d'origine et y conserve tous ses droits, notamment ses droits héréditaires. 
+
+Les prohibitions au mariage prévues aux articles 161 à 164 du présent code s'appliquent entre l'adopté et sa famille
+d'origine.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°66-500 du 11 juillet 1966 - art. 1 () JORF 12 juillet 1966 en vigueur le 1er novembre 1966
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 11 (V)
+	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 12 (V)
+	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 13 (V)
+	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 7 (V)
+
+	**Cite**:
+
+	  - Code civil - art. 161 (V)
+	  - Code civil - art. 164 (V)
+
+
+###### Article 365
+
+L'adoptant est seul investi à l'égard de l'adopté de tous les droits d'autorité parentale, inclus celui de consentir au
+mariage de l'adopté, à moins qu'il ne soit le conjoint du père ou de la mère de l'adopté ; dans ce cas, l'adoptant a
+l'autorité parentale concurremment avec son conjoint, mais celui-ci en conserve l'exercice.
+
+Les droits d'autorité parentale sont exercés par le ou les adoptants dans les mêmes conditions qu'à l'égard de l'enfant
+légitime.
+
+Les règles de l'administration légale et de la tutelle de l'enfant légitime s'appliquent à l'adopté.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°66-500 du 11 juillet 1966 - art. 1 () JORF 12 juillet 1966 en vigueur le 1er novembre 1966
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 11 (V)
+	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 12 (V)
+	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 13 (V)
+	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 7 (V)
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 1180-1 (V)
+
+
+###### Article 367
+
+L'adopté doit des aliments à l'adoptant s'il est dans le besoin et, réciproquement, l'adoptant doit des aliments à l'adopté.
+
+L'obligation de se fournir des aliments continue d'exister entre l'adopté et ses père et mère. Cependant les père et mère de
+l'adopté ne sont tenus de lui fournir des aliments que s'il ne peut les obtenir de l'adoptant.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°66-500 du 11 juillet 1966 - art. 1 () JORF 12 juillet 1966 en vigueur le 1er novembre 1966
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 11 (V)
+	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 12 (V)
+	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 13 (V)
+	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 7 (V)
+
+	**Cité par**:
+
+	  - Code général des impôts, CGI. - art. 156 (VD)
+
+
+###### Article 368
+
+L'adopté et ses descendants légitimes ont dans la famille de l'adoptant les mêmes droits successoraux qu'un enfant légitime
+sans acquérir cependant la qualité d'héritier réservataire à l'égard des ascendants de l'adoptant.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°66-500 du 11 juillet 1966 - art. 1 () JORF 12 juillet 1966 en vigueur le 1er novembre 1966
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 11 (V)
+	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 12 (V)
+	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 13 (V)
+	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 7 (V)
+
+	**Cité par**:
+
+	  - Loi n°2002-305 du 4 mars 2002 - art. 19 (V)
+
+
+###### Article 368-1
+
+Si l'adopté meurt sans descendants, les biens donnés par l'adoptant ou recueillis dans sa succession retournent à l'adoptant
+ou à ses descendants, s'ils existent encore en nature lors du décès de l'adopté, à charge de contribuer aux dettes et sous
+réserve des droits acquis par les tiers. Les biens que l'adopté avait reçus à titre gratuit de ses père et mère retournent
+pareillement à ces derniers ou à leurs descendants.
+
+Le surplus des biens de l'adopté se divise par moitié entre la famille d'origine et la famille de l'adoptant, sans préjudice
+des droits du conjoint sur l'ensemble de la succession.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°66-500 du 11 juillet 1966 - art. 1 () JORF 12 juillet 1966 en vigueur le 1er novembre 1966
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 11 (V)
+	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 12 (V)
+	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 13 (V)
+	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 7 (V)
+
+	**Cité par**:
+
+	  - Code général des impôts, CGI. - art. 786 (V)
+
+
+###### Article 369
+
+L'adoption conserve tous ses effets, nonobstant l'établissement ultérieur d'un lien de filiation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°66-500 du 11 juillet 1966 - art. 1 () JORF 12 juillet 1966 en vigueur le 1er novembre 1966
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 11 (V)
+	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 12 (V)
+	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 13 (V)
+	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 7 (V)
+
+	**Cité par**:
+
+	  - Décret n°82-938 du 28 octobre 1982 - art. 2 (Ab)
+
+
+###### Article 370
+
+S'il est justifié de motifs graves, l'adoption peut être révoquée, à la demande de l'adoptant ou de l'adopté.
+
+La demande de révocation faite par l'adoptant n'est recevable que si l'adopté est âgé de plus de quinze ans.
+
+Lorsque l'adopté est mineur, les père et mère par le sang ou, à leur défaut, un membre de la famille d'origine jusqu'au degré
+de cousin germain inclus, peuvent également demander la révocation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°66-500 du 11 juillet 1966 - art. 1 () JORF 12 juillet 1966 en vigueur le 1er novembre 1966
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 11 (V)
+	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 12 (V)
+	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 13 (V)
+	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 7 (V)
+
+	**Cité par**:
+
+	  - Décret n°82-938 du 28 octobre 1982 - art. 2 (Ab)
+
+
+###### Article 370-1
+
+Le jugement révoquant l'adoption doit être motivé. 
+
+Son dispositif est mentionné en marge de l'acte de naissance ou de la transcription du jugement d'adoption, dans les
+conditions prévues à l'article 362.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°66-500 du 11 juillet 1966 - art. 1 () JORF 12 juillet 1966 en vigueur le 1er novembre 1966
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 11 (V)
+	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 12 (V)
+	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 13 (V)
+	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 7 (V)
+
+	**Cite**:
+
+	  - Code civil - art. 362 (V)
+
+
+###### Article 370-2
+
+La révocation fait cesser pour l'avenir tous les effets de l'adoption.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°66-500 du 11 juillet 1966 - art. 1 () JORF 12 juillet 1966 en vigueur le 1er novembre 1966
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 11 (V)
+	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 12 (V)
+	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 13 (V)
+	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 7 (V)
 
 
 ## Titre X : De la minorité et de l'émancipation

@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 2000-07-01
+Version Consolidée au 2000-12-14
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -51619,7 +51619,7 @@ applicables aux baux passés par le tuteur sans l'autorisation du conseil de fam
 
 Le bailleur est obligé, par la nature du contrat, et sans qu'il soit besoin d'aucune stipulation particulière :
 
-1° De délivrer au preneur la chose louée ;
+1° De délivrer au preneur la chose louée et, s'il s'agit de son habitation principale, un logement décent ;
 
 2° D'entretenir cette chose en état de servir à l'usage pour lequel elle a été louée ;
 
@@ -51628,10 +51628,6 @@ Le bailleur est obligé, par la nature du contrat, et sans qu'il soit besoin d'a
 4° D'assurer également la permanence et la qualité des plantations.
 
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°46-682 1946-04-13 JORF 14 avril 1946 rectificatif JORF 16, 24 avril
 
 	**Cité par**:
 
@@ -51645,9 +51641,9 @@ Le bailleur est obligé, par la nature du contrat, et sans qu'il soit besoin d'a
 
 	  - Loi n°1804-03-07
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+	  - Loi n°2000-1208 du 13 décembre 2000 - art. 187 () JORF 14 décembre 2000
 
 
 ###### Article 1720

@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1896-06-20
+Version Consolidée au 1898-03-24
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -7835,6 +7835,26 @@ charge d'en aider les copartageants, à toute réquisition. S'il y a difficulté
 
 
 #### Section 2 : Des rapports, de l'imputation et de la réduction des libéralités faites aux successibles.
+
+###### Article 843
+
+Tout héritier, même bénéficiaire, venant à une succession, doit rapporter à ses cohéritiers tout ce qu'il a reçu du défunt,
+par donations entre vifs, directement ou indirectement ; il ne peut retenir les dons à lui faits par le défunt, à moins
+qu'ils ne lui aient été faits expressément par préciput et hors part, ou avec dispense de rapport.
+
+Les legs faits à un héritier sont réputés faits par préciput et hors part, à moins que le testateur n'ait exprimé la volonté
+contraire, auquel cas le légataire ne peut réclamer son legs qu'en moins prenant.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-04-19
+
+	**Créé par**:
+
+	  - Loi n°1803-04-19 promulguée le 29 avril 1803
+
 
 ###### Article 845
 

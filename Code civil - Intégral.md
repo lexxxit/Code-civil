@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1990-01-04
+Version Consolidée au 1991-12-01
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -47559,6 +47559,40 @@ distinctif.
 	  - Loi n°1804-03-07
 
 
+###### Article 1792-5
+
+Toute clause d'un contrat qui a pour objet, soit d'exclure ou de limiter la responsabilité prévue aux articles 1792, 1792-1
+et 1792-2, soit d'exclure les garanties prévues aux articles 1792-3 et 1792-6 ou d'en limiter la portée, soit d'écarter ou de
+limiter la solidarité prévue à l'article 1792-4, est réputée non écrite.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°90-1129 1990-12-19 art. 8 *date d'effet*
+
+	**Modifié par**:
+
+	  - Loi n°90-1129 du 19 décembre 1990 - art. 2 () JORF 22 décembre 1990 en vigueur le 1er décembre 1991
+
+	**Cite**:
+
+	  - Code civil - art. 1792 (V)
+	  - Code civil - art. 1792-1 (V)
+	  - Code civil - art. 1792-2 (V)
+	  - Code civil - art. 1792-3 (V)
+	  - Code civil - art. 1792-4 (V)
+	  - Code civil - art. 1792-6 (V)
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. L111-12 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-07
+
+
 ###### Article 1792-6
 
 La réception est l'acte par lequel le maître de l'ouvrage déclare accepter l'ouvrage avec ou sans réserves. Elle intervient à
@@ -47726,37 +47760,6 @@ règles prescrites dans la présente section : ils sont entrepreneurs dans la pa
 	**Créé par**:
 
 	  - Loi n°1804-03-07 promulguée le 17 mars 1804
-
-
-#### Section III : Des devis et des marchés.
-
-###### Article 1792-5
-
-Tout clause d'un contrat qui a pour objet, soit d'exclure ou de limiter la responsabilité prévue aux articles 1792, 1792-1 et
-1792-2, soit d'exclure la garantie prévue à l'article 1792-3 ou d'en limiter la portée, soit d'écarter ou de limiter la
-solidarité prévue à l'article 1792-4, est réputée non écrite.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°78-12 du 4 janvier 1978 - art. 2 () JORF 5 janvier 1978 en vigueur le 1er janvier 1979
-
-	**Cite**:
-
-	  - Code civil - art. 1792 (V)
-	  - Code civil - art. 1792-1 (V)
-	  - Code civil - art. 1792-2 (M)
-	  - Code civil - art. 1792-3 (M)
-	  - Code civil - art. 1792-4 (V)
-
-	**Cité par**:
-
-	  - Code de la construction et de l'habitation. - art. L111-12 (V)
-
-	**Codifié par**:
-
-	  - Loi n°1804-03-07
 
 
 ### Chapitre IV : Du bail à cheptel

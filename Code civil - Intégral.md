@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 2002-07-01
+Version Consolidée au 2003-09-01
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -14767,16 +14767,13 @@ leur consentement.
 
 ###### Article 334-5
 
-En l'absence de filiation paternelle établie, le mari de la mère peut conférer, par substitution, son propre nom à l'enfant
-par une déclaration qu'il fera conjointement avec la mère, sous les conditions prévues à l'article 334-2 ci-dessus.
+En l'absence de filiation maternelle ou paternelle établie, la femme du père ou le mari de la mère selon le cas peut conférer
+par substitution son propre nom de famille à l'enfant par une déclaration faite conjointement avec l'autre époux dans les
+conditions définies à l'article 334-2. Il peut également aux mêmes conditions être conféré à l'enfant les noms accolés des
+deux époux dans l'ordre choisi par eux et dans la limite d'un nom de famille pour chacun d'eux.
 
 L'enfant pourra toutefois demander à reprendre le nom qu'il portait antérieurement par une demande qu'il soumettra au juge
 aux affaires familiales, dans les deux années suivant sa majorité.
-
-**Nota:**
-
-NOTA : Ces dispositions demeurent en vigueur jusqu'au 1er janvier 2005. L'article 13 de la loi n° 2003-516 ayant reporté au
-1er janvier 2005 la date initiale du 1er septembre 2003 prévue par l'article 25 de la loi n° 2002-304.
 
 **Liens relatifs à cet article**
 
@@ -14792,14 +14789,13 @@ NOTA : Ces dispositions demeurent en vigueur jusqu'au 1er janvier 2005. L'articl
 
 	  - Loi n°1803-03-14
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°93-22 1993-01-08 art. 63, art. 64
-
 	**Modifié par**:
 
-	  - Loi n°93-22 du 8 janvier 1993 - art. 48 () JORF 9 janvier 1993 en vigueur le 1er février 1994
-	  - Loi n°93-22 du 8 janvier 1993 - art. 64 (V) JORF 9 janvier 1993 en vigueur le 1er février 1994
+	  - Loi n°2002-304 du 4 mars 2002 - art. 13 () JORF 5 mars 2002 en vigueur le 1er septembre 2003
+
+	**Abrogé par**:
+
+	  - Loi n°2003-516 du 18 juin 2003 - art. 9 () JORF 19 juin 2003 en vigueur le 1er janvier 2005
 
 	**Cite**:
 

@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1900-05-17
+Version Consolidée au 1907-01-21
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -634,6 +634,27 @@ des parties, et à l'officier de l'état civil, qui mettra son visa sur l'origin
 	**Cité par**:
 
 	  - Décret n°2005-1669 du 27 décembre 2005 - art. 2 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-11
+
+	**Créé par**:
+
+	  - Loi n°1803-03-11 promulguée le 21 mars 1803
+
+
+###### Article 74
+
+Le mariage sera célébré dans la commune où l'un des deux époux aura son domicile ou sa résidence établie par un mois au moins
+d'habitation continue à la date de la publication prévue par la loi.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°2009-594 du 27 mai 2009 - art. 58 (V)
+	  - Code civil - art. 171-9 (V)
 
 	**Codifié par**:
 

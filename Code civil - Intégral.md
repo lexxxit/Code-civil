@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1992-07-14
+Version Consolidée au 1992-08-01
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -34543,10 +34543,15 @@ risques de ce dernier.
 
 ###### Article 1139
 
-Le débiteur est constitué en demeure, soit par une sommation ou par autre acte équivalent, soit par l'effet de la convention,
-lorsqu'elle porte que, sans qu'il soit besoin d'acte et par la seule échéance du terme, le débiteur sera en demeure.
+Le débiteur est constitué en demeure, soit par une sommation ou par autre acte équivalent, telle une lettre missive lorsqu'il
+ressort de ses termes une interpellation suffisante, soit par l'effet de la convention, lorsqu'elle porte que, sans qu'il
+soit besoin d'acte et par la seule échéance du terme, le débiteur sera en demeure.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°91-650 du 9 juillet 1991 - art. 84 () JORF 14 juillet 1991 en vigueur le 1er août 1992
 
 	**Cité par**:
 
@@ -34559,10 +34564,6 @@ lorsqu'elle porte que, sans qu'il soit besoin d'acte et par la seule échéance 
 	**Codifié par**:
 
 	  - Loi n°1804-02-07
-
-	**Créé par**:
-
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
 
 
 ###### Article 1140
@@ -34634,6 +34635,7 @@ il peut se faire autoriser à le détruire aux dépens du débiteur, sans préju
 ###### Article 1144
 
 Le créancier peut aussi, en cas d'inexécution, être autorisé à faire exécuter lui-même l'obligation aux dépens du débiteur.
+Celui-ci peut être condamné à faire l'avance des sommes nécessaires à cette exécution.
 
 **Liens relatifs à cet article**
 
@@ -34645,9 +34647,9 @@ Le créancier peut aussi, en cas d'inexécution, être autorisé à faire exécu
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
+	  - Loi n°91-650 du 9 juillet 1991 - art. 82 () JORF 14 juillet 1991 en vigueur le 1er août 1992
 
 
 ###### Article 1145
@@ -34672,7 +34674,8 @@ contravention.
 
 Les dommages et intérêts ne sont dus que lorsque le débiteur est en demeure de remplir son obligation, excepté néanmoins
 lorsque la chose que le débiteur s'était obligé de donner ou de faire ne pouvait être donnée ou faite que dans un certain
-temps qu'il a laissé passer.
+temps qu'il a laissé passer. La mise en demeure peut résulter d'une lettre missive, s'il en ressort une interpellation
+suffisante.
 
 **Liens relatifs à cet article**
 
@@ -34680,9 +34683,9 @@ temps qu'il a laissé passer.
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
+	  - Loi n°91-650 du 9 juillet 1991 - art. 85 () JORF 14 juillet 1991 en vigueur le 1er août 1992
 
 
 ###### Article 1147
@@ -36723,23 +36726,14 @@ offerte soit égale ou même plus grande.
 
 ###### Article 1244
 
-Le débiteur ne peut point forcer le créancier à recevoir en partie le paiement d'une dette, même divisible.
-
-Les juges peuvent néanmoins, en considération de la position du débiteur et compte tenu de la situation économique, accorder
-pour le paiement des délais qui emprunteront leur mesure aux circonstances, sans toutefois dépasser deux ans, et surseoir à
-l'exécution des poursuites, toutes choses demeurant en l'état.
-
-En cas d'urgence, la même faculté appartient en tout état de cause, au juge des référés.
-
-S'il est sursis à l'exécution des poursuites, les délais fixés par le code de procédure civile pour la validité des
-procédures d'exécution seront suspendus jusqu'à l'expiration du délai accordé par le juge.
+Le débiteur ne peut forcer le créancier à recevoir en partie le paiement d'une dette, même divisible.
 
 **Liens relatifs à cet article**
 
 	**Cité par**:
 
-	  - Loi n°48-1360 du 1 septembre 1948 - art. 80 (M)
 	  - Décret n°53-960 du 30 septembre 1953 - art. 25 (M)
+	  - Loi n°48-1360 du 1 septembre 1948 - art. 80 (M)
 	  - Loi n°56-672 du 9 juillet 1956 - art. 6 (M)
 	  - Loi n°67-3 du 3 janvier 1967 - art. 9 (V)
 	  - Loi n°70-632 du 15 juillet 1970 - art. 60 (V)
@@ -36756,13 +36750,143 @@ procédures d'exécution seront suspendus jusqu'à l'expiration du délai accord
 	  - Code de la construction et de l'habitation. - art. L613-1 (M)
 	  - Code rural - art. L411-76 (M)
 
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
 	**Modifié par**:
 
-	  - Loi n°85-1097 1985-10-11 art. 7 JORF 15 octobre 1985
+	  - Loi n°91-650 du 9 juillet 1991 - art. 83 () JORF 14 juillet 1991 en vigueur le 1er août 1992
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 98-774 1998-09-02 art. 1 I (champ d'application territoriale aux TOM et à Mayotte)
+
+
+###### Article 1244-1
+
+Toutefois, compte tenu de la situation du débiteur et en considération des besoins du créancier, le juge peut, dans la limite
+de deux années, reporter ou échelonner le paiement des sommes dues.
+
+Par décision spéciale et motivée, le juge peut prescrire que les sommes correspondant aux échéances reportées porteront
+intérêt à un taux réduit qui ne peut être inférieur au taux légal ou que les paiements s'imputeront d'abord sur le capital.
+
+En outre, il peut subordonner ces mesures à l'accomplissement, par le débiteur, d'actes propres à faciliter ou à garantir le
+paiement de la dette.
+
+Les dispositions du présent article ne s'appliquent pas aux dettes d'aliments.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°48-1360 du 1 septembre 1948 - art. 80 (V)
+	  - Décret n°53-960 du 30 septembre 1953 - art. 25 (Ab)
+	  - Loi n°56-672 du 9 juillet 1956 - art. 6 (V)
+	  - Loi n°79-596 du 13 juillet 1979 - art. 14 (Ab)
+	  - Loi n°84-148 du 1 mars 1984 - art. 36 (Ab)
+	  - Loi n°89-462 du 6 juillet 1989 - art. 24 (V)
+	  - Code civil - art. 1244-2 (Ab)
+	  - Code civil - art. 1244-3 (Ab)
+	  - Code de commerce - art. L145-41 (V)
+	  - Code de commerce - art. L611-10-1 (VD)
+	  - Code de commerce - art. L611-7 (VD)
+	  - Code de commerce. - art. L611-4 (M)
+	  - Code de la consommation - art. L314-20 (VD)
+	  - Code de la construction et de l'habitation. - art. L222-4 (V)
+	  - Code de la construction et de l'habitation. - art. L261-13 (V)
+	  - Code de la construction et de l'habitation. - art. L613-1 (V)
+	  - Code de procédure civile - art. 847-2 (VD)
+	  - Code de procédure civile - art. 861-2 (VD)
+	  - Code rural - art. L411-76 (V)
+	  - Code rural - art. L418-3 (V)
+
+	**Créé par**:
+
+	  - Loi n°91-650 du 9 juillet 1991 - art. 83 () JORF 14 juillet 1991 en vigueur le 1er août 1992
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 98-774 1998-09-02 art. 1 I (champ d'application territoriale aux TOM et à Mayotte)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
 	**Codifié par**:
 
 	  - Loi n°1804-02-07
+
+
+###### Article 1244-2
+
+La décision du juge, prise en application de l'article 1244-1, suspend les procédures d'exécution qui auraient été engagées
+par le créancier. Les majorations d'intérêts ou les pénalités encourues à raison du retard cessent d'être dues pendant le
+délai fixé par le juge.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Cité par**:
+
+	  - Loi n°48-1360 du 1 septembre 1948 - art. 80 (V)
+	  - Loi n°56-672 du 9 juillet 1956 - art. 6 (V)
+	  - Loi n°79-596 du 13 juillet 1979 - art. 14 (Ab)
+	  - Loi n°89-462 du 6 juillet 1989 - art. 24 (V)
+	  - Code civil - art. 1244-3 (Ab)
+
+	**Créé par**:
+
+	  - Loi n°91-650 du 9 juillet 1991 - art. 83 () JORF 14 juillet 1991 en vigueur le 1er août 1992
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 98-774 1998-09-02 art. 1 I (champ d'application territoriale aux TOM et à Mayotte)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
+
+	**Cite**:
+
+	  - Code civil - art. 1244-1
+
+
+###### Article 1244-3
+
+Toute stipulation contraire aux dispositions des articles 1244-1 et 1244-2 est réputée non écrite.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Cité par**:
+
+	  - Loi n°48-1360 du 1 septembre 1948 - art. 80 (V)
+	  - Loi n°56-672 du 9 juillet 1956 - art. 6 (V)
+	  - Loi n°79-596 du 13 juillet 1979 - art. 14 (Ab)
+
+	**Créé par**:
+
+	  - Loi n°91-650 du 9 juillet 1991 - art. 83 () JORF 14 juillet 1991 en vigueur le 1er août 1992
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 98-774 1998-09-02 art. 1 (champ d'application territoriale aux TOM et à Mayotte)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
+
+	**Cite**:
+
+	  - Code civil - art. 1244-1 (Ab)
+	  - Code civil - art. 1244-2 (Ab)
 
 
 ###### Article 1245
@@ -37234,141 +37358,6 @@ elle est placée, celui-ci pourra obtenir de la justice la permission de la mett
 	**Abrogé par**:
 
 	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
-
-
-##### Paragraphe V : De la cession de biens.
-
-###### Article 1265
-
-La cession de biens est l'abandon qu'un débiteur fait de tous ses biens à ses créanciers, lorsqu'il se trouve hors d'état de
-payer ses dettes.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Loi n°91-650 du 9 juillet 1991 - art. 94 (VT) JORF 14 juillet 1991 en vigueur le 1er août 1992
-
-	**Cité par**:
-
-	  - Décret n°2016-230 du 26 février 2016 - art.
-
-	**Codifié par**:
-
-	  - Loi n°1804-02-07
-
-	**Créé par**:
-
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
-
-
-###### Article 1266
-
-La cession de biens est volontaire ou judiciaire.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1804-02-07
-
-	**Créé par**:
-
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
-
-	**Abrogé par**:
-
-	  - Loi n°91-650 du 9 juillet 1991 - art. 94 (VT) JORF 14 juillet 1991 en vigueur le 1er août 1992
-
-
-###### Article 1267
-
-La cession de biens volontaire est celle que les créanciers acceptent volontairement, et qui n'a d'effet que celui résultant
-des stipulations mêmes du contrat passé entre eux et le débiteur.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1804-02-07
-
-	**Créé par**:
-
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
-
-	**Abrogé par**:
-
-	  - Loi n°91-650 du 9 juillet 1991 - art. 94 (VT) JORF 14 juillet 1991 en vigueur le 1er août 1992
-
-
-###### Article 1268
-
-La cession judiciaire est un bénéfice que la loi accorde au débiteur malheureux et de bonne foi, auquel il est permis, pour
-avoir la liberté de sa personne, de faire en justice l'abandon de tous ses biens à ses créanciers, nonobstant toute
-stipulation contraire.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Loi n°91-650 du 9 juillet 1991 - art. 94 (VT) JORF 14 juillet 1991 en vigueur le 1er août 1992
-
-	**Cité par**:
-
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 1845 bis (Ab)
-	  - Livre des procédures fiscales - art. L271 (M)
-
-	**Codifié par**:
-
-	  - Loi n°1804-02-07
-
-	**Créé par**:
-
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
-
-
-###### Article 1269
-
-La cession judiciaire ne confère point la propriété aux créanciers ; elle leur donne seulement le droit de faire vendre les
-biens à leur profit, et d'en percevoir les revenus jusqu'à la vente.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1804-02-07
-
-	**Créé par**:
-
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
-
-	**Abrogé par**:
-
-	  - Loi n°91-650 du 9 juillet 1991 - art. 94 (VT) JORF 14 juillet 1991 en vigueur le 1er août 1992
-
-
-###### Article 1270
-
-Les créanciers ne peuvent refuser la cession judiciaire, si ce n'est dans les cas exceptés par la loi.
-
-Elle opère la décharge de la contrainte par corps.
-
-Au surplus, elle ne libère le débiteur que jusqu'à concurrence de la valeur des biens abandonnés ; et dans le cas où ils
-auraient été insuffisants, s'il lui en survient d'autres, il est obligé de les abandonner jusqu'au parfait paiement.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1804-02-07
-
-	**Créé par**:
-
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
-
-	**Abrogé par**:
-
-	  - Loi n°91-650 du 9 juillet 1991 - art. 94 (VT) JORF 14 juillet 1991 en vigueur le 1er août 1992
 
 
 #### Section 2 : De la novation.
@@ -55718,88 +55707,32 @@ présents et à venir.
 	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 3 () JORF 24 mars 2006
 
 
-###### Article 2092-1
-
-Les biens du débiteur peuvent être appréhendés alors même qu'ils seraient détenus par des tiers.
-
-L'appréhension s'opère selon les règles propres à la nature de chacun d'eux.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1804-03-19
-
-	**Créé par**:
-
-	  - Loi n°72-626 du 5 juillet 1972 - art. 2 () JORF 9 juillet 1972
-
-	**Abrogé par**:
-
-	  - Loi n°91-650 du 9 juillet 1991 - art. 94 (VT) JORF 14 juillet 1991 en vigueur le 1er août 1992
-
-
-###### Article 2092-2
-
-Ne peuvent être saisis :
-
-1° Les biens que la loi déclare insaisissables ;
-
-2° Les provisions, sommes et pensions à caractère alimentaire, encore que le titre en vertu duquel elles sont dues ne les
-déclare pas insaisissables, si ce n'est pour aliments fournis à la partie saisie ;
-
-3° Les biens disponibles déclarés insaisissables par le testateur ou le donateur, si ce n'est, avec la permission du juge et
-pour la portion qu'il détermine, par les créanciers postérieurs à l'acte de donation ou à l'ouverture du legs ;
-
-4° Les biens mobiliers nécessaires à la vie et au travail du saisi et de sa famille, si ce n'est pour paiement de leur prix,
-dans les limites fixées par le code de procédure civile.
-
-Les immeubles par destination ne peuvent être saisis indépendamment de l'immeuble que pour paiement de leur prix.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1804-03-19
-
-	**Créé par**:
-
-	  - Loi n°72-626 du 5 juillet 1972 - art. 2 () JORF 9 juillet 1972
-
-	**Cité par**:
-
-	  - Loi n°72-626 du 5 juillet 1972 - art. 16 (V)
-
-	**Abrogé par**:
-
-	  - Loi n°91-650 du 9 juillet 1991 - art. 94 (VT) JORF 14 juillet 1991 en vigueur le 1er août 1992
-
-
 ###### Article 2092-3
-
-Les biens saisis sont indisponibles.
 
 Les baux consentis par le saisi sont, quelle que soit leur durée, inopposables aux créanciers poursuivants.
 
-Les mêmes règles sont applicables aux biens saisis, hypothéqués ou nantis à titre conservatoire.
-
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Loi n°1804-03-19
-
-	**Créé par**:
-
-	  - Loi n°72-626 du 5 juillet 1972 - art. 2 () JORF 9 juillet 1972
+	  - Loi n°91-650 du 9 juillet 1991 - art. 91 () JORF 14 juillet 1991 en vigueur le 1er août 1992
 
 	**Cité par**:
 
 	  - Loi n°91-650 du 9 juillet 1991 - art. 94 (VT)
 
+	**Transféré par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 50 () JORF 24 mars 2006
+
 	**Nouveaux textes**:
 
+	  - Code civil - art. 2205 (Ab)
 	  - Code civil - art. 2205 (AbD)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-19
 
 
 ###### Article 2093

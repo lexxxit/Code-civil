@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1957-03-27
+Version Consolidée au 1957-11-20
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -1210,6 +1210,31 @@ par l'article 79.
 	**Abrogé par**:
 
 	  - Décret n°65-422 du 1 juin 1965 - art. 12 (V) JORF 5 juin 1965
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-11
+
+	**Créé par**:
+
+	  - Loi n°1803-03-11 promulguée le 21 mars 1803
+
+
+###### Article 95
+
+Dans les cas prévus aux alinéas 2 et 3 de l'article 93, les actes de l'état civil sont dressés sur un registre spécial, dont
+la tenue et la conservation sont réglées par arrêté conjoint du ministre de la défense nationale et des forces armées et du
+ministre des anciens combattants et victimes de guerre.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°57-1232 du 28 novembre 1957 - art. 1 () JORF 29 novembre 1957
+
+	**Cite**:
+
+	  - Code civil - art. 93 (V)
 
 	**Codifié par**:
 

@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1958-10-09
+Version Consolidée au 1958-10-28
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -9069,6 +9069,33 @@ appartiendra.
 
 	  - Décret n°1901-08-16 du 16 août 1901 - art. 14 (V)
 	  - Nouveau code de procédure civile - art. 1379 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-04-19
+
+	**Créé par**:
+
+	  - Loi n°1803-04-19 promulguée le 29 avril 1803
+
+
+###### Article 814
+
+Les dispositions de la section III du présent chapitre, sur les formes de l'inventaire, sur le mode d'administration et sur
+les comptes à rendre de la part de l'héritier bénéficiaire, sont, au surplus, communes aux curateurs à successions vacantes,
+en ce qu'elles ne sont pas contraires aux dispositions des articles 1000 et 1001 du code de procédure civile.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de procédure civile - art. 1000 (V)
+	  - Code de procédure civile - art. 1001 (V)
+
+	**Cité par**:
+
+	  - Code civil - art. 815-18 (M)
+	  - Nouveau code de procédure civile - art. 1380 (V)
 
 	**Codifié par**:
 

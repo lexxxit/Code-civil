@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1927-08-10
+Version Consolidée au 1927-08-15
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -182,39 +182,6 @@ On ne peut déroger, par des conventions particulières, aux lois qui intéresse
 	**Créé par**:
 
 	  - Loi n°1803-03-08 promulguée le 18 mars 1803
-
-
-## Titre Ier bis : De la nationalité française
-
-### Chapitre Ier : Dispositions générales
-
-###### Article 17
-
-Perdent la qualité de Français :
-
-1° Le Français naturalisé à l'étranger ou celui qui acquiert sur sa demande la nationalité étrangère par l'effet de la loi.
-
-S'il est encore soumis aux obligations du service militaire pour l'armée active, la naturalisation à l'étranger ne fera
-perdre la qualité de Français que si elle a été autorisée par le gouvernement français ;
-
-2° Le Français qui a décliné la nationalité française dans les cas prévus au paragraphe 4 de l'article 8 et aux articles 12
-et 18 ;
-
-3° Le Français qui, ayant accepté des fonctions publiques conférées par un gouvernement étranger, les conserve nonobstant
-l'injonction du gouvernement français de les résigner dans un délai déterminé ;
-
-4° Le Français qui, sans autorisation du Gouvernement, prend du service militaire à l'étranger, sans préjudice des lois
-pénales contre le Français qui se soustrait aux obligations de la loi militaire.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi du 26 juin 1889, v. init.
-
-	**Abrogé par**:
-
-	  - Loi du 10 août 1927 article 13 (Ab)
 
 
 ## Titre II : Des actes de l'état civil

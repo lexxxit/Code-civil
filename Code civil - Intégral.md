@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1803-03-27
+Version Consolidée au 1803-04-05
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -1901,5 +1901,249 @@ l'enfant à qui il devra des aliments, devra dans ce cas être dispensé de paye
 	**Créé par**:
 
 	  - Loi n°1803-03-17 promulguée le 27 mars 1803
+
+
+## Titre X : De la minorité, de la tutelle et de l'émancipation.
+
+### Chapitre II : De la tutelle.
+
+#### Section 2 : De l'organisation de la tutelle.
+
+##### Paragraphe 2 : Du tuteur.
+
+###### Article 399
+
+(article abrogé).
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code civil - art. 456 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°1803-03-26 promulguée le 5 avril 1803
+
+	**Abrogé par**:
+
+	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+
+
+###### Article 400
+
+(article abrogé).
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°1803-03-26 promulguée le 5 avril 1803
+
+	**Abrogé par**:
+
+	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+
+
+##### Paragraphe 4 : Des autres organes de la tutelle.
+
+###### Article 422
+
+(article abrogé).
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°1803-03-26 promulguée le 5 avril 1803
+
+	**Abrogé par**:
+
+	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+
+	**Cité par**:
+
+	  - Ordonnance n°2012-1222 du 2 novembre 2012 - art. 4 (V)
+
+
+##### Paragraphe 5 : Des charges tutélaires.
+
+###### Article 430
+
+(article abrogé).
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°1803-03-26 promulguée le 5 avril 1805
+
+	**Abrogé par**:
+
+	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+
+	**Cité par**:
+
+	  - Code civil - art. 442 (V)
+	  - Code de procédure civile - art. 1218-1 (V)
+	  - Code de procédure civile - art. 1220-4 (V)
+	  - Code de procédure civile - art. 1222 (V)
+	  - Code de procédure civile - art. 1239 (V)
+	  - Code de procédure civile - art. 1251-1 (V)
+
+
+###### Article 431
+
+(article abrogé).
+
+**Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+
+	**Cité par**:
+
+	  - Arrêté du 23 décembre 2009 - art. Annexe (V)
+	  - Code civil - art. 426 (M)
+	  - Code civil - art. 431-1 (Ab)
+	  - Code civil - art. 432 (V)
+	  - Code civil - art. 441 (V)
+	  - Code civil - art. 442 (V)
+	  - Code civil - art. 481 (V)
+	  - Code civil - art. 494-4 (VD)
+	  - Code civil - art. 494-6 (V)
+	  - Code de procédure civile - art. 1218 (V)
+	  - Code de procédure civile - art. 1219 (V)
+	  - Code de procédure civile - art. 1256 (V)
+	  - Code de procédure civile - art. 1258 (V)
+	  - Code de procédure civile - art. 1258-1 (V)
+	  - Code de procédure civile - art. 1259 (V)
+	  - Code de procédure civile - art. 1260-3 (V)
+	  - Code de procédure pénale - art. D47-24 (V)
+	  - Code de procédure pénale - art. R217-1 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°1803-03-26 promulguée le 5 avril 1805
+
+
+### Chapitre III : De l'émancipation.
+
+###### Article 483
+
+(article abrogé).
+
+**Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 1213 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°1803-03-26 promulguée le 5 avril 1803
+
+
+###### Article 484
+
+(article abrogé).
+
+**Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 1213 (V)
+	  - Code de procédure civile - art. 1259-3 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°1803-03-26 promulguée le 5 avril 1803
+
+
+###### Article 485
+
+(article abrogé).
+
+**Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+
+	**Cité par**:
+
+	  - Décret n°67-223 du 17 mars 1967 - art. 32 (V)
+	  - Code de procédure civile - art. 1217 (V)
+	  - Code de procédure civile - art. 1259-5 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°1803-03-26 promulguée le 5 avril 1803
+
+
+###### Article 486
+
+(article abrogé).
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 23 décembre 2009 - art. Annexe (V)
+	  - Code civil - art. 491 (VD)
+	  - Code civil - art. 494 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°1803-03-26 promulguée le 5 avril 1803
+
+	**Abrogé par**:
+
+	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
 
 

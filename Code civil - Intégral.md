@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1994-02-13
+Version Consolidée au 1994-03-01
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -1102,33 +1102,24 @@ nationalité.
 Toutefois, l'étranger perd le droit qui lui est reconnu à l'article précédent s'il a fait l'objet pour des faits commis entre
 l'âge de dix-huit ans et celui de vingt et un ans :
 
-- d'une condamnation à une peine quelconque d'emprisonnement pour crimes ou délits contre la sûreté de l'Etat ou liés au
-terrorisme ;
+- d'une condamnation à une peine quelconque d'emprisonnement pour crimes ou délits constituant une atteinte aux intérêts
+fondamentaux de la Nation ou un acte de terrorisme ;
 
 - d'une condamnation à une peine égale ou supérieure à six mois d'emprisonnement non assortie d'une mesure de sursis pour
-proxénétisme ou trafic de stupéfiants ou coups mortels ou homicide volontaire ou assassinat ;
+atteinte volontaire à la vie, violences ayant entraîné la mort, trafic de stupéfiants ou proxénétisme ;
 
 - d'une condamnation à une peine égale ou supérieure à six mois d'emprisonnement non assortie d'une mesure de sursis pour
-homicide volontaire, coups et blessures volontaires, menaces, viol ou attentat à la pudeur commis à l'encontre d'un mineur de
-quinze ans.
+toute atteinte volontaire à la vie ou à l'intégrité d'un mineur de quinze ans ou pour toute atteinte sexuelle à la personne
+d'un mineur de quinze ans.
 
-Il en est de même de celui qui a fait l'objet soit d'un arrêté d'expulsion (1) ou d'une interdiction du territoire français
-non entièrement exécutée.
-
-(1) Dispositions de cet alinéa non reproduites car déclarées non conformes à la Constitution par décision du Conseil
-constitutionnel n° 93-321 DC du 20 juillet 1993 : "ou d'un arrêté d'assignation à résidence non expressément rapporté ou
-abrogé, soit d'un arrêté de reconduite à la frontière".
+Il en est de même de celui qui a fait l'objet soit d'un arrêté d'expulsion non expressément rapporté ou abrogé, soit d'une
+interdiction du territoire français non entièrement exécutée.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Loi n°93-933 1993-07-22
-
-	**Créé par**:
-
-	  - Loi n°93-933 du 22 juillet 1993 - art. 50 () JORF 23 juillet 1993 en vigueur le 1er janvier 1994
-	  - Loi n°93-933 du 22 juillet 1993 - art. 51 (V) JORF 23 juillet 1993 en vigueur le 1er janvier 1994
 
 	**Cité par**:
 
@@ -1137,6 +1128,10 @@ abrogé, soit d'un arrêté de reconduite à la frontière".
 	  - Code civil - art. 21-11 (M)
 	  - Code civil - art. 21-27 (M)
 	  - Code du service national - art. L113-3 (V)
+
+	**Modifié par**:
+
+	  - Loi n°93-1417 1993-12-30 art. 11 I JORF 1er janvier 1994 en vigueur le 1er mars 1994
 
 	**Anciens textes**:
 
@@ -2323,6 +2318,48 @@ conditions des articles 22-1 et 22-2 du présent titre.
 
 
 #### Section 3 : De la déchéance de la nationalité française
+
+###### Article 25
+
+L'individu qui a acquis la qualité de français peut, par décret pris après avis conforme du Conseil d'Etat, être déchu de la
+nationalité française :
+
+1° S'il est condamné pour un acte qualifié de crime ou délit constituant une atteinte aux intérêts fondamentaux de la
+nation ;
+
+2° S'il est condamné pour un acte qualifié de crime ou délit prévu et réprimé par le chapitre II du titre III du livre IV du
+code pénal ;
+
+3° S'il est condamné pour s'être soustrait aux obligations résultant pour lui du code du service national ;
+
+4° S'il s'est livré au profit d'un Etat étranger à des actes incompatibles avec la qualité de français et préjudiciables aux
+intérêts de la France ;
+
+5° S'il a été condamné en France ou à l'étranger pour un acte qualifié de crime par la loi française et ayant entraîné une
+condamnation à une peine d'au moins cinq années d'emprisonnement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°93-933 1993-07-22
+
+	**Créé par**:
+
+	  - Loi n°93-933 du 22 juillet 1993 - art. 29 () JORF 23 juillet 1993 en vigueur le 1er mars 1994
+	  - Loi n°1803-03-08 promulguée le 18 mars 1803
+
+	**Cité par**:
+
+	  - Décret n°93-1362 du 30 décembre 1993 - art. 61 (V)
+	  - Décret n°2004-459 du 28 mai 2004 - art. 1 (VT)
+	  - Code civil - art. 25-1 (V)
+	  - Code de la Légion d'honneur et de la médaille mili - art. R90 (V)
+
+	**Anciens textes**:
+
+	  - Code de la nationalité française. - art. 98 (Ab)
+
 
 ###### Article 25-1
 
@@ -6605,25 +6642,29 @@ et la mère, ce partage emporte consentement.
 
 ###### Article 149
 
-Si l'un des deux est mort ou s'il est dans l'impossibilité de manifester sa volonté, le consentement de l'autre suffit.
+Si l'un des deux est mort ou s'il est dans l'impossibilité de manifester sa volonté, le consentement de l'autre suffit. 
 
 Il n'est pas nécessaire de produire l'acte de décès du père ou de la mère de l'un des futurs époux lorsque le conjoint ou les
-père et mère du défunt attestent ce décès sous serment.
+père et mère du défunt attestent ce décès sous serment. 
 
 Si la résidence actuelle du père ou de la mère est inconnue, et s'il n'a pas donné de ses nouvelles depuis un an, il pourra
 être procédé à la célébration du mariage si l'enfant et celui de ses père et mère qui donnera son consentement en fait la
-déclaration sous serment.
+déclaration sous serment. 
 
-Du tout, il sera fait mention sur l'acte de mariage.
+Du tout, il sera fait mention sur l'acte de mariage. 
 
 Le faux serment prêté dans les cas prévus au présent article et aux articles suivants du présent chapitre sera puni des
-peines édictées par l'article 363 du code pénal.
+peines édictées par l'article 434-13 du code pénal.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 372 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
 	**Cite**:
 
-	  - Code pénal 363
+	  - Code pénal - art. 434-13 (V)
 
 	**Cité par**:
 
@@ -6633,10 +6674,6 @@ peines édictées par l'article 363 du code pénal.
 	**Codifié par**:
 
 	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°1803-03-17 promulguée le 27 mars 1803
 
 
 ###### Article 150
@@ -9465,8 +9502,13 @@ grave ou renouvelée des devoirs et obligations du mariage et rendent intolérab
 
 ###### Article 243
 
-Il peut être demandé par un époux lorsque l'autre a été condamné à l'une des peines prévues par l'article 7 du code pénal en
-matière criminelle.
+Il peut être demandé par un époux lorsque l'autre a été condamné à l'une des peines prévues par l'article 131-1 du code
+pénal.
+
+**Nota:**
+
+NOTA : La loi 2004-439 du 26 mai 2004 entrera en vigueur le 1er janvier 2005 sauf pour les exceptions citées par l'article 33
+II.
 
 **Liens relatifs à cet article**
 
@@ -9474,18 +9516,21 @@ matière criminelle.
 
 	  - Loi n°1803-03-14
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 136 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
 
-	**Liens**:
+	**Abrogé par**:
 
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+	  - Loi n°2004-439 du 26 mai 2004 - art. 23 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
 
 	**Cite**:
 
-	  - Code pénal 7
+	  - Code pénal - art. 131-1 (V)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance n°96-267 1996-03-28 art. 12 I *la loi n°92-1336 du 16 décembre 1992 relative à l'entrée en vigueur du nouveau code pénal entre en application dans les TOM et à Mayotte au 1er mai 1996*
 
 
 ###### Article 244
@@ -19764,28 +19809,32 @@ La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 
 ###### Article 443
 
-Sont exclus ou destitués de plein droit des différentes charges de la tutelle :
+Sont exclus ou destitués de plein droit des différentes charges de la tutelle : 
 
 1° Ceux qui ont été condamnés à une peine afflictive ou infamante ou à qui l'exercice des charges tutélaires a été interdit
-par application de l'article 42 du code pénal.
+par application de l'article 131-26 du code pénal.
 
-Ils pourront, toutefois, être admis à la tutelle de leurs propres enfants, sur avis conforme du conseil de famille.
+Ils pourront, toutefois, être admis à la tutelle de leurs propres enfants, sur avis conforme du conseil de famille. 
 
 2° Ceux qui ont été déchus de l'autorité parentale.
 
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code pénal 42
 
 	**Codifié par**:
 
 	  - Loi n°1803-03-14
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 330 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+	**Cite**:
+
+	  - Code pénal - art. 131-26 (V)
 
 
 ###### Article 444

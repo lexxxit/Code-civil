@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1971-07-17
+Version Consolidée au 1972-01-01
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -17509,6 +17509,31 @@ L'inégalité des lots en nature se compense par un retour soit en rente, soit e
 	  - Loi n°1803-04-19 promulguée le 29 avril 1803
 
 
+###### Article 833-1
+
+Lorsque le débiteur d'une soulte a obtenu des délais de paiement, et que, par suite de circonstances économiques, la valeur
+des biens mis dans son lot a augmenté ou diminué de plus du quart depuis le partage, les sommes restant dues augmentent ou
+diminuent dans la même proportion.
+
+Les parties peuvent toutefois convenir que le montant de la soulte ne variera pas.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°71-523 du 3 juillet 1971 - art. 2 () JORF 4 juillet 1971 en vigueur le 1er janvier 1972
+
+	**Cité par**:
+
+	  - Code civil - art. 1075-2 (T)
+	  - Code civil - art. 815-14 (M)
+	  - Code civil - art. 868 (T)
+
+	**Codifié par**:
+
+	  - Loi n°1803-04-19
+
+
 ###### Article 834
 
 Les lots sont faits par l'un des cohéritiers s'ils peuvent convenir entre eux sur le choix, et si celui qu'ils avaient choisi
@@ -17732,6 +17757,31 @@ contraire, auquel cas le légataire ne peut réclamer son legs qu'en moins prena
 	  - Loi n°1803-04-19 promulguée le 29 avril 1803
 
 
+###### Article 844
+
+Les dons faits par préciput ou avec dispense de rapport ne peuvent être retenus ni les legs réclamés par l'héritier venant à
+partage que jusqu'à concurrence de la quotité disponible : l'excédent est sujet à réduction.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-04-19
+
+	**Créé par**:
+
+	  - Loi n°1803-04-19 promulguée le 29 avril 1803
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°71-523 du 3 juillet 1971 - art. 12 (V)
+	  - SPEC_APPLI: Loi n°71-523 du 3 juillet 1971 - art. 13 (V)
+
+	**Modifié par**:
+
+	  - Loi n°71-523 du 3 juillet 1971 - art. 4 () JORF 4 juillet 1971 en vigueur le 1er janvier 1972
+
+
 ###### Article 845
 
 L'héritier qui renonce à la succession peut cependant retenir le don entre vifs ou réclamer le legs à lui fait jusqu'à
@@ -17902,6 +17952,34 @@ lorsque les conditions en ont été réglées par un acte authentique.
 	  - Loi n°1803-04-19 promulguée le 29 avril 1803
 
 
+###### Article 855
+
+Le bien qui a péri par cas fortuit et sans la faute du donataire n'est pas sujet à rapport.
+
+Toutefois, si ce bien a été reconstitué au moyen d'une indemnité perçue en raison de sa perte, le donataire doit le rapporter
+dans la proportion où l'indemnité a servi à sa reconstitution.
+
+Si l'indemnité n'a pas été utilisée à cette fin, elle est elle-même sujette à rapport.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-04-19
+
+	**Créé par**:
+
+	  - Loi n°1803-04-19 promulguée le 29 avril 1803
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°71-523 du 3 juillet 1971 - art. 13 (V)
+
+	**Modifié par**:
+
+	  - Loi n°71-523 du 3 juillet 1971 - art. 5 () JORF 4 juillet 1971 en vigueur le 1er janvier 1972
+
+
 ###### Article 856
 
 Les fruits et les intérêts des choses sujettes à rapport ne sont dus qu'à compter du jour de l'ouverture de la succession.
@@ -17933,6 +18011,213 @@ succession.
 	  - Loi n°1803-04-19 promulguée le 29 avril 1803
 
 
+###### Article 858
+
+Le rapport se fait en moins prenant. Il ne peut être exigé en nature sauf stipulation contraire de l'acte de donation.
+
+Dans le cas d'une telle stipulation, les aliénations et constitutions de droits réels consenties par le donataire
+s'éteindront par l'effet du rapport à moins que le donateur n'y ait consenti.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-04-19
+
+	**Créé par**:
+
+	  - Loi n°1803-04-19 promulguée le 29 avril 1803
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°71-523 du 3 juillet 1971 - art. 13 (V)
+
+	**Modifié par**:
+
+	  - Loi n°71-523 du 3 juillet 1971 - art. 6 () JORF 4 juillet 1971 en vigueur le 1er janvier 1972
+
+	**Cité par**:
+
+	  - Décret n°2009-1193 du 7 octobre 2009 - art. 4 (V)
+
+
+###### Article 859
+
+L'héritier a aussi la faculté de rapporter en nature le bien donné qui lui appartient encore à condition que ce bien soit
+libre de toute charge ou occupation dont il n'aurait pas déjà été grevé à l'époque de la donation.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret du 18 novembre 1924 - art. 25 (Ab)
+	  - Décret n°2008-1484 du 22 décembre 2008 - art. Annexe 1 (V)
+	  - Loi du 1er juin 1924 - art. 38 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-04-19
+
+	**Créé par**:
+
+	  - Loi n°1803-04-19 promulguée le 29 avril 1803
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°71-523 du 3 juillet 1971 - art. 13 (V)
+
+	**Modifié par**:
+
+	  - Loi n°71-523 du 3 juillet 1971 - art. 6 () JORF 4 juillet 1971 en vigueur le 1er janvier 1972
+
+
+###### Article 860
+
+Le rapport est dû de la valeur du bien donné à l'époque du partage, d'après son état à l'époque de la donation.
+
+Si le bien a été aliéné avant le partage, on tiendra compte de la valeur qu'il avait à l'époque de l'aliénation et, si un
+nouveau bien a été subrogé au bien aliéné, de la valeur de ce nouveau bien à l'époque du partage.
+
+Le tout sauf stipulation contraire dans l'acte de donation.
+
+S'il résulte d'une telle stipulation que la valeur sujette à rapport est inférieure à la valeur du bien déterminé selon les
+règles d'évaluation prévues par l'article 922 ci-dessous, cette différence forme un avantage indirect acquis au donataire par
+préciput et hors part.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-04-19
+
+	**Créé par**:
+
+	  - Loi n°1803-04-19 promulguée le 29 avril 1803
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°71-523 du 3 juillet 1971 - art. 13 (V)
+
+	**Modifié par**:
+
+	  - Loi n°71-523 du 3 juillet 1971 - art. 6 () JORF 4 juillet 1971 en vigueur le 1er janvier 1972
+
+	**Cité par**:
+
+	  - Code civil - art. 860-1 (V)
+	  - Code civil - art. 869 (T)
+	  - Code du patrimoine - art. L621-28 (VD)
+	  - Code du patrimoine - art. L621-29-7 (VT)
+
+	**Cite**:
+
+	  - Code civil - art. 922 (M)
+
+
+###### Article 861
+
+Lorsque le rapport se fait en nature et que l'état des objets donnés a été amélioré par le fait du donataire, il doit lui en
+être tenu compte, eu égard à ce dont leur valeur se trouve augmentée au temps du partage ou de l'aliénation.
+
+Il doit être pareillement tenu compte au donataire des impenses nécessaires qu'il a faites pour la conservation du bien,
+encore qu'elles ne l'aient point amélioré.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-04-19
+
+	**Créé par**:
+
+	  - Loi n°1803-04-19 promulguée le 29 avril 1803
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°71-523 du 3 juillet 1971 - art. 13 (V)
+
+	**Modifié par**:
+
+	  - Loi n°71-523 du 3 juillet 1971 - art. 6 () JORF 4 juillet 1971 en vigueur le 1er janvier 1972
+
+
+###### Article 862
+
+Le cohéritier qui fait le rapport en nature peut retenir la possession du bien donné jusqu'au remboursement effectif des
+sommes qui lui sont dues pour impenses ou améliorations.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-04-19
+
+	**Créé par**:
+
+	  - Loi n°1803-04-19 promulguée le 29 avril 1803
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°71-523 du 3 juillet 1971 - art. 13 (V)
+
+	**Modifié par**:
+
+	  - Loi n°71-523 du 3 juillet 1971 - art. 6 () JORF 4 juillet 1971 en vigueur le 1er janvier 1972
+
+
+###### Article 863
+
+Le donataire, de son côté, doit, en cas de rapport en nature, tenir compte des dégradations et détériorations qui ont diminué
+la valeur du bien donné par son fait ou par sa faute.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-04-19
+
+	**Créé par**:
+
+	  - Loi n°1803-04-19 promulguée le 29 avril 1803
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°71-523 du 3 juillet 1971 - art. 13 (V)
+
+	**Modifié par**:
+
+	  - Loi n°71-523 du 3 juillet 1971 - art. 6 () JORF 4 juillet 1971 en vigueur le 1er janvier 1972
+
+
+###### Article 864
+
+La donation faite en avancement d'hoirie à un héritier réservataire qui accepte la succession s'impute sur sa part de réserve
+et, subsidiairement, sur la quotité disponible, s'il n'en a pas été autrement convenu dans l'acte de donation.
+
+L'excédent est sujet à réduction.
+
+La donation faite en avancement d'hoirie à un héritier réservataire qui renonce à la succession est traitée comme une
+donation préciputaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-04-19
+
+	**Créé par**:
+
+	  - Loi n°1803-04-19 promulguée le 29 avril 1803
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°71-523 du 3 juillet 1971 - art. 13 (V)
+
+	**Modifié par**:
+
+	  - Loi n°71-523 du 3 juillet 1971 - art. 6 () JORF 4 juillet 1971 en vigueur le 1er janvier 1972
+
+
 ###### Article 865
 
 La libéralité faite par préciput et hors part s'impute sur la quotité disponible. L'excédent est sujet à réduction.
@@ -17951,6 +18236,159 @@ La libéralité faite par préciput et hors part s'impute sur la quotité dispon
 	**Créé par**:
 
 	  - Loi n°1803-04-19 promulguée le 29 avril 1803
+
+
+###### Article 866
+
+Les dons faits à un successible, ou à des successibles conjointement, qui excèdent la portion disponible, peuvent être
+retenus en totalité par les gratifiés, quel que soit l'excédent, sauf à récompenser les cohéritiers en argent.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°1803-04-19 promulguée le 29 avril 1803
+
+	**Cité par**:
+
+	  - Loi n°1924-06-01 du 1 juin 1924 - art. 73 (V)
+	  - Loi n°61-1378 du 19 décembre 1961 - art. 13 (V)
+	  - Loi n°61-1378 du 19 décembre 1961 - art. 14 (M)
+	  - Loi n°62-917 du 8 août 1962 - art. 1 (Ab)
+	  - Code civil - art. 2103 (T)
+	  - Code civil - art. 2109 (T)
+	  - Code civil - art. 2374 (M)
+	  - Code civil - art. 924 (M)
+	  - Code rural - art. L323-6 (M)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°71-523 du 3 juillet 1971 - art. 13 (V)
+
+	**Modifié par**:
+
+	  - Loi n°71-523 du 3 juillet 1971 - art. 6 () JORF 4 juillet 1971 en vigueur le 1er janvier 1972
+
+	**Codifié par**:
+
+	  - Loi n°1803-04-19
+
+
+###### Article 867
+
+Lorsque le legs fait à un successible, ou à des successibles conjointement, porte sur un bien ou sur plusieurs biens
+composant un ensemble, dont la valeur excède la portion disponible, le ou les légataires peuvent, quel que soit cet excédent,
+réclamer en totalité l'objet de la libéralité, sauf à récompenser les cohéritiers en argent. Il en est de même si la
+libéralité porte sur des objets mobiliers ayant été à l'usage commun du défunt et du légataire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-04-19
+
+	**Créé par**:
+
+	  - Loi n°1803-04-19 promulguée le 29 avril 1803
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°71-523 du 3 juillet 1971 - art. 13 (V)
+
+	**Modifié par**:
+
+	  - Loi n°71-523 du 3 juillet 1971 - art. 6 () JORF 4 juillet 1971 en vigueur le 1er janvier 1972
+
+
+###### Article 868
+
+Lorsque la réduction n'est pas exigible en nature, le donataire ou légataire est débiteur d'une indemnité équivalente à la
+portion excessive de la libéralité réductible. Cette indemnité se calcule d'après la valeur des objets donnés ou légués à
+l'époque du partage et leur état au jour où la libéralité a pris effet.
+
+Elle est payable au moment du partage, sauf accord entre les cohéritiers. Toutefois, lorsque la libéralité a pour objet un
+des biens pouvant faire l'objet d'une attribution préférentielle, des délais peuvent être accordés par le tribunal, compte
+tenu des intérêts en présence, s'ils ne l'ont pas été par le disposant. L'octroi de ces délais ne peut, en aucun cas, avoir
+pour effet de différer le paiement de l'indemnité au-delà de dix années à compter de l'ouverture de la succession. Les
+dispositions de l'article 833-1 sont alors applicables au paiement des sommes dues.
+
+A défaut de convention ou de stipulation contraire, ces sommes sont productives d'intérêt au taux légal en matière civile.
+Les avantages résultant des délais et modalités de paiement accordés ne constituent pas une libéralité.
+
+En cas de vente de la totalité du bien donné ou légué, les sommes restant dues deviennent immédiatement exigibles ; en cas de
+ventes partielles, le produit de ces ventes est versé aux cohéritiers et imputé sur les sommes encore dues.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-04-19
+
+	**Créé par**:
+
+	  - Loi n°1803-04-19 promulguée le 29 avril 1803
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°71-523 du 3 juillet 1971 - art. 13 (V)
+
+	**Modifié par**:
+
+	  - Loi n°71-523 du 3 juillet 1971 - art. 6 () JORF 4 juillet 1971 en vigueur le 1er janvier 1972
+
+	**Transféré par**:
+
+	  - Loi n°2006-728 du 23 juin 2006 - art. 13 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+	**Cité par**:
+
+	  - CODE GENERAL DES IMPOTS ANNEXE 3, CGIAN3. - art. 397 (M)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 1722 bis (M)
+	  - Code rural - art. L321-17 (M)
+
+	**Cite**:
+
+	  - Code civil - art. 833-1 (V)
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 924-3 (V)
+
+
+###### Article 869
+
+Le rapport d'une somme d'argent est égal à son montant. Toutefois, si elle a servi à acquérir un bien, le rapport est dû de
+la valeur de ce bien, dans les conditions prévues à l'article 860.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-04-19
+
+	**Créé par**:
+
+	  - Loi n°1803-04-19 promulguée le 29 avril 1803
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°71-523 du 3 juillet 1971 - art. 13 (V)
+
+	**Modifié par**:
+
+	  - Loi n°71-523 du 3 juillet 1971 - art. 6 () JORF 4 juillet 1971 en vigueur le 1er janvier 1972
+
+	**Transféré par**:
+
+	  - Loi n°2006-728 du 23 juin 2006 - art. 5 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+	**Cite**:
+
+	  - Code civil - art. 860 (M)
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 860-1 (V)
 
 
 #### Section 3 : Du paiement des dettes.
@@ -18777,6 +19215,44 @@ réduction, ni en profiter.
 	  - Loi n°1803-05-03 promulguée le 13 mai 1803
 
 
+###### Article 922
+
+La réduction se détermine en formant une masse de tous les biens existant au décès du donateur ou testateur.
+
+On y réunit fictivement, après en avoir déduit les dettes, ceux dont il a été disposé par donation entre vifs d'après leur
+état à l'époque de la donation et leur valeur à l'ouverture de la succession. Si les biens ont été aliénés, il est tenu
+compte de leur valeur à l'époque de l'aliénation et, s'il y a eu subrogation, de la valeur des nouveaux biens au jour de
+l'ouverture de la succession.
+
+On calcule sur tous ces biens, eu égard à la qualité des héritiers qu'il laisse, quelle est la quotité dont le défunt a pu
+disposer.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°71-523 du 3 juillet 1971 - art. 12 (V)
+	  - SPEC_APPLI: Loi n°71-523 du 3 juillet 1971 - art. 13 (V)
+
+	**Modifié par**:
+
+	  - Loi n°71-523 du 3 juillet 1971 - art. 7 () JORF 4 juillet 1971 en vigueur le 1er janvier 1972
+
+	**Cité par**:
+
+	  - Code civil - art. 860 (V)
+	  - Code du patrimoine - art. L621-28 (VD)
+	  - Code du patrimoine - art. L621-29-7 (VT)
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
 ###### Article 923
 
 Il n'y aura jamais lieu à réduire les donations entre vifs, qu'après avoir épuisé la valeur de tous les biens compris dans
@@ -18792,6 +19268,46 @@ donation, et ainsi de suite en remontant des dernières aux plus anciennes.
 	**Créé par**:
 
 	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 924
+
+L'héritier réservataire gratifié par préciput au-delà de la quotité disponible et qui accepte la succession supporte la
+réduction en valeur, comme il est dit à l'article 866 ; à concurrence de ses droits dans la réserve, cette réduction se fera
+en moins prenant.
+
+Il peut réclamer la totalité des objets légués, lorsque la portion réductible n'excède pas sa part de réserve.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+	**Cité par**:
+
+	  - Loi n°61-1378 du 19 décembre 1961 - art. 14 (V)
+	  - Code civil - art. 2374 (V)
+	  - Code civil - art. 2381 (V)
+	  - Code civil - art. 924-1 (V)
+	  - Code rural - art. L323-6 (V)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°71-523 du 3 juillet 1971 - art. 12 (V)
+	  - SPEC_APPLI: Loi n°71-523 du 3 juillet 1971 - art. 13 (V)
+
+	**Modifié par**:
+
+	  - Loi n°71-523 du 3 juillet 1971 - art. 8 () JORF 4 juillet 1971 en vigueur le 1er janvier 1972
+
+	**Cite**:
+
+	  - Code civil - art. 866 (M)
 
 
 ###### Article 925
@@ -18874,6 +19390,74 @@ demande en réduction a été faite dans l'année ; sinon, du jour de la demande
 	**Créé par**:
 
 	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 929
+
+Les droits réels créés par le donataire s'éteindront par l'effet de la réduction. Ces droits conserveront néanmoins leurs
+effets lorsque le donateur y aura consenti dans l'acte même de constitution ou dans un acte postérieur. Le donataire répondra
+alors de la dépréciation en résultant.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°71-523 du 3 juillet 1971 - art. 11 ()
+	  - SPEC_APPLI: Loi n°71-523 du 3 juillet 1971 - art. 12 (V)
+
+	**Modifié par**:
+
+	  - Loi n°71-523 du 3 juillet 1971 - art. 9 () JORF 4 juillet 1971 en vigueur le 1er janvier 1972
+
+	**Cité par**:
+
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 756 bis (V)
+	  - Code civil - art. 1527 (V)
+	  - Code civil - art. 509 (VD)
+	  - Loi du 16 mars 1803 - art. 10 (Ab)
+
+
+###### Article 930
+
+L'action en réduction ou revendication pourra être exercée par les héritiers contre les tiers détenteurs des immeubles
+faisant partie des donations et aliénés par les donataires, de la même manière et dans le même ordre que contre les
+donataires eux-mêmes, et discussion préalablement faite de leurs biens. Cette action devra être exercée suivant l'ordre des
+dates des aliénations, en commençant par la plus récente.
+
+Lorsque le donateur aura consenti à l'aliénation avec l'accord de tous les réservataires nés et vivants au moment de celle-
+ci, l'action ne pourra plus être exercée contre les tiers détenteurs.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+	**Modifié par**:
+
+	  - Loi n°71-523 du 3 juillet 1971 - art. 10 () JORF 4 juillet 1971 en vigueur le 1er janvier 1972
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°71-523 du 3 juillet 1971 - art. 12 (V)
+	  - SPEC_APPLI: Loi n°71-523 du 3 juillet 1971 - art. 13 (V)
+
+	**Cité par**:
+
+	  - Code civil - art. 1054 (V)
+	  - Loi n°1803-03-16 du 16 mars 1803 - art. 11 (V)
 
 
 ### Chapitre IV : Des donations entre vifs
@@ -21669,6 +22253,319 @@ des règles qui lui sont prescrites par les articles du présent chapitre.
 	  - Loi n°2006-728 du 23 juin 2006 - art. 20 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
+### Chapitre VII : Des partages faits par les ascendants.
+
+###### Article 1075-1
+
+Le partage fait par un ascendant ne peut être attaqué pour cause de lésion.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°71-523 du 3 juillet 1971 - art. 11 () JORF 4 juillet 1971 en vigueur le 1er janvier 1972
+
+	**Transféré par**:
+
+	  - Loi n°2006-728 du 23 juin 2006 - art. 22 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+	**Cité par**:
+
+	  - Code civil - art. 1075-2 (V)
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 1075-3 (T)
+	  - Code civil - art. 1075-3 (V)
+
+
+###### Article 1075-2
+
+Les dispositions de l'article 833-1, premier alinéa, sont applicables aux soultes mises à la charge des donataires,
+nonobstant toute convention contraire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°71-523 du 3 juillet 1971 - art. 11 () JORF 4 juillet 1971 en vigueur le 1er janvier 1972
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°71-523 du 3 juillet 1971 - art. 12 (V)
+	  - SPEC_APPLI: Loi n°71-523 du 3 juillet 1971 - art. 13 (V)
+
+	**Transféré par**:
+
+	  - Loi n°2006-728 du 23 juin 2006 - art. 22 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 1075-4 (V)
+
+	**Cite**:
+
+	  - Code civil - art. 833-1 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+
+###### Article 1075-3
+
+Si tous les biens que l'ascendant laisse au jour de son décès n'ont pas été compris dans le partage, ceux de ses biens qui
+n'y auront pas été compris seront attribués ou partagés conformément à la loi.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°71-523 du 3 juillet 1971 - art. 11 () JORF 4 juillet 1971 en vigueur le 1er janvier 1972
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°71-523 du 3 juillet 1971 - art. 12 (V)
+	  - SPEC_APPLI: Loi n°71-523 du 3 juillet 1971 - art. 13 (V)
+
+	**Transféré par**:
+
+	  - Loi n°2006-728 du 23 juin 2006 - art. 22 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+	**Anciens textes**:
+
+	  - Code civil - art. 1075-1 (T)
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 1075-5 (V)
+
+
+#### Section 1 : Des donations-partages.
+
+###### Article 1076
+
+La donation-partage ne peut avoir pour objet que des biens présents.
+
+La donation et le partage peuvent être faits par actes séparés pourvu que l'ascendant intervienne aux deux actes.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+	**Modifié par**:
+
+	  - Loi n°71-523 du 3 juillet 1971 - art. 11 () JORF 4 juillet 1971 en vigueur le 1er janvier 1972
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°71-523 du 3 juillet 1971 - art. 12 (V)
+	  - SPEC_APPLI: Loi n°71-523 du 3 juillet 1971 - art. 13 (V)
+
+
+###### Article 1077
+
+Les biens reçus par les descendants à titre de partage anticipé constituent un avancement d'hoirie imputable sur leur part de
+réserve, à moins qu'ils n'aient été donnés expressément par préciput et hors part.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+	**Modifié par**:
+
+	  - Loi n°71-523 du 3 juillet 1971 - art. 11 () JORF 4 juillet 1971 en vigueur le 1er juillet 1972
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°71-523 du 3 juillet 1971 - art. 12 (V)
+	  - SPEC_APPLI: Loi n°71-523 du 3 juillet 1971 - art. 13 (V)
+
+
+###### Article 1077-1
+
+Le descendant qui n'a pas concouru à la donation-partage, ou qui a reçu un lot inférieur à sa part de réserve, peut exercer
+l'action en réduction, s'il n'existe pas à l'ouverture de la succession des biens non compris dans le partage et suffisants
+pour composer ou compléter sa réserve, compte tenu des libéralités dont il a pu bénéficier.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°71-523 du 3 juillet 1971 - art. 11 () JORF 4 juillet 1971 en vigueur le 1er janvier 1972
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°71-523 du 3 juillet 1971 - art. 12 (V)
+	  - SPEC_APPLI: Loi n°71-523 du 3 juillet 1971 - art. 13 (V)
+
+	**Cité par**:
+
+	  - Code civil - art. 1078-8 (V)
+
+
+###### Article 1077-2
+
+Les donations-partages suivent les règles des donations entre vifs pour tout ce qui concerne l'imputation, le calcul de la
+réserve et la réduction.
+
+L'action en réduction ne peut être introduite qu'après le décès de l'ascendant qui a fait le partage ou du survivant des
+ascendants en cas de partage conjonctif. Elle se prescrit par cinq ans à compter dudit décès.
+
+L'enfant non encore conçu au moment de la donation-partage dispose d'une semblable action pour composer ou compléter sa part
+héréditaire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°71-523 du 3 juillet 1971 - art. 11 () JORF 4 juillet 1971 en vigueur le 1er janvier 1972
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°71-523 du 3 juillet 1971 - art. 12 (V)
+	  - SPEC_APPLI: Loi n°71-523 du 3 juillet 1971 - art. 13 (V)
+
+	**Cité par**:
+
+	  - Code civil - art. 1078-8 (V)
+	  - Code civil - art. 1080 (V)
+
+
+###### Article 1078
+
+Nonobstant les règles applicables aux donations entre vifs, les biens donnés seront, sauf convention contraire, évalués au
+jour de la donation-partage pour l'imputation et le calcul de la réserve, à condition que tous les enfants vivants ou
+représentés au décès de l'ascendant aient reçu un lot dans le partage anticipé et l'aient expressément accepté, et qu'il
+n'ait pas été prévu de réserve d'usufruit portant sur une somme d'argent.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+	**Modifié par**:
+
+	  - Loi n°71-523 du 3 juillet 1971 - art. 11 () JORF 4 juillet 1971 en vigueur le 1er janvier 1972
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°71-523 du 3 juillet 1971 - art. 12 (V)
+	  - SPEC_APPLI: Loi n°71-523 du 3 juillet 1971 - art. 13 (V)
+
+	**Cité par**:
+
+	  - Code civil - art. 1078-8 (V)
+
+
+###### Article 1078-2
+
+Les parties peuvent aussi convenir qu'une donation préciputaire antérieure sera incorporée au partage et imputée sur la part
+de réserve du donataire à titre d'avancement d'hoirie.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°71-523 du 3 juillet 1971 - art. 11 () JORF 4 juillet 1971 en vigueur le 1er janvier 1972
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°71-523 du 3 juillet 1971 - art. 12 (V)
+	  - SPEC_APPLI: Loi n°71-523 du 3 juillet 1971 - art. 13 (V)
+	  - TXT_ASSOCIE: Code civil - art. 1078-3 (M)
+
+	**Cité par**:
+
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 776 A (V)
+	  - Code civil - art. 1078-10 (V)
+
+
+###### Article 1078-3
+
+Les conventions dont il est parlé aux deux articles précédents peuvent avoir lieu même en l'absence de nouvelles donations de
+l'ascendant. Elles ne sont pas regardées comme des libéralités entre les descendants, mais comme un partage fait par
+l'ascendant.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°71-523 du 3 juillet 1971 - art. 11 () JORF 4 juillet 1971 en vigueur le 1er janvier 1972
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°71-523 du 3 juillet 1971 - art. 12 (V)
+	  - SPEC_APPLI: Loi n°71-523 du 3 juillet 1971 - art. 13 (V)
+	  - TXT_ASSOCIE: Code civil - art. 1078-1 (M)
+	  - TXT_ASSOCIE: Code civil - art. 1078-2 (M)
+
+	**Cité par**:
+
+	  - Code général des impôts, CGI. - art. 776 A (V)
+
+
+#### Section 2 : Des testaments-partages.
+
+###### Article 1079
+
+Le testament-partage ne produit que les effets d'un partage. Ses bénéficiaires ont qualité d'héritiers et ne peuvent renoncer
+à se prévaloir du testament pour réclamer un nouveau partage de la succession.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+	**Modifié par**:
+
+	  - Loi n°71-523 du 3 juillet 1971 - art. 11 () JORF 4 juillet 1971 en vigueur le 1er janvier 1972
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°71-523 du 3 juillet 1971 - art. 12 (V)
+	  - SPEC_APPLI: Loi n°71-523 du 3 juillet 1971 - art. 13 (V)
+
+
+###### Article 1080
+
+L'enfant ou le descendant qui n'a pas reçu un lot égal à sa part de réserve peut exercer l'action en réduction conformément à
+l'article 1077-2.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+	**Modifié par**:
+
+	  - Loi n°71-523 du 3 juillet 1971 - art. 11 () JORF 4 juillet 1971 en vigueur le 1er janvier 1972
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°71-523 du 3 juillet 1971 - art. 12 (V)
+	  - SPEC_APPLI: Loi n°71-523 du 3 juillet 1971 - art. 13 (V)
+
+	**Cite**:
+
+	  - Code civil - art. 1077-2 (M)
+
+
 ### Chapitre VIII : Des donations faites par contrat de mariage aux époux, et aux enfants à naître du mariage.
 
 ###### Article 1081
@@ -22179,6 +23076,73 @@ donataires, légataires ou héritiers, ne pourront, en aucun cas, opposer aux ap
 	**Modifié par**:
 
 	  - Ordonnance 59-71 1959-01-07 art. 25 JORF 8 janvier 1959
+
+
+### Chapitre VII : Des partages faits par les ascendants.
+
+###### Article 1075
+
+Les père et mère et autres ascendants peuvent faire, entre leurs enfants et descendants, la distribution et le partage de
+leurs biens.
+
+Cet acte peut se faire sous forme de donation-partage ou de testament-partage. Il est soumis aux formalités, conditions et
+règles prescrites pour les donations entre vifs dans le premier cas et des testaments dans le second, sous réserve de
+l'application des dispositions qui suivent.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°71-523 du 3 juillet 1971 - art. 11 () JORF 4 juillet 1971 en vigueur le 1er janvier 1972
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°71-523 du 3 juillet 1971 - art. 12 (V)
+	  - SPEC_APPLI: Loi n°71-523 du 3 juillet 1971 - art. 13 (V)
+
+	**Cité par**:
+
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 790 (M)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 790 A (M)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 790 B (M)
+	  - Code civil - art. 1075-2 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+#### Section 1 : Des donations-partages.
+
+###### Article 1078-1
+
+Le lot de certains enfants pourra être formé, en totalité ou en partie, des donations, soit rapportables, soit préciputaires,
+déjà reçues par eux de l'ascendant, eu égard éventuellement aux emplois et remplois qu'ils auront pu faire dans l'intervalle.
+
+La date d'évaluation applicable au partage anticipé sera également applicable aux donations antérieures qui lui auront été
+ainsi incorporées. Toute stipulation contraire sera réputée non écrite.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°71-523 du 3 juillet 1971 - art. 11 () JORF 4 juillet 1971 en vigueur le 1er janvier 1972
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°71-523 du 3 juillet 1971 - art. 12 (V)
+	  - SPEC_APPLI: Loi n°71-523 du 3 juillet 1971 - art. 13 (V)
+	  - TXT_ASSOCIE: Code civil - art. 1078-3 (M)
+
+	**Cité par**:
+
+	  - Code civil - art. 1078-10 (V)
+	  - Code civil - art. 1078-7 (V)
+	  - Code général des impôts, CGI. - art. 776 A (V)
 
 
 ### Chapitre IX : Des dispositions entre époux, soit par contrat de mariage, soit pendant le mariage.
@@ -25864,6 +26828,32 @@ ne les ait expressément réservés.
 	**Créé par**:
 
 	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
+
+
+###### Article 1279
+
+Lorsque la novation s'opère par la substitution d'un nouveau débiteur, les privilèges et hypothèques primitifs de la créance
+ne peuvent point passer sur les biens du nouveau débiteur. Les privilèges et hypothèques primitifs de la créance peuvent être
+réservés, avec le consentement des propriétaires des biens grevés, pour la garantie de l'exécution de l'engagement du nouveau
+débiteur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+	**Modifié par**:
+
+	  - Loi n°71-579 du 16 juillet 1971 (V)
 
 	**Abrogé par**:
 

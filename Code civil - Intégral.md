@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1998-06-16
+Version Consolidée au 1998-07-01
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -62685,6 +62685,71 @@ bâtiments, l'hypothèque est reportée de plein droit sur les nouvelles constru
 	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 56 () JORF 24 mars 2006
 
 
+#### Section 4 : Du rang que les hypothèques ont entre elles.
+
+###### Article 2134
+
+Entre les créanciers, l'hypothèque, soit légale, soit judiciaire, soit conventionnelle, n'a rang que du jour de l'inscription
+prise par le créancier à la conservation des hypothèques, dans la forme et de la manière prescrites par la loi.
+
+Lorsque plusieurs inscriptions sont requises le même jour relativement au même immeuble, celle qui est requise en vertu du
+titre portant la date la plus ancienne est réputée d'un rang antérieur, quel que soit l'ordre qui résulte du registre prévu à
+l'article 2200.
+
+Toutefois, les inscriptions de séparations de patrimoine prévues par l'article 2111, dans le cas visé au second alinéa de
+l'article 2113, ainsi que celles des hypothèques légales prévues à l'article 2121, 1°, 2° et 3°, sont réputées d'un rang
+antérieur à celui de toute inscription d'hypothèque judiciaire ou conventionnelle prise le même jour.
+
+Si plusieurs inscriptions sont prises le même jour relativement au même immeuble, soit en vertu de titres prévus au deuxième
+alinéa mais portant la même date, soit au profit de requérants titulaires du privilège et des hypothèques visés par le
+troisième alinéa, les inscriptions viennent en concurrence quel que soit l'ordre du registre susvisé.
+
+L'ordre de préférence entre les créanciers privilégiés ou hypothécaires et les porteurs de warrants, dans la mesure où ces
+derniers sont gagés sur des biens réputés immeubles, est déterminé par les dates auxquelles les titres respectifs ont été
+publiés, la publicité des warrants demeurant soumise aux lois spéciales qui les régissent.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°1924-06-01 du 1 juin 1924 - art. 45 (M)
+	  - Code civil - art. 2135 (Ab)
+	  - Code civil - art. 2136 (T)
+	  - Code civil - art. 2137 (T)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°98-261 1998-04-06 art. 21 *date d'effet*
+
+	**Modifié par**:
+
+	  - Loi n°98-261 du 6 avril 1998 - art. 12 () JORF 7 avril 1998 en vigueur le 1er juillet 1998
+
+	**Transféré par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
+
+	**Cite**:
+
+	  - Code civil - art. 2111 (T)
+	  - Code civil - art. 2113 (T)
+	  - Code civil - art. 2121 (T)
+	  - Code civil - art. 2200 (T)
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2425 (M)
+	  - Code civil - art. 2425 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-19
+
+
 #### Section 5 : Des règles particulières à l'hypothèque légale des époux.
 
 ###### Article 2136
@@ -63303,48 +63368,62 @@ les effets réglés par les dispositions du Code de procédure civile et par cel
 
 ###### Article 2148
 
-Pour que l'inscription soit opérée, le créancier représente, soit par lui-même, soit par un tiers, au conservateur des
-hypothèques, l'original, une expédition authentique ou un extrait littéral du jugement ou de l'acte qui donne naissance au
-privilège ou à l'hypothèque. Peuvent être requises, toutefois, sans communication de titres, les inscriptions de séparations
-de patrimoine établies par l'article 2111 et les inscriptions d'hypothèques légales visées à l'article 2121, 1e, 2e et 3e.
+L'inscription des privilèges et hypothèques est opérée par le conservateur des hypothèques sur le dépôt de deux bordereaux
+datés, signés et certifiés conformes entre eux par le signataire du certificat d'identité prévu au treizième alinéa du
+présent article ; un décret en Conseil d'Etat détermine les conditions de forme auxquelles le bordereau destiné à être
+conservé au bureau des hypothèques doit satisfaire. Au cas où l'inscrivant ne se serait pas servi d'une formule
+réglementaire, le conservateur accepterait cependant le dépôt, sous réserve des dispositions de l'avant-dernier alinéa du
+présent article.
 
-Il y joint deux bordereaux signés et certifiés exactement collationnés ; un décret en Conseil d'Etat détermine les conditions
-de forme auxquelles le bordereau destiné à être conservé au bureau des hypothèques doit satisfaire, sous peine d'une amende
-de 20 F à 200 F au profit du Trésor [*sanctions civiles*], ainsi que le coût des formules à utiliser pour l'établir. Au cas
-où l'inscrivant ne se serait pas servi d'une formule réglementaire, le conservateur accepterait cependant le dépôt, sous
-réserve des dispositions de l'avant-dernier alinéa du présent article.
+Toutefois, pour l'inscription des hypothèques et sûretés judiciaires, le créancier présente en outre, soit par lui-même, soit
+par un tiers, au conservateur des hypothèques :
+
+1° L'original, une expédition authentique ou un extrait littéral de la décision judiciaire donnant naissance à l'hypothèque,
+lorsque celle-ci résulte des dispositions de l'article 2123 ;
+
+2° L'autorisation du juge, la décision judiciaire ou le titre pour les sûretés judiciaires conservatoires.
 
 Chacun des bordereaux contient exclusivement, sous peine de rejet de la formalité :
 
 1° La désignation du créancier, du débiteur ou du propriétaire, si le débiteur n'est pas propriétaire de l'immeuble grevé,
 conformément au 1er alinéa des articles 5 et 6 du décret du 4 janvier 1955 ;
 
-2° L'élection de domicile, par le créancier, dans un lieu quelconque du ressort du tribunal de grande instance de la
-situation des biens ;
+2° L'élection de domicile, par le créancier, dans un lieu quelconque situé en France métropolitaine, dans les départements
+d'outre-mer ou dans la collectivité territoriale de Saint-Pierre-et-Miquelon ;
 
-3° L'indication de la date et de la nature du titre, et de la cause de l'obligation garantie par le privilège ou
-l'hypothèque ; au cas où le requérant est légalement dispensé de la représentation d'un titre, les bordereaux énoncent la
-cause et la nature de la créance ;
+3° L'indication de la date et de la nature du titre donnant naissance à la sûreté ou du titre générateur de la créance ainsi
+que la cause de l'obligation garantie par le privilège ou l'hypothèque. S'il s'agit d'un titre notarié, les nom et résidence
+du rédacteur sont précisés. Pour les inscriptions requises en application des dispositions visées aux articles 2111 et 2121,
+1°, 2° et 3°, les bordereaux énoncent la cause et la nature de la créance. "
 
 4° L'indication du capital de la créance, de ses accessoires et de l'époque normale d'exigibilité ; en toute hypothèse, le
 requérant doit évaluer les rentes, prestations et droits indéterminés, éventuels ou conditionnels, sans préjudice de
 l'application des articles 2161 et suivants au profit du débiteur ; et si les droits sont éventuels ou conditionnels, il doit
 indiquer sommairement l'évènement ou la condition dont dépend l'existence de la créance. Dans les cas où la créance est
 assortie d'une clause de réévaluation, l'inscription doit mentionner le montant originaire de la créance ainsi que la clause
-de réévaluation ;
+de réévaluation. Lorsque le montant de la créance n'est pas libellé en monnaie française, il doit être immédiatement suivi de
+sa contre-valeur en francs français déterminée selon le dernier cours de change connu à la date du titre générateur de la
+sûreté ou de la créance ;
 
 5° La désignation conformément aux premier et troisième alinéas de l'article 7 du décret du 4 janvier 1955, de chacun des
 immeubles sur lesquels l'inscription est requise ;
 
 6° L'indication de la date, du volume et du numéro sous lequel a été publié le titre de propriété du débiteur (ou du
 propriétaire, si le débiteur n'est pas propriétaire des immeubles grevés), lorsque ce titre est postérieur au 1er janvier
-1956.
+1956 ;
+
+7° La certification que le montant du capital de la créance garantie figurant dans le bordereau n'est pas supérieur à celui
+figurant dans le titre générateur de la sûreté ou de la créance.
 
 Le bordereau destiné à être conservé au bureau des hypothèques doit contenir, en outre, la mention de certification de
 l'identité des parties prescrite par les articles 5 et 6 du décret du 4 janvier 1955.
 
-Le dépôt est refusé à défaut de la mention visée à l'alinéa précédent, ou si les immeubles ne sont pas individuellement
-désignés, avec indication de la commune où ils sont situés.
+Le dépôt est refusé :
+
+1° A défaut de présentation du titre générateur de la sûreté pour les hypothèques et sûretés judiciaires ;
+
+2° A défaut de la mention visée au treizième alinéa, ou si les immeubles ne sont pas individuellement désignés, avec
+indication de la commune où ils sont situés.
 
 Si le conservateur, après avoir accepté le dépôt, constate l'omission d'une des mentions prescrites par le présent article,
 ou une discordance entre, d'une part, les énonciations relatives à l'identité des parties ou à la désignation des immeubles
@@ -63353,12 +63432,23 @@ depuis le 1er janvier 1956, la formalité est rejetée, à moins que le requéra
 produise les justifications établissant son exactitude, auxquels cas la formalité prend rang à la date de la remise du
 bordereau constatée au registre de dépôts.
 
-La formalité est également rejetée, dans l'hypothèse visée au deuxième alinéa du présent article, si le requérant ne
-substitue pas un nouveau bordereau sur formule réglementaire au bordereau irrégulier en la forme.
+La formalité est également rejetée lorsque les bordereaux comportent un montant de créance garantie supérieur à celui
+figurant dans le titre pour les hypothèques et sûretés judiciaires ainsi que, dans l'hypothèse visée au premier alinéa du
+présent article, si le requérant ne substitue pas un nouveau bordereau sur formule réglementaire au bordereau irrégulier en
+la forme.
 
 Le décret prévu ci-dessus détermine les modalités du refus du dépôt ou du rejet de la formalité.
 
+**Nota:**
+
+
+
 **Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°55-22 1955-01-04 art. 42-1 (contrôle de concordance des éléments d'identification des personnes morales)
+	  - SPEC_APPLI: Loi n°98-261 1998-04-06 art. 21 *date d'effet*
 
 	**Cite**:
 
@@ -63367,6 +63457,7 @@ Le décret prévu ci-dessus détermine les modalités du refus du dépôt ou du 
 	  - Décret n°55-22 du 4 janvier 1955 - art. 7 (M)
 	  - Code civil - art. 2111 (T)
 	  - Code civil - art. 2121 (T)
+	  - Code civil - art. 2123 (T)
 	  - Code civil - art. 2161 (T)
 
 	**Cité par**:
@@ -63402,8 +63493,17 @@ Le décret prévu ci-dessus détermine les modalités du refus du dépôt ou du 
 	  - Code rural - art. D127-10 (M)
 	  - Code rural - art. R127-10 (T)
 
+	**Modifié par**:
+
+	  - Loi n°98-261 du 6 avril 1998 - art. 11 () JORF 7 avril 1998 en vigueur le 1er juillet 1998
+
+	**Transféré par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
+
 	**Nouveaux textes**:
 
+	  - Code civil - art. 2428 (M)
 	  - Code civil - art. 2428 (V)
 
 	**Codifié par**:
@@ -63590,7 +63690,12 @@ ceux conservés par l'inscription primitive.
 
 Il est loisible à celui qui a requis une inscription ainsi qu'à ses représentants ou cessionnaires par acte authentique de
 changer au bureau des hypothèques le domicile par lui élu dans cette inscription, à la charge d'en choisir et indiquer un
-autre dans le ressort du tribunal de grande instance de la situation des biens.
+autre situé en France métropolitaine, dans les départements d'outre-mer ou dans la collectivité territoriale de Saint-Pierre-
+et-Miquelon.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
@@ -63598,17 +63703,25 @@ autre dans le ressort du tribunal de grande instance de la situation des biens.
 
 	  - Décret n°1924-11-18 du 18 novembre 1924 - art. 36 (M)
 
-	**Nouveaux textes**:
-
-	  - Code civil - art. 2433 (V)
-
 	**Codifié par**:
 
 	  - Loi n°1804-03-19
 
-	**Créé par**:
+	**Liens**:
 
-	  - Loi n°1804-03-19 promulguée le 29 mars 1804
+	  - SPEC_APPLI: Loi n°98-261 1998-04-06 art. 21 *date d'effet*
+
+	**Modifié par**:
+
+	  - Loi n°98-261 du 6 avril 1998 - art. 13 () JORF 7 avril 1998 en vigueur le 1er juillet 1998
+
+	**Transféré par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2433 (V)
 
 
 ###### Article 2154
@@ -65491,6 +65604,13 @@ NOTA : Ordonnance 2006-346 du 6 mars 2006 art. 57 : Spécificités d'application
 Le registre tenu en exécution de l'article précédent est coté et paraphé à chaque page, par première et dernière, par le juge
 d'instance dans le ressort duquel le bureau est établi. Il est arrêté chaque jour.
 
+Par dérogation à l'alinéa précédent, un document informatique écrit peut tenir lieu de registre ; dans ce cas, il doit être
+identifié, numéroté et daté dès son établissement par des moyens offrant toute garantie en matière de preuve.
+
+**Nota:**
+
+NOTA : Ordonnance 2006-346 du 6 mars 2006 art. 57 : Spécificités d'application.
+
 **Liens relatifs à cet article**
 
 	**Cité par**:
@@ -65500,21 +65620,25 @@ d'instance dans le ressort duquel le bureau est établi. Il est arrêté chaque 
 	  - Code civil - art. 2200 (VT)
 	  - Code civil - art. 2203-1 (T)
 
-	**Modifié par**:
-
-	  - Décret n°59-89 1959-01-07 art. 13 JORF 8 janvier 1959
-
-	**Nouveaux textes**:
-
-	  - Code civil - art. 2454 (V)
-
 	**Codifié par**:
 
 	  - Loi n°1804-03-19
 
-	**Créé par**:
+	**Liens**:
 
-	  - Loi n°1804-03-19 promulguée le 29 mars 1804
+	  - SPEC_APPLI: Loi n°98-261 1998-04-06 art. 21 *date d'effet*
+
+	**Modifié par**:
+
+	  - Loi n°98-261 du 6 avril 1998 - art. 14 () JORF 7 avril 1998 en vigueur le 1er juillet 1998
+
+	**Transféré par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2454 (V)
 
 
 ###### Article 2202
@@ -65575,6 +65699,49 @@ payables aussi par préférence à l'amende.
 	**Créé par**:
 
 	  - Loi n°1804-03-19 promulguée le 29 mars 1804
+
+
+###### Article 2203-1
+
+Dans les bureaux des hypothèques dont le registre est tenu conformément aux dispositions du deuxième alinéa de l'article
+2201, il est délivré un certificat des formalités acceptées au dépôt et en instance d'enregistrement au fichier immobilier
+sur les immeubles individuellement désignés dans la demande de renseignements. Un décret en Conseil d'Etat précise le contenu
+de ce certificat.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°55-22 du 4 janvier 1955 - art. 8-1 (M)
+	  - Décret n°55-1350 du 14 octobre 1955 - art. 53-8 (M)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°98-261 1998-04-06 art. 21 *date d'effet*
+
+	**Créé par**:
+
+	  - Loi n°98-261 du 6 avril 1998 - art. 15 () JORF 7 avril 1998 en vigueur le 1er juillet 1998
+
+	**Transféré par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
+
+	**Cite**:
+
+	  - Code civil - art. 2201 (M)
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2457 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-19
 
 
 ## Titre XIX : De l'expropriation forcée et des ordres entre les créanciers

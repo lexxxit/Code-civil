@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1939-06-19
+Version Consolidée au 1941-06-15
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -23797,6 +23797,29 @@ Le bailleur peut en demander plus tôt la résolution si le preneur ne remplit p
 	  - Loi n°1804-03-07 promulguée le 17 mars 1804
 
 
+###### Article 1817
+
+A la fin du bail, ou lors de sa résolution, le bailleur prélève des animaux de chaque espèce, de manière à obtenir un même
+fonds de bétail que celui qu'il a remis, notamment quant au nombre, à la race, à l'âge, au poids et à la qualité des bêtes :
+l'excédent se partage.
+
+S'il n'existe pas assez d'animaux pour reconstituer le fonds de bétail tel qu'il est ci-dessus défini, les parties se font
+raison de la perte sur la base de la valeur des animaux au jour où le contrat prend fin.
+
+Toute convention aux termes de laquelle le preneur, à la fin du bail ou lors de sa résolution, doit laisser un fonds de
+bétail d'une valeur égale au prix de l'estimation de celui qu'il aura reçu, est nulle.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-07
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+
 #### Section 3 : Du cheptel à moitié.
 
 ###### Article 1818
@@ -23854,6 +23877,38 @@ Toutes les autres règles du cheptel simple s'appliquent au cheptel à moitié.
 
 ##### Paragraphe 1 : Du cheptel donné au fermier.
 
+###### Article 1821
+
+Ce cheptel (appelé aussi cheptel de fer) est celui par lequel le propriétaire d'une exploitation rurale la donne à ferme à
+charge qu'à l'expiration du bail, le fermier laissera un même fonds de bétail que celui qu'il a reçu.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-07
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+
+###### Article 1822
+
+L'état numératif, descriptif et estimatif des animaux remis, figurant au bail, n'en transporte pas la propriété au preneur ;
+il n'a d'autre objet que de servir de base au règlement à intervenir au moment où le contrat prend fin.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-07
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+
 ###### Article 1823
 
 Tous les profits appartiennent au fermier pendant la durée de son bail, s'il n'y a convention contraire.
@@ -23873,6 +23928,30 @@ Tous les profits appartiennent au fermier pendant la durée de son bail, s'il n'
 
 Dans les cheptels donnés au fermier, le fumier n'est point dans les profits personnels des preneurs, mais appartient à la
 métairie, à l'exploitation de laquelle il doit être uniquement employé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-07
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+
+###### Article 1826
+
+A la fin du bail ou lors de sa résolution, le preneur doit laisser des animaux de chaque espèce formant un même fonds de
+bétail que celui qu'il a reçu, notamment quant au nombre, à la race, à l'âge, au poids et à la qualité des bêtes.
+
+S'il y a un excédent, il lui appartient.
+
+S'il y a un déficit, le règlement entre les parties est fait sur la base de la valeur des animaux au jour où le contrat prend
+fin.
+
+Toute convention aux termes de laquelle le preneur, à la fin du bail ou lors de sa résolution, doit laisser un fonds de
+bétail d'une valeur égale au prix de l'estimation de celui qu'il a reçu est nulle.
 
 **Liens relatifs à cet article**
 

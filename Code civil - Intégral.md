@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1924-02-07
+Version Consolidée au 1927-04-08
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -675,6 +675,26 @@ pourront se pourvoir contre le jugement.
 
 ### Chapitre III : Des actes de mariage.
 
+###### Article 64
+
+L'affiche prévue à l'article précédent restera apposée à la porte de la maison commune pendant dix jours.
+
+Le mariage ne pourra être célébré avant le dixième jour depuis et non compris celui de la publication.
+
+Si l'affichage est interrompu avant l'expiration de ce délai, il en sera fait mention sur l'affiche qui aura cessé d'être
+apposée à la porte de la maison commune.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-11
+
+	**Créé par**:
+
+	  - Loi n°1803-03-11 promulguée le 21 mars 1803
+
+
 ###### Article 65
 
 Si le mariage n'a pas été célébré dans l'année, à compter de l'expiration du délai de la publication, il ne pourra plus être
@@ -702,6 +722,27 @@ des parties, et à l'officier de l'état civil, qui mettra son visa sur l'origin
 	**Cité par**:
 
 	  - Décret n°2005-1669 du 27 décembre 2005 - art. 2 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-11
+
+	**Créé par**:
+
+	  - Loi n°1803-03-11 promulguée le 21 mars 1803
+
+
+###### Article 67
+
+L'officier de l'état civil fera, sans délai, une mention sommaire des oppositions sur le registre des mariages ; il fera
+aussi mention, en marge de l'inscription desdites oppositions, des jugements ou des actes de mainlevée dont expédition lui
+aura été remise.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°2017-908 du 6 mai 2017 - art. 18 (V)
 
 	**Codifié par**:
 

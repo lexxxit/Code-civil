@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1804-01-10
+Version Consolidée au 1804-01-31
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -2152,6 +2152,29 @@ l'enfant à qui il devra des aliments, devra dans ce cas être dispensé de paye
 ## Titre IV : Des servitudes ou services fonciers
 
 ### Chapitre III : Des servitudes établies par le fait de l'homme
+
+#### Section 1 : Des diverses espèces de servitudes qui peuvent être établies sur les biens
+
+###### Article 688
+
+Les servitudes sont ou continues, ou discontinues. 
+
+Les servitudes continues sont celles dont l'usage est ou peut être continuel sans avoir besoin du fait actuel de l'homme :
+tels sont les conduites d'eau, les égouts, les vues et autres de cette espèce.
+
+Les servitudes discontinues sont celles qui ont besoin du fait actuel de l'homme pour être exercées : tels sont les droits de
+passage, puisage, pacage et autres semblables.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-01-31
+
+	**Créé par**:
+
+	  - Loi n°1804-01-31 promulguée le 10 février 1804
+
 
 #### Section 3 : Des droits du propriétaire du fonds auquel la servitude est due
 

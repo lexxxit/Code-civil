@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1849-05-11
+Version Consolidée au 1854-05-31
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -1893,6 +1893,27 @@ l'enfant à qui il devra des aliments, devra dans ce cas être dispensé de paye
 	**Cité par**:
 
 	  - Code de la famille et de l'aide sociale. - art. 83 (Ab)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°1803-03-17 promulguée le 27 mars 1803
+
+
+### Chapitre VII : De la dissolution du mariage
+
+###### Article 227
+
+Le mariage se dissout :
+
+1° Par la mort de l'un des époux ;
+
+2° Par le divorce légalement prononcé.
+
+**Liens relatifs à cet article**
 
 	**Codifié par**:
 
@@ -5644,21 +5665,6 @@ Les successions s'ouvrent par la mort naturelle et par la mort civile.
 	**Abrogé par**:
 
 	  - Loi n°2001-1135 du 3 décembre 2001 - art. 18 () JORF 4 décembre 2001 en vigueur le 1er juillet 2002
-
-
-###### Article 719
-
-(article abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-04-19
-
-	**Créé par**:
-
-	  - Loi n°1803-04-19 promulguée le 29 avril 1803
 
 
 ###### Article 720

@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1808-04-05
+Version Consolidée au 1819-07-14
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -5718,26 +5718,6 @@ admise : ainsi le plus jeune est présumé avoir survécu au plus âgé.
 
 ### Chapitre II : Des qualités requises pour succéder - De la preuve de la qualité d'héritier.
 
-###### Article 726
-
-(article abrogé).
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Décret n°2007-262 du 27 février 2007 - art. ANNEXE (V)
-	  - Code civil - art. 728 (V)
-
-	**Codifié par**:
-
-	  - Loi n°1803-04-19
-
-	**Créé par**:
-
-	  - Loi n°1803-04-19 promulguée le 29 avril 1803
-
-
 ###### Article 727
 
 Sont indignes de succéder, et, comme tels, exclus des successions :
@@ -10885,21 +10865,6 @@ d'utilité publique, n'auront leur effet qu'autant qu'elles seront autorisées p
 	  - TXT_SOURCE: Ordonnance n°1817-04-02 du 2 avril 1817 - art. 4 (V)
 	  - TXT_SOURCE: Ordonnance n°1817-04-02 du 2 avril 1817 - art. 5 (V)
 	  - TXT_SOURCE: Ordonnance n°1817-04-02 du 2 avril 1817 - art. 7 (V)
-
-
-###### Article 912
-
-(article abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-05-03
-
-	**Créé par**:
-
-	  - Loi n°1803-05-03 promulguée le 13 mai 1803
 
 
 ### Chapitre III : De la portion de biens disponible, et de la réduction

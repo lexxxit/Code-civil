@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1998-05-21
+Version Consolidée au 1998-06-16
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -66854,34 +66854,6 @@ Elle court encore pendant les trois mois pour faire inventaire, et les quarante 
 
 ### Chapitre V : Du temps requis pour prescrire.
 
-###### Article 2270-1
-
-Les actions en responsabilité civile extracontractuelle se prescrivent par dix ans à compter de la manifestation du dommage
-ou de son aggravation.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1804-03-15
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°85-677 1985-07-05 art. 46 *date d'effet*
-
-	**Créé par**:
-
-	  - Loi n°85-677 du 5 juillet 1985 - art. 38 () JORF 6 juillet 1985 en vigueur le 1er janvier 1986
-
-	**Cité par**:
-
-	  - Loi n°86-1020 du 9 septembre 1986 - art. 9 (M)
-	  - Ordonnance n°92-1067 du 1 octobre 1992 - art. 10 (Ab)
-	  - Ordonnance n°92-1146 du 12 octobre 1992 - art. 7 (VD)
-	  - Code de la santé publique - art. L209-22 (Ab)
-	  - Code des assurances - art. L422-3 (M)
-
-
 #### Section 1 : Dispositions générales.
 
 ###### Article 2260
@@ -67144,6 +67116,37 @@ code est déchargée des responsabilités et garanties pesant sur elle, en appli
 	**Liens**:
 
 	  - SPEC_APPLI: Loi n°78-12 1978-04-01 art. 14 *l'article 2270 du code civil, tel que modifié en 1978, s'applique aux contrats relatifs aux chantiers dont la déclaration réglementaire d'ouverture a été établie postérieurement à la date du 1er janvier 1979*
+
+
+###### Article 2270-1
+
+Les actions en responsabilité civile extracontractuelle se prescrivent par dix ans à compter de la manifestation du dommage
+ou de son aggravation.
+
+Lorsque le dommage est causé par des tortures et des actes de barbarie, des violences ou des agressions sexuelles commises
+contre un mineur, l'action en responsabilité civile est prescrite par vingt ans.
+
+**Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Loi n°2008-561 du 17 juin 2008 - art. 1
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L209-22 (Ab)
+	  - Code des assurances - art. L422-3 (M)
+	  - Loi n°86-1020 du 9 septembre 1986 - art. 9 (M)
+	  - Ordonnance n°92-1067 du 1 octobre 1992 - art. 10 (Ab)
+	  - Ordonnance n°92-1146 du 12 octobre 1992 - art. 7 (VD)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-15
+
+	**Modifié par**:
+
+	  - Loi n°98-468 du 17 juin 1998 - art. 43 () JORF 16 juin 1998
 
 
 #### Section 4 : De quelques prescriptions particulières.

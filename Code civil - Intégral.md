@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1867-07-23
+Version Consolidée au 1868-08-02
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -21272,23 +21272,6 @@ et quand même il ne les aurait pas reçus, le propriétaire pourra les retenir 
 
 
 ### Chapitre III : Du louage d'ouvrage et d'industrie.
-
-#### Section 1 : Du louage des domestiques et ouvriers.
-
-###### Article 1781
-
-(article abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1804-03-07
-
-	**Créé par**:
-
-	  - Loi n°1804-03-07 promulguée le 17 mars 1804
-
 
 #### Section 2 : Des voituriers par terre et par eau.
 

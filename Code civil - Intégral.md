@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1932-03-10
+Version Consolidée au 1933-02-02
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -719,6 +719,36 @@ Si la publication a été faite dans plusieurs communes, l'officier de l'état c
 celui d'entre eux qui doit célébrer le mariage un certificat constatant qu'il n'existe point d'opposition.
 
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-11
+
+	**Créé par**:
+
+	  - Loi n°1803-03-11 promulguée le 21 mars 1803
+
+
+###### Article 70
+
+L'expédition de l'acte de naissance remis par chacun des futurs époux à l'officier de l'état civil qui doit célébrer leur
+mariage est conforme au dernier alinéa de l'article 57 du code civil, avec, s'il y a lieu, l'indication de la qualité d'époux
+de ses père et mère ou, si le futur époux est mineur, l'indication de la reconnaissance dont il a été l'objet.
+
+Cet acte ne devra pas avoir été délivré depuis plus de trois mois, s'il a été délivré en France, et depuis plus de six mois,
+s'il a été délivré dans une colonie ou dans un consulat.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°1920-06-20 du 20 juin 1920 - art. 2 (V)
+	  - Décret n°53-914 du 26 septembre 1953 - art. 5 (Ab)
+	  - Code civil - art. 63 (V)
+
+	**Cite**:
+
+	  - Code civil - art. 57 (M)
 
 	**Codifié par**:
 
@@ -1512,6 +1542,22 @@ On ne peut contracter un second mariage avant la dissolution du premier.
 	  - Loi n°1803-03-17 promulguée le 27 mars 1803
 
 
+###### Article 148
+
+Les mineurs ne peuvent contracter mariage sans le consentement de leurs père et mère ; en cas de dissentiment entre le père
+et la mère, ce partage emporte consentement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°1803-03-17 promulguée le 27 mars 1803
+
+
 ###### Article 149
 
 Si l'un des deux est mort ou s'il est dans l'impossibilité de manifester sa volonté, le consentement de l'autre suffit.
@@ -1574,6 +1620,34 @@ des autres aïeuls ou aïeules est inconnue et s'ils n'ont pas donné de leurs n
 	  - Loi n°1803-03-17 promulguée le 27 mars 1803
 
 
+###### Article 151
+
+La production de l'expédition, réduite au dispositif, du jugement qui aurait déclaré l'absence ou aurait ordonné l'enquête
+sur l'absence des père et mère, aïeuls ou aïeules de l'un des futurs époux équivaudra à la production de leurs actes de décès
+dans les cas prévus aux articles 149, 150, 158 et 159 du présent code.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Ordonnance n°2010-590 du 3 juin 2010 - art. 9 (V)
+
+	**Cite**:
+
+	  - Code civil - art. 149 (V)
+	  - Code civil - art. 150 (V)
+	  - Code civil - art. 158 (Ab)
+	  - Code civil - art. 159 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°1803-03-17 promulguée le 27 mars 1803
+
+
 ###### Article 153
 
 Sera assimilé à l'ascendant dans l'impossibilité de manifester sa volonté l'ascendant subissant la peine de la relégation ou
@@ -1604,6 +1678,39 @@ consentement donné par cet ascendant.
 	  - SPEC_APPLI: Loi n°70-643 1970-07-17
 
 
+###### Article 154
+
+Le dissentiment entre le père et la mère, entre l'aïeul et l'aïeule de la même ligne, ou entre aïeuls des deux lignes peut
+être constaté par un notaire, requis par le futur époux et instrumentant sans le concours d'un deuxième notaire ni de
+témoins, qui notifiera l'union projetée à celui ou à ceux des père, mère ou aïeuls dont le consentement n'est pas encore
+obtenu.
+
+L'acte de notification énonce les prénoms, noms, professions, domiciles et résidences des futurs époux, de leurs pères et
+mères, ou, le cas échéant, de leurs aïeuls, ainsi que le lieu où sera célébré le mariage.
+
+Il contient aussi déclaration que cette notification est faite en vue d'obtenir le consentement non encore accordé et que, à
+défaut, il sera passé outre à la célébration du mariage.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code civil - art. 157 (V)
+
+	**Cité par**:
+
+	  - Code civil - art. 157 (V)
+	  - Code général des impôts, CGI. - art. 1129 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°1803-03-17 promulguée le 27 mars 1803
+
+
 ###### Article 156
 
 Les officiers de l'état civil qui auraient procédé à la célébration des mariages contractés par des fils ou filles n'ayant
@@ -1630,6 +1737,44 @@ célébré, condamnés à l'amende portée en l'article 192 du code civil.
 	**Créé par**:
 
 	  - Loi n°1803-03-17 promulguée le 27 mars 1803
+
+
+###### Article 158
+
+L'enfant naturel légalement reconnu qui n'a pas atteint l'âge de dix-huit ans accomplis ne peut contracter mariage sans avoir
+obtenu le consentement de celui de ses père et mère qui l'a reconnu, ou de l'un et de l'autre s'il a été reconnu par tous
+deux.
+
+En cas de dissentiment entre le père et la mère, ce partage emporte consentement.
+
+Si l'un des deux est mort ou s'il est dans l'impossibilité de manifester sa volonté, le consentement de l'autre suffit. Les
+dispositions contenues aux alinéas 3, 4 et 5 de l'article 149 sont applicables à l'enfant naturel mineur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°1803-03-17 promulguée le 27 mars 1803
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2005-759 2005-07-04 art. 20 : Spécificité d'application
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 18 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
+
+	**Cite**:
+
+	  - Code civil - art. 149 (M)
+
+	**Cité par**:
+
+	  - Code civil - art. 151 (V)
 
 
 ###### Article 161
@@ -1800,6 +1945,40 @@ ascendant, n'est recevable ni ne peut retarder la célébration.
 	**Créé par**:
 
 	  - Loi n°1803-03-17 promulguée le 27 mars 1803
+
+
+###### Article 174
+
+A défaut d'aucun ascendant, le frère ou la soeur, l'oncle ou la tante, le cousin ou la cousine germains, majeurs, ne peuvent
+former aucune opposition que dans les deux cas suivants : 
+
+1° Lorsque le consentement du conseil de famille, requis par l'article 159, n'a pas été obtenu ; 
+
+2° Lorsque l'opposition est fondée sur l'état de démence du futur époux ; cette opposition, dont le tribunal pourra prononcer
+mainlevée pure et simple, ne sera jamais reçue qu'à la charge, par l'opposant, de provoquer la tutelle des majeurs, et d'y
+faire statuer dans le délai qui sera fixé par le jugement.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code civil - art. 159 (V)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code civil - art. 175 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°1803-03-17 promulguée le 27 mars 1803
+
+	**Cité par**:
+
+	  - Ordonnance n°2010-590 du 3 juin 2010 - art. 9 (V)
 
 
 ###### Article 175

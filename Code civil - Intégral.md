@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 2004-08-07
+Version Consolidée au 2004-08-17
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -1967,6 +1967,28 @@ mineurs qui, au jour du décès, remplissaient la condition de résidence prévu
 	**Cite**:
 
 	  - Code civil - art. 22-1 (V)
+
+
+###### Article 21-14-2
+
+Le représentant de l'Etat dans le département et, à Paris, le préfet de police, communique au maire en sa qualité d'officier
+de l'état civil l'adresse des ressortissants étrangers naturalisés par décret résidant dans la commune.
+
+Une cérémonie d'accueil dans la citoyenneté française peut être organisée par le maire à l'intention de ces derniers.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°93-933 1993-07-22
+
+	**Créé par**:
+
+	  - Loi n°2004-809 du 13 août 2004 - art. 146 () JORF 17 août 2004
+
+	**Abrogé par**:
+
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 81 () JORF 25 juillet 2006
 
 
 ###### Article 21-15
@@ -24804,28 +24826,27 @@ pas susceptibles d'une propriété privée, sont considérés comme des dépenda
 
 ###### Article 539
 
-Tous les biens vacants et sans maître, et ceux des personnes qui décèdent sans héritiers, ou dont les successions sont
-abandonnées, appartiennent au domaine public.
+Les biens des personnes qui décèdent sans héritiers ou dont les successions sont abandonnées appartiennent à l'Etat.
 
 **Liens relatifs à cet article**
 
 	**Cité par**:
 
+	  - Loi n°90-85 du 23 janvier 1990 - art. 18 (Ab)
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 9
 	  - Code du domaine de l'Etat - art. L23 (Ab)
 	  - Code du domaine de l'Etat - art. L25 (M)
 	  - Code du domaine de l'Etat - art. L27 bis (M)
 	  - Code général de la propriété des personnes publ... - art. L1122-1 (V)
 	  - Code rural - art. L136-6 (V)
-	  - Loi n°90-85 du 23 janvier 1990 - art. 18 (Ab)
-	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 9
+
+	**Modifié par**:
+
+	  - Loi n°2004-809 du 13 août 2004 - art. 147 () JORF 17 août 2004
 
 	**Codifié par**:
 
 	  - Loi n°1804-01-25
-
-	**Créé par**:
-
-	  - Loi n°1804-01-25 promulguée le 4 février 1804
 
 
 ###### Article 540
@@ -28454,7 +28475,8 @@ La propriété s'acquiert aussi par accession ou incorporation, et par prescript
 
 ###### Article 713
 
-Les biens qui n'ont pas de maître appartiennent à l'Etat.
+Les biens qui n'ont pas de maître appartiennent à la commune sur le territoire de laquelle ils sont situés. Toutefois, la
+propriété est transférée de plein droit à l'Etat si la commune renonce à exercer ses droits.
 
 **Liens relatifs à cet article**
 
@@ -28468,13 +28490,13 @@ Les biens qui n'ont pas de maître appartiennent à l'Etat.
 	  - Code général de la propriété des personnes publ... - art. L1123-2 (V)
 	  - Livre des procédures fiscales - art. L106 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2004-809 du 13 août 2004 - art. 147 () JORF 17 août 2004
+
 	**Codifié par**:
 
 	  - Loi n°1803-04-19
-
-	**Créé par**:
-
-	  - Loi n°1803-04-19 promulguée le 29 avril 1803
 
 
 ###### Article 714

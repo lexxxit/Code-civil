@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1938-02-18
+Version Consolidée au 1938-02-19
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -16782,6 +16782,28 @@ soit que cet engagement fût nul en sa forme, soit qu'il fût seulement sujet à
 	  - Loi n°1804-02-07 promulguée le 17 février 1804
 
 
+###### Article 1312
+
+Lorsque les mineurs ou les majeurs en tutelle sont admis, en ces qualités, à se faire restituer contre leurs engagements, le
+remboursement de ce qui aurait été, en conséquence de ces engagements, payé pendant la minorité ou la tutelle des majeurs, ne
+peut en être exigé, à moins qu'il ne soit prouvé que ce qui a été payé a tourné à leur profit.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code de commerce - art. 114 (Ab)
+	  - Ordonnance n°59-63 du 6 janvier 1959 - art. 31 (Ab)
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
 ###### Article 1313
 
 Les majeurs ne sont restitués pour cause de lésion que dans les cas et sous les conditions spécialement exprimés dans le
@@ -24714,6 +24736,23 @@ Si la chose déposée est indivisible, les héritiers doivent s'accorder entre e
 **Nota:**
 
 (1) : La mort civile a été abolie par la loi du 31 mai 1854.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-14
+
+	**Créé par**:
+
+	  - Loi n°1804-03-14 promulguée le 24 mars 1804
+
+
+###### Article 1940
+
+Si la personne qui a fait le dépôt a changé d'état : par exemple, si la femme, libre au moment où le dépôt a été fait, s'est
+mariée depuis ; si le majeur déposant se trouve frappé de la tutelle des majeurs ; dans tous les cas et autres de même
+nature, le dépôt ne peut être restitué qu'à celui qui a l'administration des droits et des biens du déposant.
 
 **Liens relatifs à cet article**
 

@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1804-03-19
+Version Consolidée au 1804-03-20
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -22459,6 +22459,870 @@ Les règles concernant les rentes viagères sont établies au titre "Des contrat
 	**Créé par**:
 
 	  - Loi n°1804-03-09 promulguée le 19 mars 1804
+
+
+## Titre XII : Des contrats aléatoires.
+
+###### Article 1964
+
+Le contrat aléatoire est une convention réciproque dont les effets, quant aux avantages et aux pertes, soit pour toutes les
+parties, soit pour l'une ou plusieurs d'entre elles, dépendent d'un événement incertain.
+
+Tels sont :
+
+Le contrat d'assurance,
+
+Le prêt à grosse aventure,
+
+Le jeu et le pari,
+
+Le contrat de rente viagère.
+
+Les deux premiers sont régis par les lois maritimes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-10
+
+	**Créé par**:
+
+	  - Loi n°1804-03-10 promulguée le 20 mars 1804
+
+
+### Chapitre Ier : Du jeu et du pari.
+
+###### Article 1965
+
+La loi n'accorde aucune action pour une dette du jeu ou pour le paiement d'un pari.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-10
+
+	**Créé par**:
+
+	  - Loi n°1804-03-10 promulguée le 20 mars 1804
+
+	**Cité par**:
+
+	  - Loi n°1885-03-28 du 28 mars 1885 - art. 1 (Ab)
+	  - Loi n°96-597 du 2 juillet 1996 - art. 46 (Ab)
+	  - Code monétaire et financier - art. L211-35 (V)
+	  - Code monétaire et financier - art. L432-20 (Ab)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code civil 1966 *exceptions*
+
+
+###### Article 1966
+
+Les jeux propres à exercer au fait des armes, les courses à pied ou à cheval, les courses de chariot, le jeu de paume et
+autres jeux de même nature qui tiennent à l'adresse et à l'exercice du corps, sont exceptés de la disposition précédente.
+
+Néanmoins, le tribunal peut rejeter la demande quand la somme lui paraît excessive.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code civil 1966 *exceptions*
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-10
+
+	**Créé par**:
+
+	  - Loi n°1804-03-10 promulguée le 20 mars 1804
+
+
+###### Article 1967
+
+Dans aucun cas le perdant ne peut répéter ce qu'il a volontairement payé, à moins qu'il n'y ait eu, de la part du gagnant,
+dol, supercherie ou escroquerie.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code civil 1966 *exceptions*
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-10
+
+	**Créé par**:
+
+	  - Loi n°1804-03-10 promulguée le 20 mars 1804
+
+
+### Chapitre II : Du contrat de rente viagère
+
+#### Section 1 : Des conditions requises pour la validité du contrat.
+
+###### Article 1968
+
+La rente viagère peut être constituée à titre onéreux, moyennant une somme d'argent, ou pour une chose mobilière appréciable,
+ou pour un immeuble.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-10
+
+	**Créé par**:
+
+	  - Loi n°1804-03-10 promulguée le 20 mars 1804
+
+
+###### Article 1969
+
+Elle peut être aussi constituée, à titre purement gratuit, par donation entre vifs ou par testament. Elle doit être alors
+revêtue des formes requises par la loi.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code civil 1966 *exceptions*
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-10
+
+	**Créé par**:
+
+	  - Loi n°1804-03-10 promulguée le 20 mars 1804
+
+
+###### Article 1970
+
+Dans le cas de l'article précédent, la rente viagère est réductible si elle excède ce dont il est permis de disposer ; elle
+est nulle si elle est au profit d'une personne incapable de recevoir.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code civil - art. 1973 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-10
+
+	**Créé par**:
+
+	  - Loi n°1804-03-10 promulguée le 20 mars 1804
+
+
+###### Article 1971
+
+La rente viagère peut être constituée soit sur la tête de celui qui en fournit le prix, soit sur la tête d'un tiers, qui n'a
+aucun droit d'en jouir.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-10
+
+	**Créé par**:
+
+	  - Loi n°1804-03-10 promulguée le 20 mars 1804
+
+
+###### Article 1972
+
+Elle peut être constituée sur une ou plusieurs têtes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-10
+
+	**Créé par**:
+
+	  - Loi n°1804-03-10 promulguée le 20 mars 1804
+
+
+###### Article 1974
+
+Tout contrat de rente viagère, créé sur la tête d'une personne qui était morte au jour du contrat, ne produit aucun effet.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-10
+
+	**Créé par**:
+
+	  - Loi n°1804-03-10 promulguée le 20 mars 1804
+
+
+###### Article 1975
+
+Il en est de même du contrat par lequel la rente a été créée sur la tête d'une personne atteinte de la maladie dont elle est
+décédée dans les vingt jours de la date du contrat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-10
+
+	**Créé par**:
+
+	  - Loi n°1804-03-10 promulguée le 20 mars 1804
+
+
+###### Article 1976
+
+La rente viagère peut être constituée au taux qu'il plaît aux parties contractantes de fixer.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-10
+
+	**Créé par**:
+
+	  - Loi n°1804-03-10 promulguée le 20 mars 1804
+
+
+#### Section 2 : Des effets du contrat entre les parties contractantes.
+
+###### Article 1977
+
+Celui au profit duquel la rente viagère a été constituée moyennant un prix peut demander la résiliation du contrat, si le
+constituant ne lui donne pas les sûretés stipulées pour son exécution.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-10
+
+	**Créé par**:
+
+	  - Loi n°1804-03-10 promulguée le 20 mars 1804
+
+
+###### Article 1978
+
+Le seul défaut de paiement des arrérages de la rente n'autorise point celui en faveur de qui elle est constituée à demander
+le remboursement du capital, ou à rentrer dans le fonds par lui aliéné : il n'a que le droit de saisir et de faire vendre les
+biens de son débiteur et de faire ordonner ou consentir, sur le produit de la vente, l'emploi d'une somme suffisante pour le
+service des arrérages.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-10
+
+	**Créé par**:
+
+	  - Loi n°1804-03-10 promulguée le 20 mars 1804
+
+
+###### Article 1979
+
+Le constituant ne peut se libérer du paiement de la rente, en offrant de rembourser le capital, et en renonçant à la
+répétition des arrérages payés ; il est tenu de servir la rente pendant toute la vie de la personne ou des personnes sur la
+tête desquelles la rente a été constituée, quelle que soit la durée de la vie de ces personnes, et quelque onéreux qu'ait pu
+devenir le service de la rente.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-10
+
+	**Créé par**:
+
+	  - Loi n°1804-03-10 promulguée le 20 mars 1804
+
+
+###### Article 1980
+
+La rente viagère n'est acquise au propriétaire que dans la proportion du nombre de jours qu'il a vécu.
+
+Néanmoins, s'il a été convenu qu'elle serait payée d'avance, le terme qui a dû être payé est acquis du jour où le paiement a
+dû en être fait.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-10
+
+	**Créé par**:
+
+	  - Loi n°1804-03-10 promulguée le 20 mars 1804
+
+
+###### Article 1981
+
+La rente viagère ne peut être stipulée insaisissable que lorsqu'elle a été constituée à titre gratuit.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-10
+
+	**Créé par**:
+
+	  - Loi n°1804-03-10 promulguée le 20 mars 1804
+
+
+###### Article 1982
+
+La rente viagère ne s'éteint pas par la mort civile (1) du propriétaire ; le paiement doit en être continué pendant sa vie
+naturelle.
+
+**Nota:**
+
+(1) : La loi du 31 mai 1854 abolit la mort civile.
+
+**Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Loi n°2009-526 du 12 mai 2009 - art. 10
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-10
+
+	**Créé par**:
+
+	  - Loi n°1804-03-10 promulguée le 20 mars 1804
+
+
+###### Article 1983
+
+Le propriétaire d'une rente viagère n'en peut demander les arrérages qu'en justifiant de son existence, ou de celle de la
+personne sur la tête de laquelle elle a été constituée.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°2015-1407 du 5 novembre 2015 - art. Annexe 1 (V)
+	  - Code de l'action sociale et des familles - art. D117-25 (VD)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-10
+
+	**Créé par**:
+
+	  - Loi n°1804-03-10 promulguée le 20 mars 1804
+
+
+## Titre XIII : Du mandat
+
+### Chapitre Ier : De la nature et de la forme du mandat.
+
+###### Article 1984
+
+Le mandat ou procuration est un acte par lequel une personne donne à une autre le pouvoir de faire quelque chose pour le
+mandant et en son nom.
+
+Le contrat ne se forme que par l'acceptation du mandataire.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°67-223 du 17 mars 1967 - art. 39-1 (V)
+	  - Arrêté du 23 décembre 2009 - art. Annexe (V)
+	  - Loi n°2015-990 du 6 août 2015 - art. 133
+	  - Code civil - art. 478 (V)
+	  - Code civil - art. 812-1-4 (V)
+	  - Code civil - art. 813 (V)
+	  - Code du tourisme. - art. L311-5-1 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-10
+
+	**Créé par**:
+
+	  - Loi n°1804-03-10 promulguée le 20 mars 1804
+
+
+###### Article 1985
+
+Le mandat peut être donné ou par acte public, ou par écrit sous seing privé, même par lettre. Il peut aussi être donné
+verbalement ; mais la preuve testimoniale n'en est reçue que conformément au titre : Des contrats ou des obligations
+conventionnelles en général.
+
+L'acceptation du mandat peut n'être que tacite, et résulter de l'exécution qui lui a été donnée par le mandataire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-10
+
+	**Créé par**:
+
+	  - Loi n°1804-03-10 promulguée le 20 mars 1804
+
+
+###### Article 1986
+
+Le mandat est gratuit s'il n'y a convention contraire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-10
+
+	**Créé par**:
+
+	  - Loi n°1804-03-10 promulguée le 20 mars 1804
+
+
+###### Article 1987
+
+Il est ou spécial et pour une affaire ou certaines affaires seulement, ou général et pour toutes les affaires du mandant.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-10
+
+	**Créé par**:
+
+	  - Loi n°1804-03-10 promulguée le 20 mars 1804
+
+
+###### Article 1988
+
+Le mandat conçu en termes généraux n'embrasse que les actes d'administration.
+
+S'il s'agit d'aliéner ou hypothéquer, ou de quelque autre acte de propriété, le mandat doit être exprès.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code civil - art. 490 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-10
+
+	**Créé par**:
+
+	  - Loi n°1804-03-10 promulguée le 20 mars 1804
+
+
+###### Article 1989
+
+Le mandataire ne peut rien faire au-delà de ce qui est porté dans son mandat : le pouvoir de transiger ne renferme pas celui
+de compromettre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-10
+
+	**Créé par**:
+
+	  - Loi n°1804-03-10 promulguée le 20 mars 1804
+
+
+### Chapitre II : Des obligations du mandataire.
+
+###### Article 1991
+
+Le mandataire est tenu d'accomplir le mandat tant qu'il en demeure chargé, et répond des dommages-intérêts qui pourraient
+résulter de son inexécution.
+
+Il est tenu de même d'achever la chose commencée au décès du mandant, s'il y a péril en la demeure.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 23 décembre 2009 - art. Annexe (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-10
+
+	**Créé par**:
+
+	  - Loi n°1804-03-10 promulguée le 20 mars 1804
+
+
+###### Article 1992
+
+Le mandataire répond non seulement du dol, mais encore des fautes qu'il commet dans sa gestion.
+
+Néanmoins, la responsabilité relative aux fautes est appliquée moins rigoureusement à celui dont le mandat est gratuit qu'à
+celui qui reçoit un salaire.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°1942-01-19 du 19 janvier 1942 - art. 18 (Ab)
+	  - Code civil - art. 424 (VD)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-10
+
+	**Créé par**:
+
+	  - Loi n°1804-03-10 promulguée le 20 mars 1804
+
+
+###### Article 1993
+
+Tout mandataire est tenu de rendre compte de sa gestion, et de faire raison au mandant de tout ce qu'il a reçu en vertu de sa
+procuration, quand même ce qu'il aurait reçu n'eût point été dû au mandant.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-10
+
+	**Créé par**:
+
+	  - Loi n°1804-03-10 promulguée le 20 mars 1804
+
+
+###### Article 1994
+
+Le mandataire répond de celui qu'il s'est substitué dans la gestion :
+
+1° quand il n'a pas reçu le pouvoir de se substituer quelqu'un ;
+
+2° quand ce pouvoir lui a été conféré sans désignation d'une personne, et que celle dont il a fait choix était notoirement
+incapable ou insolvable.
+
+Dans tous les cas, le mandant peut agir directement contre la personne que le mandataire s'est substituée.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code civil - art. 482 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-10
+
+	**Créé par**:
+
+	  - Loi n°1804-03-10 promulguée le 20 mars 1804
+
+
+###### Article 1995
+
+Quand il y a plusieurs fondés de pouvoir ou mandataires établis par le même acte, il n'y a de solidarité entre eux qu'autant
+qu'elle est exprimée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-10
+
+	**Créé par**:
+
+	  - Loi n°1804-03-10 promulguée le 20 mars 1804
+
+
+###### Article 1996
+
+Le mandataire doit l'intérêt des sommes qu'il a employées à son usage à dater de cet emploi ; et de celles dont il est
+reliquataire à compter du jour qu'il est mis en demeure.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-10
+
+	**Créé par**:
+
+	  - Loi n°1804-03-10 promulguée le 20 mars 1804
+
+
+###### Article 1997
+
+Le mandataire qui a donné à la partie avec laquelle il contracte en cette qualité une suffisante connaissance de ses pouvoirs
+n'est tenu d'aucune garantie pour ce qui a été fait au-delà, s'il ne s'y est personnellement soumis.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-10
+
+	**Créé par**:
+
+	  - Loi n°1804-03-10 promulguée le 20 mars 1804
+
+
+### Chapitre III : Des obligations du mandant.
+
+###### Article 1998
+
+Le mandant est tenu d'exécuter les engagements contractés par le mandataire, conformément au pouvoir qui lui a été donné.
+
+Il n'est tenu de ce qui a pu être fait au-delà, qu'autant qu'il l'a ratifié expressément ou tacitement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-10
+
+	**Créé par**:
+
+	  - Loi n°1804-03-10 promulguée le 20 mars 1804
+
+
+###### Article 1999
+
+Le mandant doit rembourser au mandataire les avances et frais que celui-ci a faits pour l'exécution du mandat, et lui payer
+ses salaires lorsqu'il en a été promis.
+
+S'il n'y a aucune faute imputable au mandataire, le mandant ne peut se dispenser de faire ces remboursements et paiement,
+lors même que l'affaire n'aurait pas réussi, ni faire réduire le montant des frais et avances sous le prétexte qu'ils
+pouvaient être moindres.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code du cinéma et de l'image animée - art. L115-14 (V)
+	  - Ordonnance n°2009-901 du 24 juillet 2009 - art.
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-10
+
+	**Créé par**:
+
+	  - Loi n°1804-03-10 promulguée le 20 mars 1804
+
+
+###### Article 2000
+
+Le mandant doit aussi indemniser le mandataire des pertes que celui-ci a essuyées à l'occasion de sa gestion, sans imprudence
+qui lui soit imputable.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-10
+
+	**Créé par**:
+
+	  - Loi n°1804-03-10 promulguée le 20 mars 1804
+
+
+###### Article 2001
+
+L'intérêt des avances faites par le mandataire lui est dû par le mandant, à dater du jour des avances constatées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-10
+
+	**Créé par**:
+
+	  - Loi n°1804-03-10 promulguée le 20 mars 1804
+
+
+###### Article 2002
+
+Lorsque le mandataire a été constitué par plusieurs personnes pour une affaire commune, chacune d'elles est tenue
+solidairement envers lui de tous les effets du mandat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-10
+
+	**Créé par**:
+
+	  - Loi n°1804-03-10 promulguée le 20 mars 1804
+
+
+### Chapitre IV : Des différentes manières dont le mandat finit.
+
+###### Article 2003
+
+Le mandat finit :
+
+Par la révocation du mandataire,
+
+Par la renonciation de celui-ci au mandat,
+
+Par la mort naturelle ou civile (1), la tutelle des majeurs ou la déconfiture, soit du mandant, soit du mandataire.
+
+**Nota:**
+
+(1) : La mort civile a été abolie par la loi du 31 mai 1854.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-10
+
+	**Créé par**:
+
+	  - Loi n°1804-03-10 promulguée le 20 mars 1804
+
+	**Cité par**:
+
+	  - Ordonnance n°2009-866 du 15 juillet 2009 - art. 19 (V)
+
+
+###### Article 2004
+
+Le mandant peut révoquer sa procuration quand bon lui semble et contraindre, s'il y a lieu, le mandataire à lui remettre soit
+l'écrit sous seing privé qui la contient, soit l'original de la procuration, si elle a été délivrée en brevet, soit
+l'expédition, s'il en a été gardé minute.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°2014-1518 du 16 décembre 2014 - art. 6 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-10
+
+	**Créé par**:
+
+	  - Loi n°1804-03-10 promulguée le 20 mars 1804
+
+
+###### Article 2005
+
+La révocation notifiée au seul mandataire ne peut être opposée aux tiers qui ont traité dans l'ignorance de cette révocation,
+sauf au mandant son recours contre le mandataire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-10
+
+	**Créé par**:
+
+	  - Loi n°1804-03-10 promulguée le 20 mars 1804
+
+
+###### Article 2006
+
+La constitution d'un nouveau mandataire pour la même affaire vaut révocation du premier, à compter du jour où elle a été
+notifiée à celui-ci.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-10
+
+	**Créé par**:
+
+	  - Loi n°1804-03-10 promulguée le 20 mars 1804
+
+
+###### Article 2007
+
+Le mandataire peut renoncer au mandat, en notifiant au mandant sa renonciation.
+
+Néanmoins, si cette renonciation préjudicie au mandant il devra en être indemnisé par le mandataire, à moins que celui-ci ne
+se trouve dans l'impossibilité de continuer le mandat sans en éprouver lui-même un préjudice considérable.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-10
+
+	**Créé par**:
+
+	  - Loi n°1804-03-10 promulguée le 20 mars 1804
+
+
+###### Article 2008
+
+Si le mandataire ignore la mort du mandant ou l'une des autres causes qui font cesser le mandat, ce qu'il a fait dans cette
+ignorance est valide.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-10
+
+	**Créé par**:
+
+	  - Loi n°1804-03-10 promulguée le 20 mars 1804
+
+
+###### Article 2009
+
+Dans les cas ci-dessus, les engagements du mandataire sont exécutés à l'égard des tiers qui sont de bonne foi.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-10
+
+	**Créé par**:
+
+	  - Loi n°1804-03-10 promulguée le 20 mars 1804
+
+
+###### Article 2010
+
+En cas de mort du mandataire, ses héritiers doivent en donner avis au mandant, et pourvoir, en attendant, à ce que les
+circonstances exigent pour l'intérêt de celui-ci.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-10
+
+	**Créé par**:
+
+	  - Loi n°1804-03-10 promulguée le 20 mars 1804
 
 
 ## Titre XIV : Du cautionnement.

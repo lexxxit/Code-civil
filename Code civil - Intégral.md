@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1946-04-14
+Version Consolidée au 1946-10-07
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -711,6 +711,31 @@ aura été remise.
 	**Créé par**:
 
 	  - Loi n°1803-03-11 promulguée le 21 mars 1803
+
+
+###### Article 68
+
+En cas d'opposition, l'officier d'état civil ne pourra célébrer le mariage avant qu'on lui en ait remis la mainlevée, sous
+peine de 30 F d'amende et de tous dommages-intérêts.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code civil - art. 2499-3 (V)
+	  - Code civil - art. 33 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-11
+
+	**Créé par**:
+
+	  - Loi n°1803-03-11 promulguée le 21 mars 1803
+
+	**Modifié par**:
+
+	  - Loi n°46-2154 1946-10-07 art. 38
 
 
 ###### Article 69
@@ -2499,6 +2524,37 @@ actuel, ainsi que par le ministère public.
 	  - Code civil - art. 171-4 (V)
 	  - Code civil - art. 171-7 (V)
 	  - Code civil - art. 171-8 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°1803-03-17 promulguée le 27 mars 1803
+
+
+###### Article 192
+
+Si le mariage n'a point été précédé de la publication requise ou s'il n'a pas été obtenu des dispenses permises par la loi,
+ou si les intervalles prescrits entre les publications et la célébration n'ont point été observés, le procureur de la
+République fera prononcer contre l'officier public une amende qui ne pourra excéder 30 F et contre les parties contractantes,
+ou ceux sous la puissance desquels elles ont agi, une amende proportionnée à leur fortune.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°46-2154 1946-10-07 art. 38
+
+	**Cité par**:
+
+	  - Code civil - art. 156 (V)
+	  - Code de procédure pénale - art. R215 (V)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code civil - art. 193 (V)
 
 	**Codifié par**:
 

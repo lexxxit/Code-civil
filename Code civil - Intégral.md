@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1804-03-29
+Version Consolidée au 1804-03-30
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -25094,6 +25094,362 @@ caution.
 	**Transféré par**:
 
 	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 5 () JORF 24 mars 2006
+
+
+## Titre XV : Des transactions
+
+###### Article 2044
+
+La transaction est un contrat par lequel les parties terminent une contestation née, ou préviennent une contestation à
+naître.
+
+Ce contrat doit être rédigé par écrit.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°46-2769 du 27 novembre 1946 - art. 15 (V)
+	  - Décret n°69-535 du 21 mai 1969 - art. 12 (Ab)
+	  - Décret n°72-355 du 4 mai 1972 - art. 14-1 (V)
+	  - Décret n°78-262 du 8 mars 1978 - art. 12 (Ab)
+	  - Loi n°82-610 du 15 juillet 1982 - art. 14 (V)
+	  - Loi n°84-52 du 26 janvier 1984 - art. 20 (Ab)
+	  - Loi n°84-52 du 26 janvier 1984 - art. 7 (Ab)
+	  - Décret n°2008-1551 du 31 décembre 2008 (V)
+	  - Loi n°2010-2 du 5 janvier 2010 - art. 6 (V)
+	  - Arrêté du 17 décembre 2010 (V)
+	  - Loi n°2013-1278 du 29 décembre 2013 - art. 92 (V)
+	  - Décret n°2014-382 du 28 mars 2014 - art. 4 (V)
+	  - Décret n°2014-444 du 29 avril 2014 (V)
+	  - Décret n°2014-444 du 29 avril 2014 - art. 2 (V)
+	  - Arrêté du 4 novembre 2014 - art. 1 (V)
+	  - Décret n°2015-156 du 11 février 2015 - art. (V)
+	  - Décret n°2016-154 du 15 février 2016 - art. 1
+	  - Décret n°2016-230 du 26 février 2016 - art.
+	  - Décret n°2017-427 du 29 mars 2017 - art. 21 (V)
+	  - Décret n°2017-1012 du 10 mai 2017 - art. 2 (VD)
+	  - Code de commerce - art. L464-2 (V)
+	  - Code de commerce - art. R711-74 (V)
+	  - Code de commerce - art. R821-2 (V)
+	  - Code de commerce. - art. R821-14-2 (M)
+	  - Code de l'action sociale et des familles - art. L14-10-3 (VT)
+	  - Code de l'aviation civile - art. R252-12-1 (Ab)
+	  - Code de l'éducation - art. D123-9 (V)
+	  - Code de l'éducation - art. D762-2 (V)
+	  - Code de l'éducation - art. L123-6 (V)
+	  - Code de l'éducation - art. L711-1 (V)
+	  - Code de l'énergie - art. R122-4 (V)
+	  - Code de la propriété intellectuelle - art. R331-9 (V)
+	  - Code de la recherche - art. L311-3 (V)
+	  - Code de la santé publique - art. L1142-14 (V)
+	  - Code de la santé publique - art. L1142-15 (V)
+	  - Code de la santé publique - art. L1142-17 (V)
+	  - Code de la santé publique - art. L3110-4 (T)
+	  - Code de la santé publique - art. L3111-9 (V)
+	  - Code de la santé publique - art. L3122-3 (V)
+	  - Code de la santé publique - art. L3131-4 (V)
+	  - Code de la sécurité sociale. - art. L221-3-1 (V)
+	  - Code de la sécurité sociale. - art. R161-87 (V)
+	  - Code de la sécurité sociale. - art. R243-45-1 (V)
+	  - Code des ports maritimes - art. R*113-8 (Ab)
+	  - Code des relations entre le public et l'adminis... - art. L423-1 (V)
+	  - Code des transports - art. R4322-30 (V)
+	  - Code des transports - art. R5312-32 (V)
+	  - Code des transports - art. R5313-38 (V)
+	  - Code du sport. - art. R232-16 (V)
+	  - Code monétaire et financier - art. R612-11 (V)
+	  - Code monétaire et financier - art. R612-19 (V)
+	  - Code rural - art. R621-12 (V)
+	  - Code rural - art. R622-8 (Ab)
+	  - Code rural et de la pêche maritime - art. R313-27 (T)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-20
+
+	**Créé par**:
+
+	  - Loi n°1804-03-20 promulguée le 30 mars 1804
+
+
+###### Article 2045
+
+Pour transiger, il faut avoir la capacité de disposer des objets compris dans la transaction. 
+
+Le tuteur ne peut transiger pour le mineur ou le majeur en tutelle que conformément à l'article 467 au titre " De la
+minorité, de la tutelle et de l'émancipation " ; et il ne peut transiger avec le mineur devenu majeur, sur le compte de
+tutelle, que conformément à l'article 472 au même titre. 
+
+Les communes et établissements publics ne peuvent transiger qu'avec l'autorisation expresse du roi (du Premier ministre).
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°2004-803 du 9 août 2004 - art. 31 (V)
+	  - Décret  n°2007-378 du 21 mars 2007 - art. ANNEXE (Ab)
+	  - Décret  n°2007-382 du 21 mars 2007 - art. ANNEXE (VT)
+	  - Décret n°2007-1852 du 26 décembre 2007 (V)
+	  - Décret n°2008-1561 du 31 décembre 2008 (Ab)
+	  - Décret n°2009-33 du 9 janvier 2009 (VT)
+	  - Décret n°2009-1199 du 8 octobre 2009 (V)
+	  - Décret n°2015-281 du 11 mars 2015 - art. (V)
+
+	**Cite**:
+
+	  - Code civil - art. 467 (VT)
+	  - Code civil - art. 472 (VT)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-20
+
+	**Créé par**:
+
+	  - Loi n°1804-03-20 promulguée le 30 mars 1804
+
+
+###### Article 2046
+
+On peut transiger sur l'intérêt civil qui résulte d'un délit.
+
+La transaction n'empêche pas la poursuite du ministère public.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-20
+
+	**Créé par**:
+
+	  - Loi n°1804-03-20 promulguée le 30 mars 1804
+
+
+###### Article 2047
+
+On peut ajouter à une transaction la stipulation d'une peine contre celui qui manquera de l'exécuter.
+
+**Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 10
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-20
+
+	**Créé par**:
+
+	  - Loi n°1804-03-20 promulguée le 30 mars 1804
+
+
+###### Article 2048
+
+Les transactions se renferment dans leur objet : la renonciation qui y est faite à tous droits, actions et prétentions, ne
+s'entend que de ce qui est relatif au différend qui y a donné lieu.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-20
+
+	**Créé par**:
+
+	  - Loi n°1804-03-20 promulguée le 30 mars 1804
+
+
+###### Article 2049
+
+Les transactions ne règlent que les différends qui s'y trouvent compris, soit que les parties aient manifesté leur intention
+par des expressions spéciales ou générales, soit que l'on reconnaisse cette intention par une suite nécessaire de ce qui est
+exprimé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-20
+
+	**Créé par**:
+
+	  - Loi n°1804-03-20 promulguée le 30 mars 1804
+
+
+###### Article 2050
+
+Si celui qui avait transigé sur un droit qu'il avait de son chef acquiert ensuite un droit semblable du chef d'une autre
+personne, il n'est point, quant au droit nouvellement acquis, lié par la transaction antérieure.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-20
+
+	**Créé par**:
+
+	  - Loi n°1804-03-20 promulguée le 30 mars 1804
+
+
+###### Article 2051
+
+La transaction faite par l'un des intéressés ne lie point les autres intéressés et ne peut être opposée par eux.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-20
+
+	**Créé par**:
+
+	  - Loi n°1804-03-20 promulguée le 30 mars 1804
+
+
+###### Article 2052
+
+Les transactions ont, entre les parties, l'autorité de la chose jugée en dernier ressort.
+
+Elles ne peuvent être attaquées pour cause d'erreur de droit, ni pour cause de lésion.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-20
+
+	**Créé par**:
+
+	  - Loi n°1804-03-20 promulguée le 30 mars 1804
+
+
+###### Article 2053
+
+Néanmoins, une transaction peut être rescindée lorsqu'il y a erreur dans la personne ou sur l'objet de la contestation.
+
+Elle peut l'être dans tous les cas où il y a dol ou violence.
+
+**Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 10
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-20
+
+	**Créé par**:
+
+	  - Loi n°1804-03-20 promulguée le 30 mars 1804
+
+
+###### Article 2054
+
+Il y a également lieu à l'action en rescision contre une transaction lorsqu'elle a été faite en exécution d'un titre nul, à
+moins que les parties n'aient expressément traité sur la nullité.
+
+**Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 10
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-20
+
+	**Créé par**:
+
+	  - Loi n°1804-03-20 promulguée le 30 mars 1804
+
+
+###### Article 2055
+
+La transaction faite sur pièces qui depuis ont été reconnues fausses est entièrement nulle.
+
+**Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 10
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-20
+
+	**Créé par**:
+
+	  - Loi n°1804-03-20 promulguée le 30 mars 1804
+
+
+###### Article 2056
+
+La transaction sur un procès terminé par un jugement passé en force de chose jugée, dont les parties ou l'une d'elles
+n'avaient point connaissance, est nulle.
+
+Si le jugement ignoré des parties était susceptible d'appel, la transaction sera valable.
+
+**Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 10
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-20
+
+	**Créé par**:
+
+	  - Loi n°1804-03-20 promulguée le 30 mars 1804
+
+
+###### Article 2057
+
+Lorsque les parties ont transigé généralement sur toutes les affaires qu'elles pouvaient avoir ensemble, les titres qui leur
+étaient alors inconnus, et qui auraient été postérieurement découverts, ne sont point une cause de rescision, à moins qu'ils
+n'aient été retenus par le fait de l'une des parties.
+
+Mais la transaction serait nulle si elle n'avait qu'un objet sur lequel il serait constaté, par des titres nouvellement
+découverts, que l'une des parties n'avait aucun droit.
+
+**Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 10
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-20
+
+	**Créé par**:
+
+	  - Loi n°1804-03-20 promulguée le 30 mars 1804
+
+
+###### Article 2058
+
+L'erreur de calcul dans une transaction doit être réparée.
+
+**Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 10
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-20
+
+	**Créé par**:
+
+	  - Loi n°1804-03-20 promulguée le 30 mars 1804
 
 
 ## Titre XVI : Du compromis

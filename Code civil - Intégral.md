@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1995-01-01
+Version Consolidée au 1995-02-02
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -52107,24 +52107,27 @@ règles prescrites dans la présente section : ils sont entrepreneurs dans la pa
 	  - Loi n°1804-03-07 promulguée le 17 mars 1804
 
 
-#### Section III : Des devis et des marchés.
-
 ###### Article 1799-1
 
 Le maître de l'ouvrage qui conclut un marché de travaux privé visé au 3° de l'article 1779 doit garantir à l'entrepreneur le
-paiement des sommes dues lorsque celles-ci dépassent un seuil fixé par décret en Conseil d'Etat.
+paiement des sommes dues lorsque celles-ci dépassent un seuil fixé par décret en Conseil d'Etat. 
 
 Lorsque le maître de l'ouvrage recourt à un crédit spécifique pour financer les travaux, l'établissement de crédit ne peut
 verser le montant du prêt à une personne autre que celles mentionnées au 3° de l'article 1779 tant que celles-ci n'ont pas
 reçu le paiement de l'intégralité de la créance née du marché correspondant au prêt. Les versements se font sur l'ordre écrit
 et sous la responsabilité exclusive du maître de l'ouvrage entre les mains de la personne ou d'un mandataire désigné à cet
-effet.
+effet. 
 
 Lorsque le maître de l'ouvrage ne recourt pas à un crédit spécifique ou lorsqu'il y recourt partiellement, et à défaut de
 garantie résultant d'une stipulation particulière, le paiement est garanti par un cautionnement solidaire consenti par un
 établissement de crédit, une entreprise d'assurance ou un organisme de garantie collective, selon des modalités fixées par
 décret en Conseil d'Etat. Tant qu'aucune garantie n'a été fournie et que l'entrepreneur demeure impayé des travaux exécutés,
-celui-ci peut surseoir à l'exécution du contrat après mise en demeure restée sans effet à l'issue d'un délai de quinze jours.
+celui-ci peut surseoir à l'exécution du contrat après mise en demeure restée sans effet à l'issue d'un délai de quinze
+jours. 
+
+Les dispositions de l'alinéa précédent ne s'appliquent pas lorsque le maître de l'ouvrage conclut un marché de travaux pour
+son propre compte et pour la satisfaction de besoins ne ressortissant pas à une activité professionnelle en rapport avec ce
+marché. 
 
 Les dispositions du présent article ne s'appliquent pas aux marchés conclus par un organisme visé à l'article L. 411-2 du
 code de la construction et de l'habitation, ou par une société d'économie mixte, pour des logements à usage locatif aidés par
@@ -52142,21 +52145,22 @@ l'Etat et réalisés par cet organisme ou cette société.
 	  - Code des assurances - art. R421-24-3 (V)
 	  - Code monétaire et financier - art. D313-26 (VD)
 
-	**Créé par**:
-
-	  - Loi n°94-475 du 10 juin 1994 - art. 5 () JORF 11 juin 1994 en vigueur le 1er octobre 1994
-
 	**Liens**:
 
 	  - TXT_SOURCE: Décret n°94-999 du 18 novembre 1994
 	  - TXT_SOURCE: Décret n°94-999 du 18 novembre 1994 - art. 1 (An)
+	  - SPEC_APPLI: Décret n°99-658 1999-07-30 art. 1 (fixation du seuil)
 	  - TXT_SOURCE: Décret n°99-658 du 30 juillet 1999
 	  - TXT_SOURCE: Décret n°99-658 du 30 juillet 1999 - art. 1 (M)
+
+	**Modifié par**:
+
+	  - Loi n°95-96 du 1 février 1995 - art. 12 () JORF 2 février 1995
 
 	**Cite**:
 
 	  - Code civil - art. 1779 (V)
-	  - Code de la construction et de l'habitation. - art. L411-2 (M)
+	  - Code de la construction et de l'habitation. - art. L411-2 (V)
 
 	**Codifié par**:
 

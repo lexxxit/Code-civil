@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 2003-09-01
+Version Consolidée au 2003-11-27
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -843,8 +843,8 @@ Lorsque le mineur mentionné à l'alinéa précédent est placé sous tutelle, s
 
 ###### Article 17-4
 
-Au sens du présent titre, l'expression "En France" s'entend du territoire métropolitain, des départements et des territoires
-d'outre-mer et des collectivités territoriales de Mayotte et de Saint-Pierre-et-Miquelon.
+Au sens du présent titre, l'expression "en France" s'entend du territoire métropolitain, des départements et des
+collectivités d'outre-mer ainsi que de la Nouvelle-Calédonie et des Terres australes et antarctiques françaises.
 
 **Liens relatifs à cet article**
 
@@ -856,9 +856,9 @@ d'outre-mer et des collectivités territoriales de Mayotte et de Saint-Pierre-et
 
 	  - Loi n°93-933 1993-07-22
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°93-933 du 22 juillet 1993 - art. 50 () JORF 23 juillet 1993
+	  - Loi n°2003-1119 du 26 novembre 2003 - art. 63 () JORF 27 novembre 2003
 
 
 ###### Article 17-5
@@ -1134,8 +1134,8 @@ Est français :
 
 1° L'enfant né en France de parents apatrides ;
 
-2° L'enfant né en France de parents étrangers et à qui n'est attribuée par les lois étrangères la nationalité d'aucun des
-deux parents.
+2° L'enfant né en France de parents étrangers pour lequel les lois étrangères de nationalité ne permettent en aucune façon
+qu'il se voie transmettre la nationalité de l'un ou l'autre de ses parents.
 
 Toutefois, il sera réputé n'avoir jamais été français si, au cours de sa minorité, la nationalité étrangère acquise ou
 possédée par l'un de ses parents vient à lui être transmise.
@@ -1148,7 +1148,7 @@ possédée par l'un de ses parents vient à lui être transmise.
 
 	**Modifié par**:
 
-	  - Loi n°98-170 du 16 mars 1998 - art. 13 () JORF 17 mars 1998 en vigueur le 1er septembre 1998
+	  - Loi n°2003-1119 du 26 novembre 2003 - art. 64 () JORF 27 novembre 2003
 
 	**Cité par**:
 
@@ -1472,12 +1472,14 @@ Le mariage n'exerce de plein droit aucun effet sur la nationalité.
 
 ###### Article 21-2
 
-L'étranger ou apatride qui contracte mariage avec un conjoint de nationalité française peut, après un délai d'un an à compter
-du mariage, acquérir la nationalité française par déclaration à condition qu'à la date de cette déclaration la communauté de
-vie n'ait pas cessé entre les époux et que le conjoint ait conservé sa nationalité.
+L'étranger ou apatride qui contracte mariage avec un conjoint de nationalité française peut, après un délai de deux ans à
+compter du mariage, acquérir la nationalité française par déclaration à condition qu'à la date de cette déclaration la
+communauté de vie tant affective que matérielle n'ait pas cessé entre les époux et que le conjoint français ait conservé sa
+nationalité. Le conjoint étranger doit en outre justifier d'une connaissance suffisante, selon sa condition, de la langue
+française.
 
-Le délai d'un an est supprimé lorsque naît, avant ou après le mariage, un enfant dont la filiation est établie à l'égard des
-deux conjoints, si les conditions relatives à la communauté de vie et à la nationalité du conjoint français sont satisfaites.
+Le délai de communauté de vie est porté à trois ans lorsque l'étranger, au moment de sa déclaration, ne justifie pas avoir
+résidé de manière ininterrompue pendant au moins un an en France à compter du mariage.
 
 La déclaration est faite dans les conditions prévues aux articles 26 et suivants. Par dérogation aux dispositions de
 l'article 26-1, elle est enregistrée par le ministre chargé des naturalisations.
@@ -1509,7 +1511,7 @@ l'article 26-1, elle est enregistrée par le ministre chargé des naturalisation
 
 	**Modifié par**:
 
-	  - Loi n°98-170 du 16 mars 1998 - art. 1 () JORF 17 mars 1998 en vigueur le 1er septembre 1998
+	  - Loi n°2003-1119 du 26 novembre 2003 - art. 65 () JORF 27 novembre 2003
 
 	**Cite**:
 
@@ -1552,26 +1554,17 @@ laquelle la déclaration a été souscrite.
 
 ###### Article 21-4
 
-Le Gouvernement peut s'opposer par décret en Conseil d'Etat, pour indignité ou défaut d'assimilation, à l'acquisition de la
-nationalité française par le conjoint étranger dans un délai d'un an à compter de la date du récépissé prévu au deuxième
-alinéa de l'article 26 ou, si l'enregistrement a été refusé, à compter du jour où la décision judiciaire admettant la
-régularité de la déclaration est passée en force de chose jugée. 
+Le Gouvernement peut s'opposer par décret en Conseil d'Etat, pour indignité ou défaut d'assimilation, autre que linguistique,
+à l'acquisition de la nationalité française par le conjoint étranger dans un délai d'un an à compter de la date du récépissé
+prévu au deuxième alinéa de l'article 26 ou, si l'enregistrement a été refusé, à compter du jour où la décision judiciaire
+admettant la régularité de la déclaration est passée en force de chose jugée.
 
-En cas d'opposition du Gouvernement, l'intéressé est réputé n'avoir jamais acquis la nationalité française. 
+En cas d'opposition du Gouvernement, l'intéressé est réputé n'avoir jamais acquis la nationalité française.
 
 Toutefois, la validité des actes passés entre la déclaration et le décret d'opposition ne pourra être contestée pour le motif
 que l'auteur n'a pu acquérir la nationalité française.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°93-933 1993-07-22
-
-	**Créé par**:
-
-	  - Loi n°93-933 du 22 juillet 1993 - art. 50 () JORF 23 juillet 1993 en vigueur le 1er janvier 1994
-	  - Loi n°93-933 du 22 juillet 1993 - art. 51 (V) JORF 23 juillet 1993 en vigueur le 1er janvier 1994
 
 	**Cité par**:
 
@@ -1581,11 +1574,20 @@ que l'auteur n'a pu acquérir la nationalité française.
 
 	**Cite**:
 
-	  - Code civil - art. 26 (V)
+	  - Code civil - art. 26 (M)
 
 	**Anciens textes**:
 
+	  - Code de la nationalité française 39
 	  - Code de la nationalité française. - art. 39 (Ab)
+
+	**Codifié par**:
+
+	  - Loi n°93-933 1993-07-22
+
+	**Modifié par**:
+
+	  - Loi n°2003-1119 du 26 novembre 2003 - art. 66 () JORF 27 novembre 2003
 
 
 ###### Article 21-5
@@ -1829,15 +1831,15 @@ devant alors être remplie à partir de l'âge de huit ans.
 
 L'enfant qui a fait l'objet d'une adoption simple par une personne de nationalité française peut, jusqu'à sa majorité,
 déclarer, dans les conditions prévues aux articles 26 et suivants, qu'il réclame la qualité de Français, pourvu qu'à l'époque
-de sa déclaration il réside en France.
+de sa déclaration il réside en France. 
 
 Toutefois, l'obligation de résidence est supprimée lorsque l'enfant a été adopté par une personne de nationalité française
-n'ayant pas sa résidence habituelle en France.
+n'ayant pas sa résidence habituelle en France. 
 
-Peut, dans les mêmes conditions, réclamer la nationalité française :
+Peut, dans les mêmes conditions, réclamer la nationalité française : 
 
-1° L'enfant recueilli en France et élevé par une personne de nationalité française ou confié au service de l'aide sociale à
-l'enfance ;
+1° L'enfant qui, depuis au moins cinq années, est recueilli en France et élevé par une personne de nationalité française ou
+qui, depuis au moins trois années, est confié au service de l'aide sociale à l'enfance ; 
 
 2° L'enfant recueilli en France et élevé dans des conditions lui ayant permis de recevoir, pendant cinq années au moins une
 formation française, soit par un organisme public, soit par un organisme privé présentant les caractères déterminés par un
@@ -1857,11 +1859,11 @@ décret en Conseil d'Etat.
 
 	**Modifié par**:
 
-	  - Loi n°98-170 du 16 mars 1998 - art. 7 () JORF 17 mars 1998 en vigueur le 1er septembre 1998
+	  - Loi n°2003-1119 du 26 novembre 2003 - art. 67 () JORF 27 novembre 2003
 
 	**Cite**:
 
-	  - Code civil - art. 26 (M)
+	  - Code civil - art. 26 (V)
 
 	**Anciens textes**:
 
@@ -2263,17 +2265,13 @@ prononçant la naturalisation ne pourra être pris qu'après avis conforme du Co
 ###### Article 21-24
 
 Nul ne peut être naturalisé s'il ne justifie de son assimilation à la communauté française, notamment par une connaissance
-suffisante, selon sa condition, de la langue française.
+suffisante, selon sa condition, de la langue française et des droits et devoirs conférés par la nationalité française.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Loi n°93-933 1993-07-22
-
-	**Créé par**:
-
-	  - Loi n°93-933 du 22 juillet 1993 - art. 50 () JORF 23 juillet 1993
 
 	**Cité par**:
 
@@ -2285,9 +2283,35 @@ suffisante, selon sa condition, de la langue française.
 	  - Code civil - art. 21-28 (VD)
 	  - Code du service national - art. L114-3 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2003-1119 du 26 novembre 2003 - art. 68 () JORF 27 novembre 2003
+
 	**Anciens textes**:
 
 	  - Code de la nationalité française. - art. 69 (Ab)
+
+
+###### Article 21-24-1
+
+La condition de connaissance de la langue française ne s'applique pas aux réfugiés politiques et apatrides résidant
+régulièrement et habituellement en France depuis quinze années au moins et âgés de plus de soixante-dix ans.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°93-933 1993-07-22
+
+	**Cité par**:
+
+	  - Décret n°93-1362 du 30 décembre 1993 - art. 38 (V)
+	  - Décret n°93-1362 du 30 décembre 1993 - art. 41 (VD)
+	  - Décret n°93-1362 du 30 décembre 1993 - art. 43 (V)
+
+	**Créé par**:
+
+	  - Loi n°2003-1119 du 26 novembre 2003 - art. 69 () JORF 27 novembre 2003
 
 
 ###### Article 21-25
@@ -2383,16 +2407,19 @@ L'assimilation de résidence qui profite à l'un des époux s'étend à l'autre 
 Nul ne peut acquérir la nationalité française ou être réintégré dans cette nationalité s'il a été l'objet soit d'une
 condamnation pour crimes ou délits constituant une atteinte aux intérêts fondamentaux de la Nation ou un acte de terrorisme,
 soit, quelle que soit l'infraction considérée, s'il a été condamné à une peine égale ou supérieure à six mois
-d'emprisonnement, non assortie d'une mesure de sursis.
+d'emprisonnement, non assortie d'une mesure de sursis. 
 
 Il en est de même de celui qui a fait l'objet soit d'un arrêté d'expulsion non expressément rapporté ou abrogé, soit d'une
-interdiction du territoire français non entièrement exécutée.
+interdiction du territoire français non entièrement exécutée. 
 
 Il en est de même de celui dont le séjour en France est irrégulier au regard des lois et conventions relatives au séjour des
-étrangers en France.
+étrangers en France. 
 
 Les dispositions du présent article ne sont pas applicables à l'enfant mineur susceptible d'acquérir la nationalité française
-en application des articles 21-7, 21-11, 21-12 et 22-1.
+en application des articles 21-7, 21-11, 21-12 et 22-1, ni au condamné ayant bénéficié d'une réhabilitation de plein droit ou
+d'une réhabilitation judiciaire conformément aux dispositions de l'article 133-12 du code pénal, ou dont la mention de la
+condamnation a été exclue du bulletin n° 2 du casier judiciaire, conformément aux dispositions des articles 775-1 et 775-2 du
+code de procédure pénale.
 
 **Liens relatifs à cet article**
 
@@ -2408,14 +2435,17 @@ en application des articles 21-7, 21-11, 21-12 et 22-1.
 
 	**Modifié par**:
 
-	  - Loi n°98-170 du 16 mars 1998 - art. 10 () JORF 17 mars 1998 en vigueur le 1er septembre 1998
+	  - Loi n°2003-1119 du 26 novembre 2003 - art. 70 () JORF 27 novembre 2003
 
 	**Cite**:
 
-	  - Code civil - art. 21-11 (M)
-	  - Code civil - art. 21-12 (M)
-	  - Code civil - art. 21-7 (M)
-	  - Code civil - art. 22-1 (M)
+	  - Code pénal - art. 133-12 (V)
+	  - Code civil - art. 21-11 (V)
+	  - Code civil - art. 21-12 (V)
+	  - Code civil - art. 21-7 (V)
+	  - Code civil - art. 22-1 (V)
+	  - CODE DE PROCEDURE PENALE - art. 775-1 (V)
+	  - CODE DE PROCEDURE PENALE - art. 775-2 (V)
 
 	**Anciens textes**:
 
@@ -3010,8 +3040,8 @@ intérêts de la France.
 
 ###### Article 25-1
 
-La déchéance n'est encourue que si les faits reprochés à l'intéressé et visés à l'article 25 se sont produits dans le délai
-de dix ans à compter de la date de l'acquisition de la nationalité française.
+La déchéance n'est encourue que si les faits reprochés à l'intéressé et visés à l'article 25 se sont produits antérieurement
+à l'acquisition de la nationalité française ou dans le délai de dix ans à compter de la date de cette acquisition.
 
 Elle ne peut être prononcée que dans le délai de dix ans à compter de la perpétration desdits faits.
 
@@ -3021,9 +3051,9 @@ Elle ne peut être prononcée que dans le délai de dix ans à compter de la per
 
 	  - Loi n°93-933 1993-07-22
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°93-933 du 22 juillet 1993 - art. 50 () JORF 23 juillet 1993
+	  - Loi n°2003-1119 du 26 novembre 2003 - art. 71 () JORF 27 novembre 2003
 
 	**Cite**:
 
@@ -3183,6 +3213,9 @@ Le délai est porté à un an pour les déclarations souscrites en vertu de l'ar
 A défaut de refus d'enregistrement dans les délais légaux, copie de la déclaration est remise au déclarant revêtue de la
 mention de l'enregistrement.
 
+Dans le délai d'un an suivant la date à laquelle il a été effectué, l'enregistrement peut être contesté par le ministère
+public si les conditions légales ne sont pas satisfaites.
+
 L'enregistrement peut encore être contesté par le ministère public en cas de mensonge ou de fraude dans le délai de deux ans
 à compter de leur découverte. La cessation de la communauté de vie entre les époux dans les douze mois suivant
 l'enregistrement de la déclaration prévue à l'article 21-2 constitue une présomption de fraude.
@@ -3195,7 +3228,7 @@ l'enregistrement de la déclaration prévue à l'article 21-2 constitue une pré
 
 	**Modifié par**:
 
-	  - Loi n°98-170 du 16 mars 1998 - art. 12 () JORF 17 mars 1998 en vigueur le 1er septembre 1998
+	  - Loi n°2003-1119 du 26 novembre 2003 - art. 72 () JORF 27 novembre 2003
 
 	**Cite**:
 
@@ -4200,8 +4233,25 @@ et mères décédés, que par témoins.
 
 ###### Article 47
 
-Tout acte de l'état civil des français et des étrangers, fait en pays étranger, fera foi, s'il est rédigé dans les formes
-usitées dans ledit pays.
+Tout acte de l'état civil des Français et des étrangers fait en pays étranger et rédigé dans les formes usitées dans ce pays
+fait foi, sauf si d'autres actes ou pièces détenus, des données extérieures ou des éléments tirés de l'acte lui-même
+établissent que cet acte est irrégulier, falsifié ou que les faits qui y sont déclarés ne correspondent pas à la réalité.
+
+En cas de doute, l'administration, saisie d'une demande d'établissement, de transcription ou de délivrance d'un acte ou d'un
+titre, surseoit à la demande et informe l'intéressé qu'il peut, dans un délai de deux mois, saisir le procureur de la
+République de Nantes pour qu'il soit procédé à la vérification de l'authenticité de l'acte.
+
+S'il estime sans fondement la demande de vérification qui lui est faite, le procureur de la République en avise l'intéressé
+et l'administration dans le délai d'un mois.
+
+S'il partage les doutes de l'administration, le procureur de la République de Nantes fait procéder, dans un délai qui ne peut
+excéder six mois, renouvelable une fois pour les nécessités de l'enquête, à toutes investigations utiles, notamment en
+saisissant les autorités consulaires compétentes. Il informe l'intéressé et l'administration du résultat de l'enquête dans
+les meilleurs délais.
+
+Au vu des résultats des investigations menées, le procureur de la République peut saisir le tribunal de grande instance de
+Nantes pour qu'il statue sur la validité de l'acte après avoir, le cas échéant, ordonné toutes les mesures d'instruction
+qu'il estime utiles.
 
 **Liens relatifs à cet article**
 
@@ -4230,9 +4280,9 @@ usitées dans ledit pays.
 
 	  - Loi n°1803-03-11
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°1803-03-11 promulguée le 21 mars 1803
+	  - Loi n°2003-1119 du 26 novembre 2003 - art. 73 () JORF 27 novembre 2003
 
 
 ###### Article 48
@@ -4901,12 +4951,18 @@ Avant la célébration du mariage, l'officier de l'état civil fera une publicat
 maison commune. Cette publication énoncera les prénoms, noms, professions, domiciles et résidences des futurs époux, ainsi
 que le lieu où le mariage devra être célébré.
 
-L'officier de l'état civil ne pourra procéder à la publication prévue à l'alinéa ci-dessus, ni en cas de dispense de
-publication, à la célébration du mariage, qu'après la remise, par chacun des futurs époux, d'un certificat médical datant de
-moins de deux mois, attestant, à l'exclusion de toute autre indication, que l'intéressé a été examiné en vue du mariage.
+Sans préjudice de l'application des dispositions de l'article 170, l'officier de l'état civil ne pourra procéder à la
+publication prévue au premier alinéa ni, en cas de dispense de publication, à la célébration du mariage, qu'après :
 
-L'officier d'état civil qui ne se conformera pas aux prescriptions de l'alinéa précédent sera poursuivi devant le tribunal de
-grande instance et puni d'une amende de 3 à 30 euros.
+- la remise, par chacun des futurs époux, d'un certificat médical datant de moins de deux mois, attestant, à l'exclusion de
+toute autre indication, que l'intéressé a été examiné en vue du mariage ;
+
+- l'audition commune des futurs époux, sauf en cas d'impossibilité ou s'il apparaît, au vu des pièces du dossier, que cette
+audition n'est pas nécessaire au regard de l'article 146. L'officier de l'état civil, s'il l'estime nécessaire, peut
+également demander à s'entretenir séparément avec l'un ou l'autre des futurs époux.
+
+L'officier d'état civil qui ne se conformera pas aux prescriptions des alinéas précédents sera poursuivi devant le tribunal
+de grande instance et puni d'une amende de 3 à 30 euros.
 
 **Liens relatifs à cet article**
 
@@ -4936,7 +4992,12 @@ grande instance et puni d'une amende de 3 à 30 euros.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2003-1119 2003-11-26 art. 74 I, II JORF 27 novembre 2003
+	  - Loi n°2003-1119 du 26 novembre 2003 - art. 74 () JORF 27 novembre 2003
+
+	**Cite**:
+
+	  - Code civil - art. 146 (V)
 
 	**Codifié par**:
 
@@ -7847,7 +7908,7 @@ Le procureur de la République dans l'arrondissement duquel sera célébré le m
 la publication et de tout délai ou de l'affichage de la publication seulement.
 
 Il peut également, dans des cas exceptionnels, dispenser les futurs époux, ou l'un d'eux seulement, de la remise du
-certificat médical exigé par le deuxième alinéa de l'article 63.
+certificat médical exigé par le troisième alinéa de l'article 63.
 
 Le certificat médical n'est exigible d'aucun des futurs époux au cas de péril imminent de mort de l'un d'eux, prévu au
 deuxième alinéa de l'article 75 du présent code.
@@ -7856,7 +7917,7 @@ deuxième alinéa de l'article 75 du présent code.
 
 	**Modifié par**:
 
-	  - Ordonnance 45-2720 1945-11-02 art. 7 JORF 5 novembre 1945 rectificatif JORF 31 décembre 1945
+	  - Loi n°2003-1119 du 26 novembre 2003 - art. 74 () JORF 27 novembre 2003
 
 	**Cité par**:
 
@@ -7872,10 +7933,6 @@ deuxième alinéa de l'article 75 du présent code.
 
 	  - Loi n°1803-03-14
 
-	**Créé par**:
-
-	  - Loi n°1803-03-17 promulguée le 27 mars 1803
-
 
 ###### Article 170
 
@@ -7883,13 +7940,29 @@ Le mariage contracté en pays étranger entre français et entre français et é
 formes usitées dans le pays, pourvu qu'il ait été précédé de la publication prescrite par l'article 63, au titre Des actes de
 l'état civil, et que le français n'ait point contrevenu aux dispositions contenues au chapitre précédent.
 
-Il en sera de même du mariage contracté en pays étranger entre un français et une étrangère, s'il a été célébré par les
-agents diplomatiques, ou par les consuls de France, conformément aux lois françaises.
+Il en sera de même du mariage contracté en pays étranger entre un français et un étranger, s'il a été célébré par les agents
+diplomatiques, ou par les consuls de France, conformément aux lois françaises.
 
-Toutefois, les agents diplomatiques ou les consuls ne pourront procéder à la célébration du mariage entre un français et une
-étrangère que dans les pays qui seront désignés par décrets du Président de la République.
+Toutefois, les agents diplomatiques ou les consuls ne pourront procéder à la célébration du mariage entre un français et un
+étranger que dans les pays qui seront désignés par décrets du Président de la République.
+
+Sauf en cas d'impossibilité ou s'il apparaît, au vu des pièces du dossier, que cette audition n'est pas nécessaire au regard
+de l'article 146, les agents diplomatiques et consulaires doivent, pour l'application du premier et du deuxième alinéa du
+présent article, procéder à l'audition commune des futurs époux ou des époux, selon les cas, soit lors de la demande de
+publication prescrite par l'article 63, soit lors de la délivrance du certificat de mariage, soit en cas de demande de
+transcription du mariage par le ressortissant français. Les agents diplomatiques et consulaires peuvent demander à
+s'entretenir, si nécessaire, avec l'un ou l'autre des époux ou futurs époux. Ils peuvent également requérir la présence des
+époux ou des futurs époux à l'occasion de chacune des formalités ci-dessus indiquées.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2003-1119 du 26 novembre 2003 - art. 75 () JORF 27 novembre 2003
+
+	**Cite**:
+
+	  - Code civil - art. 146 (V)
 
 	**Cité par**:
 
@@ -7899,16 +7972,12 @@ Toutefois, les agents diplomatiques ou les consuls ne pourront procéder à la c
 
 	  - Loi n°1803-03-14
 
-	**Créé par**:
-
-	  - Loi n°1803-03-17 promulguée le 27 mars 1803
-
 
 ###### Article 170-1
 
 Lorsqu'il existe des indices sérieux laissant présumer qu'un mariage célébré à l'étranger encourt la nullité au titre des
-articles 184, 190-1 ou 191, l'agent diplomatique ou consulaire chargé de transcrire l'acte en informe immédiatement le
-ministère public et sursoit à la transcription.
+articles 184 ou 191, l'agent diplomatique ou consulaire chargé de transcrire l'acte en informe immédiatement le ministère
+public et sursoit à la transcription.
 
 Le procureur de la République se prononce sur la transcription. Lorsqu'il demande la nullité du mariage, il ordonne que la
 transcription soit limitée à la seule fin de saisine du juge ; jusqu'à la décision de celui-ci, une expédition de l'acte
@@ -7919,9 +7988,9 @@ diplomatique ou consulaire transcrit l'acte.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°93-1027 du 24 août 1993 - art. 31 () JORF 29 août 1993
+	  - Loi n°2003-1119 du 26 novembre 2003 - art. 77 () JORF 27 novembre 2003
 
 	**Cité par**:
 
@@ -7932,7 +8001,6 @@ diplomatique ou consulaire transcrit l'acte.
 	**Cite**:
 
 	  - Code civil - art. 184 (M)
-	  - Code civil - art. 190-1 (Ab)
 	  - Code civil - art. 191 (V)
 
 	**Codifié par**:
@@ -8086,37 +8154,40 @@ Le ministère public peut former opposition pour les cas où il pourrait demande
 
 ###### Article 175-2
 
-Lorsqu'il existe des indices sérieux laissant présumer que le mariage envisagé est susceptible d'être annulé au titre de
-l'article 146 du présent code, l'officier de l'état civil peut saisir le procureur de la République. Il en informe les
-intéressés.
+Lorsqu'il existe des indices sérieux laissant présumer, le cas échéant au vu de l'audition prévue par l'article 63, que le
+mariage envisagé est susceptible d'être annulé au titre de l'article 146, l'officier de l'état civil peut saisir le procureur
+de la République. Il en informe les intéressés. (Dispositions déclarées non conformes à la Constitution par décision du
+Conseil constitutionnel n° 2003-484 DC du 20 novembre 2003.)
 
-Le procureur de la République dispose de quinze jours pour faire opposition au mariage ou décider qu'il sera sursis à sa
-célébration. Il fait connaître sa décision motivée à l'officier de l'état civil et aux intéressés.
+Le procureur de la République est tenu, dans les quinze jours de sa saisine, soit de laisser procéder au mariage, soit de
+faire opposition à celui-ci, soit de décider qu'il sera sursis à sa célébration, dans l'attente des résultats de l'enquête à
+laquelle il fait procéder. Il fait connaître sa décision motivée à l'officier de l'état civil, aux intéressés (Dispositions
+déclarées non conformes à la Constitution par décision du Conseil constitutionnel n° 2003-484 DC du 20 novembre 2003).
 
-La durée du sursis décidée par le procureur de la République ne peut excéder un mois.
+La durée du sursis décidé par le procureur de la République ne peut excéder un mois renouvelable une fois par décision
+spécialement motivée.
 
-Le mariage ne peut être célébré que lorsque le procureur de la République a fait connaître sa décision de laisser procéder au
-mariage ou si, dans le délai prévu au deuxième alinéa, il n'a pas porté à la connaissance de l'officier de l'état civil sa
-décision de surseoir à la célébration ou de s'y opposer, ou si, à l'expiration du sursis qu'il a décidé, il n'a pas fait
-connaître à l'officier de l'état civil qu'il s'opposait à la célébration.
+A l'expiration du sursis, le procureur de la République fait connaître par une décision motivée à l'officier de l'état civil
+s'il laisse procéder au mariage ou s'il s'oppose à sa célébration.
 
-L'un ou l'autre des futurs époux, même mineur, peut contester la décision de sursis devant le président du tribunal de grande
-instance, qui statuera dans les dix jours. La décision du président du tribunal de grande instance peut être déférée à la
-cour d'appel qui statuera dans le même délai.
+L'un ou l'autre des futurs époux, même mineur, peut contester la décision de sursis ou son renouvellement devant le président
+du tribunal de grande instance, qui statue dans les dix jours. La décision du président du tribunal de grande instance peut
+être déférée à la cour d'appel qui statue dans le même délai.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°93-1417 1993-12-30 art. 9 JORF 1er janvier 1994
-
-	**Cite**:
-
-	  - Code civil - art. 146 (V)
 
 	**Codifié par**:
 
 	  - Loi n°1803-03-14
+
+	**Modifié par**:
+
+	  - Loi n°2003-1119 du 26 novembre 2003 - art. 76 () JORF 27 novembre 2003
+
+	**Cite**:
+
+	  - Code civil - art. 146 (V)
+	  - Code civil - art. 63 (M)
 
 
 ###### Article 176
@@ -8463,30 +8534,6 @@ l'article 185, peut et doit demander la nullité du mariage, du vivant des deux 
 	**Créé par**:
 
 	  - Loi n°1803-03-17 promulguée le 27 mars 1803
-
-
-###### Article 190-1
-
-Le mariage qui a été célébré en fraude à la loi peut être annulé à la demande de l'époux de bonne foi ou du ministère public,
-formée dans l'année du mariage.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°93-1027 du 24 août 1993 - art. 31 () JORF 29 août 1993
-
-	**Abrogé par**:
-
-	  - Loi n°2003-1119 du 26 novembre 2003 - art. 77 () JORF 27 novembre 2003
-
-	**Cité par**:
-
-	  - Code civil - art. 170-1 (M)
 
 
 ###### Article 191

@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 2001-12-04
+Version Consolidée au 2001-12-12
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -55380,11 +55380,12 @@ leur nature, ou de leur objet.
 	  - Loi n°78-9 1978-01-04 JORF 5 janvier 1978 rectificatif JORF 15 janvier, 12 mai 1978 en vigueur le 1er juillet 1978
 
 
-#### Section I : Dispositions générales.
-
 ###### Article 1845-1
 
 Le capital est divisé en parts égales.
+
+Les dispositions du chapitre Ier du titre III du livre II du code de commerce relatives au capital variable des sociétés sont
+applicables aux sociétés civiles.
 
 **Liens relatifs à cet article**
 
@@ -55400,7 +55401,7 @@ Le capital est divisé en parts égales.
 
 	**Modifié par**:
 
-	  - Loi n°82-596 du 10 juillet 1982 - art. 15 () JORF 13 juillet 1982
+	  - Loi n°2001-1168 du 11 décembre 2001 - art. 33 () JORF 12 décembre 2001
 
 
 #### Section 2 : Gérance.

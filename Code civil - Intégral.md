@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1960-01-12
+Version Consolidée au 1960-03-31
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -1070,44 +1070,6 @@ En marge de l'acte de naissance de chaque époux, il sera fait mention de la cé
 
 
 ### Chapitre IV : Des actes de décès.
-
-###### Article 77
-
-(article abrogé).
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Décret n°60-285 1960-03-28 art. 1 JORF 31 mars 1960
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°99-201 1999-03-18 (dispositions spécifiques à la Nouvelle-Calédonie et à la Polynésie française)
-	  - TXT_SOURCE: Décret n°99-201 du 18 mars 1999
-	  - TXT_SOURCE: Décret n°99-201 du 18 mars 1999 - art. 1 (V)
-	  - TXT_SOURCE: Décret n°99-201 du 18 mars 1999 - art. 2 (V)
-	  - TXT_SOURCE: Décret n°99-201 du 18 mars 1999 - art. 3 (V)
-	  - TXT_SOURCE: Décret n°99-201 du 18 mars 1999 - art. 4 (V)
-	  - TXT_SOURCE: Décret n°99-201 du 18 mars 1999 - art. 5 (V)
-	  - TXT_SOURCE: Décret n°99-201 du 18 mars 1999 - art. 6 (V)
-	  - TXT_SOURCE: Décret n°99-201 du 18 mars 1999 - art. 7 (V)
-
-	**Cité par**:
-
-	  - Décret n°99-201 du 18 mars 1999 - art. 7 (V)
-	  - Décret n°2009-91 du 26 janvier 2009 (V)
-	  - Décret n°2014-1294 du 23 octobre 2014 - art. (VD)
-	  - Code civil - art. 93 (M)
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-11
-
-	**Créé par**:
-
-	  - Loi n°1803-03-11 promulguée le 21 mars 1803
-
 
 ###### Article 78
 

@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1982-02-06
+Version Consolidée au 1982-06-26
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -10717,6 +10717,43 @@ qu'avec le consentement du conjoint de son auteur.
 	**Cite**:
 
 	  - Code civil - art. 334 (M)
+
+
+###### Article 334-8
+
+La filiation naturelle est légalement établie par reconnaissance volontaire.
+
+La filiation naturelle peut aussi se trouver légalement établie par la possession d'état ou par l'effet d'un jugement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°72-3 du 3 janvier 1972 - art. 1 () JORF 5 janvier 1972 en vigueur le 1er août 1972
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 11 (V)
+	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 12 (V)
+	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 13 (V)
+	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 14 (V)
+	  - SPEC_APPLI: Loi n°82-536 du 25 juin 1982 - art. 2 (V)
+
+	**Modifié par**:
+
+	  - Loi n°82-536 du 25 juin 1982 - art. 1 () JORF 26 juin 1982
+
+	**Cité par**:
+
+	  - Ordonnance n°2002-1476 du 19 décembre 2002 - art. 10 (VD)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 15 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
 
 
 ###### Article 334-9

@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1804-02-09
+Version Consolidée au 1804-02-10
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -4348,9 +4348,606 @@ L'usage des bois et forêts est réglé par des lois particulières.
 
 ## Titre IV : Des servitudes ou services fonciers
 
+###### Article 637
+
+Une servitude est une charge imposée sur un héritage pour l'usage et l'utilité d'un héritage appartenant à un autre
+propriétaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-01-31
+
+	**Créé par**:
+
+	  - Loi n°1804-01-31 promulguée le 10 février 1804
+
+
+###### Article 638
+
+La servitude n'établit aucune prééminence d'un héritage sur l'autre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-01-31
+
+	**Créé par**:
+
+	  - Loi n°1804-01-31 promulguée le 10 février 1804
+
+
+###### Article 639
+
+Elle dérive ou de la situation naturelle des lieux, ou des obligations imposées par la loi, ou des conventions entre les
+propriétaires.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code général de la propriété des personnes publ... - art. L2122-4 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-01-31
+
+	**Créé par**:
+
+	  - Loi n°1804-01-31 promulguée le 10 février 1804
+
+
+### Chapitre Ier : Des servitudes qui dérivent de la situation des lieux
+
+###### Article 640
+
+Les fonds inférieurs sont assujettis envers ceux qui sont plus élevés à recevoir les eaux qui en découlent naturellement sans
+que la main de l'homme y ait contribué.
+
+Le propriétaire inférieur ne peut point élever de digue qui empêche cet écoulement.
+
+Le propriétaire supérieur ne peut rien faire qui aggrave la servitude du fonds inférieur.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 28 octobre 2010 - art. 26 (VT)
+	  - Arrêté du 12 décembre 2014 - art. 33 (VD)
+	  - Code civil - art. 641 (V)
+	  - Code de l'organisation judiciaire - art. R221-16 (VD)
+	  - Code du travail - art. R513-26 (M)
+
+	**Codifié par**:
+
+	  - Loi n°1804-01-31
+
+	**Créé par**:
+
+	  - Loi n°1804-01-31 promulguée le 10 février 1804
+
+
+###### Article 644
+
+Celui dont la propriété borde une eau courante, autre que celle qui est déclarée dépendance du domaine public par l'article
+538 au titre " De la distinction des biens ", peut s'en servir à son passage pour l'irrigation de ses propriétés. 
+
+Celui dont cette eau traverse l'héritage peut même en user dans l'intervalle qu'elle y parcourt, mais à la charge de la
+rendre, à la sortie de ses fonds, à son cours ordinaire.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°71-415 du 1 juin 1971 - art. 3 (Ab)
+	  - Code rural ancien - art. 97-1 (Ab)
+
+	**Cite**:
+
+	  - Code civil - art. 538 (Ab)
+
+	**Codifié par**:
+
+	  - Loi n°1804-01-31
+
+	**Créé par**:
+
+	  - Loi n°1804-01-31 promulguée le 10 février 1804
+
+
+###### Article 645
+
+S'il s'élève une contestation entre les propriétaires auxquels ces eaux peuvent être utiles, les tribunaux, en prononçant,
+doivent concilier l'intérêt de l'agriculture avec le respect dû à la propriété ; et, dans tous les cas, les règlements
+particuliers et locaux sur le cours et l'usage des eaux doivent être observés.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°71-415 du 1 juin 1971 - art. 3 (Ab)
+
+	**Codifié par**:
+
+	  - Loi n°1804-01-31
+
+	**Créé par**:
+
+	  - Loi n°1804-01-31 promulguée le 10 février 1804
+
+
+###### Article 646
+
+Tout propriétaire peut obliger son voisin au bornage de leurs propriétés contiguës. Le bornage se fait à frais communs.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°69-897 du 18 septembre 1969 - art. 9 (Ab)
+	  - Code rural - art. D161-13 (V)
+	  - Code rural - art. R161-13 (T)
+
+	**Codifié par**:
+
+	  - Loi n°1804-01-31
+
+	**Créé par**:
+
+	  - Loi n°1804-01-31 promulguée le 10 février 1804
+
+
+###### Article 647
+
+Tout propriétaire peut clore son héritage, sauf l'exception portée en l'article 682.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code civil - art. 682 (V)
+
+	**Cité par**:
+
+	  - Code rural - art. L651-2 (V)
+	  - Code rural ancien - art. 190 (Ab)
+
+	**Codifié par**:
+
+	  - Loi n°1804-01-31
+
+	**Créé par**:
+
+	  - Loi n°1804-01-31 promulguée le 10 février 1804
+
+
+###### Article 648
+
+Le propriétaire qui veut se clore perd son droit au parcours et vaine pâture en proportion du terrain qu'il y soustrait.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code rural - art. L651-2 (V)
+	  - Code rural ancien - art. 190 (Ab)
+
+	**Codifié par**:
+
+	  - Loi n°1804-01-31
+
+	**Créé par**:
+
+	  - Loi n°1804-01-31 promulguée le 10 février 1804
+
+
+### Chapitre II : Des servitudes établies par la loi
+
+###### Article 649
+
+Les servitudes établies par la loi ont pour objet l'utilité publique ou communale, ou l'utilité des particuliers.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-01-31
+
+	**Créé par**:
+
+	  - Loi n°1804-01-31 promulguée le 10 février 1804
+
+
+###### Article 650
+
+Celles établies pour l'utilité publique ou communale ont pour objet le marchepied le long des rivières navigables ou
+flottables, la construction ou réparation des chemins et autres ouvrages publics ou communaux.
+
+Tout ce qui concerne cette espèce de servitude est déterminé par des lois ou des règlements particuliers.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-01-31
+
+	**Créé par**:
+
+	  - Loi n°1804-01-31 promulguée le 10 février 1804
+
+
+###### Article 651
+
+La loi assujettit les propriétaires à différentes obligations l'un à l'égard de l'autre, indépendamment de toute convention.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-01-31
+
+	**Créé par**:
+
+	  - Loi n°1804-01-31 promulguée le 10 février 1804
+
+
+#### Section 1 : Du mur et du fossé mitoyens
+
+###### Article 653
+
+Dans les villes et les campagnes, tout mur servant de séparation entre bâtiments jusqu'à l'héberge, ou entre cours et
+jardins, et même entre enclos dans les champs, est présumé mitoyen s'il n'y a titre ou marque du contraire.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret du 18 novembre 1924 - art. 20 (Ab)
+	  - Décret n°2008-1086 du 23 octobre 2008 - art. 23 (V)
+	  - Décret n°2009-1193 du 7 octobre 2009 - art. 36 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-01-31
+
+	**Créé par**:
+
+	  - Loi n°1804-01-31 promulguée le 10 février 1804
+
+
+###### Article 654
+
+Il y a marque de non-mitoyenneté lorsque la sommité du mur est droite et à plomb de son parement d'un côté, et présente de
+l'autre un plan incliné.
+
+Lors encore qu'il n'y a que d'un côté ou un chaperon ou des filets et corbeaux de pierre qui y auraient été mis en bâtissant
+le mur.
+
+Dans ces cas, le mur est censé appartenir exclusivement au propriétaire du côté duquel sont l'égout ou les corbeaux et filets
+de pierre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-01-31
+
+	**Créé par**:
+
+	  - Loi n°1804-01-31 promulguée le 10 février 1804
+
+
+###### Article 655
+
+La réparation et la reconstruction du mur mitoyen sont à la charge de tous ceux qui y ont droit, et proportionnellement au
+droit de chacun.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-01-31
+
+	**Créé par**:
+
+	  - Loi n°1804-01-31 promulguée le 10 février 1804
+
+
+###### Article 656
+
+Cependant tout copropriétaire d'un mur mitoyen peut se dispenser de contribuer aux réparations et reconstructions en
+abandonnant le droit de mitoyenneté, pourvu que le mur mitoyen ne soutienne pas un bâtiment qui lui appartienne.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-01-31
+
+	**Créé par**:
+
+	  - Loi n°1804-01-31 promulguée le 10 février 1804
+
+
+###### Article 657
+
+Tout copropriétaire peut faire bâtir contre un mur mitoyen, et y faire placer des poutres ou solives dans toute l'épaisseur
+du mur, à cinquante-quatre millimètres près, sans préjudice du droit qu'a le voisin de faire réduire à l'ébauchoir la poutre
+jusqu'à la moitié du mur, dans le cas où il voudrait lui-même asseoir des poutres dans le même lieu, ou y adosser une
+cheminée.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code de la construction et de l'habitation. - art. L112-8 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-01-31
+
+	**Créé par**:
+
+	  - Loi n°1804-01-31 promulguée le 10 février 1804
+
+
+###### Article 659
+
+Si le mur mitoyen n'est pas en état de supporter l'exhaussement, celui qui veut l'exhausser doit le faire reconstruire en
+entier à ses frais, et l'excédent d'épaisseur doit se prendre de son côté.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-01-31
+
+	**Créé par**:
+
+	  - Loi n°1804-01-31 promulguée le 10 février 1804
+
+
+###### Article 662
+
+L'un des voisins ne peut pratiquer dans le corps d'un mur mitoyen aucun enfoncement, ni y appliquer ou appuyer aucun ouvrage
+sans le consentement de l'autre, ou sans avoir, à son refus, fait régler par experts les moyens nécessaires pour que le
+nouvel ouvrage ne soit pas nuisible aux droits de l'autre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-01-31
+
+	**Créé par**:
+
+	  - Loi n°1804-01-31 promulguée le 10 février 1804
+
+
+###### Article 663
+
+Chacun peut contraindre son voisin, dans les villes et faubourgs, à contribuer aux constructions et réparations de la clôture
+faisant séparation de leurs maisons, cours et jardins assis ès dites villes et faubourgs : la hauteur de la clôture sera
+fixée suivant les règlements particuliers ou les usages constants et reconnus et, à défaut d'usages et de règlements, tout
+mur de séparation entre voisins, qui sera construit ou rétabli à l'avenir, doit avoir au moins trente-deux décimètres de
+hauteur, compris le chaperon, dans les villes de cinquante mille âmes et au-dessus, et vingt-six décimètres dans les autres.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-01-31
+
+	**Créé par**:
+
+	  - Loi n°1804-01-31 promulguée le 10 février 1804
+
+
+###### Article 665
+
+Lorsqu'on reconstruit un mur mitoyen ou une maison, les servitudes actives et passives se continuent à l'égard du nouveau mur
+ou de la nouvelle maison, sans toutefois qu'elles puissent être aggravées, et pourvu que la reconstruction se fasse avant que
+la prescription soit acquise.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-01-31
+
+	**Créé par**:
+
+	  - Loi n°1804-01-31 promulguée le 10 février 1804
+
+
+#### Section 2 : De la distance et des ouvrages intermédiaires requis pour certaines constructions
+
+###### Article 674
+
+Celui qui fait creuser un puits ou une fosse d'aisance près d'un mur mitoyen ou non,
+
+Celui qui veut y construire cheminée ou âtre, forge, four ou fourneau,
+
+Y adosser une étable,
+
+Ou établir contre ce mur un magasin de sel ou amas de matières corrosives,
+
+Est obligé à laisser la distance prescrite par les règlements et usages particuliers sur ces objets, ou à faire les ouvrages
+prescrits par les mêmes règlements et usages, pour éviter de nuire au voisin.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°1933-11-21 du 21 novembre 1933 - art. 11 (Ab)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*321-9 (Ab)
+	  - Code de l'organisation judiciaire - art. R221-16 (VD)
+	  - Décret n°1928-04-07 du 7 avril 1928 - art. 15 (Ab)
+
+	**Codifié par**:
+
+	  - Loi n°1804-01-31
+
+	**Créé par**:
+
+	  - Loi n°1804-01-31 promulguée le 10 février 1804
+
+
+#### Section 3 : Des vues sur la propriété de son voisin
+
+###### Article 675
+
+L'un des voisins ne peut, sans le consentement de l'autre, pratiquer dans le mur mitoyen aucune fenêtre ou ouverture, en
+quelque manière que ce soit, même à verre dormant.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code de la construction et de l'habitation. - art. L112-9 (V)
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. L112-9 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-01-31
+
+	**Créé par**:
+
+	  - Loi n°1804-01-31 promulguée le 10 février 1804
+
+
+###### Article 676
+
+Le propriétaire d'un mur non mitoyen, joignant immédiatement l'héritage d'autrui, peut pratiquer dans ce mur des jours ou
+fenêtres à fer maillé et verre dormant. 
+
+Ces fenêtres doivent être garnies d'un treillis de fer dont les mailles auront un décimètre (environ trois pouces huit
+lignes) d'ouverture au plus et d'un châssis à verre dormant.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code de la construction et de l'habitation. - art. L112-10 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-01-31
+
+	**Créé par**:
+
+	  - Loi n°1804-01-31 promulguée le 10 février 1804
+
+
+###### Article 677
+
+Ces fenêtres ou jours ne peuvent être établis qu'à vingt-six décimètres (huit pieds) au-dessus du plancher ou sol de la
+chambre qu'on veut éclairer, si c'est à rez-de-chaussée, et à dix-neuf décimètres (six pieds) au-dessus du plancher pour les
+étages supérieurs.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code de la construction et de l'habitation. - art. L112-11 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-01-31
+
+	**Créé par**:
+
+	  - Loi n°1804-01-31 promulguée le 10 février 1804
+
+
+###### Article 680
+
+La distance dont il est parlé dans les deux articles précédents se compte depuis le parement extérieur du mur où l'ouverture
+se fait, et, s'il y a balcons ou autres semblables saillies, depuis leur ligne extérieure jusqu'à la ligne de séparation des
+deux propriétés.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code civil - art. 678 (V)
+	  - Code civil - art. 679 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-01-31
+
+	**Créé par**:
+
+	  - Loi n°1804-01-31 promulguée le 10 février 1804
+
+
+#### Section 4 : De l'égout des toits
+
+###### Article 681
+
+Tout propriétaire doit établir des toits de manière que les eaux pluviales s'écoulent sur son terrain ou sur la voie
+publique ; il ne peut les faire verser sur le fonds de son voisin.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-01-31
+
+	**Créé par**:
+
+	  - Loi n°1804-01-31 promulguée le 10 février 1804
+
+
 ### Chapitre III : Des servitudes établies par le fait de l'homme
 
 #### Section 1 : Des diverses espèces de servitudes qui peuvent être établies sur les biens
+
+###### Article 686
+
+Il est permis aux propriétaires d'établir sur leurs propriétés, ou en faveur de leurs propriétés, telles servitudes que bon
+leur semble, pourvu néanmoins que les services établis ne soient imposés ni à la personne, ni en faveur de la personne, mais
+seulement à un fonds et pour un fonds, et pourvu que ces services n'aient d'ailleurs rien de contraire à l'ordre public.
+
+L'usage et l'étendue des servitudes ainsi établies se règlent par le titre qui les constitue ; à défaut de titre, par les
+règles ci-après.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-01-31
+
+	**Créé par**:
+
+	  - Loi n°1804-01-31 promulguée le 10 février 1804
+
+
+###### Article 687
+
+Les servitudes sont établies ou pour l'usage des bâtiments, ou pour celui des fonds de terre.
+
+Celles de la première espèce s'appellent "urbaines", soit que les bâtiments auxquels elles sont dues soient situés à la ville
+ou à la campagne.
+
+Celles de la seconde espèce se nomment "rurales".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-01-31
+
+	**Créé par**:
+
+	  - Loi n°1804-01-31 promulguée le 10 février 1804
+
 
 ###### Article 688
 
@@ -4373,12 +4970,384 @@ passage, puisage, pacage et autres semblables.
 	  - Loi n°1804-01-31 promulguée le 10 février 1804
 
 
+###### Article 689
+
+Les servitudes sont apparentes ou non apparentes.
+
+Les servitudes apparentes sont celles qui s'annoncent par des ouvrages extérieurs, tels qu'une porte, une fenêtre, un
+aqueduc.
+
+Les servitudes non apparentes sont celles qui n'ont pas de signe extérieur de leur existence, comme, par exemple, la
+prohibition de bâtir sur un fonds, ou de ne bâtir qu'à une hauteur déterminée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-01-31
+
+	**Créé par**:
+
+	  - Loi n°1804-01-31 promulguée le 10 février 1804
+
+
+#### Section 2 : Comment s'établissent les servitudes
+
+###### Article 690
+
+Les servitudes continues et apparentes s'acquièrent par titre, ou par la possession de trente ans.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-01-31
+
+	**Créé par**:
+
+	  - Loi n°1804-01-31 promulguée le 10 février 1804
+
+
+###### Article 691
+
+Les servitudes continues non apparentes, et les servitudes discontinues apparentes ou non apparentes, ne peuvent s'établir
+que par titres.
+
+La possession même immémoriale ne suffit pas pour les établir, sans cependant qu'on puisse attaquer aujourd'hui les
+servitudes de cette nature déjà acquises par la possession, dans les pays où elles pouvaient s'acquérir de cette manière.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-01-31
+
+	**Créé par**:
+
+	  - Loi n°1804-01-31 promulguée le 10 février 1804
+
+
+###### Article 692
+
+La destination du père de famille vaut titre à l'égard des servitudes continues et apparentes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-01-31
+
+	**Créé par**:
+
+	  - Loi n°1804-01-31 promulguée le 10 février 1804
+
+
+###### Article 693
+
+Il n'y a destination du père de famille que lorsqu'il est prouvé que les deux fonds actuellement divisés ont appartenu au
+même propriétaire, et que c'est par lui que les choses ont été mises dans l'état duquel résulte la servitude.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-01-31
+
+	**Créé par**:
+
+	  - Loi n°1804-01-31 promulguée le 10 février 1804
+
+
+###### Article 694
+
+Si le propriétaire de deux héritages entre lesquels il existe un signe apparent de servitude, dispose de l'un des héritages
+sans que le contrat contienne aucune convention relative à la servitude, elle continue d'exister activement ou passivement en
+faveur du fonds aliéné ou sur le fonds aliéné.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-01-31
+
+	**Créé par**:
+
+	  - Loi n°1804-01-31 promulguée le 10 février 1804
+
+
+###### Article 695
+
+Le titre constitutif de la servitude, à l'égard de celles qui ne peuvent s'acquérir par la prescription, ne peut être
+remplacé que par un titre récognitif de la servitude, et émané du propriétaire du fonds asservi.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-01-31
+
+	**Créé par**:
+
+	  - Loi n°1804-01-31 promulguée le 10 février 1804
+
+
+###### Article 696
+
+Quand on établit une servitude, on est censé accorder tout ce qui est nécessaire pour en user.
+
+Ainsi la servitude de puiser l'eau à la fontaine d'autrui emporte nécessairement le droit de passage.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-01-31
+
+	**Créé par**:
+
+	  - Loi n°1804-01-31 promulguée le 10 février 1804
+
+
 #### Section 3 : Des droits du propriétaire du fonds auquel la servitude est due
+
+###### Article 697
+
+Celui auquel est due une servitude a droit de faire tous les ouvrages nécessaires pour en user et pour la conserver.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-01-31
+
+	**Créé par**:
+
+	  - Loi n°1804-01-31 promulguée le 10 février 1804
+
+
+###### Article 698
+
+Ces ouvrages sont à ses frais, et non à ceux du propriétaire du fonds assujetti, à moins que le titre d'établissement de la
+servitude ne dise le contraire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-01-31
+
+	**Créé par**:
+
+	  - Loi n°1804-01-31 promulguée le 10 février 1804
+
+
+###### Article 699
+
+Dans le cas même où le propriétaire du fonds assujetti est chargé par le titre de faire à ses frais les ouvrages nécessaires
+pour l'usage ou la conservation de la servitude, il peut toujours s'affranchir de la charge, en abandonnant le fonds
+assujetti au propriétaire du fonds auquel la servitude est due.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-01-31
+
+	**Créé par**:
+
+	  - Loi n°1804-01-31 promulguée le 10 février 1804
+
+
+###### Article 700
+
+Si l'héritage pour lequel la servitude a été établie vient à être divisé, la servitude reste due pour chaque portion, sans
+néanmoins que la condition du fonds assujetti soit aggravée.
+
+Ainsi, par exemple, s'il s'agit d'un droit de passage, tous les copropriétaires seront obligés de l'exercer par le même
+endroit.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-01-31
+
+	**Créé par**:
+
+	  - Loi n°1804-01-31 promulguée le 10 février 1804
+
+
+###### Article 701
+
+Le propriétaire du fonds débiteur de la servitude ne peut rien faire qui tende à en diminuer l'usage, ou à le rendre plus
+incommode.
+
+Ainsi, il ne peut changer l'état des lieux, ni transporter l'exercice de la servitude dans un endroit différent de celui où
+elle a été primitivement assignée. 
+
+Mais cependant, si cette assignation primitive était devenue plus onéreuse au propriétaire du fonds assujetti, ou si elle
+l'empêchait d'y faire des réparations avantageuses, il pourrait offrir au propriétaire de l'autre fonds un endroit aussi
+commode pour l'exercice de ses droits, et celui-ci ne pourrait pas le refuser.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-01-31
+
+	**Créé par**:
+
+	  - Loi n°1804-01-31 promulguée le 10 février 1804
+
 
 ###### Article 702
 
 De son côté, celui qui a un droit de servitude ne peut en user que suivant son titre, sans pouvoir faire, ni dans le fonds
 qui doit la servitude, ni dans le fonds à qui elle est due, de changement qui aggrave la condition du premier.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-01-31
+
+	**Créé par**:
+
+	  - Loi n°1804-01-31 promulguée le 10 février 1804
+
+
+#### Section 4 : Comment les servitudes s'éteignent
+
+###### Article 703
+
+Les servitudes cessent lorsque les choses se trouvent en tel état qu'on ne peut plus en user.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code rural - art. L123-14 (M)
+	  - Code rural ancien - art. 32 (Ab)
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code rural - art. L123-14 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-01-31
+
+	**Créé par**:
+
+	  - Loi n°1804-01-31 promulguée le 10 février 1804
+
+
+###### Article 704
+
+Elles revivent si les choses sont rétablies de manière qu'on puisse en user ; à moins qu'il ne se soit déjà écoulé un espace
+de temps suffisant pour faire présumer l'extinction de la servitude, ainsi qu'il est dit à l'article 707.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code civil - art. 707 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-01-31
+
+	**Créé par**:
+
+	  - Loi n°1804-01-31 promulguée le 10 février 1804
+
+
+###### Article 705
+
+Toute servitude est éteinte lorsque le fonds à qui elle est due, et celui qui la doit, sont réunis dans la même main.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-01-31
+
+	**Créé par**:
+
+	  - Loi n°1804-01-31 promulguée le 10 février 1804
+
+
+###### Article 706
+
+La servitude est éteinte par le non-usage pendant trente ans.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-01-31
+
+	**Créé par**:
+
+	  - Loi n°1804-01-31 promulguée le 10 février 1804
+
+
+###### Article 707
+
+Les trente ans commencent à courir, selon les diverses espèces de servitudes, ou du jour où l'on a cessé d'en jouir,
+lorsqu'il s'agit de servitudes discontinues, ou du jour où il a été fait un acte contraire à la servitude, lorsqu'il s'agit
+de servitudes continues.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code civil - art. 704 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-01-31
+
+	**Créé par**:
+
+	  - Loi n°1804-01-31 promulguée le 10 février 1804
+
+
+###### Article 708
+
+Le mode de la servitude peut se prescrire comme la servitude même, et de la même manière.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-01-31
+
+	**Créé par**:
+
+	  - Loi n°1804-01-31 promulguée le 10 février 1804
+
+
+###### Article 709
+
+Si l'héritage en faveur duquel la servitude est établie appartient à plusieurs par indivis, la jouissance de l'un empêche la
+prescription à l'égard de tous.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-01-31
+
+	**Créé par**:
+
+	  - Loi n°1804-01-31 promulguée le 10 février 1804
+
+
+###### Article 710
+
+Si, parmi les copropriétaires, il s'en trouve un contre lequel la prescription n'ait pu courir, comme un mineur, il aura
+conservé le droit de tous les autres.
 
 **Liens relatifs à cet article**
 

@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1986-01-08
+Version Consolidée au 1986-07-01
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -4956,23 +4956,17 @@ consentement a fait défaut, sans qu'il en résulte à sa charge aucune obligati
 
 Un époux peut donner mandat à l'autre de le représenter dans l'exercice des pouvoirs que le régime matrimonial lui attribue.
 
+Il peut, dans tous les cas, révoquer librement ce mandat.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Loi n°1803-03-14
 
-	**Créé par**:
-
-	  - Loi n°1803-03-17 promulguée le 27 mars 1803
-
 	**Modifié par**:
 
-	  - Loi n°65-570 du 13 juillet 1965 - art. 1 () JORF 14 juillet 1965 en vigueur le 1er février 1966
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°65-570 du 13 juillet 1965 - art. 9, v. init.
+	  - Loi n°85-1372 du 23 décembre 1985 - art. 1 () JORF 26 décembre 1985 en vigueur le 1er juillet 1986
 
 	**Cité par**:
 
@@ -5024,18 +5018,14 @@ enfants : toute dette ainsi contractée par l'un oblige l'autre solidairement.
 La solidarité n'a pas lieu, néanmoins, pour des dépenses manifestement excessives, eu égard au train de vie du ménage, à
 l'utilité ou à l'inutilité de l'opération, à la bonne ou mauvaise foi du tiers contractant.
 
-Elle n'a pas lieu non plus pour les obligations résultant d'achats à tempérament s'ils n'ont été conclus du consentement des
-deux époux.
+Elle n'a pas lieu non plus, s'ils n'ont été conclus du consentement des deux époux, pour les achats à tempérament ni pour les
+emprunts à moins que ces derniers ne portent sur des sommes modestes nécessaires aux besoins de la vie courante.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°65-570 du 13 juillet 1965 - art. 1 () JORF 14 juillet 1965 en vigueur le 1er février 1966
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°65-570 du 13 juillet 1965 - art. 9, v. init.
+	  - Loi n°85-1372 du 23 décembre 1985 - art. 2 () JORF 26 décembre 1985 en vigueur le 1er juillet 1986
 
 	**Cité par**:
 
@@ -5047,10 +5037,6 @@ deux époux.
 	**Codifié par**:
 
 	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°1803-03-17 promulguée le 27 mars 1803
 
 
 ###### Article 220-1
@@ -5160,7 +5146,8 @@ sans pouvoir jamais être intentée, si cet acte est sujet à publicité, plus d
 Chacun des époux peut se faire ouvrir, sans le consentement de l'autre, tout compte de dépôt et tout compte de titres en son
 nom personnel.
 
-L'époux déposant est réputé, à l'égard du dépositaire, avoir la libre disposition des fonds et des titres en dépôt.
+A l'égard du dépositaire, le déposant est toujours réputé, même après la dissolution du mariage, avoir la libre disposition
+des fonds et des titres en dépôt.
 
 **Liens relatifs à cet article**
 
@@ -5168,17 +5155,9 @@ L'époux déposant est réputé, à l'égard du dépositaire, avoir la libre dis
 
 	  - Loi n°1803-03-14
 
-	**Créé par**:
-
-	  - Loi n°1803-03-17 promulguée le 27 mars 1803
-
 	**Modifié par**:
 
-	  - Loi n°65-570 du 13 juillet 1965 - art. 1 () JORF 14 juillet 1965 en vigueur le 1er février 1966
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°65-570 du 13 juillet 1965 - art. 9, v. init.
+	  - Loi n°85-1372 du 23 décembre 1985 - art. 3 () JORF 26 décembre 1985 en vigueur le 1er juillet 1986
 
 
 ###### Article 222
@@ -5215,82 +5194,28 @@ corporels dont la nature fait présumer la propriété de l'autre conjoint confo
 
 ###### Article 223
 
-La femme a le droit d'exercer une profession sans le consentement de son mari, et elle peut toujours, pour les besoins de
-cette profession, aliéner et obliger seule ses biens personnels en pleine propriété.
+Chaque époux peut librement exercer une profession, percevoir ses gains et salaires et en disposer après s'être acquitté des
+charges du mariage.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°1803-03-17 promulguée le 27 mars 1803
-
-	**Modifié par**:
-
-	  - Loi n°65-570 du 13 juillet 1965 - art. 1 () JORF 14 juillet 1965 en vigueur le 1er février 1966
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°65-570 du 13 juillet 1965 - art. 9, v. init.
 
 	**Cité par**:
 
 	  - Ordonnance n°85-1181 du 13 novembre 1985 - art. 23-1 (V)
 	  - Loi n°86-845 du 17 juillet 1986 - art. 18-1 (V)
 
-
-###### Article 224
-
-Chacun des époux perçoit ses gains et salaires et peut en disposer librement après s'être acquitté des charges du mariage. 
-
-Les biens que la femme acquiert par ses gains et salaires dans l'exercice d'une profession séparée de celle de son mari sont
-réservés à son administration, à sa jouissance et à sa libre disposition, sauf à observer les limitations apportées par les
-articles 1425 et 1503 aux pouvoirs respectifs des époux.
-
-L'origine et la consistance des biens réservés sont établies tant à l'égard des tiers que du mari, suivant les règles de
-l'article 1402.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°1803-03-17 promulguée le 27 mars 1803
-
 	**Modifié par**:
 
-	  - Loi n°65-570 du 13 juillet 1965 - art. 1 () JORF 14 juillet 1965 en vigueur le 1er février 1966
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°65-570 du 13 juillet 1965 - art. 9, v. init.
-
-	**Abrogé par**:
-
-	  - Loi n°85-1372 du 23 décembre 1985 - art. 5 (V) JORF 26 décembre 1985 en vigueur le 1er juillet 1986
-
-	**Cité par**:
-
-	  - Loi n°85-1372 du 23 décembre 1985 - art. 5 (V)
-	  - Code civil - art. 1401 (V)
-
-	**Cite**:
-
-	  - Code civil - art. 1402 (V)
-	  - Code civil - art. 1425 (V)
-	  - Code civil - art. 1503 (V)
+	  - Loi n°85-1372 du 23 décembre 1985 - art. 4 () JORF 26 décembre 1985 en vigueur le 1er juillet 1986
 
 
 ###### Article 225
 
-Les créanciers envers lesquels la femme s'est obligée peuvent exercer leurs poursuites sur les biens réservés, lors même que
-l'obligation n'a pas été contractée par elle dans l'exercice de sa profession.
+Chacun des époux administre, oblige et aliène seul ses biens personnels.
 
 **Liens relatifs à cet article**
 
@@ -5298,17 +5223,9 @@ l'obligation n'a pas été contractée par elle dans l'exercice de sa profession
 
 	  - Loi n°1803-03-14
 
-	**Créé par**:
-
-	  - Loi n°1803-03-17 promulguée le 27 mars 1803
-
 	**Modifié par**:
 
-	  - Loi n°65-570 du 13 juillet 1965 - art. 1 () JORF 14 juillet 1965 en vigueur le 1er février 1966
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°65-570 du 13 juillet 1965 - art. 9, v. init.
+	  - Loi n°85-1372 du 23 décembre 1985 - art. 6 () JORF 26 décembre 1985 en vigueur le 1er juillet 1986
 
 	**Cité par**:
 
@@ -6954,8 +6871,13 @@ mention en marge prescrites par les règles de l'état civil ont été accomplie
 
 Le jugement de divorce prend effet dans les rapports entre époux, en ce qui concerne leurs biens, dès la date d'assignation.
 
-L'un des époux peut demander que l'effet du jugement soit avancé à la date où, par la faute de l'autre, leur cohabitation et
-leur collaboration ont cessé.
+Les époux peuvent, l'un ou l'autre, demander s'il y a lieu, que l'effet du jugement soit reporté à la date où ils ont cessé
+de cohabiter et de collaborer. Celui auquel incombent à titre principal les torts de la séparation ne peut obtenir ce report.
+
+**Nota:**
+
+NOTA : La loi 2004-439 du 26 mai 2004 entrera en vigueur le 1er janvier 2005 sauf pour les exceptions citées par l'article 33
+II.
 
 **Liens relatifs à cet article**
 
@@ -6963,14 +6885,14 @@ leur collaboration ont cessé.
 
 	  - Loi n°1803-03-14
 
-	**Créé par**:
-
-	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
-
 	**Liens**:
 
 	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
 	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+
+	**Modifié par**:
+
+	  - Loi n°85-1372 du 23 décembre 1985 - art. 20 () JORF 26 décembre 1985 en vigueur le 1er juillet 1986
 
 
 ###### Article 262-2
@@ -7057,6 +6979,22 @@ II.
 	**Codifié par**:
 
 	  - Loi n°1803-03-14
+
+
+###### Article 264-1
+
+En prononçant le divorce, le tribunal ordonne la liquidation et le partage des intérêts patrimoniaux des époux et il statue,
+s'il y a lieu, sur les demandes de maintien dans l'indivision ou d'attribution préférentielle.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°85-1372 du 23 décembre 1985 - art. 44 () JORF 26 décembre 1985 en vigueur le 1er juillet 1986
 
 
 ###### Article 265
@@ -8613,10 +8551,11 @@ que les conséquences du divorce énoncées au chapitre III ci-dessus.
 
 ###### Article 305
 
-La reprise volontaire de la vie commune met fin à la séparation de corps.
+La reprise volontaire de la vie commune met fin à la séparation de corps. 
 
 Pour être opposable aux tiers, celle-ci doit, soit être constatée par acte notarié, soit faire l'objet d'une déclaration à
-l'officier d'état civil. Mention en est faite en marge de l'acte de mariage.
+l'officier d'état civil. Mention en est faite en marge de l'acte de mariage des époux, ainsi qu'en marge de leurs actes de
+naissance. 
 
 La séparation de biens subsiste sauf si les époux adoptent un nouveau régime matrimonial suivant les règles de l'article
 1397.
@@ -8631,18 +8570,13 @@ La séparation de biens subsiste sauf si les époux adoptent un nouveau régime 
 
 	  - Loi n°1924-06-01 du 1 juin 1924 - art. 30 (Ab)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+	  - Loi n°85-1372 du 23 décembre 1985 - art. 45 () JORF 26 décembre 1985 en vigueur le 1er juillet 1986
 
 	**Cite**:
 
-	  - Code civil - art. 1397 (M)
+	  - Code civil - art. 1397 (V)
 
 
 ###### Article 306
@@ -14459,10 +14393,12 @@ Les père et mère ont, sous les distinctions qui suivent, l'administration et l
 
 ###### Article 383
 
-L'administration légale est exercée par le père avec le concours de la mère dans le cas de l'article 389-1 et, dans les
-autres cas, sous le contrôle du juge, soit par le père, soit par la mère, selon les dispositions du chapitre précédent.
+L'administration légale est exercée conjointement par le père et la mère lorsqu'ils exercent en commun l'autorité parentale
+et, dans les autres cas, sous le contrôle du juge, soit par le père, soit par la mère, selon les dispositions du chapitre
+précédent.
 
-La jouissance légale appartient à celui des père et mère qui a la charge de l'administration.
+La jouissance légale est attachée à l'administration légale : elle appartient soit aux deux parents conjointement, soit à
+celui des père et mère qui a la charge de l'administration.
 
 **Liens relatifs à cet article**
 
@@ -14470,28 +14406,18 @@ La jouissance légale appartient à celui des père et mère qui a la charge de 
 
 	  - Loi n°1803-03-14
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°70-459 du 4 juin 1970 - art. 1 () JORF 5 juin 1970 en vigueur le 1er janvier 1971
+	  - Loi n°85-1372 du 23 décembre 1985 - art. 40 () JORF 26 décembre 1985 en vigueur le 1er juillet 1986
 
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 10 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 11 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 12 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 13 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 14 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 15 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 9 (V)
+	  - SPEC_APPLI: Loi n°85-1372 du 23 décembre 1985 - art. 55 (V)
 
 	**Cité par**:
 
 	  - Code civil - art. 388-2 (V)
 	  - Code de procédure civile - art. 1210-1 (V)
-
-	**Cite**:
-
-	  - Code civil - art. 389-1 (M)
 
 
 ###### Article 384
@@ -14626,14 +14552,14 @@ légués sous la condition expresse que les père et mère n'en jouiront pas.
 
 ###### Article 389
 
-Si l'autorité parentale est exercée en commun par les deux parents, le père est administrateur légal. Dans les autres cas,
+Si l'autorité parentale est exercée en commun par les deux parents, ceux-ci sont administrateurs légaux. Dans les autres cas,
 l'administration légale appartient à celui des parents qui exerce l'autorité parentale.
 
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
 
 	**Cité par**:
 
@@ -14645,7 +14571,12 @@ l'administration légale appartient à celui des parents qui exerce l'autorité 
 
 	**Modifié par**:
 
-	  - Loi n°70-459 du 4 juin 1970 - art. 2 () JORF 5 juin 1970 en vigueur le 1er janvier 1971
+	  - Loi n°85-1372 du 23 décembre 1985 - art. 40 () JORF 26 décembre 1985 en vigueur le 1er janvier 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°85-1372 du 23 décembre 1985 - art. 55 (V)
+	  - SPEC_APPLI: Loi n°2002-305 2002-305 2002-03-04 art. I (application à Mayotte)
 
 	**Codifié par**:
 
@@ -14654,18 +14585,22 @@ l'administration légale appartient à celui des parents qui exerce l'autorité 
 
 ###### Article 389-1
 
-L'administration légale est pure et simple quand le mineur est un enfant légitime dont les parents sont vivants, non divorcés
-ni séparés de corps et ne se trouvent pas dans un des cas prévus à l'article 373.
+L'administration légale est pure et simple quand les deux parents exercent en commun l'autorité parentale.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+	  - Loi n°85-1372 du 23 décembre 1985 - art. 40 () JORF 26 décembre 1985 en vigueur le 1er juillet 1986
 
-	**Cite**:
+	**Liens**:
 
-	  - Code civil - art. 373 (M)
+	  - SPEC_APPLI: Loi n°85-1372 du 23 décembre 1985 - art. 55 (V)
+	  - SPEC_APPLI: Loi n°2002-305 2002-305 2002-03-04 art. I (application à Mayotte)
 
 	**Cité par**:
 
@@ -14678,18 +14613,24 @@ ni séparés de corps et ne se trouvent pas dans un des cas prévus à l'article
 
 ###### Article 389-2
 
-Elle est placée sous le contrôle du juge des tutelles :
-
-1° Lorsque l'un ou l'autre des deux parents est décédé ou se trouve dans l'un des cas prévus à l'article 373 ;
-
-2° Lorsque les père et mère sont divorcés ou séparés de corps ;    3° Lorsque le mineur est un enfant naturel, qu'il ait été
-reconnu par un seul de ses parents ou par les deux.
+L'administration légale est placée sous le contrôle du juge des tutelles lorsque l'un ou l'autre des deux parents est décédé
+ou se trouve dans l'un des cas prévus à l'article 373 ; elle l'est également, à moins que les parents n'exercent en commun
+l'autorité parentale, lorsque les père et mère sont divorcés ou séparés de corps, ou encore lorsque le mineur est un enfant
+naturel.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Codifié par**:
 
-	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+	  - Loi n°1803-03-14
+
+	**Modifié par**:
+
+	  - Loi n°85-1372 du 23 décembre 1985 - art. 40 () JORF 26 décembre 1985 en vigueur le 1er juillet 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°85-1372 du 23 décembre 1985 - art. 55 (V)
 
 	**Cite**:
 
@@ -14698,10 +14639,6 @@ reconnu par un seul de ses parents ou par les deux.
 	**Cité par**:
 
 	  - Code civil - art. 392 (V)
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
 
 
 ###### Article 389-3
@@ -14737,8 +14674,12 @@ le testament ; à défaut, ceux d'un administrateur légal sous contrôle judici
 
 ###### Article 389-4
 
-Dans l'administration légale pure et simple, chacun des époux est réputé, à l'égard des tiers, avoir reçu de l'autre le
+Dans l'administration légale pure et simple, chacun des parents est réputé, à l'égard des tiers, avoir reçu de l'autre le
 pouvoir de faire seul les actes pour lesquels un tuteur n'aurait besoin d'aucune autorisation.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 
 **Liens relatifs à cet article**
 
@@ -14746,36 +14687,40 @@ pouvoir de faire seul les actes pour lesquels un tuteur n'aurait besoin d'aucune
 
 	  - Loi n°1803-03-14
 
-	**Créé par**:
+	**Liens**:
 
-	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+	  - SPEC_APPLI: Loi n°2002-305 2002-305 2002-03-04 art. I (application à Mayotte)
+	  - SPEC_APPLI: Loi n°85-1372 du 23 décembre 1985 - art. 55 (V)
 
 	**Modifié par**:
 
-	  - Loi n°75-617 1975-07-11 art. 4 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
+	  - Loi n°85-1372 du 23 décembre 1985 - art. 41 () JORF 26 décembre 1985 en vigueur le 1er juillet 1986
 
 
 ###### Article 389-5
 
-Dans l'administration légale pure et simple, l'administrateur accomplit avec le consentement de son conjoint les actes qu'un
-tuteur ne pourrait faire qu'avec l'autorisation du conseil de famille. Il doit, cependant, à peine de l'amende prévue au code
-de procédure civile, en donner avis sans formalité au juge des tutelles quinze jours au moins à l'avance.
+Dans l'administration légale pure et simple, les parents accomplissent ensemble les actes qu'un tuteur ne pourrait faire
+qu'avec l'autorisation du conseil de famille.
 
-A défaut du consentement du conjoint, l'acte doit être autorisé par le juge des tutelles.
+A défaut d'accord entre les parents, l'acte doit être autorisé par le juge des tutelles.
 
-Même du consentement de son conjoint, l'administrateur légal ne peut ni vendre de gré à gré, ni apporter en société un
-immeuble ou un fonds de commerce appartenant au mineur, ni contracter d'emprunt en son nom, ni renoncer pour lui à un droit,
-sans l'autorisation du juge des tutelles. La même autorisation est requise pour le partage amiable, et l'état liquidatif
-devra être homologué dans les conditions prévues à l'article 466.
+Même d'un commun accord, les parents ne peuvent ni vendre de gré à gré, ni apporter en société un immeuble ou un fonds de
+commerce appartenant au mineur, ni contracter d'emprunt en son nom, ni renoncer pour lui à un droit, sans l'autorisation du
+juge des tutelles. La même autorisation est requise pour le partage amiable, et l'état liquidatif devra être homologué dans
+les conditions prévues à l'article 466.
 
-Si l'acte auquel il a consenti cause un préjudice au mineur, le conjoint de l'administrateur légal en sera responsable
-solidairement avec celui-ci.
+Si l'acte cause un préjudice au mineur, les parents en sont responsables solidairement.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+	  - Loi n°85-1372 du 23 décembre 1985 - art. 42 () JORF 26 décembre 1985 en vigueur le 1er juillet 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°85-1372 du 23 décembre 1985 - art. 55 (V)
+	  - SPEC_APPLI: Loi n°2002-305 2002-305 2002-03-04 art. I (application à Mayotte)
 
 	**Cite**:
 
@@ -26202,113 +26147,51 @@ A l'égard des cohéritiers absents, l'action appartient aux parents envoyés en
 	  - Loi n°1803-04-19 promulguée le 29 avril 1803
 
 
-###### Article 818
+###### Article 819
 
-Le mari ne peut, sans le consentement de la femme, procéder au partage des biens à elle échus qui tombent dans la communauté,
-non plus que des biens qui doivent lui demeurer propres et dont il a l'administration.
-
-Tout partage auquel il procède seul, quant à ces biens, ne vaut que comme partage provisionnel.
+Si tous les héritiers sont présents et capables, le partage peut être fait dans la forme et par tel acte que les parties
+jugent convenables.
 
 **Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Code civil - art. 819 (V)
-	  - Loi n°85-1372 du 23 décembre 1985 - art. 46 (V)
 
 	**Codifié par**:
 
 	  - Loi n°1803-04-19
 
-	**Créé par**:
-
-	  - Loi n°1803-04-19 promulguée le 29 avril 1803
-
 	**Modifié par**:
 
-	  - Loi n°65-570 du 13 juillet 1965 - art. 4 () JORF 14 juillet 1965 en vigueur le 1er février 1966
-
-	**Abrogé par**:
-
-	  - Loi n°85-1372 du 23 décembre 1985 - art. 46 (V) JORF 26 décembre 1985 en vigueur le 1er juillet 1986
+	  - Loi n°85-1372 du 23 décembre 1985 - art. 47 () JORF 26 décembre 1985 en vigueur le 1er juillet 1986
 
 	**Liens**:
 
 	  - SPEC_APPLI: Loi n°85-1372 du 23 décembre 1985 - art. 55 (V)
-
-
-###### Article 819
-
-Si tous les héritiers sont présents et majeurs, l'apposition de scellés sur les effets de la succession n'est pas nécessaire
-et le partage peut être fait dans la forme et par tel acte que les parties intéressées jugent convenable.
-
-Si tous les héritiers ne sont pas présents, s'il y a parmi eux des mineurs ou des majeurs en tutelle, le scellé doit être
-apposé dans le plus bref délai, soit à la requête des héritiers, soit à la diligence du procureur de la République près du
-tribunal de grande instance, soit d'office par le juge du tribunal d'instance dans l'arrondissement duquel la succession est
-ouverte.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-04-19
-
-	**Créé par**:
-
-	  - Loi n°1803-04-19 promulguée le 29 avril 1803
 
 
 ###### Article 820
 
-Les créanciers peuvent aussi requérir l'apposition des scellés, en vertu d'un titre exécutoire ou d'une permission du juge.
+Les biens successoraux peuvent, en tout ou partie, faire l'objet de mesures conservatoires, telles que l'apposition de
+scellés, à la requête d'un intéressé ou du ministère public, dans les conditions et suivant les formes déterminées par le
+code de procédure civile.
 
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-04-19
 
 	**Cité par**:
 
+	  - Loi n°61-1378 du 19 décembre 1961 - art. 14 (V)
 	  - Code de procédure civile - art. 1381 (VD)
 	  - Code rural - art. L321-25 (V)
-	  - Loi n°61-1378 du 19 décembre 1961 - art. 14 (V)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Loi n°1803-04-19
-
-	**Créé par**:
-
-	  - Loi n°1803-04-19 promulguée le 29 avril 1803
-
-
-###### Article 821
-
-Lorsque le scellé a été apposé, tous créanciers peuvent y former opposition, encore qu'ils n'aient ni titre exécutoire, ni
-permission du juge.
-
-Les formalités pour la levée des scellés et la confection de l'inventaire seront réglées par les lois sur la procédure.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-04-19
-
-	**Créé par**:
-
-	  - Loi n°1803-04-19 promulguée le 29 avril 1803
-
-	**Abrogé par**:
-
-	  - Loi n°85-1372 du 23 décembre 1985 - art. 48 () JORF 1er juillet 1985 en vigueur le 1er juillet 1986
+	  - Loi n°85-1372 du 23 décembre 1985 - art. 47 () JORF 26 décembre 1985 en vigueur le 1er juillet 1986
 
 	**Liens**:
 
 	  - SPEC_APPLI: Loi n°85-1372 du 23 décembre 1985 - art. 55 (V)
-
-	**Cité par**:
-
-	  - Code rural - art. L323-6 (V)
-	  - Code rural - art. L411-2 (V)
-	  - Nouveau code de procédure civile - art. 1381 (V)
 
 
 ###### Article 822
@@ -29887,6 +29770,22 @@ des hypothèques dans l'arrondissement desquels les biens sont situés.
 	  - Ordonnance 59-71 1959-01-07 art. 25 JORF 8 janvier 1959
 
 
+###### Article 940
+
+Lorsque la donation sera faite à des mineurs, à des majeurs en tutelle ou à des établissements publics, la publication sera
+faite à la diligence des tuteurs, curateurs ou administrateurs.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Modifié par**:
+
+	  - Loi n°85-1372 du 23 décembre 1985 - art. 48 () JORF 26 décembre 1985 en vigueur le 1er juillet 1986
+
+
 ###### Article 941
 
 Le défaut de publication pourra être opposé par toutes personnes ayant intérêt, excepté toutefois celles qui sont chargées de
@@ -29907,6 +29806,27 @@ faire faire la publication, ou leurs ayants cause, et le donateur.
 	**Créé par**:
 
 	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 942
+
+Les mineurs, les majeurs en tutelle ne seront point restitués contre le défaut d'acceptation ou de publication des
+donations ; sauf leur recours contre leurs tuteurs, s'il y échet, et sans que la restitution puisse avoir lieu, dans le cas
+même où lesdits tuteurs se trouveraient insolvables.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Modifié par**:
+
+	  - Loi n°85-1372 du 23 décembre 1985 - art. 49 () JORF 26 décembre 1985 en vigueur le 1er juillet 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°85-1372 du 23 décembre 1985 - art. 55 (V)
 
 
 ###### Article 943
@@ -33347,54 +33267,6 @@ des biens.
 
 
 ### Chapitre IV : Des donations entre vifs
-
-#### Section 1 : De la forme des donations entre vifs.
-
-###### Article 940
-
-La publication sera faite à la diligence du mari, lorsque, les biens ayant été donnés à sa femme, il en aura l'administration
-par l'effet des conventions matrimoniales ; et s'il ne remplit pas cette formalité, la femme pourra y faire procéder sans
-autorisation.
-
-Lorsque la donation sera faite à des mineurs, à des majeurs en tutelle, ou à des établissements publics, la publication sera
-faite à la diligence des tuteurs, curateurs, ou administrateurs.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-05-03
-
-	**Créé par**:
-
-	  - Loi n°1803-05-03 promulguée le 13 mai 1803
-
-	**Modifié par**:
-
-	  - Ordonnance 59-71 1959-01-07 art. 25 JORF 8 janvier 1959
-	  - Loi n°65-570 du 13 juillet 1965 - art. 4 () JORF 14 juillet 1965 en vigueur le 1er février 1966
-
-
-###### Article 942
-
-Les mineurs, les majeurs en tutelle, les femmes mariées ne seront point restitués contre le défaut d'acceptation ou de
-publication des donations ; sauf leur recours contre leurs tuteurs ou maris, s'il y échet, et sans que la restitution puisse
-avoir lieu, dans le cas même où lesdits tuteurs et maris se trouveraient insolvables.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-05-03
-
-	**Créé par**:
-
-	  - Loi n°1803-05-03 promulguée le 13 mai 1803
-
-	**Modifié par**:
-
-	  - Ordonnance 59-71 1959-01-07 art. 25 JORF 8 janvier 1959
-
 
 #### Section 1 : De la forme des donations entre vifs.
 
@@ -40354,217 +40226,33 @@ est soumise aux règles expliquées dans les trois sections qui suivent.
 	  - Décret n°2014-945 du 21 août 2014 - art. 1 (VT)
 
 
-##### Section I : De ce qui compose la communauté activement et passivement
+##### Section 1 : De ce qui compose la communauté activement et passivement
 
-##### Paragraphe I : De l'actif de la communauté.
+##### Paragraphe 1 : De l'actif de la communauté
 
 ###### Article 1401
 
 La communauté se compose activement des acquêts faits par les époux ensemble ou séparément durant le mariage, et provenant
 tant de leur industrie personnelle que des économies faites sur les fruits et revenus de leurs biens propres.
 
-Les biens réservés de la femme, quoique soumis à une gestion distincte en vertu de l'article 224, font partie des acquêts.
-
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Loi n°65-570 1965-07-13
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°85-1372 du 23 décembre 1985 - art. 55 (V)
+
+	**Modifié par**:
+
+	  - Loi n°85-1372 du 23 décembre 1985 - art. 8 () JORF 26 décembre 1985 en vigueur le 1er juillet 1986
 
 	**Cite**:
 
 	  - Code civil - art. 224 (MMN)
 
-
-##### Paragraphe II : Du passif de la communauté.
-
-###### Article 1409
-
-La communauté se compose passivement :
-
-A titre définitif, et sans distinguer entre le mari et la femme, des aliments dus par les époux et des dettes contractées par
-eux pour l'entretien du ménage et l'éducation des enfants ;
-
-A titre définitif ou sauf récompense, selon les cas, des autres dettes nées pendant la communauté, soit à la charge du mari,
-soit à la charge de la femme, d'après les distinctions qui seront faites ci-dessous.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°65-570 1965-07-13
-
-
-###### Article 1411
-
-Les créanciers de l'un ou de l'autre époux, dans le cas de l'article précédent, ne peuvent poursuivre leur paiement que sur
-les biens propres de leur débiteur.
-
-Ils peuvent, néanmoins, saisir aussi les biens de la communauté quand le mobilier qui appartient à leur débiteur au jour du
-mariage ou qui lui est échu par succession ou libéralité a été confondu dans le patrimoine commun et ne peut plus être
-identifié selon les règles de l'article 1402.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°65-570 1965-07-13
-
-	**Cite**:
-
-	  - Code civil - art. 1402 (V)
-
-
-###### Article 1413
-
-Le paiement des dettes dont le mari vient à être tenu, pour quelque cause que ce soit, pendant la communauté, peut toujours
-être poursuivi sur les biens communs, à moins qu'il n'y ait eu fraude du mari et mauvaise foi du créancier, et sauf la
-récompense due à la communauté s'il y a lieu.
-
-Les biens réservés ne peuvent, toutefois, être saisis par les créanciers du mari, à moins que l'obligation n'ait été
-contractée pour l'entretien du ménage ou l'éducation des enfants.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°65-570 1965-07-13
-
-
-###### Article 1414
-
-Le paiement des dettes dont la femme vient à être tenue pendant la communauté peut être poursuivi sur l'ensemble des biens
-communs dans les cas suivants :
-
-1° Si l'engagement est de ceux qui se forment sans aucune convention :
-
-2° Si l'engagement, formé par convention, l'a été du consentement du mari, ou avec l'habilitation de justice, ainsi qu'il est
-dit à l'article 1419 ;
-
-3° Si l'engagement a été contracté pour l'entretien du ménage ou l'éducation des enfants, conformément à l'article 220.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°65-570 1965-07-13
-
-	**Liens**:
-
-	  - TXT_SOURCE: Décret n°87-637 du 5 août 1987
-	  - TXT_SOURCE: Décret n°87-637 du 5 août 1987 - art. 1 (Ab)
-	  - TXT_SOURCE: Décret n°87-637 du 5 août 1987 - art. 2 (Ab)
-	  - TXT_SOURCE: Décret n°87-637 du 5 août 1987 - art. 3 (Ab)
-	  - TXT_SOURCE: Décret n°87-637 du 5 août 1987 - art. 4 (Ab)
-	  - TXT_SOURCE: Décret n°87-637 du 5 août 1987 - art. 5 (Ab)
-	  - TXT_SOURCE: Décret n°87-637 du 5 août 1987 - art. 6 (Ab)
-	  - TXT_ASSOCIE: Code civil 1416 *récompense*
-
-	**Cité par**:
-
-	  - Décret n°92-755 du 31 juillet 1992 - art. 305 (Ab)
-	  - Code civil - art. 1506 (Ab)
-
-	**Cite**:
-
-	  - Code civil - art. 1419 (Ab)
-	  - Code civil - art. 220 (M)
-
-
-###### Article 1415
-
-Toutes autres dettes de la femme n'obligent que ses propres, en pleine propriété, et ses biens réservés.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°65-570 1965-07-13
-
-
-###### Article 1418
-
-Lorsqu'une dette est entrée en communauté du chef d'un seul des époux, elle ne peut être poursuivie sur les biens propres de
-l'autre.
-
-S'il y a solidarité, la dette est réputée entrer en communauté du chef des deux époux. Mais quand un époux ne fait que donner
-son consentement à l'obligation de l'autre, c'est seulement du chef de celui-ci que la dette entre en communauté.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°65-570 1965-07-13
-
-
-###### Article 1419
-
-Toutefois, les créanciers peuvent poursuivre le paiement des dettes que la femme a contractées avec le consentement du mari
-tant sur les biens de la communauté que sur ceux du mari ou de la femme, sauf la récompense due à la communauté, ou
-l'indemnité due au mari.
-
-Si les dettes ont été contractées avec l'habilitation de justice, conformément à l'article 217, le paiement n'en peut être
-poursuivi que sur les propres de la femme et sur les biens de la communauté.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°65-570 1965-07-13
-
-	**Abrogé par**:
-
-	  - Loi n°85-1372 du 23 décembre 1985 - art. 12 () JORF 26 décembre 1985 en vigueur le 1er juillet 1986
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°85-1372 du 23 décembre 1985 - art. 55 (V)
-
-	**Cité par**:
-
-	  - Code civil - art. 1414 (M)
-
-	**Cite**:
-
-	  - Code civil - art. 217 (V)
-
-
-###### Article 1420
-
-La femme qui exerce une profession séparée oblige ses propres et ses biens réservés par ses engagements professionnels.
-
-Le paiement de ces engagements peut aussi être poursuivi sur l'ensemble de la communauté et sur les propres du mari, si
-celui-ci avait donné son accord exprès à l'acte passé par la femme, ou même en l'absence d'un tel accord, s'il s'est ingéré
-dans l'exercice de la profession. Il en est de même si, par une déclaration mentionnée au registre du commerce, il a donné
-son accord exprès à l'exercice d'un commerce par la femme.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°65-570 1965-07-13
-
-	**Cité par**:
-
-	  - Décret n°67-237 du 23 mars 1967 - art. 30 (Ab)
-	  - Décret n°67-237 du 23 mars 1967 - art. 42 (Ab)
-	  - Décret n°67-237 du 23 mars 1967 - art. 9 (Ab)
-	  - Décret n°84-406 du 30 mai 1984 - art. 65 (Ab)
-	  - Décret n°84-406 du 30 mai 1984 - art. 8 (M)
-	  - Code de commerce - art. 5 (Ab)
-
-	**Abrogé par**:
-
-	  - Loi n°85-1372 du 23 décembre 1985 - art. 12 () JORF 26 décembre 1985 en vigueur le 1er juillet 1986
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°85-1372 du 23 décembre 1985 - art. 55 (V)
-
-
-##### Section 1 : De ce qui compose la communauté activement et passivement
-
-##### Paragraphe 1 : De l'actif de la communauté
 
 ###### Article 1402
 
@@ -40699,6 +40387,34 @@ indivis, ne forme point un acquêt, sauf la récompense due à la communauté po
 
 ##### Paragraphe 2 : Du passif de la communauté
 
+###### Article 1409
+
+La communauté se compose passivement :
+
+- à titre définitif, des aliments dus par les époux et des dettes contractées par eux pour l'entretien du ménage et
+l'éducation des enfants, conformément à l'article 220 ;
+
+- à titre définitif ou sauf récompense, selon les cas, des autres dettes nées pendant la communauté.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°65-570 1965-07-13
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°85-1372 du 23 décembre 1985 - art. 55 (V)
+
+	**Modifié par**:
+
+	  - Loi n°85-1372 du 23 décembre 1985 - art. 9 () JORF 26 décembre 1985 en vigueur le 1er juillet 1986
+
+	**Cite**:
+
+	  - Code civil - art. 220 (V)
+
+
 ###### Article 1410
 
 Les dettes dont les époux étaient tenus au jour de la célébration de leur mariage, ou dont se trouvent grevées les
@@ -40716,6 +40432,34 @@ ou intérêts.
 	  - TXT_ASSOCIE: Code civil 1411 *droits des créanciers*
 
 
+###### Article 1411
+
+Les créanciers de l'un ou de l'autre époux, dans le cas de l'article précédent, ne peuvent poursuivre leur paiement que sur
+les biens propres et les revenus de leur débiteur. 
+
+Ils peuvent, néanmoins, saisir aussi les biens de la communauté quand le mobilier qui appartient à leur débiteur au jour du
+mariage ou qui lui est échu par succession ou libéralité a été confondu dans le patrimoine commun et ne peut plus être
+identifié selon les règles de l'article 1402.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°65-570 1965-07-13
+
+	**Modifié par**:
+
+	  - Loi n°85-1372 du 23 décembre 1985 - art. 10 () JORF 26 décembre 1985 en vigueur le 1er juillet 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°85-1372 du 23 décembre 1985 - art. 55 (V)
+
+	**Cite**:
+
+	  - Code civil - art. 1402 (V)
+
+
 ###### Article 1412
 
 Récompense est due à la communauté qui a acquitté la dette personnelle d'un époux.
@@ -40725,6 +40469,86 @@ Récompense est due à la communauté qui a acquitté la dette personnelle d'un 
 	**Codifié par**:
 
 	  - Loi n°65-570 1965-07-13
+
+
+###### Article 1413
+
+Le paiement des dettes dont chaque époux est tenu, pour quelque cause que ce soit, pendant la communauté, peut toujours être
+poursuivi sur les biens communs, à moins qu'il n'y ait eu fraude de l'époux débiteur et mauvaise foi du créancier, sauf la
+récompense due à la communauté s'il y a lieu.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°65-570 1965-07-13
+
+	**Modifié par**:
+
+	  - Loi n°85-1372 du 23 décembre 1985 - art. 11 () JORF 26 décembre 1985 en vigueur le 1er juillet 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°85-1372 du 23 décembre 1985 - art. 55 (V)
+
+
+###### Article 1414
+
+Les gains et salaires d'un époux ne peuvent être saisis par les créanciers de son conjoint que si l'obligation a été
+contractée pour l'entretien du ménage ou l'éducation des enfants, conformément à l'article 220. 
+
+Lorsque les gains et salaires sont versés à un compte courant ou de dépôt, ceux-ci ne peuvent être saisis que dans les
+conditions définies par décret.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°65-570 1965-07-13
+
+	**Modifié par**:
+
+	  - Loi n°85-1372 du 23 décembre 1985 - art. 11 () JORF 26 décembre 1985 en vigueur le 1er juillet 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°85-1372 du 23 décembre 1985 - art. 55 (V)
+	  - TXT_SOURCE: Décret n°87-637 du 5 août 1987
+	  - TXT_SOURCE: Décret n°87-637 du 5 août 1987 - art. 1 (Ab)
+	  - TXT_SOURCE: Décret n°87-637 du 5 août 1987 - art. 2 (Ab)
+	  - TXT_SOURCE: Décret n°87-637 du 5 août 1987 - art. 3 (Ab)
+	  - TXT_SOURCE: Décret n°87-637 du 5 août 1987 - art. 4 (Ab)
+	  - TXT_SOURCE: Décret n°87-637 du 5 août 1987 - art. 5 (Ab)
+	  - TXT_SOURCE: Décret n°87-637 du 5 août 1987 - art. 6 (Ab)
+
+	**Cité par**:
+
+	  - Décret n°92-755 du 31 juillet 1992 - art. 305 (Ab)
+	  - Code civil - art. 1506 (Ab)
+
+	**Cite**:
+
+	  - Code civil - art. 220 (V)
+
+
+###### Article 1415
+
+Chacun des époux ne peut engager que ses biens propres et ses revenus, par un cautionnement ou un emprunt, à moins que ceux-
+ci n'aient été contractés avec le consentement exprès de l'autre conjoint qui, dans ce cas, n'engage pas ses biens propres.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°65-570 1965-07-13
+
+	**Modifié par**:
+
+	  - Loi n°85-1372 du 23 décembre 1985 - art. 11 () JORF 26 décembre 1985 en vigueur le 1er juillet 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°85-1372 du 23 décembre 1985 - art. 55 (V)
 
 
 ###### Article 1416
@@ -40756,31 +40580,76 @@ devoirs que lui imposait le mariage.
 	  - Loi n°65-570 1965-07-13
 
 
-##### Section II : De l'administration de la communauté et des biens propres.
+###### Article 1418
 
-###### Article 1421
+Lorsqu'une dette est entrée en communauté du chef d'un seul des époux, elle ne peut être poursuivie sur les biens propres de
+l'autre.
 
-Le mari administre seul la communauté sauf à répondre des fautes qu'il aurait commises dans sa gestion.
-
-Il peut disposer des biens communs, pourvu que ce soit sans fraude et sous les exceptions qui suivent.
+S'il y a solidarité, la dette est réputée entrer en communauté du chef des deux époux.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Loi n°65-570 1965-07-13
+
+	**Modifié par**:
+
+	  - Loi n°85-1372 du 23 décembre 1985 - art. 12 () JORF 26 décembre 1985 en vigueur le 1er juillet 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°85-1372 du 23 décembre 1985 - art. 55 (V)
+
+
+##### Section 2 : De l'administration de la communauté et des biens propres.
+
+###### Article 1421
+
+Chacun des époux a le pouvoir d'administrer seul les biens communs et d'en disposer, sauf à répondre des fautes qu'il aurait
+commises dans sa gestion. Les actes accomplis sans fraude par un conjoint sont opposables à l'autre. 
+
+L'époux qui exerce une profession séparée a seul le pouvoir d'accomplir les actes d'administration et de disposition
+nécessaires à celle-ci. 
+
+Le tout sous réserve des articles 1422 à 1425.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°65-570 1965-07-13
+
+	**Modifié par**:
+
+	  - Loi n°85-1372 du 23 décembre 1985 - art. 13 () JORF 26 décembre 1985 en vigueur le 1er juillet 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°85-1372 du 23 décembre 1985 - art. 55 (V)
+
+	**Cite**:
+
+	  - Code civil - art. 1422 (V)
 
 
 ###### Article 1422
 
-Le mari ne peut, même pour l'établissement des enfants communs, disposer entre vifs, à titre gratuit, des biens de la
-communauté sans le consentement de la femme.
+Les époux ne peuvent, l'un sans l'autre, disposer entre vifs, à titre gratuit, des biens de la communauté.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Loi n°65-570 1965-07-13
+
+	**Modifié par**:
+
+	  - Loi n°85-1372 du 23 décembre 1985 - art. 13 () JORF 26 décembre 1986 en vigueur le 1er juillet 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°85-1372 du 23 décembre 1985 - art. 55 (V)
 
 	**Cité par**:
 
@@ -40789,29 +40658,33 @@ communauté sans le consentement de la femme.
 
 ###### Article 1423
 
-Le legs fait par le mari ne peut excéder sa part dans la communauté.
+Le legs fait par un époux ne peut excéder sa part dans la communauté.
 
-S'il a légué un effet de la communauté, le légataire ne peut le réclamer en nature, qu'autant que l'effet, par l'événement du
-partage, tombe au lot des héritiers du mari ; si l'effet ne tombe point au lot de ces héritiers, le légataire a la récompense
-de la valeur totale de l'effet légué, sur la part des héritiers du mari dans la communauté et sur les biens personnels de ce
-dernier.
+Si un époux a légué un effet de la communauté, le légataire ne peut le réclamer en nature qu'autant que l'effet, par
+l'événement du partage, tombe dans le lot des héritiers du testateur ; si l'effet ne tombe point dans le lot de ces
+héritiers, le légataire a la récompense de la valeur totale de l'effet légué, sur la part, dans la communauté, des héritiers
+de l'époux testateur et sur les biens personnels de ce dernier.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Loi n°65-570 1965-07-13
+
+	**Modifié par**:
+
+	  - Loi n°85-1372 du 23 décembre 1985 - art. 13 () JORF 26 décembre 1985 en vigueur le 1er juillet 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°85-1372 du 23 décembre 1985 - art. 55 (V)
 
 
 ###### Article 1424
 
-Le mari ne peut, sans le consentement de la femme, aliéner ou grever de droits réels les immeubles, fonds de commerce et
-exploitations dépendant de la communauté, non plus que les droits sociaux non négociables et les meubles corporels dont
-l'aliénation est soumise à publicité. Il ne peut sans ce consentement percevoir les capitaux provenant de telles opérations.
-
-Il ne peut non plus, sans l'accord de la femme, donner à bail un fonds rural ou un immeuble à usage commercial, industriel ou
-artisanal. Les baux passés par le mari sur les biens communs sont, pour le surplus, soumis aux règles prévues pour les baux
-passés par l'usufruitier.
+Les époux ne peuvent, l'un sans l'autre, aliéner ou grever de droits réels les immeubles, fonds de commerce et exploitations
+dépendant de la communauté, non plus que les droits sociaux non négociables et les meubles corporels dont l'aliénation est
+soumise à publicité. Ils ne peuvent, sans leur conjoint, percevoir les capitaux provenant de telles opérations.
 
 **Liens relatifs à cet article**
 
@@ -40819,20 +40692,30 @@ passés par l'usufruitier.
 
 	  - Loi n°65-570 1965-07-13
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code civil - art. 595 (V)
+	  - Loi n°85-1372 du 23 décembre 1985 - art. 13 () JORF 26 décembre 1985 en vigueur le 1er juillet 1986
 
 
 ###### Article 1425
 
-La femme a, pour administrer les biens réservés, les mêmes pouvoirs que le mari pour administrer les autres biens communs.
+Les époux ne peuvent, l'un sans l'autre, donner à bail un fonds rural ou un immeuble à usage commercial, industriel ou
+artisanal dépendant de la communauté. Les autres baux sur les biens communs peuvent être passés par un seul conjoint et sont
+soumis aux règles prévues pour les baux passés par l'usufruitier.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Loi n°65-570 1965-07-13
+
+	**Modifié par**:
+
+	  - Loi n°85-1372 du 23 décembre 1985 - art. 13 () JORF 26 décembre 1985 en vigueur le 1er juillet 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°85-1372 du 23 décembre 1985 - art. 55 (V)
 
 	**Cité par**:
 
@@ -40841,13 +40724,12 @@ La femme a, pour administrer les biens réservés, les mêmes pouvoirs que le ma
 
 ###### Article 1426
 
-Si l'un des époux se trouve, d'une manière durable, hors d'état de manifester sa volonté, ou si sa gestion, soit de la
-communauté, soit des biens réservés, atteste l'inaptitude ou la fraude, l'autre conjoint peut demander en justice à lui être
-substitué dans l'exercice de ses pouvoirs. Les dispositions des articles 1445 à 1447 sont applicables à cette demande.
+Si l'un des époux se trouve, d'une manière durable, hors d'état de manifester sa volonté, ou si sa gestion de la communauté
+atteste l'inaptitude ou la fraude, l'autre conjoint peut demander en justice à lui être substitué dans l'exercice de ses
+pouvoirs. Les dispositions des articles 1445 à 1447 sont applicables à cette demande. 
 
 Le conjoint, ainsi habilité par justice, a les mêmes pouvoirs qu'aurait eus l'époux qu'il remplace ; il passe avec
-l'autorisation de justice les actes pour lesquels son propre consentement aurait été requis s'il n'y avait pas eu
-substitution.
+l'autorisation de justice les actes pour lesquels son consentement aurait été requis s'il n'y avait pas eu substitution. 
 
 L'époux privé de ses pouvoirs pourra, par la suite, en demander au tribunal la restitution, en établissant que leur transfert
 à l'autre conjoint n'est plus justifié.
@@ -40882,15 +40764,23 @@ L'époux privé de ses pouvoirs pourra, par la suite, en demander au tribunal la
 
 	  - Loi n°65-570 1965-07-13
 
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°85-1372 du 23 décembre 1985 - art. 55 (V)
+
 	**Cite**:
 
-	  - Code civil 1445 à 1447
+	  - Code civil - art. 1445 (V)
+
+	**Modifié par**:
+
+	  - Loi n°86-1372 1985-12-23 art. 14 I, II JORF 26 décembre 1985 en vigueur le 1er juillet 1986
 
 
 ###### Article 1427
 
-Si l'un des époux a outrepassé ses pouvoirs sur les biens communs ou sur les biens réservés, l'autre, à moins qu'il n'ait
-ratifié l'acte, peut en demander l'annulation.
+Si l'un des époux a outrepassé ses pouvoirs sur les biens communs, l'autre, à moins qu'il n'ait ratifié l'acte, peut en
+demander l'annulation.
 
 L'action en nullité est ouverte au conjoint pendant deux années à partir du jour où il a eu connaissance de l'acte, sans
 pouvoir jamais être intentée plus de deux ans après la dissolution de la communauté.
@@ -40901,109 +40791,18 @@ pouvoir jamais être intentée plus de deux ans après la dissolution de la comm
 
 	  - Loi n°65-570 1965-07-13
 
+	**Modifié par**:
+
+	  - Loi n°85-1372 du 23 décembre 1985 - art. 15 () JORF 26 décembre 1985 en vigueur le 1er juillet 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°85-1372 du 23 décembre 1985 - art. 55 (V)
+
 	**Cité par**:
 
 	  - Code civil - art. 1832-2 (V)
 
-
-###### Article 1430
-
-Le mari n'est point garant du défaut d'emploi ou de remploi des biens propres à la femme, à moins qu'il ne soit ingéré dans
-les opérations d'aliénation ou d'encaissement, ou qu'il ne soit prouvé que les deniers ont été reçus par lui, ou ont tourné à
-son profit.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°65-570 1965-07-13
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°85-1372 1985-12-25 art. 55
-
-	**Abrogé par**:
-
-	  - Loi n°85-1372 du 23 décembre 1985 - art. 16 () JORF 26 décembre 1985 en vigueur le 1er juillet 1986
-
-
-###### Article 1434
-
-L'emploi ou le remploi est censé fait à  l'égard d'un époux, toutes les fois que, lors d'une acquisition, il a déclaré
-qu'elle était faite de deniers propres ou provenus de l'aliénation d'un propre, et pour lui tenir lieu d'emploi ou de
-remploi. A défaut de cette déclaration dans l'acte, l'emploi ou le remploi n'a lieu que par l'accord des époux, et il ne
-produit ses effets que dans leurs rapports réciproques.
-
-Si l'emploi ou le remploi est fait par anticipation, le bien acquis est propre, sous la condition que les sommes attendues du
-patrimoine propre soient versées dans la communauté avant qu'elle ne soit liquidée.
-
-Quand le prix du bien acquis  excède la somme dont il a a été fait emploi ou remploi, la communauté a droit à récompense pour
-l'excédent. Si, toutefois, le montant de la récompense devait être supérieur à la moitié du prix, le bien acquis tomberait en
-communauté, sauf la récompense due à l'époux.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°65-570 1965-07-13
-
-	**Cité par**:
-
-	  - Code civil - art. 1406 (V)
-
-
-###### Article 1435
-
-La déclaration du mari que l'acquisition est faite de deniers propres à la femme et pour lui servir d'emploi ou de remploi ne
-suffit point, si cet emploi ou remploi n'a été formellement accepté par elle avant la liquidation définitive ; si elle ne l'a
-pas accepté, elle a simplement droit à la récompense du prix du bien vendu.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°65-570 1965-07-13
-
-	**Cité par**:
-
-	  - Code civil - art. 1406 (V)
-
-
-###### Article 1436
-
-La récompense du prix du bien appartenant au mari ne s'exerce que sur la masse de la communauté ; celle du prix du bien
-appartenant à la femme s'exerce sur les biens personnels du mari, en cas d'insuffisance des biens communs.
-
-Dans tous les cas, on prend en considération le prix de la vente, quelque allégation qui soit faite touchant la valeur
-qu'aurait eue le bien au jour de l'aliénation, sauf à avoir égard aussi au profit procuré à la communauté, comme il sera
-expliqué à l'article 1469.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°65-570 1965-07-13
-
-	**Cite**:
-
-	  - Code civil - art. 1469 (M)
-
-
-###### Article 1439
-
-La dot constituée à l'enfant commun, en biens de la communauté, est à la charge de celle-ci.
-
-Elle doit être supportée pour moitié par la femme, à la dissolution de la communauté, à moins que le mari, en la constituant,
-n'ait déclaré expressément qu'il s'en chargerait pour le tout ou pour une part supérieure à la moitié.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°65-570 1965-07-13
-
-
-##### Section 2 : De l'administration de la communauté et des biens propres.
 
 ###### Article 1428
 
@@ -41117,6 +40916,77 @@ moyens, même par témoignages et présomptions.
 	  - Loi n°65-570 1965-07-13
 
 
+###### Article 1434
+
+L'emploi ou le remploi est censé fait à  l'égard d'un époux toutes les fois que, lors d'une acquisition, il a déclaré qu'elle
+était faite de deniers propres ou provenus de l'aliénation d'un propre, et pour lui tenir lieu d'emploi ou de remploi. A
+défaut de cette déclaration dans l'acte, l'emploi ou le remploi n'a lieu que par l'accord des époux, et il ne produit ses
+effets que dans leurs rapports réciproques.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°65-570 1965-07-13
+
+	**Modifié par**:
+
+	  - Loi n°85-1372 du 23 décembre 1985 - art. 16 () JORF 26 décembre 1985 en vigueur le 1er juillet 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°85-1372 du 23 décembre 1985 - art. 55 (V)
+
+	**Cité par**:
+
+	  - Code civil - art. 1406 (V)
+
+
+###### Article 1435
+
+Si l'emploi ou le remploi est fait par anticipation, le bien acquis est propre, sous la condition que les sommes attendues du
+patrimoine propre soient payées à la communauté dans les cinq ans de la date de l'acte.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°65-570 1965-07-13
+
+	**Modifié par**:
+
+	  - Loi n°85-1372 du 23 décembre 1985 - art. 17 () JORF 26 décembre 1985 en vigueur le 1er juillet 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°85-1372 du 23 décembre 1985 - art. 55 (V)
+
+	**Cité par**:
+
+	  - Code civil - art. 1406 (V)
+
+
+###### Article 1436
+
+Quand le prix et les frais de l'acquisition  excèdent la somme dont il a été fait emploi ou remploi, la communauté a droit à
+récompense pour l'excédent. Si, toutefois, la contribution de la communauté est supérieure à celle de l'époux acquéreur, le
+bien acquis tombe en communauté, sauf la récompense due à l'époux.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°65-570 1965-07-13
+
+	**Modifié par**:
+
+	  - Loi n°85-1372 du 23 décembre 1985 - art. 17 () JORF 26 décembre 1985 en vigueur le 1er juillet 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°85-1372 du 23 décembre 1985 - art. 55 (V)
+
+
 ###### Article 1437
 
 Toutes les fois qu'il est pris sur la communauté une somme, soit pour acquitter les dettes ou charges personnelles à l'un des
@@ -41145,6 +41015,28 @@ pour la moitié de ladite dot, eu égard à la valeur du bien donné au temps de
 	**Codifié par**:
 
 	  - Loi n°65-570 1965-07-13
+
+
+###### Article 1439
+
+La dot constituée à l'enfant commun, en biens de la communauté, est à la charge de celle-ci.
+
+Elle doit être supportée pour moitié par chaque époux, à la dissolution de la communauté, à moins que l'un d'eux, en la
+constituant, n'ait déclaré expressément qu'il s'en chargerait pour le tout ou pour une part supérieure à la moitié.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°65-570 1965-07-13
+
+	**Modifié par**:
+
+	  - Loi n°85-1372 du 23 décembre 1985 - art. 18 () JORF 26 décembre 1985 en vigueur le 1er juillet 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°85-1372 du 23 décembre 1985 - art. 55 (V)
 
 
 ###### Article 1440
@@ -41252,6 +41144,30 @@ Les créanciers d'un époux ne peuvent demander de son chef la séparation de bi
 	  - Loi n°65-570 1965-07-13
 
 
+###### Article 1447
+
+Quand l'action en séparation de biens a été introduite, les créanciers peuvent sommer les époux par acte d'avocat à avocat de
+leur communiquer la demande et les pièces justificatives. Ils peuvent même intervenir à l'instance pour la conservation de
+leurs droits.
+
+Si la séparation a été prononcée en fraude de leurs droits, ils peuvent se pourvoir contre elle par voie de tierce
+opposition, dans les conditions prévues au code de procédure civile.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°65-570 1965-07-13
+
+	**Modifié par**:
+
+	  - Loi n°85-1372 du 23 décembre 1985 - art. 21 () JORF 26 décembre 1985 en vigueur le 1er juillet 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°85-1372 du 23 décembre 1985 - art. 55 (V)
+
+
 ###### Article 1448
 
 L'époux qui a obtenu la séparation de biens doit contribuer, proportionnellement à ses facultés et à celles de son conjoint,
@@ -41269,6 +41185,37 @@ Il doit supporter entièrement ces frais, s'il ne reste rien à l'autre.
 
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*321-9 (M)
 	  - Nouveau code de procédure civile - art. 1069-3 (Ab)
+
+
+###### Article 1449
+
+La séparation de biens prononcée en justice a pour effet de placer les époux sous le régime des articles 1536 et suivants. 
+
+Le tribunal, en prononçant la séparation, peut ordonner qu'un époux versera sa contribution entre les mains de son conjoint,
+lequel assumera désormais seul à l'égard des tiers les règlements de toutes les charges du mariage.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°65-570 1965-07-13
+
+	**Modifié par**:
+
+	  - Loi n°85-1372 du 23 décembre 1985 - art. 22 () JORF 26 décembre 1985 en vigueur le 1er juillet 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°85-1372 du 23 décembre 1985 - art. 55 (V)
+
+	**Cité par**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*321-9 (M)
+	  - Nouveau code de procédure civile - art. 1069-3 (Ab)
+
+	**Cite**:
+
+	  - Code civil - art. 1536 (V)
 
 
 ##### Paragraphe 2 : De la liquidation et du partage de la communauté.
@@ -41299,6 +41246,40 @@ la communauté, d'après les règles prescrites aux sections précédentes.
 	  - Loi n°65-570 1965-07-13
 
 
+###### Article 1469
+
+La récompense est, en général, égale à la plus faible des deux sommes que représentent la dépense faite et le profit
+subsistant.
+
+Elle ne peut, toutefois, être moindre que la dépense faite quand celle-ci était nécessaire.
+
+Elle ne peut être moindre que le profit subsistant, quand la valeur empruntée a servi à acquérir, à conserver ou à améliorer
+un bien qui se retrouve, au jour de la liquidation de la communauté, dans le patrimoine emprunteur. Si le bien acquis,
+conservé ou amélioré a été aliéné avant la liquidation, le profit est évalué au jour de l'aliénation ; si un nouveau bien a
+été subrogé au bien aliéné, le profit est évalué sur ce nouveau bien.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°65-570 1965-07-13
+
+	**Cité par**:
+
+	  - Code civil - art. 1436 (M)
+	  - Code civil - art. 1479 (V)
+	  - Code civil - art. 1571 (V)
+	  - Code civil - art. 515-7 (VD)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°85-1372 1972-12-23 art. 55
+
+	**Modifié par**:
+
+	  - Loi n°85-1372 du 23 décembre 1985 - art. 23 () JORF 26 décembre 1985 en vigueur le 1er juillet 1986
+
+
 ###### Article 1470
 
 Si, balance faite, le compte présente un solde en faveur de la communauté, l'époux en rapporte le montant à la masse commune.
@@ -41311,6 +41292,75 @@ jusqu'à due concurrence.
 	**Codifié par**:
 
 	  - Loi n°65-570 1965-07-13
+
+
+###### Article 1471
+
+Les prélèvements s'exercent d'abord sur l'argent comptant, ensuite sur les meubles, et subsidiairement sur les immeubles de
+la communauté. L'époux qui opère le prélèvement a le droit de choisir les meubles et les immeubles qu'il prélèvera. Il ne
+saurait cependant préjudicier par son choix aux droits que peut avoir son conjoint de demander le maintien de l'indivision ou
+l'attribution préférentielle de certains biens.
+
+Si les époux veulent prélever le même bien, il est procédé par voie de tirage au sort.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°65-570 1965-07-13
+
+	**Modifié par**:
+
+	  - Loi n°85-1372 du 23 décembre 1985 - art. 24 () JORF 26 décembre 1985 en vigueur le 1er juillet 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°85-1372 du 23 décembre 1985 - art. 55 (V)
+
+
+###### Article 1472
+
+En cas d'insuffisance de la communauté, les prélèvements de chaque époux sont proportionnels au montant des récompenses qui
+lui sont dues.
+
+Toutefois, si l'insuffisance de la communauté est imputable à la faute de l'un des époux, l'autre conjoint peut exercer ses
+prélèvements avant lui sur l'ensemble des biens communs ; il peut les exercer subsidiairement sur les biens propres de
+l'époux responsable.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°65-570 1965-07-13
+
+	**Modifié par**:
+
+	  - Loi n°85-1372 du 23 décembre 1985 - art. 24 () JORF 26 décembre 1985 en vigueur le 1er juillet 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°85-1372 du 23 décembre 1985 - art. 55 (V)
+
+
+###### Article 1473
+
+Les récompenses dues par la communauté ou à la communauté portent intérêts de plein droit du jour de la dissolution.
+
+Toutefois, lorsque la récompense est égale au profit subsistant, les intérêts courent du jour de la liquidation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°65-570 1965-07-13
+
+	**Modifié par**:
+
+	  - Loi n°85-1372 du 23 décembre 1985 - art. 24 () JORF 26 décembre 1985 en vigueur le 1er juillet 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°85-1372 du 23 décembre 1985 - art. 55 (V)
 
 
 ###### Article 1474
@@ -41370,6 +41420,37 @@ employé à payer une dette personnelle de son conjoint, ou pour toute autre cau
 	  - Loi n°65-570 1965-07-13
 
 
+###### Article 1479
+
+Les créances personnelles que les époux ont à exercer l'un contre l'autre ne donnent pas lieu à prélèvement et ne portent
+intérêt que du jour de la sommation. 
+
+Sauf convention contraire des parties, elles sont évaluées selon les règles de l'article 1469, troisième alinéa, dans les cas
+prévus par celui-ci ; les intérêts courent alors du jour de la liquidation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°65-570 1965-07-13
+
+	**Modifié par**:
+
+	  - Loi n°85-1372 du 23 décembre 1985 - art. 25 () JORF 26 décembre 1985 en vigueur le 1er juillet 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°85-1372 du 23 décembre 1985 - art. 55 (V)
+
+	**Cite**:
+
+	  - Code civil - art. 1469 (V)
+
+	**Cité par**:
+
+	  - Code civil - art. 1543 (V)
+
+
 ###### Article 1480
 
 Les donations que l'un des époux a pu faire à l'autre ne s'exécutent que sur la part du donateur dans la communauté et sur
@@ -41384,6 +41465,206 @@ ses biens personnels.
 
 ##### Paragraphe 3 : De l'obligation et de la contribution au passif après la dissolution.
 
+###### Article 1482
+
+Chacun des époux peut être poursuivi pour la totalité des dettes existantes, au jour de la dissolution, qui étaient entrées
+en communauté de son chef.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°65-570 1965-07-13
+
+	**Modifié par**:
+
+	  - Loi n°85-1372 du 23 décembre 1985 - art. 26 () JORF 26 décembre 1985 en vigueur le 1er juillet 1986
+	  - Loi n°85-1372 du 23 décembre 1985 - art. 27 () JORF 26 décembre 1985 en vigueur le 1er juillet 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°85-1372 du 23 décembre 1985 - art. 55 (V)
+
+
+###### Article 1483
+
+Chacun des époux ne peut être poursuivi que pour la moitié des dettes qui étaient entrées en communauté du chef de son
+conjoint.
+
+Après le partage et sauf en cas de recel, il n'en est tenu que jusqu'à concurrence de son émolument pourvu qu'il y ait eu
+inventaire, et à charge de rendre compte tant du contenu de cet inventaire que de ce qui lui est échu  par le partage ainsi
+que du passif commun déjà acquitté.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°65-570 1965-07-13
+
+	**Modifié par**:
+
+	  - Loi n°85-1372 du 23 décembre 1985 - art. 26 () JORF 26 décembre 1985 en vigueur le 1er juillet 1986
+	  - Loi n°85-1372 du 23 décembre 1985 - art. 28 () JORF 26 décembre 1985 en vigueur le 1er juillet 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°85-1372 du 23 décembre 1985 - art. 55 (V)
+
+	**Cité par**:
+
+	  - Code civil - art. 1486 (V)
+
+
+###### Article 1484
+
+L'inventaire prévu à l'article précédent doit avoir lieu dans les formes réglées par le code de procédure civile,
+contradictoirement avec l'autre époux ou lui dûment appelé. Il doit être clos dans les neuf mois du jour où la communauté a
+été dissoute, sauf prorogation accordée par le juge des référés. Il doit être affirmé sincère et véritable devant l'officier
+public qui l'a reçu.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°65-570 1965-07-13
+
+	**Modifié par**:
+
+	  - Loi n°85-1372 du 23 décembre 1985 - art. 26 () JORF 26 juillet 1985 en vigueur le 1er juillet 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°85-1372 du 23 décembre 1985 - art. 55 (V)
+
+
+###### Article 1485
+
+Chacun des époux contribue pour moitié aux dettes de communauté pour lesquelles il n'était pas dû de récompense, ainsi qu'aux
+frais de scellé, inventaire, vente de mobilier, liquidation, licitation et partage.
+
+Il supporte seul les dettes qui n'étaient devenues communes que sauf récompense à sa charge.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°65-570 1965-07-13
+
+	**Modifié par**:
+
+	  - Loi n°85-1372 du 23 décembre 1985 - art. 26 () JORF 26 décembre 1985 en vigueur le 1er juillet 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°85-1372 du 23 décembre 1985 - art. 55 (V)
+
+
+###### Article 1486
+
+L'époux qui peut se prévaloir du bénéfice de l'article 1483, alinéa second, ne contribue pas pour plus que son émolument aux
+dettes qui étaient entrées en communauté du chef de l'autre époux, à moins qu'il ne s'agisse de dettes pour lesquelles il
+aurait dû récompense.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°65-570 1965-07-13
+
+	**Modifié par**:
+
+	  - Loi n°85-1372 du 23 décembre 1985 - art. 26 () JORF 26 juillet 1985 en vigueur le 1er juillet 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°85-1372 du 23 décembre 1985 - art. 55 (V)
+
+	**Cite**:
+
+	  - Code civil - art. 1483 (V)
+
+
+###### Article 1487
+
+L'époux qui a payé au-delà de la portion dont il était tenu par application des articles précédents a, contre l'autre, un
+recours pour l'excédent.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°65-570 1965-07-13
+
+	**Modifié par**:
+
+	  - Loi n°85-1372 du 23 décembre 1985 - art. 26 () JORF 26 juillet 1985 en vigueur le 1er juillet 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°85-1372 du 23 décembre 1985 - art. 55 (V)
+
+
+###### Article 1488
+
+Il n'a point, pour cet excédent, de répétition contre le créancier, à moins que la quittance n'exprime qu'il n'entend payer
+que dans la limite de son obligation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°65-570 1965-07-13
+
+	**Modifié par**:
+
+	  - Loi n°85-1372 du 23 décembre 1985 - art. 26 () JORF 26 juillet 1985 en vigueur le 1er juillet 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°85-1372 du 23 décembre 1985 - art. 55 (V)
+
+
+###### Article 1489
+
+Celui des deux époux qui, par l'effet de l'hypothèque exercée sur l'immeuble à lui échu en partage, se trouve poursuivi pour
+la totalité d'une dette de communauté, a de droit son recours contre l'autre pour la moitié de cette dette.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°65-570 1965-07-13
+
+	**Modifié par**:
+
+	  - Loi n°85-1372 du 23 décembre 1985 - art. 26 () JORF 26 juillet 1985 en vigueur le 1er juillet 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°85-1372 du 23 décembre 1985 - art. 55 (V)
+
+
+###### Article 1490
+
+Les dispositions des articles précédents ne font point obstacle à ce que, sans préjudicier aux droits des tiers, une clause
+du partage oblige l'un ou l'autre des époux à payer une quotité de dettes autre que celle qui est fixée ci-dessus, ou même à
+acquitter le passif entièrement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°65-570 1965-07-13
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°85-1372 art. 55
+
+	**Modifié par**:
+
+	  - Loi n°85-1372 du 23 décembre 1985 - art. 26 () JORF 26 juillet 1985 en vigueur le 1er juillet 1986
+
+
 ###### Article 1491
 
 Les héritiers des époux exercent, en cas de dissolution de la communauté, les mêmes droits que celui des époux qu'ils
@@ -41396,6 +41677,14 @@ représentent et sont soumis aux mêmes obligations. Ils ne peuvent, toutefois, 
 
 	  - Loi n°65-570 1965-07-13
 
+	**Modifié par**:
+
+	  - Loi n°85-1372 du 23 décembre 1985 - art. 26 () JORF 26 juillet 1985 en vigueur le 1er juillet 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°85-1372 du 23 décembre 1985 - art. 55 (V)
+
 	**Cite**:
 
 	  - Code civil - art. 1481 (Ab)
@@ -41407,33 +41696,16 @@ représentent et sont soumis aux mêmes obligations. Ils ne peuvent, toutefois, 
 
 ###### Article 1442
 
-Hors le cas de l'article 124, il ne peut y avoir lieu à la continuation de la communauté, malgré toutes conventions
-contraires.
+IL ne peut y avoir lieu à la continuation de la communauté, malgré toutes conventions contraires.
 
-Si, par la faute de l'un des époux, toute cohabitation et collaboration avaient pris fin entre eux dès avant que la
-communauté ne fût réputée dissoute selon les règles qui régissent les différentes causes prévues à l'article précédent,
-l'autre conjoint pourrait demander que, dans leurs rapports mutuels, l'effet de la dissolution fût reporté à la date où ils
-avaient cessé de cohabiter et de collaborer.
+Les époux peuvent, l'un ou l'autre, demander, s'il y a lieu, que, dans leurs rapports mutuels, l'effet de la dissolution soit
+reporté à la date où ils ont cessé de cohabiter et de collaborer. Celui auquel incombent à titre principal les torts de la
+séparation ne peut pas obtenir ce report.
 
-**Liens relatifs à cet article**
+**Nota:**
 
-	**Codifié par**:
-
-	  - Loi n°65-570 1965-07-13
-
-	**Cite**:
-
-	  - Code civil - art. 124 (V)
-
-
-###### Article 1447
-
-Quand l'action en séparation de biens a été introduite, les créanciers peuvent sommer les époux par acte d'avoué à avocat de
-leur communiquer la demande et les pièces justificatives. Ils peuvent même intervenir à l'instance pour la conservation de
-leurs droits.
-
-Si la séparation a été prononcée en fraude de leurs droits, ils peuvent se pourvoir contre elle par voie de tierce
-opposition, dans les conditions prévues au code de procédure civile.
+NOTA : La loi 2004-439 du 26 mai 2004 entrera en vigueur le 1er janvier 2005 sauf pour les exceptions citées par l'article 33
+II.
 
 **Liens relatifs à cet article**
 
@@ -41441,28 +41713,14 @@ opposition, dans les conditions prévues au code de procédure civile.
 
 	  - Loi n°65-570 1965-07-13
 
+	**Modifié par**:
 
-###### Article 1449
+	  - Loi n°85-1372 1985-12-23 art. 19 I, II JORF 26 décembre 1985 en vigueur le 1er juillet 1986
+	  - Loi n°85-1372 du 23 décembre 1985 - art. 19 () JORF 26 décembre 1985 en vigueur le 1er juillet 1986
 
-La séparation de biens prononcée en justice a pour effet de placer les époux sous le régime des articles 1536 et suivants.
+	**Liens**:
 
-Le tribunal, en prononçant la séparation à la demande de la femme, peut ordonner que le mari versera sa contribution entre
-les mains de celle-ci, laquelle assumera désormais, à l'égard des tiers, le règlement de toutes les charges du mariage.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°65-570 1965-07-13
-
-	**Cité par**:
-
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*321-9 (M)
-	  - Nouveau code de procédure civile - art. 1069-3 (Ab)
-
-	**Cite**:
-
-	  - Code civil - art. 1536 (V)
+	  - SPEC_APPLI: Loi n°85-1372 du 23 décembre 1985 - art. 55 (V)
 
 
 ###### Article 1450
@@ -41523,79 +41781,6 @@ II.
 
 ##### Paragraphe II : De la liquidation et du partage de la communauté.
 
-###### Article 1469
-
-La récompense est, en général, égale à la plus faible des deux sommes que représentent la dépense faite et le profit
-subsistant.
-
-Elle ne peut, toutefois, être moindre que la dépense faite quand celle-ci était nécessaire.
-
-Et elle ne peut être moindre que le profit subsistant, quand la valeur empruntée, a servi à acquérir, à conserver ou à
-améliorer un bien qui se retrouve, au jour de la dissolution de la communauté, dans le patrimoine emprunteur. Si le bien
-acquis, conservé ou amélioré a été aliéné pendant la communauté, le profit est évalué au jour de l'aliénation ; si un nouveau
-bien a été subrogé au bien aliéné, le profit est évalué sur ce nouveau bien.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°65-570 1965-07-13
-
-	**Cité par**:
-
-	  - Code civil - art. 1436 (M)
-	  - Code civil - art. 1479 (V)
-	  - Code civil - art. 1571 (V)
-	  - Code civil - art. 515-7 (VD)
-
-
-###### Article 1471
-
-Les prélèvements s'exercent d'abord sur l'argent comptant, ensuite sur les meubles, et subsidiairement sur les immeubles de
-la communauté. L'époux qui opère le prélèvement a le droit de choisir les meubles et les immeubles qu'ils prélèvera. Il ne
-saurait, cependant, préjudicier par son choix aux droits que son conjoint peut tenir des articles 815, 832, 832-1 et 832-2 du
-présent code.
-
-Les prélèvements de la femme s'exercent avant ceux du mari.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°65-570 1965-07-13
-
-	**Cite**:
-
-	  - Code civil - art. 815 (M)
-	  - Code civil - art. 832 (M)
-	  - Code civil - art. 832-1 (M)
-	  - Code civil - art. 832-2 (M)
-
-
-###### Article 1472
-
-Le mari ne peut exercer ses reprises que sur les biens de la communauté.
-
-La femme, en cas d'insuffisance de la communauté, exerce ses reprises sur les biens personnels du mari.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°65-570 1965-07-13
-
-
-###### Article 1473
-
-Les récompenses dues par la communauté ou à la communauté emportent les intérêts de plein droit du jour de la dissolution.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°65-570 1965-07-13
-
-
 ###### Article 1477
 
 Celui des époux qui aurait diverti ou recelé quelques effets de la communauté, est privé de sa portion dans lesdits effets.
@@ -41610,22 +41795,6 @@ II.
 	**Codifié par**:
 
 	  - Loi n°65-570 1965-07-13
-
-
-###### Article 1479
-
-Les créances personnelles que les époux ont à exercer l'un contre l'autre ne donnent pas lieu à prélèvement et ne portent
-intérêt que du jour de la sommation.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°65-570 1965-07-13
-
-	**Cité par**:
-
-	  - Code civil - art. 1543 (V)
 
 
 ###### Article 1481
@@ -41654,132 +41823,6 @@ Ce droit du survivant est exclusivement attaché à sa personne.
 
 	  - Loi n°2001-1135 du 3 décembre 2001 - art. 25 (V)
 	  - Code civil - art. 1491 (M)
-
-
-##### Paragraphe II : De l'obligation et de la contribution au passif après le partage.
-
-###### Article 1482
-
-Si le passif commun n'a pas été entièrement acquitté lors du partage, chacun des époux peut être poursuivi pour la totalité
-des dettes encore existantes qui étaient entrées en communauté de son chef.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°65-570 1965-07-13
-
-
-##### Paragraphe III : De l'obligation et de la contribution au passif après le partage.
-
-###### Article 1483
-
-Chacun des époux ne peut être poursuivi que pour la moitié des dettes qui étaient entrées en communauté du chef de son
-conjoint.
-
-Il n'en est tenu, sauf le cas de recel, que jusqu'à concurrence de son émolument, pourvu qu'il y ait eu inventaire, et à
-charge de rendre compte tant du contenu de cet inventaire que de ce qui lui est échu par le partage, ainsi que du passif
-commun déjà acquitté.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°65-570 1965-07-13
-
-	**Cité par**:
-
-	  - Code civil - art. 1486 (V)
-
-
-###### Article 1484
-
-L'inventaire prévu à l'article précédent doit avoir lieu dans les formes réglées par le code de procédure civile,
-contradictoirement avec l'autre époux ou lui dûment appelé. Il doit être clos dans les neuf mois du jour où la communauté a
-été dissoute, sauf prorogation accordée par le juge des référés. Il doit être affirmé sincère et véritable devant l'officier
-public qui l'a reçu.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°65-570 1965-07-13
-
-
-###### Article 1485
-
-Chacun des époux contribue pour moitié aux dettes de communauté pour lesquelles il n'était pas dû de récompense, ainsi qu'aux
-frais de scellé, inventaire, vente de mobilier, liquidation, licitation et partage.
-
-Il supporte seul les dettes qui n'étaient devenues communes que sauf récompense à sa charge.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°65-570 1965-07-13
-
-
-###### Article 1486
-
-L'époux qui peut se prévaloir du bénéfice de l'article 1483, alinéa second, ne contribue pas pour plus que son émolument aux
-dettes qui étaient entrées en communauté du chef de l'autre époux, à moins qu'il ne s'agisse de dettes pour lesquelles il
-aurait dû récompense.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°65-570 1965-07-13
-
-
-###### Article 1487
-
-L'époux qui a payé au-delà de la portion dont il était tenu par application des articles précédents a, contre l'autre, un
-recours pour l'excédent.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°65-570 1965-07-13
-
-
-###### Article 1488
-
-Il n'a point, pour cet excédent, de répétition contre le créancier, à moins que la quittance n'exprime qu'il n'entend payer
-que dans la limite de son obligation.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°65-570 1965-07-13
-
-
-###### Article 1489
-
-Celui des deux époux qui, par l'effet de l'hypothèque exercée sur l'immeuble à lui échu en partage, se trouve poursuivi pour
-la totalité d'une dette de communauté, a de droit son recours contre l'autre pour la moitié de cette dette.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°65-570 1965-07-13
-
-
-###### Article 1490
-
-Les dispositions des articles précédents ne font point obstacle à ce que, sans préjudicier aux droits des tiers, une clause
-du partage oblige l'un ou l'autre des époux à payer une quotité de dettes autre que celle qui est fixée ci-dessus, ou même à
-acquitter le passif entièrement.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°65-570 1965-07-13
 
 
 #### Deuxième partie : De la communauté conventionnelle.
@@ -41905,43 +41948,14 @@ patrimoine commun et ne peut plus être identifié selon les règles de l'articl
 	  - Code civil - art. 1402 (V)
 
 
-##### Section I : De la communauté de meubles et acquêts.
-
-###### Article 1502
-
-Une dette de la femme ne peut être traitée comme faisant partie du passif antérieur au mariage que si elle a acquis date
-certaine avant le jour de la célébration.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Décret n°53-380 du 28 avril 1953 - art. 29 (V)
-	  - Loi n°85-1372 du 23 décembre 1985 - art. 29 (V)
-
-	**Codifié par**:
-
-	  - Loi n°65-570 1965-07-13
-
-	**Abrogé par**:
-
-	  - Loi n°85-1372 du 23 décembre 1985 - art. 29 (V) JORF 26 décembre 1985 en vigueur le 1er juillet 1986
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°85-1372 du 23 décembre 1985 - art. 55 (V)
-
-
-##### Section II : Des clauses relatives à l'administration
-
-##### Paragraphe I : De la clause de la main commune.
+##### Section 2 : De la clause d'administration conjointe.
 
 ###### Article 1503
 
 Les époux peuvent convenir qu'ils administreront conjointement la communauté.
 
-En ce cas les actes de disposition et même d'administration des biens communs, y compris les biens réservés, doivent être
-faits sous la signature conjointe du mari et de la femme, et ils emportent de plein droit solidarité des obligations.
+En ce cas les actes d'administration et de disposition des biens communs sont faits sous la signature conjointe des deux
+époux et ils emportent de plein droit solidarité des obligations.
 
 Les actes conservatoires peuvent être faits séparément par chaque époux.
 
@@ -41951,169 +41965,17 @@ Les actes conservatoires peuvent être faits séparément par chaque époux.
 
 	  - Loi n°65-570 1965-07-13
 
+	**Modifié par**:
+
+	  - Loi n°85-1372 du 23 décembre 1985 - art. 30 () JORF 26 décembre 1985 en vigueur le 1er juillet 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°85-1372 du 23 décembre 1985 - art. 55 (V)
+
 	**Cité par**:
 
 	  - Code civil - art. 224 (Ab)
-
-
-##### Paragraphe II : De la clause de représentation mutuelle.
-
-###### Article 1504
-
-Les époux peuvent, par le contrat de mariage, se donner pouvoir réciproque d'administrer les biens communs, y compris les
-biens réservés.
-
-Les actes d'administration que l'un d'eux a faits seul, en vertu de cette clause, sont opposables à l'autre.
-
-Les actes de disposition ne peuvent être faits que du consentement commun des deux époux.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Décret n°53-380 du 28 avril 1953 - art. 29 (V)
-
-	**Codifié par**:
-
-	  - Loi n°65-570 1965-07-13
-
-	**Abrogé par**:
-
-	  - Loi n°85-1372 du 23 décembre 1985 - art. 30 () JORF 26 décembre 1985 en vigueur le 1er juillet 1986
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°85-1372 du 23 décembre 1985 - art. 55 (V)
-
-
-##### Paragraphe III : De la clause d'unité d'administration.
-
-###### Article 1505
-
-Les époux peuvent convenir que le mari aura l'administration des biens propres de la femme.
-
-Cette clause a pour effet de faire entrer dans l'actif commun la jouissance des propres de l'un et de l'autre époux, et dans
-le passif commun les charges usufructuaires correspondantes.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°65-570 1965-07-13
-
-	**Abrogé par**:
-
-	  - Loi n°85-1372 du 23 décembre 1985 - art. 30 () JORF 26 décembre 1985 en vigueur le 1er juillet 1986
-
-
-###### Article 1506
-
-La femme n'oblige alors que la nue-propriété de ses propres et ses biens réservés par ses obligations postérieures au
-mariage, à moins qu'il ne s'agisse d'engagements professionnels ou de dettes qui doivent entrer dans le passif commun selon
-l'article 1414 ; auxquels cas elle oblige la pleine propriété de tous ses biens.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°65-570 1965-07-13
-
-	**Abrogé par**:
-
-	  - Loi n°85-1372 du 23 décembre 1985 - art. 30 () JORF 26 décembre 1985 en vigueur le 1er juillet 1986
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°85-1372 du 23 décembre 1985 - art. 55 (V)
-
-	**Cite**:
-
-	  - Code civil - art. 1414 (M)
-
-
-###### Article 1507
-
-Sur les biens propres de la femme, le mari peut faire seul tous les actes d'administration.
-
-Toutefois, les baux qu'il a consentis sont soumis aux règles prévues pour les baux passés par l'usufruitier.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°65-570 1965-07-13
-
-	**Abrogé par**:
-
-	  - Loi n°85-1372 du 23 décembre 1985 - art. 30 () JORF 26 décembre 1985 en vigueur le 1er juillet 1986
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°85-1372 du 23 décembre 1985 - art. 55 (V)
-
-	**Cite**:
-
-	  - Code civil - art. 595 (V)
-
-
-###### Article 1508
-
-Si le mari ne peut, à la dissolution de la communauté, représenter en nature les valeurs mobilières appartenant à la femme,
-il est comptable de leur estimation à cette date ou du montant des remboursements et amortissements par lui perçus, à moins
-qu'il ne justifie, soit d'un remploi utile, soit d'une aliénation à laquelle la femme a consenti.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°65-570 1965-07-13
-
-	**Abrogé par**:
-
-	  - Loi n°85-1372 du 23 décembre 1985 - art. 30 () JORF 26 décembre 1985 en vigueur le 1er juillet 1986
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°85-1372 du 23 décembre 1985 - art. 55 (V)
-
-
-###### Article 1509
-
-La femme peut seule faire des actes de disposition sur ses biens propres, mais lorsqu'elle les fait sans le consentement du
-mari, elle ne peut disposer que de la nue-propriété de ses biens, si ce n'est pour les besoins de sa profession.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°65-570 1965-07-13
-
-	**Abrogé par**:
-
-	  - Loi n°85-1372 du 23 décembre 1985 - art. 30 () JORF 26 décembre 1985 en vigueur le 1er juillet 1986
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°85-1372 du 23 décembre 1985 - art. 55 (V)
-
-
-###### Article 1510
-
-La mari répond envers sa femme de toutes les fautes qu'il a commises dans son administration.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°65-570 1965-07-13
-
-	**Abrogé par**:
-
-	  - Loi n°85-1372 du 23 décembre 1985 - art. 30 () JORF 26 décembre 1985 en vigueur le 1er juillet 1986
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°85-1372 du 23 décembre 1985 - art. 55 (V)
 
 
 ##### Section 3 : De la clause de prélèvement moyennant indemnité.
@@ -42223,9 +42085,15 @@ l'époux sur le reste de la communauté.
 
 ###### Article 1518
 
-Lorsque la communauté se dissout du vivant des époux, il n'y a pas lieu à la délivrance actuelle du préciput ; mais l'époux
-au profit duquel il a été stipulé conserve ses droits pour le cas de survie, à moins qu'il n'y ait eu jugement de divorce ou
-de séparation de corps prononcé contre lui. Il peut exiger une caution de son conjoint en garantie de ses droits.
+Lorsque la communauté se dissout du vivant des époux, il n'y a pas lieu à la délivrance du préciput ; mais l'époux au profit
+duquel il a été stipulé conserve ses droits pour le cas de survie, à moins que les avantages matrimoniaux n'aient été perdus
+de plein droit ou révoqués à la suite d'un jugement de divorce ou de séparation de corps, sans préjudice de l'application de
+l'article 268. Il peut exiger une caution de son conjoint en garantie de ses droits.
+
+**Nota:**
+
+NOTA : La loi 2004-439 du 26 mai 2004 entrera en vigueur le 1er janvier 2005 sauf pour les exceptions citées par l'article 33
+II.
 
 **Liens relatifs à cet article**
 
@@ -42233,9 +42101,21 @@ de séparation de corps prononcé contre lui. Il peut exiger une caution de son 
 
 	  - Loi n°65-570 1965-07-13
 
+	**Modifié par**:
+
+	  - Loi n°85-1372 du 23 décembre 1985 - art. 31 () JORF 26 décembre 1985 en vigueur le 1er juillet 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°85-1372 du 23 décembre 1985 - art. 55 (V)
+
 	**Cité par**:
 
 	  - Code civil - art. 1524 (V)
+
+	**Cite**:
+
+	  - Code civil - art. 268 (M)
 
 
 ##### Section 5 : De la stipulation de parts inégales.
@@ -42493,6 +42373,29 @@ droit. Il peut toujours être décidé que la totalité de la soulte éventuelle
 	  - Loi n°75-617 du 11 juillet 1975 - art. 24 (V)
 
 
+###### Article 1543
+
+Les règles de l'article 1479 sont applicables aux créances que l'un des époux peut avoir à exercer contre l'autre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°65-570 1965-07-13
+
+	**Créé par**:
+
+	  - Loi n°85-1372 du 23 décembre 1985 - art. 32 () JORF 26 décembre 1985 en vigueur le 1er juillet 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°85-1372 du 23 décembre 1985 - art. 55 (V)
+
+	**Cite**:
+
+	  - Code civil - art. 1479 (V)
+
+
 ### Chapitre IV : Du régime de participation aux acquêts.
 
 ###### Article 1569
@@ -42520,20 +42423,29 @@ mort d'un époux, ses héritiers ont, sur les acquêts nets faits par l'autre, l
 ###### Article 1570
 
 Le patrimoine originaire comprend les biens qui appartenaient à l'époux au jour du mariage et ceux qu'il a acquis depuis par
-succession ou libéralité. Il n'est pas tenu compte des fruits de ces biens, ni de ceux de ces biens qui auraient eu le
-caractère de fruits.
+succession ou libéralité, ainsi que tous les biens qui, dans le régime de la communauté légale, forment des propres par
+nature sans donner lieu à récompense. Il n'est pas tenu compte des fruits de ces biens, ni de ceux de ces biens qui auraient
+eu le caractère de fruits ou dont l'époux a disposé par donation entre vifs pendant le mariage. 
 
 La consistance du patrimoine originaire est prouvée par un état descriptif, même sous seing privé, établi en présence de
-l'autre conjoint et signé par lui ; à défaut, le patrimoine originaire est tenu pour nul.
+l'autre conjoint et signé par lui.
 
-La preuve que le patrimoine originaire aurait compris d'autres biens ne peut être rapportée que par les moyens de l'article
-1402.
+A défaut d'état descriptif ou s'il est incomplet, la preuve de la consistance du patrimoine originaire ne peut être rapportée
+que par les moyens de l'article 1402.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Loi n°65-570 1965-07-13
+
+	**Modifié par**:
+
+	  - Loi n°85-1372 du 23 décembre 1985 - art. 33 () JORF 26 décembre 1985 en vigueur le 1er juillet 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°85-1372 du 23 décembre 1985 - art. 55 (V)
 
 	**Cité par**:
 
@@ -42547,12 +42459,12 @@ La preuve que le patrimoine originaire aurait compris d'autres biens ne peut êt
 
 ###### Article 1571
 
-Les biens originaires sont estimés d'après leur état au jour du mariage ou au jour de l'acquisition, et d'après leur valeur
-au jour où le régime matrimonial est dissous. S'ils ont été aliénés, on retient leur valeur au jour de l'aliénation. Si de
-nouveaux biens ont été subrogés aux biens aliénés, on prend en considération la valeur de ces nouveaux biens.
+Les biens originaires sont estimés d'après leur état au jour du mariage ou de l'acquisition, et d'après leur valeur au jour
+où le régime matrimonial est liquidé. S'ils ont été aliénés, on retient leur valeur au jour de l'aliénation. Si de nouveaux
+biens ont été subrogés aux biens aliénés, on prend en considération la valeur de ces nouveaux biens. 
 
-De l'actif originaire sont déduites les dettes dont il se trouvait grevé. Si le passif excède l'actif, le patrimoine
-originaire est tenu pour nul.
+De l'actif originaire sont déduites les dettes dont il se trouvait grevé, réévaluées, s'il y a lieu, selon les règles de
+l'article 1469, troisième alinéa. Si le passif excède l'actif, cet excédent est fictivement réuni au patrimoine final.
 
 **Liens relatifs à cet article**
 
@@ -42560,11 +42472,23 @@ originaire est tenu pour nul.
 
 	  - Loi n°65-570 1965-07-13
 
+	**Modifié par**:
+
+	  - Loi n°85-1372 du 23 décembre 1985 - art. 33 () JORF 26 décembre 1985 en vigueur le 1er juillet 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°85-1372 du 23 décembre 1985 - art. 55 (V)
+
 	**Cité par**:
 
 	  - Loi n°85-1372 du 23 décembre 1985 - art. 62 (V)
 	  - Ordonnance n°2002-1476 du 19 décembre 2002 - art. 10 (VD)
 	  - Code civil - art. 1579 (V)
+
+	**Cite**:
+
+	  - Code civil - art. 1469 (V)
 
 
 ###### Article 1572
@@ -42594,15 +42518,24 @@ prévues au code de procédure civile.
 
 ###### Article 1573
 
-Aux biens existants on réunit fictivement ceux dont l'époux a disposé par donations entre vifs, à moins que l'autre conjoint
-n'ait consenti à la donation, ainsi que ceux qu'il aurait aliénés frauduleusement. L'aliénation à charge de rente viagère ou
-à fonds perdu est présumée faite en fraude des droits du conjoint, s'il n'y a donné son consentement.
+Aux biens existants on réunit fictivement les biens qui ne figurent pas dans le patrimoine originaire et dont l'époux a
+disposé par donation entre vifs sans le consentement de son conjoint, ainsi que ceux qu'il aurait aliénés frauduleusement.
+L'aliénation à charge de rente viagère ou à fonds perdu est présumée faite en fraude des droits du conjoint, si celui-ci n'y
+a consenti.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Loi n°65-570 1965-07-13
+
+	**Modifié par**:
+
+	  - Loi n°85-1372 du 23 décembre 1985 - art. 33 () JORF 26 décembre 1985 en vigueur le 1er juillet 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°85-1372 du 23 décembre 1985 - art. 55 (V)
 
 	**Cité par**:
 
@@ -42613,18 +42546,31 @@ n'ait consenti à la donation, ainsi que ceux qu'il aurait aliénés frauduleuse
 
 ###### Article 1574
 
-Les biens existants sont estimés d'après leur état et leur valeur au jour où le régime matrimonial est dissous. Les biens qui
-ont été aliénés par donations entre vifs, ou en fraude des droits du conjoint, sont estimés d'après leur état au jour de
-l'aliénation et la valeur qu'ils auraient eue, s'ils avaient été conservés, au jour de la dissolution.
+Les biens existants sont estimés d'après leur état à l'époque de la dissolution du régime matrimonial et d'après leur valeur
+au jour de la liquidation de celui-ci. Les biens qui ont été aliénés par donations entre vifs, ou en fraude des droits du
+conjoint, sont estimés d'après leur état au jour de l'aliénation et la valeur qu'ils auraient eue, s'ils avaient été
+conservés, au jour de la liquidation.
 
-De l'actif ainsi reconstitué, on déduit toutes les dettes qui n'ont pas encore été acquittées, sans en exclure les sommes qui
+De l'actif ainsi reconstitué, on déduit toutes les dettes qui n'ont pas encore été acquittées, y compris les sommes qui
 pourraient être dues au conjoint.
+
+La valeur, au jour de l'aliénation, des améliorations qui avaient été apportées pendant le mariage à des biens originaires
+donnés par un époux sans le consentement de son conjoint avant la dissolution du régime matrimonial doit être ajoutée au
+patrimoine final.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Loi n°65-570 1965-07-13
+
+	**Modifié par**:
+
+	  - Loi n°85-1372 du 23 décembre 1985 - art. 33 () JORF 26 décembre 1985 en vigueur le 1er juillet 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°85-1372 du 23 décembre 1985 - art. 55 (V)
 
 	**Cité par**:
 
@@ -42676,16 +42622,23 @@ conjoint de leur débiteur.
 
 ###### Article 1577
 
-L'époux créancier poursuit le recouvrement de sa créance de participation d'abord sur les biens existants et subsidiairement
-sur les biens qui avaient été aliénés par donations entre vifs ou en fraude des droits du conjoint, en commençant par les
-aliénations les plus récentes. L'action en révocation n'est ouverte contre les tiers acquéreurs à titre onéreux qu'autant que
-leur mauvaise foi est établie.
+L'époux créancier poursuit le recouvrement de sa créance de participation d'abord sur les biens existants et subsidiairement,
+en commençant par les aliénations les plus récentes, sur les biens mentionnés à l'article 1573 qui avaient été aliénés par
+donation entre vifs ou en fraude des droits du conjoint.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Loi n°65-570 1965-07-13
+
+	**Modifié par**:
+
+	  - Loi n°85-1372 du 23 décembre 1985 - art. 33 () JORF 26 décembre 1985 en vigueur le 1er juillet 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°85-1372 du 23 décembre 1985 - art. 55 (V)
 
 	**Cité par**:
 
@@ -42693,26 +42646,38 @@ leur mauvaise foi est établie.
 	  - Ordonnance n°2002-1476 du 19 décembre 2002 - art. 10 (VD)
 	  - Code civil - art. 1578 (M)
 
+	**Cite**:
+
+	  - Code civil - art. 1573 (V)
+
 
 ###### Article 1578
 
 A la dissolution du régime matrimonial, si les parties ne s'accordent pas pour procéder à la liquidation par convention,
-l'une d'elles peut demander au tribunal qu'il y soit procédé en justice.
+l'une d'elles peut demander au tribunal qu'il y soit procédé en justice. 
 
 Sont applicables à cette demande, en tant que de raison, les règles prescrites pour arriver au partage judiciaire des
-successions et communautés.
+successions et communautés. 
 
 Les parties sont tenues de se communiquer réciproquement, et de communiquer aux experts désignés par le juge, tous
 renseignements et documents utiles à la liquidation.
 
 L'action en liquidation se prescrit par trois ans à compter de la dissolution du régime matrimonial. Les actions ouvertes
-contre les tiers en vertu de l'article précédent se prescrivent par deux ans à compter de la clôture de la liquidation.
+contre les tiers en vertu de l'article 1167 se prescrivent par deux ans à compter de la clôture de la liquidation.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Loi n°65-570 1965-07-13
+
+	**Modifié par**:
+
+	  - Loi n°85-1372 du 23 décembre 1985 - art. 34 () JORF 26 décembre 1985 en vigueur le 1er juillet 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°85-1372 du 23 décembre 1985 - art. 55 (V)
 
 	**Cité par**:
 
@@ -42721,7 +42686,7 @@ contre les tiers en vertu de l'article précédent se prescrivent par deux ans �
 
 	**Cite**:
 
-	  - Code civil - art. 1577 (M)
+	  - Code civil - art. 1167 (V)
 
 
 ###### Article 1579
@@ -43033,43 +42998,6 @@ Tous ceux auxquels la loi ne l'interdit pas peuvent acheter ou vendre.
 	**Créé par**:
 
 	  - Loi n°1804-03-06 promulguée le 16 mars 1804
-
-
-###### Article 1595
-
-Le contrat de vente ne peut avoir lieu entre époux que dans les trois cas suivants :
-
-1° Celui où l'un des deux époux cède des biens à l'autre, séparé judiciairement d'avec lui, en paiement de ses droits ;
-
-2° Celui où la cession que le mari fait à sa femme, même non séparée, a une cause légitime, telle que le remploi de ses
-immeubles aliénés, ou de deniers à elle appartenant, si ces immeubles ou deniers ne tombent pas en communauté ;
-
-3° Celui où la femme cède des biens à son mari en paiement d'une somme qu'elle lui aurait promise en dot, et lorsqu'il y a
-exclusion de communauté ;
-
-Sauf, dans ces trois cas, les droits des héritiers des parties contractantes, s'il y a avantage indirect.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1804-03-06
-
-	**Créé par**:
-
-	  - Loi n°1804-03-06 promulguée le 16 mars 1804
-
-	**Abrogé par**:
-
-	  - Loi n°85-1372 du 23 décembre 1985 - art. 35 (V) JORF 26 décembre 1985 en vigueur le 1er juillet 1986
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°85-1372 du 23 décembre 1985 - art. 55 (V)
-
-	**Cité par**:
-
-	  - Loi n°85-1372 du 23 décembre 1985 - art. 35 (V)
 
 
 ###### Article 1596
@@ -48487,8 +48415,7 @@ Les associés s'engagent à contribuer aux pertes.
 
 Même s'ils n'emploient que des biens de communauté pour les apports à une société ou pour l'acquisition de parts sociales,
 deux époux seuls ou avec d'autres personnes peuvent être associés dans une même société et participer ensemble ou non à la
-gestion sociale. Toutefois, cette faculté n'est ouverte que si les époux ne doivent pas, l'un et l'autre, être indéfiniment
-et solidairement responsables des dettes sociales.
+gestion sociale.
 
 Les avantages et libéralités résultant d'un contrat de société entre époux ne peuvent être annulés parce qu'ils
 constitueraient des donations déguisées, lorsque les conditions en ont été réglées par un acte authentique.
@@ -48501,10 +48428,11 @@ constitueraient des donations déguisées, lorsque les conditions en ont été r
 
 	**Modifié par**:
 
-	  - Loi n°82-596 du 10 juillet 1982 - art. 12 () JORF 13 juillet 1982
+	  - Loi n°85-1372 du 23 décembre 1985 - art. 50 () JORF 26 décembre 1985 en vigueur le 1er juillet 1986
 
 	**Liens**:
 
+	  - SPEC_APPLI: Loi n°85-1372 du 23 décembre 1985 - art. 55 (V)
 	  - TXT_ASSOCIE: Code civil - art. 1844-10 (V)
 
 	**Cité par**:
@@ -50729,14 +50657,14 @@ révocation.
 
 ###### Article 1873-6
 
-Le gérant représente les indivisaires dans la mesure de ses pouvoirs, soit pour les actes de la vie civile, soit en justice
+Le gérant représente les indivisaires dans la mesure de ses pouvoirs, soit pour les actes de la vie civile, soit en justice,
 tant en demandant qu'en défendant. Il est tenu d'indiquer, à titre purement énonciatif, le nom de tous les indivisaires dans
 le premier acte de procédure.
 
-Le gérant administre l'indivision et exerce, à cet effet, les pouvoirs que la loi attribue au mari sur les biens communs. Il
-ne peut, toutefois, disposer des meubles corporels que pour les besoins d'une exploitation normale des biens indivis, ou
-encore s'il s'agit de choses difficiles à conserver ou sujettes à dépérissement. Toute clause extensive des pouvoirs du
-gérant est réputée non écrite.
+Le gérant administre l'indivision et exerce, à cet effet, les pouvoirs attribués à chaque époux sur les biens communs. Il ne
+peut, toutefois, disposer des meubles corporels que pour les besoins d'une exploitation normale des biens indivis, ou encore
+s'il s'agit de choses difficiles à conserver ou sujettes à dépérissement. Toute clause extensive des pouvoirs du gérant est
+réputée non écrite.
 
 **Liens relatifs à cet article**
 
@@ -50744,13 +50672,13 @@ gérant est réputée non écrite.
 
 	  - Loi n°76-1286 1976-12-31
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°76-1286 du 31 décembre 1976 - art. 11 () JORF 1er janvier 1977 en vigueur le 1er juillet 1977
+	  - Loi n°85-1372 du 23 décembre 1985 - art. 51 () JORF 26 décembre 1985 en vigueur le 1er juillet 1986
 
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°76-1286 du 31 décembre 1976 - art. 19 (V)
+	  - SPEC_APPLI: Loi n°85-1372 du 23 décembre 1985 - art. 55 (V)
 
 	**Cité par**:
 
@@ -52060,9 +51988,8 @@ Si la chose déposée est indivisible, les héritiers doivent s'accorder entre e
 
 ###### Article 1940
 
-Si la personne qui a fait le dépôt a changé d'état : par exemple, si la femme, libre au moment où le dépôt a été fait, s'est
-mariée depuis ; si le majeur déposant se trouve frappé de la tutelle des majeurs ; dans tous les cas et autres de même
-nature, le dépôt ne peut être restitué qu'à celui qui a l'administration des droits et des biens du déposant.
+Si la personne qui a fait le dépôt a été dessaisie de ses pouvoirs d'administration, le dépôt ne peut être restitué qu'à
+celui qui a l'administration des biens du déposant.
 
 **Liens relatifs à cet article**
 
@@ -52070,16 +51997,19 @@ nature, le dépôt ne peut être restitué qu'à celui qui a l'administration de
 
 	  - Loi n°1804-03-14
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°1804-03-14 promulguée le 24 mars 1804
+	  - Loi n°85-1372 du 23 décembre 1985 - art. 52 () JORF 26 décembre 1985 en vigueur le 1er juillet 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°85-1372 du 23 décembre 1985 - art. 55 (V)
 
 
 ###### Article 1941
 
-Si le dépôt a été fait par un tuteur, par un mari ou par un administrateur, dans l'une de ces qualités, il ne peut être
-restitué qu'à la personne que ce tuteur, ce mari ou cet administrateur représentaient, si leur gestion ou leur administration
-est finie.
+Si le dépôt a été fait par un tuteur ou un administrateur, dans l'une de ces qualités, il ne peut être restitué qu'à la
+personne que ce tuteur ou cet administrateur représentaient, si leur gestion ou leur administration est finie.
 
 **Liens relatifs à cet article**
 
@@ -52087,9 +52017,13 @@ est finie.
 
 	  - Loi n°1804-03-14
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°1804-03-14 promulguée le 24 mars 1804
+	  - Loi n°85-1372 du 23 décembre 1985 - art. 52 () JORF 26 décembre 1985 en vigueur le 1er juillet 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°85-1372 du 23 décembre 1985 - art. 55 (V)
 
 
 ###### Article 1942
@@ -57547,195 +57481,6 @@ publiés, la publicité des warrants demeurant soumise aux lois spéciales qui l
 	  - Loi n°1804-03-19 promulguée le 29 mars 1804
 
 
-#### Section V : Des règles particulières à l'hypothèque légale des époux.
-
-###### Article 2135
-
-Quel que soit le régime matrimonial, il est toujours permis aux époux de convenir dans le contrat de mariage que la femme
-aura la faculté d'inscrire son hypothèque légale sans intervention de justice.
-
-En vertu de cette clause, l'inscription peut être prise avant le mariage pour la dot et les conventions matrimoniales, mais
-elle n'a d'effet que du jour de la célébration.
-
-Elle peut encore être prise au cours du mariage ou, au plus tard, un an après sa dissolution, par la femme ou ses héritiers,
-pour la dot et les conventions matrimoniales, pour les successions échues à la femme, les donations ou legs qui lui sont
-faits, pour l'indemnité des dettes qu'elle a contractées avec son mari ou pour le remploi de ses propres aliénés, et, d'une
-manière générale, pour toute créance qu'elle acquiert contre son mari. En ce cas, l'inscription a effet de sa date, ainsi
-qu'il est dit à l'article 2134.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Loi n°1913-08-08 du 8 août 1913 - art. 2 (Ab)
-	  - Décret n°55-22 du 4 janvier 1955 - art. 38 (VD)
-	  - Décret n°55-22 du 4 janvier 1955 - art. 44 (V)
-	  - Loi n°65-570 du 13 juillet 1965 - art. 14 (V)
-	  - Loi n°85-1372 du 23 décembre 1985 - art. 35 (V)
-	  - Code civil - art. 2139 (M)
-	  - Code civil - art. 2163 (M)
-
-	**Codifié par**:
-
-	  - Loi n°1804-03-19
-
-	**Créé par**:
-
-	  - Loi n°1804-03-19 promulguée le 29 mars 1804
-
-	**Modifié par**:
-
-	  - Loi n°65-570 du 13 juillet 1965 - art. 3 () JORF 14 juillet 1965 en vigueur le 1er février 1966
-
-	**Abrogé par**:
-
-	  - Loi n°85-1372 du 23 décembre 1985 - art. 35 (V) JORF 26 décembre 1985 en vigueur le 1er juillet 1986
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°85-1372 du 23 décembre 1985 - art. 55 (V)
-
-	**Cite**:
-
-	  - Code civil - art. 2134 (M)
-
-
-###### Article 2137
-
-Hors les cas des deux articles précédents où l'hypothèque légale est inscrite en conséquence des conventions matrimoniales,
-elle ne peut être inscrite que par l'intervention de justice, ainsi qu'il est expliqué au présent article et à l'article
-suivant.
-
-Si l'un des époux introduit une demande en justice tendant à faire constater une créance contre son conjoint ou les héritiers
-de celui-ci, il peut, dès l'introduction de la demande, requérir une inscription provisoire de son hypothèque légale, en
-présentant l'original de l'assignation signifiée, ainsi qu'un certificat du greffier qui atteste que l'affaire a été portée
-au registre prévu à l'article 76 du code de procédure civile. Le même droit lui appartient en cas de demande
-reconventionnelle, sur présentation d'une copie des conclusions.
-
-L'inscription est valable trois ans et renouvelable. Elle est soumise aux règles des chapitres IV et suivants du présent
-titre.
-
-Si la demande est admise, la décision est mentionnée, à la diligence de l'époux demandeur, en marge de l'inscription
-provisoire, à peine de nullité de cette inscription, dans le mois à dater du jour où elle est devenue définitive. Elle forme
-le titre d'une inscription définitive qui se substitue à l'inscription provisoire, et dont le rang est fixé à la date de
-celle-ci. Lorsque le montant du capital de la créance allouée et de ses accessoires excède celui des sommes que conserve
-l'inscription provisoire, l'excédent ne peut être conservé que par une inscription prise conformément aux dispositions de
-l'article 2148 et ayant effet de sa date, ainsi qu'il est dit à l'article 2134.
-
-Si la demande est entièrement rejetée, le tribunal, à la requête de l'époux défendeur, ordonne la radiation de l'inscription
-provisoire.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Décret n°55-22 du 4 janvier 1955 - art. 51 (M)
-	  - Décret n°55-1350 du 14 octobre 1955 - art. 59 (M)
-	  - Code civil - art. 2139 (T)
-	  - Code civil - art. 2141 (T)
-	  - Code civil - art. 2163 (T)
-
-	**Modifié par**:
-
-	  - Loi n°65-570 du 13 juillet 1965 - art. 3 () JORF 14 juillet 1965 en vigueur le 1er février 1966
-
-	**Cite**:
-
-	  - Code de procédure civile 76
-	  - Code civil - art. 2134 (M)
-	  - Code civil - art. 2148 (M)
-
-	**Nouveaux textes**:
-
-	  - Code civil - art. 2403 (V)
-
-	**Codifié par**:
-
-	  - Loi n°1804-03-19
-
-	**Créé par**:
-
-	  - Loi n°1804-03-19 promulguée le 29 mars 1804
-
-
-###### Article 2139
-
-Quand l'hypothèque légale a été inscrite par application des articles 2135, 2136 ou 2137, et sauf clause expresse du contrat
-de mariage l'interdisant, l'époux bénéficiaire de l'inscription peut consentir, au profit des créanciers de l'autre époux ou
-de ses propres créanciers, une cession de son rang ou une subrogation dans les droits résultant de son inscription.
-
-Il en est ainsi même en ce qui concerne l'hypothèque légale ou éventuellement l'hypothèque judiciaire, garantissant la
-pension alimentaire allouée ou susceptible d'être allouée à la femme, pour elle ou pour ses enfants.
-
-Si l'époux bénéficiaire de l'inscription, en refusant de consentir une cession de rang ou subrogation, empêche l'autre époux
-de faire une constitution d'hypothèque qu'exigerait l'intérêt de la famille ou s'il est hors d'état de manifester sa volonté,
-les juges pourront autoriser cette cession de rang ou subrogation aux conditions qu'ils estimeront nécessaires à la
-sauvegarde des droits de l'époux intéressé. Ils ont les mêmes pouvoirs lorsque le contrat de mariage comporte la clause visée
-au premier alinéa.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°65-570 du 13 juillet 1965 - art. 3 () JORF 14 juillet 1965 en vigueur le 1er février 1966
-
-	**Cité par**:
-
-	  - Loi n°65-570 du 13 juillet 1965 - art. 14 (M)
-	  - Code civil - art. 2140 (T)
-	  - Nouveau code de procédure civile - art. 1286 (M)
-
-	**Cite**:
-
-	  - Code civil - art. 2135 (Ab)
-	  - Code civil - art. 2136 (T)
-	  - Code civil - art. 2137 (M)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code civil - art. 2141 (T)
-
-	**Nouveaux textes**:
-
-	  - Code civil - art. 2405 (V)
-
-	**Codifié par**:
-
-	  - Loi n°1804-03-19
-
-	**Créé par**:
-
-	  - Loi n°1804-03-19 promulguée le 29 mars 1804
-
-
-###### Article 2142
-
-Les dispositions des articles 2135 à 2141 sont portées à la connaissance des époux ou futurs époux dans les conditions fixées
-par un décret.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°65-570 du 13 juillet 1965 - art. 3 () JORF 14 juillet 1965 en vigueur le 1er février 1966
-
-	**Nouveaux textes**:
-
-	  - Code civil - art. 2408 (V)
-
-	**Cite**:
-
-	  - Code civil 2135 à 2141
-
-	**Codifié par**:
-
-	  - Loi n°1804-03-19
-
-	**Créé par**:
-
-	  - Loi n°1804-03-19 promulguée le 29 mars 1804
-
-
 #### Section 5 : Des règles particulières à l'hypothèque légale des époux.
 
 ###### Article 2136
@@ -57789,6 +57534,70 @@ effet de sa date.
 	**Transféré par**:
 
 	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
+
+
+###### Article 2137
+
+Hors le cas de la participation aux acquêts, l'hypothèque légale ne peut être inscrite que par l'intervention de justice,
+ainsi qu'il est expliqué au présent article et à l'article suivant.
+
+Si l'un des époux introduit une demande en justice tendant à faire constater une créance contre son conjoint ou les héritiers
+de celui-ci, il peut, dès l'introduction de la demande, requérir une inscription provisoire de son hypothèque légale, en
+présentant l'original de l'assignation signifiée, ainsi qu'un certificat du greffier qui atteste que la juridiction est
+saisie de l'affaire. Le même droit lui appartient en cas de demande reconventionnelle, sur présentation d'une copie des
+conclusions.
+
+L'inscription est valable trois ans et renouvelable. Elle est soumise aux règles des chapitres IV et suivants du présent
+titre.
+
+Si la demande est admise, la décision est mentionnée, à la diligence de l'époux demandeur, en marge de l'inscription
+provisoire, à peine de nullité de cette inscription, dans le mois à dater du jour où elle est devenue définitive. Elle forme
+le titre d'une inscription définitive qui se substitue à l'inscription provisoire, et dont le rang est fixé à la date de
+celle-ci. Lorsque le montant du capital de la créance allouée et de ses accessoires excède celui des sommes que conserve
+l'inscription provisoire, l'excédent ne peut être conservé que par une inscription prise conformément aux dispositions de
+l'article 2148 et ayant effet de sa date, ainsi qu'il est dit à l'article 2134.
+
+Si la demande est entièrement rejetée, le tribunal, à la requête de l'époux défendeur, ordonne la radiation de l'inscription
+provisoire.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°55-22 du 4 janvier 1955 - art. 51 (M)
+	  - Décret n°55-1350 du 14 octobre 1955 - art. 59 (M)
+	  - Code civil - art. 2139 (T)
+	  - Code civil - art. 2141 (T)
+	  - Code civil - art. 2163 (T)
+
+	**Modifié par**:
+
+	  - Loi n°85-1372 du 23 décembre 1985 - art. 36 () JORF 26 décembre 1985 en vigueur le 1er juillet 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°85-1372 du 23 décembre 1985 - art. 55 (V)
+
+	**Transféré par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
+
+	**Cite**:
+
+	  - Code civil - art. 2134 (M)
+	  - Code civil - art. 2148 (M)
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2403 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-19
 
 
 ###### Article 2138
@@ -57845,6 +57654,60 @@ Les inscriptions prévues par le présent article sont prises et renouvelées à
 	**Créé par**:
 
 	  - Loi n°1804-03-19 promulguée le 29 mars 1804
+
+
+###### Article 2139
+
+Quand l'hypothèque légale a été inscrite par application des articles 2136 ou 2137, et sauf clause expresse du contrat de
+mariage l'interdisant, l'époux bénéficiaire de l'inscription peut consentir, au profit des créanciers de l'autre époux ou de
+ses propres créanciers, une cession de son rang ou une subrogation dans les droits résultant de son inscription.
+
+Il en est ainsi même en ce qui concerne l'hypothèque légale ou éventuellement l'hypothèque judiciaire, garantissant la
+pension alimentaire allouée ou susceptible d'être allouée à un époux, pour lui ou pour ses enfants.
+
+Si l'époux bénéficiaire de l'inscription, en refusant de consentir une cession de rang ou subrogation, empêche l'autre époux
+de faire une constitution d'hypothèque qu'exigerait l'intérêt de la famille ou s'il est hors d'état de manifester sa volonté,
+les juges pourront autoriser cette cession de rang ou subrogation aux conditions qu'ils estimeront nécessaires à la
+sauvegarde des droits de l'époux intéressé. Ils ont les mêmes pouvoirs lorsque le contrat de mariage comporte la clause visée
+au premier alinéa.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-19
+
+	**Cité par**:
+
+	  - Loi n°65-570 du 13 juillet 1965 - art. 14 (M)
+	  - Code civil - art. 2140 (T)
+	  - Nouveau code de procédure civile - art. 1286 (M)
+
+	**Modifié par**:
+
+	  - Loi n°85-1372 du 23 décembre 1985 - art. 37 () JORF 26 décembre 1985 en vigueur le 1er juillet 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°85-1372 du 23 décembre 1985 - art. 55 (V)
+	  - TXT_ASSOCIE: Code civil - art. 2141 (T)
+
+	**Transféré par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
+
+	**Cite**:
+
+	  - Code civil - art. 2136 (T)
+	  - Code civil - art. 2137 (M)
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2405 (V)
 
 
 ###### Article 2140
@@ -57939,6 +57802,42 @@ inscriptions, aux règles de l'article 2154.
 	**Transféré par**:
 
 	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
+
+
+###### Article 2142
+
+Les dispositions des articles 2136 à 2141 sont portées à la connaissance des époux ou futurs époux dans les conditions fixées
+par un décret.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-19
+
+	**Modifié par**:
+
+	  - Loi n°85-1372 du 23 décembre 1985 - art. 38 () JORF 26 juillet 1986 en vigueur le 1er juillet 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°85-1372 du 23 décembre 1985 - art. 55 (V)
+
+	**Transféré par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2408 (V)
+
+	**Cite**:
+
+	  - Code civil 2136 à 2141
 
 
 #### Section 6 : Des règles particulières à l'hypothèque légale des personnes en tutelle.
@@ -59016,15 +58915,15 @@ somme plus forte.
 	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
 
 
-#### Section II : Dispositions particulières relatives aux hypothèques des époux et des personnes en tutelle.
+#### Section 2 : Dispositions particulières relatives aux hypothèques des époux et des personnes en tutelle.
 
 ###### Article 2163
 
-Quand l'hypothèque légale a été inscrite par application des articles 2135, 2136 ou 2137, et sauf clause expresse du contrat
-de mariage l'interdisant, l'époux bénéficiaire de l'inscription peut en donner mainlevée totale ou partielle.
+Quand l'hypothèque légale a été inscrite par application des articles 2136 ou 2137, et sauf clause expresse du contrat de
+mariage l'interdisant, l'époux bénéficiaire de l'inscription peut en donner mainlevée totale ou partielle.
 
 Il en est ainsi même en ce qui concerne l'hypothèque légale, ou éventuellement l'hypothèque judiciaire, garantissant la
-pension alimentaire allouée ou susceptible d'être allouée à la femme, pour elle ou pour ses enfants.
+pension alimentaire allouée ou susceptible d'être allouée à un époux, pour lui ou pour ses enfants.
 
 Si l'époux bénéficiaire de l'inscription, en refusant de réduire son hypothèque ou d'en donner mainlevée, empêche l'autre
 époux de faire une constitution d'hypothèque ou une aliénation qu'exigerait l'intérêt de la famille ou, s'il est hors d'état
@@ -59038,7 +58937,15 @@ durée du transfert d'administration, qu'en vertu d'un jugement du tribunal qui 
 Dès la cessation du transfert d'administration, la radiation ou la réduction peut être faite dans les conditions prévues aux
 alinéas 1 et 3 ci-dessus.
 
+**Nota:**
+
+
+
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-19
 
 	**Cité par**:
 
@@ -59048,11 +58955,18 @@ alinéas 1 et 3 ci-dessus.
 
 	**Modifié par**:
 
-	  - Loi n°65-570 du 13 juillet 1965 - art. 9 (V) JORF 14 juillet 1965 en vigueur le 1er février 1966
+	  - Loi n°85-1372 du 23 décembre 1985 - art. 38 () JORF 26 juillet 1986 en vigueur le 1er juillet 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°85-1372 du 23 décembre 1985 - art. 55 (V)
+
+	**Transféré par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
 
 	**Cite**:
 
-	  - Code civil - art. 2135 (Ab)
 	  - Code civil - art. 2136 (T)
 	  - Code civil - art. 2137 (M)
 	  - Code civil - art. 2138 (T)
@@ -59061,16 +58975,6 @@ alinéas 1 et 3 ci-dessus.
 
 	  - Code civil - art. 2446 (V)
 
-	**Codifié par**:
-
-	  - Loi n°1804-03-19
-
-	**Créé par**:
-
-	  - Loi n°1804-03-19 promulguée le 29 mars 1804
-
-
-#### Section 2 : Dispositions particulières relatives aux hypothèques des époux et des personnes en tutelle.
 
 ###### Article 2164
 
@@ -60575,41 +60479,6 @@ décret en Conseil d'Etat prévu à l'article 23 et, au plus tard, le 1er janvie
 	**Créé par**:
 
 	  - Loi n°1804-03-19 promulguée le 29 mars 1804
-
-
-###### Article 2208
-
-L'expropriation des immeubles qui font partie de la communauté, se poursuit contre le mari débiteur, seul, quoique la femme
-soit obligée à la dette.
-
-Celle des immeubles de la femme qui ne sont point entrés en communauté se poursuit contre le mari et la femme, laquelle, au
-refus du mari de procéder avec elle, ou si le mari est mineur, peut être autorisée en justice.
-
-En cas de minorité du mari et de la femme, ou de minorité de la femme seule, si son mari majeur refuse de procéder avec elle,
-il est nommé par le tribunal un tuteur à la femme, contre lequel la poursuite est exercée.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°67-167 1965-03-01 art. 23, art. 25
-	  - SPEC_APPLI: Loi n°85-1372 du 23 décembre 1985 - art. 55 (V)
-
-	**Codifié par**:
-
-	  - Loi n°1804-03-19
-
-	**Créé par**:
-
-	  - Loi n°1804-03-19 promulguée le 29 mars 1804
-
-	**Abrogé par**:
-
-	  - Loi n°85-1372 du 23 décembre 1985 - art. 53 (V) JORF 26 décembre 1985 en vigueur le 1er juillet 1986
-
-	**Cité par**:
-
-	  - Loi n°85-1372 du 23 décembre 1985 - art. 53 (V)
 
 
 ###### Article 2209

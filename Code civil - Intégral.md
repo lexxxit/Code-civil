@@ -1,29 +1,29 @@
 # Code civil  
-Version Consolidée au 2004-01-03
+Version Consolidée au 2004-06-01
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
 ###### Article 1
 
-Les lois sont exécutoires dans tout le territoire français, en vertu de la promulgation qui en est faite par le Roi (le
-Président de la République).
+Les lois et, lorsqu'ils sont publiés au Journal officiel de la République française, les actes administratifs entrent en
+vigueur à la date qu'ils fixent ou, à défaut, le lendemain de leur publication. Toutefois, l'entrée en vigueur de celles de
+leurs dispositions dont l'exécution nécessite des mesures d'application est reportée à la date d'entrée en vigueur de ces
+mesures.
 
-Elles seront exécutées dans chaque partie du Royaume (de la République), du moment où la promulgation en pourra être connue.
+En cas d'urgence, entrent en vigueur dès leur publication les lois dont le décret de promulgation le prescrit et les actes
+administratifs pour lesquels le Gouvernement l'ordonne par une disposition spéciale.
 
-La promulgation faite par le Roi (le Président de la République) sera réputée connue dans le département de la résidence
-royale (dans le département où siège le Gouvernement), un jour après celui de la promulgation ; et dans chacun des autres
-départements, après l'expiration du même délai, augmenté d'autant de jours qu'il y aura de fois 10 myriamètres (environ 20
-lieues anciennes), entre la ville où la promulgation en aura été faite, et le chef-lieu de chaque département.
-
-**Nota:**
-
-Nota : La dénomination du Roi a remplacé celle de l'Empereur du fait de l'ordonnance royale du 17 juillet 1816 (Bull. CI, n°
-914).
-
-Art. 10 de la Constitution du 4 octobre 1958 : Les lois sont promulguées par le Président de la République dans les quinze
-jours qui suivent la transmission du Gouvernement de la loi définitivement adoptée.
+Les dispositions du présent article ne sont pas applicables aux actes individuels.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Ordonnance n°2004-164 du 20 février 2004 - art. 1 () JORF 21 février 2004 en vigueur le 1er juin 2004
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance n°2004-164 du 20 février 2004 - art. 7 (V)
 
 	**Cité par**:
 
@@ -44,14 +44,6 @@ jours qui suivent la transmission du Gouvernement de la loi définitivement adop
 	  - Code des relations entre le public et l'adminis... - art. L221-3 (V)
 	  - Code civil - art. 2491 (V)
 	  - Ordonnance n°1816-11-27 du 27 novembre 1816 - art. 2 (Ab)
-
-	**Créé par**:
-
-	  - Loi n°1803-03-05 promulguée le 15 mars 1803
-
-	**Cite**:
-
-	  - Ordonnance Royale 1816-07-17
 
 
 ###### Article 2
@@ -68378,5 +68370,666 @@ détiennent paisiblement.
 	**Codifié par**:
 
 	  - Loi n°1804-03-15
+
+
+# Livre IV : Dispositions applicables à Mayotte
+
+###### Article 2284
+
+Le présent code est applicable à Mayotte dans les conditions définies au présent livre.
+
+**Liens relatifs à cet article**
+
+	**Transféré par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 1 () JORF 24 mars 2006
+
+	**Anciens textes**:
+
+	  - Code civil - art. 2092 (T)
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2489 (V)
+
+	**Cité par**:
+
+	  - Code de commerce - art. L526-1 (V)
+	  - Code de commerce - art. L526-12 (V)
+	  - Code de l'environnement - art. L516-1 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-15
+
+
+###### Article 2285
+
+Pour l'application du présent code à Mayotte, les termes énumérés ci-après sont remplacés comme suit :
+
+1° "Tribunal de grande instance" ou "tribunal d'instance" par :
+
+"tribunal de première instance" ;
+
+2° "Cour" ou "cour d'appel" par : "tribunal supérieur d'appel" ;
+
+3° "Juge d'instance" par : "président du tribunal de première instance ou son délégué" ;
+
+4° "Département" ou "arrondissement" par : "collectivité départementale" ;
+
+5° "Code de procédure civile" ou "nouveau code de procédure civile" par : "dispositions de procédure civile applicables à
+Mayotte".
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°1942-01-19 du 19 janvier 1942 - art. 14 (V)
+	  - Code monétaire et financier - art. L214-146 (V)
+	  - Code monétaire et financier - art. L214-162-9 (V)
+	  - Code monétaire et financier - art. L214-169 (V)
+	  - Code monétaire et financier - art. L214-24-26 (V)
+	  - Code monétaire et financier - art. L214-43 (V)
+	  - Code monétaire et financier - art. L214-5 (V)
+	  - Code monétaire et financier - art. L214-85 (V)
+
+	**Anciens textes**:
+
+	  - Code civil - art. 2093 (T)
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2490 (VD)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-15
+
+
+## Titre préliminaire : Dispositions relatives au titre préliminaire
+
+###### Article 2286
+
+Les articles 1er à 6 sont applicables à Mayotte.
+
+**Liens relatifs à cet article**
+
+	**Transféré par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 1 () JORF 24 mars 2006
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2491 (V)
+
+	**Cite**:
+
+	  - Code civil 1 à 6
+
+	**Cité par**:
+
+	  - Code de commerce - art. L527-1 (V)
+	  - Code de commerce - art. L622-7 (VD)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-15
+
+
+## Titre Ier : Dispositions relatives au livre Ier
+
+###### Article 2287
+
+Les articles 7 à 32-5 et 34 à 515-8 sont applicables à Mayotte.
+
+**Liens relatifs à cet article**
+
+	**Transféré par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 1 () JORF 24 mars 2006
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2492 (M)
+	  - Code civil - art. 2492 (V)
+
+	**Cite**:
+
+	  - Code civil 7 à 32-5, 34 à 515-8
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-15
+
+
+###### Article 2288
+
+Pour son application à Mayotte, le premier alinéa de l'article 26 est ainsi rédigé :
+
+"Les déclarations de nationalité sont reçues par le président du tribunal de première instance ou son délégué suivant les
+formes déterminées par décret en Conseil d'Etat. "
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 18 mars 2002 - art. 1 (V)
+	  - Arrêté du 29 octobre 2009 - art. Annexe 2 (V)
+	  - Arrêté du 2 mai 2013 - art. (V)
+
+	**Transféré par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 1 () JORF 24 mars 2006
+
+	**Anciens textes**:
+
+	  - Code civil - art. 2011 (T)
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2493 (V)
+	  - Code civil - art. 2493 (VT)
+
+	**Cite**:
+
+	  - Code civil 26 al. 1
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-15
+
+
+###### Article 2289
+
+Pour son application à Mayotte, le premier alinéa de l'article 55 est ainsi rédigé :
+
+"Les déclarations de naissance seront faites dans les quinze jours de l'accouchement à l'officier d'état civil du lieu. "
+
+**Liens relatifs à cet article**
+
+	**Transféré par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 1 () JORF 24 mars 2006
+
+	**Anciens textes**:
+
+	  - Code civil - art. 2012 (T)
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2494 (Ab)
+
+	**Cite**:
+
+	  - Code civil 55 al. 1
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-15
+
+
+###### Article 2290
+
+Les articles 57 et 61-3 sont applicables dans leur rédaction issue de la loi n° 93-22 du 8 janvier 1993 modifiant le code
+civil relatif à l'état civil, à la famille et aux droits de l'enfant et instituant le juge aux affaires familiales.
+
+Les modifications apportées à ces articles par la loi n° 2002-304 du 4 mars 2002 relative au nom de famille entreront en
+vigueur à Mayotte à compter du 1er janvier 2007.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°93-22 1993-01-08
+	  - Loi n°2002-304 2002-03-04
+	  - Code civil - art. 57 (M)
+	  - Code civil - art. 61-3 (M)
+
+	**Transféré par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 1 () JORF 24 mars 2006
+
+	**Anciens textes**:
+
+	  - Code civil - art. 2013 (T)
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2495 (V)
+	  - Code civil - art. 2495 (VT)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-15
+
+
+###### Article 2291
+
+Les articles 331, 331-2, 332-1, 334-2 et 334-5 sont applicables à Mayotte dans leur rédaction issue de la loi n° 93-22 du 8
+janvier 1993.
+
+Les articles 333-4, 333-6, 334-1 sont applicables à Mayotte dans leur rédaction issue de la loi n° 72-3 du 3 janvier 1972.
+
+L'article 333-5 est applicable à Mayotte dans sa rédaction issue de la loi n° 87-570 du 22 juillet 1987.
+
+Les modifications apportées à ces articles par la loi n° 2002-304 du 4 mars 2002 relative au nom de famille et les articles
+311-21 et 311-22 entreront en vigueur à Mayotte à compter du 1er janvier 2007.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°72-3 1972-01-03
+	  - Loi n°87-570 1987-07-22
+	  - Loi n°93-22 1993-01-08
+	  - Loi n°2002-304 2002-03-04
+	  - Code civil - art. 311-21 (MMN)
+	  - Code civil - art. 311-22 (MMN)
+	  - Code civil - art. 331 (M)
+	  - Code civil - art. 331-2 (M)
+	  - Code civil - art. 332-1 (M)
+	  - Code civil - art. 333-4 (M)
+	  - Code civil - art. 333-5 (M)
+	  - Code civil - art. 333-6 (M)
+	  - Code civil - art. 334-1 (M)
+	  - Code civil - art. 334-2 (M)
+	  - Code civil - art. 334-5 (M)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2005-759 2005-07-04 art. 20 : Spécificité d'application
+
+	**Transféré par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 1 () JORF 24 mars 2006
+
+	**Anciens textes**:
+
+	  - Code civil - art. 2014 (T)
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2497 (Ab)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-15
+
+
+###### Article 2292
+
+Les articles 354, 361 et 363 sont applicables à Mayotte dans leur rédaction issue de la loi n° 93-22 du 8 janvier 1993.
+
+Les modifications apportées à ces articles par la loi n° 2002-304 du 4 mars 2002 relative au nom de famille entreront en
+vigueur à Mayotte à compter du 1er janvier 2007.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°93-22 1993-01-08
+	  - Loi n°2002-304 2002-03-04
+	  - Code civil - art. 354 (M)
+	  - Code civil - art. 361 (M)
+	  - Code civil - art. 363 (M)
+
+	**Transféré par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 1 () JORF 24 mars 2006
+
+	**Anciens textes**:
+
+	  - Code civil - art. 2015 (T)
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2498 (V)
+	  - Code civil - art. 2498 (VT)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-15
+
+
+###### Article 2293
+
+Pour l'application à Mayotte des articles 515-3 et 515-7, les mots : "greffe du tribunal d'instance" sont remplacés par les
+mots :
+
+"greffe du tribunal de première instance".
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code civil - art. 2016 (T)
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2499 (M)
+	  - Code civil - art. 2499 (V)
+
+	**Cite**:
+
+	  - Code civil - art. 515-3 (M)
+	  - Code civil - art. 515-7 (M)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-15
+
+	**Transféré par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 1 () JORF 24 mars 2006
+
+
+## Titre II : Dispositions relatives au livre II
+
+###### Article 2294
+
+Les articles 516 à 710 sont applicables à Mayotte sous réserve des adaptations figurant aux articles 2295 et 2296.
+
+**Liens relatifs à cet article**
+
+	**Transféré par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 1 () JORF 24 mars 2006
+
+	**Anciens textes**:
+
+	  - Code civil - art. 2017 (T)
+
+	**Cite**:
+
+	  - Code civil - art. 2295 (T)
+	  - Code civil - art. 2296 (T)
+	  - Code civil 516 à 710, 2295, 2296
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2500 (AbD)
+	  - Code civil - art. 2500 (VD)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-15
+
+
+###### Article 2295
+
+Pour l'application du neuvième alinéa de l'article 524, sont immeubles par destination, quand ils ont été placés par le
+propriétaire pour le service et l'exploitation du fonds, les poissons des plans d'eau n'ayant aucune communication avec les
+cours d'eau, canaux et ruisseaux et les poissons des piscicultures et enclos piscicoles.
+
+**Liens relatifs à cet article**
+
+	**Transféré par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 1 () JORF 24 mars 2006
+
+	**Anciens textes**:
+
+	  - Code civil - art. 2018 (T)
+
+	**Cité par**:
+
+	  - Code civil - art. 2294 (T)
+	  - Code civil - art. 2317 (V)
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2501 (V)
+
+	**Cite**:
+
+	  - Code civil 524 al. 9
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-15
+
+
+###### Article 2296
+
+Pour l'application de l'article 564, les mots : "ou plan d'eau visé aux articles 432 et 433 du code rural" sont remplacés par
+les mots : "pisciculture ou enclos piscicoles".
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code civil - art. 2019 (T)
+
+	**Cité par**:
+
+	  - Code civil - art. 2294 (T)
+	  - Code civil - art. 2317 (V)
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2502 (V)
+
+	**Cite**:
+
+	  - Code civil - art. 564 (M)
+	  - Code rural 432 et 433
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-15
+
+	**Transféré par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 1 () JORF 24 mars 2006
+
+
+## Titre III : Dispositions relatives au livre III
+
+###### Article 2297
+
+Les articles 711 à 832-2, 832-4 à 2283 sont applicables à Mayotte sous réserve des adaptations figurant aux articles 2298 à
+2302.
+
+**Liens relatifs à cet article**
+
+	**Transféré par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 1 () JORF 24 mars 2006
+
+	**Anciens textes**:
+
+	  - Code civil - art. 2020 (T)
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2503 (M)
+	  - Code civil - art. 2503 (VD)
+
+	**Cite**:
+
+	  - Code civil 711 à 832-2, 832-4 à 2283, 2298 à 2302
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-15
+
+
+###### Article 2298
+
+Ne sont pas applicables à Mayotte les dispositions du cinquième alinéa de l'article 832 et celles des deuxième, troisième et
+cinquième alinéas de l'article 832-2.
+
+**Liens relatifs à cet article**
+
+	**Transféré par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 1 () JORF 24 mars 2006
+
+	**Cité par**:
+
+	  - Arrêté du 6 janvier 2011 - art. (V)
+	  - Code de commerce - art. L814-3 (V)
+	  - Code de la consommation - art. L313-8 (VT)
+	  - Code de la consommation - art. L314-16 (VD)
+	  - Code de la consommation - art. L331-2 (VD)
+	  - Code de la consommation - art. L341-3 (VT)
+	  - Code du travail - art. D3154-4 (V)
+	  - Code du travail - art. R124-16 (VT)
+	  - Code du travail - art. R1251-19 (VD)
+	  - Code du travail - art. R7123-28 (VD)
+	  - Décret n°55-604 du 20 mai 1955 - art. 12 (V)
+
+	**Anciens textes**:
+
+	  - Code civil - art. 2021 (T)
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2504 (Ab)
+	  - Code civil - art. 2504 (M)
+
+	**Cite**:
+
+	  - Code civil 832 al. 5, 832-2 al. 2, al. 3 et al. 5
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-15
+
+
+###### Article 2299
+
+Pour l'application à Mayotte du premier alinéa de l'article 832-4, les mots : "832, 832-1, 832-2 et 832-3" sont remplacés par
+les mots :
+
+"832, 832-1 et 832-2".
+
+Pour l'application du deuxième alinéa de cet article, les mots :
+
+"832, 832-2 et 832-3" sont remplacés par les mots : "832 et 832-2".
+
+**Liens relatifs à cet article**
+
+	**Transféré par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 1 () JORF 24 mars 2006
+
+	**Anciens textes**:
+
+	  - Code civil - art. 2022 (T)
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2505 (M)
+	  - Code civil - art. 2505 (V)
+
+	**Cite**:
+
+	  - Code civil - art. 832-4 (M)
+
+	**Cité par**:
+
+	  - Code du travail - art. R124-16 (VT)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-15
+
+
+###### Article 2300
+
+A l'article 1069, les mots : "suivant les prescriptions des articles 2148 et 2149, deuxième alinéa, du présent code" sont
+remplacés par les mots : "suivant les règles applicables localement en matière d'inscription de privilèges et hypothèques".
+
+**Liens relatifs à cet article**
+
+	**Transféré par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 1 () JORF 24 mars 2006
+
+	**Cite**:
+
+	  - Code civil - art. 1069 (M)
+
+	**Anciens textes**:
+
+	  - Code civil - art. 2023 (T)
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2506 (Ab)
+
+	**Cité par**:
+
+	  - Code du travail - art. R124-16 (VT)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-15
+
+
+###### Article 2301
+
+Pour l'application à Mayotte de l'article 1873-13, les mots : "832 à 832-3" sont remplacés par les mots : "832 à 832-2".
+
+**Liens relatifs à cet article**
+
+	**Transféré par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 1 () JORF 24 mars 2006
+
+	**Cite**:
+
+	  - Code civil - art. 1873-13 (M)
+
+	**Anciens textes**:
+
+	  - Code civil - art. 2024 (T)
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2507 (M)
+	  - Code civil - art. 2507 (V)
+
+	**Cité par**:
+
+	  - Code du travail - art. R124-16 (VT)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-15
+
+
+###### Article 2302
+
+Les dispositions des titres XVII, XVIII et XIX du livre III sont applicables à Mayotte telles qu'aménagées par les
+dispositions du décret du 4 février 1911 portant réorganisation du régime de la propriété foncière à Madagascar, modifié par
+le décret du 6 mai 1916, et du décret du 9 juin 1931 portant réorganisation du régime de la propriété foncière dans
+l'archipel des Comores et suppression de la conservation des hypothèques de Dzaoudzi.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code civil - art. 2025 (T)
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2508 (AbD)
+	  - Code civil - art. 2508 (VD)
+
+	**Cite**:
+
+	  - Décret n°1911-02-04
+	  - Décret n°1916-05-06
+	  - Décret n°1931-06-09
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-15
+
+	**Transféré par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 1 () JORF 24 mars 2006
 
 

@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1804-03-16
+Version Consolidée au 1804-03-17
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -16550,6 +16550,354 @@ d'entretien ou par le vice de sa construction.
 
 ## Titre V : Du contrat de mariage et des régimes matrimoniaux
 
+### Chapitre II : Du régime en communauté
+
+#### Première partie : De la communauté légale
+
+##### Section III : De la dissolution de la communauté
+
+##### Paragraphe I : Des causes de la dissolution et de la séparation des biens.
+
+###### Article 1452
+
+(article abrogé).
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+	**Codifié par**:
+
+	  - Loi n°65-570 1965-07-13
+
+	**Abrogé par**:
+
+	  - Loi n°65-570 du 13 juillet 1965 - art. 2 () JORF 14 juillet 1965 en vigueur le 1er février 1966
+
+
+###### Article 1453
+
+(article abrogé).
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+	**Codifié par**:
+
+	  - Loi n°65-570 1965-07-13
+
+	**Abrogé par**:
+
+	  - Loi n°65-570 du 13 juillet 1965 - art. 2 () JORF 14 juillet 1965 en vigueur le 1er février 1966
+
+	**Cité par**:
+
+	  - Ordonnance n°2002-1476 du 19 décembre 2002 - art. 10 (VD)
+
+
+###### Article 1454
+
+(article abrogé).
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+	**Codifié par**:
+
+	  - Loi n°65-570 1965-07-13
+
+	**Abrogé par**:
+
+	  - Loi n°65-570 du 13 juillet 1965 - art. 2 () JORF 14 juillet 1965 en vigueur le 1er février 1966
+
+
+###### Article 1455
+
+(article abrogé).
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+	**Codifié par**:
+
+	  - Loi n°65-570 1965-07-13
+
+	**Abrogé par**:
+
+	  - Loi n°65-570 du 13 juillet 1965 - art. 2 () JORF 14 juillet 1965 en vigueur le 1er février 1966
+
+
+###### Article 1456
+
+(article abrogé).
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+	**Codifié par**:
+
+	  - Loi n°65-570 1965-07-13
+
+	**Abrogé par**:
+
+	  - Loi n°65-570 du 13 juillet 1965 - art. 2 () JORF 14 juillet 1965 en vigueur le 1er février 1966
+
+
+###### Article 1457
+
+(article abrogé).
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+	**Codifié par**:
+
+	  - Loi n°65-570 1965-07-13
+
+	**Abrogé par**:
+
+	  - Loi n°65-570 du 13 juillet 1965 - art. 2 () JORF 14 juillet 1965 en vigueur le 1er février 1966
+
+
+###### Article 1458
+
+(article abrogé).
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+	**Codifié par**:
+
+	  - Loi n°65-570 1965-07-13
+
+	**Abrogé par**:
+
+	  - Loi n°65-570 du 13 juillet 1965 - art. 2 () JORF 14 juillet 1965 en vigueur le 1er février 1966
+
+
+###### Article 1459
+
+(article abrogé).
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+	**Codifié par**:
+
+	  - Loi n°65-570 1965-07-13
+
+	**Abrogé par**:
+
+	  - Loi n°65-570 du 13 juillet 1965 - art. 2 () JORF 14 juillet 1965 en vigueur le 1er février 1966
+
+
+###### Article 1460
+
+(article abrogé).
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+	**Codifié par**:
+
+	  - Loi n°65-570 1965-07-13
+
+	**Abrogé par**:
+
+	  - Loi n°65-570 du 13 juillet 1965 - art. 2 () JORF 14 juillet 1965 en vigueur le 1er février 1966
+
+
+###### Article 1461
+
+(article abrogé).
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+	**Codifié par**:
+
+	  - Loi n°65-570 1965-07-13
+
+	**Abrogé par**:
+
+	  - Loi n°65-570 du 13 juillet 1965 - art. 2 () JORF 14 juillet 1965 en vigueur le 1er février 1966
+
+
+###### Article 1462
+
+(article abrogé).
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+	**Codifié par**:
+
+	  - Loi n°65-570 1965-07-13
+
+	**Abrogé par**:
+
+	  - Loi n°65-570 du 13 juillet 1965 - art. 2 () JORF 14 juillet 1965 en vigueur le 1er février 1966
+
+
+###### Article 1463
+
+(article abrogé).
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+	**Codifié par**:
+
+	  - Loi n°65-570 1965-07-13
+
+	**Abrogé par**:
+
+	  - Loi n°65-570 du 13 juillet 1965 - art. 2 () JORF 14 juillet 1965 en vigueur le 1er février 1966
+
+
+###### Article 1464
+
+(article abrogé).
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+	**Codifié par**:
+
+	  - Loi n°65-570 1965-07-13
+
+	**Abrogé par**:
+
+	  - Loi n°65-570 du 13 juillet 1965 - art. 2 () JORF 14 juillet 1965 en vigueur le 1er février 1966
+
+
+###### Article 1465
+
+(article abrogé).
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+	**Codifié par**:
+
+	  - Loi n°65-570 1965-07-13
+
+	**Abrogé par**:
+
+	  - Loi n°65-570 du 13 juillet 1965 - art. 2 () JORF 14 juillet 1965 en vigueur le 1er février 1966
+
+
+###### Article 1466
+
+(article abrogé).
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+	**Codifié par**:
+
+	  - Loi n°65-570 1965-07-13
+
+	**Abrogé par**:
+
+	  - Loi n°65-570 du 13 juillet 1965 - art. 2 () JORF 14 juillet 1965 en vigueur le 1er février 1966
+
+
+#### Deuxième partie : De la communauté conventionnelle.
+
+##### Section IV : Du préciput.
+
+###### Article 1517
+
+(article abrogé).
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+	**Codifié par**:
+
+	  - Loi n°65-570 1965-07-13
+
+
+##### Section V : De la stipulation de parts inégales.
+
+###### Article 1522
+
+(article abrogé).
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+	**Codifié par**:
+
+	  - Loi n°65-570 1965-07-13
+
+
+###### Article 1523
+
+(article abrogé).
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+	**Codifié par**:
+
+	  - Loi n°65-570 1965-07-13
+
+
 ### Chapitre II : Régimes en communauté
 
 #### Première partie : Communauté légale
@@ -16627,6 +16975,511 @@ d'entretien ou par le vice de sa construction.
 	**Créé par**:
 
 	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+	**Codifié par**:
+
+	  - Loi n°65-570 1965-07-13
+
+
+### Chapitre II : Des régimes en communauté
+
+#### Dispositions communes aux deux parties du chapitre II.
+
+###### Article 1528
+
+(article abrogé).
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+	**Codifié par**:
+
+	  - Loi n°65-570 1965-07-13
+
+
+###### Article 1529
+
+(article abrogé).
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+	**Codifié par**:
+
+	  - Loi n°65-570 1965-07-13
+
+
+###### Article 1530
+
+(article abrogé).
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+	**Codifié par**:
+
+	  - Loi n°65-570 1965-07-13
+
+
+###### Article 1531
+
+(article abrogé).
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+	**Codifié par**:
+
+	  - Loi n°65-570 1965-07-13
+
+
+###### Article 1532
+
+(article abrogé).
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+	**Codifié par**:
+
+	  - Loi n°65-570 1965-07-13
+
+
+###### Article 1533
+
+(article abrogé).
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+	**Codifié par**:
+
+	  - Loi n°65-570 1965-07-13
+
+
+###### Article 1534
+
+(article abrogé).
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+	**Codifié par**:
+
+	  - Loi n°65-570 1965-07-13
+
+
+###### Article 1535
+
+(article abrogé).
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+	**Codifié par**:
+
+	  - Loi n°65-570 1965-07-13
+
+
+### Chapitre III : Du régime de séparation de biens.
+
+###### Article 1544
+
+(article abrogé).
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+	**Codifié par**:
+
+	  - Loi n°65-570 1965-07-13
+
+
+###### Article 1545
+
+(article abrogé).
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+	**Codifié par**:
+
+	  - Loi n°65-570 1965-07-13
+
+
+###### Article 1546
+
+(article abrogé).
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+	**Codifié par**:
+
+	  - Loi n°65-570 1965-07-13
+
+
+###### Article 1547
+
+(article abrogé).
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+	**Codifié par**:
+
+	  - Loi n°65-570 1965-07-13
+
+
+###### Article 1548
+
+(article abrogé).
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+	**Codifié par**:
+
+	  - Loi n°65-570 1965-07-13
+
+
+###### Article 1549
+
+(article abrogé).
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+	**Codifié par**:
+
+	  - Loi n°65-570 1965-07-13
+
+
+###### Article 1550
+
+(article abrogé).
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+	**Codifié par**:
+
+	  - Loi n°65-570 1965-07-13
+
+
+###### Article 1551
+
+(article abrogé).
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+	**Codifié par**:
+
+	  - Loi n°65-570 1965-07-13
+
+
+###### Article 1552
+
+(article abrogé).
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+	**Codifié par**:
+
+	  - Loi n°65-570 1965-07-13
+
+
+###### Article 1553
+
+(article abrogé).
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+	**Codifié par**:
+
+	  - Loi n°65-570 1965-07-13
+
+
+###### Article 1554
+
+(article abrogé).
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+	**Codifié par**:
+
+	  - Loi n°65-570 1965-07-13
+
+
+###### Article 1555
+
+(article abrogé).
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+	**Codifié par**:
+
+	  - Loi n°65-570 1965-07-13
+
+
+###### Article 1556
+
+(article abrogé).
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+	**Codifié par**:
+
+	  - Loi n°65-570 1965-07-13
+
+
+###### Article 1557
+
+(article abrogé).
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+	**Codifié par**:
+
+	  - Loi n°65-570 1965-07-13
+
+
+###### Article 1558
+
+(article abrogé).
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+	**Codifié par**:
+
+	  - Loi n°65-570 1965-07-13
+
+
+###### Article 1559
+
+(article abrogé).
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+	**Codifié par**:
+
+	  - Loi n°65-570 1965-07-13
+
+
+###### Article 1560
+
+(article abrogé).
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+	**Codifié par**:
+
+	  - Loi n°65-570 1965-07-13
+
+
+###### Article 1561
+
+(article abrogé).
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code civil - art. 2255 (Ab)
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+	**Codifié par**:
+
+	  - Loi n°65-570 1965-07-13
+
+
+###### Article 1562
+
+(article abrogé).
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+	**Codifié par**:
+
+	  - Loi n°65-570 1965-07-13
+
+
+###### Article 1563
+
+(article abrogé).
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+	**Codifié par**:
+
+	  - Loi n°65-570 1965-07-13
+
+
+###### Article 1564
+
+(article abrogé).
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+	**Codifié par**:
+
+	  - Loi n°65-570 1965-07-13
+
+
+###### Article 1565
+
+(article abrogé).
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+	**Codifié par**:
+
+	  - Loi n°65-570 1965-07-13
+
+
+###### Article 1566
+
+(article abrogé).
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+	**Codifié par**:
+
+	  - Loi n°65-570 1965-07-13
+
+
+###### Article 1567
+
+(article abrogé).
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+	**Codifié par**:
+
+	  - Loi n°65-570 1965-07-13
+
+
+###### Article 1568
+
+(article abrogé).
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
 
 	**Codifié par**:
 
@@ -18925,6 +19778,2165 @@ La disposition portée en l'article 1699 cesse :
 	**Créé par**:
 
 	  - Loi n°1804-03-06 promulguée le 16 mars 1804
+
+
+## Titre VII : De l'échange
+
+###### Article 1702
+
+L'échange est un contrat par lequel les parties se donnent respectivement une chose pour une autre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-07
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+
+###### Article 1703
+
+L'échange s'opère par le seul consentement, de la même manière que la vente.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-07
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+
+###### Article 1704
+
+Si l'un des copermutants a déjà reçu la chose à lui donnée en échange, et qu'il prouve ensuite que l'autre contractant n'est
+pas propriétaire de cette chose, il ne peut pas être forcé à livrer celle qu'il a promise en contre-échange, mais seulement à
+rendre celle qu'il a reçue.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code du domaine de l'Etat - art. L44 (Ab)
+	  - Code du domaine de l'Etat et des collectivités pub - art. L221-7 (Ab)
+	  - Code général de la propriété des personnes publ... - art. L1212-8 (V)
+	  - Code général de la propriété des personnes publ... - art. L3222-1 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-07
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+
+###### Article 1705
+
+Le copermutant qui est évincé de la chose qu'il a reçue en échange a le choix de conclure à des dommages et intérêts ou de
+répéter sa chose.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code du domaine de l'Etat - art. L44 (Ab)
+	  - Code du domaine de l'Etat et des collectivités pub - art. L221-7 (Ab)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-07
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+
+###### Article 1706
+
+La rescision pour cause de lésion n'a pas lieu dans le contrat d'échange.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-07
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+
+###### Article 1707
+
+Toutes les autres règles prescrites pour le contrat de vente s'appliquent d'ailleurs à l'échange.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°2008-1484 du 22 décembre 2008 - art. Annexe 1 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-07
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+
+## Titre VIII : Du contrat de louage
+
+### Chapitre Ier : Dispositions générales.
+
+###### Article 1708
+
+Il y a deux sortes de contrats de louage :
+
+Celui des choses,
+
+Et celui d'ouvrage.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°2017-688 du 28 avril 2017 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-07
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+
+###### Article 1709
+
+Le louage des choses est un contrat par lequel l'une des parties s'oblige à faire jouir l'autre d'une chose pendant un
+certain temps, et moyennant un certain prix que celle-ci s'oblige de lui payer.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code de commerce - art. L239-1 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-07
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+
+###### Article 1710
+
+Le louage d'ouvrage est un contrat par lequel l'une des parties s'engage à faire quelque chose pour l'autre, moyennant un
+prix convenu entre elles.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-07
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+
+###### Article 1711
+
+Ces deux genres de louage se subdivisent encore en plusieurs espèces particulières :
+
+On appelle "bail à loyer", le louage des maisons et celui des meubles ;
+
+"Bail à ferme", celui des héritages ruraux ;
+
+"Loyer", le louage du travail ou du service ;
+
+"Bail à cheptel", celui des animaux dont le profit se partage entre le propriétaire et celui à qui il les confie.
+
+Les devis, marché ou prix fait, pour l'entreprise d'un ouvrage moyennant un prix déterminé, sont aussi un louage, lorsque la
+matière est fournie par celui pour qui l'ouvrage se fait.
+
+Ces trois dernières espèces ont des règles particulières.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-07
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+
+###### Article 1712
+
+Les baux des biens nationaux, des biens des communes et des établissements publics sont soumis à des règlements particuliers.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-07
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+
+### Chapitre II : Du louage des choses.
+
+###### Article 1713
+
+On peut louer toutes sortes de biens meubles ou immeubles.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-07
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+
+#### Section 1 : Des règles communes aux baux des maisons et des biens ruraux.
+
+###### Article 1715
+
+Si le bail fait sans écrit n'a encore reçu aucune exécution, et que l'une des parties le nie, la preuve ne peut être reçue
+par témoins, quelque modique qu'en soit le prix, et quoiqu'on allègue qu'il y a eu des arrhes données.
+
+Le serment peut seulement être déféré à celui qui nie le bail.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-07
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+
+###### Article 1716
+
+Lorsqu'il y aura contestation sur le prix du bail verbal dont l'exécution a commencé, et qu'il n'existera point de quittance,
+le propriétaire en sera cru sur son serment, si mieux n'aime le locataire demander l'estimation par experts ; auquel cas les
+frais de l'expertise restent à sa charge, si l'estimation excède le prix qu'il a déclaré.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-07
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+
+###### Article 1717
+
+Le preneur a le droit de sous-louer, et même de céder son bail à un autre, si cette faculté ne lui a pas été interdite.
+
+Elle peut être interdite pour le tout ou partie.
+
+Cette clause est toujours de rigueur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-07
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+	**Cité par**:
+
+	  - Loi n°48-1360 du 1 septembre 1948 - art. 78 (V)
+	  - Code rural - art. L411-35 (V)
+	  - Code rural - art. L461-10 (VD)
+	  - Code rural - art. L461-7 (VT)
+
+
+###### Article 1720
+
+Le bailleur est tenu de délivrer la chose en bon état de réparations de toute espèce.
+
+Il doit y faire, pendant la durée du bail, toutes les réparations qui peuvent devenir nécessaires, autres que les locatives.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°62-367 du 26 mars 1962 - art. 55 (V)
+	  - Code de la construction et de l'habitation. - art. Annexe 1 au III art R353-159 (V)
+	  - Code de la construction et de l'habitation. - art. R353-158 (V)
+	  - Code de la construction et de l'habitation. - art. R353-165-4 (Ab)
+	  - Code de la défense. - art. R2234-47 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-07
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+
+###### Article 1721
+
+Il est dû garantie au preneur pour tous les vices ou défauts de la chose louée qui en empêchent l'usage, quand même le
+bailleur ne les aurait pas connus lors du bail.
+
+S'il résulte de ces vices ou défauts quelque perte pour le preneur, le bailleur est tenu de l'indemniser.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°82-526 du 22 juin 1982 - art. 19 (Ab)
+	  - Loi n°86-1290 du 23 décembre 1986 - art. 6 (Ab)
+	  - Loi n°89-462 du 6 juillet 1989 - art. 6 (V)
+	  - Code de la construction et de l'habitation. - art. Annexe 1 au III art R353-159 (V)
+	  - Code de la construction et de l'habitation. - art. R353-158 (V)
+	  - Code de la construction et de l'habitation. - art. R353-165-4 (Ab)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-07
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+
+###### Article 1722
+
+Si, pendant la durée du bail, la chose louée est détruite en totalité par cas fortuit, le bail est résilié de plein droit ;
+si elle n'est détruite qu'en partie, le preneur peut, suivant les circonstances, demander ou une diminution du prix, ou la
+résiliation même du bail. Dans l'un et l'autre cas, il n'y a lieu à aucun dédommagement.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°1933-11-21 du 21 novembre 1933 - art. 7 (Ab)
+	  - Décret n°1928-04-07 du 7 avril 1928 - art. 11 (Ab)
+	  - Loi n°48-1360 du 1 septembre 1948 - art. 70 (V)
+	  - Loi n°49-1096 du 2 août 1949 - art. 1 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-07
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+
+###### Article 1723
+
+Le bailleur ne peut, pendant la durée du bail, changer la forme de la chose louée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-07
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+	**Cité par**:
+
+	  - Loi n°48-1360 du 1 septembre 1948 - art. 14 (V)
+
+
+###### Article 1724
+
+Si, durant le bail, la chose louée a besoin de réparations urgentes et qui ne puissent être différées jusqu'à sa fin, le
+preneur doit les souffrir, quelque incommodité qu'elles lui causent, et quoiqu'il soit privé, pendant qu'elles se font, d'une
+partie de la chose louée.
+
+Mais, si ces réparations durent plus de quarante jours, le prix du bail sera diminué à proportion du temps et de la partie de
+la chose louée dont il aura été privé.
+
+Si les réparations sont de telle nature qu'elles rendent inhabitable ce qui est nécessaire au logement du preneur et de sa
+famille, celui-ci pourra faire résilier le bail.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°67-561 du 12 juillet 1967 - art. 2 (V)
+	  - Loi n°82-526 du 22 juin 1982 - art. 18 (Ab)
+	  - Loi n°86-1290 du 23 décembre 1986 - art. 7 (Ab)
+	  - Loi n°89-462 du 6 juillet 1989 - art. 7 (V)
+	  - Code de l'urbanisme - art. L314-4 (V)
+	  - Code de la construction et de l'habitation. - art. Annexe III à l'article R353-190 (V)
+	  - Code de la construction et de l'habitation. - art. Annexe III à l'article R353-32 (V)
+	  - Code de la construction et de l'habitation. - art. L521-2 (V)
+	  - Code de la construction et de l'habitation. - art. L521-3 (T)
+	  - Code de la construction et de l'habitation. - art. L521-3-1 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-07
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+
+###### Article 1725
+
+Le bailleur n'est pas tenu de garantir le preneur du trouble que des tiers apportent par voies de fait à sa jouissance, sans
+prétendre d'ailleurs aucun droit sur la chose louée ; sauf au preneur à les poursuivre en son nom personnel.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-07
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+
+###### Article 1726
+
+Si, au contraire, le locataire ou le fermier ont été troublés dans leur jouissance par suite d'une action concernant la
+propriété du fonds, ils ont droit à une diminution proportionnée sur le prix du bail à loyer ou à ferme, pourvu que le
+trouble et l'empêchement aient été dénoncés au propriétaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-07
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+
+###### Article 1727
+
+Si ceux qui ont commis les voies de fait, prétendent avoir quelque droit sur la chose louée, ou si le preneur est lui-même
+cité en justice pour se voir condamner au délaissement de la totalité ou de partie de cette chose, ou à souffrir l'exercice
+de quelque servitude, il doit appeler le bailleur en garantie, et doit être mis hors d'instance, s'il l'exige, en nommant le
+bailleur pour lequel il possède.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-07
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+
+###### Article 1728
+
+Le preneur est tenu de deux obligations principales :
+
+1° D'user de la chose louée en bon père de famille, et suivant la destination qui lui a été donnée par le bail, ou suivant
+celle présumée d'après les circonstances, à défaut de convention ;
+
+2° De payer le prix du bail aux termes convenus.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. Annexe 1 au III art R353-159 (V)
+	  - Code de la construction et de l'habitation. - art. Annexe III à l'article R353-190 (V)
+	  - Code de la construction et de l'habitation. - art. Annexe III à l'article R353-32 (V)
+	  - Code de la construction et de l'habitation. - art. L322-3 (Ab)
+	  - Code de la construction et de l'habitation. - art. L353-6 (V)
+	  - Code de la construction et de l'habitation. - art. R353-133 (V)
+	  - Code de la construction et de l'habitation. - art. R353-18 (M)
+	  - Code de la construction et de l'habitation. - art. R353-39 (V)
+	  - Code de la construction et de l'habitation. - art. R353-71 (M)
+	  - Code de la construction et de l'habitation. - art. R353-98 (M)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-07
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+
+###### Article 1729
+
+Si le preneur emploie la chose louée à un autre usage que celui auquel elle a été destinée, ou dont il puisse résulter un
+dommage pour le bailleur, celui-ci peut, suivant les circonstances, faire résilier le bail.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-07
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+
+###### Article 1730
+
+S'il a été fait un état des lieux entre le bailleur et le preneur, celui-ci doit rendre la chose telle qu'il l'a reçue,
+suivant cet état, excepté ce qui a péri ou a été dégradé par vétusté ou force majeure.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-07
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+
+###### Article 1731
+
+S'il n'a pas été fait d'état des lieux, le preneur est présumé les avoir reçus en bon état de réparations locatives, et doit
+les rendre tels, sauf la preuve contraire.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°82-526 du 22 juin 1982 - art. 21 (Ab)
+	  - Loi n°86-1290 du 23 décembre 1986 - art. 3 (Ab)
+	  - Loi n°89-462 du 6 juillet 1989 - art. 3-2 (V)
+	  - Loi n°89-462 du 6 juillet 1989 - art. 3 (V)
+	  - Code de commerce - art. L145-40-1 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-07
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+
+###### Article 1732
+
+Il répond des dégradations ou des pertes qui arrivent pendant sa jouissance, à moins qu'il ne prouve qu'elles ont eu lieu
+sans sa faute.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°1933-11-21 du 21 novembre 1933 - art. 8 (Ab)
+	  - Décret n°91-88 du 23 janvier 1991 - art. 9 (V)
+	  - Décret n°1928-04-07 du 7 avril 1928 - art. 12 (Ab)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-07
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+
+###### Article 1733
+
+Il répond de l'incendie, à moins qu'il ne prouve :
+
+Que l'incendie est arrivé par cas fortuit ou force majeure, ou par vice de construction.
+
+Ou que le feu a été communiqué par une maison voisine.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°1924-06-01 du 1 juin 1924 - art. 72 (V)
+	  - Ordonnance n°59-63 du 6 janvier 1959 - art. 20 (Ab)
+	  - Arrêté du 18 janvier 1977 - art. ANNEXE III (V)
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
+	  - Code civil - art. 1242 (V)
+	  - Code civil - art. 1384 (V)
+	  - Code de la défense. - art. L2234-17 (V)
+	  - Code des assurances - art. L121-13 (VD)
+	  - Code rural - art. L451-8 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-07
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+
+###### Article 1735
+
+Le preneur est tenu des dégradations et des pertes qui arrivent par le fait des personnes de sa maison ou de ses sous-
+locataires.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°1933-11-21 du 21 novembre 1933 - art. 8 (Ab)
+	  - Décret n°1928-04-07 du 7 avril 1928 - art. 12 (Ab)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-07
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+
+###### Article 1736
+
+Si le bail a été fait sans écrit, l'une des parties ne pourra donner congé à l'autre qu'en observant les délais fixés par
+l'usage des lieux.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°53-960 du 30 septembre 1953 - art. 5 (Ab)
+	  - Décret n°2016-230 du 26 février 2016 - art.
+	  - Code de commerce - art. Annexe 4-9 (V)
+	  - Code de commerce - art. L145-9 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-07
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+
+###### Article 1737
+
+Le bail cesse de plein droit à l'expiration du terme fixé, lorsqu'il a été fait par écrit, sans qu'il soit nécessaire de
+donner congé.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°53-960 du 30 septembre 1953 - art. 5 (Ab)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-07
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+
+###### Article 1738
+
+Si, à l'expiration des baux écrits, le preneur reste et est laissé en possession, il s'opère un nouveau bail dont l'effet est
+réglé par l'article relatif aux locations faites sans écrit.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°53-960 du 30 septembre 1953 - art. 5 (Ab)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-07
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+
+###### Article 1739
+
+Lorsqu'il y a un congé signifié, le preneur quoiqu'il ait continué sa jouissance, ne peut invoquer la tacite reconduction.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-07
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+
+###### Article 1740
+
+Dans le cas des deux articles précédents, la caution donnée pour le bail ne s'étend pas aux obligations résultant de la
+prolongation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-07
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+
+###### Article 1741
+
+Le contrat de louage se résout par la perte de la chose louée, et par le défaut respectif du bailleur et du preneur de
+remplir leurs engagements.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-07
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+	**Cité par**:
+
+	  - Loi n°48-1360 du 1 septembre 1948 - art. 70 (V)
+	  - Loi n°49-1096 du 2 août 1949 - art. 1 (V)
+
+
+###### Article 1742
+
+Le contrat de louage n'est point résolu par la mort du bailleur ni par celle du preneur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-07
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+	**Cité par**:
+
+	  - Loi n°48-1360 du 1 septembre 1948 - art. 5 (V)
+
+
+###### Article 1745
+
+S'il s'agit d'une maison, appartement ou boutique, le bailleur paye, à titre de dommages et intérêts, au locataire évincé,
+une somme égale au prix du loyer, pendant le temps qui, suivant l'usage des lieux, est accordé entre le congé et la sortie.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-07
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+
+###### Article 1746
+
+S'il s'agit de biens ruraux, l'indemnité que le bailleur doit payer au fermier est du tiers du prix du bail pour tout le
+temps qui reste à courir.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-07
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+
+###### Article 1747
+
+L'indemnité se réglera par experts, s'il s'agit de manufactures, usines, ou autres établissements qui exigent de grandes
+avances.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-07
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+
+###### Article 1750
+
+Si le bail n'est pas fait par acte authentique, ou n'a point de date certaine, l'acquéreur n'est tenu d'aucuns dommages et
+intérêts.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-07
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+
+#### Section 2 : Des règles particulières aux baux à loyer.
+
+###### Article 1752
+
+Le locataire qui ne garnit pas la maison de meubles suffisants, peut être expulsé, à moins qu'il ne donne des sûretés
+capables de répondre du loyer.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°1933-11-21 du 21 novembre 1933 - art. 7 (Ab)
+	  - Décret n°1928-04-07 du 7 avril 1928 - art. 11 (Ab)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-07
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+
+###### Article 1753
+
+Le sous-locataire n'est tenu envers le propriétaire que jusqu'à concurrence du prix de sa sous-location dont il peut être
+débiteur au moment de la saisie, et sans qu'il puisse opposer des paiements faits par anticipation.
+
+Les paiements faits par le sous-locataire, soit en vertu d'une stipulation portée en son bail, soit en conséquence de l'usage
+des lieux, ne sont pas réputés faits par anticipation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-07
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+
+###### Article 1754
+
+Les réparations locatives ou de menu entretien dont le locataire est tenu, s'il n'y a clause contraire, sont celles désignées
+comme telles par l'usage des lieux, et, entre autres, les réparations à faire :
+
+Aux âtres, contre-coeurs, chambranles et tablettes de cheminées ;
+
+Au recrépiment du bas des murailles des appartements et autres lieux d'habitation à la hauteur d'un mètre ;
+
+Aux pavés et carreaux des chambres, lorsqu'il y en a seulement quelques-uns de cassés ;
+
+Aux vitres, à moins qu'elles ne soient cassées par la grêle ou autres accidents extraordinaires et de force majeure, dont le
+locataire ne peut être tenu ;
+
+Aux portes, croisées, planches de cloison ou de fermeture de boutiques, gonds, targettes et serrures.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°91-1158 du 8 novembre 1991 - art. ANNEXE (V)
+	  - Décret n°98-222 du 20 mars 1998 - art. ANNEXE (VD)
+	  - Décret n°2011-356 du 30 mars 2011 - art. 1
+	  - Code de la construction et de l'habitation. - art. Annexe 1 au III art R353-159 (V)
+	  - Code de la construction et de l'habitation. - art. Annexe III à l'article R353-190 (V)
+	  - Code de la construction et de l'habitation. - art. Annexe III à l'article R353-32 (V)
+	  - Code de la construction et de l'habitation. - art. R353-158 (V)
+	  - Code de la construction et de l'habitation. - art. R353-165-4 (Ab)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-07
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+
+###### Article 1755
+
+Aucune des réparations réputées locatives n'est à la charge des locataires quand elles ne sont occasionnées que par vétusté
+ou force majeure.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. Annexe 1 au III art R353-159 (V)
+	  - Code de la construction et de l'habitation. - art. R353-158 (V)
+	  - Code de la construction et de l'habitation. - art. R353-165-4 (Ab)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-07
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+
+###### Article 1756
+
+Le curement des puits et celui des fosses d'aisances sont à la charge du bailleur s'il n'y a clause contraire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-07
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+
+###### Article 1757
+
+Le bail des meubles fournis pour garnir une maison entière, un corps de logis entier, une boutique, ou tous autres
+appartements, est censé fait pour la durée ordinaire des baux de maison, corps de logis, boutiques ou autres appartements,
+selon l'usage des lieux.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°77-742 du 30 juin 1977 - art. 4 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-07
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+
+###### Article 1758
+
+Le bail d'un appartement meublé est censé fait à l'année, quand il a été fait à tant par an ;
+
+Au mois, quand il a été fait à tant par mois ;
+
+Au jour, quand il a été fait à tant par jour.
+
+Si rien ne constate que le bail soit fait à tant par an, par mois ou par jour, la location est censée faite suivant l'usage
+des lieux.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-07
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+
+###### Article 1759
+
+Si le locataire d'une maison ou d'un appartement continue sa jouissance après l'expiration du bail par écrit, sans opposition
+de la part du bailleur, il sera censé les occuper aux mêmes conditions, pour le terme fixé par l'usage des lieux, et ne
+pourra plus en sortir ni en être expulsé qu'après un congé donné suivant le délai fixé par l'usage des lieux.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-07
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+
+###### Article 1760
+
+En cas de résiliation par la faute du locataire, celui-ci est tenu de payer le prix du bail pendant le temps nécessaire à la
+relocation, sans préjudice des dommages et intérêts qui ont pu résulter de l'abus.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-07
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+
+###### Article 1761
+
+Le bailleur ne peut résoudre la location, encore qu'il déclare vouloir occuper par lui-même la maison louée, s'il n'y a eu
+convention contraire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-07
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+
+###### Article 1762
+
+S'il a été convenu, dans le contrat de louage, que le bailleur pourrait venir occuper la maison, il est tenu de signifier
+d'avance un congé aux époques déterminées par l'usage des lieux.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-07
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+
+#### Section 3 : Des règles particulières aux baux à ferme.
+
+###### Article 1763
+
+(article abrogé).
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-07
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+	**Abrogé par**:
+
+	  - Loi n°46-682 1946-04-13 JORF 14 avril 1946 rectificatif JORF 16, 24 avril
+
+
+###### Article 1764
+
+En cas de contravention, le propriétaire a droit de rentrer en jouissance, et le preneur est condamné aux dommages-intérêts
+résultant de l'inexécution du bail.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code civil - art. 1766 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-07
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+
+###### Article 1765
+
+Si, dans un bail à ferme, on donne aux fonds une contenance moindre ou plus grande que celle qu'ils ont réellement, il n'y a
+lieu à augmentation ou diminution de prix pour le fermier, que dans les cas et suivant les règles exprimées au titre "De la
+vente".
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code rural - art. L411-18 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-07
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+
+###### Article 1766
+
+Si le preneur d'un héritage rural ne le garnit pas des bestiaux et des ustensiles nécessaires à son exploitation, s'il
+abandonne la culture, s'il ne cultive pas en bon père de famille, s'il emploie la chose louée à un autre usage que celui
+auquel elle a été destinée, ou, en général, s'il n'exécute pas les clauses du bail, et qu'il en résulte un dommage pour le
+bailleur, celui-ci peut, suivant les circonstances, faire résilier le bail. 
+
+En cas de résiliation provenant du fait du preneur, celui-ci est tenu des dommages et intérêts, ainsi qu'il est dit en
+l'article 1764.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°1933-11-21 du 21 novembre 1933 - art. 7 (Ab)
+	  - Code rural - art. L411-29 (V)
+	  - Code rural et de la pêche maritime - art. L411-27 (V)
+	  - Décret n°1928-04-07 du 7 avril 1928 - art. 11 (Ab)
+
+	**Cite**:
+
+	  - Code civil - art. 1764 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-07
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+
+###### Article 1767
+
+Tout preneur de bien rural est tenu d'engranger dans les lieux à ce destinés d'après le bail.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code rural - art. L411-25 (Ab)
+	  - Code rural et de la pêche maritime - art. L411-27 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-07
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+
+###### Article 1768
+
+Le preneur d'un bien rural est tenu, sous peine de tous dépens, dommages et intérêts, d'avertir le propriétaire des
+usurpations qui peuvent être commises sur les fonds.
+
+Cet avertissement doit être donné dans le même délai que celui qui est réglé en cas d'assignation suivant la distance des
+lieux.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code rural - art. L411-26 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-07
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+
+###### Article 1769
+
+Si le bail est fait pour plusieurs années, et que, pendant la durée du bail, la totalité ou la moitié d'une récolte au moins
+soit enlevée par des cas fortuits, le fermier peut demander une remise du prix de sa location, à moins qu'il ne soit
+indemnisé par les récoltes précédentes.
+
+S'il n'est pas indemnisé, l'estimation de la remise ne peut avoir lieu qu'à la fin du bail, auquel temps il se fait une
+compensation de toutes les années de jouissance ;
+
+Et, cependant, le juge peut provisoirement dispenser le preneur de payer une partie du prix en raison de la perte soufferte.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code rural - art. L411-19 (Ab)
+	  - Code rural - art. L411-24 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-07
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+
+###### Article 1770
+
+Si le bail n'est que d'une année, et que la perte soit de la totalité des fruits, ou au moins de la moitié, le preneur sera
+déchargé d'une partie proportionnelle du prix de la location.
+
+Il ne pourra prétendre aucune remise si la perte est moindre de moitié.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code rural - art. L411-20 (Ab)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-07
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+
+###### Article 1771
+
+Le fermier ne peut obtenir de remise lorsque la perte des fruits arrive après qu'ils sont séparés de la terre, à moins que le
+bail ne donne au propriétaire une quotité de la récolte en nature, auquel cas le propriétaire doit supporter sa part de la
+perte, pourvu que le preneur ne fût pas en demeure de lui délivrer sa portion de récolte.
+
+Le fermier ne peut également demander une remise lorsque la cause du dommage  était existante et connue à l'époque où le bail
+a été passé.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code rural - art. L411-21 (Ab)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-07
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+
+###### Article 1772
+
+Le preneur peut être chargé des cas fortuits par une stipulation expresse.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code rural - art. L411-22 (Ab)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-07
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+
+###### Article 1773
+
+Cette stipulation ne s'entend que des cas fortuits ordinaires, tels que grêle, feu du ciel, gelée ou coulure.
+
+Elle ne s'entend pas des cas fortuits extraordinaires, tels que les ravages de la guerre, ou une inondation, auxquels le pays
+n'est pas ordinairement sujet, à moins que le preneur n'ait été chargé de tous les cas fortuits prévus ou imprévus.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code rural - art. L411-23 (Ab)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-07
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+
+###### Article 1774
+
+Le bail, sans écrit, d'un fonds rural, est censé fait pour le temps qui est nécessaire afin que le preneur recueille tous les
+fruits de l'héritage affermé.
+
+Ainsi le bail à ferme d'un pré, d'une vigne, et de tout autre fonds dont les fruits se recueillent en entier dans le cours de
+l'année, est censé fait pour un an.
+
+Le bail des terres labourables, lorsqu'elles se divisent par soles ou saisons, est censé fait pour autant d'années qu'il y a
+de soles.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code civil - art. 1775 (V)
+
+	**Cité par**:
+
+	  - Code civil - art. 1775 (V)
+	  - Code rural - art. L411-10 (Ab)
+	  - Code rural - art. L411-3 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-07
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+
+###### Article 1776
+
+(article abrogé).
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-07
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+	**Abrogé par**:
+
+	  - Ordonnance 45-2380 1945-10-17 JORF 18 octobre 1945 rectificatif JORF 30 octobre
+
+
+###### Article 1777
+
+Le fermier sortant doit laisser à celui qui lui succède dans la culture, les logements convenables et autres facilités pour
+les travaux de l'année suivante ; et réciproquement, le fermier entrant doit procurer à celui qui sort les logements
+convenables et autres facilités pour la consommation des fourrages, et pour les récoltes restant à faire.
+
+Dans l'un et l'autre cas, on doit se conformer à l'usage des lieux.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code rural - art. L415-1 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-07
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+
+###### Article 1778
+
+Le fermier sortant doit aussi laisser les pailles et engrais de l'année, s'il les a reçus lors de son entrée en jouissance ;
+et quand même il ne les aurait pas reçus, le propriétaire pourra les retenir suivant l'estimation.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code rural - art. L415-2 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-07
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+
+### Chapitre III : Du louage d'ouvrage et d'industrie.
+
+#### Section 1 : Du louage des domestiques et ouvriers.
+
+###### Article 1781
+
+(article abrogé).
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-07
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+
+#### Section 2 : Des voituriers par terre et par eau.
+
+###### Article 1782
+
+Les voituriers par terre et par eau sont assujettis, pour la garde et la conservation des choses qui leur sont confiées, aux
+mêmes obligations que les aubergistes, dont il est parlé au titre "Du dépôt et du séquestre".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-07
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+
+###### Article 1783
+
+Ils répondent non seulement de ce qu'ils ont déjà reçu dans leur bâtiment ou voiture, mais encore de ce qui leur a été remis
+sur le port ou dans l'entrepôt, pour être placé dans leur bâtiment ou voiture.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-07
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+
+###### Article 1784
+
+Ils sont responsables de la perte et des avaries des choses qui leur sont confiées, à moins qu'ils ne prouvent qu'elles ont
+été perdues et avariées par cas fortuit ou force majeure.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-07
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+
+###### Article 1785
+
+Les entrepreneurs de voitures publiques par terre et par eau, et ceux des roulages publics, doivent tenir registre de
+l'argent, des effets et des paquets dont ils se chargent.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-07
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+
+###### Article 1786
+
+Les entrepreneurs et directeurs de voitures et roulages publics, les maîtres de barques et navires, sont en outre assujettis
+à des règlements particuliers, qui font la loi entre eux et les autres citoyens.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-07
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+
+#### Section 3 : Des devis et des marchés.
+
+###### Article 1787
+
+Lorsqu'on charge quelqu'un de faire un ouvrage, on peut convenir qu'il fournira seulement son travail ou son industrie, ou
+bien qu'il fournira aussi la matière.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code de la propriété intellectuelle - art. L132-2 (VD)
+	  - Code de la propriété intellectuelle - art. L132-3 (VD)
+	  - Code du travail - art. L123-1 (M)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-07
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+
+###### Article 1788
+
+Si, dans le cas où l'ouvrier fournit la matière, la chose vient à périr, de quelque manière que ce soit, avant d'être livrée,
+la perte en est pour l'ouvrier, à moins que le maître ne fût en demeure de recevoir la chose.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-07
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+
+###### Article 1789
+
+Dans le cas où l'ouvrier fournit seulement son travail ou son industrie, si la chose vient à périr, l'ouvrier n'est tenu que
+de sa faute.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-07
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+
+###### Article 1790
+
+Si, dans le cas de l'article précédent la chose vient à périr, quoique sans aucune faute de la part de l'ouvrier, avant que
+l'ouvrage ait été reçu et sans que le maître fût en demeure de le vérifier, l'ouvrier n'a point de salaire à réclamer, à
+moins que la chose n'ait péri par le vice de la matière.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-07
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+
+###### Article 1791
+
+S'il s'agit d'un ouvrage à plusieurs pièces ou à la mesure, la vérification peut s'en faire par parties : elle est censée
+faite pour toutes les parties payées, si le maître paye l'ouvrier en proportion de l'ouvrage fait.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-07
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+
+###### Article 1793
+
+Lorsqu'un architecte ou un entrepreneur s'est chargé de la construction à forfait d'un bâtiment, d'après un plan arrêté et
+convenu avec le propriétaire du sol, il ne peut demander aucune augmentation de prix, ni sous le prétexte de l'augmentation
+de la main-d'oeuvre ou des matériaux, ni sous celui de changements ou d'augmentations faits sur ce plan, si ces changements
+ou augmentations n'ont pas été autorisés par écrit, et le prix convenu avec le propriétaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-07
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+
+###### Article 1794
+
+Le maître peut résilier, par sa seule volonté, le marché à forfait, quoique l'ouvrage soit déjà commencé, en dédommageant
+l'entrepreneur de toutes ses dépenses, de tous ses travaux, et de tout ce qu'il aurait pu gagner dans cette entreprise.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-07
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+
+###### Article 1795
+
+Le contrat de louage d'ouvrage est dissous par la mort de l'ouvrier, de l'architecte ou entrepreneur.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code civil 1796 *succession - obligations du propriétaire*
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-07
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+
+###### Article 1796
+
+Mais le propriétaire est tenu de payer en proportion du prix porté par la convention, à leur succession, la valeur des
+ouvrages faits et celle des matériaux préparés, lors seulement que ces travaux ou ces matériaux peuvent lui être utiles.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-07
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+
+###### Article 1797
+
+L'entrepreneur répond du fait des personnes qu'il emploie.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-07
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+
+###### Article 1798
+
+Les maçons, charpentiers et autres ouvriers qui ont été employés à la construction d'un bâtiment ou d'autres ouvrages faits à
+l'entreprise, n'ont d'action contre celui pour lequel les ouvrages ont été faits, que jusqu'à concurrence de ce dont il se
+trouve débiteur envers l'entrepreneur, au moment où leur action est intentée.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code du travail - art. L143-8 (AbD)
+	  - Code du travail - art. L3253-23 (V)
+	  - Loi n°52-1322 du 15 décembre 1952 - art. 103 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-07
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+
+###### Article 1799
+
+Les maçons, charpentiers, serruriers et autres ouvriers qui font directement des marchés à prix fait, sont astreints aux
+règles prescrites dans la présente section : ils sont entrepreneurs dans la partie qu'ils traitent.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-07
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+
+### Chapitre IV : Du bail à cheptel
+
+#### Section 1 : Dispositions générales.
+
+###### Article 1800
+
+Le bail à cheptel est un contrat par lequel l'une des parties donne à l'autre un fonds de bétail pour le garder, le nourrir
+et le soigner, sous les conditions convenues entre elles.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°2007-1516 du 22 octobre 2007 - art. 11 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-07
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+
+###### Article 1801
+
+Il y a plusieurs sortes de cheptels :
+
+Le cheptel simple ou ordinaire,
+
+Le cheptel à moitié,
+
+Le cheptel donné au fermier ou au colon partiaire.
+
+Il y a encore une quatrième espèce de contrat improprement appelée cheptel.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-07
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+
+###### Article 1802
+
+On peut donner à cheptel toute espèce d'animaux susceptibles de croît ou de profit pour l'agriculture ou le commerce.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-07
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+
+###### Article 1803
+
+A défaut de conventions particulières, ces contrats se règlent par les principes qui suivent.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-07
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+
+#### Section 2 : Du cheptel simple.
+
+###### Article 1804
+
+Le bail à cheptel simple est un contrat par lequel on donne à un autre des bestiaux à garder, nourrir et soigner, à condition
+que le preneur profitera de la moitié du croît, et qu'il supportera aussi la moitié de la perte.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-07
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+
+###### Article 1805
+
+L'état numératif, descriptif et estimatif des animaux remis, figurant au bail, n'en transporte pas la propriété au preneur.
+Il n'a d'autre objet que de servir de base au règlement à intervenir au jour où le contrat prend fin.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-07
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+
+###### Article 1806
+
+Le preneur doit les soins d'un bon père de famille à la conservation du cheptel.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-07
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+
+###### Article 1807
+
+Il n'est tenu du cas fortuit que lorsqu'il a été précédé de quelque faute de sa part, sans laquelle la perte ne serait pas
+arrivée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-07
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+
+###### Article 1808
+
+En cas de contestation, le preneur est tenu de prouver le cas fortuit, et le bailleur est tenu de prouver la faute qu'il
+impute au preneur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-07
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+
+###### Article 1809
+
+Le preneur qui est déchargé par le cas fortuit est toujours tenu de rendre compte des peaux des bêtes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-07
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+
+###### Article 1811
+
+On ne peut stipuler :
+
+Que le preneur supportera la perte totale du cheptel, quoique arrivée par cas fortuit et sans sa faute.
+
+Ou qu'il supportera, dans la perte, une part plus grande que dans le profit.
+
+Ou que le bailleur prélèvera, à la fin du bail, quelque chose de plus que le cheptel qu'il a fourni.
+
+Toute convention semblable est nulle.
+
+Le preneur profite seul des laitages, du fumier et du travail des animaux donnés à cheptel.
+
+La laine et le croît se partagent.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-07
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+
+###### Article 1812
+
+Le preneur ne peut disposer d'aucune bête du troupeau, soit du fonds, soit du croît, sans le consentement du bailleur, qui ne
+peut lui-même en disposer sans le consentement du preneur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-07
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+
+###### Article 1813
+
+Lorsque le cheptel est donné au fermier d'autrui, il doit être notifié au propriétaire de qui ce fermier tient ; sans quoi il
+peut le saisir et le faire vendre pour ce que son fermier lui doit.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-07
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+
+###### Article 1814
+
+Le preneur ne pourra tondre sans en prévenir le bailleur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-07
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+
+###### Article 1815
+
+S'il n'y a pas de temps fixé par la convention pour la durée du cheptel, il est censé fait pour trois ans.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-07
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+
+###### Article 1816
+
+Le bailleur peut en demander plus tôt la résolution si le preneur ne remplit pas ses obligations.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-07
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+
+#### Section 3 : Du cheptel à moitié.
+
+###### Article 1818
+
+Le cheptel à moitié est une société dans laquelle chacun des contractants fournit la moitié des bestiaux, qui demeurent
+communs pour le profit ou pour la perte.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-07
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+
+###### Article 1819
+
+Le preneur profite seul, comme dans le cheptel simple, des laitages, du fumier et des travaux des bêtes.
+
+Le bailleur n'a droit qu'à la moitié des laines et du croît.
+
+Toute convention contraire est nulle, à moins que le bailleur ne soit propriétaire de la métairie dont le preneur est fermier
+ou colon partiaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-07
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+
+###### Article 1820
+
+Toutes les autres règles du cheptel simple s'appliquent au cheptel à moitié.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-07
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+
+#### Section 4 : Du cheptel donné par le propriétaire à son fermier ou colon partiaire
+
+##### Paragraphe 1 : Du cheptel donné au fermier.
+
+###### Article 1823
+
+Tous les profits appartiennent au fermier pendant la durée de son bail, s'il n'y a convention contraire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-07
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+
+###### Article 1824
+
+Dans les cheptels donnés au fermier, le fumier n'est point dans les profits personnels des preneurs, mais appartient à la
+métairie, à l'exploitation de laquelle il doit être uniquement employé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-07
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+
+##### Paragraphe 2 : Du cheptel donné au colon partiaire.
+
+###### Article 1828
+
+On peut stipuler que le colon délaissera au bailleur sa part de la toison à un prix inférieur à la valeur ordinaire ;
+
+Que le bailleur aura une plus grande part du profit ;
+
+Qu'il aura la moitié des laitages ;
+
+Mais on ne peut pas stipuler que le colon sera tenu de toute la perte.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-07
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+
+###### Article 1829
+
+Ce cheptel finit avec le bail à métairie.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-07
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+
+###### Article 1830
+
+Il est d'ailleurs soumis à toutes les règles du cheptel simple.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-07
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+
+#### Section 5 : Du contrat improprement appelé cheptel.
+
+###### Article 1831
+
+Lorsqu'une ou plusieurs vaches sont données pour les loger et les nourrir, le bailleur en conserve la propriété : il a
+seulement le profit des veaux qui en naissent.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-07
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
 
 
 ## Titre XIV : Du cautionnement.

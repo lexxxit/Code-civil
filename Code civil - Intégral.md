@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 2004-06-01
+Version Consolidée au 2004-06-22
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -38782,6 +38782,78 @@ Une cause licite dans l'obligation.
 	  - Loi n°1804-02-07 promulguée le 17 février 1804
 
 
+###### Article 1108-1
+
+Lorsqu'un écrit est exigé pour la validité d'un acte juridique, il peut être établi et conservé sous forme électronique dans
+les conditions prévues aux articles 1316-1 et 1316-4 et, lorsqu'un acte authentique est requis, au second alinéa de l'article
+1317. 
+
+Lorsqu'est exigée une mention écrite de la main même de celui qui s'oblige, ce dernier peut l'apposer sous forme électronique
+si les conditions de cette apposition sont de nature à garantir qu'elle ne peut être effectuée que par lui-même.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°71-941 du 26 novembre 1971 - art. 17 (V)
+	  - Loi n°2004-575 du 21 juin 2004 - art. 26 (V)
+	  - Code civil - art. 1108-2 (Ab)
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2004-575 2004-06-21 art. 57, art. 58
+
+	**Créé par**:
+
+	  - Loi n°2004-575 du 21 juin 2004 - art. 25 () JORF 22 juin 2004
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
+
+	**Cite**:
+
+	  - Code civil - art. 1316-1 (Ab)
+	  - Code civil - art. 1316-4 (Ab)
+	  - Code civil - art. 1317 (V)
+
+
+###### Article 1108-2
+
+Il est fait exception aux dispositions de l'article 1108-1 pour : 
+
+1° Les actes sous seing privé relatifs au droit de la famille et des successions ; 
+
+2° Les actes sous seing privé relatifs à des sûretés personnelles ou réelles, de nature civile ou commerciale, sauf s'ils
+sont passés par une personne pour les besoins de sa profession.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2004-575 2004-06-21 art. 57, art. 58
+
+	**Créé par**:
+
+	  - Loi n°2004-575 du 21 juin 2004 - art. 25 () JORF 22 juin 2004
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
+
+	**Cite**:
+
+	  - Code civil - art. 1108-1 (Ab)
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+
 #### Section 1 : Du consentement.
 
 ###### Article 1109
@@ -44627,6 +44699,145 @@ Le juge doit même, en ce cas, déterminer la somme jusqu'à concurrence de laqu
 	**Créé par**:
 
 	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+### Chapitre VII : Des contrats sous forme électronique.
+
+###### Article 1369-1
+
+Quiconque propose, à titre professionnel, par voie électronique, la fourniture de biens ou la prestation de services, met à
+disposition les conditions contractuelles applicables d'une manière qui permette leur conservation et leur reproduction. Sans
+préjudice des conditions de validité mentionnées dans l'offre, son auteur reste engagé par elle tant qu'elle est accessible
+par voie électronique de son fait.
+
+L'offre énonce en outre :
+
+1° Les différentes étapes à suivre pour conclure le contrat par voie électronique ;
+
+2° Les moyens techniques permettant à l'utilisateur, avant la conclusion du contrat, d'identifier les erreurs commises dans
+la saisie des données et de les corriger ;
+
+3° Les langues proposées pour la conclusion du contrat ;
+
+4° En cas d'archivage du contrat, les modalités de cet archivage par l'auteur de l'offre et les conditions d'accès au contrat
+archivé ;
+
+5° Les moyens de consulter par voie électronique les règles professionnelles et commerciales auxquelles l'auteur de l'offre
+entend, le cas échéant, se soumettre.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2004-575 2004-06-21 art. 57, art. 58
+
+	**Créé par**:
+
+	  - Loi n°2004-575 du 21 juin 2004 - art. 25 () JORF 22 juin 2004
+
+	**Transféré par**:
+
+	  - Ordonnance n°2005-674 du 16 juin 2005 - art. 1 () JORF 17 juin 2005
+
+	**Cité par**:
+
+	  - Code civil - art. 1369-3 (M)
+	  - Code civil - art. 1369-9 (V)
+	  - Code du tourisme. - art. L211-1 (V)
+	  - Code du tourisme. - art. R211-3-1 (M)
+	  - Code du tourisme. - art. R211-6 (M)
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 1369-4 (V)
+	  - Code civil L1369-4
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+
+###### Article 1369-2
+
+Pour que le contrat soit valablement conclu, le destinataire de l'offre doit avoir eu la possibilité de vérifier le détail de
+sa commande et son prix total, et de corriger d'éventuelles erreurs, avant de confirmer celle-ci pour exprimer son
+acceptation.
+
+L'auteur de l'offre doit accuser réception sans délai injustifié et par voie électronique de la commande qui lui a été ainsi
+adressée.
+
+La commande, la confirmation de l'acceptation de l'offre et l'accusé de réception sont considérés comme reçus lorsque les
+parties auxquelles ils sont adressés peuvent y avoir accès.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2004-575 2004-06-21 art. 57, art. 58
+
+	**Créé par**:
+
+	  - Loi n°2004-575 du 21 juin 2004 - art. 25 () JORF 22 juin 2004
+
+	**Transféré par**:
+
+	  - Ordonnance n°2005-674 du 16 juin 2005 - art. 1 () JORF 17 juin 2005
+
+	**Cité par**:
+
+	  - Code civil - art. 1369-3 (M)
+	  - Code civil - art. 1369-9 (V)
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 1369-5 (V)
+	  - Code civil L1369-5
+
+
+###### Article 1369-3
+
+Il est fait exception aux obligations visées aux 1° à 5° de l'article 1369-1 et aux deux premiers alinéas de l'article 1369-2
+pour les contrats de fourniture de biens ou de prestation de services qui sont conclus exclusivement par échange de courriers
+électroniques.
+
+Il peut, en outre, être dérogé aux dispositions de l'article 1369-2 et des 1° à 5° de l'article 1369-1 dans les conventions
+conclues entre professionnels.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2004-575 2004-06-21 art. 57, art. 58
+
+	**Créé par**:
+
+	  - Loi n°2004-575 du 21 juin 2004 - art. 25 () JORF 22 juin 2004
+
+	**Transféré par**:
+
+	  - Ordonnance n°2005-674 du 16 juin 2005 - art. 1 () JORF 17 juin 2005
+
+	**Cite**:
+
+	  - Code civil - art. 1369-1 (M)
+	  - Code civil - art. 1369-2 (M)
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 1369-6 (V)
+	  - Code civil L1369-6
+
+	**Cité par**:
+
+	  - Code du tourisme. - art. L211-1 (V)
 
 
 ## Titre IV : Des engagements qui se forment sans convention

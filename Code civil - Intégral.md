@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1804-02-10
+Version Consolidée au 1804-02-17
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -2145,6 +2145,38 @@ l'enfant à qui il devra des aliments, devra dans ce cas être dispensé de paye
 	**Abrogé par**:
 
 	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+
+
+## Titre XI : De la majorité et des majeurs qui sont protégés par la loi.
+
+### Chapitre IV : Des majeurs en curatelle.
+
+###### Article 515
+
+(article abrogé).
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+	**Abrogé par**:
+
+	  - Loi n°68-5 du 3 janvier 1968 - art. 1 () JORF 4 janvier 1968 en vigueur le 1er novembre 1968
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 14 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 15 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 16 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 17 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 21 (V)
+	  - SPEC_APPLI: Loi n°68-696 1968-07-31 art. 14
 
 
 # Livre II : Des biens et des différentes modifications de la propriété
@@ -10951,5 +10983,5278 @@ jour de la donation, encore que ce dernier n'ait point survécu à son parent do
 	  - CODE GENERAL DES IMPOTS, CGI. - art. 751 (M)
 	  - CODE GENERAL DES IMPOTS, CGI. - art. 773 (M)
 	  - Code général des impôts, CGI. - art. 752 (V)
+
+
+## Titre III : Des contrats ou des obligations conventionnelles en général
+
+### Chapitre Ier : Dispositions préliminaires.
+
+###### Article 1101
+
+Le contrat est une convention par laquelle une ou plusieurs personnes s'obligent, envers une ou plusieurs autres, à donner, à
+faire ou à ne pas faire quelque chose.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1102
+
+Le contrat est synallagmatique ou bilatéral lorsque les contractants s'obligent réciproquement les uns envers les autres.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1103
+
+Il est unilatéral lorsqu'une ou plusieurs personnes sont obligées envers une ou plusieurs autres, sans que de la part de ces
+dernières il y ait d'engagement.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. L422-2-1 (VT)
+	  - Code des postes et des communications électroni... - art. L7 (VD)
+	  - Code des postes et des communications électroni... - art. L8 (VD)
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1104
+
+Il est commutatif lorsque chacune des parties s'engage à donner ou à faire une chose qui est regardée comme l'équivalent de
+ce qu'on lui donne, ou de ce qu'on fait pour elle.
+
+Lorsque l'équivalent consiste dans la chance de gain ou de perte pour chacune des parties, d'après un événement incertain, le
+contrat est aléatoire.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. L422-2-1 (VT)
+	  - Code des postes et des communications électroni... - art. L7 (VD)
+	  - Code des postes et des communications électroni... - art. L8 (VD)
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1105
+
+Le contrat de bienfaisance est celui dans lequel l'une des parties procure à l'autre un avantage purement gratuit.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1106
+
+Le contrat à titre onéreux est celui qui assujettit chacune des parties à donner ou à faire quelque chose.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1107
+
+Les contrats, soit qu'ils aient une dénomination propre, soit qu'ils n'en aient pas, sont soumis à des règles générales, qui
+sont l'objet du présent titre.
+
+Les règles particulières à certains contrats sont établies sous les titres relatifs à chacun d'eux ; et les règles
+particulières aux transactions commerciales sont établies par les lois relatives au commerce.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+### Chapitre II : Des conditions essentielles pour la validité des conventions.
+
+###### Article 1108
+
+Quatre conditions sont essentielles pour la validité d'une convention :
+
+Le consentement de la partie qui s'oblige ;
+
+Sa capacité de contracter ;
+
+Un objet certain qui forme la matière de l'engagement ;
+
+Une cause licite dans l'obligation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+#### Section 1 : Du consentement.
+
+###### Article 1109
+
+Il n'y a point de consentement valable si le consentement n'a été donné que par erreur ou s'il a été extorqué par violence ou
+surpris par dol.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1110
+
+L'erreur n'est une cause de nullité de la convention que lorsqu'elle tombe sur la substance même de la chose qui en est
+l'objet.
+
+Elle n'est point une cause de nullité lorsqu'elle ne tombe que sur la personne avec laquelle on a intention de contracter, à
+moins que la considération de cette personne ne soit la cause principale de la convention.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1111
+
+La violence exercée contre celui qui a contracté l'obligation est une cause de nullité, encore qu'elle ait été exercée par un
+tiers autre que celui au profit duquel la convention a été faite.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1112
+
+Il y a violence lorsqu'elle est de nature à faire impression sur une personne raisonnable, et qu'elle peut lui inspirer la
+crainte d'exposer sa personne ou sa fortune à un mal considérable et présent.
+
+On a égard, en cette matière, à l'âge, au sexe et à la condition des personnes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1113
+
+La violence est une cause de nullité du contrat, non seulement lorsqu'elle a été exercée sur la partie contractante, mais
+encore lorsqu'elle l'a été sur son époux ou sur son épouse, sur ses descendants ou ses ascendants.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1114
+
+La seule crainte révérencielle envers le père, la mère, ou autre ascendant, sans qu'il y ait eu de violence exercée, ne
+suffit point pour annuler le contrat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1115
+
+Un contrat ne peut plus être attaqué pour cause de violence, si, depuis que la violence a cessé, ce contrat a été approuvé
+soit expressément, soit tacitement, soit en laissant passer le temps de la restitution fixé par la loi.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1116
+
+Le dol est une cause de nullité de la convention lorsque les manoeuvres pratiquées par l'une des parties sont telles, qu'il
+est évident que, sans ces manoeuvres, l'autre partie n'aurait pas contracté.
+
+Il ne se présume pas et doit être prouvé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1117
+
+La convention contractée par erreur, violence ou dol, n'est point nulle de plein droit ; elle donne seulement lieu à une
+action en nullité ou en rescision, dans les cas et de la manière expliqués à la section VII du chapitre V du présent titre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1118
+
+La lésion ne vicie les conventions que dans certains contrats ou à l'égard de certaines personnes, ainsi qu'il sera expliqué
+en la même section.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1119
+
+On ne peut, en général, s'engager, ni stipuler en son propre nom, que pour soi-même.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1120
+
+Néanmoins, on peut se porter fort pour un tiers, en promettant le fait de celui-ci ; sauf l'indemnité contre celui qui s'est
+porté fort ou qui a promis de faire ratifier, si le tiers refuse de tenir l'engagement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1121
+
+On peut pareillement stipuler au profit d'un tiers lorsque telle est la condition d'une stipulation que l'on fait pour soi-
+même ou d'une donation que l'on fait à un autre. Celui qui a fait cette stipulation ne peut plus la révoquer si le tiers a
+déclaré vouloir en profiter.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code civil - art. 1165 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1122
+
+On est censé avoir stipulé pour soi et pour ses héritiers et ayants cause, à moins que le contraire ne soit exprimé ou ne
+résulte de la nature de la convention.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+#### Section 2 : De la capacité des parties contractantes.
+
+###### Article 1123
+
+Toute personne peut contracter si elle n'en est pas déclarée incapable par la loi.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+	**Cité par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 9 (V)
+
+
+#### Section 3 : De l'objet et de la matière des contrats.
+
+###### Article 1126
+
+Tout contrat a pour objet une chose qu'une partie s'oblige à donner, ou qu'une partie s'oblige à faire ou à ne pas faire.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code civil - art. 1127-4 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1127
+
+Le simple usage ou la simple possession d'une chose peut être, comme la chose même, l'objet du contrat.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code des assurances - art. L192-7 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1128
+
+Il n'y a que les choses qui sont dans le commerce qui puissent être l'objet des conventions.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1129
+
+Il faut que l'obligation ait pour objet une chose au moins déterminée quant à son espèce.
+
+La quotité de la chose peut être incertaine, pourvu qu'elle puisse être déterminée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1130
+
+Les choses futures peuvent être l'objet d'une obligation.
+
+On ne peut cependant renoncer à une succession non ouverte, ni faire aucune stipulation sur une pareille succession, même
+avec le consentement de celui de la succession duquel il s'agit.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+#### Section 4 : De la cause.
+
+###### Article 1131
+
+L'obligation sans cause, ou sur une fausse cause, ou sur une cause illicite, ne peut avoir aucun effet.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1132
+
+La convention n'est pas moins valable, quoique la cause n'en soit pas exprimée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1133
+
+La cause est illicite, quand elle est prohibée par la loi, quand elle est contraire aux bonnes moeurs ou à l'ordre public.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+### Chapitre III : De l'effet des obligations.
+
+#### Section 1 : Dispositions générales.
+
+###### Article 1134
+
+Les conventions légalement formées tiennent lieu de loi à ceux qui les ont faites.
+
+Elles ne peuvent être révoquées que de leur consentement mutuel, ou pour les causes que la loi autorise.
+
+Elles doivent être exécutées de bonne foi.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. L422-2-1 (V)
+	  - Code des postes et des communications électroni... - art. L7 (V)
+	  - Code des postes et des communications électroni... - art. L8 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1135
+
+Les conventions obligent non seulement à ce qui y est exprimé, mais encore à toutes les suites que l'équité, l'usage ou la
+loi donnent à l'obligation d'après sa nature.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+#### Section 2 : De l'obligation de donner.
+
+###### Article 1136
+
+L'obligation de donner emporte celle de livrer la chose et de la conserver jusqu'à la livraison, à peine de dommages et
+intérêts envers le créancier.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1137
+
+L'obligation de veiller à la conservation de la chose, soit que la convention n'ait pour objet que l'utilité de l'une des
+parties, soit qu'elle ait pour objet leur utilité commune, soumet celui qui en est chargé à y apporter tous les soins d'un
+bon père de famille.
+
+Cette obligation est plus ou moins étendue relativement à certains contrats, dont les effets, à cet égard, sont expliqués
+sous les titres qui les concernent.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code de commerce - art. L527-6 (VT)
+	  - Ordonnance n°2016-56 du 29 janvier 2016 - art. 1
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1138
+
+L'obligation de livrer la chose est parfaite par le seul consentement des parties contractantes.
+
+Elle rend le créancier propriétaire et met la chose à ses risques dès l'instant où elle a dû être livrée, encore que la
+tradition n'en ait point été faite, à moins que le débiteur ne soit en demeure de la livrer ; auquel cas la chose reste aux
+risques de ce dernier.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code civil - art. 1139 (M)
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1139
+
+Le débiteur est constitué en demeure, soit par une sommation ou par autre acte équivalent, soit par l'effet de la convention,
+lorsqu'elle porte que, sans qu'il soit besoin d'acte et par la seule échéance du terme, le débiteur sera en demeure.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°2016-230 du 26 février 2016 - art.
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code civil - art. 1138 (M)
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1140
+
+Les effets de l'obligation de donner ou de livrer un immeuble sont réglés au titre "De la vente" et au titre "Des privilèges
+et hypothèques".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1141
+
+Si la chose qu'on s'est obligé de donner ou de livrer à deux personnes successivement est purement mobilière, celle des deux
+qui en a été mise en possession réelle est préférée et en demeure propriétaire, encore que son titre soit postérieur en date,
+pourvu toutefois que la possession soit de bonne foi.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+#### Section 3 : De l'obligation de faire ou de ne pas faire.
+
+###### Article 1142
+
+Toute obligation de faire ou de ne pas faire se résout en dommages et intérêts en cas d'inexécution de la part du débiteur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1143
+
+Néanmoins, le créancier a le droit de demander que ce qui aurait été fait par contravention à l'engagement soit détruit ; et
+il peut se faire autoriser à le détruire aux dépens du débiteur, sans préjudice des dommages et intérêts s'il y a lieu.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1144
+
+Le créancier peut aussi, en cas d'inexécution, être autorisé à faire exécuter lui-même l'obligation aux dépens du débiteur.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 23 décembre 2009 - art. Annexe (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1145
+
+Si l'obligation est de ne pas faire, celui qui y contrevient doit des dommages et intérêts par le seul fait de la
+contravention.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+#### Section 4 : Des dommages et intérêts résultant de l'inexécution de l'obligation.
+
+###### Article 1146
+
+Les dommages et intérêts ne sont dus que lorsque le débiteur est en demeure de remplir son obligation, excepté néanmoins
+lorsque la chose que le débiteur s'était obligé de donner ou de faire ne pouvait être donnée ou faite que dans un certain
+temps qu'il a laissé passer.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1147
+
+Le débiteur est condamné, s'il y a lieu, au paiement de dommages et intérêts, soit à raison de l'inexécution de l'obligation,
+soit à raison du retard dans l'exécution, toutes les fois qu'il ne justifie pas que l'inexécution provient d'une cause
+étrangère qui ne peut lui être imputée, encore qu'il n'y ait aucune mauvaise foi de sa part.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1148
+
+Il n'y a lieu à aucuns dommages et intérêts lorsque, par suite d'une force majeure ou d'un cas fortuit, le débiteur a été
+empêché de donner ou de faire ce à quoi il était obligé, ou a fait ce qui lui était interdit.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code civil - art. 1150 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1149
+
+Les dommages et intérêts dus au créancier sont, en général, de la perte qu'il a faite et du gain dont il a été privé, sauf
+les exceptions et modifications ci-après.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1150
+
+Le débiteur n'est tenu que des dommages et intérêts qui ont été prévus ou qu'on a pu prévoir lors du contrat, lorsque ce
+n'est point par son dol que l'obligation n'est point exécutée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1151
+
+Dans le cas même où l'inexécution de la convention résulte du dol du débiteur, les dommages et intérêts ne doivent comprendre
+à l'égard de la perte éprouvée par le créancier et du gain dont il a été privé, que ce qui est une suite immédiate et directe
+de l'inexécution de la convention.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code civil - art. 1150 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1154
+
+Les intérêts échus des capitaux peuvent produire des intérêts, ou par une demande judiciaire, ou par une convention spéciale,
+pourvu que, soit dans la demande, soit dans la convention, il s'agisse d'intérêts dus au moins pour une année entière.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+	**Cité par**:
+
+	  - Code de commerce - art. L611-10-1 (VD)
+	  - Code de la consommation - art. L311-16 (VT)
+	  - Code de la consommation - art. L312-74 (VD)
+	  - Code monétaire et financier - art. R512-15 (M)
+	  - Code rural ancien - art. 726 (Ab)
+	  - Décret n°1921-02-09 du 9 février 1921 - art. 33 (Ab)
+
+
+###### Article 1155
+
+Néanmoins, les revenus échus, tels que fermages, loyers, arrérages de rentes perpétuelles ou viagères, produisent intérêt du
+jour de la demande ou de la convention.
+
+La même règle s'applique aux restitutions de fruits, et aux intérêts payés par un tiers aux créanciers en acquit du débiteur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+#### Section 5 : De l'interprétation des conventions.
+
+###### Article 1156
+
+On doit dans les conventions rechercher quelle a été la commune intention des parties contractantes, plutôt que de s'arrêter
+au sens littéral des termes.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code de la consommation - art. L132-1 (VT)
+	  - Code de la consommation - art. L212-1 (VD)
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1157
+
+Lorsqu'une clause est susceptible de deux sens, on doit plutôt l'entendre dans celui avec lequel elle peut avoir quelque
+effet, que dans le sens avec lequel elle n'en pourrait produire aucun.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1158
+
+Les termes susceptibles de deux sens doivent être pris dans le sens qui convient le plus à la matière du contrat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+	**Cité par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 9 (V)
+
+
+###### Article 1159
+
+Ce qui est ambigu s'interprète par ce qui est d'usage dans le pays où le contrat est passé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1160
+
+On doit suppléer dans le contrat les clauses qui y sont d'usage, quoiqu'elles n'y soient pas exprimées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1161
+
+Toutes les clauses des conventions s'interprètent les unes par les autres, en donnant à chacune le sens qui résulte de l'acte
+entier.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1162
+
+Dans le doute, la convention s'interprète contre celui qui a stipulé et en faveur de celui qui a contracté l'obligation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1163
+
+Quelque généraux que soient les termes dans lesquels une convention est conçue, elle ne comprend que les choses sur
+lesquelles il paraît que les parties se sont proposé de contracter.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code de la consommation - art. L132-1 (VT)
+	  - Code de la consommation - art. L212-1 (VD)
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1164
+
+Lorsque dans un contrat on a exprimé un cas pour l'explication de l'obligation, on n'est pas censé avoir voulu par là
+restreindre l'étendue que l'engagement reçoit de droit aux cas non exprimés.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code de la consommation - art. L132-1 (M)
+	  - Code de la consommation - art. L212-1 (VD)
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+#### Section 6 : De l'effet des conventions à l'égard des tiers.
+
+###### Article 1165
+
+Les conventions n'ont d'effet qu'entre les parties contractantes ; elles ne nuisent point au tiers, et elles ne lui profitent
+que dans le cas prévu par l'article 1121.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code civil - art. 1121 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1166
+
+Néanmoins, les créanciers peuvent exercer tous les droits et actions de leur débiteur, à l'exception de ceux qui sont
+exclusivement attachés à la personne.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code de l'Office national interprofessionnel du bl - art. 23 bis (Ab)
+	  - Code rural - art. L621-22 (M)
+	  - Code rural et de la pêche maritime - art. L666-3 (VD)
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+### Chapitre IV : Des diverses espèces d'obligations.
+
+#### Section 1 : Des obligations conditionnelles.
+
+##### Paragraphe 1 : De la condition en général, et de ses diverses espèces.
+
+###### Article 1168
+
+L'obligation est conditionnelle lorsqu'on la fait dépendre d'un événement futur et incertain, soit en la suspendant jusqu'à
+ce que l'événement arrive, soit en la résiliant, selon que l'événement arrivera ou n'arrivera pas.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1169
+
+La condition casuelle est celle qui dépend du hasard, et qui n'est nullement au pouvoir du créancier ni du débiteur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1170
+
+La condition potestative est celle qui fait dépendre l'exécution de la convention d'un événement qu'il est au pouvoir de
+l'une ou de l'autre des parties contractantes de faire arriver ou d'empêcher.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1171
+
+La condition mixte est celle qui dépend tout à la fois de la volonté d'une des parties contractantes, et de la volonté d'un
+tiers.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1172
+
+Toute condition d'une chose impossible, ou contraire aux bonnes moeurs, ou prohibée par la loi est nulle, et rend nulle la
+convention qui en dépend.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1173
+
+La condition de ne pas faire une chose impossible ne rend pas nulle l'obligation contractée sous cette condition.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1174
+
+Toute obligation est nulle lorsqu'elle a été contractée sous une condition potestative de la part de celui qui s'oblige.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1175
+
+Toute condition doit être accomplie de la manière que les parties ont vraisemblablement voulu et entendu qu'elle le fût.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1176
+
+Lorsqu'une obligation est contractée sous la condition qu'un événement arrivera dans un temps fixe, cette condition est
+censée défaillie lorsque le temps est expiré sans que l'événement soit arrivé. S'il n'y a point de temps fixe, la condition
+peut toujours être accomplie ; et elle n'est censée défaillie que lorsqu'il est devenu certain que l'événement n'arrivera
+pas.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code du tourisme. - art. R211-3-1 (V)
+	  - Code du tourisme. - art. R211-6 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1177
+
+Lorsqu'une obligation est contractée sous la condition qu'un événement n'arrivera pas dans un temps fixe, cette condition est
+accomplie lorsque ce temps est expiré sans que l'événement soit arrivé : elle l'est également, si avant le terme il est
+certain que l'événement n'arrivera pas ; et s'il n'y a pas de temps déterminé, elle n'est accomplie que lorsqu'il est certain
+que l'événement n'arrivera pas.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code du tourisme. - art. R211-3-1 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1178
+
+La condition est réputée accomplie lorsque c'est le débiteur, obligé sous cette condition, qui en a empêché
+l'accomplissement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1179
+
+La condition accomplie a un effet rétroactif au jour auquel l'engagement a été contracté. Si le créancier est mort avant
+l'accomplissement de la condition, ses droits passent à son héritier.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1180
+
+Le créancier peut, avant que la condition soit accomplie, exercer tous les actes conservatoires de son droit.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+##### Paragraphe 2 : De la condition suspensive.
+
+###### Article 1181
+
+L'obligation contractée sous une condition suspensive est celle qui dépend ou d'un événement futur et incertain, ou d'un
+événement actuellement arrivé, mais encore inconnu des parties.
+
+Dans le premier cas, l'obligation ne peut être exécutée qu'après l'événement.
+
+Dans le second cas, l'obligation a son effet du jour où elle a été contractée.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 1200-2 (M)
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1182
+
+Lorsque l'obligation a été contractée sous une condition suspensive, la chose qui fait la matière de la convention demeure
+aux risques du débiteur qui ne s'est obligé de la livrer que dans le cas de l'événement de la condition.
+
+Si la chose est entièrement périe sans la faute du débiteur, l'obligation est éteinte.
+
+Si la chose s'est détériorée sans la faute du débiteur, le créancier a le choix ou de résoudre l'obligation, ou d'exiger la
+chose dans l'état où elle se trouve, sans diminution du prix.
+
+Si la chose s'est détériorée par la faute du débiteur, le créancier a le droit ou de résoudre l'obligation, ou d'exiger la
+chose dans l'état où elle se trouve, avec des dommages et intérêts.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code civil - art. 402 (VD)
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+##### Paragraphe 3 : De la condition résolutoire.
+
+###### Article 1183
+
+La condition résolutoire est celle qui, lorsqu'elle s'accomplit, opère la révocation de l'obligation, et qui remet les choses
+au même état que si l'obligation n'avait pas existé.
+
+Elle ne suspend point l'exécution de l'obligation ; elle oblige seulement le créancier à restituer ce qu'il a reçu, dans le
+cas où l'événement prévu par la condition arrive.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 9 (V)
+	  - Code général des impôts, CGI. - art. 1961 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1184
+
+La condition résolutoire est toujours sous-entendue dans les contrats synallagmatiques, pour le cas où l'une des deux parties
+ne satisfera point à son engagement.
+
+Dans ce cas, le contrat n'est point résolu de plein droit. La partie envers laquelle l'engagement n'a point été exécuté, a le
+choix ou de forcer l'autre à l'exécution de la convention lorsqu'elle est possible, ou d'en demander la résolution avec
+dommages et intérêts.
+
+La résolution doit être demandée en justice, et il peut être accordé au défendeur un délai selon les circonstances.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°67-1253 du 30 décembre 1967 - art. 53 (V)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 1961 (V)
+	  - Code du travail maritime - art. 93 (Ab)
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+#### Section 2 : Des obligations à terme.
+
+###### Article 1185
+
+Le terme diffère de la condition, en ce qu'il ne suspend point l'engagement, dont il retarde seulement l'exécution.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1186
+
+Ce qui n'est dû qu'à terme, ne peut être exigé avant l'échéance du terme ; mais ce qui a été payé d'avance ne peut être
+répété.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1187
+
+Le terme est toujours présumé stipulé en faveur du débiteur, à moins qu'il ne résulte de la stipulation, ou des
+circonstances, qu'il a été aussi convenu en faveur du créancier.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1188
+
+Le débiteur ne peut plus réclamer le bénéfice du terme lorsqu'il a fait faillite, ou lorsque par son fait il a diminué les
+sûretés qu'il avait données par le contrat à son créancier.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code de la consommation - art. L212-1 (VD)
+	  - Code de la consommation - art. L314-8 (VT)
+	  - Code de la consommation - art. L315-13 (VD)
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+#### Section 3 : Des obligations alternatives.
+
+###### Article 1189
+
+Le débiteur d'une obligation alternative est libéré par la délivrance de l'une des deux choses qui étaient comprises dans
+l'obligation.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code de la consommation - art. L212-1 (VD)
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1190
+
+Le choix appartient au débiteur, s'il n'a pas été expressément accordé au créancier.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1191
+
+Le débiteur peut se libérer en délivrant l'une des deux choses promises ; mais il ne peut pas forcer le créancier à recevoir
+une partie de l'une et une partie de l'autre.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code de la consommation - art. L212-1 (VD)
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1192
+
+L'obligation est pure et simple, quoique contractée d'une manière alternative, si l'une des deux choses promises ne pouvait
+être le sujet de l'obligation.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code de la consommation - art. L212-1 (VD)
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1193
+
+L'obligation alternative devient pure et simple, si l'une des choses promises périt et ne peut plus être livrée, même par la
+faute du débiteur. Le prix de cette chose ne peut pas être offert à sa place.
+
+Si toutes deux sont péries, et que le débiteur soit en faute à l'égard de l'une d'elles, il doit payer le prix de celle qui a
+péri la dernière.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. L422-2-1 (VT)
+	  - Code des postes et des communications électroni... - art. L7 (VD)
+	  - Code des postes et des communications électroni... - art. L8 (VD)
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1194
+
+Lorsque, dans les cas prévus par l'article précédent, le choix avait été déféré par la convention au créancier,
+
+Ou l'une des choses seulement est périe ; et alors, si c'est sans la faute du débiteur, le créancier doit avoir celle qui
+reste ; si le débiteur est en faute, le créancier peut demander la chose qui reste, ou le prix de celle qui est périe ;
+
+Ou les deux choses sont péries ; et alors, si le débiteur est en faute à l'égard des deux, ou même à l'égard de l'une d'elles
+seulement, le créancier peut demander le prix de l'une ou de l'autre à son choix.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1195
+
+Si les deux choses sont péries sans la faute du débiteur, et avant qu'il soit en demeure, l'obligation est éteinte,
+conformément à l'article 1302.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code civil - art. 1302 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1196
+
+Les mêmes principes s'appliquent au cas où il y a plus de deux choses comprises dans l'obligation alternative.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+#### Section 4 : Des obligations solidaires.
+
+##### Paragraphe 1 : De la solidarité entre les créanciers.
+
+###### Article 1197
+
+L'obligation est solidaire entre plusieurs créanciers lorsque le titre donne expressément à chacun d'eux le droit de demander
+le paiement du total de la créance, et que le paiement fait à l'un d'eux libère le débiteur, encore que le bénéfice de
+l'obligation soit partageable et divisible entre les divers créanciers.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code de commerce - art. L527-6 (VD)
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1198
+
+Il est au choix du débiteur de payer à l'un ou l'autre des créanciers solidaires, tant qu'il n'a pas été prévenu par les
+poursuites de l'un d'eux.
+
+Néanmoins, la remise qui n'est faite que par l'un des créanciers solidaires ne libère le débiteur que pour la part de ce
+créancier.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1199
+
+Tout acte qui interrompt la prescription à l'égard de l'un des créanciers solidaires profite aux autres créanciers.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+##### Paragraphe 2 : De la solidarité de la part des débiteurs.
+
+###### Article 1200
+
+Il y a solidarité de la part des débiteurs, lorsqu'ils sont obligés à une même chose, de manière que chacun puisse être
+contraint pour la totalité, et que le paiement fait par un seul libère les autres envers le créancier.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code rural - art. R343-26 (M)
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1201
+
+L'obligation peut être solidaire, quoique l'un des débiteurs soit obligé différemment de l'autre au paiement de la même
+chose ; par exemple, si l'un n'est obligé que conditionnellement, tandis que l'engagement de l'autre est pur et simple, ou si
+l'un a pris un terme qui n'est point accordé à l'autre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1202
+
+La solidarité ne se présume point ; il faut qu'elle soit expressément stipulée.
+
+Cette règle ne cesse que dans les cas où la solidarité a lieu de plein droit, en vertu d'une disposition de la loi.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code général des impôts, CGI. - art. 864 (VD)
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1203
+
+Le créancier d'une obligation contractée solidairement peut s'adresser à celui des débiteurs qu'il veut choisir, sans que
+celui-ci puisse lui opposer le bénéfice de division.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1204
+
+Les poursuites faites contre l'un des débiteurs n'empêchent pas le créancier d'en exercer de pareilles contre les autres.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1205
+
+Si la chose due a péri par la faute ou pendant la demeure de l'un ou de plusieurs des débiteurs solidaires, les autres
+codébiteurs ne sont point déchargés de l'obligation de payer le prix de la chose ; mais ceux-ci ne sont point tenus des
+dommages et intérêts.
+
+Le créancier peut seulement répéter les dommages et intérêts tant contre les débiteurs par la faute desquels la chose a péri,
+que contre ceux qui étaient en demeure.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1206
+
+Les poursuites faites contre l'un des débiteurs solidaires interrompent la prescription à l'égard de tous.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1207
+
+La demande d'intérêts formée contre l'un des débiteurs solidaires fait courir les intérêts à l'égard de tous.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1208
+
+Le codébiteur solidaire poursuivi par le créancier peut opposer toutes les exceptions qui résultent de la nature de
+l'obligation, et toutes celles qui lui sont personnelles, ainsi que celles qui sont communes à tous les codébiteurs.
+
+Il ne peut opposer les exceptions qui sont purement personnelles à quelques-uns des autres codébiteurs.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1209
+
+Lorsque l'un des débiteurs devient héritier unique du créancier, ou lorsque le créancier devient l'unique héritier de l'un
+des débiteurs, la confusion n'éteint la créance solidaire que pour la part et portion du débiteur ou du créancier.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1210
+
+Le créancier qui consent à la division de la dette à l'égard de l'un des codébiteurs, conserve son action solidaire contre
+les autres, mais sous la déduction de la part du débiteur qu'il a déchargé de la solidarité.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1211
+
+Le créancier qui reçoit divisément la part de l'un des débiteurs, sans réserver dans la quittance la solidarité ou ses droits
+en général, ne renonce à la solidarité qu'à l'égard de ce débiteur.
+
+Le créancier n'est pas censé remettre la solidarité au débiteur lorsqu'il reçoit de lui une somme égale à la portion dont il
+est tenu, si la quittance ne porte pas que c'est pour sa part.
+
+Il en est de même de la simple demande formée contre l'un des codébiteurs pour sa part, si celui-ci n'a pas acquiescé à la
+demande, ou s'il n'est pas intervenu un jugement de condamnation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1212
+
+Le créancier qui reçoit divisément et sans réserve la portion de l'un des codébiteurs dans les arrérages ou intérêts de la
+dette, ne perd la solidarité que pour les arrérages ou intérêts échus, et non pour ceux à échoir, ni pour le capital, à moins
+que le paiement divisé n'ait été continué pendant dix ans consécutifs.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1213
+
+L'obligation contractée solidairement envers le créancier se divise de plein droit entre les débiteurs, qui n'en sont tenus
+entre eux que chacun pour sa part et portion.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1214
+
+Le codébiteur d'une dette solidaire, qui l'a payée en entier, ne peut répéter contre les autres que les part et portion de
+chacun d'eux.
+
+Si l'un d'eux se trouve insolvable, la perte qu'occasionne son insolvabilité se répartit, par contribution, entre tous les
+autres codébiteurs solvables et celui qui a fait le paiement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1215
+
+Dans le cas où le créancier a renoncé à l'action solidaire envers l'un des débiteurs, si l'un ou plusieurs des autres
+codébiteurs deviennent insolvables, la portion des insolvables sera contributoirement répartie entre tous les débiteurs, même
+entre ceux précédemment déchargés de la solidarité par le créancier.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1216
+
+Si l'affaire pour laquelle la dette a été contractée solidairement ne concernait que l'un des coobligés solidaires, celui-ci
+serait tenu de toute la dette vis-à-vis des autres codébiteurs, qui ne seraient considérés par rapport à lui que comme ses
+cautions.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code rural - art. R343-26 (M)
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+#### Section 5 : Des obligations divisibles et indivisibles.
+
+###### Article 1217
+
+L'obligation est divisible ou indivisible selon qu'elle a pour objet ou une chose qui dans sa livraison, ou un fait qui dans
+l'exécution, est ou n'est pas susceptible de division, soit matérielle, soit intellectuelle.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1218
+
+L'obligation est indivisible, quoique la chose ou le fait qui en est l'objet soit divisible par sa nature, si le rapport sous
+lequel elle est considérée dans l'obligation ne la rend pas susceptible d'exécution partielle.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1219
+
+La solidarité stipulée ne donne point à l'obligation le caractère d'indivisibilité.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+##### Paragraphe 1 : Des effets de l'obligation divisible.
+
+###### Article 1220
+
+L'obligation qui est susceptible de division doit être exécutée entre le créancier et le débiteur comme si elle était
+indivisible. La divisibilité n'a d'application qu'à l'égard de leurs héritiers, qui ne peuvent demander la dette ou qui ne
+sont tenus de la payer que pour les parts dont ils sont saisis ou dont ils sont tenus comme représentant le créancier ou le
+débiteur.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code civil - art. 1221 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1221
+
+Le principe établi dans l'article précédent reçoit exception à l'égard des héritiers du débiteur :
+
+1° Dans le cas où la dette est hypothécaire ;
+
+2° Lorsqu'elle est d'un corps certain ;
+
+3° Lorsqu'il s'agit de la dette alternative de choses au choix du créancier, dont l'une est indivisible ;
+
+4° Lorsque l'un des héritiers est chargé seul, par le titre, de l'exécution de l'obligation ;
+
+5° Lorsqu'il résulte, soit de la nature de l'engagement, soit de la chose qui en fait l'objet, soit de la fin qu'on s'est
+proposée dans le contrat, que l'intention des contractants a été que la dette ne pût s'acquitter partiellement.
+
+Dans les trois premiers cas, l'héritier qui possède la chose due ou le fonds hypothéqué à la dette, peut être poursuivi pour
+le tout sur la chose due ou sur le fonds hypothéqué, sauf le recours contre ses cohéritiers. Dans le quatrième cas,
+l'héritier seul chargé de la dette, et dans le cinquième cas, chaque héritier, peut aussi être poursuivi pour le tout ; sauf
+son recours contre ses cohéritiers.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code civil - art. 1220 (M)
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+##### Paragraphe 2 : Des effets de l'obligation indivisible.
+
+###### Article 1222
+
+Chacun de ceux qui ont contracté conjointement une dette indivisible, en est tenu pour le total, encore que l'obligation
+n'ait pas été contractée solidairement.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code civil - art. 1223 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1223
+
+Il en est de même à l'égard des héritiers de celui qui a contracté une pareille obligation.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code civil - art. 1222 (M)
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1224
+
+Chaque héritier du créancier peut exiger en totalité l'exécution de l'obligation indivisible.
+
+Il ne peut seul faire la remise de la totalité de la dette ; il ne peut recevoir seul le prix au lieu de la chose. Si l'un
+des héritiers a seul remis la dette ou reçu le prix de la chose, son cohéritier ne peut demander la chose indivisible qu'en
+tenant compte de la portion du cohéritier qui a fait la remise ou qui a reçu le prix.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°67-1253 du 30 décembre 1967 - art. 53 (VD)
+	  - Code général des impôts, CGI. - art. 1961 (VD)
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1225
+
+L'héritier du débiteur, assigné pour la totalité de l'obligation, peut demander un délai pour mettre en cause ses
+cohéritiers, à moins que la dette ne soit de nature à ne pouvoir être acquittée que par l'héritier assigné, qui peut alors
+être condamné seul, sauf son recours en indemnité contre ses cohéritiers.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+#### Section 6 : Des obligations avec clauses pénales.
+
+###### Article 1226
+
+La clause pénale est celle par laquelle une personne, pour assurer l'exécution d'une convention, s'engage à quelque chose en
+cas d'inexécution.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code du travail - art. L5125-2 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1227
+
+La nullité de l'obligation principale entraîne celle de la clause pénale.
+
+La nullité de celle-ci n'entraîne point celle de l'obligation principale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1228
+
+Le créancier, au lieu de demander la peine stipulée contre le débiteur qui est en demeure, peut poursuivre l'exécution de
+l'obligation principale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1229
+
+La clause pénale est la compensation des dommages et intérêts que le créancier souffre de l'inexécution de l'obligation
+principale.
+
+Il ne peut demander en même temps le principal et la peine, à moins qu'elle n'ait été stipulée pour le simple retard.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1230
+
+Soit que l'obligation primitive contienne, soit qu'elle ne contienne pas un terme dans lequel elle doive être accomplie, la
+peine n'est encourue que lorsque celui qui s'est obligé soit à livrer, soit à prendre, soit à faire, est en demeure.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1232
+
+Lorsque l'obligation primitive contractée avec une clause pénale est d'une chose indivisible, la peine est encourue par la
+contravention d'un seul des héritiers du débiteur, et elle peut être demandée, soit en totalité contre celui qui a fait la
+contravention, soit contre chacun des cohéritiers pour leur part et portion, et hypothécairement pour le tout, sauf leur
+recours contre celui qui a fait encourir la peine.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
+
+
+###### Article 1233
+
+Lorsque l'obligation primitive contractée sous une peine est divisible, la peine n'est encourue que par celui des héritiers
+du débiteur qui contrevient à cette obligation, et pour la part seulement dont il était tenu dans l'obligation principale,
+sans qu'il y ait d'action contre ceux qui l'ont exécutée.
+
+Cette règle reçoit exception lorsque la clause pénale ayant été ajoutée dans l'intention que le paiement ne pût se faire
+partiellement, un cohéritier a empêché l'exécution de l'obligation pour la totalité. En ce cas, la peine entière peut être
+exigée contre lui, et contre les autres cohéritiers pour leur portion seulement, sauf leur recours.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
+
+
+### Chapitre V : De l'extinction des obligations.
+
+###### Article 1234
+
+Les obligations s'éteignent :
+
+Par le paiement,
+
+Par la novation,
+
+Par la remise volontaire,
+
+Par la compensation,
+
+Par la confusion,
+
+Par la perte de la chose,
+
+Par la nullité ou la rescision,
+
+Par l'effet de la condition résolutoire, qui a été expliquée au chapitre précédent,
+
+Et par la prescription, qui fera l'objet d'un titre particulier.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
+
+
+#### Section 1 : Du paiement
+
+##### Paragraphe 1 : Du paiement en général.
+
+###### Article 1235
+
+Tout paiement suppose une dette : ce qui a été payé sans être dû, est sujet à répétition.
+
+La répétition n'est pas admise à l'égard des obligations naturelles qui ont été volontairement acquittées.
+
+**Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 1302 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1236
+
+Une obligation peut être acquittée par toute personne qui y est intéressée, telle qu'un coobligé ou une caution.
+
+L'obligation peut même être acquittée par un tiers qui n'y est point intéressé, pourvu que ce tiers agisse au nom et en
+l'acquit du débiteur, ou que, s'il agit en son nom propre, il ne soit pas subrogé aux droits du créancier.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
+
+
+###### Article 1237
+
+L'obligation de faire ne peut être acquittée par un tiers contre le gré du créancier, lorsque ce dernier a intérêt qu'elle
+soit remplie par le débiteur lui-même.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
+
+
+###### Article 1238
+
+Pour payer valablement, il faut être propriétaire de la chose donnée en paiement, et capable de l'aliéner.
+
+Néanmoins le paiement d'une somme en argent ou autre chose qui se consomme par l'usage, ne peut être répété contre le
+créancier qui l'a consommée de bonne foi, quoique le paiement en ait été fait par celui qui n'en était pas propriétaire ou
+qui n'était pas capable de l'aliéner.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
+
+
+###### Article 1239
+
+Le paiement doit être fait au créancier, ou à quelqu'un ayant pouvoir de lui, ou qui soit autorisé par justice ou par la loi
+à recevoir pour lui.
+
+Le paiement fait à celui qui n'aurait pas pouvoir de recevoir pour le créancier, est valable, si celui-ci le ratifie, ou s'il
+en a profité.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
+
+
+###### Article 1240
+
+Le paiement fait de bonne foi à celui qui est en possession de la créance est valable, encore que le possesseur en soit par
+la suite évincé.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°53-511 du 21 mai 1953 - art. 37 (V)
+	  - Arrêté du 25 février 1982 - art. 28 (V)
+	  - Arrêté du 28 janvier 1991 - art. ANNEXE VI (V)
+	  - Arrêté du 2 février 2009 - art. Annexe I (V)
+	  - Arrêté du 29 août 2013 - art. (V)
+	  - Décret n°2016-253 du 2 mars 2016 - art. (V)
+	  - Code de commerce - art. L225-102-5 (V)
+	  - Code de l'environnement - art. R426-18 (V)
+	  - Code des assurances - art. L121-13 (VD)
+	  - Code des postes et des communications électroni... - art. L7 (VD)
+	  - Code des postes et des communications électroni... - art. L8 (VD)
+	  - Code du sport. - art. Annexe II-9 (art. A212-136) (V)
+	  - Code du travail - art. L3251-4 (VD)
+	  - Code du travail applicable à Mayotte. - art. L144-3 (VD)
+	  - Code forestier (nouveau) - art. L131-16 (VD)
+	  - Code rural - art. L325-3 (VD)
+	  - Loi du 29 juillet 1881 - art. 44 (VD)
+	  - Loi du 5 août 1908 - art. 2 (VD)
+	  - Code de l'environnement - art. L426-4 (VD)
+	  - Code rural - art. L415-6 (VD)
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1241
+
+Le paiement fait au créancier n'est point valable s'il était incapable de le recevoir, à moins que le débiteur ne prouve que
+la chose payée a tourné au profit du créancier.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°53-511 du 21 mai 1953 - art. 37 (V)
+	  - Arrêté du 29 août 2013 - art. (V)
+	  - Code de procédure pénale - art. 4-1 (VD)
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1242
+
+Le paiement fait par le débiteur à son créancier, au préjudice d'une saisie ou d'une opposition, n'est pas valable à l'égard
+des créanciers saisissants ou opposants : ceux-ci peuvent, selon leur droit, le contraindre à payer de nouveau, sauf en ce
+cas seulement son recours contre le créancier.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°53-511 du 21 mai 1953 - art. 37 (V)
+	  - Loi n°82-652 du 29 juillet 1982 - art. 93-2 (V)
+	  - Décret n°2016-253 du 2 mars 2016 - art. (V)
+	  - Code de l'éducation - art. R442-40 (V)
+	  - Code de la construction et de l'habitation. - art. L112-12 (VD)
+	  - Code des assurances - art. L121-2 (VD)
+	  - Code des assurances - art. L511-1 (VD)
+	  - Code des postes et des communications électroni... - art. L75 (VD)
+	  - Code du sport. - art. L321-3-1 (VD)
+	  - Loi du 29 juillet 1881 - art. 6 (V)
+	  - Loi n°70-459 du 4 juin 1970 - art. 13 (VD)
+	  - Loi n°74-696 du 7 août 1974 - art. 23 (VD)
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1243
+
+Le créancier ne peut être contraint de recevoir une autre chose que celle qui lui est due, quoique la valeur de la chose
+offerte soit égale ou même plus grande.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code rural - art. L211-1 (VD)
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1245
+
+Le débiteur d'un corps certain et déterminé est libéré par la remise de la chose en l'état où elle se trouve lors de la
+livraison, pourvu que les détériorations qui y sont survenues ne viennent point de son fait ou de sa faute, ni de celle des
+personnes dont il est responsable, ou qu'avant ces détériorations il ne fût pas en demeure.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1246
+
+Si la dette est d'une chose qui ne soit déterminée que par son espèce, le débiteur ne sera pas tenu, pour être libéré, de la
+donner de la meilleure espèce ; mais il ne pourra l'offrir de la plus mauvaise.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
+
+
+###### Article 1248
+
+Les frais du paiement sont à la charge du débiteur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
+
+
+##### Paragraphe 2 : Du paiement avec subrogation.
+
+###### Article 1249
+
+La subrogation dans les droits du créancier au profit d'une tierce personne qui le paie est ou conventionnelle ou légale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
+
+
+###### Article 1250
+
+Cette subrogation est conventionnelle :
+
+1° Lorsque le créancier recevant son paiement d'une tierce personne la subroge dans ses droits, actions, privilèges ou
+hypothèques contre le débiteur : cette subrogation doit être expresse et faite en même temps que le paiement ;
+
+2° Lorsque le débiteur emprunte une somme à l'effet de payer sa dette, et de subroger le prêteur dans les droits du
+créancier. Il faut, pour que cette subrogation soit valable, que l'acte d'emprunt et la quittance soient passés devant
+notaires ; que dans l'acte d'emprunt il soit déclaré que la somme a été empruntée pour faire le paiement, et que dans la
+quittance il soit déclaré que le paiement a été fait des deniers fournis à cet effet par le nouveau créancier. Cette
+subrogation s'opère sans le concours de la volonté du créancier.
+
+**Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
+
+	**Cité par**:
+
+	  - Arrêté du 26 février 2016 - art. 2
+	  - Décret n°2016-230 du 26 février 2016 - art.
+	  - Code de commerce - art. A444-161 (M)
+	  - Code monétaire et financier - art. R518-31 (M)
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1251
+
+La subrogation a lieu de plein droit :
+
+1° Au profit de celui qui étant lui-même créancier paie un autre créancier qui lui est préférable à raison de ses privilèges
+ou hypothèques ;
+
+2° Au profit de l'acquéreur d'un immeuble, qui emploie le prix de son acquisition au paiement des créanciers auxquels cet
+héritage était hypothéqué ;
+
+3° Au profit de celui qui, étant tenu avec d'autres ou pour d'autres au paiement de la dette, avait intérêt de l'acquitter ;
+
+4° Au profit de l'héritier bénéficiaire qui a payé de ses deniers les dettes de la succession.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°65-557 du 10 juillet 1965 - art. 28 (V)
+	  - Arrêté du 26 février 2016 - art. 2
+	  - Décret n°2016-230 du 26 février 2016 - art.
+	  - Code des assurances - art. L443-1 (VD)
+	  - Code monétaire et financier - art. L313-22-1 (VD)
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1252
+
+La subrogation établie par les articles précédents a lieu tant contre les cautions que contre les débiteurs : elle ne peut
+nuire au créancier lorsqu'il n'a été payé qu'en partie ; en ce cas, il peut exercer ses droits, pour ce qui lui reste dû, par
+préférence à celui dont il n'a reçu qu'un paiement partiel.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°51-59 du 18 janvier 1951 - art. 5 (Ab)
+	  - Loi n°85-677 du 5 juillet 1985 - art. 31 (V)
+	  - Code de commerce. - art. L525-5 (V)
+	  - Code de la sécurité sociale. - art. L376-1 (VD)
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
+
+
+##### Paragraphe 3 : De l'imputation des paiements.
+
+###### Article 1253
+
+Le débiteur de plusieurs dettes a le droit de déclarer, lorsqu'il paye, quelle dette il entend acquitter.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 49 bis (V)
+	  - Loi n°82-526 du 22 juin 1982 - art. 20 (Ab)
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
+
+
+###### Article 1254
+
+Le débiteur d'une dette qui porte intérêt ou produit des arrérages ne peut point, sans le consentement du créancier, imputer
+le paiement qu'il fait sur le capital par préférence aux arrérages ou intérêts : le paiement fait sur le capital et intérêts,
+mais qui n'est point intégral, s'impute d'abord sur les intérêts.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
+
+
+###### Article 1255
+
+Lorsque le débiteur de diverses dettes a accepté une quittance par laquelle le créancier a imputé ce qu'il a reçu sur l'une
+de ces dettes spécialement, le débiteur ne peut plus demander l'imputation sur une dette différente, à moins qu'il n'y ait eu
+dol ou surprise de la part du créancier.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
+
+
+###### Article 1256
+
+Lorsque la quittance ne porte aucune imputation, le paiement doit être imputé sur la dette que le débiteur avait pour lors le
+plus d'intérêt d'acquitter entre celles qui sont pareillement échues ; sinon, sur la dette échue, quoique moins onéreuse que
+celles qui ne le sont point.
+
+Si les dettes sont d'égale nature, l'imputation se fait sur la plus ancienne ; toutes choses égales, elle se fait
+proportionnellement.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 14 mars 2005 - art. 9 (M)
+	  - Code civil - art. 1297 (Ab)
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
+
+
+##### Paragraphe 4 : Des offres de paiement, et de la consignation.
+
+###### Article 1257
+
+Lorsque le créancier refuse de recevoir son paiement, le débiteur peut lui faire des offres réelles et, au refus du créancier
+de les accepter, consigner la somme ou la chose offerte.
+
+Les offres réelles suivies d'une consignation libèrent le débiteur ; elles tiennent lieu à son égard de paiement,
+lorsqu'elles sont valablement faites, et la chose ainsi consignée demeure aux risques du créancier.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°65-97 du 4 février 1965 - art. 18 (VT)
+	  - Décret n°2012-1246 du 7 novembre 2012 - art. 39 (M)
+	  - Arrêté du 24 décembre 2012 - art. 9 (M)
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
+
+
+###### Article 1258
+
+Pour que les offres réelles soient valables, il faut :
+
+1° Qu'elles soient faites au créancier ayant la capacité de recevoir, ou à celui qui a pouvoir de recevoir pour lui ;
+
+2° Qu'elles soient faites par une personne capable de payer ;
+
+3° Qu'elles soient de la totalité de la somme exigible, des arrérages ou intérêts dus, des frais liquidés, et d'une somme
+pour les frais non liquidés, sauf à la parfaire ;
+
+4° Que le terme soit échu, s'il a été stipulé en faveur du créancier ;
+
+5° Que la condition sous laquelle la dette a été contractée soit arrivée ;
+
+6° Que les offres soient faites au lieu dont on est convenu pour le paiement, et que, s'il n'y a pas de convention spéciale
+sur le lieu du paiement, elles soient faites ou à la personne du créancier, ou à son domicile, ou au domicile élu pour
+l'exécution de la convention ;
+
+7° Que les offres soient faites par un officier ministériel ayant caractère pour ces sortes d'actes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
+
+
+###### Article 1259
+
+Il n'est pas nécessaire, pour la validité de la consignation, qu'elle ait été autorisée par le juge ; il suffit :
+
+1° Qu'elle ait été précédée d'une sommation signifiée au créancier, et contenant l'indication du jour, de l'heure et du lieu
+où la chose offerte sera déposée ;
+
+2° Que le débiteur se soit dessaisi de la chose offerte, en la remettant dans le dépôt indiqué par la loi pour recevoir les
+consignations, avec les intérêts jusqu'au jour du dépôt ;
+
+3° Qu'il y ait eu procès-verbal dressé par l'officier ministériel, de la nature des espèces offertes, du refus qu'a fait le
+créancier de les recevoir, ou de sa non-comparution, et enfin du dépôt ;
+
+4° Qu'en cas de non-comparution de la part du créancier, le procès-verbal du dépôt lui ait été signifié avec sommation de
+retirer la chose déposée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+	**Cité par**:
+
+	  - Loi n°1913-08-08 du 8 août 1913 - art. 8 (Ab)
+	  - Loi n°1940-09-12 du 12 septembre 1940 - art. 7 (V)
+	  - Loi n°1932-04-21 du 21 avril 1932 - art. 6 (Ab)
+
+	**Abrogé par**:
+
+	  - Décret n°81-500 1981-05-12 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+
+
+###### Article 1260
+
+Les frais des offres réelles et de la consignation sont à la charge du créancier, si elles sont valables.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
+
+
+###### Article 1261
+
+Tant que la consignation n'a point été acceptée par le créancier, le débiteur peut la retirer ; et s'il la retire, ses
+codébiteurs ou ses cautions ne sont point libérés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
+
+
+###### Article 1262
+
+Lorsque le débiteur a lui-même obtenu un jugement passé en force de chose jugée, qui a déclaré ses offres et sa consignation
+bonnes et valables, il ne peut plus, même du consentement du créancier, retirer sa consignation au préjudice de ses
+codébiteurs ou de ses cautions.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
+
+
+###### Article 1263
+
+Le créancier qui a consenti que le débiteur retirât sa consignation après qu'elle a été déclarée valable par un jugement qui
+a acquis force de chose jugée, ne peut plus, pour le paiement de sa créance, exercer les privilèges ou hypothèques qui y
+étaient attachés ; il n'a plus d'hypothèque que du jour où l'acte par lequel il a consenti que la consignation fût retirée
+aura été revêtu des formes requises pour emporter l'hypothèque.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
+
+
+###### Article 1264
+
+Si la chose due est un corps certain qui doit être livré au lieu où il se trouve, le débiteur doit faire sommation au
+créancier de l'enlever, par acte notifié à sa personne ou à son domicile, ou au domicile élu pour l'exécution de la
+convention. Cette sommation faite, si le créancier n'enlève pas la chose, et que le débiteur ait besoin du lieu dans lequel
+elle est placée, celui-ci pourra obtenir de la justice la permission de la mettre en dépôt dans quelque autre lieu.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
+
+
+##### Paragraphe V : De la cession de biens.
+
+###### Article 1265
+
+La cession de biens est l'abandon qu'un débiteur fait de tous ses biens à ses créanciers, lorsqu'il se trouve hors d'état de
+payer ses dettes.
+
+**Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Loi n°91-650 du 9 juillet 1991 - art. 94 (VT) JORF 14 juillet 1991 en vigueur le 1er août 1992
+
+	**Cité par**:
+
+	  - Décret n°2016-230 du 26 février 2016 - art.
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1266
+
+La cession de biens est volontaire ou judiciaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+	**Abrogé par**:
+
+	  - Loi n°91-650 du 9 juillet 1991 - art. 94 (VT) JORF 14 juillet 1991 en vigueur le 1er août 1992
+
+
+###### Article 1267
+
+La cession de biens volontaire est celle que les créanciers acceptent volontairement, et qui n'a d'effet que celui résultant
+des stipulations mêmes du contrat passé entre eux et le débiteur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+	**Abrogé par**:
+
+	  - Loi n°91-650 du 9 juillet 1991 - art. 94 (VT) JORF 14 juillet 1991 en vigueur le 1er août 1992
+
+
+###### Article 1268
+
+La cession judiciaire est un bénéfice que la loi accorde au débiteur malheureux et de bonne foi, auquel il est permis, pour
+avoir la liberté de sa personne, de faire en justice l'abandon de tous ses biens à ses créanciers, nonobstant toute
+stipulation contraire.
+
+**Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Loi n°91-650 du 9 juillet 1991 - art. 94 (VT) JORF 14 juillet 1991 en vigueur le 1er août 1992
+
+	**Cité par**:
+
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 1845 bis (Ab)
+	  - Livre des procédures fiscales - art. L271 (M)
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1269
+
+La cession judiciaire ne confère point la propriété aux créanciers ; elle leur donne seulement le droit de faire vendre les
+biens à leur profit, et d'en percevoir les revenus jusqu'à la vente.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+	**Abrogé par**:
+
+	  - Loi n°91-650 du 9 juillet 1991 - art. 94 (VT) JORF 14 juillet 1991 en vigueur le 1er août 1992
+
+
+###### Article 1270
+
+Les créanciers ne peuvent refuser la cession judiciaire, si ce n'est dans les cas exceptés par la loi.
+
+Elle opère la décharge de la contrainte par corps.
+
+Au surplus, elle ne libère le débiteur que jusqu'à concurrence de la valeur des biens abandonnés ; et dans le cas où ils
+auraient été insuffisants, s'il lui en survient d'autres, il est obligé de les abandonner jusqu'au parfait paiement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+	**Abrogé par**:
+
+	  - Loi n°91-650 du 9 juillet 1991 - art. 94 (VT) JORF 14 juillet 1991 en vigueur le 1er août 1992
+
+
+#### Section 2 : De la novation.
+
+###### Article 1271
+
+La novation s'opère de trois manières :
+
+1° Lorsque le débiteur contracte envers son créancier une nouvelle dette qui est substituée à l'ancienne, laquelle est
+éteinte ;
+
+2° Lorsqu'un nouveau débiteur est substitué à l'ancien qui est déchargé par le créancier ;
+
+3° Lorsque, par l'effet d'un nouvel engagement, un nouveau créancier est substitué à l'ancien, envers lequel le débiteur se
+trouve déchargé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
+
+
+###### Article 1272
+
+La novation ne peut s'opérer qu'entre personnes capables de contracter.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
+
+
+###### Article 1273
+
+La novation ne se présume point ; il faut que la volonté de l'opérer résulte clairement de l'acte.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
+
+
+###### Article 1274
+
+La novation par la substitution d'un nouveau débiteur peut s'opérer sans le concours du premier débiteur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
+
+
+###### Article 1275
+
+La délégation par laquelle un débiteur donne au créancier un autre débiteur qui s'oblige envers le créancier, n'opère point
+de novation, si le créancier n'a expressément déclaré qu'il entendait décharger son débiteur qui a fait la délégation.
+
+**Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R431-63 (M)
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1276
+
+Le créancier qui a déchargé le débiteur par qui a été faite la délégation, n'a point de recours contre ce débiteur, si le
+délégué devient insolvable, à moins que l'acte n'en contienne une réserve expresse, ou que le délégué ne fût déjà en faillite
+ouverte, ou tombé en déconfiture au moment de la délégation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
+
+
+###### Article 1277
+
+La simple indication faite, par le débiteur, d'une personne qui doit payer à sa place, n'opère point novation.
+
+Il en est de même de la simple indication faite, par le créancier, d'une personne qui doit recevoir pour lui.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
+
+
+###### Article 1278
+
+Les privilèges et hypothèques de l'ancienne créance ne passent point à celle qui lui est substituée, à moins que le créancier
+ne les ait expressément réservés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
+
+
+###### Article 1280
+
+Lorsque la novation s'opère entre le créancier et l'un des débiteurs solidaires, les privilèges et hypothèques de l'ancienne
+créance ne peuvent être réservés que sur les biens de celui qui contracte la nouvelle dette.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
+
+
+###### Article 1281
+
+Par la novation faite entre le créancier et l'un des débiteurs solidaires, les codébiteurs sont libérés.
+
+La novation opérée à l'égard du débiteur principal libère les cautions.
+
+Néanmoins, si le créancier a exigé, dans le premier cas, l'accession des codébiteurs, ou, dans le second, celles des
+cautions, l'ancienne créance subsiste, si les codébiteurs ou les cautions refusent d'accéder au nouvel arrangement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
+
+
+#### Section 3 : De la remise de la dette.
+
+###### Article 1282
+
+La remise volontaire du titre original sous signature privée, par le créancier au débiteur, fait preuve de la libération.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
+
+
+###### Article 1283
+
+La remise volontaire de la grosse du titre fait présumer la remise de la dette ou le paiement, sans préjudice de la preuve
+contraire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
+
+
+###### Article 1284
+
+La remise du titre original sous signature privée, ou de la grosse du titre, à l'un des débiteurs solidaires, a le même effet
+au profit de ses codébiteurs.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
+
+
+###### Article 1285
+
+La remise ou décharge conventionnelle au profit de l'un des codébiteurs solidaires, libère tous les autres, à moins que le
+créancier n'ait expressément réservé ses droits contre ces derniers.
+
+Dans ce dernier cas, il ne peut plus répéter la dette que déduction faite de la part de celui auquel il a fait la remise.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
+
+
+###### Article 1286
+
+La remise de la chose donnée en nantissement ne suffit point pour faire présumer la remise de la dette.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1287
+
+La remise ou décharge conventionnelle accordée au débiteur principal libère les cautions ;
+
+Celle accordée à la caution ne libère pas le débiteur principal ;
+
+Celle accordée à l'une des cautions ne libère pas les autres.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
+
+
+###### Article 1288
+
+Ce que le créancier a reçu d'une caution pour la décharge de son cautionnement doit être imputé sur la dette, et tourner à la
+décharge du débiteur principal et des autres cautions.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
+
+
+#### Section 4 : De la compensation.
+
+###### Article 1289
+
+Lorsque deux personnes se trouvent débitrices l'une envers l'autre, il s'opère entre elles une compensation qui éteint les
+deux dettes, de la manière et dans les cas ci-après exprimés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
+
+
+###### Article 1290
+
+La compensation s'opère de plein droit par la seule force de la loi, même à l'insu des débiteurs ; les deux dettes
+s'éteignent réciproquement, à l'instant où elles se trouvent exister à la fois, jusqu'à concurrence de leurs quotités
+respectives.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
+
+
+###### Article 1291
+
+La compensation n'a lieu qu'entre deux dettes qui ont également pour objet une somme d'argent, ou une certaine quantité de
+choses fongibles de la même espèce et qui sont également liquides et exigibles.
+
+Les prestations en grains ou denrées, non contestées, et dont le prix est réglé par les mercuriales, peuvent se compenser
+avec des sommes liquides et exigibles.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
+
+
+###### Article 1292
+
+Le terme de grâce n'est point un obstacle à la compensation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
+
+
+###### Article 1293
+
+La compensation a lieu, quelles que soient les causes de l'une ou l'autre des dettes, excepté dans le cas :
+
+1° De la demande en restitution d'une chose dont le propriétaire a été injustement dépouillé ;
+
+2° De la demande en restitution d'un dépôt et du prêt à usage ;
+
+3° D'une dette qui a pour cause des aliments déclarés insaisissables.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
+
+
+###### Article 1294
+
+La caution peut opposer la compensation de ce que le créancier doit au débiteur principal ;
+
+Mais le débiteur principal ne peut opposer la compensation de ce que le créancier doit à la caution.
+
+Le débiteur solidaire ne peut pareillement opposer la compensation de ce que le créancier doit à son codébiteur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
+
+
+###### Article 1295
+
+Le débiteur qui a accepté purement et simplement la cession qu'un créancier a faite de ses droits à un tiers, ne peut plus
+opposer au cessionnaire la compensation qu'il eût pu, avant l'acceptation, opposer au cédant.
+
+A l'égard de la cession qui n'a point été acceptée par le débiteur, mais qui lui a été signifiée, elle n'empêche que la
+compensation des créances postérieures à cette notification.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
+
+
+###### Article 1296
+
+Lorsque les deux dettes ne sont pas payables au même lieu, on n'en peut opposer la compensation qu'en faisant raison des
+frais de la remise.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
+
+
+###### Article 1297
+
+Lorsqu'il y a plusieurs dettes compensables dues par la même personne, on suit, pour la compensation, les règles établies
+pour l'imputation par l'article 1256.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code civil - art. 1256 (Ab)
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
+
+
+###### Article 1298
+
+La compensation n'a pas lieu au préjudice des droits acquis à un tiers. Ainsi celui qui, étant débiteur, est devenu créancier
+depuis la saisie-arrêt faite par un tiers entre ses mains, ne peut, au préjudice du saisissant, opposer la compensation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1299
+
+Celui qui a payé une dette qui était, de droit, éteinte par la compensation, ne peut plus, en exerçant la créance dont il n'a
+point opposé la compensation, se prévaloir, au préjudice des tiers, des privilèges ou hypothèques qui y étaient attachés, à
+moins qu'il n'ait eu une juste cause d'ignorer la créance qui devait compenser sa dette.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
+
+
+#### Section 5 : De la confusion.
+
+###### Article 1300
+
+Lorsque les qualités de créancier et de débiteur se réunissent dans la même personne, il se fait une confusion de droit qui
+éteint les deux créances.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. L213-1 A (V)
+	  - Code monétaire et financier - art. L515-32-1 (VT)
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1301
+
+La confusion qui s'opère dans la personne du débiteur principal, profite à ses cautions ;
+
+Celle qui s'opère dans la personne de la caution, n'entraîne point l'extinction de l'obligation principale ;
+
+Celle qui s'opère dans la personne du créancier, ne profite à ses codébiteurs solidaires que pour la portion dont il était
+débiteur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+#### Section 6 : De la perte de la chose due.
+
+###### Article 1302
+
+Lorsque le corps certain et déterminé qui était l'objet de l'obligation vient à périr, est mis hors du commerce, ou se perd
+de manière qu'on en ignore absolument l'existence, l'obligation est éteinte si la chose a péri ou a été perdue sans la faute
+du débiteur et avant qu'il fût en demeure.
+
+Lors même que le débiteur est en demeure, et s'il ne s'est pas chargé des cas fortuits, l'obligation est éteinte dans le cas
+où la chose fût également périe chez le créancier si elle lui eût été livrée.
+
+Le débiteur est tenu de prouver le cas fortuit qu'il allègue.
+
+De quelque manière que la chose volée ait péri ou ait été perdue, sa perte ne dispense pas celui qui l'a soustraite, de la
+restitution du prix.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°2012-1246 du 7 novembre 2012 - art. 40 (V)
+	  - Code civil - art. 1195 (M)
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1303
+
+Lorsque la chose est périe, mise hors du commerce ou perdue, sans la faute du débiteur, il est tenu, s'il y a quelques droits
+ou actions en indemnité par rapport à cette chose, de les céder à son créancier.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+#### Section 7 : De l'action en nullité ou en rescision des conventions.
+
+###### Article 1306
+
+Le mineur n'est pas restituable pour cause de lésion, lorsqu'elle ne résulte que d'un événement casuel et imprévu.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1307
+
+La simple déclaration de majorité, faite par le mineur, ne fait point obstacle à sa restitution.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1309
+
+Le mineur n'est point restituable contre les conventions portées en son contrat de mariage, lorsqu'elles ont été faites avec
+le consentement et l'assistance de ceux dont le consentement est requis pour la validité de son mariage.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1310
+
+Il n'est point restituable contre les obligations résultant de son délit ou quasi-délit.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1311
+
+Il n'est plus recevable à revenir contre l'engagement qu'il avait souscrit en minorité, lorsqu'il l'a ratifié en majorité,
+soit que cet engagement fût nul en sa forme, soit qu'il fût seulement sujet à restitution.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1313
+
+Les majeurs ne sont restitués pour cause de lésion que dans les cas et sous les conditions spécialement exprimés dans le
+présent code.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code rural et de la pêche maritime - art. R343-26 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1314
+
+Lorsque les formalités requises à l'égard des mineurs ou des majeurs en tutelle, soit pour aliénation d'immeubles, soit dans
+un partage de succession, ont été remplies, ils sont, relativement à ces actes, considérés comme s'ils les avaient faits en
+majorité ou avant la tutelle des majeurs.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+### Chapitre VI : De la preuve des obligations et de celle du paiement.
+
+###### Article 1315
+
+Celui qui réclame l'exécution d'une obligation doit la prouver.
+
+Réciproquement, celui qui se prétend libéré doit justifier le paiement ou le fait qui a produit l'extinction de son
+obligation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1316
+
+Les règles qui concernent la preuve littérale, la preuve testimoniale, les présomptions, l'aveu de la partie et le serment,
+sont expliquées dans les sections suivantes.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°72-678 du 20 juillet 1972 - art. 53 (M)
+	  - Décret n°72-678 du 20 juillet 1972 - art. 65 (V)
+	  - Décret n°72-678 du 20 juillet 1972 - art. 72 (VD)
+	  - Décret n°72-678 du 20 juillet 1972 - art. 79-1 (VD)
+	  - Décret n°72-678 du 20 juillet 1972 - art. 79-2 (VD)
+	  - Décret n°2005-1308 du 20 octobre 2005 - art. 14 (V)
+	  - Décret n°2005-1742 du 30 décembre 2005 - art. 14 (VT)
+	  - Décret n°2010-406 du 26 avril 2010 - art. 15 (VT)
+	  - Arrêté du 24 juillet 2014 - art. 2 (M)
+	  - Code général des collectivités territoriales - art. R1415-7 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 1315-1 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+#### Section 1 : De la preuve littérale
+
+##### Paragraphe 1 : Du titre authentique.
+
+###### Article 1317
+
+L'acte authentique est celui qui a été reçu par officiers publics ayant le droit d'instrumenter dans le lieu où l'acte a été
+rédigé, et avec les solennités requises.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°79-1039 du 3 décembre 1979 - art. 2 (Ab)
+	  - Décret n°2009-1125 du 17 septembre 2009 - art. 1
+	  - Code du patrimoine. - art. R213-2 (M)
+	  - Loi du 16 mars 1803 - art. 10 (Ab)
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1318
+
+L'acte qui n'est point authentique par l'incompétence ou l'incapacité de l'officier, ou par un défaut de forme, vaut comme
+écriture privée, s'il a été signé des parties.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code rural et de la pêche maritime - art. R343-26 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1319
+
+L'acte authentique fait pleine foi de la convention qu'il renferme entre les parties contractantes et leurs héritiers ou
+ayants cause.
+
+Néanmoins, en cas de de plaintes en faux principal, l'exécution de l'acte argué de faux sera suspendue par la mise en
+accusation ; et, en cas d'inscription de faux faite incidemment, les tribunaux pourront, suivant les circonstances, suspendre
+provisoirement l'exécution de l'acte.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1320
+
+L'acte, soit authentique, soit sous seing privé, fait foi entre les parties, même de ce qui n'y est exprimé qu'en termes
+énonciatifs, pourvu que l'énonciation ait un rapport direct à la disposition. Les énonciations étrangères à la disposition ne
+peuvent servir que d'un commencement de preuve.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1321
+
+Les contre-lettres ne peuvent avoir leur effet qu'entre les parties contractantes ; elles n'ont point d'effet contre les
+tiers.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code civil - art. 1701-1 (VD)
+	  - Code de commerce - art. L525-6 (VD)
+	  - Code monétaire et financier - art. L223-13 (VD)
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+##### Paragraphe 2 : De l'acte sous seing privé.
+
+###### Article 1322
+
+L'acte sous seing privé, reconnu par celui auquel on l'oppose, ou légalement tenu pour reconnu, a, entre ceux qui l'ont
+souscrit et entre leurs héritiers et ayants cause, la même foi que l'acte authentique.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 1er août 2014 - art. 3 (V)
+	  - Code monétaire et financier - art. L223-13 (VD)
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1323
+
+Celui auquel on oppose un acte sous seing privé, est obligé d'avouer ou de désavouer formellement son écriture ou sa
+signature.
+
+Ses héritiers ou ayants cause peuvent se contenter de déclarer qu'ils ne connaissent point l'écriture ou la signature de leur
+auteur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1324
+
+Dans le cas où la partie désavoue son écriture ou sa signature, et dans le cas où ses héritiers ou ayants cause déclarent ne
+les point connaître, la vérification en est ordonnée en justice.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1325
+
+Les actes sous seing privé qui contiennent des conventions synallagmatiques, ne sont valables qu'autant qu'ils ont été faits
+en autant d'originaux qu'il y a de parties ayant un intérêt distinct.
+
+Il suffit d'un original pour toutes les personnes ayant le même intérêt.
+
+Chaque original doit contenir la mention du nombre des originaux qui en ont été faits.
+
+Néanmoins le défaut de mention que les originaux ont été faits doubles, triples, etc., ne peut être opposé par celui qui a
+exécuté de sa part la convention portée dans l'acte.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+	**Cité par**:
+
+	  - Loi n°70-9 du 2 janvier 1970 - art. 6 (VT)
+
+
+###### Article 1326
+
+Le billet ou la promesse sous seing privé par lequel une seule partie s'engage envers l'autre à lui payer une somme d'argent
+ou une chose appréciable, doit être écrit en entier de la main de celui qui le souscrit ; ou du moins il faut qu'outre sa
+signature, il ait écrit de sa main un bon ou un approuvé, portant en toutes lettres la somme ou la quantité de la chose.
+
+Excepté dans le cas où l'acte émane de marchands, artisans, laboureurs, vignerons, gens de journée et de service.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 8 avril 2005 - art. Annexe (V)
+	  - Arrêté du 21 février 2013 - art. (M)
+	  - Arrêté du 24 février 2014 - art. (M)
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1327
+
+Lorsque la somme exprimée au corps de l'acte est différente de celle exprimée au bon, l'obligation est présumée n'être que de
+la somme moindre, lors même que l'acte ainsi que le bon sont écrits en entier de la main de celui qui s'est obligé, à moins
+qu'il ne soit prouvé de quel côté est l'erreur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+	**Abrogé par**:
+
+	  - Loi n°80-525 du 12 juillet 1980, v. init.
+
+
+###### Article 1328
+
+Les actes sous seing privé n'ont de date contre les tiers que du jour où ils ont été enregistrés, du jour de la mort de celui
+ou de l'un de ceux qui les ont souscrits, ou du jour où leur substance est constatée dans les actes dressés par des officiers
+publics, tels que procès-verbaux de scellé ou d'inventaire.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°2008-1086 du 23 octobre 2008 - art. 60 (M)
+	  - Arrêté du 23 décembre 2009 - art. Annexe (M)
+	  - Code civil - art. 492-1 (VD)
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1329
+
+Les registres des marchands ne font point, contre les personnes non marchandes, preuve des fournitures qui y sont portées,
+sauf ce qui sera dit à l'égard du serment.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1330
+
+Les livres des marchands font preuve contre eux ; mais celui qui en veut tirer avantage, ne peut les diviser en ce qu'ils
+contiennent de contraire à sa prétention.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1331
+
+Les registres et papiers domestiques ne font point un titre pour celui qui les a écrits. Ils font foi contre lui :
+
+1° dans tous les cas où ils énoncent formellement un paiement reçu ;
+
+2° lorsqu'ils contiennent la mention expresse que la note a été faite pour suppléer le défaut du titre en faveur de celui au
+profit duquel ils énoncent une obligation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1332
+
+L'écriture mise par le créancier à la suite, en marge ou au dos d'un titre qui est toujours resté en sa possession, fait foi,
+quoique non signée ni datée par lui, lorsqu'elle tend à établir la libération du débiteur.
+
+Il en est de même de l'écriture mise par le créancier au dos ou en marge, ou à la suite du double d'un titre ou d'une
+quittance, pourvu que ce double soit entre les mains du débiteur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+##### Paragraphe 3 : Des tailles.
+
+###### Article 1333
+
+Les tailles corrélatives à leurs échantillons font foi entre les personnes qui sont dans l'usage de constater ainsi les
+fournitures qu'elles font ou reçoivent en détail.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+##### Paragraphe 4 : Des copies des titres.
+
+###### Article 1334
+
+Les copies, lorsque le titre original subsiste, ne font foi que de ce qui est contenu au titre, dont la représentation peut
+toujours être exigée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1335
+
+Lorsque le titre original n'existe plus, les copies font foi d'après les distinctions suivantes :
+
+1° Les grosses ou premières expéditions font la même foi que l'original ; il en est de même des copies qui ont été tirées par
+l'autorité du magistrat, parties présentes ou dûment appelées, ou de celles qui ont été tirées en présence des parties et de
+leur consentement réciproque.
+
+2° Les copies qui, sans l'autorité du magistrat, ou sans le consentement des parties, et depuis la délivrance des grosses ou
+premières expéditions, auront été tirées sur la minute de l'acte par le notaire qui l'a reçu, ou par l'un de ses successeurs,
+ou par officiers publics qui, en cette qualité, sont dépositaires des minutes, peuvent, au cas de perte de l'original, faire
+foi quand elles sont anciennes.
+
+Elles sont considérées comme anciennes quand elles ont plus de trente ans ;
+
+Si elles ont moins de trente ans, elles ne peuvent servir que de commencement de preuve par écrit.
+
+3° Lorsque les copies tirées sur la minute d'un acte ne l'auront pas été par le notaire qui l'a reçu, ou par l'un de ses
+successeurs, ou par officiers publics qui, en cette qualité, sont dépositaires des minutes, elles ne pourront servir, quelle
+que soit leur ancienneté, que de commencement de preuve par écrit.
+
+4° Les copies de copies pourront, suivant les circonstances, être considérées comme simples renseignements.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1336
+
+La transcription d'un acte sur les registres publics ne pourra servir que de commencement de preuve par écrit ; il faudra
+même pour cela :
+
+1° Qu'il soit constant que toutes les minutes du notaire, de l'année dans laquelle l'acte paraît avoir été fait, soient
+perdues, ou que l'on prouve que la perte de la minute de cet acte a été faite par un accident particulier ;
+
+2° Qu'il existe un répertoire en règle du notaire, qui constate que l'acte a été fait à la même date.
+
+Lorsqu'au moyen du concours de ces deux circonstances la preuve par témoins sera admise, il sera nécessaire que ceux qui ont
+été témoins de l'acte, s'ils existent encore, soient entendus.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+##### Paragraphe 5 : Des actes récognitifs et confirmatifs.
+
+###### Article 1337
+
+Les actes récognitifs ne dispensent point de la représentation du titre primordial, à moins que sa teneur n'y soit
+spécialement relatée.
+
+Ce qu'ils contiennent de plus que le titre primordial, ou ce qui s'y trouve de différent, n'a aucun effet.
+
+Néanmoins, s'il y avait plusieurs reconnaissances conformes, soutenues de la possession, et dont l'une eût trente ans de
+date, le créancier pourrait être dispensé de représenter le titre primordial.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R431-63 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1338
+
+L'acte de confirmation ou ratification d'une obligation contre laquelle la loi admet l'action en nullité ou en rescision,
+n'est valable que lorsqu'on y trouve la substance de cette obligation, la mention du motif de l'action en rescision, et
+l'intention de réparer le vice sur lequel cette action est fondée.
+
+A défaut d'acte de confirmation ou ratification, il suffit que l'obligation soit exécutée volontairement après l'époque à
+laquelle l'obligation pouvait être valablement confirmée ou ratifiée.
+
+La confirmation, ratification, ou exécution volontaire dans les formes et à l'époque déterminées par la loi, emporte la
+renonciation aux moyens et exceptions que l'on pouvait opposer contre cet acte, sans préjudice néanmoins du droit des tiers.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code civil - art. 402 (V)
+	  - Code civil - art. 416 (VT)
+	  - Loi n°75-1334 du 31 décembre 1975 - art. 14 (VD)
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1339
+
+Le donateur ne peut réparer par aucun acte confirmatif les vices d'une donation entre vifs, nulle en la forme ; il faut
+qu'elle soit refaite en la forme légale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1340
+
+La confirmation ou ratification, ou exécution volontaire d'une donation par les héritiers ou ayants cause du donateur, après
+son décès, emporte leur renonciation à opposer soit les vices de forme, soit toute autre exception.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+#### Section 2 : De la preuve testimoniale.
+
+###### Article 1346
+
+Toutes les demandes, à quelque titre que ce soit, qui ne seront pas entièrement justifiées par écrit, seront formées par un
+même exploit, après lequel les autres demandes dont il n'y aura point de preuves par écrit ne seront pas reçues.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+	**Cité par**:
+
+	  - Loi n°57-298 du 11 mars 1957 - art. 31 (Ab)
+	  - Loi n°65-557 du 10 juillet 1965 - art. 28 (VD)
+	  - Code de commerce - art. A444-161 (V)
+	  - Code des assurances - art. L443-1 (VD)
+	  - Code monétaire et financier - art. L313-22-1 (VD)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 98-774 1998-09-02 art. 1 I (champ d'application territoriale aux TOM et à Mayotte)
+	  - TXT_ASSOCIE: Code civil - art. 1345 (M)
+
+
+###### Article 1348
+
+Elles reçoivent encore exception toutes les fois qu'il n'a pas été possible au créancier de se procurer une preuve littérale
+de l'obligation qui a été contractée envers lui.
+
+Cette seconde exception s'applique :
+
+1° Aux obligations qui naissent des quasi-contrats et des délits ou quasi-délits ;
+
+2° Aux dépôts nécessaires faits en cas d'incendie, tumulte ou naufrage, et à ceux faits par les voyageurs en logeant dans une
+hôtellerie, le tout suivant la qualité des personnes et les circonstances du fait ;
+
+3° Aux obligations contractées en cas d'accidents imprévus, où l'on ne pourrait pas avoir fait des actes par écrit ;
+
+4° Au cas où le créancier a perdu le titre qui lui servait de preuve littérale, par suite d'un cas fortuit, imprévu et
+résultant d'une force majeure.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°2016-1673 du 5 décembre 2016 (V)
+	  - Loi n°57-298 du 11 mars 1957 - art. 31 (Ab)
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+#### Section 3 : Des présomptions.
+
+###### Article 1349
+
+Les présomptions sont des conséquences que la loi ou le magistrat tire d'un fait connu à un fait inconnu.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. L213-1 A (T)
+	  - Code monétaire et financier - art. L513-26 (VD)
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+##### Paragraphe 1 : Des présomptions établies par la loi.
+
+###### Article 1350
+
+La présomption légale est celle qui est attachée par une loi spéciale à certains actes ou à certains faits ; tels sont :
+
+1° Les actes que la loi déclare nuls, comme présumés faits en fraude de ses dispositions, d'après leur seule qualité ;
+
+2° Les cas dans lesquels la loi déclare la propriété ou la libération résulter de certaines circonstances déterminées ;
+
+3° L'autorité que la loi attribue à la chose jugée ;
+
+4° La force que la loi attache à l'aveu de la partie ou à son serment.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1351
+
+L'autorité de la chose jugée n'a lieu qu'à l'égard de ce qui a fait l'objet du jugement. Il faut que la chose demandée soit
+la même ; que la demande soit fondée sur la même cause ; que la demande soit entre les mêmes parties, et formée par elles et
+contre elles en la même qualité.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code civil - art. 1218 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1352
+
+La présomption légale dispense de toute preuve celui au profit duquel elle existe.
+
+Nulle preuve n'est admise contre la présomption de la loi, lorsque, sur le fondement de cette présomption, elle annule
+certains actes ou dénie l'action en justice, à moins qu'elle n'ait réservé la preuve contraire et sauf ce qui sera dit sur le
+serment et l'aveu judiciaires.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code civil - art. 1178 (V)
+	  - Code civil - art. 1187 (V)
+	  - Code civil - art. 1229 (V)
+	  - Code civil - art. 1302-3 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+##### Paragraphe 2 : Des présomptions qui ne sont point établies par la loi.
+
+###### Article 1353
+
+Les présomptions qui ne sont point établies par la loi, sont abandonnées aux lumières et à la prudence du magistrat, qui ne
+doit admettre que des présomptions graves, précises et concordantes, et dans les cas seulement où la loi admet les preuves
+testimoniales, à moins que l'acte ne soit attaqué pour cause de fraude ou de dol.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°2016-1573 du 22 novembre 2016 - art. 7
+	  - Code du patrimoine - art. R112-19-1 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+#### Section 4 : De l'aveu de la partie.
+
+###### Article 1354
+
+L'aveu qui est opposé à une partie est ou extrajudiciaire ou judiciaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1355
+
+L'allégation d'un aveu extrajudiciaire purement verbal est inutile toutes les fois qu'il s'agit d'une demande dont la preuve
+testimoniale ne serait point admissible.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1356
+
+L'aveu judiciaire est la déclaration que fait en justice la partie ou son fondé de pouvoir spécial.
+
+Il fait pleine foi contre celui qui l'a fait.
+
+Il ne peut être divisé contre lui.
+
+Il ne peut être révoqué, à moins qu'on ne prouve qu'il a été la suite d'une erreur de fait. Il ne pourrait être révoqué sous
+prétexte d'une erreur de droit.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+#### Section 5 : Du serment.
+
+###### Article 1357
+
+Le serment judiciaire est de deux espèces :
+
+1° Celui qu'une partie défère à l'autre pour en faire dépendre le jugement de la cause : il est appelé "décisoire".
+
+2° Celui qui est déféré d'office par le juge à l'une ou à l'autre des parties.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+##### Paragraphe 1 : Du serment décisoire.
+
+###### Article 1358
+
+Le serment décisoire peut être déféré sur quelque espèce de contestation que ce soit.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1359
+
+Il ne peut être déféré que sur un fait personnel à la partie à laquelle on le défère.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°80-533 du 15 juillet 1980 - art. 1 (V)
+	  - Ordonnance n°98-774 du 2 septembre 1998 - art. 1 (VD)
+	  - Code civil - art. 1924 (VD)
+	  - Code civil - art. 1950 (VD)
+	  - Code de la propriété intellectuelle - art. L131-2 (VD)
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1360
+
+Il peut être déféré en tout état de cause, et encore qu'il n'existe aucun commencement de preuve de la demande ou de
+l'exception sur laquelle il est provoqué.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1361
+
+Celui auquel le serment est déféré, qui le refuse ou ne consent pas à le référer à son adversaire, ou l'adversaire à qui il a
+été référé et qui le refuse, doit succomber dans sa demande ou dans son exception.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1362
+
+Le serment ne peut être référé quand le fait qui en est l'objet n'est point celui des deux parties, mais est purement
+personnel à celui auquel le serment avait été déféré.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1363
+
+Lorsque le serment déféré ou référé a été fait, l'adversaire n'est point recevable à en prouver la fausseté.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1364
+
+La partie qui a déféré ou référé le serment ne peut plus se rétracter lorsque l'adversaire a déclaré qu'il est prêt à faire
+ce serment.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1365
+
+Le serment ne forme preuve qu'au profit de celui qui l'a déféré ou contre lui, et au profit de ses héritiers et ayants cause
+ou contre eux.
+
+Néanmoins, le serment déféré par l'un des créanciers solidaires au débiteur ne libère celui-ci que pour la part de ce
+créancier.
+
+Le serment déféré au débiteur principal libère également les cautions.
+
+Celui déféré à l'un des débiteurs solidaires profite aux codébiteurs.
+
+Et celui déféré à la caution profite au débiteur principal.
+
+Dans ces deux derniers cas, le serment du codébiteur solidaire ou de la caution ne profite aux autres codébiteurs ou au
+débiteur principal que lorsqu'il a été déféré sur la dette, et non sur le fait de la solidarité ou du cautionnement.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°72-678 du 20 juillet 1972 - art. 53 (V)
+	  - Décret n°72-678 du 20 juillet 1972 - art. 65 (V)
+	  - Décret n°72-678 du 20 juillet 1972 - art. 72 (V)
+	  - Décret n°72-678 du 20 juillet 1972 - art. 79-1 (V)
+	  - Décret n°72-678 du 20 juillet 1972 - art. 79-2 (V)
+	  - Arrêté du 24 juillet 2014 - art. 2 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+##### Paragraphe 2 : Du serment déféré d'office.
+
+###### Article 1366
+
+Le juge peut déférer à l'une des parties le serment, ou pour en faire dépendre la décision de la cause, ou seulement pour
+déterminer le montant de la condamnation.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi du 1 juin 1924 - art. 36-2 (VD)
+	  - Loi du 1 juin 1924 - art. 36-3 (VD)
+	  - Décret n°67-223 du 17 mars 1967 - art. 14 (V)
+	  - Décret n°67-223 du 17 mars 1967 - art. 17 (V)
+	  - Décret n°98-247 du 2 avril 1998 - art. 19 (VD)
+	  - Décret n°98-247 du 2 avril 1998 - art. 21 (VD)
+	  - Décret n°2013-559 du 26 juin 2013 - art. 40 (V)
+	  - Arrêté du 24 juillet 2014 - art. 2 (V)
+	  - Décret n°2017-861 du 9 mai 2017 - art. 25
+	  - Code civil - art. 1174 (V)
+	  - Code civil - art. 1375 (V)
+	  - Code civil - art. 2513 (VD)
+	  - Code de commerce - art. R762-5 (V)
+	  - Code de la santé publique - art. L1111-27 (V)
+	  - Code de procédure civile - art. 287 (V)
+	  - Code du tourisme. - art. R211-48 (V)
+	  - Code du tourisme. - art. R211-49 (V)
+	  - Code rural et de la pêche maritime - art. R141-2-3 (V)
+	  - Code rural et de la pêche maritime - art. R143-6 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1367
+
+Le juge ne peut déférer d'office le serment, soit sur la demande, soit sur l'exception qui y est opposée, que sous les deux
+conditions suivantes ; il faut :
+
+1. Que la demande ou l'exception ne soit pas pleinement justifiée ;
+
+2. Qu'elle ne soit pas totalement dénuée de preuves.
+
+Hors ces deux cas, le juge doit ou adjuger ou rejeter purement et simplement la demande.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°67-223 du 17 mars 1967 - art. 17 (V)
+	  - Décret n°71-941 du 26 novembre 1971 - art. 17 (V)
+	  - Décret n°98-247 du 2 avril 1998 - art. 21 (VD)
+	  - Décret n°2001-272 du 30 mars 2001 - art. 1 (V)
+	  - Décret n°2006-1804 du 23 décembre 2006 - art. 1 (V)
+	  - Décret n°2009-1193 du 7 octobre 2009 - art. 51 (V)
+	  - Décret n°2009-1193 du 7 octobre 2009 - art. 52 (V)
+	  - Décret n°2009-1193 du 7 octobre 2009 - art. 58 (V)
+	  - Décret n°2009-1193 du 7 octobre 2009 - art. 81 (V)
+	  - Décret n°2013-559 du 26 juin 2013 - art. 40 (V)
+	  - Arrêté du 12 juillet 2013 - art. 4 (V)
+	  - Décret n°2015-731 du 24 juin 2015 - art. 6 (V)
+	  - Arrêté du 30 décembre 2015 - art. 8 (V)
+	  - Décret n°2017-696 du 2 mai 2017 - art. 2
+	  - Code civil - art. 1174 (V)
+	  - Code de commerce - art. A123-30 (V)
+	  - Code de commerce - art. R123-24 (VT)
+	  - Code de commerce - art. R123-30-10 (V)
+	  - Code de commerce - art. R123-77 (V)
+	  - Code de commerce - art. R526-20 (V)
+	  - Code de commerce - art. R527-3 (V)
+	  - Code de justice administrative - art. R414-2 (V)
+	  - Code de la propriété intellectuelle - art. R331-36 (V)
+	  - Code de la santé publique - art. L1111-28 (V)
+	  - Code de la santé publique - art. R3115-38 (V)
+	  - Code de la santé publique - art. R3115-43 (V)
+	  - Code des juridictions financières - art. R141-10 (Ab)
+	  - Code des juridictions financières - art. R241-33 (Ab)
+	  - Code du tourisme. - art. R211-48 (V)
+	  - Code rural et de la pêche maritime - art. R311-2-3 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1368
+
+Le serment déféré d'office par le juge à l'une des parties ne peut être par elle référé à l'autre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1369
+
+Le serment sur la valeur de la chose demandée ne peut être déféré par le juge au demandeur que lorsqu'il est d'ailleurs
+impossible de constater autrement cette valeur.
+
+Le juge doit même, en ce cas, déterminer la somme jusqu'à concurrence de laquelle le demandeur en sera cru sur son serment.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code civil - art. 1174 (V)
+	  - Code du patrimoine - art. R213-2 (V)
+	  - Ordonnance n°2016-728 du 2 juin 2016 - art. 10 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+## Titre V : Du contrat de mariage et des régimes matrimoniaux
+
+### Chapitre II : Régimes en communauté
+
+#### Première partie : Communauté légale
+
+##### Section III : Dissolution de la communauté
+
+##### Paragraphe 3 : Contribution au passif après le partage.
+
+###### Article 1492
+
+(article abrogé).
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+	**Codifié par**:
+
+	  - Loi n°65-570 1965-07-13
+
+
+###### Article 1493
+
+(article abrogé).
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+	**Codifié par**:
+
+	  - Loi n°65-570 1965-07-13
+
+
+###### Article 1494
+
+(article abrogé).
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+	**Codifié par**:
+
+	  - Loi n°65-570 1965-07-13
+
+
+###### Article 1495
+
+(article abrogé).
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+	**Codifié par**:
+
+	  - Loi n°65-570 1965-07-13
+
+
+###### Article 1496
+
+(article abrogé).
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+	**Codifié par**:
+
+	  - Loi n°65-570 1965-07-13
 
 

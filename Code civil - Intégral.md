@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1971-07-08
+Version Consolidée au 1971-07-17
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -40796,6 +40796,85 @@ l'article L. 721-1 du code du travail sur les sommes dues à ce travailleur par 
 	  - Code du travail 721-1
 
 
+#### Section II : Des privilèges spéciaux sur les immeubles.
+
+###### Article 2103
+
+Les créanciers privilégiés sur les immeubles sont :
+
+1° Le vendeur, sur l'immeuble vendu, pour le paiement du prix ;
+
+S'il y a plusieurs ventes successives dont le prix soit dû en tout ou en partie, le premier vendeur est préféré au second, le
+deuxième au troisième, et ainsi de suite ;
+
+2° Même en l'absence de subrogation, ceux qui ont fourni les deniers pour l'acquisition d'un immeuble, pourvu qu'il soit
+authentiquement constaté, par l'acte d'emprunt, que la somme était destinée à cet emploi et, par quittance du vendeur, que ce
+paiement a été fait des deniers empruntés ;
+
+3° Les cohéritiers, sur les immeubles de la succession, pour la garantie des partages faits entre eux, et des soultes ou
+retours de lots ; pour la garantie des indemnités dues en application de l'article 866, les immeubles donnés ou légués sont
+assimilés aux immeubles de la succession ;
+
+4° Les architectes, entrepreneurs, maçons et autres ouvriers employés pour édifier, reconstruire ou réparer des bâtiments,
+canaux ou autres ouvrages quelconques, pourvu néanmoins que, par un expert nommé d'office par le tribunal de grande instance
+dans le ressort duquel les bâtiments sont situés, il ait été dressé préalablement un procès-verbal, à l'effet de constater
+l'état des lieux relativement aux ouvrages que le propriétaire déclarera avoir dessein de faire, et que les ouvrages aient
+été, dans les six mois au plus de leur perfection, reçus par un expert également nommé d'office ;
+
+Mais le montant du privilège ne peut excéder les valeurs constatées par le second procès-verbal, et il se réduit à la plus-
+value existante à l'époque de l'aliénation de l'immeuble et résultant des travaux qui y ont été faits ;
+
+5° Ceux qui ont prêté les deniers, pour payer ou rembourser les ouvriers, jouissent du même privilège, pourvu que cet emploi
+soit authentiquement constaté par l'acte d'emprunt, et par la quittance des ouvriers, ainsi qu'il a été dit ci-dessus pour
+ceux qui ont prêté les deniers pour l'acquisition d'un immeuble ;
+
+6° Les créanciers et légataires d'une personne défunte, sur les immeubles de la succession, pour la garantie des droits
+qu'ils tiennent de l'article 878.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°1924-06-01 du 1 juin 1924 - art. 47 (M)
+	  - Loi n°1924-06-01 du 1 juin 1924 - art. 49 (M)
+	  - Décret n°55-22 du 4 janvier 1955 - art. 15 (M)
+	  - Loi n°65-557 du 10 juillet 1965 - art. 19-1 (M)
+	  - Loi n°84-595 du 12 juillet 1984 - art. 16 (M)
+	  - Loi n°84-595 du 12 juillet 1984 - art. 20 (M)
+	  - Ordonnance n°2006-461 du 21 avril 2006 - art. 24 (VT)
+	  - Code civil - art. 2107 (T)
+	  - Code civil - art. 2147 (T)
+	  - Code de procédure civile - art. 686 (M)
+	  - Code des assurances - art. L132-30 (M)
+	  - Code des assurances - art. R332-15 (M)
+	  - Code rural - art. L342-11 (M)
+	  - Code rural - art. L342-12 (M)
+	  - Code rural ancien - art. 691 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°55-22 du 4 janvier 1955 - art. 11 () JORF 7 janvier 1955 rectificatif JORF 27 janvier 1955
+	  - Ordonnance 59-71 1959-01-07 JORF 8 janvier 1959 rectificatif JORF 31 janvier, 19 mars 1959
+	  - Loi n°71-579 1971-07-16 art. 47-1 JORF 17 juillet 1971
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-19
+
+	**Créé par**:
+
+	  - Loi n°1804-03-19 promulguée le 29 mars 1804
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2374 (V)
+
+	**Cite**:
+
+	  - Code civil - art. 866 (M)
+	  - Code civil - art. 878 (M)
+
+
 #### Section 3 : Des privilèges généraux sur les immeubles.
 
 ###### Article 2105
@@ -46454,6 +46533,62 @@ Il suffit que la bonne foi ait existé au moment de l'acquisition.
 
 #### Section 4 : De quelques prescriptions particulières.
 
+###### Article 2271
+
+L'action des maîtres et instituteurs des sciences et arts, pour les leçons qu'ils donnent au mois :
+
+Celle des hôteliers et traiteurs à raison du logement et de la nourriture qu'ils fournissent, se prescrivent par six mois.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-15
+
+	**Créé par**:
+
+	  - Loi n°1804-03-15 promulguée le 25 mars 1804
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°96-609 1996-07-05 art. 10 I *champ d'application du code étendu à la Nouvelle-Calédonie, à la Polynésie française*
+
+	**Cité par**:
+
+	  - Loi n°96-609 du 5 juillet 1996 - art. 10 (V)
+
+
+###### Article 2272
+
+L'action des huissiers, pour le salaire des actes qu'ils signifient et des commissions qu'ils exécutent ;
+
+Celle des maîtres de pensions, pour le prix de pension de leurs élèves, et des autres maîtres, pour le prix de
+l'apprentissage, se prescrivent par un an.
+
+L'action des médecins, chirurgiens, chirurgiens-dentistes, sages-femmes et pharmaciens, pour leurs visites, opérations et
+médicaments, se prescrit par deux ans.
+
+L'action des marchands, pour les marchandises qu'ils vendent aux particuliers non marchands, se prescrit par deux ans.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-15
+
+	**Créé par**:
+
+	  - Loi n°1804-03-15 promulguée le 25 mars 1804
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°96-609 1996-07-05 art. 10 I *champ d'application du code étendu à la Nouvelle-Calédonie, à la Polynésie française*
+
+	**Cité par**:
+
+	  - Loi n°96-609 du 5 juillet 1996 - art. 10 (V)
+
+
 ###### Article 2273
 
 L'action des avocats, pour le paiement de leurs frais et salaires, se prescrit par deux ans, à compter du jugement des procès
@@ -46531,6 +46666,48 @@ chargés, en sont pareillement déchargés.
 
 	  - Code civil - art. 2337 (V)
 	  - Code civil - art. 924-4 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-15
+
+	**Créé par**:
+
+	  - Loi n°1804-03-15 promulguée le 25 mars 1804
+
+
+###### Article 2277
+
+Se prescrivent par cinq ans les actions en paiement :
+
+Des salaires ;
+
+Des arrérages des rentes perpétuelles et viagères et de ceux des pensions alimentaires ;
+
+Des loyers et des fermages ;
+
+Des intérêts des sommes prêtées,
+
+et généralement de tout ce qui est payable par année ou à des termes périodiques plus courts.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°57-1025 du 10 septembre 1957 - art. 11 (V)
+	  - Décret n°90-1215 du 20 décembre 1990 - art. 112 (V)
+	  - Arrêté du 28 décembre 1990 - art. Annexe, art. 8 (V)
+	  - Loi n°96-609 du 5 juillet 1996 - art. 10 (V)
+	  - Code de commerce - art. 433-1 (Ab)
+	  - Code de commerce. - art. L110-4 (V)
+	  - Code de la sécurité sociale. - art. D814-31 (Ab)
+	  - Code du domaine de l'Etat - art. L48 (Ab)
+	  - Code du domaine de l'Etat et des collectivités pub - art. L231-1 (Ab)
+	  - Code du travail - art. L143-14 (AbD)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°96-609 1996-07-05 art. 10 I *champ d'application du code étendu à la Nouvelle-Calédonie, à la Polynésie française*
 
 	**Codifié par**:
 

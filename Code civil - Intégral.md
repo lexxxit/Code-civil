@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1864-03-29
+Version Consolidée au 1867-07-23
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -25612,36 +25612,6 @@ L'erreur de calcul dans une transaction doit être réparée.
 
 
 ###### Article 2068
-
-(article abrogé).
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°1804-03-16 promulguée le 26 mars 1804
-
-	**Codifié par**:
-
-	  - Loi n°72-626 1972-07-05
-
-
-###### Article 2069
-
-(article abrogé).
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°1804-03-16 promulguée le 26 mars 1804
-
-	**Codifié par**:
-
-	  - Loi n°72-626 1972-07-05
-
-
-###### Article 2070
 
 (article abrogé).
 

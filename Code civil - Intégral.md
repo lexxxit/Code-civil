@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1804-02-17
+Version Consolidée au 1804-02-19
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -16171,6 +16171,381 @@ Le juge doit même, en ce cas, déterminer la somme jusqu'à concurrence de laqu
 	**Créé par**:
 
 	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+## Titre IV : Des engagements qui se forment sans convention
+
+###### Article 1370
+
+Certains engagements se forment sans qu'il intervienne aucune convention, ni de la part de celui qui s'oblige, ni de la part
+de celui envers lequel il est obligé.
+
+Les uns résultent de l'autorité seule de la loi ; les autres naissent d'un fait personnel à celui qui se trouve obligé.
+
+Les premiers sont les engagements formés involontairement, tels que ceux entre propriétaires voisins, ou ceux des tuteurs et
+des autres administrateurs qui ne peuvent refuser la fonction qui leur est déférée.
+
+Les engagements qui naissent d'un fait personnel à celui qui se trouve obligé, résultent ou des quasi-contrats, ou des délits
+ou quasi-délits ; ils font la matière du présent titre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-09
+
+	**Créé par**:
+
+	  - Loi n°1804-02-09 promulguée le 19 février 1804
+
+
+### Chapitre Ier : Des quasi-contrats.
+
+###### Article 1371
+
+Les quasi-contrats sont les faits purement volontaires de l'homme, dont il résulte un engagement quelconque envers un tiers,
+et quelquefois un engagement réciproque des deux parties.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-09
+
+	**Créé par**:
+
+	  - Loi n°1804-02-09 promulguée le 19 février 1804
+
+
+###### Article 1372
+
+Lorsque volontairement on gère l'affaire d'autrui, soit que le propriétaire connaisse la gestion, soit qu'il l'ignore, celui
+qui gère contracte l'engagement tacite de continuer la gestion qu'il a commencée, et de l'achever jusqu'à ce que le
+propriétaire soit en état d'y pourvoir lui-même ; il doit se charger également de toutes les dépendances de cette même
+affaire.
+
+Il se soumet à toutes les obligations qui résulteraient d'un mandat exprès que lui aurait donné le propriétaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-09
+
+	**Créé par**:
+
+	  - Loi n°1804-02-09 promulguée le 19 février 1804
+
+
+###### Article 1373
+
+Il est obligé de continuer sa gestion, encore que le maître vienne à mourir avant que l'affaire soit consommée, jusqu'à ce
+que l'héritier ait pu en prendre la direction.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-09
+
+	**Créé par**:
+
+	  - Loi n°1804-02-09 promulguée le 19 février 1804
+
+
+###### Article 1374
+
+Il est tenu d'apporter à la gestion de l'affaire tous les soins d'un bon père de famille.
+
+Néanmoins les circonstances qui l'ont conduit à se charger de l'affaire peuvent autoriser le juge à modérer les dommages et
+intérêts qui résulteraient des fautes ou de la négligence du gérant.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-09
+
+	**Créé par**:
+
+	  - Loi n°1804-02-09 promulguée le 19 février 1804
+
+
+###### Article 1375
+
+Le maître dont l'affaire a été bien administrée doit remplir les engagements que le gérant a contractés en son nom,
+l'indemniser de tous les engagements personnels qu'il a pris, et lui rembourser toutes les dépenses utiles ou nécessaires
+qu'il a faites.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-09
+
+	**Créé par**:
+
+	  - Loi n°1804-02-09 promulguée le 19 février 1804
+
+	**Cité par**:
+
+	  - Loi n°70-9 du 2 janvier 1970 - art. 6 (VD)
+
+
+###### Article 1376
+
+Celui qui reçoit par erreur ou sciemment ce qui ne lui est pas dû s'oblige à le restituer à celui de qui il l'a indûment
+reçu.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°2012-1246 du 7 novembre 2012 - art. 40 (M)
+	  - Arrêté du 21 février 2013 - art. (V)
+	  - Arrêté du 24 février 2014 - art. (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-09
+
+	**Créé par**:
+
+	  - Loi n°1804-02-09 promulguée le 19 février 1804
+
+
+###### Article 1377
+
+Lorsqu'une personne qui, par erreur, se croyait débitrice, a acquitté une dette, elle a le droit de répétition contre le
+créancier.
+
+Néanmoins, ce droit cesse dans le cas où le créancier a supprimé son titre par suite du paiement, sauf le recours de celui
+qui a payé contre le véritable débiteur.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°2008-1086 du 23 octobre 2008 - art. 60 (V)
+	  - Arrêté du 23 décembre 2009 - art. Annexe (V)
+	  - Code civil - art. 492-1 (VD)
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-09
+
+	**Créé par**:
+
+	  - Loi n°1804-02-09 promulguée le 19 février 1804
+
+
+###### Article 1378
+
+S'il y a eu mauvaise foi de la part de celui qui a reçu, il est tenu de restituer, tant le capital que les intérêts ou les
+fruits, du jour du paiement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-09
+
+	**Créé par**:
+
+	  - Loi n°1804-02-09 promulguée le 19 février 1804
+
+
+###### Article 1379
+
+Si la chose indûment reçue est un immeuble ou un meuble corporel, celui qui l'a reçue s'oblige à la restituer en nature, si
+elle existe, ou sa valeur, si elle est périe ou détériorée par sa faute ; il est même garant de sa perte par cas fortuit,
+s'il l'a reçue de mauvaise foi.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°2016-1673 du 5 décembre 2016 (V)
+	  - Décret n°2016-1673 du 5 décembre 2016 - art. 1 (V)
+	  - Code de la santé publique - art. L1111-26 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-09
+
+	**Créé par**:
+
+	  - Loi n°1804-02-09 promulguée le 19 février 1804
+
+
+###### Article 1380
+
+Si celui qui a reçu de bonne foi a vendu la chose, il ne doit restituer que le prix de la vente.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-09
+
+	**Créé par**:
+
+	  - Loi n°1804-02-09 promulguée le 19 février 1804
+
+
+###### Article 1381
+
+Celui auquel la chose est restituée, doit tenir compte, même au possesseur de mauvaise foi, de toutes les dépenses
+nécessaires et utiles qui ont été faites pour la conservation de la chose.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-09
+
+	**Créé par**:
+
+	  - Loi n°1804-02-09 promulguée le 19 février 1804
+
+
+### Chapitre II : Des délits et des quasi-délits.
+
+###### Article 1382
+
+Tout fait quelconque de l'homme, qui cause à autrui un dommage, oblige celui par la faute duquel il est arrivé à le réparer.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi du 29 juillet 1881 - art. 44 (M)
+	  - Loi n°1908-08-05 du 5 août 1908 - art. 2 (V)
+	  - Décret n°53-511 du 21 mai 1953 - art. 37 (M)
+	  - Loi n°57-298 du 11 mars 1957 - art. 16 (M)
+	  - Loi n°62-933 du 8 août 1962 - art. 20 (Ab)
+	  - Décret n°66-619 du 10 août 1966 - art. 31 (Ab)
+	  - Arrêté du 28 mai 1968 - art. 9 (Ab)
+	  - Loi n°68-1172 du 27 décembre 1968 - art. 14 (Ab)
+	  - Décret n°75-542 du 30 juin 1975 - art. 16 (Ab)
+	  - Arrêté du 25 février 1982 - art. 28 (M)
+	  - Décret n°89-271 du 12 avril 1989 - art. 34 (Ab)
+	  - Décret n°90-437 du 28 mai 1990 - art. 34 (Ab)
+	  - Décret n°91-573 du 19 juin 1991 - art. 34 (Ab)
+	  - Loi n°92-60 du 18 janvier 1992 - art. 10 (MMN)
+	  - Décret n°92-159 du 21 février 1992 - art. 27 (Ab)
+	  - Décret n°92-566 du 25 juin 1992 - art. 33 (V)
+	  - Décret n°98-844 du 22 septembre 1998 - art. 49 (Ab)
+	  - Arrêté du 28 février 2008 - art. (V)
+	  - Arrêté du 2 février 2009 - art. (M)
+	  - Arrêté du 29 août 2013 - art. (M)
+	  - Décret n°2016-253 du 2 mars 2016 - art. (M)
+	  - Arrêté du 14 mars 1969 - art. Annexe art. 17 (Ab)
+	  - CODE PENAL - art. 69 (Ab)
+	  - Code de l'environnement - art. L426-4 (V)
+	  - Code de l'environnement - art. R*226-18 (Ab)
+	  - Code de l'environnement - art. R426-18 (VD)
+	  - Code de la consommation - art. L121-14 (VT)
+	  - Code des assurances - art. L121-13 (V)
+	  - Code des débits de boissons et des mesures contre  - art. L96 (M)
+	  - Code des postes et des communications électroni... - art. L7 (V)
+	  - Code des postes et des communications électroni... - art. L8 (V)
+	  - Code du sport. - art. Annexe II-9 (M)
+	  - Code du travail - art. L144-3 (AbD)
+	  - Code du travail - art. L3251-4 (VD)
+	  - Code du travail applicable à Mayotte. - art. L144-3 (V)
+	  - Code forestier (nouveau) - art. L131-16 (VD)
+	  - Code forestier - art. L322-4 (T)
+	  - Code forestier - art. L322-8 (V)
+	  - Code forestier - art. R322-7 (M)
+	  - Code rural - art. L226-4 (MMN)
+	  - Code rural - art. L325-3 (V)
+	  - Code rural - art. L415-6 (V)
+	  - Code rural - art. R226-18 (Ab)
+	  - Code rural ancien - art. 857 (Ab)
+	  - Loi n°1930-03-26 du 26 mars 1930 - art. 3 (Ab)
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-09
+
+	**Créé par**:
+
+	  - Loi n°1804-02-09 promulguée le 19 février 1804
+
+
+###### Article 1383
+
+Chacun est responsable du dommage  qu'il a causé non seulement par son fait, mais encore par sa négligence ou par son
+imprudence.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°53-511 du 21 mai 1953 - art. 37 (M)
+	  - Décret n°66-619 du 10 août 1966 - art. 31 (Ab)
+	  - Arrêté du 28 mai 1968 - art. 9 (Ab)
+	  - Décret n°90-437 du 28 mai 1990 - art. 34 (Ab)
+	  - Décret n°91-573 du 19 juin 1991 - art. 34 (Ab)
+	  - Décret n°92-159 du 21 février 1992 - art. 27 (Ab)
+	  - Décret n°98-844 du 22 septembre 1998 - art. 49 (Ab)
+	  - Arrêté du 14 mars 1969 - art. Annexe art. 17 (Ab)
+	  - CODE PENAL - art. 69 (Ab)
+	  - Code de procédure pénale - art. 4-1 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-09
+
+	**Créé par**:
+
+	  - Loi n°1804-02-09 promulguée le 19 février 1804
+
+
+###### Article 1385
+
+Le propriétaire d'un animal, ou celui qui s'en sert, pendant qu'il est à son usage, est responsable du dommage que l'animal a
+causé, soit que l'animal fût sous sa garde, soit qu'il fût égaré ou échappé.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 14 mars 1969 - art. Annexe art. 17 (Ab)
+	  - CODE PENAL - art. 69 (Ab)
+	  - Code rural - art. L211-1 (VT)
+	  - Code rural - art. L911-1 (T)
+	  - Code rural ancien - art. 200 (Ab)
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-09
+
+	**Créé par**:
+
+	  - Loi n°1804-02-09 promulguée le 19 février 1804
+
+
+###### Article 1386
+
+Le propriétaire d'un bâtiment est responsable du dommage causé par sa ruine, lorsqu'elle est arrivée par une suite du défaut
+d'entretien ou par le vice de sa construction.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 14 mars 1969 - art. Annexe art. 17 (Ab)
+	  - CODE PENAL - art. 69 (Ab)
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-09
+
+	**Créé par**:
+
+	  - Loi n°1804-02-09 promulguée le 19 février 1804
 
 
 ## Titre V : Du contrat de mariage et des régimes matrimoniaux

@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1994-07-26
+Version Consolidée au 1994-07-30
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -137,6 +137,588 @@ On ne peut déroger, par des conventions particulières, aux lois qui intéresse
 
 
 # Livre Ier : Des personnes
+
+## Titre Ier : Des droits civils
+
+###### Article 7
+
+L'exercice des droits civils est indépendant de l'exercice des droits politiques, lesquels s'acquièrent et se conservent
+conformément aux lois constitutionnelles et électorales.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-08
+
+	**Créé par**:
+
+	  - Loi n°1803-03-08 promulguée le 18 mars 1803
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°94-653 1994-07-29 art. 11 *champ d'application*
+
+	**Modifié par**:
+
+	  - Loi n°94-653 du 29 juillet 1994 - art. 1 () JORF 30 juillet 1994
+
+	**Cité par**:
+
+	  - Code civil - art. 2492 (VD)
+
+
+###### Article 8
+
+Tout Français jouira des droits civils.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-08
+
+	**Créé par**:
+
+	  - Loi n°1803-03-08 promulguée le 18 mars 1803
+
+	**Modifié par**:
+
+	  - Loi n°1927-08-10 art. 13
+	  - Loi n°94-653 du 29 juillet 1994 - art. 1 () JORF 30 juillet 1994
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°94-653 1994-07-29 art. 11 *champ d'application*
+
+
+###### Article 9
+
+Chacun a droit au respect de sa vie privée.
+
+Les juges peuvent, sans préjudice de la réparation du dommage subi, prescrire toutes mesures, telles que séquestre, saisie et
+autres, propres à empêcher ou faire cesser une atteinte à l'intimité de la vie privée : ces mesures peuvent, s'il y a
+urgence, être ordonnées en référé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-08
+
+	**Créé par**:
+
+	  - Loi n°1803-03-08 promulguée le 18 mars 1803
+
+	**Modifié par**:
+
+	  - Loi n°1927-08-10 art. 13
+	  - Loi n°70-643 du 17 juillet 1970 - art. 22 () JORF 19 juillet 1970
+	  - Loi n°94-653 du 29 juillet 1994 - art. 1 () JORF 30 juillet 1994
+
+	**Cité par**:
+
+	  - Loi n°83-520 du 27 juin 1983 - art. 67 (V)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°94-653 1994-07-29 art. 11 *champ d'application*
+
+
+###### Article 10
+
+Chacun est tenu d'apporter son concours à la justice en vue de la manifestation de la vérité.
+
+Celui qui, sans motif légitime, se soustrait à cette obligation lorsqu'il en a été légalement requis, peut être contraint d'y
+satisfaire, au besoin à peine d'astreinte ou d'amende civile, sans préjudice de dommages et intérêts.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-08
+
+	**Créé par**:
+
+	  - Loi n°1803-03-08 promulguée le 18 mars 1803
+
+	**Modifié par**:
+
+	  - Loi n°1927-08-10 art. 13
+	  - Loi n°72-626 du 5 juillet 1972 - art. 12 () JORF 9 juillet 1972 en vigueur le 16 septembre 1972
+	  - Loi n°94-653 du 29 juillet 1994 - art. 1 () JORF 30 juillet 1994
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°94-653 1994-07-29 art. 11 *champ d'application*
+
+
+###### Article 11
+
+L'étranger jouira en France des mêmes droits civils que ceux qui sont ou seront accordés aux Français par les traités de la
+nation à laquelle cet étranger appartiendra.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-08
+
+	**Créé par**:
+
+	  - Loi n°1803-03-08 promulguée le 18 mars 1803
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°94-653 1994-07-29 art. 11 *champ d'application*
+
+	**Modifié par**:
+
+	  - Loi n°94-653 du 29 juillet 1994 - art. 1 () JORF 30 juillet 1994
+
+
+###### Article 14
+
+L'étranger, même non résidant en France, pourra être cité devant les tribunaux français, pour l'exécution des obligations par
+lui contractées en France avec un Français ; il pourra être traduit devant les tribunaux de France, pour les obligations par
+lui contractées en pays étranger envers des Français.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-08
+
+	**Créé par**:
+
+	  - Loi n°1803-03-08 promulguée le 18 mars 1803
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°94-653 1994-07-29 art. 11 *champ d'application*
+
+	**Modifié par**:
+
+	  - Loi n°94-653 du 29 juillet 1994 - art. 1 () JORF 30 juillet 1994
+
+
+###### Article 15
+
+Un Français pourra être traduit devant un tribunal de France, pour des obligations par lui contractées en pays étranger, même
+avec un étranger.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-08
+
+	**Créé par**:
+
+	  - Loi n°1803-03-08 promulguée le 18 mars 1803
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°94-653 1994-07-29 art. 11 *champ d'application*
+
+	**Modifié par**:
+
+	  - Loi n°94-653 du 29 juillet 1994 - art. 1 () JORF 30 juillet 1994
+
+
+### Chapitre Ier : De la jouissance des droits civils.
+
+###### Article 9-1
+
+Chacun a droit au respect de la présomption d'innocence.
+
+Lorsqu'une personne placée en garde à vue, mise en examen ou faisant l'objet d'une citation à comparaître en justice, d'un
+réquisitoire du procureur de la République ou d'une plainte avec constitution de partie civile, est, avant toute
+condamnation, présentée publiquement comme étant coupable de faits faisant l'objet de l'enquête ou de l'instruction
+judiciaire, le juge peut, même en référé, ordonner l'insertion dans la publication concernée d'un communiqué aux fins de
+faire cesser l'atteinte à la présomption d'innocence, sans préjudice d'une action en réparation des dommages subis et des
+autres mesures qui peuvent être prescrites en application du nouveau code de procédure civile et ce, aux frais de la
+personne, physique ou morale, responsable de l'atteinte à la présomption d'innocence.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-08
+
+	**Modifié par**:
+
+	  - Loi n°93-1013 1993-08-24 art. 44 JORF 25 août 1993 en vigueur le 2 septembre 1993
+	  - Loi n°94-653 du 29 juillet 1994 - art. 1 () JORF 30 juillet 1994
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 96-267 1996-03-28 art. 3 *champ d'application*
+	  - SPEC_APPLI: Loi n°96-1240 1996-12-30 art. 17 *ratification des ordonnances prises en matière pénale pour Mayotte et les territoires d'outre-mer*
+
+	**Cité par**:
+
+	  - Ordonnance n°96-267 du 28 mars 1996 - art. 3 (V)
+
+
+### Chapitre II : Du respect du corps humain
+
+###### Article 16
+
+La loi assure la primauté de la personne, interdit toute atteinte à la dignité de celle-ci et garantit le respect de l'être
+humain dès le commencement de sa vie.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Ordonnance n°45-2658 du 2 novembre 1945 - art. 17 (M)
+	  - Loi n°2004-800 du 6 août 2004 - art. 37 (V)
+	  - Décret n°2012-360 du 14 mars 2012 (V)
+	  - Décret n°2014-1286 du 23 octobre 2014 - art. (V)
+	  - Code de la santé publique - art. L2141-1 (V)
+	  - Code de la santé publique - art. L2141-11-1 (V)
+	  - Code de la santé publique - art. L2151-6 (V)
+	  - Code de la santé publique - art. R2141-14 (M)
+	  - Code de la santé publique - art. R2141-15 (V)
+	  - Code de la santé publique - art. R2151-13 (V)
+	  - Code de la santé publique - art. R2151-18 (V)
+	  - Code du travail - art. L341-5 (Ab)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°94-653 1994-07-29 art. 11 *champ d'application*
+	  - PILOTE_SUIVEUR: Code de la santé publique - art. L2211-1 (V)
+
+	**Créé par**:
+
+	  - Loi n°94-653 du 29 juillet 1994 - art. 2 () JORF 30 juillet 1994
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L2211-1 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-08
+
+
+###### Article 16-1
+
+Chacun a droit au respect de son corps.
+
+Le corps humain est inviolable.
+
+Le corps humain, ses éléments et ses produits ne peuvent faire l'objet d'un droit patrimonial.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°94-653 1994-07-29 art. 11 *champ d'application*
+
+	**Créé par**:
+
+	  - Loi n°94-653 du 29 juillet 1994 - art. 3 () JORF 30 juillet 1994
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L1133-4 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-08
+
+
+###### Article 16-2
+
+Le juge peut prescrire toutes mesures propres à empêcher ou faire cesser une atteinte illicite au corps humain ou des
+agissements illicites portant sur des éléments ou des produits de celui-ci.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-08
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°94-653 1994-07-29 art. 11 *champ d'application*
+
+	**Créé par**:
+
+	  - Loi n°94-653 du 29 juillet 1994 - art. 3 () JORF 30 juillet 1994
+
+
+###### Article 16-3
+
+Il ne peut être porté atteinte à l'intégrité du corps humain qu'en cas de nécessité thérapeutique pour la personne.
+
+Le consentement de l'intéressé doit être recueilli préalablement hors le cas où son état rend nécessaire une intervention
+thérapeutique à laquelle il n'est pas à même de consentir.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-08
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°94-653 1994-07-29 art. 11 *champ d'application*
+
+	**Créé par**:
+
+	  - Loi n°94-653 du 29 juillet 1994 - art. 3 () JORF 30 juillet 1994
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L2131-4-1 (V)
+
+
+###### Article 16-4
+
+Nul ne peut porter atteinte à l'intégrité de l'espèce humaine.
+
+Toute pratique eugénique tendant à l'organisation de la sélection des personnes est interdite.
+
+Sans préjudice des recherches tendant à la prévention et au traitement des maladies génétiques, aucune transformation ne peut
+être apportée aux caractères génétiques dans le but de modifier la descendance de la personne.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°94-653 1994-07-29 art. 11 *champ d'application*
+	  - PILOTE_SUIVEUR: Code de la santé publique - art. L2151-1 (V)
+
+	**Créé par**:
+
+	  - Loi n°94-653 du 29 juillet 1994 - art. 3 () JORF 30 juillet 1994
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-08
+
+
+###### Article 16-5
+
+Les conventions ayant pour effet de conférer une valeur patrimoniale au corps humain, à ses éléments ou à ses produits sont
+nulles.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-08
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°94-653 1994-07-29 art. 11 *champ d'application*
+
+	**Créé par**:
+
+	  - Loi n°94-653 du 29 juillet 1994 - art. 3 () JORF 30 juillet 1994
+
+	**Cité par**:
+
+	  - Arrêté du 12 janvier 1999 - art. ANNEXE (Ab)
+
+
+###### Article 16-6
+
+Aucune rémunération ne peut être allouée à celui qui se prête à une expérimentation sur sa personne, au prélèvement
+d'éléments de son corps ou à la collecte de produits de celui-ci.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-08
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°94-653 1994-07-29 art. 11 *champ d'application*
+
+	**Créé par**:
+
+	  - Loi n°94-653 du 29 juillet 1994 - art. 3 () JORF 30 juillet 1994
+
+
+###### Article 16-7
+
+Toute convention portant sur la procréation ou la gestation pour le compte d'autrui est nulle.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-08
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°94-653 1994-07-29 art. 11 *champ d'application*
+
+	**Créé par**:
+
+	  - Loi n°94-653 du 29 juillet 1994 - art. 3 () JORF 30 juillet 1994
+
+
+###### Article 16-8
+
+Aucune information permettant d'identifier à la fois celui qui a fait don d'un élément ou d'un produit de son corps et celui
+qui l'a reçu ne peut être divulguée. Le donneur ne peut connaître l'identité du receveur ni le receveur celle du donneur.
+
+En cas de nécessité thérapeutique, seuls les médecins du donneur et du receveur peuvent avoir accès aux informations
+permettant l'identification de ceux-ci.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 12 janvier 1999 - art. ANNEXE (Ab)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-08
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°94-653 1994-07-29 art. 11 *champ d'application*
+
+	**Créé par**:
+
+	  - Loi n°94-653 du 29 juillet 1994 - art. 3 () JORF 30 juillet 1994
+
+
+###### Article 16-9
+
+Les dispositions du présent chapitre sont d'ordre public.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-08
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°94-653 1994-07-29 art. 11 *champ d'application*
+
+	**Créé par**:
+
+	  - Loi n°94-653 du 29 juillet 1994 - art. 3 () JORF 30 juillet 1994
+
+
+### Chapitre III : De l'étude génétique des caractéristiques d'une personne et de l'identification d'une personne par ses empreintes génétiques.
+
+###### Article 16-10
+
+L'étude génétique des caractéristiques d'une personne ne peut être entreprise qu'à des fins médicales ou de recherche
+scientifique.
+
+Le consentement de la personne doit être recueilli préalablement à la réalisation de l'étude.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°94-653 1994-07-29 art. 11 *champ d'application*
+
+	**Créé par**:
+
+	  - Loi n°94-653 du 29 juillet 1994 - art. 5 () JORF 30 juillet 1994
+
+	**Cité par**:
+
+	  - Code de la recherche - art. L221-1 (V)
+	  - Code de la santé publique - art. L1131-1-1 (VD)
+	  - Code de la santé publique - art. L1133-1 (V)
+	  - Code pénal - art. 226-25 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-08
+
+
+###### Article 16-11
+
+L'identification d'une personne par ses empreintes génétiques ne peut être recherchée que dans le cadre de mesures d'enquête
+ou d'instruction diligentées lors d'une procédure judiciaire ou à des fins médicales ou de recherche scientifique.
+
+En matière civile, cette identification ne peut être recherchée qu'en exécution d'une mesure d'instruction ordonnée par le
+juge saisi d'une action tendant soit à l'établissement ou la contestation d'un lien de filiation, soit à l'obtention ou la
+suppression de subsides. Le consentement de l'intéressé doit être préalablement et expressément recueilli.
+
+Lorsque l'identification est effectuée à des fins médicales ou de recherche scientifique, le consentement de la personne doit
+être au préalable recueilli.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°94-653 1994-07-29 art. 11 *champ d'application*
+
+	**Créé par**:
+
+	  - Loi n°94-653 du 29 juillet 1994 - art. 5 () JORF 30 juillet 1994
+
+	**Cité par**:
+
+	  - Décret n°97-109 du 6 février 1997 - art. 1 (V)
+	  - Décret n°97-109 du 6 février 1997 - art. 13 (V)
+	  - Décret n°2012-125 du 30 janvier 2012 - art. 1 (V)
+	  - Décret n°2012-125 du 30 janvier 2012 - art. 3 (V)
+	  - Décret n°2012-125 du 30 janvier 2012 - art. 4 (V)
+	  - Décret n°2012-125 du 30 janvier 2012 - art. 5 (V)
+	  - Décret n°2015-1580 du 2 décembre 2015 (V)
+	  - Décret n°2016-796 du 14 juin 2016 - art. 15
+	  - Code de la santé publique - art. L1131-5 (V)
+	  - Code de la santé publique - art. L1133-3 (V)
+	  - Code de la santé publique - art. L761-24 (Ab)
+	  - Code de procédure pénale - art. 706-54 (V)
+	  - Code de procédure pénale - art. R93 (V)
+	  - Code pénal - art. 226-27 (V)
+	  - Code pénal - art. 226-28 (V)
+	  - Code pénal - art. 713-4 (V)
+	  - Code pénal - art. 713-5 (V)
+	  - Code pénal - art. 723-5 (V)
+	  - Code pénal - art. 723-6 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-08
+
+
+###### Article 16-12
+
+Sont seules habilitées à procéder à des identifications par empreintes génétiques les personnes ayant fait l'objet d'un
+agrément dans des conditions fixées par décret en Conseil d'Etat. Dans le cadre d'une procédure judiciaire, ces personnes
+doivent, en outre, être inscrites sur une liste d'experts judiciaires.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°94-653 1994-07-29 art. 11 *champ d'application*
+
+	**Créé par**:
+
+	  - Loi n°94-653 du 29 juillet 1994 - art. 5 () JORF 30 juillet 1994
+
+	**Cité par**:
+
+	  - Décret n°97-109 du 6 février 1997 - art. 11 (V)
+	  - CODE DE PROCEDURE PENALE - art. R53-21 (M)
+	  - Code de la santé publique - art. L1131-5 (V)
+	  - Code de la santé publique - art. L761-24 (Ab)
+	  - Code de procédure pénale - art. 706-56 (V)
+	  - Code de procédure pénale - art. D47-12 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-08
+
 
 ## Titre Ier bis : De la nationalité française
 
@@ -13073,6 +13655,83 @@ la résidence habituelle du débiteur.
 	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 12 (V)
 	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 13 (V)
 	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 14 (V)
+
+
+#### Section 4 : De la procréation médicalement assistée.
+
+###### Article 311-19
+
+En cas de procréation médicalement assistée avec tiers donneur, aucun lien de filiation ne peut être établi entre l'auteur du
+don et l'enfant issu de la procréation.
+
+Aucune action en responsabilité ne peut être exercée à l'encontre du donneur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°94-653 1994-07-29 art. 11 *champ d'application*
+
+	**Créé par**:
+
+	  - Loi n°94-653 du 29 juillet 1994 - art. 10 () JORF 30 juillet 1994
+
+
+###### Article 311-20
+
+Les époux ou les concubins qui, pour procréer, recourent à une assistance médicale nécessitant l'intervention d'un tiers
+donneur, doivent préalablement donner, dans des conditions garantissant le secret, leur consentement au juge ou au notaire,
+qui les informe des conséquences de leur acte au regard de la filiation.
+
+Le consentement donné à une procréation médicalement assistée interdit toute action en contestation de filiation ou en
+réclamation d'état à moins qu'il ne soit soutenu que l'enfant n'est pas issu de la procréation médicalement assistée ou que
+le consentement a été privé d'effet.
+
+Le consentement est privé d'effet en cas de décès, de dépôt d'une requête en divorce ou en séparation de corps ou de
+cessation de la communauté de vie, survenant avant la réalisation de la procréation médicalement assistée. Il est également
+privé d'effet lorsque l'homme ou la femme le révoque, par écrit et avant la réalisation de la procréation médicalement
+assistée, auprès du médecin chargé de mettre en oeuvre cette assistance.
+
+Celui qui, après avoir consenti à l'assistance médicale à la procréation, ne reconnaît pas l'enfant qui en est issu engage sa
+responsabilité envers la mère et envers l'enfant.
+
+En outre, est judiciairement déclarée la paternité hors mariage de celui qui, après avoir consenti à l'assistance médicale à
+la procréation, ne reconnaît pas l'enfant qui en est issu. L'action obéit aux dispositions des articles 340-2 à 340-6.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°94-653 1994-07-29 art. 11 *champ d'application*
+
+	**Créé par**:
+
+	  - Loi n°94-653 du 29 juillet 1994 - art. 10 () JORF 30 juillet 1994
+
+	**Cité par**:
+
+	  - Décret n°2014-945 du 21 août 2014 - art. 1 (VT)
+	  - Décret n°2016-230 du 26 février 2016 - art.
+	  - Code de la santé publique - art. R152-5-9 (Ab)
+	  - Code de la santé publique - art. R184-1-7 (Ab)
+	  - Code de la santé publique - art. R2141-11 (V)
+	  - Code de la santé publique - art. R2141-14 (M)
+	  - Code de la santé publique - art. R2141-27 (M)
+	  - Code de la santé publique - art. R2142-25 (V)
+	  - Code de la santé publique - art. R2142-7 (M)
+	  - Code de procédure civile - art. 1157-2 (V)
+
+	**Cite**:
+
+	  - Code civil 340-2 à 340-6
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
 
 
 ### Chapitre II : De la filiation légitime.

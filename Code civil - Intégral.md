@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1958-12-25
+Version Consolidée au 1959-01-08
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -1019,6 +1019,54 @@ d'habitation continue à la date de la publication prévue par la loi.
 	**Créé par**:
 
 	  - Loi n°1803-03-11 promulguée le 21 mars 1803
+
+
+###### Article 76
+
+L'acte de mariage énoncera :
+
+1° Les prénoms, noms, professions, âges, dates et lieux de naissance, domiciles et résidences des époux ;
+
+2° Les prénoms, noms, professions et domiciles des pères et mères ;
+
+3° Le consentement des pères et mères, aïeuls ou aïeules, et celui du conseil de famille, dans le cas où ils sont requis ;
+
+4° Les prénoms et nom du précédent conjoint de chacun des époux ;
+
+5° (abrogé) ;
+
+6° La déclaration des contractants de se prendre pour époux, et le prononcé de leur union par l'officier de l'état civil ;
+
+7° Les prénoms, noms, professions, domiciles des témoins et leur qualité de majeurs ;
+
+8° La déclaration, faite sur l'interpellation prescrite par l'article précédent, qu'il a été ou qu'il n'a pas été fait de
+contrat de mariage, et, autant que possible, la date du contrat, s'il existe, ainsi que les nom et lieu de résidence du
+notaire qui l'aura reçu ; le tout à peine, contre l'officier de l'état civil, de l'amende fixée par l'article 50.
+
+Dans le cas où la déclaration aurait été omise ou serait erronée, la rectification de l'acte, en ce qui touche l'omission ou
+l'erreur, pourra être demandée par le procureur de la République, sans préjudice du droit des parties intéressées,
+conformément à l'article 99.
+
+En marge de l'acte de naissance de chaque époux, il sera fait mention de la célébration du mariage et du nom du conjoint.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code civil - art. 50 (M)
+	  - Code civil - art. 99 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-11
+
+	**Créé par**:
+
+	  - Loi n°1803-03-11 promulguée le 21 mars 1803
+
+	**Modifié par**:
+
+	  - Loi n°59-71 1959-01-07 art. 1 JORF 8 janvier 1959
 
 
 ### Chapitre IV : Des actes de décès.
@@ -2576,6 +2624,36 @@ Toutefois, les agents diplomatiques ou les consuls ne pourront procéder à la c
 	**Créé par**:
 
 	  - Loi n°1803-03-17 promulguée le 27 mars 1803
+
+
+###### Article 171
+
+Le Président de la République peut, pour des motifs graves, autoriser la célébration du mariage si l'un des futurs époux est
+décédé après l'accomplissement de formalités officielles marquant sans équivoque son consentement.
+
+Dans ce cas, les effets du mariage remontent à la date du jour précédant celui du décès de l'époux.
+
+Toutefois, ce mariage n'entraîne aucun droit de succession ab intestat au profit de l'époux survivant et aucun régime
+matrimonial n'est réputé avoir existé entre les époux.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°2014-1279 du 23 octobre 2014 - art. (VD)
+	  - Décret n°2015-1411 du 5 novembre 2015 - art. Annexe I (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°1803-03-17 promulguée le 27 mars 1803
+
+	**Modifié par**:
+
+	  - Loi n°59-1583 1959-12-31 art. 23 JORF 8 janvier 1959
 
 
 ### Chapitre III : Des oppositions au mariage
@@ -11004,6 +11082,32 @@ transférée au donataire, sans qu'il soit besoin d'autre tradition.
 	  - Loi n°1803-05-03 promulguée le 13 mai 1803
 
 
+###### Article 939
+
+Lorsqu'il y aura donation de biens susceptibles d'hypothèques, la publication des actes contenant la donation et
+l'acceptation, ainsi que la notification de l'acceptation qui aurait eu lieu par acte séparé, devra être faite aux bureaux
+des hypothèques dans l'arrondissement desquels les biens sont situés.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°55-22 du 4 janvier 1955 - art. 30 (VD)
+	  - Ordonnance n°2013-516 du 20 juin 2013 - art. 1 (VD)
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+	**Modifié par**:
+
+	  - Ordonnance 59-71 1959-01-07 art. 25 JORF 8 janvier 1959
+
+
 ###### Article 941
 
 Le défaut de publication pourra être opposé par toutes personnes ayant intérêt, excepté toutefois celles qui sont chargées de
@@ -11331,6 +11435,35 @@ dans l'année du délit.
 	**Créé par**:
 
 	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 958
+
+La révocation pour cause d'ingratitude ne préjudiciera ni aux aliénations faites par le donataire, ni aux hypothèques et
+autres charges réelles qu'il aura pu imposer sur l'objet de la donation, pourvu que le tout soit antérieur à la publication,
+au bureau des hypothèques de la situation des biens, de la demande en révocation.
+
+Dans le cas de révocation, le donataire sera condamné à restituer la valeur des objets aliénés, eu égard au temps de la
+demande, et les fruits, à compter du jour de cette demande.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret du 18 novembre 1924 - art. 25 (Ab)
+	  - Décret n°2009-1193 du 7 octobre 2009 - art. 75 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+	**Modifié par**:
+
+	  - Ordonnance 59-71 1959-01-07 art. 1 JORF 8 janvier 1959
 
 
 ###### Article 959
@@ -13447,6 +13580,87 @@ L'emploi ordonné par les articles précédents sera fait en présence et à la 
 	  - Loi n°2006-728 du 23 juin 2006 - art. 20 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
+###### Article 1070
+
+Le défaut de publication de l'acte contenant la disposition pourra être opposé par les créanciers et tiers acquéreurs, même
+aux mineurs ou majeurs en tutelle, sauf le recours contre le grevé et contre le tuteur à l'exécution, et sans que les mineurs
+ou majeurs en tutelle puissent être restitués contre ce défaut de publication, quand même le grevé et le tuteur se
+trouveraient insolvables.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+	**Cité par**:
+
+	  - Loi n°1924-06-01 du 1 juin 1924 - art. 38-2 (M)
+	  - Loi n°1924-06-01 du 1 juin 1924 - art. 40 (M)
+
+	**Modifié par**:
+
+	  - Ordonnance 59-71 1959-01-07 art. 25 JORF 8 janvier 1959
+
+	**Abrogé par**:
+
+	  - Loi n°2006-728 du 23 juin 2006 - art. 20 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+
+###### Article 1071
+
+Le défaut de publication ne pourra être suppléé ni regardé comme couvert par la connaissance que les créanciers ou les tiers
+acquéreurs pourraient avoir eue de la disposition par d'autres voies que celle de la publication.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+	**Modifié par**:
+
+	  - Ordonnance 59-71 1959-01-07 art. 25 JORF 8 janvier 1959
+
+	**Abrogé par**:
+
+	  - Loi n°2006-728 du 23 juin 2006 - art. 20 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+
+###### Article 1073
+
+Le tuteur nommé pour l'exécution sera personnellement responsable, s'il ne s'est pas, en tout point, conformé aux règles ci-
+dessus établies pour constater les biens, pour la vente du mobilier, pour l'emploi des deniers pour la publication et
+l'inscription et, en général, s'il n'a pas fait toutes les diligences nécessaires pour que la charge de restitution soit bien
+et fidèlement acquittée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+	**Modifié par**:
+
+	  - Ordonnance 59-71 1959-01-07 art. 25 JORF 8 janvier 1959
+
+	**Abrogé par**:
+
+	  - Loi n°2006-728 du 23 juin 2006 - art. 20 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+
 ###### Article 1074
 
 Si le grevé est mineur, il ne pourra, dans le cas même de l'insolvabilité de son tuteur, être restitué contre l'inexécution
@@ -13781,6 +13995,29 @@ des biens.
 
 #### Section 1 : De la forme des donations entre vifs.
 
+###### Article 942
+
+Les mineurs, les majeurs en tutelle, les femmes mariées ne seront point restitués contre le défaut d'acceptation ou de
+publication des donations ; sauf leur recours contre leurs tuteurs ou maris, s'il y échet, et sans que la restitution puisse
+avoir lieu, dans le cas même où lesdits tuteurs et maris se trouveraient insolvables.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+	**Modifié par**:
+
+	  - Ordonnance 59-71 1959-01-07 art. 25 JORF 8 janvier 1959
+
+
+#### Section 1 : De la forme des donations entre vifs.
+
 ###### Article 937
 
 Les donations faites au profit d'hospices, des pauvres d'une commune ou d'établissements d'utilité publique, seront acceptées
@@ -13851,6 +14088,60 @@ demande pour rentrer dans les biens donnés n'aurait été formée que postérie
 	**Cité par**:
 
 	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 20 (V)
+
+
+### Chapitre VI : Des dispositions permises en faveur des petits-enfants du donateur ou testateur, ou des enfants de ses frères et soeurs.
+
+###### Article 1069
+
+Les dispositions par actes entre vifs ou testamentaires, à charge de restitution, seront, à la diligence soit du grevé, soit
+du tuteur nommé pour l'exécution, rendues publiques, quant aux immeubles conformément aux lois et règlements concernant la
+publicité foncière, et quant aux créances privilégiées ou hypothécaires, suivant les prescriptions des articles 2148 et 2149,
+2e alinéa, du présent code.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Ordonnance 59-71 1959-01-07 art. 1 JORF 8 janvier 1959
+
+	**Cite**:
+
+	  - Code civil - art. 2148 (M)
+	  - Code civil - art. 2149 (T)
+
+	**Cité par**:
+
+	  - Code civil - art. 2300 (T)
+	  - Code civil - art. 2506 (Ab)
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 1072
+
+Les donataires, les légataires, ni même les héritiers légitimes de celui qui aura fait la disposition, ni pareillement leurs
+donataires, légataires ou héritiers, ne pourront, en aucun cas, opposer aux appelés le défaut de publication ou inscription.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+	**Modifié par**:
+
+	  - Ordonnance 59-71 1959-01-07 art. 25 JORF 8 janvier 1959
 
 
 ### Chapitre IX : Des dispositions entre époux, soit par contrat de mariage, soit pendant le mariage.
@@ -31166,6 +31457,246 @@ territoriale donnée.
 	  - Loi n°1804-03-19 promulguée le 29 mars 1804
 
 
+###### Article 2147
+
+Les créanciers privilégiés ou hypothécaires ne peuvent prendre utilement inscription sur le précédent propriétaire, à partir
+de la publication de la mutation opérée au profit d'un tiers. Nonobstant cette publication, le vendeur, le prêteur de deniers
+pour l'acquisition et le copartageant peuvent utilement inscrire, dans les délais prévus aux articles 2108 et 2109, les
+privilèges qui leur sont conférés par l'article 2103.
+
+L'inscription ne produit aucun effet entre les créanciers d'une succession si elle n'a été faite par l'un d'eux que depuis le
+décès, dans le cas où la succession n'est acceptée que sous bénéfice d'inventaire ou est déclarée vacante. Toutefois, les
+privilèges reconnus au vendeur, au prêteur de deniers pour l'acquisition, au copartageant, ainsi qu'aux créanciers et
+légataires du défunt, peuvent être inscrits dans les délais prévus aux articles 2108, 2109 et 2111, nonobstant l'acceptation
+bénéficiaire ou la vacance de la succession.
+
+En cas de saisie immobilière, de faillite ou de règlement judiciaire, l'inscription des privilèges et des hypothèques produit
+les effets réglés par les dispositions du Code de procédure civile et par celles sur la faillite et le règlement judiciaire.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°1924-06-01 du 1 juin 1924 - art. 45 (M)
+	  - Ordonnance n°2006-461 du 21 avril 2006 - art. 24 (VT)
+
+	**Modifié par**:
+
+	  - Décret n°55-22 du 4 janvier 1955 - art. 21 () JORF 7 janvier 1955
+	  - Ordonnance 59-71 1959-01-07 art. 1 JORF 8 janvier 1959
+
+	**Transféré par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
+
+	**Cite**:
+
+	  - Code civil - art. 2103 (M)
+	  - Code civil - art. 2108 (T)
+	  - Code civil - art. 2109 (T)
+	  - Code civil - art. 2111 (T)
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2427 (M)
+	  - Code civil - art. 2427 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-19
+
+	**Créé par**:
+
+	  - Loi n°1804-03-19 promulguée le 29 mars 1804
+
+
+###### Article 2148
+
+Pour que l'inscription soit opérée, le créancier représente, soit par lui-même, soit par un tiers, au conservateur des
+hypothèques, l'original, une expédition authentique ou un extrait littéral du jugement ou de l'acte qui donne naissance au
+privilège ou à l'hypothèque. Peuvent être requises, toutefois, sans communication de titres, les inscriptions de séparations
+de patrimoine établies par l'article 2111 et les inscriptions d'hypothèques légales visées à l'article 2121, 1°, 2° et 3°.
+
+Il y joint deux bordereaux signés et certifiés exactement collationnés ; un décret en Conseil d'Etat détermine les conditions
+de forme auxquelles le bordereau destiné à être conservé au bureau des hypothèques doit satisfaire, sous peine d'une amende
+de 20 F à 200 F au profit du Trésor [*sanctions civiles*], ainsi que le coût des formules à utiliser pour l'établir. Au cas
+où l'inscrivant ne se serait pas servi d'une formule réglementaire, le conservateur accepterait cependant le dépôt, sous
+réserve des dispositions de l'avant dernier alinéa du présent article :
+
+Chacun des bordereaux contient exclusivement :
+
+1° La désignation du créancier, du débiteur ou du propriétaire, si le débiteur n'est pas propriétaire de l'immeuble grevé,
+conformément au 1er alinéa des articles 5 et 6 du décret du 4 janvier 1955 ;
+
+2° L'élection de domicile, par le créancier, dans un lieu quelconque du ressort du tribunal de grande instance de la
+situation des biens ;
+
+3° L'indication de la date et de la nature du titre, et de la cause de l'obligation garantie par le privilège ou
+l'hypothèque ; au cas où le requérant est légalement dispensé de la représentation d'un titre, les bordereaux énoncent la
+cause et la nature de la créance ;
+
+4° L'indication du capital de la créance, de ses accessoires et de l'époque normale d'exigibilité ; en toute hypothèse, le
+requérant doit évaluer les rentes, prestations et droits indéterminés, éventuels ou conditionnels, sans préjudice de
+l'application des articles 2161 et suivants au profit du débiteur ; et si les droits sont éventuels ou conditionnels, il doit
+indiquer sommairement l'évènement ou la condition dont dépend l'existence de la créance.
+
+Dans les cas où la créance est assortie d'une clause de réévaluation, l'inscription doit mentionner le montant originaire de
+la créance ainsi que la clause de réévaluation ;
+
+5° La désignation conformément au premier et troisième alinéas de l'article 7 du décret du 4 janvier 1955, de chacun des
+immeubles sur lesquels l'inscription est requise ;
+
+6° L'indication de la date, du volume et du numéro sous lequel a été publié le titre de propriété du débiteur (ou du
+propriétaire, si le débiteur n'est pas propriétaire des immeubles grevés), lorsque ce titre est postérieur au 1er janvier
+1956.
+
+Le bordereau destiné à être conservé au bureau des hypothèques doit contenir, en outre, la mention de certification de
+l'identité des parties prescrite par les articles 5 et 6 du décret du 4 janvier 1955.
+
+Le dépôt est refusé à défaut de la mention visée à l'alinéa précédent, ou si les immeubles ne sont pas individuellement
+désignés, avec indication de la commune où ils sont situés.
+
+Si le conservateur, après avoir accepté le dépôt, constate l'omission d'une des mentions prescrites par le présent article,
+ou une discordance entre, d'une part, les énonciations relatives à l'identité des parties ou à la désignation des immeubles
+contenues dans le bordereau, et, d'autre part, ces mêmes énonciations contenues dans les bordereaux ou titres déjà publiés
+depuis le 1er janvier 1956, la formalité est rejetée, à moins que le requérant ne régularise le bordereau ou qu'il ne
+produise les justifications établissant son exactitude, auxquels cas la formalité prend rang à la date de la remise du
+bordereau constatée au registre de dépôts.
+
+La formalité est également rejetée, dans l'hypothèse visée au deuxième alinéa du présent article, si le requérant ne
+substitue pas un nouveau bordereau sur formule réglementaire au bordereau irrégulier en la forme.
+
+Le décret prévu ci-dessus détermine les modalités du refus du dépôt ou du rejet de la formalité.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°55-22 1955-01-04 JORF 7 janvier 1955 rectificatif JORF 27 janvier 1955
+	  - Décret n°59-89 1959-01-07 JORF 8 janvier 1959 rectificatif JORF 15 janvier 1959
+
+	**Cite**:
+
+	  - Décret n°55-22 du 4 janvier 1955 - art. 5 (V)
+	  - Décret n°55-22 du 4 janvier 1955 - art. 6 (M)
+	  - Code civil - art. 2111 (T)
+	  - Code civil - art. 2121 (T)
+	  - Code civil - art. 2161 (T)
+
+	**Cité par**:
+
+	  - Décret n°55-22 du 4 janvier 1955 - art. 26 (M)
+	  - Décret n°55-22 du 4 janvier 1955 - art. 4 (M)
+	  - Décret n°55-22 du 4 janvier 1955 - art. 42-1 (M)
+	  - Décret n°55-22 du 4 janvier 1955 - art. 51 (M)
+	  - Décret n°55-1350 du 14 octobre 1955 - art. 32 (M)
+	  - Décret n°55-1350 du 14 octobre 1955 - art. 34 (M)
+	  - Décret n°55-1350 du 14 octobre 1955 - art. 54-1 (M)
+	  - Décret n°55-1350 du 14 octobre 1955 - art. 55 (VD)
+	  - Décret n°55-1350 du 14 octobre 1955 - art. 57 (M)
+	  - Décret n°55-1350 du 14 octobre 1955 - art. 64 (M)
+	  - Décret n°55-1350 du 14 octobre 1955 - art. 65 (M)
+	  - Décret n°55-1350 du 14 octobre 1955 - art. 74 (M)
+	  - Décret n°55-1350 du 14 octobre 1955 - art. 76 (M)
+	  - Décret n°56-733 du 26 juillet 1956 - art. 50 (Ab)
+	  - Décret n°67-1120 du 22 décembre 1967 - art. 29 (Ab)
+	  - Décret n°92-755 du 31 juillet 1992 - art. 251 (M)
+	  - Décret n°92-755 du 31 juillet 1992 - art. 261 (M)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 1961 bis (M)
+	  - Code civil - art. 1069 (M)
+	  - Code civil - art. 2106 (T)
+	  - Code civil - art. 2108 (T)
+	  - Code civil - art. 2109 (T)
+	  - Code civil - art. 2111-1 (T)
+	  - Code civil - art. 2137 (T)
+	  - Code civil - art. 2146 (T)
+	  - Code de l'action sociale et des familles - art. L132-9 (M)
+	  - Code de la famille et de l'aide sociale. - art. 148 (Ab)
+	  - Code de la sécurité sociale. - art. R815-47 (M)
+	  - Code rural - art. D127-10 (M)
+	  - Code rural - art. R127-10 (T)
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2428 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-19
+
+	**Créé par**:
+
+	  - Loi n°1804-03-19 promulguée le 29 mars 1804
+
+
+###### Article 2149
+
+Sont publiées par le conservateur, sous forme de mentions en marge des inscriptions existantes, les subrogations aux
+privilèges et hypothèques, mainlevées, réductions, cessions d'antériorité et transferts qui ont été consentis, prorogations
+de délais, changements de domicile et, d'une manière générale, toutes modifications, notamment dans la personne du créancier
+bénéficiaire de l'inscription, qui n'ont pas pour effet d'aggraver la situation du débiteur.
+
+Il en est de même pour les dispositions par acte entre vifs ou testamentaires, à charge de restitution, portant sur des
+créances privilégiées ou hypothécaires.
+
+Les actes et décisions judiciaires constatant ces différentes conventions ou dispositions et les copies, extraits ou
+expéditions déposés au bureau des hypothèques en vue de l'exécution des mentions doivent contenir la désignation des parties
+conformément au premier alinéa des articles 5 et 6 du décret du 4 janvier 1955. Cette désignation n'a pas à être certifiée.
+
+En outre, au cas où la modification mentionnée ne porte que sur parties des immeubles grevés, lesdits immeubles doivent, sous
+peine de refus du dépôt, être individuellement désignés.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°55-22 du 4 janvier 1955 - art. 23 () JORF 7 janvier 1955
+	  - Décret n°59-89 1959-01-07 art. 13 JORF 8 janvier 1959
+
+	**Cite**:
+
+	  - Décret n°55-22 du 4 janvier 1955 - art. 5 (V)
+	  - Décret n°55-22 du 4 janvier 1955 - art. 6 (M)
+
+	**Cité par**:
+
+	  - Décret n°55-22 du 4 janvier 1955 - art. 26 (M)
+	  - Décret n°55-22 du 4 janvier 1955 - art. 40 (M)
+	  - Décret n°55-22 du 4 janvier 1955 - art. 51 (M)
+	  - Décret n°55-1350 du 14 octobre 1955 - art. 5 (M)
+	  - Décret n°55-1350 du 14 octobre 1955 - art. 58 (M)
+	  - Décret n°55-1350 du 14 octobre 1955 - art. 60 (M)
+	  - Décret n°55-1350 du 14 octobre 1955 - art. 61 (M)
+	  - Décret n°55-1350 du 14 octobre 1955 - art. 74 (M)
+	  - Code civil - art. 1069 (M)
+	  - Loi n°84-595 du 12 juillet 1984 - art. 16 (M)
+	  - Loi n°85-1321 du 14 décembre 1985 - art. 4 (M)
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2430 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-19
+
+	**Créé par**:
+
+	  - Loi n°1804-03-19 promulguée le 29 mars 1804
+
+	**Transféré par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
+
+
 ###### Article 2150
 
 Le conservateur fait mention, sur le registre prescrit par l'article 2200 ci-après, du dépôt des bordereaux, et remet au
@@ -31193,6 +31724,41 @@ Les bordereaux destinés aux archives seront reliés sans déplacement par les s
 	**Nouveaux textes**:
 
 	  - Code civil - art. 2431 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-19
+
+	**Créé par**:
+
+	  - Loi n°1804-03-19 promulguée le 29 mars 1804
+
+
+###### Article 2151
+
+Le créancier privilégié dont le titre a été inscrit, ou le créancier hypothécaire inscrit pour un capital produisant intérêt
+et arrérages, a le droit d'être colloqué, pour trois années seulement, au même rang que le principal, sans préjudice des
+inscriptions particulières à prendre, portant hypothèque à compter de leur date, pour les intérêts et arrérages autres que
+ceux conservés par l'inscription primitive.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°59-89 1959-01-07 art. 13 JORF 8 janvier 1959
+
+	**Transféré par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2432 (M)
+	  - Code civil - art. 2432 (V)
 
 	**Codifié par**:
 
@@ -31259,6 +31825,39 @@ temps utile de son privilège, sont à la charge de l'acquéreur.
 	**Transféré par**:
 
 	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
+
+
+###### Article 2156
+
+Les actions auxquelles les inscriptions peuvent donner lieu contre les créanciers seront intentées devant le tribunal
+compétent, par exploits faits à leur personne, ou au dernier des domiciles par eux élus sur les bordereaux d'inscription, et
+ce, nonobstant le décès, soit des créanciers, soit de ceux chez lesquels ils auront fait élection de domicile.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°59-89 1959-01-07 art. 13 JORF 8 janvier 1959
+
+	**Transféré par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2439 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-19
+
+	**Créé par**:
+
+	  - Loi n°1804-03-19 promulguée le 29 mars 1804
 
 
 ### Chapitre V : De la radiation et réduction des inscriptions
@@ -31451,6 +32050,39 @@ somme plus forte.
 
 
 ### Chapitre VI : De l'effet des privilèges et hypothèques contre les tiers détenteurs.
+
+###### Article 2166
+
+Les créanciers ayant privilège ou hypothèque inscrits sur un immeuble, le suivent en quelques mains qu'il passe, pour être
+colloqués et payés suivant l'ordre de leurs créances ou inscriptions.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-19
+
+	**Créé par**:
+
+	  - Loi n°1804-03-19 promulguée le 29 mars 1804
+
+	**Transféré par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
+
+	**Cité par**:
+
+	  - Ordonnance n°2006-461 du 21 avril 2006 - art. 24 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2461 (M)
+	  - Code civil - art. 2461 (V)
+
 
 ###### Article 2167
 
@@ -31878,7 +32510,191 @@ VIII du présent titre.
 	  - Loi n°1804-03-19 promulguée le 29 mars 1804
 
 
+### Chapitre VII : De l'extinction des privilèges et hypothèques.
+
+###### Article 2180
+
+Les privilèges et hypothèques s'éteignent :
+
+1° Par l'extinction de l'obligation principale ;
+
+2° Par la renonciation du créancier à l'hypothèque ;
+
+3° Par l'accomplissement des formalités et conditions prescrites aux tiers détenteurs pour purger les biens par eux acquis ;
+
+4° Par la prescription.
+
+La prescription est acquise au débiteur, quant aux biens qui sont dans ses mains, par le temps fixé pour la prescription des
+actions qui donnent l'hypothèque ou le privilège.
+
+Quant aux biens qui sont dans la main d'un tiers détenteur, elle lui est acquise par le temps réglé pour la prescription de
+la propriété à son profit : dans le cas où la prescription suppose un titre, elle ne commence à courir que du jour où ce
+titre a été publié au bureau des hypothèques de la situation des immeubles.
+
+Les inscriptions prises par le créancier n'interrompent pas le cours de la prescription établie par la loi en faveur du
+débiteur ou du tiers détenteur.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2488 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-19
+
+	**Créé par**:
+
+	  - Loi n°1804-03-19 promulguée le 29 mars 1804
+
+	**Cité par**:
+
+	  - Loi n°46-994 du 11 mai 1946 - art. 35 (M)
+
+	**Modifié par**:
+
+	  - Ordonnance 59-71 1959-01-07 art. 1 JORF 8 janvier 1959
+
+	**Transféré par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
+
+
 ### Chapitre VIII : Du mode de purger les propriétés des privilèges et hypothèques.
+
+###### Article 2181
+
+Les contrats translatifs de la propriété d'immeubles ou droits réels immobiliers que les tiers détenteurs voudront purger de
+privilèges et hypothèques, seront publiés au bureau des hypothèques de la situation des biens, conformément aux lois et
+règlements concernant la publicité foncière.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Ordonnance 59-71 1959-01-07 art. 1 JORF 8 janvier 1959
+
+	**Cité par**:
+
+	  - Décret n°85-1388 du 27 décembre 1985 - art. 102 (Ab)
+	  - Décret n°85-1388 du 27 décembre 1985 - art. 141 (Ab)
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 147 (M)
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 291 (M)
+	  - Code civil - art. 2198 (T)
+
+	**Transféré par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2476 (M)
+	  - Code civil - art. 2476 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-19
+
+	**Créé par**:
+
+	  - Loi n°1804-03-19 promulguée le 29 mars 1804
+
+
+###### Article 2182
+
+La simple publication au bureau des hypothèques des titres translatifs de propriété ne purge pas les hypothèques et
+privilèges établis sur l'immeuble.
+
+Le vendeur ne transmet à l'acquéreur que la propriété et les droits qu'il avait lui-même sur la chose vendue : il les
+transmet sous l'affectation des mêmes privilèges et hypothèques dont la chose vendue était grevée.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-19
+
+	**Créé par**:
+
+	  - Loi n°1804-03-19 promulguée le 29 mars 1804
+
+	**Modifié par**:
+
+	  - Ordonnance 59-71 1959-01-07 art. 1 JORF 8 janvier 1959
+
+	**Transféré par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2477 (M)
+	  - Code civil - art. 2477 (V)
+
+
+###### Article 2183
+
+Si le nouveau propriétaire veut se garantir de l'effet des poursuites autorisées dans le chapitre VI du présent titre, il est
+tenu, soit avant les poursuites, soit dans le mois, au plus tard, à compter de la première sommation qui lui est faite de
+notifier aux créanciers, aux domiciles par eux élus dans leurs inscriptions :
+
+1° Extrait de son titre, contenant seulement la date et la qualité de l'acte, le nom et la désignation précise du vendeur ou
+du donateur, la nature et la situation de la chose vendue ou donnée ; et, s'il s'agit d'un corps de biens, la dénomination
+générale seulement du domaine et des arrondissements dans lesquels il est situé, le prix et les charges faisant partie du
+prix de la vente, ou l'évaluation de la chose si elle a été donnée ;
+
+2° Extrait de la publication de l'acte de vente ;
+
+3° Un tableau sur trois colonnes, dont la première contiendra la date des hypothèques et celles des inscriptions ; la
+seconde, le nom des créanciers ; la troisième, le montant des créances inscrites.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°1924-06-01 du 1 juin 1924 - art. 214 (M)
+	  - Décret n°66-270 du 22 avril 1966 - art. 6 (M)
+	  - Code de procédure civile - art. 748 a (M)
+	  - Code de procédure civile - art. 832 (M)
+
+	**Modifié par**:
+
+	  - Ordonnance 59-71 1959-01-07 art. 25 JORF 8 janvier 1959
+
+	**Transféré par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2478 (M)
+	  - Code civil - art. 2478 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-19
+
+	**Créé par**:
+
+	  - Loi n°1804-03-19 promulguée le 29 mars 1804
+
 
 ###### Article 2184
 
@@ -32040,6 +32856,77 @@ créancier s'est obligé de la porter ou faire porter.
 	  - Loi n°1804-03-19 promulguée le 29 mars 1804
 
 
+###### Article 2188
+
+L'adjudicataire est tenu, au-delà du prix de son adjudication, de restituer à l'acquéreur ou au donataire dépossédé les frais
+et loyaux coûts de son contrat, ceux de la publication au bureau des hypothèques, ceux de notification et ceux faits par lui
+pour parvenir à la revente.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-19
+
+	**Créé par**:
+
+	  - Loi n°1804-03-19 promulguée le 29 mars 1804
+
+	**Modifié par**:
+
+	  - Ordonnance 59-71 1959-01-07 art. 1 JORF 8 janvier 1959
+
+	**Transféré par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2483 (M)
+	  - Code civil - art. 2483 (V)
+
+
+###### Article 2189
+
+L'acquéreur ou le donataire qui conserve l'immeuble mis aux enchères, en se rendant dernier enchérisseur, n'est pas tenu de
+faire publier le jugement d'adjudication.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°1924-06-01 du 1 juin 1924 - art. 194 (M)
+
+	**Modifié par**:
+
+	  - Ordonnance 59-71 1959-01-07 art. 1 JORF 8 janvier 1959
+
+	**Transféré par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2484 (M)
+	  - Code civil - art. 2484 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-19
+
+	**Créé par**:
+
+	  - Loi n°1804-03-19 promulguée le 29 mars 1804
+
+
 ###### Article 2190
 
 Le désistement du créancier requérant la mise aux enchères, ne peut, même quand le créancier paierait le montant de la
@@ -32142,6 +33029,116 @@ NOTA : Ordonnance 2006-346 du 6 mars 2006 art. 57 : Spécificités d'application
 
 ### Chapitre X : De la publicité des registres et de la responsabilité des conservateurs.
 
+###### Article 2197
+
+Ils sont responsables du préjudice résultant :
+
+1° Du défaut de publication des actes et décisions judiciaires déposés à leurs bureaux, et des inscriptions requises, toute
+les fois que ce défaut de publication ne résulte pas d'une décision de refus ou de rejet ;
+
+2° De l'omission, dans les certificats qu'ils délivrent, d'une ou de plusieurs des inscriptions existantes, à moins dans ce
+dernier cas, que l'erreur ne provînt de désignations insuffisantes ou inexactes qui ne pourraient leur être imputées.
+
+**Nota:**
+
+NOTA : Ordonnance 2006-346 du 6 mars 2006 art. 57 : Spécificités d'application.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°55-22 du 4 janvier 1955 - art. 41 (M)
+	  - Décret n°55-1350 du 14 octobre 1955 - art. 85-2 (M)
+	  - Décret n°55-1350 du 14 octobre 1955 - art. 85-4 (M)
+
+	**Modifié par**:
+
+	  - Décret n°59-89 1959-01-07 art. 13 JORF 8 janvier 1959
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2450 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-19
+
+	**Créé par**:
+
+	  - Loi n°1804-03-19 promulguée le 29 mars 1804
+
+	**Transféré par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
+
+
+###### Article 2199
+
+En dehors des cas où ils sont fondés à refuser le dépôt ou à rejeter une formalité, conformément aux dispositions
+législatives ou réglementaires, sur la publicité foncière, les conservateurs ne peuvent refuser ni retarder l'exécution d'une
+formalité ni la délivrance des documents régulièrement requis, sous peine des dommages et intérêts des parties ; à l'effet de
+quoi, procès-vebaux des refus ou retardements seront, à la diligence des requérants, dressés sur-le-champ, soit par un juge
+du tribunal d'instance, soit par un huissier audiencier du tribunal, soit par un autre huissier ou un notaire assisté de deux
+témoins.
+
+**Nota:**
+
+NOTA : Ordonnance 2006-346 du 6 mars 2006 art. 57 : Spécificités d'application.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°59-89 1959-01-07 art. 13 JORF 8 janvier 1959
+
+	**Transféré par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2452 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-19
+
+	**Créé par**:
+
+	  - Loi n°1804-03-19 promulguée le 29 mars 1804
+
+
+###### Article 2201
+
+Le registre tenu en exécution de l'article précédent est coté et paraphé à chaque page, par première et dernière, par le juge
+d'instance dans le ressort duquel le bureau est établi. Il est arrêté chaque jour.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°55-22 du 4 janvier 1955 - art. 8-1 (M)
+	  - Code civil - art. 2198 (VT)
+	  - Code civil - art. 2200 (VT)
+	  - Code civil - art. 2203-1 (T)
+
+	**Modifié par**:
+
+	  - Décret n°59-89 1959-01-07 art. 13 JORF 8 janvier 1959
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2454 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-19
+
+	**Créé par**:
+
+	  - Loi n°1804-03-19 promulguée le 29 mars 1804
+
+
 ###### Article 2202
 
 Les conservateurs sont tenus de se conformer, dans l'exercice de leurs fonctions, à toutes les dispositions du présent
@@ -32170,6 +33167,36 @@ préjudice des dommages et intérêts des parties, lesquels seront payés avant 
 
 	  - Loi n°46-2154 1946-10-07 art. 38
 	  - Loi n°56-780 1956-08-04 art. 94 JORF 7 août 1956
+
+
+###### Article 2203
+
+Les mentions de dépôts sont faites sur le registre dont la tenue est prescrite par l'article 2200, de suite, sans aucun blanc
+ni interligne, à peine, contre le conservateur, de 400 F à 4.000 F d'amende, et des dommages et intérêts des parties,
+payables aussi par préférence à l'amende.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°56-780 1956-08-04 art. 94 JORF 7 août 1956
+	  - Ordonnance 59-71 1959-01-07 art. 1 JORF 8 janvier 1959
+
+	**Cite**:
+
+	  - Code civil - art. 2200 (T)
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2456 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-19
+
+	**Créé par**:
+
+	  - Loi n°1804-03-19 promulguée le 29 mars 1804
 
 
 ## Titre XIX : De la saisie et de la distribution du prix de vente de l'immeuble

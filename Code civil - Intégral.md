@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1896-03-25
+Version Consolidée au 1896-06-20
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -1322,6 +1322,36 @@ On ne peut contracter un second mariage avant la dissolution du premier.
 	  - Loi n°1803-03-17 promulguée le 27 mars 1803
 
 
+###### Article 153
+
+Sera assimilé à l'ascendant dans l'impossibilité de manifester sa volonté l'ascendant subissant la peine de la relégation ou
+maintenu aux colonies en conformité de l'article 6 de la loi du 30 mai 1854 sur l'exécution de la peine des travaux forcés.
+Toutefois, les futurs époux auront toujours le droit de solliciter et de produire à l'officier de l'état civil le
+consentement donné par cet ascendant.
+
+**Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Loi n°2011-525 du 17 mai 2011 - art. 158
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°1803-03-17 promulguée le 27 mars 1803
+
+	**Cite**:
+
+	  - Loi n°1854-05-30 art. 6
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°70-643 1970-07-17
+
+
 ###### Article 161
 
 En ligne directe, le mariage est prohibé entre tous les ascendants et descendants légitimes ou naturels, et les alliés dans
@@ -1424,6 +1454,24 @@ curatelle, former opposition qu'autant qu'il y aura été autorisé par un conse
 	**Liens**:
 
 	  - TXT_ASSOCIE: Code civil - art. 174 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°1803-03-17 promulguée le 27 mars 1803
+
+
+###### Article 179
+
+Si l'opposition est rejetée, les opposants, autres néanmoins que les ascendants, pourront être condamnés à des dommages-
+intérêts.
+
+Les jugements et arrêts par défaut rejetant les oppositions à mariage ne sont pas susceptibles d'opposition.
+
+**Liens relatifs à cet article**
 
 	**Codifié par**:
 

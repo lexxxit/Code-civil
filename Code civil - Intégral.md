@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 2005-02-12
+Version Consolidée au 2005-02-18
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -50302,11 +50302,16 @@ Mais la perte arrivée par cas fortuit sera pour le compte de l'acheteur.
 
 ###### Article 1648
 
-L'action résultant des vices rédhibitoires doit être intentée par l'acquéreur, dans un bref délai, suivant la nature des
-vices rédhibitoires, et l'usage du lieu où la vente a été faite.
+L'action résultant des vices rédhibitoires doit être intentée par l'acquéreur dans un délai de deux ans à compter de la
+découverte du vice. 
 
 Dans le cas prévu par l'article 1642-1, l'action doit être introduite, à peine de forclusion, dans l'année qui suit la date à
 laquelle le vendeur peut être déchargé des vices apparents.
+
+**Nota:**
+
+Ordonnance 2005-136 2005-02-17 art. 5 : Les dispositions de la présente ordonnance s'appliquent aux contrats conclus
+postérieurement à son entrée en vigueur.
 
 **Liens relatifs à cet article**
 
@@ -50320,22 +50325,21 @@ laquelle le vendeur peut être déchargé des vices apparents.
 	  - Code de la consommation - art. L217-15 (VD)
 	  - Code de la construction et de l'habitation. - art. L261-7 (M)
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Ordonnance 98-774 1998-09-02 art. 1 II (champ d'application territoriale Polynésie française)
-	  - PILOTE_SUIVEUR: Code de la construction et de l'habitation. - art. L261-7 (V)
+	  - Ordonnance n°2005-136 du 17 février 2005 - art. 3 () JORF 18 février 2005
 
 	**Cite**:
 
 	  - Code civil - art. 1642-1 (V)
 
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code de la construction et de l'habitation. - art. L261-7 (V)
+
 	**Codifié par**:
 
 	  - Loi n°1804-03-06
-
-	**Créé par**:
-
-	  - Loi n°1804-03-06 promulguée le 16 mars 1804
 
 
 ###### Article 1649

@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1977-07-01
+Version Consolidée au 1977-12-29
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -22893,6 +22893,40 @@ L'Etat doit se faire envoyer en possession.
 
 
 ### Chapitre II : Des qualités requises pour succéder - De la preuve de la qualité d'héritier.
+
+###### Article 725
+
+Pour succéder, il faut nécessairement exister à l'instant de l'ouverture de la succession.
+
+Ainsi, sont incapables de succéder :
+
+1° Celui qui n'est pas encore conçu ;
+
+2° L'enfant qui n'est pas né viable ;
+
+3° Celui qui est mort civilement.
+
+Peut succéder celui dont l'absence est présumée selon l'article 112.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code civil - art. 112 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-04-19
+
+	**Créé par**:
+
+	  - Loi n°1803-04-19 promulguée le 29 avril 1803
+
+	**Modifié par**:
+
+	  - Loi n°77-1447 du 28 décembre 1977 - art. 3 () JORF 29 décembre 1977
+	  - Loi n°77-1447 du 28 décembre 1977 - art. 6 (V) JORF 29 décembre 1977
+
 
 ###### Article 727
 

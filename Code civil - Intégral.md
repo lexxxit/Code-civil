@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1941-06-15
+Version Consolidée au 1941-10-09
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -23693,6 +23693,24 @@ Le preneur qui est déchargé par le cas fortuit est toujours tenu de rendre com
 	  - Loi n°1804-03-07 promulguée le 17 mars 1804
 
 
+###### Article 1810
+
+Si le cheptel périt en entier sans la faute du preneur, la perte en est pour le bailleur.
+
+S'il n'en périt qu'une partie, la perte est supportée en commun, d'après le prix de l'estimation originaire et celui de
+l'estimation à l'expiration du cheptel.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-07
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+
 ###### Article 1811
 
 On ne peut stipuler :
@@ -23940,6 +23958,21 @@ métairie, à l'exploitation de laquelle il doit être uniquement employé.
 	  - Loi n°1804-03-07 promulguée le 17 mars 1804
 
 
+###### Article 1825
+
+La perte, même totale et par cas fortuit, est en entier pour le fermier, s'il n'y a convention contraire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-07
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+
 ###### Article 1826
 
 A la fin du bail ou lors de sa résolution, le preneur doit laisser des animaux de chaque espèce formant un même fonds de
@@ -23965,6 +23998,21 @@ bétail d'une valeur égale au prix de l'estimation de celui qu'il a reçu est n
 
 
 ##### Paragraphe 2 : Du cheptel donné au colon partiaire.
+
+###### Article 1827
+
+Si le cheptel périt en entier sans la faute du colon, la perte est pour le bailleur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-07
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
 
 ###### Article 1828
 

@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1979-01-01
+Version Consolidée au 1979-01-03
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -57432,6 +57432,45 @@ Le décret prévu ci-dessus détermine les modalités du refus du dépôt ou du 
 	  - Loi n°1804-03-19
 
 
+###### Article 2148-1
+
+Pour les besoins de leur inscription, les privilèges et hypothèques portant sur des lots dépendant d'un immeuble soumis au
+statut de la copropriété sont réputés ne pas grever la quote-part de parties communes comprise dans ces lots.
+
+Néanmoins, les créanciers inscrits exercent leurs droits sur ladite quote-part prise dans sa consistance au moment de la
+mutation dont le prix forme l'objet de la distribution ; cette quote-part est tenue pour grevée des mêmes sûretés que les
+parties privatives et de ces seules sûretés.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2429 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-19
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°79-2 du 2 janvier 1979 - art. 10 (V)
+	  - SPEC_APPLI: Loi n°79-2 du 2 janvier 1979 - art. 7 (V)
+	  - SPEC_APPLI: Loi n°79-2 du 2 janvier 1979 - art. 8 (V)
+	  - SPEC_APPLI: Loi n°79-2 du 2 janvier 1979 - art. 9 (V)
+
+	**Créé par**:
+
+	  - Loi n°79-2 du 2 janvier 1979 - art. 2 () JORF 3 janvier 1979
+
+	**Transféré par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
+
+
 ###### Article 2149
 
 Sont publiées par le conservateur, sous forme de mentions en marge des inscriptions existantes, les subrogations aux
@@ -59898,6 +59937,59 @@ décret en Conseil d'Etat prévu à l'article 23 et, au plus tard, le 1er janvie
 	**Créé par**:
 
 	  - Loi n°1804-03-19 promulguée le 29 mars 1804
+
+
+###### Article 2217
+
+Toute poursuite en expropriation d'immeubles doit être précédée d'un commandement de payer fait, à la diligence et requête du
+créancier, à la personne du débiteur ou à son domicile, par le ministère d'un huissier.
+
+Pour les besoins de leur publication, les commandements portant sur des lots dépendant d'un immeuble soumis au statut de la
+copropriété sont réputés ne pas porter sur la quote-part de parties communes comprise dans ces lots.
+
+Néanmoins, les créanciers saisissants exercent leur droit sur ladite quote-part, prise dans sa consistance au moment de la
+mutation dont le prix forme l'objet de la distribution.
+
+Les formes du commandement et celles de la poursuite sur l'expropriation sont réglées par les lois sur la procédure.
+
+**Nota:**
+
+NOTA : Ordonnance 2006-461 2006-04-21 art. 23 : La présente ordonnance entrera en vigueur à la date de l'entrée en vigueur du
+décret en Conseil d'Etat prévu à l'article 23 et, au plus tard, le 1er janvier 2007.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°67-167 du 1 mars 1967 - art. 23 (M)
+	  - SPEC_APPLI: Décret n°67-167 du 1 mars 1967 - art. 25 (Ab)
+	  - SPEC_APPLI: Loi n°79-2 du 2 janvier 1979 - art. 10 (V)
+	  - SPEC_APPLI: Loi n°79-2 du 2 janvier 1979 - art. 7 (V)
+	  - SPEC_APPLI: Loi n°79-2 du 2 janvier 1979 - art. 8 (V)
+	  - SPEC_APPLI: Loi n°79-2 du 2 janvier 1979 - art. 9 (V)
+
+	**Cité par**:
+
+	  - Décret n°67-1120 du 22 décembre 1967 - art. 82 (Ab)
+	  - Décret n°85-1388 du 27 décembre 1985 - art. 126 (Ab)
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 269 (M)
+	  - Code de la consommation - art. R*332-29 (M)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-19
+
+	**Créé par**:
+
+	  - Loi n°1804-03-19 promulguée le 29 mars 1804
+
+	**Modifié par**:
+
+	  - Loi n°79-2 du 2 janvier 1979 - art. 4 () JORF 3 janvier 1979
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-461 du 21 avril 2006 - art. 2 () JORF 22 avril 2006 en vigueur au plus tard le 1er janvier 2007
 
 
 ### Chapitre II : De l'ordre et de la distribution du prix entre les créanciers

@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1972-07-09
+Version Consolidée au 1972-07-13
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -36999,6 +36999,37 @@ seulement le profit des veaux qui en naissent.
 	**Créé par**:
 
 	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+
+## Titre VIII bis : Du contrat de promotion immobilière
+
+###### Article 1831-3
+
+Si, avant l'achèvement du programme, le maître de l'ouvrage cède les droits qu'il a sur celui-ci, le cessionnaire lui est
+substitué de plein droit, activement et passivement, dans l'ensemble du contrat. Le cédant est garant de l'exécution des
+obligations mises à la charge du maître de l'ouvrage par le contrat cédé.
+
+Les mandats spéciaux donnés au promoteur se poursuivent entre celui-ci et le cessionnaire.
+
+Le promoteur ne peut se substituer un tiers dans l'exécution des obligations qu'il a contractées envers le maître de
+l'ouvrage sans l'accord de celui-ci.
+
+Le contrat de promotion immobilière n'est opposable aux tiers qu'à partir de la date de sa mention au fichier immobilier.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°71-579 1971-07-16
+
+	**Modifié par**:
+
+	  - Loi n°72-649 1972-07-11 JORF 13 juillet 1972 rectificatif JORF 19 juillet 1972
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 98-774 1998-09-02 art. 1 I (champ d'application territoriale aux TOM et à Mayotte)
+	  - PILOTE_SUIVEUR: Code de la construction et de l'habitation. - art. L221-3 (V)
 
 
 ## Titre X : Du prêt

@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1998-09-01
+Version Consolidée au 1999-01-07
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -23956,8 +23956,8 @@ sont attachés.
 
 ###### Article 524
 
-Les objets que le propriétaire d'un fonds y a placés pour le service et l'exploitation de ce fonds sont immeubles par
-destination.
+Les animaux et les objets que le propriétaire d'un fonds y a placés pour le service et l'exploitation de ce fonds sont
+immeubles par destination.
 
 Ainsi, sont immeubles par destination, quand ils ont été placés par le propriétaire pour le service et l'exploitation du
 fonds :
@@ -23983,13 +23983,13 @@ Les ustensiles nécessaires à l'exploitation des forges, papeteries et autres u
 
 Les pailles et engrais.
 
-Sont aussi immeubles par destination, tous effets mobiliers que le propriétaire a attachés au fonds à perpétuelle demeure.
+Sont aussi immeubles par destination tous effets mobiliers que le propriétaire a attachés au fonds à perpétuelle demeure.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°84-512 1984-06-29 art. 8 I JORF 30 juin 1984 en vigueur le 1er juillet 1985
+	  - Loi n°99-5 du 6 janvier 1999 - art. 24 () JORF 7 janvier 1999
 
 	**Cité par**:
 
@@ -24093,9 +24093,8 @@ Les biens sont meubles par leur nature ou par la détermination de la loi.
 
 ###### Article 528
 
-Sont meubles par leur nature, les corps qui peuvent se transporter d'un lieu à un autre, soit qu'ils se meuvent par eux-
-mêmes, comme les animaux, soit qu'ils ne puissent changer de place que par l'effet d'une force étrangère, comme les choses
-inanimées.
+Sont meubles par leur nature les animaux et les corps qui peuvent se transporter d'un lieu à un autre, soit qu'ils se meuvent
+par eux-mêmes, soit qu'ils ne puissent changer de place que par l'effet d'une force étrangère.
 
 **Liens relatifs à cet article**
 
@@ -24103,9 +24102,9 @@ inanimées.
 
 	  - Loi n°1804-01-25
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°1804-01-25 promulguée le 4 février 1804
+	  - Loi n°99-5 du 6 janvier 1999 - art. 25 () JORF 7 janvier 1999
 
 	**Cité par**:
 

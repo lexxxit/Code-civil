@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1819-07-14
+Version Consolidée au 1849-05-11
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -8190,6 +8190,24 @@ faveur du donataire qui l'accepte.
 
 Le testament est un acte par lequel le testateur dispose, pour le temps où il n'existera plus, de tout ou partie de ses biens
 et qu'il peut révoquer.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 896
+
+Les substitutions sont prohibées.
+
+Toute disposition par laquelle le donataire, l'héritier institué ou le légataire sera chargé de conserver et de rendre à un
+tiers sera nulle, même à l'égard du donataire, de l'héritier institué, ou du légataire.
 
 **Liens relatifs à cet article**
 

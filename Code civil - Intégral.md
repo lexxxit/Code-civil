@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 2004-08-17
+Version Consolidée au 2004-11-21
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -68645,8 +68645,12 @@ Pour l'application du présent code à Mayotte, les termes énumérés ci-après
 
 4° "Département" ou "arrondissement" par : "collectivité départementale" ;
 
-5° "Code de procédure civile" ou "nouveau code de procédure civile" par : "dispositions de procédure civile applicables à
-Mayotte".
+5° (Alinéa supprimé).
+
+**Nota:**
+
+Nota : Ordonnance 2004-1233 2004-11-20 art. 4 : La présente ordonnance est applicable aux procédures introduites et aux voies
+d'exécution diligentées à compter du 1er janvier 2005.
 
 **Liens relatifs à cet article**
 
@@ -68661,17 +68665,26 @@ Mayotte".
 	  - Code monétaire et financier - art. L214-5 (V)
 	  - Code monétaire et financier - art. L214-85 (V)
 
+	**Transféré par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 1 () JORF 24 mars 2006
+
 	**Anciens textes**:
 
 	  - Code civil - art. 2093 (T)
 
 	**Nouveaux textes**:
 
+	  - Code civil - art. 2490 (AbD)
 	  - Code civil - art. 2490 (VD)
 
 	**Codifié par**:
 
 	  - Loi n°1804-03-15
+
+	**Modifié par**:
+
+	  - Ordonnance 2004-1233 2004-11-21 art. 3 JORF 21 novembre 2004
 
 
 ## Titre préliminaire : Dispositions relatives au titre préliminaire

@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1995-05-09
+Version Consolidée au 1995-08-01
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -799,24 +799,31 @@ seize ans.
 
 Le mineur âgé de moins de seize ans doit être représenté par celui ou ceux qui exercent à son égard l'autorité parentale.
 
+Doit être pareillement représenté le mineur de seize à dix-huit ans dont l'altération des facultés mentales ou corporelles
+empêche l'expression de la volonté. L'empêchement est constaté par le juge des tutelles d'office, à la requête d'un membre de
+la famille du mineur ou du ministère public, au vu d'un certificat délivré par un médecin spécialiste choisi sur une liste
+établie par le procureur de la République.
+
+Lorsque le mineur mentionné à l'alinéa précédent est placé sous tutelle, sa représentation est assurée par le tuteur autorisé
+à cet effet par le conseil de famille.
+
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Code de la nationalité française 5
-	  - Code de la nationalité française. - art. 5 (Ab)
-
-	**Codifié par**:
-
-	  - Loi n°93-933 1993-07-22
-
-	**Créé par**:
-
-	  - Loi n°93-933 du 22 juillet 1993 - art. 50 () JORF 23 juillet 1993
+	  - Loi n°95-125 du 8 février 1995 - art. 34 () JORF 9 février 1995 en vigueur le 1er août 1995
 
 	**Cité par**:
 
 	  - Code civil - art. 21-11 (V)
+
+	**Anciens textes**:
+
+	  - Code de la nationalité française. - art. 5 (Ab)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-08
 
 
 ###### Article 17-4

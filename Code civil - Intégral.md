@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1994-02-01
+Version Consolidée au 1994-02-13
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -43755,14 +43755,19 @@ Si l'acte de mariage mentionne qu'il n'a pas été fait de contrat, les époux s
 le régime de droit commun, à moins que, dans les actes passés avec ces tiers, ils n'aient déclaré avoir fait un contrat de
 mariage.
 
-En outre, si l'un des époux est commerçant lors du mariage ou le devient ultérieurement, le contrat de mariage doit être
-publié dans les conditions et sous les sanctions prévues par les règlements relatifs au registre du commerce.
+En outre, si l'un des époux est commerçant lors du mariage ou le devient ultérieurement, le contrat de mariage et ses
+modifications doivent être publiés, à son initiative et sous sa seule responsabilité, dans les conditions et sous les
+sanctions prévues par les dispositions législatives et réglementaires relatives au registre du commerce et des sociétés.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Loi n°65-570 1965-07-13
+
+	**Modifié par**:
+
+	  - Loi n°94-126 du 11 février 1994 - art. 16 () JORF 13 février 1994
 
 	**Cité par**:
 

@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1982-06-26
+Version Consolidée au 1982-07-13
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -26562,6 +26562,111 @@ d'héritiers copartageants, ou de souches copartageantes.
 	  - Loi n°1803-04-19 promulguée le 29 avril 1803
 
 
+###### Article 832
+
+Dans la formation et la composition des lots, on doit éviter de morceler les héritages et de diviser les exploitations.
+
+Dans la mesure où le morcellement des héritages et la division des exploitations peuvent être évités, chaque lot doit, autant
+que possible, être composé, soit en totalité, soit en partie, de meubles ou d'immeubles, de droits ou de créances de valeur
+équivalente.
+
+Le conjoint survivant ou tout héritier copropriétaire peut demander l'attribution préférentielle par voie de partage, à
+charge de soulte s'il y a lieu, de toute exploitation agricole, ou partie d'exploitation agricole, constituant une unité
+économique, ou quote-part indivise d'exploitation agricole, même formée pour une part de biens dont il était déjà
+propriétaire ou copropriétaire avant le décès, à la mise en valeur de laquelle il participe ou a participé effectivement ;
+dans le cas de l'héritier, la condition de participation peut avoir été remplie par son conjoint. S'il y a lieu, la demande
+d'attribution préférentielle peut porter sur des parts sociales, sans préjudice de l'application des dispositions légales ou
+des clauses statutaires sur la continuation d'une société avec le conjoint survivant ou un ou plusieurs héritiers.
+
+Les mêmes règles sont applicables en ce qui concerne toute entreprise commerciale, industrielle ou artisanale, dont
+l'importance n'exclut pas un caractère familial.
+
+Au cas où ni le conjoint survivant, ni aucun héritier copropriétaire ne demande l'application des dispositions prévues au
+troisième alinéa ci-dessus ou celles des articles 832-1 ou 832-2, l'attribution préférentielle peut être accordée à tout
+copartageant sous la condition qu'il s'oblige à donner à bail dans un délai de six mois le bien considéré dans les conditions
+fixées au chapitre VII du titre Ier du livre VI du Code rural à un ou plusieurs des cohéritiers remplissant les conditions
+personnelles prévues au troisième alinéa ci-dessus ou à un ou plusieurs descendants de ces cohéritiers remplissant ces mêmes
+conditions.
+
+Le conjoint survivant ou tout héritier copropriétaire peut également demander l'attribution préférentielle :
+
+De la propriété ou du droit au bail du local qui lui sert effectivement d'habitation, s'il y avait sa résidence à l'époque du
+décès ;
+
+De la propriété ou du droit au bail du local à usage professionnel servant effectivement à l'exercice de sa profession et des
+objets mobiliers à usage professionnel garnissant ce local ;
+
+De l'ensemble des éléments mobiliers nécessaires à l'exploitation d'un bien rural cultivé par le défunt à titre de fermier ou
+de métayer lorsque le bail continue au profit du demandeur, ou lorsqu'un nouveau bail est consenti à ce dernier.
+
+L'attribution préférentielle peut être demandée conjointement par plusieurs successibles.
+
+A défaut d'accord amiable, la demande d'attribution préférentielle est portée devant le tribunal, qui se prononce en fonction
+des intérêts en présence. En cas de pluralité de demandes concernant une exploitation ou une entreprise, le tribunal tient
+compte de l'aptitude des différents postulants à gérer cette exploitation ou cette entreprise et à s'y maintenir et en
+particulier de la durée de leur participation personnelle à l'activité de l'exploitation ou de l'entreprise.
+
+Les biens faisant l'objet de l'attribution sont estimés à leur valeur au jour du partage.
+
+Sauf accord amiable entre les copartageants, la soulte éventuellement due est payable comptant.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°1803-04-19 promulguée le 29 avril 1803
+
+	**Modifié par**:
+
+	  - Loi n°55-1413 1955-10-28 art. 2 JORF 29 octobre 1955
+	  - Loi n°61-1378 du 19 décembre 1961 - art. 2 () JORF 20 décembre 1961
+	  - Loi n°80-502 du 4 juillet 1980 - art. 35 () JORF 5 juillet 1980 rectificatif JORF 28 juillet, 3 août 1980
+	  - Loi n°82-596 du 10 juillet 1982 - art. 5 (V) JORF 13 juillet 1982
+	  - Loi n°82-596 du 10 juillet 1982 - art. 6 () JORF 13 juillet 1982
+
+	**Cité par**:
+
+	  - Loi n°61-1378 du 19 décembre 1961 - art. 14 (M)
+	  - Loi n°62-917 du 8 août 1962 - art. 1 (Ab)
+	  - Loi n°62-933 du 8 août 1962 - art. 5 (V)
+	  - Décret n°65-577 du 15 juillet 1965 - art. 2 (Ab)
+	  - Loi n°70-1265 du 23 décembre 1970 - art. 2 (V)
+	  - Loi n°70-1299 du 31 décembre 1970 - art. 7 (Ab)
+	  - Loi n°80-502 du 4 juillet 1980 - art. 32 (Ab)
+	  - Loi n°82-526 du 22 juin 1982 - art. 16 (Ab)
+	  - Loi n°86-1290 du 23 décembre 1986 - art. 13 (Ab)
+	  - Loi n°89-462 du 6 juillet 1989 - art. 14 (M)
+	  - Loi n°2001-1135 du 3 décembre 2001 - art. 26 (V)
+	  - Code civil - art. 1471 (M)
+	  - Code civil - art. 2505 (V)
+	  - Code civil - art. 2507 (V)
+	  - Code civil - art. 515-6 (M)
+	  - Code civil - art. 761 (M)
+	  - Code civil - art. 831-1 (V)
+	  - Code civil - art. 832-1 (V)
+	  - Code civil - art. 832-2 (V)
+	  - Code civil - art. 832-3 (M)
+	  - Code civil - art. 832-4 (V)
+	  - Code civil - art. 833 (V)
+	  - Code forestier - art. R532-19 (M)
+	  - Code général des impôts, CGI. - art. 1722 bis (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 397 (V)
+	  - Code rural - art. L321-24 (M)
+	  - Code rural - art. L322-14 (M)
+	  - Code rural - art. L323-6 (M)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°80-502 1980-07-04 art. 32
+	  - SPEC_APPLI: Décret n°83-747 1983-08-10
+	  - SPEC_APPLI: Code civil - art. 832-1 (M)
+	  - TXT_ASSOCIE: Code civil - art. 832-4 (M)
+
+	**Codifié par**:
+
+	  - Loi n°1803-04-19
+
+
 ###### Article 832-1
 
 Par dérogation aux dispositions des alinéas onzième et treizième de l'article 832 et à moins que le maintien de l'indivision
@@ -48100,7 +48205,8 @@ Les associés s'engagent à contribuer aux pertes.
 
 ###### Article 1832-1
 
-Deux époux peuvent, seuls ou avec d'autres personnes, être associés dans une même société et participer ensemble ou non à la
+Même s'ils n'emploient que des biens de communauté pour les apports à une société ou pour l'acquisition de parts sociales,
+deux époux seuls ou avec d'autres personnes peuvent être associés dans une même société et participer ensemble ou non à la
 gestion sociale. Toutefois, cette faculté n'est ouverte que si les époux ne doivent pas, l'un et l'autre, être indéfiniment
 et solidairement responsables des dettes sociales.
 
@@ -48113,9 +48219,9 @@ constitueraient des donations déguisées, lorsque les conditions en ont été r
 
 	  - Loi n°78-9 1978-01-04
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°78-9 1978-01-04 JORF 5 janvier 1978 rectificatif JORF 13 janvier, 12 mai 1978 en vigueur le 1er juillet 1978
+	  - Loi n°82-596 du 10 juillet 1982 - art. 12 () JORF 13 juillet 1982
 
 	**Liens**:
 
@@ -48125,6 +48231,43 @@ constitueraient des donations déguisées, lorsque les conditions en ont été r
 
 	  - Code civil - art. 1844-10 (V)
 	  - Code civil - art. 1871 (V)
+
+
+###### Article 1832-2
+
+Un époux ne peut, sous la sanction prévue à l'article 1427, employer des biens communs pour faire un apport à une société ou
+acquérir des parts sociales non négociables sans que son conjoint en ait été averti et sans qu'il en soit justifié dans
+l'acte. 
+
+La qualité d'associé est reconnue à celui des époux qui fait l'apport ou réalise l'acquisition. 
+
+La qualité d'associé est également reconnue, pour la moitié des parts souscrites ou acquises, au conjoint qui a notifié à la
+société son intention d'être personnellement associé. Lorsqu'il notifie son intention lors de l'apport ou de l'acquisition,
+l'acceptation ou l'agrément des associés vaut pour les deux époux. Si cette notification est postérieure à l'apport ou à
+l'acquisition, les clauses d'agrément prévues à cet effet par les statuts sont opposables au conjoint ; lors de la
+délibération sur l'agrément, l'époux associé ne participe pas au vote et ses parts ne sont pas prises en compte pour le
+calcul du quorum et de la majorité. 
+
+Les dispositions du présent article ne sont applicables que dans les sociétés dont les parts ne sont pas négociables et
+seulement jusqu'à la dissolution de la communauté.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°78-9 1978-01-04
+
+	**Créé par**:
+
+	  - Loi n°82-596 du 10 juillet 1982 - art. 13 () JORF 13 juillet 1982
+
+	**Cité par**:
+
+	  - Loi n°82-596 du 10 juillet 1982 - art. 20 (V)
+
+	**Cite**:
+
+	  - Code civil - art. 1427 (V)
 
 
 ###### Article 1833
@@ -48396,6 +48539,9 @@ rétroagissent à la date de son accomplissement.
 Les droits de chaque associé dans le capital social sont proportionnels à ses apports lors de la constitution de la société
 ou au cours de l'existence de celle-ci.
 
+Les apports en industrie ne concourent pas à la formation du capital social mais donnent lieu à l'attribution de parts
+ouvrant droit au partage des bénéfices et de l'actif net, à charge de contribuer aux pertes.
+
 **Liens relatifs à cet article**
 
 	**Cité par**:
@@ -48410,9 +48556,9 @@ ou au cours de l'existence de celle-ci.
 
 	  - Loi n°78-9 1978-01-04
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°78-9 1978-01-04 JORF 5 janvier 1978 rectificatif JORF 15 janvier, 12 mai 1978 en vigueur le 1er juillet 1978
+	  - Loi n°82-596 du 10 juillet 1982 - art. 14 () JORF 13 juillet 1982
 
 
 ###### Article 1843-3
@@ -49186,10 +49332,7 @@ leur nature, ou de leur objet.
 
 ###### Article 1845-1
 
-Le capital social est divisé en parts égales.
-
-Les apports en industrie ne concourent pas à sa formation, mais donnent lieu à l'attribution de parts ouvrant droit au
-partage des bénéfices de l'actif net, à charge de contribuer aux pertes.
+Le capital est divisé en parts égales.
 
 **Liens relatifs à cet article**
 
@@ -49197,15 +49340,15 @@ partage des bénéfices de l'actif net, à charge de contribuer aux pertes.
 
 	  - Loi n°78-9 1978-01-04
 
-	**Créé par**:
-
-	  - Loi n°78-9 1978-01-04 JORF 5 janvier 1978 rectificatif JORF 15 janvier, 12 mai 1978 en vigueur le 1er juillet 1978
-
 	**Cité par**:
 
 	  - Loi n°78-9 du 4 janvier 1978 - art. 4 (V)
 	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 57 (V)
 	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 58 (V)
+
+	**Modifié par**:
+
+	  - Loi n°82-596 du 10 juillet 1982 - art. 15 () JORF 13 juillet 1982
 
 
 #### Section 2 : Gérance.

@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1957-11-20
+Version Consolidée au 1957-11-29
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -1243,6 +1243,32 @@ ministre des anciens combattants et victimes de guerre.
 	**Créé par**:
 
 	  - Loi n°1803-03-11 promulguée le 21 mars 1803
+
+
+###### Article 96
+
+Lorsqu'un mariage est célébré dans l'un des cas prévus aux alinéas 2 et 3 de l'article 93, les publications sont faites, dans
+la mesure où les circonstances le permettent, au lieu du dernier domicile du futur époux ; elles sont en outre assurées, dans
+l'unité à laquelle l'intéressé appartient, dans les conditions fixées par arrêté du ministre de la défense nationale et des
+forces armées.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code civil - art. 93 (M)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-11
+
+	**Créé par**:
+
+	  - Loi n°1803-03-11 promulguée le 21 mars 1803
+
+	**Modifié par**:
+
+	  - Loi n°57-1232 du 28 novembre 1957 - art. 1 () JORF 29 novembre 1957
 
 
 ## Titre III : Du domicile

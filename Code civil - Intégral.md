@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 2000-06-16
+Version Consolidée au 2000-07-01
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -10315,8 +10315,9 @@ Ce juge a compétence pour prononcer le divorce, quelle qu'en soit la cause. Il 
 audience collégiale. Ce renvoi est de droit à la demande d'une partie.
 
 Il est également seul compétent, après le prononcé du divorce, quelle qu'en soit la cause, pour statuer sur les modalités de
-l'exercice de l'autorité parentale et sur la modification de la pension alimentaire, ainsi que pour décider de confier les
-enfants à un tiers. Il statue alors sans formalité et peut être saisi par les parties intéressées sur simple requête.
+l'exercice de l'autorité parentale, sur la modification de la pension alimentaire et sur la révision de la prestation
+compensatoire ou de ses modalités de paiement, ainsi que pour décider de confier les enfants à un tiers. Il statue alors sans
+formalité et peut être saisi par les parties intéressées sur simple requête.
 
 **Liens relatifs à cet article**
 
@@ -10327,11 +10328,11 @@ enfants à un tiers. Il statue alors sans formalité et peut être saisi par les
 	**Liens**:
 
 	  - SPEC_APPLI: Loi n°93-22 1993-01-08 art. 63 *Mayotte*, art. 64 *date d'effet*
+	  - SPEC_APPLI: Loi n°2000-596 2000-06-30 art. 23 *dispositions transitoires*
 
 	**Modifié par**:
 
-	  - Loi n°93-22 du 8 janvier 1993 - art. 47 () JORF 9 janvier 1993 en vigueur le 1er février 1994
-	  - Loi n°93-22 du 8 janvier 1993 - art. 64 (V) JORF 9 janvier 1993 en vigueur le 1er février 1994
+	  - Loi n°2000-596 du 30 juin 2000 - art. 13 () JORF 1er juillet 2000
 
 	**Cité par**:
 
@@ -11479,6 +11480,537 @@ II.
 	  - Loi n°1803-03-14
 
 
+###### Article 271
+
+La prestation compensatoire est fixée selon les besoins de l'époux à qui elle est versée et les ressources de l'autre en
+tenant compte de la situation au moment du divorce et de l'évolution de celle-ci dans un avenir prévisible.
+
+Dans le cadre de la fixation d'une prestation compensatoire, par le juge ou par les parties dans la convention visée à
+l'article 278, ou à l'occasion d'une demande de révision, les parties fournissent au juge une déclaration certifiant sur
+l'honneur l'exactitude de leurs ressources, revenus, patrimoine et conditions de vie.
+
+**Nota:**
+
+NOTA : Loi 2000-596 2000-06-30 art. 23.
+
+NOTA : La loi 2004-439 du 26 mai 2004 entrera en vigueur le 1er janvier 2005 sauf pour les exceptions citées par l'article 33
+II.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+
+	**Modifié par**:
+
+	  - Loi n°2000-596 du 30 juin 2000 - art. 1 () JORF 1er juillet 2000
+
+	**Cité par**:
+
+	  - Code civil - art. 270 (V)
+	  - Code civil - art. 276 (V)
+	  - Nouveau code de procédure civile - art. 1075-1 (M)
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 272 (M)
+
+	**Cite**:
+
+	  - Code civil - art. 278 (M)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 272
+
+Dans la détermination des besoins et des ressources, le juge prend en considération notamment :
+
+- l'âge et l'état de santé des époux ;
+
+- la durée du mariage ;
+
+- le temps déjà consacré ou qu'il leur faudra consacrer à l'éducation des enfants ;
+
+- leur qualification et leur situation professionnelles au regard du marché du travail ;
+
+- leur disponibilité pour de nouveaux emplois ;
+
+- leurs droits existants et prévisibles ;
+
+- leur situation respective en matière de pensions de retraite ;
+
+- leur patrimoine, tant en capital qu'en revenu, après la liquidation du régime matrimonial.
+
+**Nota:**
+
+Loi 2000-596 2000-06-30 art. 23 [*dispositions transitoires*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code civil - art. 271 (M)
+
+	**Cité par**:
+
+	  - Code civil - art. 276 (M)
+	  - Code de procédure civile - art. 1075-1 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+
+	**Modifié par**:
+
+	  - Loi n°2000-596 du 30 juin 2000 - art. 2 () JORF 1er juillet 2000
+
+
+###### Article 273
+
+La prestation compensatoire a un caractère forfaitaire.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+
+	**Modifié par**:
+
+	  - Loi n°2000-596 du 30 juin 2000 - art. 3 () JORF 1er juillet 2000
+
+	**Abrogé par**:
+
+	  - Loi n°2004-439 du 26 mai 2004 - art. 23 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 1136-2 (VD)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 274
+
+La prestation compensatoire prend la forme d'un capital dont le montant est fixé par le juge.
+
+**Nota:**
+
+Loi 2000-596 2000-06-30 art. 23 [*dispositions transitoires*]    NOTA : La loi 2004-439 du 26 mai 2004 entrera en vigueur le
+1er janvier 2005 sauf pour les exceptions citées par l'article 33 II.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+
+	**Modifié par**:
+
+	  - Loi n°2000-596 du 30 juin 2000 - art. 4 () JORF 1er juillet 2000
+
+	**Cité par**:
+
+	  - Code civil - art. 275 (V)
+	  - Code civil - art. 275-1 (V)
+	  - Code civil - art. 276 (V)
+	  - Code civil - art. 276-4 (V)
+	  - Code civil - art. 303 (V)
+	  - Code de procédure civile - art. 1080 (V)
+	  - Code général des impôts, CGI. - art. 1133 ter (V)
+	  - Code général des impôts, CGI. - art. 199 octodecies (VD)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 275
+
+Le juge décide des modalités selon lesquelles s'exécutera l'attribution ou l'affectation de biens en capital :
+
+1. Versement d'une somme d'argent ;
+
+2. Abandon de biens en nature, meubles ou immeubles, en propriété, en usufruit, pour l'usage ou l'habitation, le jugement
+opérant cession forcée en faveur du créancier ;
+
+3. Dépôt de valeurs productives de revenus entre les mains d'un tiers chargé de verser les revenus à l'époux créancier de la
+prestation jusqu'au terme fixé.
+
+Le jugement de divorce peut être subordonné au versement effectif du capital ou à la constitution des garanties prévues à
+l'article 277.
+
+**Nota:**
+
+Loi 2000-596 2000-06-30 art. 23 [*dispositions transitoires*]
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+
+	**Modifié par**:
+
+	  - Loi n°2000-596 du 30 juin 2000 - art. 5 () JORF 1er juillet 2000
+
+	**Cité par**:
+
+	  - Loi n°2000-596 du 30 juin 2000 - art. 21 (Ab)
+	  - Loi n°2004-439 du 26 mai 2004 - art. 33 (V)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 199 octodecies (M)
+	  - Code civil - art. 275-1 (V)
+	  - Code civil - art. 276-4 (V)
+	  - Code civil - art. 279 (VD)
+	  - Code civil - art. 280 (V)
+	  - Code civil - art. 280-1 (V)
+	  - Code de procédure civile - art. 1136-2 (VD)
+	  - Code général des impôts, CGI. - art. 156 (VT)
+	  - Code général des impôts, CGI. - art. 80 quater (VD)
+
+	**Anciens textes**:
+
+	  - Code civil - art. 275-1 (M)
+
+	**Cite**:
+
+	  - Code civil - art. 277 (M)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 275-1
+
+Lorsque le débiteur n'est pas en mesure de verser le capital dans les conditions prévues par l'article 275, le juge fixe les
+modalités de paiement du capital, dans la limite de huit années, sous forme de versements mensuels ou annuels indexés selon
+les règles applicables aux pensions alimentaires.
+
+Le débiteur peut demander la révision de ces modalités de paiement en cas de changement notable de sa situation. A titre
+exceptionnel, le juge peut alors, par décision spéciale et motivée, autoriser le versement du capital sur une durée totale
+supérieure à huit ans.
+
+A la mort de l'époux débiteur, la charge du solde du capital passe à ses héritiers. Les héritiers peuvent demander la
+révision des modalités de paiement dans les conditions prévues au précédent alinéa.
+
+Le débiteur ou ses héritiers peuvent se libérer à tout moment du solde du capital.
+
+Après la liquidation du régime matrimonial, le créancier de la prestation compensatoire peut saisir le juge d'une demande en
+paiement du solde du capital.
+
+**Nota:**
+
+Loi 2000-596 2000-06-30 art. 23 [*dispositions transitoires*]    NOTA : La loi 2004-439 du 26 mai 2004 entrera en vigueur le
+1er janvier 2005 sauf pour les exceptions citées par l'article 33 II.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+
+	**Modifié par**:
+
+	  - Loi n°2000-596 du 30 juin 2000 - art. 6 () JORF 1er juillet 2000
+
+	**Cité par**:
+
+	  - Loi n°2000-596 du 30 juin 2000 - art. 17 (V)
+	  - Loi n°2000-596 du 30 juin 2000 - art. 21 (Ab)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 156 (M)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 199 octodecies (M)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 80 quater (M)
+	  - Code civil - art. 276-4 (V)
+	  - Code civil - art. 279 (M)
+
+	**Transféré par**:
+
+	  - Loi n°2004-439 du 26 mai 2004 - art. 6 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
+
+	**Cite**:
+
+	  - Code civil - art. 275 (M)
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 275 (M)
+	  - Code civil - art. 275 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 276
+
+A titre exceptionnel, le juge peut, par décision spécialement motivée, en raison de l'âge ou de l'état de santé du créancier
+ne lui permettant pas de subvenir à ses besoins, fixer la prestation compensatoire sous forme de rente viagère. Il prend en
+considération les éléments d'appréciation prévus à l'article 272.
+
+**Nota:**
+
+Loi 2000-596 2000-06-30 art. 23 [*dispositions transitoires*]    NOTA : La loi 2004-439 du 26 mai 2004 entrera en vigueur le
+1er janvier 2005 sauf pour les exceptions citées par l'article 33 II.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°73-5 du 2 janvier 1973 - art. 1 (VT)
+	  - Loi n°73-5 du 2 janvier 1973 - art. 7-1 (VT)
+	  - Décret n°73-216 du 1 mars 1973 - art. 8 (Ab)
+	  - Loi n°75-618 du 11 juillet 1975 - art. 15 (V)
+	  - Loi n°75-1278 du 30 décembre 1975 - art. 61 (V)
+	  - Décret n°75-1339 du 31 décembre 1975 - art. 22 (V)
+	  - Loi n°84-1171 du 22 décembre 1984 - art. 9 (V)
+	  - Décret n°85-560 du 30 mai 1985 - art. 18 (Ab)
+	  - Loi - art. 128 (T)
+	  - Loi n°2000-596 du 30 juin 2000 - art. 17 (V)
+	  - Loi n°2004-439 du 26 mai 2004 - art. 33 (V)
+	  - Décret n°2017-122 du 1er février 2017 - art. 2
+	  - Code de la sécurité sociale. - art. L136-2 (V)
+	  - Code de la sécurité sociale. - art. L581-3 (V)
+	  - Code de la sécurité sociale. - art. R581-9 (V)
+	  - Code de procédure civile - art. 1136-2 (VD)
+	  - Code des procédures civiles d'exécution - art. L161-3 (VD)
+	  - Code des procédures civiles d'exécution - art. L213-1 (VD)
+	  - Code général des impôts, CGI. - art. 156 (VD)
+	  - Code général des impôts, CGI. - art. 199 octodecies (VD)
+	  - Code général des impôts, CGI. - art. 80 quater (VD)
+	  - Nouveau code de procédure civile - art. 465-1 (V)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+
+	**Modifié par**:
+
+	  - Loi n°2000-596 du 30 juin 2000 - art. 7 () JORF 1er juillet 2000
+
+	**Cite**:
+
+	  - Code civil - art. 272 (M)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 276-1
+
+La rente est indexée ; l'indice est déterminé comme en matière de pension alimentaire.
+
+Le montant de la rente avant indexation est fixé de façon uniforme pour toute sa durée ou peut varier par périodes
+successives suivant l'évolution probable des ressources et des besoins.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+
+	**Modifié par**:
+
+	  - Loi n°2000-596 du 30 juin 2000 - art. 8 () JORF 1er juillet 2000
+
+
+###### Article 276-2
+
+A la mort de l'époux débiteur, la charge de la rente viagère passe à ses héritiers. Les pensions de réversion éventuellement
+versées du chef du conjoint décédé sont déduites de plein droit de la rente versée au créancier. Sauf décision contraire du
+juge saisi par le créancier, une déduction du même montant continue à être opérée si le créancier perd son droit à pension de
+réversion.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+
+	**Modifié par**:
+
+	  - Loi n°2000-596 du 30 juin 2000 - art. 9 () JORF 1er juillet 2000
+
+	**Transféré par**:
+
+	  - Loi n°2004-439 du 26 mai 2004 - art. 6 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 280-2 (V)
+
+
+###### Article 276-3
+
+La prestation compensatoire fixée sous forme de rente viagère peut être révisée, suspendue ou supprimée en cas de changement
+important dans les ressources ou les besoins des parties.
+
+La révision ne peut avoir pour effet de porter la rente à un montant supérieur à celui fixé initialement par le juge.
+
+L'action en révision est ouverte au débiteur et à ses héritiers.
+
+**Nota:**
+
+NOTA : La loi 2004-439 du 26 mai 2004 entrera en vigueur le 1er janvier 2005 sauf pour les exceptions citées par l'article 33
+II.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°2000-596 du 30 juin 2000 - art. 10 () JORF 1er juillet 2000
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2000-596 du 30 juin 2000 - art. 23 (Ab)
+
+	**Cité par**:
+
+	  - Loi n°2000-596 du 30 juin 2000 - art. 20 (Ab)
+	  - Loi n°2004-439 du 26 mai 2004 - art. 33 (V)
+	  - Code civil - art. 279 (VD)
+	  - Code civil - art. 280-1 (V)
+
+
+###### Article 276-4
+
+Le débiteur d'une prestation compensatoire sous forme de rente viagère peut à tout moment saisir le juge aux fins de statuer
+sur la substitution à la rente d'un capital déterminé selon les modalités prévues aux articles 275 et 275-1.
+
+Cette action est ouverte aux héritiers du débiteur.
+
+Le créancier de la prestation compensatoire peut former la même demande s'il établit qu'une modification de la situation du
+débiteur permet cette substitution, notamment lors de la liquidation du régime matrimonial.
+
+**Nota:**
+
+Loi 2000-596 2000-06-30 art. 23 [*dispositions transitoires*]    NOTA : La loi 2004-439 du 26 mai 2004 entrera en vigueur le
+1er janvier 2005 sauf pour les exceptions citées par l'article 33 II.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°2000-596 du 30 juin 2000 - art. 11 () JORF 1er juillet 2000
+
+	**Cité par**:
+
+	  - Loi n°2000-596 du 30 juin 2000 - art. 20 (Ab)
+	  - Loi n°2004-439 du 26 mai 2004 - art. 33 (V)
+	  - Décret n°2004-1157 du 29 octobre 2004 - art. 1 (V)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 1133 ter (M)
+	  - Code civil - art. 279 (VD)
+	  - Code civil - art. 280-1 (V)
+
+	**Cite**:
+
+	  - Code civil - art. 275 (M)
+	  - Code civil - art. 275-1 (M)
+
+
+###### Article 277
+
+Indépendamment de l'hypothèque légale ou judiciaire, le juge peut imposer à l'époux débiteur de constituer un gage, de donner
+caution ou de souscrire un contrat garantissant le paiement de la rente ou du capital.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
+	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+
+	**Modifié par**:
+
+	  - Loi n°2000-596 du 30 juin 2000 - art. 12 () JORF 1er juillet 2000
+
+	**Cité par**:
+
+	  - Code civil - art. 274 (V)
+	  - Code civil - art. 275 (M)
+	  - Code civil - art. 275-1 (M)
+	  - Code civil - art. 285 (Ab)
+	  - Code civil - art. 294 (Ab)
+	  - Code civil - art. 303 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 278
+
+En cas de demande conjointe, les époux fixent le montant et les modalités de la prestation compensatoire dans la convention
+qu'ils soumettent à l'homologation du juge. Ils peuvent prévoir que le versement de la prestation cessera à compter de la
+réalisation d'un évènement déterminé. La prestation peut prendre la forme d'une rente attribuée pour une durée limitée.
+
+Le juge, toutefois, refuse d'homologuer la convention si elle fixe inéquitablement les droits et obligations des époux.
+
+**Nota:**
+
+NOTA : La loi 2004-439 du 26 mai 2004 entrera en vigueur le 1er janvier 2005 sauf pour les exceptions citées par l'article 33
+II.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Modifié par**:
+
+	  - Loi n°2000-596 du 30 juin 2000 - art. 14 () JORF 1er juillet 2000
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2000-596 du 30 juin 2000 - art. 23 (Ab)
+
+	**Cité par**:
+
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 156 (M)
+	  - Code civil - art. 271 (M)
+	  - Code civil - art. 279-1 (V)
+	  - Code général des impôts, CGI. - art. 1133 ter (V)
+	  - Code général des impôts, CGI. - art. 199 octodecies (V)
+	  - Code général des impôts, CGI. - art. 80 quater (VD)
+
+
 #### Section 2 : Des conséquences du divorce pour les époux.
 
 ##### Paragraphe 2 : Des suites propres aux différents cas de divorce.
@@ -11666,411 +12198,39 @@ L'autre époux conserve les siens.
 
 ##### Paragraphe 3 : Des prestations compensatoires.
 
-###### Article 271
-
-La prestation compensatoire est fixée selon les besoins de l'époux à qui elle est versée et les ressources de l'autre en
-tenant compte de la situation au moment du divorce et de l'évolution de celle-ci dans un avenir prévisible.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
-
-	**Cité par**:
-
-	  - Code civil - art. 270 (V)
-	  - Code civil - art. 276 (V)
-	  - Nouveau code de procédure civile - art. 1075-1 (M)
-
-
-###### Article 272
-
-Dans la détermination des besoins et des ressources, le juge prend en considération notamment :
-
-- l'âge et l'état de santé des époux ;
-
-- le temps déjà consacré ou qu'il leur faudra consacrer à l'éducation des enfants ;
-
-- leurs qualifications professionnelles ;
-
-- leur disponibilité pour de nouveaux emplois ;
-
-- leurs droits existants et prévisibles ;
-
-- la perte éventuelle de leurs droits en matière de pensions de réversion ;
-
-- leur patrimoine, tant en capital qu'en revenu, après la liquidation du régime matrimonial.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code civil - art. 271 (M)
-
-	**Cité par**:
-
-	  - Code civil - art. 276 (M)
-	  - Code de procédure civile - art. 1075-1 (V)
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
-
-
-###### Article 273
-
-La prestation compensatoire a un caractère forfaitaire. Elle ne peut être révisée même en cas de changement imprévu dans les
-ressources ou les besoins des parties, sauf si l'absence de révision devait avoir pour l'un des conjoints des conséquences
-d'une exceptionnelle gravité.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Code de procédure civile - art. 1136-2 (VD)
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
-
-
-###### Article 274
-
-Lorsque la consistance des biens de l'époux débiteur de la prestation compensatoire le permet, celle-ci prend la forme d'un
-capital.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
-
-	**Cité par**:
-
-	  - Code civil - art. 275 (V)
-	  - Code civil - art. 275-1 (V)
-	  - Code civil - art. 276 (V)
-	  - Code civil - art. 276-4 (V)
-	  - Code civil - art. 303 (V)
-	  - Code de procédure civile - art. 1080 (V)
-	  - Code général des impôts, CGI. - art. 1133 ter (V)
-	  - Code général des impôts, CGI. - art. 199 octodecies (VD)
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-
-###### Article 275
-
-Le juge décide des modalités selon lesquelles s'exécutera l'attribution ou l'affectation de biens en capital :
-
-1. Versement d'une somme d'argent ;
-
-2. Abandon de biens en nature, meubles ou immeubles, mais pour l'usufruit seulement, le jugement opérant cession forcée en
-faveur du créancier ;
-
-3. Dépôt de valeurs productives de revenus entre les mains d'un tiers chargé de verser les revenus à l'époux créancier de la
-prestation jusqu'au terme fixé.
-
-Le jugement de divorce peut être subordonné au versement effectif du capital ou à la constitution des garanties prévues à
-l'article 277.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
-
-	**Cité par**:
-
-	  - Loi n°2000-596 du 30 juin 2000 - art. 21 (Ab)
-	  - Loi n°2004-439 du 26 mai 2004 - art. 33 (V)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 199 octodecies (M)
-	  - Code civil - art. 275-1 (V)
-	  - Code civil - art. 276-4 (V)
-	  - Code civil - art. 279 (VD)
-	  - Code civil - art. 280 (V)
-	  - Code civil - art. 280-1 (V)
-	  - Code de procédure civile - art. 1136-2 (VD)
-	  - Code général des impôts, CGI. - art. 156 (VT)
-	  - Code général des impôts, CGI. - art. 80 quater (VD)
-
-	**Anciens textes**:
-
-	  - Code civil - art. 275-1 (M)
-
-	**Cite**:
-
-	  - Code civil - art. 277 (M)
-
-
-###### Article 275-1
-
-Si l'époux débiteur de la prestation compensatoire ne dispose pas de liquidités immédiates, il peut être autorisé, sous les
-garanties prévues à l'article 277, à constituer le capital en trois annuités.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
-
-	**Cité par**:
-
-	  - Loi n°2000-596 du 30 juin 2000 - art. 17 (V)
-	  - Loi n°2000-596 du 30 juin 2000 - art. 21 (Ab)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 156 (M)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 199 octodecies (M)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 80 quater (M)
-	  - Code civil - art. 276-4 (V)
-	  - Code civil - art. 279 (M)
-
-	**Nouveaux textes**:
-
-	  - Code civil - art. 275 (V)
-
-	**Cite**:
-
-	  - Code civil - art. 277 (M)
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-
-###### Article 276
-
-A défaut de capital ou si celui-ci n'est pas suffisant, la prestation compensatoire prend la forme d'une rente.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Loi n°73-5 du 2 janvier 1973 - art. 1 (VT)
-	  - Loi n°73-5 du 2 janvier 1973 - art. 7-1 (VT)
-	  - Décret n°73-216 du 1 mars 1973 - art. 8 (Ab)
-	  - Loi n°75-618 du 11 juillet 1975 - art. 15 (V)
-	  - Loi n°75-1278 du 30 décembre 1975 - art. 61 (V)
-	  - Décret n°75-1339 du 31 décembre 1975 - art. 22 (V)
-	  - Loi n°84-1171 du 22 décembre 1984 - art. 9 (V)
-	  - Décret n°85-560 du 30 mai 1985 - art. 18 (Ab)
-	  - Loi - art. 128 (T)
-	  - Loi n°2000-596 du 30 juin 2000 - art. 17 (V)
-	  - Loi n°2004-439 du 26 mai 2004 - art. 33 (V)
-	  - Décret n°2017-122 du 1er février 2017 - art. 2
-	  - Code de la sécurité sociale. - art. L136-2 (V)
-	  - Code de la sécurité sociale. - art. L581-3 (V)
-	  - Code de la sécurité sociale. - art. R581-9 (V)
-	  - Code de procédure civile - art. 1136-2 (VD)
-	  - Code des procédures civiles d'exécution - art. L161-3 (VD)
-	  - Code des procédures civiles d'exécution - art. L213-1 (VD)
-	  - Code général des impôts, CGI. - art. 156 (VD)
-	  - Code général des impôts, CGI. - art. 199 octodecies (VD)
-	  - Code général des impôts, CGI. - art. 80 quater (VD)
-	  - Nouveau code de procédure civile - art. 465-1 (V)
-
-	**Créé par**:
-
-	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-
-###### Article 276-1
-
-La rente est attribuée pour une durée égale ou inférieure à la vie de l'époux créancier.
-
-Elle est indexée ; l'indice est déterminé comme en matière de pension alimentaire.
-
-Le montant de la rente avant indexation est fixé de façon uniforme pour toute sa durée ou peut varier par périodes
-successives suivant l'évolution probable des ressources et des besoins.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
-
-
-###### Article 276-2
-
-A la mort de l'époux débiteur, la charge de la rente passe à ses héritiers.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
-
-	**Nouveaux textes**:
-
-	  - Code civil - art. 280-2 (V)
-
-
-###### Article 277
-
-Indépendamment de l'hypothèque légale ou judiciaire, le juge peut imposer à l'époux débiteur de constituer un gage ou de
-donner une caution pour garantir la rente.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
-
-	**Cité par**:
-
-	  - Code civil - art. 274 (V)
-	  - Code civil - art. 275 (M)
-	  - Code civil - art. 275-1 (M)
-	  - Code civil - art. 285 (Ab)
-	  - Code civil - art. 294 (Ab)
-	  - Code civil - art. 303 (V)
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-
-###### Article 278
-
-En cas de demande conjointe, les époux fixent le montant et les modalités de la prestation compensatoire dans la convention
-qu'ils soumettent à l'homologation du juge.
-
-Le juge, toutefois, refuse d'homologuer la convention si elle fixe inéquitablement les droits et obligations des époux.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
-
-	**Cité par**:
-
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 156 (M)
-	  - Code civil - art. 271 (M)
-	  - Code civil - art. 279-1 (V)
-	  - Code général des impôts, CGI. - art. 1133 ter (V)
-	  - Code général des impôts, CGI. - art. 199 octodecies (V)
-	  - Code général des impôts, CGI. - art. 80 quater (VD)
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-
 ###### Article 279
 
 La convention homologuée a la même force exécutoire qu'une décision de justice.
 
 Elle ne peut être modifiée que par une nouvelle convention entre des époux, également soumise à l'homologation.
 
-Les époux ont néanmoins la faculté de prévoir dans leur convention que chacun d'eux pourra, en cas de changement imprévu dans
-ses ressources et ses besoins, demander au juge de réviser la prestation compensatoire.
+Les époux ont néanmoins la faculté de prévoir dans leur convention que chacun d'eux pourra, en cas de changement important
+dans les ressources et les besoins des parties, demander au juge de réviser la prestation compensatoire.
+
+**Nota:**
+
+Loi 2000-596 2000-06-30 art. 23 [*dispositions transitoires*]
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
 
 	**Liens**:
 
 	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
 	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
 
+	**Modifié par**:
+
+	  - Loi n°2000-596 du 30 juin 2000 - art. 15 () JORF 1er juillet 2000
+
 	**Cité par**:
 
 	  - Loi n°2000-596 du 30 juin 2000 - art. 21-1 (Ab)
 	  - Code civil - art. 279-1 (V)
 	  - Nouveau code de procédure civile - art. 1084 (M)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
 
 
 ###### Article 280
@@ -12282,34 +12442,39 @@ A la mort de l'époux débiteur, la charge de la pension passe à ses héritiers
 ###### Article 285
 
 Lorsque la consistance des biens de l'époux débiteur s'y prête, la pension alimentaire est remplacée, en tout ou partie, par
-la constitution d'un capital, selon les règles des articles 274 à 275-1 et 280.
+la constitution d'un capital, selon les règles des articles 274 à 275-1, 277 et 280.
 
 Si ce capital devient insuffisant pour couvrir les besoins du conjoint créancier, celui-ci peut demander un complément sous
 forme de pension alimentaire.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
-
 	**Liens**:
 
 	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
 	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
 
+	**Modifié par**:
+
+	  - Loi n°2000-596 du 30 juin 2000 - art. 16 () JORF 1er juillet 2000
+
+	**Abrogé par**:
+
+	  - Loi n°2004-439 du 26 mai 2004 - art. 23 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
+
 	**Cite**:
 
+	  - Code civil - art. 277 (M)
 	  - Code civil - art. 280 (M)
-	  - Code civil 274 à 275-1, 280
+	  - Code civil 274 à 275-1, 277, 280
 
 	**Cité par**:
 
 	  - Code civil - art. 303 (M)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
 
 
 ##### Paragraphe 5 : Du logement.
@@ -12654,37 +12819,46 @@ conjointe, par la convention des époux homologuée par le juge.
 ###### Article 294
 
 Lorsque la consistance des biens du débiteur s'y prête, la pension alimentaire peut être remplacée, en tout ou partie, selon
-les règles des articles 274 à 275-1 et 280, par le versement d'une somme d'argent entre les mains d'un organisme accrédité
-chargé d'accorder en contrepartie à l'enfant une rente indexée, l'abandon de biens en usufruit ou l'affectation de biens
-productifs de revenus.
+les règles des articles 274 à 275-1, 277 et 280, par le versement d'une somme d'argent entre les mains d'un organisme
+accrédité chargé d'accorder en contrepartie à l'enfant une rente indexée, l'abandon de biens en usufruit ou l'affectation de
+biens productifs de revenus.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - CODE GENERAL DES IMPOTS ANNEXE 2, CGIAN2. - art. 91 quinquies (M)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 156 (M)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 757 A (M)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 80 quater (M)
+	  - Loi n°75-1278 du 30 décembre 1975 - art. 61 (V)
+
+	**Cite**:
+
+	  - Code civil - art. 277 (M)
+	  - Code civil - art. 280 (M)
+	  - Code civil 274 à 275-1, 277, 280
 
 	**Codifié par**:
 
 	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
 
 	**Liens**:
 
 	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
 	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
 
-	**Cité par**:
+	**Modifié par**:
 
-	  - Loi n°75-1278 du 30 décembre 1975 - art. 61 (V)
-	  - CODE GENERAL DES IMPOTS ANNEXE 2, CGIAN2. - art. 91 quinquies (M)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 156 (M)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 757 A (M)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 80 quater (M)
+	  - Loi n°2000-596 du 30 juin 2000 - art. 16 () JORF 1er juillet 2000
 
-	**Cite**:
+	**Abrogé par**:
 
-	  - Code civil - art. 280 (M)
-	  - Code civil 274 à 275-1, 280
+	  - Loi n°2002-305 du 4 mars 2002 - art. 1 () JORF 5 mars 2002
 
 
 ###### Article 294-1

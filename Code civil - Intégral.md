@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1999-07-10
+Version Consolidée au 1999-11-16
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -23249,6 +23249,44 @@ La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 	  - Code civil - art. 499 (VD)
 
 
+###### Article 506-1
+
+Les majeurs placés sous tutelle ne peuvent conclure un pacte civil de solidarité. 
+
+Lorsque au cours d'un pacte civil de solidarité l'un des partenaires est placé sous tutelle, le tuteur autorisé par le
+conseil de famille ou, à défaut, le juge des tutelles peut mettre fin au pacte selon les modalités prévues au premier ou au
+deuxième alinéa de l'article 515-7. 
+
+Lorsque l'initiative de rompre le pacte est prise par l'autre partenaire, la signification mentionnée aux deuxième et
+troisième alinéas du même article est adressée au tuteur.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°99-944 du 15 novembre 1999 - art. 2 () JORF 16 novembre 1999
+
+	**Cité par**:
+
+	  - Décret n°2006-1806 du 23 décembre 2006 - art. 1 (V)
+
+	**Abrogé par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+
+	**Cite**:
+
+	  - Code civil - art. 515-7 (VD)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
 ###### Article 507
 
 La tutelle cesse avec les causes qui l'ont déterminée ; néanmoins, la mainlevée n'en sera prononcée qu'en observant les
@@ -23795,6 +23833,355 @@ La présente version de cet article est en vigueur jusqu'au 1er février 2009.
 	**Cité par**:
 
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L322-2 (Ab)
+
+
+## Titre XII : Du pacte civil de solidarité et du concubinage.
+
+### Chapitre Ier : Du pacte civil de solidarité.
+
+###### Article 515-1
+
+Un pacte civil de solidarité est un contrat conclu par deux personnes physiques majeures, de sexe différent ou de même sexe,
+pour organiser leur vie commune.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°89-271 du 12 avril 1989 - art. 5 (V)
+	  - Arrêté du 20 février 1996 - art. 10 (V)
+	  - Décret n°98-844 du 22 septembre 1998 - art. 4 (V)
+	  - Loi n°99-944 du 15 novembre 1999 - art. 14-2 (V)
+	  - Décret n°2006-1806 du 23 décembre 2006 - art. 1 (VD)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 732 ter (V)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 777 bis (Ab)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 779 (M)
+	  - Code de l'action sociale et des familles - art. Annexe 4-1 (V)
+	  - Code de l'éducation - art. D212-4 (V)
+	  - Code de l'éducation - art. R212-17 (V)
+	  - Code de la construction et de l'habitation. - art. L254-7 (V)
+	  - Code de la construction et de l'habitation. - art. L351-2-1 (V)
+	  - Code de la construction et de l'habitation. - art. R*321-12 (V)
+	  - Code de la construction et de l'habitation. - art. R*443-2 (V)
+	  - Code de la santé publique - art. Annexe 41-2 (V)
+	  - Code de la sécurité sociale. - art. L542-2 (V)
+	  - Code de la sécurité sociale. - art. L831-1 (V)
+	  - Code général des impôts, CGI. - art. 163 quatervicies (V)
+	  - Code général des impôts, CGI. - art. 1723 ter-00 B (V)
+	  - Code général des impôts, CGI. - art. 238 quaterdecies (P)
+	  - Code général des impôts, CGI. - art. 239 bis AA (V)
+	  - Code général des impôts, CGI. - art. 44 quindecies (V)
+	  - Code général des impôts, CGI. - art. 6 (V)
+	  - Code général des impôts, CGI. - art. 885 A (V)
+	  - Code général des impôts, CGI. - art. 885 W (V)
+
+	**Créé par**:
+
+	  - Loi n°99-944 du 15 novembre 1999 - art. 1 () JORF 16 novembre 1999
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 515-2
+
+A peine de nullité, il ne peut y avoir de pacte civil de solidarité :
+
+1° Entre ascendant et descendant en ligne directe, entre alliés en ligne directe et entre collatéraux jusqu'au troisième
+degré inclus ;
+
+2° Entre deux personnes dont l'une au moins est engagée dans les liens du mariage ;
+
+3° Entre deux personnes dont l'une au moins est déjà liée par un pacte civil de solidarité.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°99-944 du 15 novembre 1999 - art. 1 () JORF 16 novembre 1999
+
+	**Cité par**:
+
+	  - Décret n°99-1089 du 21 décembre 1999 - art. 1 (V)
+	  - Décret n°2006-1806 du 23 décembre 2006 - art. 1 (VD)
+	  - Code civil - art. 515-3 (M)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 515-3
+
+Deux personnes qui concluent un pacte civil de solidarité en font la déclaration conjointe au greffe du tribunal d'instance
+dans le ressort duquel elles fixent leur résidence commune.
+
+A peine d'irrecevabilité, elles produisent au greffier la convention passée entre elles en double original et joignent les
+pièces d'état civil permettant d'établir la validité de l'acte au regard de l'article 515-2 ainsi qu'un certificat du greffe
+du tribunal d'instance de leur lieu de naissance ou, en cas de naissance à l'étranger, du greffe du tribunal de grande
+instance de Paris, attestant qu'elles ne sont pas déjà liées par un pacte civil de solidarité.
+
+Après production de l'ensemble des pièces, le greffier inscrit cette déclaration sur un registre.
+
+Le greffier vise et date les deux exemplaires originaux de la convention et les restitue à chaque partenaire.
+
+Il fait porter mention de la déclaration sur un registre tenu au greffe du tribunal d'instance du lieu de naissance de chaque
+partenaire ou, en cas de naissance à l'étranger, au greffe du tribunal de grande instance de Paris.
+
+L'inscription sur le registre du lieu de résidence confère date certaine au pacte civil de solidarité et le rend opposable
+aux tiers.
+
+Toute modification du pacte fait l'objet d'une déclaration conjointe inscrite au greffe du tribunal d'instance qui a reçu
+l'acte initial, à laquelle est joint, à peine d'irrecevabilité et en double original, l'acte portant modification de la
+convention. Les formalités prévues au quatrième alinéa sont applicables.
+
+A l'étranger, l'inscription de la déclaration conjointe d'un pacte liant deux partenaires dont l'un au moins est de
+nationalité française et les formalités prévues aux deuxième et quatrième alinéas sont assurées par les agents diplomatiques
+et consulaires français ainsi que celles requises en cas de modification du pacte.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°69-222 du 6 mars 1969 - art. 68 (V)
+	  - Décret n°99-1089 du 21 décembre 1999 - art. 10 (V)
+	  - Décret n°99-1089 du 21 décembre 1999 - art. 2 (V)
+	  - Décret n°99-1089 du 21 décembre 1999 - art. 3 (V)
+	  - Décret n°99-1089 du 21 décembre 1999 - art. 8 (V)
+	  - Décret n°99-1090 du 21 décembre 1999 - art. 2 (V)
+	  - Décret n°99-1091 du 21 décembre 1999 - art. 1 (V)
+	  - Loi n°2006-728 du 23 juin 2006 - art. 47 (V)
+	  - Décret n°2006-1806 du 23 décembre 2006 - art. 10 (V)
+	  - Décret n°2006-1807 du 23 décembre 2006 - art. 1 (VD)
+	  - Décret n°2012-966 du 20 août 2012 - art. 9 (V)
+	  - Code civil - art. 2293 (T)
+	  - Code civil - art. 2499 (VT)
+	  - Code civil - art. 461 (VD)
+	  - Code civil - art. 462 (VD)
+	  - Code civil - art. 515-5 (V)
+	  - Code civil - art. 515-7 (M)
+
+	**Créé par**:
+
+	  - Loi n°99-944 du 15 novembre 1999 - art. 1 () JORF 16 novembre 1999
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Cite**:
+
+	  - Code civil - art. 515-2 (AbD)
+
+
+###### Article 515-4
+
+Les partenaires liés par un pacte civil de solidarité s'apportent une aide mutuelle et matérielle. Les modalités de cette
+aide sont fixées par le pacte.
+
+Les partenaires sont tenus solidairement à l'égard des tiers des dettes contractées par l'un d'eux pour les besoins de la vie
+courante et pour les dépenses relatives au logement commun.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°89-462 du 6 juillet 1989 - art. 9-1 (V)
+	  - Code civil - art. 515-11 (V)
+	  - Code civil - art. 515-5 (V)
+
+	**Créé par**:
+
+	  - Loi n°99-944 du 15 novembre 1999 - art. 1 () JORF 16 novembre 1999
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 515-5
+
+Les partenaires d'un pacte civil de solidarité indiquent, dans la convention visée au deuxième alinéa de l'article 515-3,
+s'ils entendent soumettre au régime de l'indivision les meubles meublants dont ils feraient l'acquisition à titre onéreux
+postérieurement à la conclusion du pacte. A défaut, ces meubles sont présumés indivis par moitié. Il en est de même lorsque
+la date d'acquisition de ces biens ne peut être établie.
+
+Les autres biens dont les partenaires deviennent propriétaires à titre onéreux postérieurement à la conclusion du pacte sont
+présumés indivis par moitié si l'acte d'acquisition ou de souscription n'en dispose autrement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°99-944 du 15 novembre 1999 - art. 1 () JORF 16 novembre 1999
+
+	**Cite**:
+
+	  - Code civil - art. 515-3 (M)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 515-6
+
+Les dispositions de l'article 832 sont applicables entre partenaires d'un pacte civil de solidarité en cas de dissolution de
+celui-ci, à l'exception de celles relatives à tout ou partie d'une exploitation agricole, ainsi qu'à une quote-part indivise
+ou aux parts sociales de cette exploitation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°99-944 du 15 novembre 1999 - art. 1 () JORF 16 novembre 1999
+
+	**Cité par**:
+
+	  - Loi n°2006-728 du 23 juin 2006 - art. 47 (V)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 789 bis (Ab)
+	  - Code de la construction et de l'habitation. - art. L254-7 (V)
+	  - Code général des impôts, CGI. - art. 775 quater (V)
+
+	**Cite**:
+
+	  - Code civil - art. 832 (M)
+
+
+###### Article 515-7
+
+Lorsque les partenaires décident d'un commun accord de mettre fin au pacte civil de solidarité, ils remettent une déclaration
+conjointe écrite au greffe du tribunal d'instance dans le ressort duquel l'un d'entre eux au moins a sa résidence. Le
+greffier inscrit cette déclaration sur un registre et en assure la conservation.
+
+Lorsque l'un des partenaires décide de mettre fin au pacte civil de solidarité, il signifie à l'autre sa décision et adresse
+copie de cette signification au greffe du tribunal d'instance qui a reçu l'acte initial.
+
+Lorsque l'un des partenaires met fin au pacte civil de solidarité en se mariant, il en informe l'autre par voie de
+signification et adresse copies de celle-ci et de son acte de naissance, sur lequel est portée mention du mariage, au greffe
+du tribunal d'instance qui a reçu l'acte initial.
+
+Lorsque le pacte civil de solidarité prend fin par le décès de l'un au moins des partenaires, le survivant ou tout intéressé
+adresse copie de l'acte de décès au greffe du tribunal d'instance qui a reçu l'acte initial.
+
+Le greffier, qui reçoit la déclaration ou les actes prévus aux alinéas précédents, porte ou fait porter mention de la fin du
+pacte en marge de l'acte initial. Il fait également procéder à l'inscription de cette mention en marge du registre prévu au
+cinquième alinéa de l'article 515-3.
+
+A l'étranger, la réception, l'inscription et la conservation de la déclaration ou des actes prévus aux quatre premiers
+alinéas sont assurées par les agents diplomatiques et consulaires français, qui procèdent ou font procéder également aux
+mentions prévues à l'alinéa précédent.
+
+Le pacte civil de solidarité prend fin, selon le cas :
+
+1° Dès la mention en marge de l'acte initial de la déclaration conjointe prévue au premier alinéa ;
+
+2° Trois mois après la signification délivrée en application du deuxième alinéa, sous réserve qu'une copie en ait été portée
+à la connaissance du greffier du tribunal désigné à cet alinéa ;
+
+3° A la date du mariage ou du décès de l'un des partenaires.
+
+Les partenaires procèdent eux-mêmes à la liquidation des droits et obligations résultant pour eux du pacte civil de
+solidarité. A défaut d'accord, le juge statue sur les conséquences patrimoniales de la rupture, sans préjudice de la
+réparation du dommage éventuellement subi.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°99-944 du 15 novembre 1999 - art. 1 () JORF 16 novembre 1999
+
+	**Cité par**:
+
+	  - Loi n°99-944 du 15 novembre 1999 - art. 14-1 (V)
+	  - Décret n°99-1089 du 21 décembre 1999 - art. 10 (V)
+	  - Décret n°99-1089 du 21 décembre 1999 - art. 11 (V)
+	  - Décret n°99-1089 du 21 décembre 1999 - art. 5 (V)
+	  - Décret n°99-1089 du 21 décembre 1999 - art. 6 (V)
+	  - Décret n°99-1089 du 21 décembre 1999 - art. 7 (V)
+	  - Décret n°99-1089 du 21 décembre 1999 - art. 8 (V)
+	  - Décret n°99-1090 du 21 décembre 1999 - art. 2 (V)
+	  - Décret n°99-1090 du 21 décembre 1999 - art. 9 (V)
+	  - Décret n°99-1091 du 21 décembre 1999 - art. 1 (V)
+	  - Décret n°2006-1806 du 23 décembre 2006 - art. 10 (V)
+	  - Décret n°2006-1806 du 23 décembre 2006 - art. 3 (VD)
+	  - Décret n°2006-1806 du 23 décembre 2006 - art. 4 (VD)
+	  - Décret n°2006-1806 du 23 décembre 2006 - art. 5 (VD)
+	  - Décret n°2006-1806 du 23 décembre 2006 - art. 7 (VD)
+	  - Décret n°2006-1807 du 23 décembre 2006 - art. 1 (VD)
+	  - Décret n°2006-1807 du 23 décembre 2006 - art. 3 (V)
+	  - Décret n°2012-966 du 20 août 2012 - art. 11 (VD)
+	  - Décret n°2012-966 du 20 août 2012 - art. 3 (V)
+	  - Décret n°2012-966 du 20 août 2012 - art. 4 (VD)
+	  - Décret n°2012-966 du 20 août 2012 - art. 5 (V)
+	  - Décret n°2012-966 du 20 août 2012 - art. 7 (V)
+	  - Décret n°2014-945 du 21 août 2014 - art. 1 (VT)
+	  - Code civil - art. 2293 (T)
+	  - Code civil - art. 2499 (VT)
+	  - Code civil - art. 461 (VD)
+	  - Code civil - art. 462 (VD)
+	  - Code civil - art. 506-1 (VT)
+	  - Code général des impôts, CGI. - art. 6 (V)
+
+	**Cite**:
+
+	  - Code civil - art. 515-3 (M)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+### Chapitre II : Du concubinage.
+
+###### Article 515-8
+
+Le concubinage est une union de fait, caractérisée par une vie commune présentant un caractère de stabilité et de continuité,
+entre deux personnes, de sexe différent ou de même sexe, qui vivent en couple.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°67-290 du 28 mars 1967 - art. 15 bis (V)
+	  - Décret n°83-367 du 2 mai 1983 - art. 7 (Ab)
+	  - Décret n°89-271 du 12 avril 1989 - art. 5 (V)
+	  - Arrêté du 20 février 1996 - art. 10 (V)
+	  - Décret n°98-844 du 22 septembre 1998 - art. 4 (V)
+	  - Loi n°99-944 du 15 novembre 1999 - art. 14-3 (V)
+	  - Décret n°2002-22 du 4 janvier 2002 - art. 4 bis (V)
+	  - Décret n°2014-945 du 21 août 2014 - art. 1 (VT)
+	  - Loi n°2015-177 du 16 février 2015 - art. 1 (V)
+	  - Décret n°2017-540 du 12 avril 2017 - art. 20
+	  - Code de commerce - art. Annexe 8-1 (VD)
+	  - Code de l'éducation - art. D212-4 (V)
+	  - Code de l'éducation - art. R212-17 (V)
+	  - Code de la construction et de l'habitation. - art. R*321-12 (V)
+
+	**Créé par**:
+
+	  - Loi n°99-944 du 15 novembre 1999 - art. 3 () JORF 16 novembre 1999
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
 
 
 # Livre II : Des biens et des différentes modifications de la propriété

@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 2002-03-05
+Version Consolidée au 2002-07-01
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -6483,33 +6483,6 @@ chez laquelle ils travaillent, lorsqu'ils demeureront avec elle dans la même ma
 	  - Loi n°1803-03-14 promulguée le 24 mars 1803
 
 
-###### Article 110
-
-Le lieu où la succession s'ouvrira sera déterminé par le domicile.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Code de la famille et de l'aide sociale. - art. 193 (M)
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°1803-03-14 promulguée le 24 mars 1803
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°2001-1135 2001-12-03 art. 25 (dérogations à l'entrée en vigueur), II (ouverture des successions)
-
-	**Abrogé par**:
-
-	  - Loi n°2001-1135 du 3 décembre 2001 - art. 21 () JORF 4 décembre 2001 en vigueur le 1er juillet 2002
-
-
 ###### Article 111
 
 Lorsqu'un acte contiendra, de la part des parties ou de l'une d'elles, élection de domicile pour l'exécution de ce même acte
@@ -8977,45 +8950,6 @@ celui-ci de tout ou partie de la dette alimentaire.
 	**Créé par**:
 
 	  - Loi n°1803-03-17 promulguée le 27 mars 1803
-
-
-###### Article 207-1
-
-La succession de l'époux prédécédé doit les aliments à l'époux survivant qui est dans le besoin. Le délai pour les réclamer
-est d'un an à partir du décès et se prolonge, en cas de partage, jusqu'à son achèvement.
-
-La pension alimentaire est prélevée sur l'hérédité. Elle est supportée par tous les héritiers, et en cas d'insuffisance, par
-tous les légataires particuliers, proportionnellement à leur émolument.
-
-Toutefois, si le défunt a expressément déclaré que tel legs sera acquitté de préférence aux autres, il sera fait application
-de l'article 927.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°72-3 du 3 janvier 1972 - art. 3 () JORF 5 janvier 1972 en vigueur le 1er août 1972
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°2001-1135 2001-12-03 art. 25 (dérogations à l'entrée en vigueur), II (ouverture des successions)
-
-	**Abrogé par**:
-
-	  - Loi n°2001-1135 du 3 décembre 2001 - art. 9 () JORF 4 décembre 2001 en vigueur le 1er juillet 2002
-
-	**Cité par**:
-
-	  - Code civil - art. 342-5 (M)
-	  - Code civil - art. 915-2 (Ab)
-
-	**Cite**:
-
-	  - Code civil - art. 927 (M)
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
 
 
 ###### Article 208
@@ -15579,28 +15513,25 @@ Le défendeur peut écarter la demande en faisant la preuve par tous moyens qu'i
 
 ###### Article 342-5
 
-La charge des subsides se transmet à la succession du débiteur suivant les règles de l'article 207-1 ci-dessus.
+La charge des subsides se transmet à la succession du débiteur suivant les règles de l'article 767.
 
 **Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2001-1135 2001-12-03 art. 25 II (ouverture des successions)
+
+	**Modifié par**:
+
+	  - Loi n°2001-1135 du 3 décembre 2001 - art. 9 () JORF 4 décembre 2001 en vigueur le 1er juillet 2002
+
+	**Cite**:
+
+	  - Code civil - art. 767 (M)
 
 	**Codifié par**:
 
 	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°72-3 du 3 janvier 1972 - art. 1 () JORF 5 janvier 1972 en vigueur le 1er août 1972
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 11 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 12 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 13 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 14 (V)
-
-	**Cite**:
-
-	  - Code civil - art. 207-1 (Ab)
 
 
 ###### Article 342-6
@@ -28603,11 +28534,11 @@ Il en est de même des choses perdues dont le maître ne se représente pas.
 
 ## Titre Ier : Des successions
 
-### Chapitre Ier : De l'ouverture des successions et de la saisine des héritiers.
+### Chapitre Ier : De l'ouverture des successions, du titre universel et de la saisine
 
-###### Article 718
+###### Article 720
 
-Les successions s'ouvrent par la mort naturelle et par la mort civile.
+Les successions s'ouvrent par la mort, au dernier domicile du défunt.
 
 **Liens relatifs à cet article**
 
@@ -28615,39 +28546,16 @@ Les successions s'ouvrent par la mort naturelle et par la mort civile.
 
 	  - Loi n°1803-04-19
 
-	**Créé par**:
-
-	  - Loi n°1803-04-19 promulguée le 29 avril 1803
-
-	**Abrogé par**:
+	**Modifié par**:
 
 	  - Loi n°2001-1135 du 3 décembre 2001 - art. 18 () JORF 4 décembre 2001 en vigueur le 1er juillet 2002
 
 
-###### Article 720
-
-Si plusieurs personnes respectivement appelées à la succession l'une de l'autre, périssent dans un même événement, sans qu'on
-puisse reconnaître laquelle est décédée la première, la présomption de survie est déterminée par les circonstances du fait,
-et, à leur défaut, par la force de l'âge ou du sexe.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-04-19
-
-	**Créé par**:
-
-	  - Loi n°1803-04-19 promulguée le 29 avril 1803
-
-
 ###### Article 721
 
-Si ceux qui ont péri ensemble avaient moins de quinze ans, le plus âgé sera présumé avoir survécu.
+Les successions sont dévolues selon la loi lorsque le défunt n'a pas disposé de ses biens par des libéralités.
 
-S'ils étaient tous au-dessus de soixante ans, le moins âgé sera présumé avoir survécu.
-
-Si les uns avaient moins de quinze ans, et les autres plus de soixante, les premiers seront présumés avoir survécu.
+Elles peuvent être dévolues par les libéralités du défunt dans la mesure compatible avec la réserve héréditaire.
 
 **Liens relatifs à cet article**
 
@@ -28655,18 +28563,15 @@ Si les uns avaient moins de quinze ans, et les autres plus de soixante, les prem
 
 	  - Loi n°1803-04-19
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°1803-04-19 promulguée le 29 avril 1803
+	  - Loi n°2001-1135 du 3 décembre 2001 - art. 18 () JORF 4 décembre 2001 en vigueur le 1er juillet 2002
 
 
 ###### Article 722
 
-Si ceux qui ont péri ensemble avaient quinze ans accomplis et moins de soixante, le mâle est toujours présumé avoir survécu,
-lorsqu'il y a égalité d'âge, ou si la différence qui existe n'excède pas une année.
-
-S'ils étaient du même sexe, la présomption de survie, qui donne ouverture à la succession dans l'ordre de la nature doit être
-admise : ainsi le plus jeune est présumé avoir survécu au plus âgé.
+Les conventions qui ont pour objet de créer des droits ou de renoncer à des droits sur tout ou partie d'une succession non
+encore ouverte ou d'un bien en dépendant ne produisent effet que dans les cas où elles sont autorisées par la loi.
 
 **Liens relatifs à cet article**
 
@@ -28674,43 +28579,47 @@ admise : ainsi le plus jeune est présumé avoir survécu au plus âgé.
 
 	  - Loi n°1803-04-19
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°1803-04-19 promulguée le 29 avril 1803
+	  - Loi n°2001-1135 du 3 décembre 2001 - art. 18 () JORF 4 décembre 2001 en vigueur le 1er juillet 2002
 
 
 ###### Article 723
 
-La loi règle l'ordre de succéder entre les héritiers légitimes, les héritiers naturels et le conjoint survivant. A leur
-défaut, les biens passent à l'Etat.
+Les successeurs universels ou à titre universel sont tenus d'une obligation indéfinie aux dettes de la succession.
 
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-04-19
+
+	**Modifié par**:
+
+	  - Loi n°2001-1135 du 3 décembre 2001 - art. 18 () JORF 4 décembre 2001 en vigueur le 1er juillet 2002
+
+	**Abrogé par**:
+
+	  - Loi n°2006-728 du 23 juin 2006 - art. 29 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 	**Cité par**:
 
 	  - Code du domaine de l'Etat - art. L23 (M)
 
-	**Codifié par**:
-
-	  - Loi n°1803-04-19
-
-	**Créé par**:
-
-	  - Loi n°1803-04-19 promulguée le 29 avril 1803
-
-	**Modifié par**:
-
-	  - Ordonnance 58-1307 1958-12-23 art. 1 JORF 25 décembre 1958
-
 
 ###### Article 724
 
-Les héritiers légitimes, les héritiers naturels et le conjoint survivant sont saisis de plein droit des biens, droits et
-actions du défunt, sous l'obligation d'acquitter toutes les charges de la succession.
+Les héritiers désignés par la loi sont saisis de plein droit des biens, droits et actions du défunt.
 
-L'Etat doit se faire envoyer en possession.
+Les légataires et donataires universels sont saisis dans les conditions prévues au titre II du présent livre.
+
+A leur défaut, la succession est acquise à l'Etat, qui doit se faire envoyer en possession.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2001-1135 du 3 décembre 2001 - art. 18 () JORF 4 décembre 2001 en vigueur le 1er juillet 2002
 
 	**Cité par**:
 
@@ -28718,32 +28627,39 @@ L'Etat doit se faire envoyer en possession.
 	  - Code du domaine de l'Etat - art. L23 (Ab)
 	  - Code général de la propriété des personnes publ... - art. L1122-1 (V)
 
-	**Modifié par**:
+	**Codifié par**:
 
-	  - Ordonnance 58-1307 1958-12-23 art. 1 JORF 25 décembre 1958
+	  - Loi n°1803-04-19
+
+
+###### Article 724-1
+
+Les dispositions du présent titre, notamment celles qui concernent l'option, l'indivision et le partage, s'appliquent en tant
+que de raison aux légataires et donataires universels ou à titre universel, quand il n'y est pas dérogé par une règle
+particulière.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2001-1135 du 3 décembre 2001 - art. 18 () JORF 4 décembre 2001 en vigueur le 1er juillet 2002
+
+	**Cité par**:
+
+	  - Décret n°2008-1484 du 22 décembre 2008 - art. Annexe 1 (V)
 
 	**Codifié par**:
 
 	  - Loi n°1803-04-19
 
-	**Créé par**:
-
-	  - Loi n°1803-04-19 promulguée le 29 avril 1803
-
 
 ### Chapitre II : Des qualités requises pour succéder - De la preuve de la qualité d'héritier.
 
+#### Section 1 : Des qualités requises pour succéder.
+
 ###### Article 725
 
-Pour succéder, il faut nécessairement exister à l'instant de l'ouverture de la succession.
-
-Ainsi, sont incapables de succéder :
-
-1° Celui qui n'est pas encore conçu ;
-
-2° L'enfant qui n'est pas né viable ;
-
-3° Celui qui est mort civilement.
+Pour succéder, il faut exister à l'instant de l'ouverture de la succession ou, ayant déjà été conçu, naître viable. 
 
 Peut succéder celui dont l'absence est présumée selon l'article 112.
 
@@ -28757,27 +28673,92 @@ Peut succéder celui dont l'absence est présumée selon l'article 112.
 
 	  - Loi n°1803-04-19
 
-	**Créé par**:
-
-	  - Loi n°1803-04-19 promulguée le 29 avril 1803
-
 	**Modifié par**:
 
-	  - Loi n°77-1447 du 28 décembre 1977 - art. 3 () JORF 29 décembre 1977
-	  - Loi n°77-1447 du 28 décembre 1977 - art. 6 (V) JORF 29 décembre 1977
+	  - Loi n°2001-1135 du 3 décembre 2001 - art. 19 () JORF 4 décembre 2001 en vigueur le 1er juillet 2002
+
+
+###### Article 725-1
+
+Lorsque deux personnes, dont l'une avait vocation à succéder à l'autre, périssent dans un même événement, l'ordre des décès
+est établi par tous moyens.
+
+Si cet ordre ne peut être déterminé, la succession de chacune d'elles est dévolue sans que l'autre y soit appelée.
+
+Toutefois, si l'un des codécédés laisse des descendants, ceux-ci peuvent représenter leur auteur dans la succession de
+l'autre lorsque la représentation est admise.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-04-19
+
+	**Créé par**:
+
+	  - Loi n°2001-1135 du 3 décembre 2001 - art. 19 () JORF 4 décembre 2001 en vigueur le 1er juillet 2002
+
+
+###### Article 726
+
+Sont indignes de succéder et, comme tels, exclus de la succession :
+
+1° Celui qui est condamné, comme auteur ou complice, à une peine criminelle pour avoir volontairement donné ou tenté de
+donner la mort au défunt ;
+
+2° Celui qui est condamné, comme auteur ou complice, à une peine criminelle pour avoir volontairement porté des coups ou
+commis des violences ou voies de fait ayant entraîné la mort du défunt sans intention de la donner.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-04-19
+
+	**Créé par**:
+
+	  - Loi n°2001-1135 du 3 décembre 2001 - art. 19 () JORF 4 décembre 2001 en vigueur le 1er juillet 2002
+
+	**Cité par**:
+
+	  - Décret n°2007-262 du 27 février 2007 - art. ANNEXE (V)
+	  - Code civil - art. 728 (V)
 
 
 ###### Article 727
 
-Sont indignes de succéder, et, comme tels, exclus des successions :
+Peuvent être déclarés indignes de succéder :
 
-1° Celui qui sera condamné pour avoir donné ou tenté de donner la mort au défunt ;
+1° Celui qui est condamné, comme auteur ou complice, à une peine correctionnelle pour avoir volontairement donné ou tenté de
+donner la mort au défunt ;
 
-2° Celui qui a porté contre le défunt une accusation capitale jugée calomnieuse ;
+2° Celui qui est condamné, comme auteur ou complice, à une peine correctionnelle pour avoir volontairement commis des
+violences ayant entraîné la mort du défunt sans intention de la donner ;
 
-3° L'héritier majeur qui, instruit du meurtre du défunt, ne l'aura pas dénoncé à la justice.
+3° Celui qui est condamné pour témoignage mensonger porté contre le défunt dans une procédure criminelle ;
+
+4° Celui qui est condamné pour s'être volontairement abstenu d'empêcher soit un crime soit un délit contre l'intégrité
+corporelle du défunt d'où il est résulté la mort, alors qu'il pouvait le faire sans risque pour lui ou pour les tiers ;
+
+5° Celui qui est condamné pour dénonciation calomnieuse contre le défunt lorsque, pour les faits dénoncés, une peine
+criminelle était encourue.
+
+Peuvent également être déclarés indignes de succéder ceux qui ont commis les actes mentionnés aux 1° et 2° et à l'égard
+desquels, en raison de leur décès, l'action publique n'a pas pu être exercée ou s'est éteinte.
 
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-04-19
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2001-1135 2001-12-03 art. 25 II 3° (déclaration d'indignité facultative - application aux faits commis antérieurement à l'entrée en vigueur de ladite loi)
+
+	**Modifié par**:
+
+	  - Loi n°2001-1135 du 3 décembre 2001 - art. 19 () JORF 4 décembre 2001 en vigueur le 1er juillet 2002
 
 	**Cité par**:
 
@@ -28785,35 +28766,75 @@ Sont indignes de succéder, et, comme tels, exclus des successions :
 	  - Code civil - art. 727-1 (V)
 	  - Code civil - art. 728 (V)
 
-	**Codifié par**:
 
-	  - Loi n°1803-04-19
+###### Article 727-1
+
+La déclaration d'indignité prévue à l'article 727 est prononcée après l'ouverture de la succession par le tribunal de grande
+instance à la demande d'un autre héritier. La demande doit être formée dans les six mois du décès si la décision de
+condamnation ou de déclaration de culpabilité est antérieure au décès, ou dans les six mois de cette décision si elle est
+postérieure au décès. 
+
+En l'absence d'héritier, la demande peut être formée par le ministère public.
+
+**Liens relatifs à cet article**
 
 	**Créé par**:
 
-	  - Loi n°1803-04-19 promulguée le 29 avril 1803
+	  - Loi n°2001-1135 du 3 décembre 2001 - art. 19 () JORF 4 décembre 2001 en vigueur le 1er juillet 2002
+
+	**Cite**:
+
+	  - Code civil - art. 727 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-04-19
 
 
 ###### Article 728
 
-Le défaut de dénonciation ne peut être opposé aux ascendants et descendants du meurtrier, ni à ses alliés au même degré, ni à
-son époux ou à son épouse, ni à ses frères ou soeurs, ni à ses oncles et tantes, ni à des neveux et nièces.
+N'est pas exclu de la succession le successible frappé d'une cause d'indignité prévue aux articles 726 et 727, lorsque le
+défunt, postérieurement aux faits et à la connaissance qu'il en a eue, a précisé, par une déclaration expresse de volonté en
+la forme testamentaire, qu'il entend le maintenir dans ses droits héréditaires ou lui a fait une libéralité universelle ou à
+titre universel.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2001-1135 du 3 décembre 2001 - art. 19 () JORF 4 décembre 2001 en vigueur le 1er juillet 2002
+
+	**Cite**:
+
+	  - Code civil - art. 726 (V)
+	  - Code civil - art. 727 (V)
 
 	**Codifié par**:
 
 	  - Loi n°1803-04-19
-
-	**Créé par**:
-
-	  - Loi n°1803-04-19 promulguée le 29 avril 1803
 
 
 ###### Article 729
 
-L'héritier exclu de la succession pour cause d'indignité est tenu de rendre tous les fruits et les revenus dont il a eu la
-jouissance depuis l'ouverture de la succession.
+L'héritier exclu de la succession pour cause d'indignité est tenu de rendre tous les fruits et tous les revenus dont il a eu
+la jouissance depuis l'ouverture de la succession.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-04-19
+
+	**Modifié par**:
+
+	  - Loi n°2001-1135 du 3 décembre 2001 - art. 19 () JORF 4 décembre 2001 en vigueur le 1er juillet 2002
+
+
+###### Article 729-1
+
+Les enfants de l'indigne ne sont pas exclus par la faute de leur auteur, soit qu'ils viennent à la succession de leur chef,
+soit qu'ils y viennent par l'effet de la représentation ; mais l'indigne ne peut, en aucun cas, réclamer, sur les biens de
+cette succession, la jouissance que la loi accorde aux père et mère sur les biens de leurs enfants.
 
 **Liens relatifs à cet article**
 
@@ -28823,14 +28844,17 @@ jouissance depuis l'ouverture de la succession.
 
 	**Créé par**:
 
-	  - Loi n°1803-04-19 promulguée le 29 avril 1803
+	  - Loi n°2001-1135 du 3 décembre 2001 - art. 19 () JORF 4 décembre 2001 en vigueur le 1er juillet 2002
 
+
+#### Section 2 : De la preuve de la qualité d'héritier.
 
 ###### Article 730
 
-Les enfants de l'indigne, venant à la succession de leur chef, et sans le secours de la représentation, ne sont pas exclus
-pour la faute de leur père ; mais celui-ci ne peut, en aucun cas, réclamer, sur les biens de cette succession, l'usufruit que
-la loi accorde aux pères et mères sur les biens de leurs enfants.
+La preuve de la qualité d'héritier s'établit par tous moyens.
+
+Il n'est pas dérogé aux dispositions ni aux usages concernant la délivrance de certificats de propriété ou d'hérédité par des
+autorités judiciaires ou administratives.
 
 **Liens relatifs à cet article**
 
@@ -28838,18 +28862,989 @@ la loi accorde aux pères et mères sur les biens de leurs enfants.
 
 	  - Décret du 18 novembre 1924 - art. 42 (Ab)
 
+	**Modifié par**:
+
+	  - Loi n°2001-1135 du 3 décembre 2001 - art. 20 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-04-19
+
+
+###### Article 730-1
+
+La preuve de la qualité d'héritier peut résulter d'un acte de notoriété dressé par un notaire, à la demande d'un ou plusieurs
+ayants droit.
+
+A défaut de contrat de mariage ou de disposition de dernière volonté de l'auteur de celui qui requiert l'acte, l'acte de
+notoriété peut également être dressé par le greffier en chef du tribunal d'instance du lieu d'ouverture de la succession.
+
+L'acte de notoriété doit viser l'acte de décès de la personne dont la succession est ouverte et faire mention des pièces
+justificatives qui ont pu être produites, tels les actes de l'état civil et, éventuellement, les documents qui concernent
+l'existence de libéralités à cause de mort pouvant avoir une incidence sur la dévolution successorale.
+
+Il contient l'affirmation, signée du ou des ayants droit auteurs de la demande, qu'ils ont vocation, seuls ou avec d'autres
+qu'ils désignent, à recueillir tout ou partie de la succession du défunt.
+
+Toute personne dont les dires paraîtraient utiles peut être appelée à l'acte.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°2008-1484 du 22 décembre 2008 - art. Annexe 1 (V)
+
 	**Codifié par**:
 
 	  - Loi n°1803-04-19
 
 	**Créé par**:
 
-	  - Loi n°1803-04-19 promulguée le 29 avril 1803
+	  - Loi n°2001-1135 du 3 décembre 2001 - art. 19 () JORF 4 décembre 2001 en vigueur le 1er juillet 2002
+
+
+###### Article 730-2
+
+L'affirmation contenue dans l'acte de notoriété n'emporte pas, par elle-même, acceptation de la succession.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-04-19
+
+	**Créé par**:
+
+	  - Loi n°2001-1135 du 3 décembre 2001 - art. 19 () JORF 4 décembre 2001 en vigueur le 1er juillet 2002
+
+
+###### Article 730-3
+
+L'acte de notoriété ainsi établi fait foi jusqu'à preuve contraire.
+
+Celui qui s'en prévaut est présumé avoir des droits héréditaires dans la proportion qui s'y trouve indiquée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-04-19
+
+	**Créé par**:
+
+	  - Loi n°2001-1135 du 3 décembre 2001 - art. 19 () JORF 4 décembre 2001 en vigueur le 1er juillet 2002
+
+
+###### Article 730-4
+
+Les héritiers désignés dans l'acte de notoriété ou leur mandataire commun sont réputés, à l'égard des tiers détenteurs de
+biens de la succession, avoir la libre disposition de ces biens et, s'il s'agit de fonds, la libre disposition de ceux-ci
+dans la proportion indiquée à l'acte.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-04-19
+
+	**Créé par**:
+
+	  - Loi n°2001-1135 du 3 décembre 2001 - art. 19 () JORF 4 décembre 2001 en vigueur le 1er juillet 2002
+
+
+###### Article 730-5
+
+Celui qui, sciemment et de mauvaise foi, se prévaut d'un acte de notoriété inexact, encourt les pénalités de recel prévues à
+l'article 792, sans préjudice de dommages-intérêts.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-04-19
+
+	**Créé par**:
+
+	  - Loi n°2001-1135 du 3 décembre 2001 - art. 19 () JORF 4 décembre 2001 en vigueur le 1er juillet 2002
+
+	**Cite**:
+
+	  - Code civil - art. 792 (M)
 
 
 ### Chapitre III : Des héritiers.
 
+###### Article 731
+
+La succession est dévolue par la loi aux parents et au conjoint successibles du défunt dans les conditions définies ci-après.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2001-1135 du 3 décembre 2001 - art. 1 () JORF 4 décembre 2001 en vigueur le 1er juillet 2002
+
+	**Codifié par**:
+
+	  - Loi n°1803-04-19
+
+
+###### Article 732
+
+Est conjoint successible le conjoint survivant non divorcé, contre lequel n'existe pas de jugement de séparation de corps
+ayant force de chose jugée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-04-19
+
+	**Modifié par**:
+
+	  - Loi n°2001-1135 du 3 décembre 2001 - art. 1 () JORF 4 décembre 2001 en vigueur le 1er juillet 2002
+
+
+#### Section 1 : Des droits des parents en l'absence de conjoint successible.
+
+###### Article 733
+
+La loi ne distingue pas entre la filiation légitime et la filiation naturelle pour déterminer les parents appelés à succéder.
+
+Les droits résultant de la filiation adoptive sont réglés au titre de l'adoption.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-04-19
+
+	**Modifié par**:
+
+	  - Loi n°2001-1135 du 3 décembre 2001 - art. 1 () JORF 4 décembre 2001 en vigueur le 1er juillet 2002
+
+
+##### Paragraphe 1 : Des ordres d'héritiers.
+
+###### Article 734
+
+En l'absence de conjoint successible, les parents sont appelés à succéder ainsi qu'il suit :
+
+1° Les enfants et leurs descendants ;
+
+2° Les père et mère ; les frères et soeurs et les descendants de ces derniers ;
+
+3° Les ascendants autres que les père et mère ;
+
+4° Les collatéraux autres que les frères et soeurs et les descendants de ces derniers.
+
+Chacune de ces quatre catégories constitue un ordre d'héritiers qui exclut les suivants.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2001-1135 du 3 décembre 2001 - art. 1 () JORF 4 décembre 2001 en vigueur le 1er juillet 2002
+
+	**Codifié par**:
+
+	  - Loi n°1803-04-19
+
+
+###### Article 735
+
+Les enfants ou leurs descendants succèdent à leurs père et mère ou autres ascendants, sans distinction de sexe, ni de
+primogéniture, même s'ils sont issus d'unions différentes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-04-19
+
+	**Modifié par**:
+
+	  - Loi n°2001-1135 du 3 décembre 2001 - art. 1 () JORF 4 décembre 2001 en vigueur le 1er juillet 2002
+
+
+###### Article 736
+
+Lorsque le défunt ne laisse ni postérité, ni frère, ni soeur, ni descendants de ces derniers, ses père et mère lui succèdent,
+chacun pour moitié.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-04-19
+
+	**Modifié par**:
+
+	  - Loi n°2001-1135 du 3 décembre 2001 - art. 1 () JORF 4 décembre 2001 en vigueur le 1er juillet 2002
+
+
+###### Article 737
+
+Lorsque les père et mère sont décédés avant le défunt et que celui-ci ne laisse pas de postérité, les frères et soeurs du
+défunt ou leurs descendants lui succèdent, à l'exclusion des autres parents, ascendants ou collatéraux.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-04-19
+
+	**Modifié par**:
+
+	  - Loi n°2001-1135 du 3 décembre 2001 - art. 1 () JORF 4 décembre 2001 en vigueur le 1er juillet 2002
+
+
+###### Article 738
+
+Lorsque les père et mère survivent au défunt et que celui-ci n'a pas de postérité, mais des frères et soeurs ou des
+descendants de ces derniers, la succession est dévolue, pour un quart, à chacun des père et mère et, pour la moitié restante,
+aux frères et soeurs ou à leurs descendants.
+
+Lorsqu'un seul des père et mère survit, la succession est dévolue pour un quart à celui-ci et pour trois quarts aux frères et
+soeurs ou à leurs descendants.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code civil - art. 738-2 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-04-19
+
+	**Modifié par**:
+
+	  - Loi n°2001-1135 du 3 décembre 2001 - art. 1 () JORF 4 décembre 2001 en vigueur le 1er juillet 2002
+
+
+###### Article 739
+
+A défaut d'héritier des deux premiers ordres, la succession est dévolue aux ascendants autres que les père et mère.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-04-19
+
+	**Modifié par**:
+
+	  - Loi n°2001-1135 du 3 décembre 2001 - art. 1 () JORF 4 décembre 2001 en vigueur le 1er juillet 2002
+
+
+###### Article 740
+
+A défaut d'héritier des trois premiers ordres, la succession est dévolue aux parents collatéraux du défunt autres que les
+frères et soeurs et les descendants de ces derniers.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-04-19
+
+	**Modifié par**:
+
+	  - Loi n°2001-1135 du 3 décembre 2001 - art. 1 () JORF 4 décembre 2001 en vigueur le 1er juillet 2002
+
+
+##### Paragraphe 2 : Des degrés.
+
+###### Article 741
+
+La proximité de parenté s'établit par le nombre de générations ; chaque génération s'appelle un degré.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-04-19
+
+	**Modifié par**:
+
+	  - Loi n°2001-1135 du 3 décembre 2001 - art. 1 () JORF 4 décembre 2001 en vigueur le 1er juillet 2002
+
+
+###### Article 742
+
+La suite des degrés forme la ligne ; on appelle ligne directe la suite des degrés entre personnes qui descendent l'une de
+l'autre ; ligne collatérale, la suite des degrés entre personnes qui ne descendent pas les unes des autres, mais qui
+descendent d'un auteur commun.
+
+On distingue la ligne directe descendante et la ligne directe ascendante.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-04-19
+
+	**Modifié par**:
+
+	  - Loi n°2001-1135 du 3 décembre 2001 - art. 1 () JORF 4 décembre 2001 en vigueur le 1er juillet 2002
+
+
+###### Article 743
+
+En ligne directe, on compte autant de degrés qu'il y a de générations entre les personnes : ainsi, le fils est, à l'égard du
+père, au premier degré, le petit-fils au second ; et réciproquement du père et de l'a¨ieul à l'égard des fils et petits-fils.
+
+En ligne collatérale, les degrés se comptent par génération, depuis l'un des parents jusques et non compris l'auteur commun,
+et depuis celui-ci jusqu'à l'autre parent.
+
+Ainsi, deux frères sont au deuxième degré ; l'oncle et le neveu sont au troisième degré ; les cousins germains au quatrième ;
+ainsi de suite.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2001-1135 du 3 décembre 2001 - art. 1 () JORF 4 décembre 2001 en vigueur le 1er juillet 2002
+
+	**Cité par**:
+
+	  - Décret n°2016-1791 du 19 décembre 2016 - art. 2
+	  - Décret n°2016-1791 du 19 décembre 2016 - art. 3
+	  - Code des transports - art. D1803-12 (V)
+	  - Code des transports - art. D1803-2 (V)
+	  - Code des transports - art. L1803-4 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-04-19
+
+
+###### Article 744
+
+Dans chaque ordre, l'héritier le plus proche exclut l'héritier plus éloigné en degré.
+
+A égalité de degré, les héritiers succèdent par égale portion et par tête.
+
+Le tout sauf ce qui sera dit ci-après de la division par branches et de la représentation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-04-19
+
+	**Modifié par**:
+
+	  - Loi n°2001-1135 du 3 décembre 2001 - art. 1 () JORF 4 décembre 2001 en vigueur le 1er juillet 2002
+
+
+###### Article 745
+
+Les parents collatéraux ne succèdent pas au-delà du sixième degré.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-04-19
+
+	**Modifié par**:
+
+	  - Loi n°2001-1135 du 3 décembre 2001 - art. 1 () JORF 4 décembre 2001 en vigueur le 1er juillet 2002
+
+
+##### Paragraphe 3 : De la division par branches, paternelle et maternelle.
+
+###### Article 746
+
+La parenté se divise en deux branches, selon qu'elle procède du père ou de la mère.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-04-19
+
+	**Modifié par**:
+
+	  - Loi n°2001-1135 du 3 décembre 2001 - art. 1 () JORF 4 décembre 2001 en vigueur le 1er juillet 2002
+
+
+###### Article 747
+
+Lorsque la succession est dévolue à des ascendants, elle se divise par moitié entre ceux de la branche paternelle et ceux de
+la branche maternelle.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-04-19
+
+	**Cité par**:
+
+	  - Loi n°72-3 du 3 janvier 1972 - art. 14 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2001-1135 du 3 décembre 2001 - art. 1 () JORF 4 décembre 2001 en vigueur le 1er juillet 2002
+
+
+###### Article 748
+
+Dans chaque branche succède, à l'exclusion de tout autre, l'ascendant qui se trouve au degré le plus proche.
+
+Les ascendants au même degré succèdent par tête.
+
+A défaut d'ascendant dans une branche, les ascendants de l'autre branche recueillent toute la succession.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-04-19
+
+	**Modifié par**:
+
+	  - Loi n°2001-1135 du 3 décembre 2001 - art. 1 () JORF 4 décembre 2001 en vigueur le 1er juillet 2002
+
+
+###### Article 749
+
+Lorsque la succession est dévolue à des collatéraux autres que les frères et soeurs ou leurs descendants, elle se divise par
+moitié entre ceux de la branche paternelle et ceux de la branche maternelle.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-04-19
+
+	**Modifié par**:
+
+	  - Loi n°2001-1135 du 3 décembre 2001 - art. 1 () JORF 4 décembre 2001 en vigueur le 1er juillet 2002
+
+
+###### Article 750
+
+Dans chaque branche succède, à l'exclusion de tout autre, le collatéral qui se trouve au degré le plus proche.
+
+Les collatéraux au même degré succèdent par tête.
+
+A défaut de collatéral dans une branche, les collatéraux de l'autre branche recueillent toute la succession.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-04-19
+
+	**Modifié par**:
+
+	  - Loi n°2001-1135 du 3 décembre 2001 - art. 1 () JORF 4 décembre 2001 en vigueur le 1er juillet 2002
+
+
+##### Paragraphe 4 : De la représentation.
+
+###### Article 751
+
+La représentation est une fiction de la loi, dont l'effet est de faire entrer les représentants dans les droits du
+représenté.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-04-19
+
+	**Modifié par**:
+
+	  - Loi n°2001-1135 du 3 décembre 2001 - art. 1 () JORF 4 décembre 2001 en vigueur le 1er juillet 2002
+
+	**Cité par**:
+
+	  - Code civil - art. 752 (V)
+
+
+###### Article 752
+
+La représentation a lieu à l'infini dans la ligne directe descendante.
+
+Elle est admise dans tous les cas, soit que les enfants du défunt concourent avec les descendants d'un enfant prédécédé, soit
+que tous les enfants du défunt étant morts avant lui, les descendants desdits enfants se trouvent entre eux en degrés égaux
+ou inégaux.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code civil - art. 733 (M)
+
+	**Cite**:
+
+	  - Code civil - art. 751 (M)
+
+	**Codifié par**:
+
+	  - Loi n°1803-04-19
+
+	**Modifié par**:
+
+	  - Loi n°2001-1135 du 3 décembre 2001 - art. 1 () JORF 4 décembre 2001 en vigueur le 1er juillet 2002
+
+
+###### Article 752-1
+
+La représentation n'a pas lieu en faveur des ascendants ; le plus proche, dans chacune des deux lignes, exclut toujours le
+plus éloigné.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-04-19
+
+	**Créé par**:
+
+	  - Loi n°2001-1135 du 3 décembre 2001 - art. 1 () JORF 4 décembre 2001 en vigueur le 1er juillet 2002
+
+
+###### Article 752-2
+
+En ligne collatérale, la représentation est admise en faveur des enfants et descendants de frères ou soeurs du défunt, soit
+qu'ils viennent à sa succession concurremment avec des oncles ou tantes, soit que tous les frères et soeurs du défunt étant
+prédécédés, la succession se trouve dévolue à leurs descendants en degrés égaux ou inégaux.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-04-19
+
+	**Créé par**:
+
+	  - Loi n°2001-1135 du 3 décembre 2001 - art. 1 () JORF 4 décembre 2001 en vigueur le 1er juillet 2002
+
+
+###### Article 753
+
+Dans tous les cas où la représentation est admise, le partage s'opère par souche, comme si le représenté venait à la
+succession ; s'il y a lieu, il s'opère par subdivision de souche. A l'intérieur d'une souche ou d'une subdivision de souche,
+le partage se fait par tête.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2001-1135 du 3 décembre 2001 - art. 1 () JORF 4 décembre 2001 en vigueur le 1er juillet 2002
+
+	**Cité par**:
+
+	  - Code civil - art. 733 (M)
+	  - Code civil - art. 766 (M)
+
+	**Codifié par**:
+
+	  - Loi n°1803-04-19
+
+
+###### Article 754
+
+On représente les prédécédés, on ne représente pas les renonçants.
+
+On peut représenter celui à la succession duquel on a renoncé.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2001-1135 du 3 décembre 2001 - art. 1 () JORF 4 décembre 2001 en vigueur le 1er juillet 2002
+
+	**Cité par**:
+
+	  - Code civil - art. 755 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-04-19
+
+
+###### Article 755
+
+La représentation est admise en faveur des enfants et descendants de l'indigne, encore que celui-ci soit vivant à l'ouverture
+de la succession.
+
+Les enfants de l'indigne conçus avant l'ouverture de la succession dont l'indigne avait été exclu rapporteront à la
+succession de ce dernier les biens dont ils avaient hérité en son lieu et place, s'ils viennent en concours avec d'autres
+enfants conçus après l'ouverture de la première succession.
+
+Le rapport se fera selon les dispositions énoncées à la section 2 du chapitre VI du présent titre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-04-19
+
+	**Modifié par**:
+
+	  - Loi n°2001-1135 du 3 décembre 2001 - art. 1 () JORF 4 décembre 2001 en vigueur le 1er juillet 2002
+
+
 #### Section 2 : Des droits du conjoint successible.
+
+##### Paragraphe 1 : De la nature des droits, de leur montant et de leur exercice
+
+###### Article 756
+
+Le conjoint successible est appelé à la succession, soit seul, soit en concours avec les parents du défunt.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2001-1135 du 3 décembre 2001 - art. 1 () JORF 4 décembre 2001 en vigueur le 1er juillet 2002
+
+	**Cité par**:
+
+	  - Code civil - art. 301 (V)
+	  - Code de la propriété intellectuelle - art. L123-6 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-04-19
+
+
+###### Article 757
+
+Si l'époux prédécédé laisse des enfants ou descendants, le conjoint survivant recueille, à son choix, l'usufruit de la
+totalité des biens existants ou la propriété du quart des biens lorsque tous les enfants sont issus des deux époux et la
+propriété du quart en présence d'un ou plusieurs enfants qui ne sont pas issus des deux époux.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code civil - art. 758-5 (V)
+	  - Code civil - art. 758-6 (V)
+	  - Nouveau code de procédure civile - art. 1341 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-04-19
+
+	**Modifié par**:
+
+	  - Loi n°2001-1135 du 3 décembre 2001 - art. 1 () JORF 4 décembre 2001 en vigueur le 1er juillet 2002
+
+
+###### Article 757-1
+
+Si, à défaut d'enfants ou de descendants, le défunt laisse ses père et mère, le conjoint survivant recueille la moitié des
+biens. L'autre moitié est dévolue pour un quart au père et pour un quart à la mère.
+
+Quand le père ou la mère est prédécédé, la part qui lui serait revenue échoit au conjoint survivant.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-04-19
+
+	**Créé par**:
+
+	  - Loi n°2001-1135 du 3 décembre 2001 - art. 1 () JORF 4 décembre 2001 en vigueur le 1er juillet 2002
+
+	**Cité par**:
+
+	  - Code civil - art. 758-5 (V)
+	  - Code civil - art. 758-6 (V)
+
+
+###### Article 757-2
+
+En l'absence d'enfants ou de descendants du défunt et de ses père et mère, le conjoint survivant recueille toute la
+succession.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2001-1135 du 3 décembre 2001 - art. 1 () JORF 4 décembre 2001 en vigueur le 1er juillet 2002
+
+	**Cité par**:
+
+	  - Code civil - art. 757-3 (V)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code civil 752-3 (dérogations)
+
+	**Codifié par**:
+
+	  - Loi n°1803-04-19
+
+
+###### Article 757-3
+
+Par dérogation à l'article 757-2, en cas de prédécès des père et mère, les biens que le défunt avait reçus d'eux par
+succession ou donation et qui se retrouvent en nature dans la succession sont, en l'absence de descendants, dévolus pour
+moitié aux frères et soeurs du défunt ou à leurs descendants, eux-m^emes descendants du ou des parents prédécédés à l'origine
+de la transmission.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2001-1135 du 3 décembre 2001 - art. 1 () JORF 4 décembre 2001 en vigueur le 1er juillet 2002
+
+	**Cite**:
+
+	  - Code civil - art. 757-2 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-04-19
+
+
+###### Article 758
+
+Lorsque le conjoint survivant recueille la totalité ou les trois quarts des biens, les ascendants du défunt, autres que les
+père et mère, qui sont dans le besoin bénéficient d'une créance d'aliments contre la succession du prédécédé. 
+
+Le délai pour la réclamer est d'un an à partir du décès ou du moment à partir duquel les héritiers cessent d'acquitter les
+prestations qu'ils fournissaient auparavant aux ascendants. Le délai se prolonge, en cas d'indivision, jusqu'à l'achèvement
+du partage. 
+
+La pension est prélevée sur l'hérédité. Elle est supportée par tous les héritiers et, en cas d'insuffisance, par tous les
+légataires particuliers, proportionnellement à leur émolument. 
+
+Toutefois, si le défunt a expressément déclaré que tel legs sera acquitté de préférence aux autres, il sera fait application
+de l'article 927.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-04-19
+
+	**Modifié par**:
+
+	  - Loi n°2001-1135 du 3 décembre 2001 - art. 1 () JORF 4 décembre 2001 en vigueur le 1er juillet 2002
+
+	**Cite**:
+
+	  - Code civil - art. 927 (V)
+
+
+###### Article 758-1
+
+Lorsque le conjoint a le choix de la propriété ou de l'usufruit, ses droits sont incessibles tant qu'il n'a pas exercé son
+option.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-04-19
+
+	**Créé par**:
+
+	  - Loi n°2001-1135 du 3 décembre 2001 - art. 1 () JORF 4 décembre 2001 en vigueur le 1er juillet 2002
+
+
+###### Article 758-2
+
+L'option du conjoint entre l'usufruit et la propriété se prouve par tout moyen.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-04-19
+
+	**Créé par**:
+
+	  - Loi n°2001-1135 du 3 décembre 2001 - art. 1 () JORF 4 décembre 2001 en vigueur le 1er juillet 2002
+
+
+###### Article 758-3
+
+Tout héritier peut inviter par écrit le conjoint à exercer son option. Faute d'avoir pris parti par écrit dans les trois
+mois, le conjoint est réputé avoir opté pour l'usufruit.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-04-19
+
+	**Créé par**:
+
+	  - Loi n°2001-1135 du 3 décembre 2001 - art. 1 () JORF 4 décembre 2001 en vigueur le 1er juillet 2002
+
+	**Cité par**:
+
+	  - Nouveau code de procédure civile - art. 1341 (V)
+
+
+###### Article 758-4
+
+Le conjoint est réputé avoir opté pour l'usufruit s'il décède sans avoir pris parti.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-04-19
+
+	**Créé par**:
+
+	  - Loi n°2001-1135 du 3 décembre 2001 - art. 1 () JORF 4 décembre 2001 en vigueur le 1er juillet 2002
+
+
+###### Article 758-5
+
+Le calcul du droit en toute propriété du conjoint prévu aux articles 757 et 757-1 sera opéré sur une masse faite de tous les
+biens existant au décès de son époux auxquels seront réunis fictivement ceux dont il aurait disposé, soit par acte entre
+vifs, soit par acte testamentaire, au profit de successibles, sans dispense de rapport. 
+
+Le conjoint ne pourra exercer son droit que sur les biens dont le prédécédé n'aura disposé ni par acte entre vifs, ni par
+acte testamentaire, et sans préjudicier aux droits de réserve ni aux droits de retour.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2001-1135 du 3 décembre 2001 - art. 1 () JORF 4 décembre 2001 en vigueur le 1er juillet 2002
+
+	**Cite**:
+
+	  - Code civil - art. 757 (V)
+	  - Code civil - art. 757-1 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-04-19
+
+
+##### Paragraphe 2 : De la conversion de l'usufruit
+
+###### Article 759
+
+Tout usufruit appartenant au conjoint sur les biens du prédécédé, qu'il résulte de la loi, d'un testament ou d'une donation
+de biens à venir, donne ouverture à une faculté de conversion en rente viagère, à la demande de l'un des héritiers nus-
+propriétaires ou du conjoint successible lui-même.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-04-19
+
+	**Cité par**:
+
+	  - Loi n°72-3 du 3 janvier 1972 - art. 19 (V)
+	  - Code civil - art. 761 (M)
+	  - Code civil - art. 762 (M)
+	  - Code civil - art. 908 (Ab)
+	  - Code civil - art. 915-2 (Ab)
+	  - Code monétaire et financier - art. L112-2 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2001-1135 du 3 décembre 2001 - art. 1 () JORF 4 décembre 2001 en vigueur le 1er juillet 2002
+	  - Loi n°2001-1135 du 3 décembre 2001 - art. 2 () JORF 4 décembre 2001 en vigueur le 1er juillet 2002
+
+
+###### Article 759-1
+
+La faculté de conversion n'est pas susceptible de renonciation. Les cohéritiers ne peuvent en être privés par la volonté du
+prédécédé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-04-19
+
+	**Créé par**:
+
+	  - Loi n°2001-1135 du 3 décembre 2001 - art. 1 () JORF 4 décembre 2001 en vigueur le 1er juillet 2002
+	  - Loi n°2001-1135 du 3 décembre 2001 - art. 2 () JORF 4 décembre 2001 en vigueur le 1er juillet 2002
+
+
+###### Article 760
+
+A défaut d'accord entre les parties, la demande de conversion est soumise au juge. Elle peut être introduite jusqu'au partage
+définitif.
+
+S'il fait droit à la demande de conversion, le juge détermine le montant de la rente, les sûretés que devront fournir les
+cohéritiers débiteurs, ainsi que le type d'indexation propre à maintenir l'équivalence initiale de la rente à l'usufruit.
+
+Toutefois, le juge ne peut ordonner contre la volonté du conjoint la conversion de l'usufruit portant sur le logement qu'il
+occupe à titre de résidence principale, ainsi que sur le mobilier le garnissant.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2001-1135 2001-12-03 art. 25 I (dérogations à l'entrée en vigueur concernant le droit des enfants naturels), II (ouverture des successions)
+
+	**Modifié par**:
+
+	  - Loi n°2001-1135 du 3 décembre 2001 - art. 1 () JORF 4 décembre 2001 en vigueur le 1er juillet 2002
+	  - Loi n°2001-1135 du 3 décembre 2001 - art. 2 () JORF 4 décembre 2001 en vigueur le 1er juillet 2002
+
+	**Cité par**:
+
+	  - Code civil - art. 762 (M)
+	  - Code civil - art. 908 (Ab)
+	  - Code civil - art. 915-2 (Ab)
+
+	**Codifié par**:
+
+	  - Loi n°1803-04-19
+
+
+###### Article 761
+
+Par accord entre les héritiers et le conjoint, il peut être procédé à la conversion de l'usufruit du conjoint en un capital.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-04-19
+
+	**Modifié par**:
+
+	  - Loi n°2001-1135 du 3 décembre 2001 - art. 1 () JORF 4 décembre 2001 en vigueur le 1er juillet 2002
+	  - Loi n°2001-1135 du 3 décembre 2001 - art. 2 () JORF 4 décembre 2001 en vigueur le 1er juillet 2002
+
+
+###### Article 762
+
+La conversion de l'usufruit est comprise dans les opérations de partage. Elle ne produit pas d'effet rétroactif, sauf
+stipulation contraire des parties.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-04-19
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2001-1135 2001-12-03 art. 25 I (dérogations à l'entrée en vigueur concernant le droit des enfants naturels), II (ouverture des successions)
+
+	**Modifié par**:
+
+	  - Loi n°2001-1135 du 3 décembre 2001 - art. 1 () JORF 4 décembre 2001 en vigueur le 1er juillet 2002
+	  - Loi n°2001-1135 du 3 décembre 2001 - art. 2 () JORF 4 décembre 2001 en vigueur le 1er juillet 2002
+	  - Loi n°2001-1135 du 3 décembre 2001 - art. 3 () JORF 4 décembre 2001 en vigueur le 1er juillet 2002
+
 
 ##### Paragraphe 3 : Du droit au logement temporaire et du droit viager au logement
 
@@ -28890,841 +29885,36 @@ Le présent article est d'ordre public.
 	  - Loi n°1803-04-19
 
 
-### Chapitre III : Des divers ordres de succession.
-
-#### Section 1 : Dispositions générales.
-
-###### Article 731
-
-Les successions sont déférées aux enfants et descendants du défunt, à ses ascendants, à ses parents collatéraux et à son
-conjoint survivant, dans l'ordre et suivant les règles ci-après déterminées.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-04-19
-
-	**Créé par**:
-
-	  - Loi n°1803-04-19 promulguée le 29 avril 1803
-
-	**Modifié par**:
-
-	  - Ordonnance 58-1307 1958-12-23 art. 1 JORF 25 décembre 1958
-
-
-###### Article 732
-
-La loi ne considère ni la nature ni l'origine des biens pour régler la succession.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-04-19
-
-	**Créé par**:
-
-	  - Loi n°1803-04-19 promulguée le 29 avril 1803
-
-
-###### Article 733
-
-Toute succession échue à des ascendants ou à des collatéraux, qu'ils soient légitimes ou naturels, se divise en deux parts
-égales :
-
-l'une pour les parents de la ligne paternelle, l'autre pour les parents de la ligne maternelle.
-
-Les parents utérins ou consanguins ne sont pas exclus par les germains ; mais ils ne prennent part que dans leur ligne, sauf
-ce qui sera dit à l'article 752. Les germains prennent part dans les deux lignes.
-
-Sous réserve des dispositions de l'article 753, il ne se fait aucune dévolution d'une ligne à l'autre que lorsqu'il ne se
-trouve aucun ascendant ni collatéral de l'une des deux lignes.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code civil - art. 752 (M)
-	  - Code civil - art. 753 (M)
-
-	**Codifié par**:
-
-	  - Loi n°1803-04-19
-
-	**Créé par**:
-
-	  - Loi n°1803-04-19 promulguée le 29 avril 1803
-
-	**Modifié par**:
-
-	  - Loi n°57-379 1957-03-26 art. 1 JORF 27 mars 1957
-	  - Loi n°72-3 du 3 janvier 1972 - art. 4 () JORF 5 janvier 1972 en vigueur le 1er août 1972
-
-
-###### Article 734
-
-Cette première division opérée entre les lignes paternelle et maternelle, il ne se fait plus de division entre les diverses
-branches ; mais la moitié dévolue à chaque ligne appartient à l'héritier ou aux héritiers les plus proches en degrés, sauf le
-cas de la représentation, ainsi qu'il sera dit ci-après.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-04-19
-
-	**Créé par**:
-
-	  - Loi n°1803-04-19 promulguée le 29 avril 1803
-
-
-###### Article 735
-
-La proximité de parenté s'établit par le nombre de générations ; chaque génération s'appelle un degré.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-04-19
-
-	**Créé par**:
-
-	  - Loi n°1803-04-19 promulguée le 29 avril 1803
-
-
-###### Article 736
-
-La suite des degrés forme la ligne : on appelle ligne directe, la suite des degrés entre personnes qui descendent l'une de
-l'autre ; ligne collatérale, la suite des degrés entre personnes qui ne descendent pas les unes des autres, mais qui
-descendent d'un auteur commun.
-
-On distingue la ligne directe, en ligne directe descendante et ligne directe ascendante.
-
-La première est celle qui lie le chef avec ceux qui descendent de lui ; la deuxième est celle qui lie une personne avec ceux
-dont elle descend.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-04-19
-
-	**Créé par**:
-
-	  - Loi n°1803-04-19 promulguée le 29 avril 1803
-
-
-###### Article 737
-
-En ligne directe, on compte autant de degrés qu'il y a de générations entre les personnes : ainsi le fils est, à l'égard du
-père, au premier degré ; le petit-fils, au second ; et réciproquement du père et de l'aïeul à l'égard des fils et petits-
-fils.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-04-19
-
-	**Créé par**:
-
-	  - Loi n°1803-04-19 promulguée le 29 avril 1803
-
-
-###### Article 738
-
-En ligne collatérale, les degrés se comptent par les générations, depuis l'un des parents jusques et non compris l'auteur
-commun, et depuis celui-ci jusqu'à l'autre parent.
-
-Ainsi, deux frères sont au deuxième degré ; l'oncle et le neveu sont au troisième degré ; les cousins germains au quatrième ;
-ainsi de suite.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Code civil - art. 738-2 (V)
-
-	**Codifié par**:
-
-	  - Loi n°1803-04-19
-
-	**Créé par**:
-
-	  - Loi n°1803-04-19 promulguée le 29 avril 1803
-
-
-#### Section 2 : De la représentation.
-
-###### Article 739
-
-La représentation est une fiction de la loi, dont l'effet est de faire entrer les représentants dans la place, dans le degré
-et dans les droits du représenté.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-04-19
-
-	**Créé par**:
-
-	  - Loi n°1803-04-19 promulguée le 29 avril 1803
-
-
-###### Article 740
-
-La représentation a lieu à l'infini dans la ligne directe descendante.
-
-Elle est admise dans tous les cas, soit que les enfants du défunt concourent avec les descendants d'un enfant prédécédé, soit
-que tous les enfants du défunt étant morts avant lui, les descendants desdits enfants se trouvent entre eux en degrés égaux
-ou inégaux.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-04-19
-
-	**Créé par**:
-
-	  - Loi n°1803-04-19 promulguée le 29 avril 1803
-
-
-###### Article 741
-
-La représentation n'a pas lieu en faveur des ascendants ; le plus proche, dans chacune des deux lignes, exclut toujours le
-plus éloigné.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-04-19
-
-	**Créé par**:
-
-	  - Loi n°1803-04-19 promulguée le 29 avril 1803
-
-
-###### Article 742
-
-En ligne collatérale, la représentation est admise en faveur des enfants et descendants de frères ou soeurs du défunt, soit
-qu'ils viennent à sa succession concurremment avec des oncles ou tantes, soit que tous les frères et soeurs du défunt étant
-prédécédés, la succession se trouve dévolue à leurs descendants en degrés égaux ou inégaux.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-04-19
-
-	**Créé par**:
-
-	  - Loi n°1803-04-19 promulguée le 29 avril 1803
-
-
-###### Article 743
-
-Dans tous les cas où la représentation est admise, le partage s'opère par souche : si une même souche a produit plusieurs
-branches, la subdivision se fait aussi par souche dans chaque branche, et les membres de la même branche partagent entre eux
-par tête.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Décret n°2016-1791 du 19 décembre 2016 - art. 2
-	  - Décret n°2016-1791 du 19 décembre 2016 - art. 3
-	  - Code des transports - art. D1803-12 (V)
-	  - Code des transports - art. D1803-2 (V)
-	  - Code des transports - art. L1803-4 (V)
-
-	**Codifié par**:
-
-	  - Loi n°1803-04-19
-
-	**Créé par**:
-
-	  - Loi n°1803-04-19 promulguée le 29 avril 1803
-
-
-###### Article 744
-
-On ne représente pas les personnes vivantes, mais seulement celles qui sont mortes.
-
-On peut représenter celui à la succession duquel on a renoncé.
-
-La loi ne distingue pas, pour l'exercice de la représentation, entre la filiation légitime et la filiation naturelle.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-04-19
-
-	**Créé par**:
-
-	  - Loi n°1803-04-19 promulguée le 29 avril 1803
-
-	**Modifié par**:
-
-	  - Loi n°72-3 du 3 janvier 1972 - art. 4 () JORF 5 janvier 1972 en vigueur le 1er août 1972
-
-
-#### Section 3 : Des successions déférées aux descendants.
-
-###### Article 745
-
-Les enfants ou leurs descendants succèdent à leurs père et mère, aïeuls, aïeules, ou autres ascendants, sans distinction de
-sexe ni de primogéniture, et encore qu'ils soient issus de différents mariages.
-
-Ils succèdent par égales portions et par tête, quand ils sont tous au premier degré et appelés de leur chef : ils succèdent
-par souche, lorsqu'ils viennent tous ou en partie par représentation.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-04-19
-
-	**Créé par**:
-
-	  - Loi n°1803-04-19 promulguée le 29 avril 1803
-
-
-#### Section 4 : Des successions déférées aux ascendants.
-
-###### Article 746
-
-Si le défunt n'a laissé ni postérité, ni frère ni soeur, ni descendants d'eux, la succession se divise par moitié entre les
-ascendants de la ligne paternelle et les ascendants de la ligne maternelle.
-
-L'ascendant qui se trouve au degré le plus proche recueille la moitié affectée à sa ligne, à l'exclusion de tous autres.
-
-Les ascendants au même degré succèdent par tête.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-04-19
-
-	**Créé par**:
-
-	  - Loi n°1803-04-19 promulguée le 29 avril 1803
-
-
-###### Article 748
-
-Lorsque les père et mère d'une personne morte sans postérité lui ont survécu, si elle a laissé des frères, soeurs, ou des
-descendants d'eux, la succession se divise en deux portions égales, dont moitié seulement est déférée au père et à la mère,
-qui la partagent entre eux également.
-
-L'autre moitié appartient aux frères, soeurs ou descendants d'eux, ainsi qu'il sera expliqué dans la section V du présent
-chapitre.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-04-19
-
-	**Créé par**:
-
-	  - Loi n°1803-04-19 promulguée le 29 avril 1803
-
-
-###### Article 749
-
-Dans le cas où la personne morte sans postérité laisse des frères, soeurs ou des descendants d'eux, si le père ou la mère est
-prédécédé, la portion qui leur aurait été dévolue conformément au précédent article se réunit à la moitié déférée aux frères,
-soeurs ou à leurs représentants, ainsi qu'il sera expliqué à la section V du présent chapitre.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-04-19
-
-	**Créé par**:
-
-	  - Loi n°1803-04-19 promulguée le 29 avril 1803
-
-
-#### Section 5 : Des successions collatérales.
-
-###### Article 750
-
-En cas de prédécès des père et mère d'une personne morte sans postérité, ses frères, soeurs ou leurs descendants sont appelés
-à la succession, à l'exclusion des ascendants et des autres collatéraux.
-
-Ils succèdent, ou de leur chef, ou par représentation, ainsi qu'il a été réglé dans la section II du présent chapitre.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-04-19
-
-	**Créé par**:
-
-	  - Loi n°1803-04-19 promulguée le 29 avril 1803
-
-
-###### Article 751
-
-Si les père et mère de la personne morte sans postérité lui ont survécu, ses frères, soeurs ou leurs représentants ne sont
-appelés qu'à la moitié de la succession. Si le père ou la mère seulement a survécu, ils sont appelés à recueillir les trois
-quarts.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Code civil - art. 752 (V)
-
-	**Codifié par**:
-
-	  - Loi n°1803-04-19
-
-	**Créé par**:
-
-	  - Loi n°1803-04-19 promulguée le 29 avril 1803
-
-
-###### Article 752
-
-Le partage de la moitié ou des trois quarts dévolus aux frères ou soeurs, aux termes de l'article précédent, s'opère entre
-eux par égales portions, s'ils sont tous du même lit ; s'ils sont de lits différents, la division se fait par moitié entre
-les deux lignes paternelle et maternelle du défunt ; les germains prennent part dans les deux lignes, et les utérins ou
-consanguins chacun dans leur ligne seulement : s'il n'y a de frères ou soeurs que d'un côté, ils succèdent à la totalité, à
-l'exclusion de tous autres parents de l'autre ligne.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Code civil - art. 733 (M)
-
-	**Cite**:
-
-	  - Code civil - art. 751 (M)
-
-	**Codifié par**:
-
-	  - Loi n°1803-04-19
-
-	**Créé par**:
-
-	  - Loi n°1803-04-19 promulguée le 29 avril 1803
-
-
-###### Article 753
-
-A défaut de frères ou soeurs ou de descendants d'eux et à défaut d'ascendants dans une ligne, la succession est dévolue en
-totalité aux ascendants de l'autre ligne ; à défaut d'ascendants dans l'une et l'autre ligne, la succession est dévolue pour
-moitié aux parents les plus proches dans chaque ligne.
-
-S'il y a concours de parents collatéraux au même degré, ils partagent par tête.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Code civil - art. 733 (M)
-	  - Code civil - art. 766 (M)
-
-	**Codifié par**:
-
-	  - Loi n°1803-04-19
-
-	**Créé par**:
-
-	  - Loi n°1803-04-19 promulguée le 29 avril 1803
-
-	**Modifié par**:
-
-	  - Loi n°57-379 1957-03-26 art. 2 JORF 27 mars 1957
-
-
-###### Article 755
-
-Les parents collatéraux au-delà du sixième degré ne succèdent pas, à l'exception, toutefois des descendants des frères et
-soeurs du défunt.
-
-Toutefois, les parents collatéraux succèdent jusqu'au douzième degré lorsque le défunt n'était pas capable de tester et
-n'était pas frappé d'interdiction légale.
-
-A défaut de parents au degré successible dans une ligne et de conjoint contre lequel il n'existe pas de jugement de
-séparation de corps passé en force de chose jugée, les parents de l'autre ligne succèdent pour le tout.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-04-19
-
-	**Créé par**:
-
-	  - Loi n°1803-04-19 promulguée le 29 avril 1803
-
-
-#### Section 6 : Des droits successoraux résultant de la filiation naturelle.
-
-###### Article 756
-
-La filiation naturelle ne crée de droits successoraux qu'autant qu'elle est légalement établie.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Code civil - art. 301 (V)
-	  - Code de la propriété intellectuelle - art. L123-6 (V)
-
-	**Codifié par**:
-
-	  - Loi n°1803-04-19
-
-	**Créé par**:
-
-	  - Loi n°1803-04-19 promulguée le 29 avril 1803
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 11 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 12 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 14 (V)
-
-	**Modifié par**:
-
-	  - Loi n°72-3 du 3 janvier 1972 - art. 5 () JORF 5 janvier 1972 en vigueur le 1er août 1972
-
-
-###### Article 757
-
-L'enfant naturel a, en général, dans la succession de ses père et mère et autres ascendants, ainsi que de ses frères et
-soeurs et autres collatéraux, les mêmes droits qu'un enfant légitime.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 11 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 12 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 14 (V)
-
-	**Modifié par**:
-
-	  - Loi n°72-3 du 3 janvier 1972 - art. 5 () JORF 5 janvier 1972 en vigueur le 1er août 1972
-
-	**Cité par**:
-
-	  - Code civil - art. 758-5 (V)
-	  - Code civil - art. 758-6 (V)
-	  - Nouveau code de procédure civile - art. 1341 (V)
-
-	**Codifié par**:
-
-	  - Loi n°1803-04-19
-
-	**Créé par**:
-
-	  - Loi n°1803-04-19 promulguée le 29 avril 1803
-
-
-###### Article 758
-
-Réciproquement, les père et mère et autres ascendants de l'enfant naturel, ainsi que ses frères et soeurs et autres
-collatéraux, viennent à sa succession comme s'il était un enfant légitime.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-04-19
-
-	**Créé par**:
-
-	  - Loi n°1803-04-19 promulguée le 29 avril 1803
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 11 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 12 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 14 (V)
-
-	**Modifié par**:
-
-	  - Loi n°72-3 du 3 janvier 1972 - art. 5 () JORF 5 janvier 1972 en vigueur le 1er août 1972
-
-
-###### Article 759
-
-Les enfants naturels dont le père ou la mère était, au temps de leur conception, engagé dans les liens du mariage avec une
-autre personne, n'excluent pas celle-ci de la succession de leur auteur, lorsque, à leur défaut, elle y eût été appelée par
-application des articles 765 et 766 ci-dessous.
-
-En pareil cas, ils ne recevront, quel que soit leur nombre, que la moitié de ce qui, en leur absence, aurait été dévolu au
-conjoint selon les articles précités, le calcul étant fait ligne par ligne.
-
-La répartition de la succession se fixe d'après l'état des vocations héréditaires au jour du décès, nonobstant toutes
-renonciations ultérieures.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 11 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 12 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 14 (V)
-
-	**Modifié par**:
-
-	  - Loi n°72-3 du 3 janvier 1972 - art. 5 () JORF 5 janvier 1972 en vigueur le 1er août 1972
-
-	**Cité par**:
-
-	  - Loi n°72-3 du 3 janvier 1972 - art. 19 (V)
-	  - Code civil - art. 761 (M)
-	  - Code civil - art. 762 (M)
-	  - Code civil - art. 908 (Ab)
-	  - Code civil - art. 915-2 (Ab)
-	  - Code monétaire et financier - art. L112-2 (V)
-
-	**Cite**:
-
-	  - Code civil - art. 765 (M)
-	  - Code civil - art. 766 (M)
-
-	**Codifié par**:
-
-	  - Loi n°1803-04-19
-
-	**Créé par**:
-
-	  - Loi n°1803-04-19 promulguée le 29 avril 1803
-
-
-###### Article 760
-
-Les enfants naturels dont le père ou la mère était, au temps de leur conception, engagé dans les liens d'un mariage d'où sont
-issus des enfants légitimes, sont appelés à la succession de leur auteur en concours avec ces enfants ; mais chacun d'eux ne
-recevra que la moitié de la part à laquelle il aurait eu droit si tous les enfants du défunt, y compris lui-même, eussent été
-légitimes.
-
-La fraction dont sa part hériditaire est ainsi diminuée accroîtra aux seuls enfants issus du mariage auquel l'adultère a
-porté atteinte ; elle se divisera entre eux à proportion de leurs parts héréditaires.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 11 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 12 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 14 (V)
-
-	**Modifié par**:
-
-	  - Loi n°72-3 du 3 janvier 1972 - art. 5 () JORF 5 janvier 1972 en vigueur le 1er août 1972
-
-	**Cité par**:
-
-	  - Code civil - art. 762 (M)
-	  - Code civil - art. 908 (Ab)
-	  - Code civil - art. 915-2 (Ab)
-
-	**Codifié par**:
-
-	  - Loi n°1803-04-19
-
-	**Créé par**:
-
-	  - Loi n°1803-04-19 promulguée le 29 avril 1803
-
-
-###### Article 761
-
-Si le conjoint survivant ou les enfants issus du mariage demandent, à charge de soulte s'il y a lieu, que certains biens de
-la succession leur soient attribués par préférence dans les conditions de l'article 832, les enfants naturels visés aux deux
-articles précédents ne pourront s'opposer à cette attribution préférentielle. La même faculté s'étend au local d'habitation
-dans lequel le ou les demandeurs avaient leur résidence secondaire.
-
-Le conjoint peut exercer ce droit lorsqu'il vient à la succession par application,  soit de l'article 759, soit de l'article
-767, et il peut, dans tous les cas, l'exercer en demandant une attribution préférentielle sur ces mêmes biens en usufruit
-seulement.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code civil - art. 759 (M)
-	  - Code civil - art. 767 (M)
-	  - Code civil - art. 832 (M)
-
-	**Codifié par**:
-
-	  - Loi n°1803-04-19
-
-	**Créé par**:
-
-	  - Loi n°1803-04-19 promulguée le 29 avril 1803
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 11 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 12 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 14 (V)
-
-	**Modifié par**:
-
-	  - Loi n°72-3 du 3 janvier 1972 - art. 5 () JORF 5 janvier 1972 en vigueur le 1er août 1972
-
-
-###### Article 762
-
-Dans le cas des articles 759 et 760, le père ou la mère pourra écarter les enfants naturels de toute participation
-personnelle aux opérations futures de liquidation et de partage, en leur faisant, de son vivant, une attribution suffisante
-de biens, sous la stipulation expresse qu'elle a lieu en règlement anticipé de leurs droits successoraux.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 11 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 12 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 14 (V)
-
-	**Modifié par**:
-
-	  - Loi n°72-3 du 3 janvier 1972 - art. 5 () JORF 5 janvier 1972 en vigueur le 1er août 1972
-
-	**Cite**:
-
-	  - Code civil - art. 759 (M)
-	  - Code civil - art. 760 (M)
-
-	**Codifié par**:
-
-	  - Loi n°1803-04-19
-
-	**Créé par**:
-
-	  - Loi n°1803-04-19 promulguée le 29 avril 1803
-
-
-###### Article 763-1
-
-Si, à l'ouverture de la succession, les estimations ayant été faites comme en matière de rapport, il est constaté que la
-valeur des biens attribués excède les droits successoraux d'un attributaire, ou, à l'inverse, leur est inférieure, il y aura
-lieu à réduction ou à complément, selon le cas, sans toutefois que les autres héritiers ou l'enfant puisse élever aucune
-réclamation quant aux revenus perçus en trop ou en moins avant le décès.
-
-S'il y a lieu à complément, celui-ci est fourni en argent ou en nature, au gré des autres héritiers.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-04-19
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 11 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 12 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 14 (V)
-
-	**Créé par**:
-
-	  - Loi n°72-3 du 3 janvier 1972 - art. 5 () JORF 5 janvier 1972 en vigueur le 1er août 1972
-
-	**Abrogé par**:
-
-	  - Loi n°2001-1135 du 3 décembre 2001 - art. 4 () JORF 4 décembre 2001 en vigueur le 1er juillet 2002
-
-
-###### Article 763-2
-
-L'attribution ne vaut règlement anticipé de la succession que si elle confère à un tiers, désigné dans les catégories
-professionnelles qui seront agréées par décret, le pouvoir exclusif et irrévocable de représenter l'attributaire dans toutes
-les opérations à venir de liquidation et de partage, ainsi que d'agir et de défendre pour son compte dans toutes les
-instances qui pourraient s'élever au sujet de ses droits successoraux.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-04-19
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 11 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 12 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 14 (V)
-
-	**Créé par**:
-
-	  - Loi n°72-3 du 3 janvier 1972 - art. 5 () JORF 5 janvier 1972 en vigueur le 1er août 1972
-
-	**Abrogé par**:
-
-	  - Loi n°2001-1135 du 3 décembre 2001 - art. 4 () JORF 4 décembre 2001 en vigueur le 1er juillet 2002
-
-
-###### Article 763-3
-
-Le tiers constitué par le défunt pour représenter un attributaire est tenu envers celui-ci de toutes les obligations d'un
-mandataire.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-04-19
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 11 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 12 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 14 (V)
-
-	**Créé par**:
-
-	  - Loi n°72-3 du 3 janvier 1972 - art. 5 () JORF 5 janvier 1972 en vigueur le 1er août 1972
-
-	**Abrogé par**:
-
-	  - Loi n°2001-1135 du 3 décembre 2001 - art. 4 () JORF 4 décembre 2001 en vigueur le 1er juillet 2002
-
-
 ###### Article 764
 
-Si, à l'ouverture de la succession, il n'y a ni conjoint survivant, ni enfant issu du mariage, ou s'ils renoncent, les
-pouvoirs du représentant cesseront de plein droit, et les attributions seront traitées comme avancements d'hoiries.
+Sauf volonté contraire du défunt exprimée dans les conditions de l'article 971, le conjoint successible qui occupait
+effectivement, à l'époque du décès, à titre d'habitation principale, un logement appartenant aux époux ou dépendant
+totalement de la succession, a sur ce logement, jusqu'à son décès, un droit d'habitation et un droit d'usage sur le mobilier,
+compris dans la succession, le garnissant. 
+
+La privation de ces droits d'habitation et d'usage exprimée par le défunt dans les conditions mentionnées au premier alinéa
+est sans incidence sur les droits d'usufruit que le conjoint recueille en vertu de la loi ou d'une libéralité, qui continuent
+à obéir à leurs règles propres. 
+
+Ces droits d'habitation et d'usage s'exercent dans les conditions prévues aux articles 627, 631, 634 et 635. 
+
+Le conjoint, les autres héritiers ou l'un d'eux peuvent exiger qu'il soit dressé un inventaire des meubles et un état de
+l'immeuble soumis aux droits d'usage et d'habitation. 
+
+Par dérogation aux articles 631 et 634, lorsque la situation du conjoint fait que le logement grevé du droit d'habitation
+n'est plus adapté à ses besoins, le conjoint ou son représentant peut le louer à usage autre que commercial ou agricole afin
+de dégager les ressources nécessaires à de nouvelles conditions d'hébergement.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Loi n°1803-04-19
-
-	**Créé par**:
-
-	  - Loi n°1803-04-19 promulguée le 29 avril 1803
-
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 11 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 12 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 14 (V)
+	  - SPEC_APPLI: Loi n°2001-1135 2001-12-03 art. 25 I (dérogations à l'entrée en vigueur concernant le droit des enfants naturels), II (ouverture des successions)
 
 	**Modifié par**:
 
-	  - Loi n°72-3 du 3 janvier 1972 - art. 5 () JORF 5 janvier 1972 en vigueur le 1er août 1972
+	  - Loi n°2001-1135 du 3 décembre 2001 - art. 1 () JORF 4 décembre 2001 en vigueur le 1er juillet 2002
+	  - Loi n°2001-1135 du 3 décembre 2001 - art. 2 () JORF 4 décembre 2001 en vigueur le 1er juillet 2002
 
 	**Cité par**:
 
@@ -29734,14 +29924,48 @@ pouvoirs du représentant cesseront de plein droit, et les attributions seront t
 	  - Code de la construction et de l'habitation. - art. L254-7 (V)
 	  - Code de la propriété intellectuelle - art. L123-6 (V)
 
+	**Cite**:
 
-#### Section 7 : Des droits du conjoint survivant.
+	  - Code civil - art. 627 (V)
+	  - Code civil - art. 631 (V)
+	  - Code civil - art. 634 (V)
+	  - Code civil - art. 635 (V)
+	  - Code civil - art. 971 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-04-19
+
 
 ###### Article 765
 
-Lorsque le défunt ne laisse pas de parenté au degré successible, ou s'il ne laisse que des collatéraux autres que des frères
-ou soeurs ou des descendants de ceux-ci, les biens de sa succession appartiennent en pleine propriété au conjoint non divorcé
-qui lui survit et contre lequel n'existe pas de jugement de séparation de corps passé en force de chose jugée.
+La valeur des droits d'habitation et d'usage s'impute sur la valeur des droits successoraux recueillis par le conjoint.
+
+Si la valeur des droits d'habitation et d'usage est inférieure à celle de ses droits successoraux, le conjoint peut prendre
+le complément sur les biens existants.
+
+Si la valeur des droits d'habitation et d'usage est supérieure à celle de ses droits successoraux, le conjoint n'est pas tenu
+de récompenser la succession à raison de l'excédent.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code civil - art. 759 (M)
+
+	**Codifié par**:
+
+	  - Loi n°1803-04-19
+
+	**Modifié par**:
+
+	  - Loi n°2001-1135 du 3 décembre 2001 - art. 1 () JORF 4 décembre 2001 en vigueur le 1er juillet 2002
+	  - Loi n°2001-1135 du 3 décembre 2001 - art. 2 () JORF 4 décembre 2001 en vigueur le 1er juillet 2002
+
+
+###### Article 765-1
+
+Le conjoint dispose d'un an à partir du décès pour manifester sa volonté de bénéficier de ces droits d'habitation et d'usage.
 
 **Liens relatifs à cet article**
 
@@ -29751,29 +29975,35 @@ qui lui survit et contre lequel n'existe pas de jugement de séparation de corps
 
 	**Créé par**:
 
-	  - Loi n°1803-04-19 promulguée le 29 avril 1803
+	  - Loi n°2001-1135 du 3 décembre 2001 - art. 1 () JORF 4 décembre 2001 en vigueur le 1er juillet 2002
+	  - Loi n°2001-1135 du 3 décembre 2001 - art. 2 () JORF 4 décembre 2001 en vigueur le 1er juillet 2002
 
-	**Liens**:
 
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 11 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 12 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 19 (V)
+###### Article 765-2
 
-	**Modifié par**:
+Lorsque le logement faisait l'objet d'un bail à loyer, le conjoint successible qui, à l'époque du décès, occupait
+effectivement les lieux à titre d'habitation principale bénéficie du droit d'usage sur le mobilier, compris dans la
+succession, le garnissant.
 
-	  - Loi n°72-3 du 3 janvier 1972 - art. 5 () JORF 5 août 1972 en vigueur le 1er août 1972
+**Liens relatifs à cet article**
 
-	**Cité par**:
+	**Codifié par**:
 
-	  - Code civil - art. 759 (M)
+	  - Loi n°1803-04-19
+
+	**Créé par**:
+
+	  - Loi n°2001-1135 du 3 décembre 2001 - art. 1 () JORF 4 décembre 2001 en vigueur le 1er juillet 2002
+	  - Loi n°2001-1135 du 3 décembre 2001 - art. 2 () JORF 4 décembre 2001 en vigueur le 1er juillet 2002
 
 
 ###### Article 766
 
-Lorsque le défunt ne laisse dans une ligne, paternelle ou maternelle, aucun parent au degré successible, ou s'il ne laisse,
-dans cette ligne, que des collatéraux autres que des frères ou soeurs ou des descendants de ceux-ci, la moitié de sa
-succession est dévolue, nonobstant les dispositions de l'article 753, au conjoint non divorcé qui lui survit et contre lequel
-n'existe pas de jugement de séparation de corps passé en force de chose jugée.
+Le conjoint successible et les héritiers peuvent, par convention, convertir les droits d'habitation et d'usage en une rente
+viagère ou en capital.
+
+S'il est parmi les successibles parties à la convention un mineur ou un majeur protégé, la convention doit être autorisée par
+le juge des tutelles.
 
 **Liens relatifs à cet article**
 
@@ -29781,53 +30011,29 @@ n'existe pas de jugement de séparation de corps passé en force de chose jugée
 
 	  - Loi n°1803-04-19
 
-	**Créé par**:
-
-	  - Loi n°1803-04-19 promulguée le 29 avril 1803
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 11 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 12 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 19 (V)
-
 	**Modifié par**:
 
-	  - Loi n°72-3 du 3 janvier 1972 - art. 5 () JORF 5 août 1972 en vigueur le 1er août 1972
-
-	**Cite**:
-
-	  - Code civil - art. 753 (M)
+	  - Loi n°2001-1135 du 3 décembre 2001 - art. 1 () JORF 4 décembre 2001 en vigueur le 1er juillet 2002
+	  - Loi n°2001-1135 du 3 décembre 2001 - art. 2 () JORF 4 décembre 2001 en vigueur le 1er juillet 2002
 
 	**Cité par**:
 
 	  - Code civil - art. 759 (M)
 
 
+##### Paragraphe 4 : Du droit à pension
+
 ###### Article 767
 
-Le conjoint survivant non divorcé, qui ne succède pas à la pleine propriété et contre lequel n'existe pas de jugement de
-séparation de corps passé en force de chose jugée a, sur la succession du prédécédé, un droit d'usufruit qui est :
+La succession de l'époux prédécédé doit une pension au conjoint successible qui est dans le besoin. Le délai pour la réclamer
+est d'un an à partir du décès ou du moment où les héritiers cessent d'acquitter les prestations qu'ils fournissaient
+auparavant au conjoint. Le délai se prolonge, en cas d'indivision, jusqu'à l'achèvement du partage. 
 
-D'un quart, si le défunt laisse un ou plusieurs enfants soit légitimes, issus ou non du mariage, soit naturels ;
+La pension alimentaire est prélevée sur l'hérédité. Elle est supportée par tous les héritiers et, en cas d'insuffisance, par
+tous les légataires particuliers, proportionnellement à leur émolument. 
 
-De moitié, si le défunt laisse des frères et soeurs, des descendants de frères et soeurs, des ascendants ou des enfants
-naturels conçus pendant le mariage.
-
-Le calcul sera opéré sur une masse faite de tous les biens existant au décès du de cujus, auxquels seront réunis fictivement
-ceux dont il aurait disposé, soit par acte entre vifs, soit par acte testamentaire, au profit de successibles, sans dispense
-de rapport.
-
-Mais l'époux survivant ne pourra exercer son droit que sur les biens dont le prédécédé n'aura disposé ni par acte entre vifs,
-ni par acte testamentaire, et sans préjudicier aux droits de réserve ni aux droits de retour.
-
-Il cessera de l'exercer dans le cas où il aurait reçu du défunt des libéralités, même faites par préciput et hors part, dont
-le montant atteindrait celui des droits que la présente loi lui attribue, et, si ce montant était inférieur, il ne pourrait
-réclamer que le complément de son usufruit.
-
-Jusqu'au partage définitif, les héritiers peuvent exiger, moyennant sûretés suffisantes, et garantie du maintien de
-l'équivalence initiale, que l'usufruit de l'époux survivant soit converti en une rente viagère équivalente. S'ils sont en
-désaccord, la conversion sera facultative pour les tribunaux.
+Toutefois, si le défunt a expressément déclaré que tel legs sera acquitté de préférence aux autres, il sera fait application
+de l'article 927.
 
 **Liens relatifs à cet article**
 
@@ -29847,22 +30053,16 @@ désaccord, la conversion sera facultative pour les tribunaux.
 
 	**Modifié par**:
 
-	  - Loi n°63-699 du 13 juillet 1963 - art. 3 () JORF 17 juillet 1963
-	  - Loi n°72-3 du 3 janvier 1972 - art. 5 () JORF 5 janvier 1972 en vigueur le 1er août 1972
+	  - Loi n°2001-1135 du 3 décembre 2001 - art. 1 () JORF 4 décembre 2001 en vigueur le 1er juillet 2002
+	  - Loi n°2001-1135 du 3 décembre 2001 - art. 2 () JORF 4 décembre 2001 en vigueur le 1er juillet 2002
 
-	**Liens**:
+	**Cite**:
 
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 11 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 12 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 19 (V)
+	  - Code civil - art. 927 (V)
 
 	**Codifié par**:
 
 	  - Loi n°1803-04-19
-
-	**Créé par**:
-
-	  - Loi n°1803-04-19 promulguée le 29 avril 1803
 
 
 ### Chapitre IV : De l'option de l'héritier
@@ -31497,14 +31697,14 @@ l'importance n'exclut pas un caractère familial.
 Au cas où ni le conjoint survivant, ni aucun héritier copropriétaire ne demande l'application des dispositions prévues au
 troisième alinéa ci-dessus ou celles des articles 832-1 ou 832-2, l'attribution préférentielle peut être accordée à tout
 copartageant sous la condition qu'il s'oblige à donner à bail dans un délai de six mois le bien considéré dans les conditions
-fixées au chapitre VII du titre Ier du livre VI du Code rural à un ou plusieurs des cohéritiers remplissant les conditions
+fixées au chapitre VII du titre I du livre VI du Code rural à un ou plusieurs des cohéritiers remplissant les conditions
 personnelles prévues au troisième alinéa ci-dessus ou à un ou plusieurs descendants de ces cohéritiers remplissant ces mêmes
 conditions.
 
 Le conjoint survivant ou tout héritier copropriétaire peut également demander l'attribution préférentielle :
 
 De la propriété ou du droit au bail du local qui lui sert effectivement d'habitation, s'il y avait sa résidence à l'époque du
-décès ;
+décès, et du mobilier le garnissant ;
 
 De la propriété ou du droit au bail du local à usage professionnel servant effectivement à l'exercice de sa profession et des
 objets mobiliers à usage professionnel garnissant ce local ;
@@ -31512,7 +31712,19 @@ objets mobiliers à usage professionnel garnissant ce local ;
 De l'ensemble des éléments mobiliers nécessaires à l'exploitation d'un bien rural cultivé par le défunt à titre de fermier ou
 de métayer lorsque le bail continue au profit du demandeur, ou lorsqu'un nouveau bail est consenti à ce dernier.
 
-L'attribution préférentielle peut être demandée conjointement par plusieurs successibles.
+L'attribution préférentielle peut être demandée conjointement par plusieurs successibles. L'attribution préférentielle de la
+propriété du local et du mobilier le garnissant visée au septième alinéa est de droit pour le conjoint survivant.
+
+Dans l'hypothèse prévue à l'alinéa précédent, le conjoint survivant attributaire peut exiger de ses copartageants pour le
+paiement d'une fraction de la soulte, égale au plus à la moitié, des délais ne pouvant excéder dix ans. Sauf convention
+contraire, les sommes restant dues portent intérêt au taux légal.
+
+En cas de vente du local ou du mobilier le garnissant, la fraction de la soulte y afférente devient immédiatement exigible ;
+en cas de ventes partielles, le produit de ces ventes est versé aux copartageants et imputé sur la fraction de la soulte
+encore due.
+
+Les droits résultant de l'attribution préférentielle ne préjudicient pas aux droits viagers d'habitation et d'usage que le
+conjoint peut exercer en vertu de l'article 764.
 
 A défaut d'accord amiable, la demande d'attribution préférentielle est portée devant le tribunal, qui se prononce en fonction
 des intérêts en présence. En cas de pluralité de demandes concernant une exploitation ou une entreprise, le tribunal tient
@@ -31524,18 +31736,6 @@ Les biens faisant l'objet de l'attribution sont estimés à leur valeur au jour 
 Sauf accord amiable entre les copartageants, la soulte éventuellement due est payable comptant.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°1803-04-19 promulguée le 29 avril 1803
-
-	**Modifié par**:
-
-	  - Loi n°55-1413 1955-10-28 art. 2 JORF 29 octobre 1955
-	  - Loi n°61-1378 du 19 décembre 1961 - art. 2 () JORF 20 décembre 1961
-	  - Loi n°80-502 du 4 juillet 1980 - art. 35 () JORF 5 juillet 1980 rectificatif JORF 28 juillet, 3 août 1980
-	  - Loi n°82-596 du 10 juillet 1982 - art. 5 (V) JORF 13 juillet 1982
-	  - Loi n°82-596 du 10 juillet 1982 - art. 6 () JORF 13 juillet 1982
 
 	**Cité par**:
 
@@ -31568,12 +31768,13 @@ Sauf accord amiable entre les copartageants, la soulte éventuellement due est p
 	  - Code rural - art. L322-14 (M)
 	  - Code rural - art. L323-6 (M)
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Loi n°80-502 1980-07-04 art. 32
-	  - SPEC_APPLI: Décret n°83-747 1983-08-10
-	  - SPEC_APPLI: Code civil - art. 832-1 (M)
-	  - TXT_ASSOCIE: Code civil - art. 832-4 (M)
+	  - Loi n°2001-1135 du 3 décembre 2001 - art. 10 () JORF 4 décembre 2001 en vigueur le 1er juillet 2002
+
+	**Cite**:
+
+	  - Code civil - art. 764 (M)
 
 	**Codifié par**:
 
@@ -31582,12 +31783,12 @@ Sauf accord amiable entre les copartageants, la soulte éventuellement due est p
 
 ###### Article 832-1
 
-Par dérogation aux dispositions des alinéas onzième et treizième de l'article 832 et à moins que le maintien de l'indivision
-ne soit demandé en application des articles 815 (deuxième alinéa) et 815-1, l'attribution préférentielle visée au troisième
-alinéa de l'article 832 est de droit pour toute exploitation agricole qui ne dépasse pas les limites de superficies fixées
-par décret en Conseil d'Etat. En cas de pluralité de demandes, le tribunal désigne l'attributaire ou les attributaires
-conjoints en fonction des intérêts en présence et de l'aptitude des différents postulants à gérer l'exploitation et à s'y
-maintenir.
+Par dérogation aux dispositions des alinéas quatorzième et seizième de l'article 832 et à moins que le maintien de
+l'indivision ne soit demandé en application des articles 815 (deuxième alinéa) et 815-1, l'attribution préférentielle visée
+au troisième alinéa de l'article 832 est de droit pour toute exploitation agricole qui ne dépasse pas les limites de
+superficies fixées par décret en Conseil d'Etat. En cas de pluralité de demandes, le tribunal désigne l'attributaire ou les
+attributaires conjoints en fonction des intérêts en présence et de l'aptitude des différents postulants à gérer
+l'exploitation et à s'y maintenir.
 
 Dans l'hypothèse prévue à l'alinéa précédent, même si l'attribution préférentielle a été accordée judiciairement,
 l'attributaire peut exiger de ses copartageants pour le paiement d'une fraction de la soulte, égale au plus à la moitié, des
@@ -31597,10 +31798,6 @@ En cas de vente de la totalité du bien attribué, la fraction de soulte restant
 ventes partielles, le produit de ces ventes est versé aux copartageants et imputé sur la fraction de soulte encore due.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-04-19
 
 	**Cité par**:
 
@@ -31625,29 +31822,28 @@ ventes partielles, le produit de ces ventes est versé aux copartageants et impu
 	  - Code rural - art. L322-14 (V)
 	  - Code rural - art. L323-6 (V)
 
-	**Modifié par**:
-
-	  - Loi n°71-523 du 3 juillet 1971 - art. 1 () JORF 4 juillet 1971 en vigueur le 1er janvier 1972
-	  - Loi n°76-1286 du 31 décembre 1976 - art. 16 () JORF 1er janvier 1977 en vigueur le 1er juillet 1977
-	  - Loi n°80-502 du 4 juillet 1980 - art. 37 () JORF 5 juillet 1980
-
 	**Liens**:
 
 	  - TXT_SOURCE: Arrêté du 22 août 1975
 	  - TXT_SOURCE: Arrêté du 22 août 1975 - art. Annexe (V)
 	  - SPEC_APPLI: Loi n°76-1286 du 31 décembre 1976 - art. 19 (V)
 	  - SPEC_APPLI: Loi n°80-502 1980-07-04 art. 32
+	  - SPEC_APPLI: Loi n°2001-1135 2001-12-03 art. 25 II (ouverture des successions)
 	  - SPEC_APPLI: Code civil - art. 832 (M)
 	  - TXT_ASSOCIE: Code civil - art. 832-4 (M)
+
+	**Modifié par**:
+
+	  - Loi n°2001-1135 du 3 décembre 2001 - art. 12 () JORF 4 décembre 2001 en vigueur le 1er juillet 2002
 
 	**Cite**:
 
 	  - Code civil - art. 815 (M)
 	  - Code civil - art. 815-1 (M)
 
-	**Créé par**:
+	**Codifié par**:
 
-	  - Loi n°91-1378 1961-12-19 art. 3 JORF 20 décembre 1961
+	  - Loi n°1803-04-19
 
 
 ###### Article 832-4
@@ -34173,6 +34369,41 @@ pas la quotité de biens à laquelle elle est fixée.
 
 	  - Code civil - art. 1094 (M)
 	  - Code de la propriété intellectuelle - art. L123-6 (M)
+
+
+###### Article 914-1
+
+Les libéralités, par actes entre vifs ou par testament, ne pourront excéder les trois quarts des biens si, à défaut de
+descendant et d'ascendant, le défunt laisse un conjoint survivant, non divorcé, contre lequel n'existe pas de jugement de
+séparation de corps passé en force de chose jugée et qui n'est pas engagé dans une instance en divorce ou séparation de
+corps.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°2001-1135 du 3 décembre 2001 - art. 13 () JORF 4 décembre 2001 en vigueur le 1er juillet 2002
+
+
+###### Article 916
+
+A défaut de descendant, d'ascendant et de conjoint survivant non divorcé, contre lequel n'existe pas de jugement de
+séparation de corps passé en force de chose jugée et qui n'est pas engagé dans une instance en divorce ou séparation de
+corps, les libéralités par actes entre vifs ou testamentaires pourront épuiser la totalité des biens.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Modifié par**:
+
+	  - Loi n°2001-1135 du 3 décembre 2001 - art. 13 () JORF 4 décembre 2001 en vigueur le 1er juillet 2002
 
 
 ###### Article 917
@@ -38121,24 +38352,6 @@ d'utilité publique, n'auront leur effet qu'autant qu'elles seront autorisées p
 
 #### Section 1 : De la portion de biens disponible.
 
-###### Article 916
-
-A défaut d'ascendants et de descendants, les libéralités par actes entre vifs ou testamentaires pourront épuiser la totalité
-des biens.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-05-03
-
-	**Créé par**:
-
-	  - Loi n°1803-05-03 promulguée le 13 mai 1803
-
-
-#### Section 1 : De la portion de biens disponible.
-
 ###### Article 913
 
 Les libéralités, soit par actes entre vifs, soit par testament, ne pourront excéder la moitié des biens du disposant, s'il ne
@@ -38343,41 +38556,6 @@ usufruit seulement.
 	  - Code civil - art. 758-6 (V)
 	  - Code général des impôts, CGI. - art. 788 bis (V)
 	  - Code général des impôts, CGI. - art. 885 G (V)
-
-
-###### Article 1094-2
-
-Lorsque la libéralité faite, soit en propriété et en usufruit, soit en usufruit seulement, portera sur plus de la moitié des
-biens, chacun des enfants ou descendants aura, en ce qui concerne sa part de succession, la faculté d'exiger, moyennant
-sûretés suffisantes et garantie du maintien de l'équivalence initiale, que l'usufruit soit converti en une rente viagère
-d'égale valeur.
-
-Toutefois, cette faculté ne pourra pas s'exercer quant à l'usufruit du local d'habitation où le conjoint gratifié avait sa
-résidence principale à l'époque du décès, ni quant à l'usufruit des meubles meublant qui garnissent ce local.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 13 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 14 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 15 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 16 (V)
-	  - SPEC_APPLI: Loi n°2001-1135 2001-12-03 art. 25 I (dérogations à l'entrée en vigueur), II (ouverture des successions)
-	  - TXT_ASSOCIE: Code civil - art. 1097-1 (Ab)
-
-	**Créé par**:
-
-	  - Loi n°72-3 du 3 janvier 1972 - art. 6 () JORF 5 janvier 1972 en vigueur le 1er août 1972
-
-	**Abrogé par**:
-
-	  - Loi n°2001-1135 du 3 décembre 2001 - art. 21 () JORF 4 décembre 2001 en vigueur le 1er juillet 2002
-
-	**Cité par**:
-
-	  - Code civil - art. 1097-1 (Ab)
-	  - Code monétaire et financier - art. L112-2 (M)
 
 
 ###### Article 1096
@@ -48683,29 +48861,6 @@ chose fût à autrui.
 	  - Loi n°1804-03-06 promulguée le 16 mars 1804
 
 
-###### Article 1600
-
-On ne peut vendre la succession d'une personne vivante, même de son consentement.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1804-03-06
-
-	**Créé par**:
-
-	  - Loi n°1804-03-06 promulguée le 16 mars 1804
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°2001-1135 2001-12-03 art. 25 (dérogations à l'entrée en vigueur), II (ouverture des successions)
-
-	**Abrogé par**:
-
-	  - Loi n°2001-1135 du 3 décembre 2001 - art. 21 () JORF 4 décembre 2001 en vigueur le 1er juillet 2002
-
-
 ###### Article 1601
 
 Si au moment de la vente la chose vendue était périe en totalité, la vente serait nulle.
@@ -51956,19 +52111,14 @@ En cas de divorce ou de séparation de corps, ce droit pourra être attribué, e
 familiaux en cause, par la juridiction saisie de la demande en divorce ou en séparation de corps, à l'un des époux, sous
 réserve des droits à récompense ou à indemnité au profit de l'autre époux.
 
+En cas de décès d'un des époux, le conjoint survivant cotitulaire du bail dispose d'un droit exclusif sur celui-ci sauf s'il
+y renonce expressément.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Loi n°1804-03-07
-
-	**Créé par**:
-
-	  - Loi n°1804-03-07 promulguée le 17 mars 1804
-
-	**Modifié par**:
-
-	  - Loi n°62-902 1962-08-04 JORF 7 août 1962 rectificatif JORF 15 août
 
 	**Cité par**:
 
@@ -51986,6 +52136,11 @@ réserve des droits à récompense ou à indemnité au profit de l'autre époux.
 	**Liens**:
 
 	  - SPEC_APPLI: Ordonnance 98-774 1998-09-02 art. 1 III (champ d'application territoriale Polynésie française et Nouvelle-Calédonie)
+	  - SPEC_APPLI: Loi n°2001-1135 2001-12-03 art. 26 (Mayotte, Nouvelle-Calédonie, Polynésie française, Wallis-et-Futuna)
+
+	**Modifié par**:
+
+	  - Loi n°2001-1135 du 3 décembre 2001 - art. 14 () JORF 4 décembre 2001 en vigueur le 1er juillet 2002
 
 
 #### Section 2 : Des règles particulières aux baux à loyer.

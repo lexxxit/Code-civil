@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1965-02-01
+Version Consolidée au 1965-06-05
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -530,63 +530,6 @@ pourront se pourvoir contre le jugement.
 
 ### Chapitre II : Des actes de naissance.
 
-###### Article 60
-
-(article abrogé).
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Décret n°65-422 du 1 juin 1965 - art. 12 (V) JORF 5 juin 1965
-
-	**Cité par**:
-
-	  - Décret n°65-422 du 1 juin 1965 - art. 12 (V)
-	  - Décret n°93-1091 du 16 septembre 1993 - art. 22 (V)
-	  - Arrêté du 23 décembre 2004 - art. 2 (V)
-	  - Décret n°2017-450 du 29 mars 2017 (V)
-	  - Décret n°2017-450 du 29 mars 2017 - art. 2
-	  - Code de procédure civile - art. 1055-2 (V)
-	  - Code de procédure civile - art. 1055-3 (V)
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-11
-
-	**Créé par**:
-
-	  - Loi n°1803-03-11 promulguée le 21 mars 1803
-
-
-###### Article 61
-
-(article abrogé).
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Décret n°53-1169 du 28 novembre 1953 - art. 2 (Ab)
-	  - Décret n°65-422 du 1 juin 1965 - art. 12 (V)
-	  - Décret n°2004-459 du 28 mai 2004 - art. 1 (VT)
-	  - Décret n°2015-1411 du 5 novembre 2015 - art. Annexe I (V)
-	  - Code de justice administrative - art. L311-2 (V)
-	  - Code des relations entre le public et l'adminis... - art. R221-15 (VD)
-
-	**Abrogé par**:
-
-	  - Décret n°65-422 du 1 juin 1965 - art. 12 (V) JORF 5 juin 1965
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-11
-
-	**Créé par**:
-
-	  - Loi n°1803-03-11 promulguée le 21 mars 1803
-
-
 #### Section 1 : Des déclarations de naissance.
 
 ###### Article 55
@@ -677,6 +620,46 @@ L'adjonction de prénoms pourra pareillement être décidée.
 
 	  - Code civil - art. 101 (V)
 	  - Code civil - art. 99 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-11
+
+	**Créé par**:
+
+	  - Loi n°1803-03-11 promulguée le 21 mars 1803
+
+
+#### Section 3 : De l'acte de reconnaissance.
+
+###### Article 62
+
+L'acte de reconnaissance d'un enfant naturel sera inscrit sur les registres à sa date ; il en sera fait mention en marge de
+l'acte de naissance, s'il en existe un, et il en sera donné avis, dans le mois, au juge du tribunal d'instance du canton de
+la naissance.
+
+Dans les circonstances prévues à l'article 59, la déclaration de reconnaissance pourra être reçue par les officiers
+instrumentaires désignés en cet article, et dans les formes qui y sont indiquées.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°65-422 du 1 juin 1965 - art. 12 (V) JORF 5 juin 1965
+	  - Décret-loi 1939-07-29 art. 109
+
+	**Cité par**:
+
+	  - Décret n°65-422 du 1 juin 1965 - art. 12 (V)
+	  - Loi n°2002-305 du 4 mars 2002 - art. 19 (V)
+	  - Code civil - art. 2499-1 (V)
+	  - Code civil - art. 316 (V)
+	  - Code civil - art. 335 (M)
+	  - Code disciplinaire et pénal de la marine marchande - art. 43 (VT)
+
+	**Cite**:
+
+	  - Code civil - art. 59 (V)
 
 	**Codifié par**:
 
@@ -1280,6 +1263,36 @@ par l'article 79.
 	  - Loi n°1803-03-11 promulguée le 21 mars 1803
 
 
+###### Article 86
+
+En cas de décès pendant un voyage maritime et dans les circonstances prévues à l'article 59, il en sera, dans les vingt-
+quatre heures, dressé acte par les officiers instrumentaires désignés en cet article et dans les formes qui y sont
+prescrites.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°65-422 du 1 juin 1965 - art. 12 (V) JORF 5 juin 1965
+
+	**Cité par**:
+
+	  - Décret n°65-422 du 1 juin 1965 - art. 12 (V)
+	  - Code disciplinaire et pénal de la marine marchande - art. 43 (VT)
+
+	**Cite**:
+
+	  - Code civil - art. 59 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-11
+
+	**Créé par**:
+
+	  - Loi n°1803-03-11 promulguée le 21 mars 1803
+
+
 ###### Article 87
 
 Lorsque le corps d'une personne décédée est retrouvé et peut être identifié, un acte de décès doit être dressé par l'officier
@@ -1514,30 +1527,6 @@ que sur l'attestation de deux déclarants.
 	  - Loi n°1803-03-11 promulguée le 21 mars 1803
 
 
-###### Article 94
-
-(article abrogé).
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Loi n°57-1232 du 28 novembre 1957 - art. 2 (Ab)
-	  - Décret n°65-422 du 1 juin 1965 - art. 12 (V)
-
-	**Abrogé par**:
-
-	  - Décret n°65-422 du 1 juin 1965 - art. 12 (V) JORF 5 juin 1965
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-11
-
-	**Créé par**:
-
-	  - Loi n°1803-03-11 promulguée le 21 mars 1803
-
-
 ###### Article 95
 
 Dans les cas prévus aux alinéas 2 et 3 de l'article 93, les actes de l'état civil sont dressés sur un registre spécial, dont
@@ -1587,6 +1576,39 @@ forces armées.
 	**Modifié par**:
 
 	  - Loi n°57-1232 du 28 novembre 1957 - art. 1 () JORF 29 novembre 1957
+
+
+###### Article 97
+
+Les actes de décès reçus par l'autorité militaire, dans tous les cas prévus à l'article 93 ci-dessus, ou par l'autorité
+civile pour des membres des forces armées, des civils participant à leur action, en service commandé, ou des personnes
+employées à la suite des armées, peuvent être l'objet d'une rectification administrative dans des conditions fixées par
+décret, dans les périodes et sur les territoires où l'autorité militaire est habilitée, par ledit article 93, à recevoir
+éventuellement ces actes.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°57-1232 du 28 novembre 1957 - art. 1 () JORF 29 novembre 1957
+	  - Décret n°65-422 du 1 juin 1965 - art. 12 (V) JORF 5 juin 1965
+
+	**Cité par**:
+
+	  - Décret n°65-422 du 1 juin 1965 - art. 12 (V)
+	  - Décret n°91-268 du 8 mars 1991 - art. 2 (V)
+
+	**Cite**:
+
+	  - Code civil - art. 93 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-11
+
+	**Créé par**:
+
+	  - Loi n°1803-03-11 promulguée le 21 mars 1803
 
 
 ### Chapitre VII : De la rectification des actes d'état civil.

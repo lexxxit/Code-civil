@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1803-03-24
+Version Consolidée au 1803-03-27
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -1198,5 +1198,708 @@ Le lieu où la succession s'ouvrira sera déterminé par le domicile.
 	**Créé par**:
 
 	  - Loi n°1803-03-14 promulguée le 24 mars 1803
+
+
+## Titre V : Du mariage
+
+### Chapitre Ier : Des qualités et conditions requises pour pouvoir contracter mariage
+
+###### Article 144
+
+L'homme avant dix-huit ans révolus, la femme avant quinze ans révolus, ne peuvent contracter mariage.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°2008-521 du 2 juin 2008 - art. 11 (V)
+	  - Loi n°2013-404 du 17 mai 2013 - art. 21 (V)
+	  - Code civil - art. 171-4 (V)
+	  - Code civil - art. 171-7 (V)
+	  - Code civil - art. 171-8 (V)
+	  - Code civil - art. 184 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°1803-03-17 promulguée le 27 mars 1803
+
+
+###### Article 146
+
+Il n'y a pas de mariage lorsqu'il n'y a point de consentement.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code civil - art. 170 (Ab)
+	  - Code civil - art. 171-4 (V)
+	  - Code civil - art. 171-7 (V)
+	  - Code civil - art. 171-8 (V)
+	  - Code civil - art. 175-2 (V)
+	  - Code civil - art. 184 (V)
+	  - Code civil - art. 202-1 (V)
+	  - Code civil - art. 63 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°1803-03-17 promulguée le 27 mars 1803
+
+
+###### Article 147
+
+On ne peut contracter un second mariage avant la dissolution du premier.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code civil - art. 171-4 (V)
+	  - Code civil - art. 171-7 (V)
+	  - Code civil - art. 171-8 (V)
+	  - Code civil - art. 184 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°1803-03-17 promulguée le 27 mars 1803
+
+
+###### Article 152
+
+(article abrogé).
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°1803-03-17 promulguée le 27 mars 1803
+
+
+###### Article 161
+
+En ligne directe, le mariage est prohibé entre tous les ascendants et descendants légitimes ou naturels, et les alliés dans
+la même ligne.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code civil - art. 164 (V)
+	  - Code civil - art. 171-4 (V)
+	  - Code civil - art. 171-7 (V)
+	  - Code civil - art. 171-8 (V)
+	  - Code civil - art. 184 (V)
+	  - Code civil - art. 310-2 (V)
+	  - Code civil - art. 334-10 (Ab)
+	  - Code civil - art. 342 (V)
+	  - Code civil - art. 342-7 (V)
+	  - Code civil - art. 356 (V)
+	  - Code civil - art. 364 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°1803-03-17 promulguée le 27 mars 1803
+
+
+### Chapitre II : Des formalités relatives à la célébration du mariage
+
+###### Article 167
+
+(article abrogé).
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°1803-03-17 promulguée le 27 mars 1803
+
+	**Abrogé par**:
+
+	  - Ordonnance 58-779 1958-12-23 art. 8 JORF 30 août 1958
+
+
+###### Article 168
+
+(article abrogé).
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°1803-03-17 promulguée le 27 mars 1803
+
+	**Abrogé par**:
+
+	  - Ordonnance 58-779 1958-12-23 art. 8 JORF 30 août 1958
+
+
+### Chapitre III : Des oppositions au mariage
+
+###### Article 172
+
+Le droit de former opposition à la célébration du mariage appartient à la personne engagée par mariage avec l'une des deux
+parties contractantes.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°2008-521 du 2 juin 2008 - art. 11 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°1803-03-17 promulguée le 27 mars 1803
+
+
+###### Article 175
+
+Dans les deux cas prévus par le précédent article, le tuteur ou curateur ne pourra, pendant la durée de la tutelle ou
+curatelle, former opposition qu'autant qu'il y aura été autorisé par un conseil de famille, qu'il pourra convoquer.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code civil - art. 174 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°1803-03-17 promulguée le 27 mars 1803
+
+
+### Chapitre IV : Des demandes en nullité de mariage
+
+###### Article 181
+
+Dans le cas de l'article précédent, la demande en nullité n'est plus recevable, toutes les fois qu'il y a eu cohabitation
+continuée pendant six mois depuis que l'époux a acquis sa pleine liberté ou que l'erreur a été par lui reconnue.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code civil - art. 180 (M)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°1803-03-17 promulguée le 27 mars 1803
+
+
+###### Article 182
+
+Le mariage contracté sans le consentement des père et mère, des ascendants, ou du conseil de famille, dans les cas où ce
+consentement était nécessaire, ne peut être attaqué que par ceux dont le consentement était requis, ou par celui des deux
+époux qui avait besoin de ce consentement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°1803-03-17 promulguée le 27 mars 1803
+
+	**Cité par**:
+
+	  - Ordonnance n°2010-590 du 3 juin 2010 - art. 9 (V)
+
+
+###### Article 183
+
+L'action en nullité ne peut plus être intentée ni par les époux, ni par les parents dont le consentement était requis, toutes
+les fois que le mariage a été approuvé expressément ou tacitement par ceux dont le consentement était nécessaire, ou
+lorsqu'il s'est écoulé une année sans réclamation de leur part, depuis qu'ils ont eu connaissance du mariage. Elle ne peut
+être intentée non plus par l'époux, lorsqu'il s'est écoulé une année sans réclamation de sa part, depuis qu'il a atteint
+l'âge compétent pour consentir par lui-même au mariage.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°1803-03-17 promulguée le 27 mars 1803
+
+
+###### Article 185
+
+Néanmoins, le mariage contracté par des époux qui n'avaient point encore l'âge requis, ou dont l'un des deux n'avait point
+atteint cet âge, ne peut plus être attaqué :
+
+1° lorsqu'il s'est écoulé six mois depuis que cet époux ou les époux ont atteint l'âge compétent ;
+
+2° lorsque la femme, qui n'avait point cet âge, a conçu avant l'échéance de six mois.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code civil - art. 184 (V)
+	  - TXT_ASSOCIE: Code civil - art. 186 (Ab)
+
+	**Cité par**:
+
+	  - Code civil - art. 186 (Ab)
+	  - Code civil - art. 190 (M)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°1803-03-17 promulguée le 27 mars 1803
+
+	**Abrogé par**:
+
+	  - Loi n°2007-1631 du 20 novembre 2007 - art. 37 () JORF 21 novembre 2007
+
+
+###### Article 186
+
+Le père, la mère, les ascendants et la famille qui ont consenti au mariage contracté dans le cas de l'article précédent ne
+sont point recevables à en demander la nullité.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code civil - art. 185 (Ab)
+
+	**Cite**:
+
+	  - Code civil - art. 185 (Ab)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°1803-03-17 promulguée le 27 mars 1803
+
+	**Abrogé par**:
+
+	  - Loi n°2007-1631 du 20 novembre 2007 - art. 37 () JORF 21 novembre 2007
+
+
+###### Article 187
+
+Dans tous les cas où, conformément à l'article 184, l'action en nullité peut être intentée par tous ceux qui y ont un
+intérêt, elle ne peut l'être par les parents collatéraux, ou par les enfants nés d'un autre mariage, du vivant des deux
+époux, mais seulement lorsqu'ils y ont un intérêt né et actuel.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code civil - art. 184 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°1803-03-17 promulguée le 27 mars 1803
+
+
+###### Article 188
+
+L'époux au préjudice duquel a été contracté un second mariage peut en demander la nullité, du vivant même de l'époux qui
+était engagé avec lui.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°1803-03-17 promulguée le 27 mars 1803
+
+
+###### Article 189
+
+Si les nouveaux époux opposent la nullité du premier mariage, la validité ou la nullité de ce mariage doit être jugée
+préalablement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°1803-03-17 promulguée le 27 mars 1803
+
+
+###### Article 190
+
+Le procureur de la République, dans tous les cas auxquels s'applique l'article 184 et sous les modifications portées en
+l'article 185, peut et doit demander la nullité du mariage, du vivant des deux époux, et les faire condamner à se séparer.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code civil - art. 184 (M)
+	  - Code civil - art. 185 (Ab)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°1803-03-17 promulguée le 27 mars 1803
+
+
+###### Article 191
+
+Tout mariage qui n'a point été contracté publiquement, et qui n'a point été célébré devant l'officier public compétent, peut
+être attaqué par les époux eux-mêmes, par les père et mère, par les ascendants et par tous ceux qui y ont un intérêt né et
+actuel, ainsi que par le ministère public.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code civil - art. 170-1 (Ab)
+	  - Code civil - art. 171-4 (V)
+	  - Code civil - art. 171-7 (V)
+	  - Code civil - art. 171-8 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°1803-03-17 promulguée le 27 mars 1803
+
+
+###### Article 193
+
+Les peines prononcées par l'article précédent seront encourues par les personnes qui y sont désignées, pour toute
+contravention aux règles prescrites par l'article 165, lors même que ces contraventions ne seraient pas jugées suffisantes
+pour faire prononcer la nullité du mariage.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code civil - art. 165 (V)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code civil - art. 192 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°1803-03-17 promulguée le 27 mars 1803
+
+
+###### Article 194
+
+Nul ne peut réclamer le titre d'époux et les effets civils du mariage, s'il ne représente un acte de célébration inscrit sur
+le registre de l'état civil ; sauf les cas prévus par l'article 46, au titre Des actes de l'état civil.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code civil - art. 197 (V)
+
+	**Cite**:
+
+	  - Code civil - art. 46 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°1803-03-17 promulguée le 27 mars 1803
+
+
+###### Article 195
+
+La possession d'état ne pourra dispenser les prétendus époux qui l'invoqueront respectivement, de représenter l'acte de
+célébration du mariage devant l'officier de l'état civil.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code civil - art. 197 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°1803-03-17 promulguée le 27 mars 1803
+
+
+###### Article 196
+
+Lorsqu'il y a possession d'état, et que l'acte de célébration du mariage devant l'officier de l'état civil est représenté,
+les époux sont respectivement non recevables à demander la nullité de cet acte.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°1803-03-17 promulguée le 27 mars 1803
+
+
+###### Article 197
+
+Si néanmoins, dans le cas des articles 194 et 195, il existe des enfants issus de deux individus qui ont vécu publiquement
+comme mari et femme, et qui soient tous deux décédés, la légitimité des enfants ne peut être contestée sous le seul prétexte
+du défaut de représentation de l'acte de célébration, toutes les fois que cette légitimité est prouvée par une possession
+d'état qui n'est point contredite par l'acte de naissance.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code civil - art. 194 (V)
+	  - Code civil - art. 195 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°1803-03-17 promulguée le 27 mars 1803
+
+
+###### Article 198
+
+Lorsque la preuve d'une célébration légale du mariage se trouve acquise par le résultat d'une procédure criminelle,
+l'inscription du jugement sur les registres de l'état civil assure au mariage, à compter du jour de sa célébration, tous les
+effets civils, tant à l'égard des époux qu'à l'égard des enfants issus de ce mariage.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°1803-03-17 promulguée le 27 mars 1803
+
+
+###### Article 199
+
+Si les époux ou l'un d'eux sont décédés sans avoir découvert la fraude, l'action criminelle peut être intentée par tous ceux
+qui ont intérêt de faire déclarer le mariage valable, et par le procureur de la République.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°1803-03-17 promulguée le 27 mars 1803
+
+
+###### Article 200
+
+Si l'officier public est décédé lors de la découverte de la fraude, l'action sera dirigée au civil contre ses héritiers, par
+le procureur de la République, en présence des parties intéressées, et sur leur dénonciation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°1803-03-17 promulguée le 27 mars 1803
+
+
+### Chapitre V : Des obligations qui naissent du mariage
+
+###### Article 203
+
+Les époux contractent ensemble, par le fait seul du mariage, l'obligation de nourrir, entretenir et élever leurs enfants.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi du 14 juillet 1908 - art. 26 (VT)
+	  - Loi n°1928-03-30 du 30 mars 1928 - art. 2 septies (V)
+	  - Loi n°1930-08-24 du 24 août 1930 - art. 7 (V)
+	  - Décret n°49-1416 du 5 octobre 1949 - art. 48 (Ab)
+	  - Décret n°60-323  du 2 avril 1960  - art. 72 (V)
+	  - Décret n°60-323  du 2 avril 1960  - art. 9 (VT)
+	  - Décret n°65-773 du 9 septembre 1965 - art. 54 (Ab)
+	  - Décret n°68-382 du 5 avril 1968 - art. 29 (M)
+	  - Décret n°68-960 du 11 octobre 1968 - art. 27 (V)
+	  - Loi n°88-1088 du 1 décembre 1988 - art. 23 (Ab)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*321-9 (M)
+	  - CODE DES COMMUNES. - art. L354-10 (Ab)
+	  - Code de l'action sociale et des familles - art. L228-1 (V)
+	  - Code de l'action sociale et des familles - art. L262-10 (VD)
+	  - Code de l'action sociale et des familles - art. L262-35 (V)
+	  - Code de la famille et de l'aide sociale. - art. 83 (Ab)
+	  - Code de la sécurité sociale. - art. L524-4 (VT)
+	  - Code des pensions de retraite des marins frança... - art. L30 (VT)
+	  - Code des pensions de retraite des marins français  - art. R21 (V)
+	  - Code des pensions militaires d'invalidité et de... - art. L163-1 (VD)
+	  - Code des pensions militaires d'invalidité et des v - art. L105 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°1803-03-17 promulguée le 27 mars 1803
+
+
+###### Article 204
+
+L'enfant n'a pas d'action contre ses père et mère pour un établissement par mariage ou autrement.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code de la famille et de l'aide sociale. - art. 83 (Ab)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°1803-03-17 promulguée le 27 mars 1803
+
+
+###### Article 209
+
+Lorsque celui qui fournit ou celui qui reçoit des aliments est replacé dans un état tel, que l'un ne puisse plus en donner,
+ou que l'autre n'en ait plus besoin en tout ou partie, la décharge ou réduction peut en être demandée.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code de la famille et de l'aide sociale. - art. 83 (Ab)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°1803-03-17 promulguée le 27 mars 1803
+
+
+###### Article 210
+
+Si la personne qui doit fournir des aliments justifie qu'elle ne peut payer la pension alimentaire, le tribunal pourra, en
+connaissance de cause, ordonner qu'elle recevra dans sa demeure, qu'elle nourrira et entretiendra celui auquel elle devra des
+aliments.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code de la famille et de l'aide sociale. - art. 83 (Ab)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°1803-03-17 promulguée le 27 mars 1803
+
+
+###### Article 211
+
+Le tribunal prononcera également si le père ou la mère qui offrira de recevoir, nourrir et entretenir dans sa demeure,
+l'enfant à qui il devra des aliments, devra dans ce cas être dispensé de payer la pension alimentaire.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code de la famille et de l'aide sociale. - art. 83 (Ab)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°1803-03-17 promulguée le 27 mars 1803
 
 

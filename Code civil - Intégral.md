@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1976-12-23
+Version Consolidée au 1977-01-01
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -55064,41 +55064,6 @@ payables aussi par préférence à l'amende.
 	**Nouveaux textes**:
 
 	  - Code civil - art. 2456 (V)
-
-	**Codifié par**:
-
-	  - Loi n°1804-03-19
-
-	**Créé par**:
-
-	  - Loi n°1804-03-19 promulguée le 29 mars 1804
-
-
-## Titre XIX : De la saisie et de la distribution du prix de vente de l'immeuble
-
-### Chapitre Ier : De la saisie.
-
-#### Section 5 : De la vente.
-
-##### Paragraphe 2 : Dispositions relatives à l'adjudication.
-
-###### Article 2205
-
-(article abrogé).
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Loi n°76-1286 du 31 décembre 1976 - art. 17 () JORF 1er janvier 1977
-
-	**Anciens textes**:
-
-	  - Code civil - art. 2092-3 (T)
-
-	**Cité par**:
-
-	  - Code de commerce. - art. L642-18 (VD)
 
 	**Codifié par**:
 

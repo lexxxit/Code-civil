@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1918-03-01
+Version Consolidée au 1919-08-09
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -650,6 +650,22 @@ des parties, et à l'officier de l'état civil, qui mettra son visa sur l'origin
 	**Cité par**:
 
 	  - Décret n°2005-1669 du 27 décembre 2005 - art. 2 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-11
+
+	**Créé par**:
+
+	  - Loi n°1803-03-11 promulguée le 21 mars 1803
+
+
+###### Article 69
+
+Si la publication a été faite dans plusieurs communes, l'officier de l'état civil de chaque commune transmettra sans délai à
+celui d'entre eux qui doit célébrer le mariage un certificat constatant qu'il n'existe point d'opposition.
+
+**Liens relatifs à cet article**
 
 	**Codifié par**:
 
@@ -1564,6 +1580,29 @@ parties contractantes.
 	  - Loi n°1803-03-17 promulguée le 27 mars 1803
 
 
+###### Article 173
+
+Le père, la mère, et, à défaut de père et de mère, les aïeuls et aïeules peuvent former opposition au mariage de leurs
+enfants et descendants, même majeurs.
+
+Après mainlevée judiciaire d'une opposition au mariage formée par un ascendant, aucune nouvelle opposition, formée par un
+ascendant, n'est recevable ni ne peut retarder la célébration.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code civil - art. 176 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°1803-03-17 promulguée le 27 mars 1803
+
+
 ###### Article 175
 
 Dans les deux cas prévus par le précédent article, le tuteur ou curateur ne pourra, pendant la durée de la tutelle ou
@@ -2055,6 +2094,48 @@ L'enfant n'a pas d'action contre ses père et mère pour un établissement par m
 	**Cité par**:
 
 	  - Code de la famille et de l'aide sociale. - art. 83 (Ab)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°1803-03-17 promulguée le 27 mars 1803
+
+
+###### Article 206
+
+Les gendres et belles-filles doivent également, et dans les mêmes circonstances, des aliments à leur beau-père et belle-mère,
+mais cette obligation cesse lorsque celui des époux qui produisait l'affinité et les enfants issus de son union avec l'autre
+époux sont décédés.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°1928-03-30 du 30 mars 1928 - art. 2 septies (V)
+	  - Décret n°1933-11-21 du 21 novembre 1933 - art. 11 (Ab)
+	  - Décret n°65-773 du 9 septembre 1965 - art. 54 (Ab)
+	  - Décret n°68-382 du 5 avril 1968 - art. 29 (M)
+	  - Décret n°68-960 du 11 octobre 1968 - art. 27 (M)
+	  - Décret n°76-303 du 2 avril 1976 - art. 2 (V)
+	  - Décret n°2014-945 du 21 août 2014 - art. 1 (VT)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*321-9 (M)
+	  - CODE DES COMMUNES. - art. L354-10 (Ab)
+	  - Code de l'action sociale et des familles - art. L314-12-1 (V)
+	  - Code de l'action sociale et des familles - art. L315-16 (V)
+	  - Code de la famille et de l'aide sociale. - art. 83 (Ab)
+	  - Code de la santé publique - art. L6145-11 (V)
+	  - Code de la santé publique - art. L708 (T)
+	  - Code de la santé publique - art. L714-38 (Ab)
+	  - Code de la santé publique - art. R6145-4 (V)
+	  - Code des pensions de retraite des marins frança... - art. L30 (VT)
+	  - Code des pensions de retraite des marins français  - art. R21 (V)
+	  - Code des pensions militaires d'invalidité et de... - art. L163-1 (VD)
+	  - Code des pensions militaires d'invalidité et des v - art. L105 (V)
+	  - Code du service national - art. R*56 (V)
+	  - Décret n°1928-04-07 du 7 avril 1928 - art. 15 (Ab)
 
 	**Codifié par**:
 

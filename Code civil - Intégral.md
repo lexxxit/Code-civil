@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1966-12-29
+Version Consolidée au 1967-07-01
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -27398,6 +27398,48 @@ conservée, en faisant déterminer le prix par la ventilation.
 	  - Ordonnance n°2013-516 du 20 juin 2013 - art. 1 (VD)
 
 
+### Chapitre III-1 : De la vente d'immeubles à construire.
+
+###### Article 1601-3
+
+La vente en l'état futur d'achèvement est le contrat par lequel le vendeur transfère immédiatement à l'acquéreur ses droits
+sur le sol ainsi que la propriété des constructions existantes. Les ouvrages à venir deviennent la propriété de l'acquéreur
+au fur et à mesure de leur exécution ; l'acquéreur est tenu d'en payer le prix à mesure de l'avancement des travaux.
+
+Le vendeur conserve les pouvoirs de maître de l'ouvrage jusqu'à la réception des travaux.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°67-3 du 3 janvier 1967 - art. 1 () JORF 4 janvier 1967 en vigueur le 1er juillet 1967
+
+	**Cité par**:
+
+	  - Loi n°67-3 du 3 janvier 1967 - art. 6 (V)
+	  - Loi n°67-3 du 3 janvier 1967 - art. 7 (V)
+	  - Loi n°71-579 du 16 juillet 1971 - art. 22 (Ab)
+	  - Loi n°85-704 du 12 juillet 1985 - art. 1 (V)
+	  - Code de l'urbanisme - art. L112-2 (VT)
+	  - Code de l'urbanisme - art. L142-2 (V)
+	  - Code de l'urbanisme - art. R*315-2 (M)
+	  - Code de la construction et de l'habitation. - art. L213-5 (V)
+	  - Code de la construction et de l'habitation. - art. L261-10 (V)
+	  - Code de la construction et de l'habitation. - art. L261-11 (VD)
+	  - Code de la construction et de l'habitation. - art. L261-3 (M)
+	  - Code de la construction et de l'habitation. - art. L433-2 (V)
+	  - Code de la construction et de l'habitation. - art. R*261-7 (V)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 98-774 1998-09-02 art. 1 II (champ d'application territoriale Polynésie française)
+	  - PILOTE_SUIVEUR: Code de la construction et de l'habitation. - art. L261-3 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-06
+
+
 ### Chapitre IV : Des obligations du vendeur
 
 #### Section 1 : Dispositions générales.
@@ -41473,6 +41515,40 @@ Elle court encore pendant les trois mois pour faire inventaire, et les quarante 
 
 
 ### Chapitre V : Du temps requis pour prescrire.
+
+###### Article 2270
+
+Les architectes, entrepreneurs et autres personnes liées au maître de l'ouvrage par un contrat de louage d'ouvrage sont
+déchargés de la garantie des ouvrages qu'ils ont faits ou dirigés après dix ans s'il s'agit de gros ouvrages, après deux ans
+pour les menus ouvrages.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°67-3 du 3 janvier 1967 - art. 4 () JORF 4 janvier 1967 en vigueur le 1er juillet 1967
+
+	**Cité par**:
+
+	  - Décret n°76-87 du 21 janvier 1976 - art. Annexe article 45 (VT)
+	  - Loi n°78-12 du 4 janvier 1978 - art. 9 (V)
+	  - Décret n°96-478 du 31 mai 1996 - art. 34 (V)
+	  - Arrêté du 8 septembre 2009 - art. 44 (VD)
+	  - Code de la construction et de l'habitation. - art. L111-24 (M)
+	  - Code de la construction et de l'habitation. - art. R*111-24 (V)
+	  - Code de la construction et de l'habitation. - art. R*111-25 (V)
+	  - Code de la construction et de l'habitation. - art. R*231-11 (M)
+	  - Code des assurances - art. Annexe I art A243-1 (V)
+	  - Code des assurances - art. L243-2 (M)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-15
+
+	**Créé par**:
+
+	  - Loi n°1804-03-15 promulguée le 25 mars 1804
+
 
 #### Section 1 : Dispositions générales.
 

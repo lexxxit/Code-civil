@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1992-12-12
+Version Consolidée au 1993-01-05
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -137,6 +137,35 @@ On ne peut déroger, par des conventions particulières, aux lois qui intéresse
 
 
 # Livre Ier : Des personnes
+
+## Titre Ier : De la jouissance et de la privation des droits civils.
+
+### Chapitre Ier : De la jouissance des droits civils.
+
+###### Article 9-1
+
+Chacun a droit au respect de la présomption d'innocence.
+
+Lorsqu'une personne est, avant toute condamnation, présentée publiquement comme étant coupable de faits faisant l'objet d'une
+enquête ou d'une instruction judiciaire, le juge peut, même en référé, ordonner l'insertion d'une rectification ou la
+diffusion d'un communiqué aux fins de faire cesser l'atteinte à la présomption d'innocence, sans préjudice d'une action en
+réparation des dommages subis et des autres mesures qui peuvent être prescrites en application du nouveau code de procédure
+civile et ce, aux frais de la personne, physique ou morale, responsable de l'atteinte à la présomption d'innocence.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-08
+
+	**Créé par**:
+
+	  - Loi n°93-2 1993-01-05 art. 47 JORF 5 janvier 1993
+
+	**Cité par**:
+
+	  - Ordonnance n°96-267 du 28 mars 1996 - art. 3 (V)
+
 
 ## Titre II : Des actes de l'état civil
 

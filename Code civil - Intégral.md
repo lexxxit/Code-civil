@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1972-01-01
+Version Consolidée au 1972-07-09
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -41358,6 +41358,90 @@ présents et à venir.
 	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 3 () JORF 24 mars 2006
 
 
+###### Article 2092-1
+
+Les biens du débiteur peuvent être appréhendés alors même qu'ils seraient détenus par des tiers.
+
+L'appréhension s'opère selon les règles propres à la nature de chacun d'eux.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-19
+
+	**Créé par**:
+
+	  - Loi n°72-626 du 5 juillet 1972 - art. 2 () JORF 9 juillet 1972
+
+	**Abrogé par**:
+
+	  - Loi n°91-650 du 9 juillet 1991 - art. 94 (VT) JORF 14 juillet 1991 en vigueur le 1er août 1992
+
+
+###### Article 2092-2
+
+Ne peuvent être saisis :
+
+1° Les biens que la loi déclare insaisissables ;
+
+2° Les provisions, sommes et pensions à caractère alimentaire, encore que le titre en vertu duquel elles sont dues ne les
+déclare pas insaisissables, si ce n'est pour aliments fournis à la partie saisie ;
+
+3° Les biens disponibles déclarés insaisissables par le testateur ou le donateur, si ce n'est, avec la permission du juge et
+pour la portion qu'il détermine, par les créanciers postérieurs à l'acte de donation ou à l'ouverture du legs ;
+
+4° Les biens mobiliers nécessaires à la vie et au travail du saisi et de sa famille, si ce n'est pour paiement de leur prix,
+dans les limites fixées par le code de procédure civile.
+
+Les immeubles par destination ne peuvent être saisis indépendamment de l'immeuble que pour paiement de leur prix.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-19
+
+	**Créé par**:
+
+	  - Loi n°72-626 du 5 juillet 1972 - art. 2 () JORF 9 juillet 1972
+
+	**Cité par**:
+
+	  - Loi n°72-626 du 5 juillet 1972 - art. 16 (V)
+
+	**Abrogé par**:
+
+	  - Loi n°91-650 du 9 juillet 1991 - art. 94 (VT) JORF 14 juillet 1991 en vigueur le 1er août 1992
+
+
+###### Article 2092-3
+
+Les biens saisis sont indisponibles.
+
+Les baux consentis par le saisi sont, quelle que soit leur durée, inopposables aux créanciers poursuivants.
+
+Les mêmes règles sont applicables aux biens saisis, hypothéqués ou nantis à titre conservatoire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-19
+
+	**Créé par**:
+
+	  - Loi n°72-626 du 5 juillet 1972 - art. 2 () JORF 9 juillet 1972
+
+	**Cité par**:
+
+	  - Loi n°91-650 du 9 juillet 1991 - art. 94 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2205 (AbD)
+
+
 ###### Article 2093
 
 Les biens du débiteur sont le gage commun de ses créanciers ; et le prix s'en distribue entre eux par contribution, à moins
@@ -46066,6 +46150,31 @@ décret en Conseil d'Etat prévu à l'article 23 et, au plus tard, le 1er janvie
 	**Créé par**:
 
 	  - Loi n°1804-03-19 promulguée le 29 mars 1804
+
+
+###### Article 2204-1
+
+Les poursuites et la vente forcée produisent à l'égard des parties et des tiers les effets déterminés par le code de
+procédure civile.
+
+**Nota:**
+
+NOTA : Ordonnance 2006-461 2006-04-21 art. 23 : La présente ordonnance entrera en vigueur à la date de l'entrée en vigueur du
+décret en Conseil d'Etat prévu à l'article 23 et, au plus tard, le 1er janvier 2007.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-19
+
+	**Créé par**:
+
+	  - Loi n°72-626 du 5 juillet 1972 - art. 3 () JORF 9 juillet 1972
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-461 du 21 avril 2006 - art. 2 () JORF 22 avril 2006 en vigueur au plus tard le 1er janvier 2007
 
 
 ###### Article 2206

@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1974-07-07
+Version Consolidée au 1975-07-09
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -30091,6 +30091,45 @@ peine n'est encourue que lorsque celui qui s'est obligé soit à livrer, soit à
 	  - Loi n°1804-02-07 promulguée le 17 février 1804
 
 
+###### Article 1231
+
+Lorsque l'engagement a été exécuté en partie, la peine convenue peut être diminuée par le juge à proportion de l'intérêt que
+l'exécution partielle a procuré au créancier, sans préjudice de l'application de l'article 1152. Toute stipulation contraire
+sera réputée non écrite.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-597 1975-07-09 art. 3
+
+	**Cité par**:
+
+	  - Loi n°78-22 du 10 janvier 1978 - art. 20 (Ab)
+	  - Loi n°79-596 du 13 juillet 1979 - art. 13 (Ab)
+	  - Ordonnance n°2002-1476 du 19 décembre 2002 - art. 10 (V)
+	  - Ordonnance n°2013-516 du 20 juin 2013 - art. 1 (V)
+	  - Code de la consommation - art. L311-24 (VT)
+	  - Code de la consommation - art. L311-30 (VT)
+	  - Code de la consommation - art. L312-22 (VT)
+	  - Code de la consommation - art. L312-39 (VD)
+	  - Code de la consommation - art. L313-51 (VD)
+	  - Code de la consommation - art. L314-14-1 (VT)
+	  - Code de la consommation - art. L315-23 (VD)
+
+	**Cite**:
+
+	  - Code civil - art. 1152 (M)
+
+
 ###### Article 1232
 
 Lorsque l'obligation primitive contractée avec une clause pénale est d'une chose indivisible, la peine est encourue par la
@@ -32745,6 +32784,35 @@ même exploit, après lequel les autres demandes dont il n'y aura point de preuv
 
 	  - SPEC_APPLI: Ordonnance 98-774 1998-09-02 art. 1 I (champ d'application territoriale aux TOM et à Mayotte)
 	  - TXT_ASSOCIE: Code civil - art. 1345 (M)
+
+
+###### Article 1347
+
+Les règles ci-dessus reçoivent exception lorsqu'il existe un commencement de preuve par écrit.
+
+On appelle ainsi tout acte par écrit qui est émané de celui contre lequel la demande est formée, ou de celui qu'il
+représente, et qui rend vraisemblable le fait allégué.
+
+Peuvent être considérées par le juge comme équivalant à un commencement de preuve par écrit les déclarations faites par une
+partie lors de sa comparution personnelle, son refus de répondre ou son absence à la comparution.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+	**Cité par**:
+
+	  - Loi n°57-298 du 11 mars 1957 - art. 31 (Ab)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 98-774 1998-09-02 art. 1 I (champ d'application territoriale aux TOM et à Mayotte)
 
 
 ###### Article 1348

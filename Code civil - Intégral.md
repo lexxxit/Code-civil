@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1968-11-01
+Version Consolidée au 1968-11-28
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -38802,6 +38802,121 @@ Les privilèges sont ou généraux, ou particuliers sur certains meubles.
 
 #### Section I : Des privilèges sur les meubles
 
+##### Paragraphe I : Des privilèges généraux sur les meubles.
+
+###### Article 2101
+
+Les créances privilégiées sur la généralité des meubles sont celles ci-après exprimées, et s'exercent dans l'ordre suivant :
+
+1° Les frais de justice ;
+
+2° Les frais funéraires ;
+
+3° Les frais quelconques de la dernière maladie, quelle qu'en ait été la terminaison, concurremment entre ceux à qui ils sont
+dus ;
+
+4° Les salaires des gens de service, pour l'année échue et ce qui est dû de l'année courante, les sommes pour lesquelles un
+privilège est établi à l'article 549 du code de commerce et les appointements de tous ceux qui louent leurs services, pour
+les six derniers mois ;
+
+5° Les fournitures de subsistances faites au débiteur et à sa famille pendant la dernière année et, pendant le même délai,
+les produits livrés par un producteur agricole dans le cadre d'un accord interprofessionnel à long terme homologué ;
+
+6° La créance de la victime de l'accident ou de ses ayants droit relative aux frais médicaux, pharmaceutiques et funéraires,
+ainsi qu'aux indemnités allouées à la suite de l'incapacité temporaire de travail ;
+
+7° Les allocations dues aux ouvriers et employés par les caisses de compensation et autres institutions agréées pour le
+service des allocations familiales ou par les employeurs dispensés de l'affiliation à une telle institution en vertu de
+l'article 74 f du livre Ier du code du travail ;
+
+8° Les créances des caisses de compensation et autres institutions agréées pour le service des allocations familiales à
+l'égard de leurs adhérents, pour les cotisations que ceux-ci se sont engagés à leur verser en vue du paiement des allocations
+familiales et de la péréquation des charges résultant du versement desdites prestations.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-19
+
+	**Créé par**:
+
+	  - Loi n°1804-03-19 promulguée le 29 mars 1804
+
+	**Cité par**:
+
+	  - Loi n°1913-07-03 du 3 juillet 1913 - art. 11 (M)
+	  - Loi n°1922-07-22 du 22 juillet 1922 - art. 24 (M)
+	  - Loi n°1924-06-01 du 1 juin 1924 - art. 47 (M)
+	  - Loi n°1928-03-30 du 30 mars 1928 - art. 2 septies (M)
+	  - Ordonnance n°45-2456 du 19 octobre 1945 - art. 55 (M)
+	  - Décret n°46-2769 du 27 novembre 1946 - art. 65 (M)
+	  - Décret n°49-1416 du 5 octobre 1949 - art. 48 (Ab)
+	  - Loi n°52-1322 du 15 décembre 1952 - art. 103 (M)
+	  - Loi n°52-1322 du 15 décembre 1952 - art. 104 (M)
+	  - Loi n°52-1322 du 15 décembre 1952 - art. 44 (M)
+	  - Loi n°57-298 du 11 mars 1957 - art. 58 (Ab)
+	  - Loi n°57-298 du 11 mars 1957 - art. 63-6 (Ab)
+	  - Décret n°65-773 du 9 septembre 1965 - art. 54 (Ab)
+	  - Loi n°67-563 du 13 juillet 1967 - art. 50 (Ab)
+	  - Décret n°68-253 du 19 mars 1968 - art. 38 (Ab)
+	  - Décret n°68-382 du 5 avril 1968 - art. 29 (M)
+	  - Décret n°68-960 du 11 octobre 1968 - art. 27 (M)
+	  - Loi n°85-98 du 25 janvier 1985 - art. 128 (Ab)
+	  - Loi n°85-98 du 25 janvier 1985 - art. 76 (Ab)
+	  - Loi n°86-845 du 17 juillet 1986 - art. 21 (M)
+	  - Arrêté du 15 mars 1988 - art. Annexe (M)
+	  - Loi n°89-1008 du 31 décembre 1989 - art. 14 (M)
+	  - Loi n°90-9 du 2 janvier 1990 - art. 5 (Ab)
+	  - Ordonnance n°2006-344 du 23 mars 2006 - art. 8 (MMN)
+	  - CODE DES COMMUNES. - art. L354-10 (Ab)
+	  - Code civil - art. 2121 (T)
+	  - Code de commerce. - art. L626-20 (VT)
+	  - Code de l'aviation civile - art. L426-5 (M)
+	  - Code de la mutualité - art. L212-23 (M)
+	  - Code de la mutualité - art. L222-9 (MMN)
+	  - Code de la sécurité sociale. - art. L243-4 (M)
+	  - Code de la sécurité sociale. - art. L731-13 (T)
+	  - Code de la sécurité sociale. - art. L732-7 (Ab)
+	  - Code de la sécurité sociale. - art. L931-22 (M)
+	  - Code de la sécurité sociale. - art. R612-4 (M)
+	  - Code des assurances - art. L142-4 (Ab)
+	  - Code des assurances - art. L143-7 (M)
+	  - Code des assurances - art. L327-2 (M)
+	  - Code des pensions civiles et militaires de retrait - art. L56 (M)
+	  - Code des pensions de retraite des marins français  - art. L30 (M)
+	  - Code des pensions de retraite des marins français  - art. R21 (M)
+	  - Code des pensions militaires d'invalidité et des v - art. L105 (M)
+	  - Code du domaine public fluvial et de la navigation - art. 89 (M)
+	  - Code du domaine public fluvial et de la navigation - art. 91 (M)
+	  - Code du travail - art. L5424-14 (VD)
+	  - Code du travail - art. L731-7 (M)
+	  - Code rural - art. L321-11 (M)
+	  - Code rural - art. L321-21 (M)
+	  - Code rural - art. L321-21-1 (M)
+	  - Code rural - art. L631-15 (M)
+	  - Code rural - art. L752-25 (M)
+	  - Code rural ancien - art. 1033 (Ab)
+	  - Code rural ancien - art. 1051-3 (Ab)
+	  - Code rural ancien - art. 1234-23 (Ab)
+	  - Loi n°1807-09-05 du 5 septembre 1807 - art. 2 (M)
+	  - Loi n°1895-12-27 du 27 décembre 1895 - art. 4 (M)
+
+	**Modifié par**:
+
+	  - Loi n°64-678 1964-07-06 JORF 8 juillet 1964 rectificatif JORF 30 juillet 1964
+
+	**Cite**:
+
+	  - Code de commerce 549
+	  - Code civil - art. 2101 (M)
+	  - Code du travail 23, 29, 47, 74
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2331 (M)
+
+
 ##### Paragraphe II : Des privilèges sur certains meubles.
 
 ###### Article 2102
@@ -38946,6 +39061,82 @@ leurs droits dans l'ordre indiqué audit article.
 	**Cité par**:
 
 	  - Loi n°1933-01-14 du 14 janvier 1933 - art. 32 (M)
+
+
+#### Section III : Des privilèges généraux sur les immeubles
+
+###### Article 2104
+
+Les créances privilégiées sur la généralité des immeubles sont :
+
+1° Les frais de justice ;
+
+2° Les salaires des gens de service, pour l'année échue et ce qui est dû de l'année courante ; les sommes pour lesquelles un
+privilège est établi à l'article 530 du code de commerce, les salaires et appointements des ouvriers, commis et façonniers,
+tels que tisseurs, guimpiers et passementiers, ainsi que de tous ceux qui louent leurs services, pour les six derniers mois ;
+les indemnités prévues par l'article 23 du livre Ier du code du travail, soit à raison de l'inobservation du délai congé,
+soit à raison de la résiliation abusive du contrat ; le salaire différé, pour lequel un privilège est établi par l'article 73
+du décret du 29 juillet 1939, relatif à la famille et à la natalité françaises, pour l'année échue et l'année courante ; les
+indemnités dues pour les congés payés ; le tout sans préjudice de l'application éventuelle des dispositions de l'article 47 a
+du livre Ier du code du travail.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°1924-06-01 du 1 juin 1924 - art. 47 (M)
+	  - Décret n°55-22 du 4 janvier 1955 - art. 15 (M)
+	  - Loi n°57-298 du 11 mars 1957 - art. 58 (Ab)
+	  - Loi n°57-298 du 11 mars 1957 - art. 63-6 (Ab)
+	  - Loi n°67-563 du 13 juillet 1967 - art. 50 (Ab)
+	  - Loi n°85-98 du 25 janvier 1985 - art. 128 (Ab)
+	  - Loi n°85-98 du 25 janvier 1985 - art. 76 (Ab)
+	  - Loi n°86-845 du 17 juillet 1986 - art. 21 (M)
+	  - Loi n°89-1008 du 31 décembre 1989 - art. 14 (M)
+	  - Loi n°90-9 du 2 janvier 1990 - art. 5 (Ab)
+	  - Ordonnance n°2006-344 du 23 mars 2006 - art. 8 (MMN)
+	  - Ordonnance n°2006-461 du 21 avril 2006 - art. 24 (VT)
+	  - Code civil - art. 2105 (T)
+	  - Code civil - art. 2107 (T)
+	  - Code civil - art. 2324 (MMN)
+	  - Code de commerce. - art. L621-130 (T)
+	  - Code de commerce. - art. L621-78 (T)
+	  - Code de commerce. - art. L625-7 (M)
+	  - Code de commerce. - art. L626-20 (VT)
+	  - Code de la mutualité - art. L212-23 (M)
+	  - Code de la mutualité - art. L222-9 (MMN)
+	  - Code de la propriété intellectuelle - art. L131-8 (M)
+	  - Code de la sécurité sociale. - art. L931-22 (M)
+	  - Code des assurances - art. L142-4 (Ab)
+	  - Code des assurances - art. L327-2 (M)
+	  - Code du travail - art. L143-8 (M)
+	  - Code rural - art. L321-11 (M)
+	  - Code rural - art. L321-21 (M)
+	  - Code rural - art. L321-21-1 (M)
+
+	**Modifié par**:
+
+	  - Décret n°55-22 1955-01-04 JORF 7 janvier 1955 rectificatif JORF 27 janvier 1955
+	  - Ordonnance 59-71 1959-01-07 JORF 8 janvier 1959 rectificatif JORF 31 janvier 1959
+
+	**Cite**:
+
+	  - Ordonnance 67-581 1967-07-13 art. 2, art. 4
+	  - Code de commerce 530
+	  - Code du travail 23, 29, 47
+	  - Décret n°1939-07-29 art. 63
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2375 (M)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-19
+
+	**Créé par**:
+
+	  - Loi n°1804-03-19 promulguée le 29 mars 1804
 
 
 #### Section 4 : Comment se conservent les privilèges.

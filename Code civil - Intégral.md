@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1987-07-24
+Version Consolidée au 1988-01-06
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -32489,6 +32489,44 @@ des règles qui lui sont prescrites par les articles du présent chapitre.
 
 ### Chapitre VII : Des partages faits par les ascendants.
 
+###### Article 1075
+
+Les père et mère et autres ascendants peuvent faire, entre leurs enfants et descendants, la distribution et le partage de
+leurs biens.
+
+Cet acte peut se faire sous forme de donation-partage ou de testament-partage. Il est soumis aux formalités, conditions et
+règles prescrites pour les donations entre vifs dans le premier cas et des testaments dans le second, sous réserve de
+l'application des dispositions qui suivent.
+
+Si leurs biens comprennent une entreprise individuelle à caractère industriel, commercial, artisanal, agricole ou libéral,
+les père et mère et autres ascendants peuvent, dans les mêmes conditions et avec les mêmes effets, en faire sous forme de
+donation-partage, la distribution et le partage entre leurs enfants et descendants et d'autres personnes, sous réserve que
+les biens corporels et incorporels affectés à l'exploitation de l'entreprise entrent dans cette distribution et ce partage et
+que cette distribution et ce partage aient pour effet de n'attribuer à ces autres personnes que la propriété de tout ou
+partie de ces biens ou leur jouissance.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°88-15 1988-01-05 art. 52 III *champ d'application*
+
+	**Modifié par**:
+
+	  - Loi n°88-15 du 5 janvier 1988 - art. 42 () JORF 6 janvier 1988 rectificatif JORF 12 mars 1988
+
+	**Cité par**:
+
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 790 (M)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 790 A (M)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 790 B (M)
+	  - Code civil - art. 1075-2 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+
 ###### Article 1075-1
 
 Le partage fait par un ascendant ne peut être attaqué pour cause de lésion.
@@ -32703,6 +32741,32 @@ n'ait pas été prévu de réserve d'usufruit portant sur une somme d'argent.
 	**Cité par**:
 
 	  - Code civil - art. 1078-8 (V)
+
+
+###### Article 1078-1
+
+Le lot de certains gratifiés pourra être formé, en totalité ou en partie, des donations, soit rapportables, soit
+préciputaires, déjà reçues par eux de l'ascendant, eu égard éventuellement aux emplois et remplois qu'ils auront pu faire
+dans l'intervalle.
+
+La date d'évaluation applicable au partage anticipé sera également applicable aux donations antérieures qui lui auront été
+ainsi incorporées. Toute stipulation contraire sera réputée non écrite.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°88-15 1988-01-05 art. 52 III *champ d'application*
+
+	**Modifié par**:
+
+	  - Loi n°88-15 du 5 janvier 1988 - art. 42 () JORF 6 janvier 1988
+
+	**Cité par**:
+
+	  - Code civil - art. 1078-10 (V)
+	  - Code civil - art. 1078-7 (V)
+	  - Code général des impôts, CGI. - art. 776 A (V)
 
 
 ###### Article 1078-2
@@ -33441,73 +33505,6 @@ donataires, légataires ou héritiers, ne pourront, en aucun cas, opposer aux ap
 	**Modifié par**:
 
 	  - Ordonnance 59-71 1959-01-07 art. 25 JORF 8 janvier 1959
-
-
-### Chapitre VII : Des partages faits par les ascendants.
-
-###### Article 1075
-
-Les père et mère et autres ascendants peuvent faire, entre leurs enfants et descendants, la distribution et le partage de
-leurs biens.
-
-Cet acte peut se faire sous forme de donation-partage ou de testament-partage. Il est soumis aux formalités, conditions et
-règles prescrites pour les donations entre vifs dans le premier cas et des testaments dans le second, sous réserve de
-l'application des dispositions qui suivent.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°71-523 du 3 juillet 1971 - art. 11 () JORF 4 juillet 1971 en vigueur le 1er janvier 1972
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°71-523 du 3 juillet 1971 - art. 12 (V)
-	  - SPEC_APPLI: Loi n°71-523 du 3 juillet 1971 - art. 13 (V)
-
-	**Cité par**:
-
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 790 (M)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 790 A (M)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 790 B (M)
-	  - Code civil - art. 1075-2 (V)
-
-	**Codifié par**:
-
-	  - Loi n°1803-05-03
-
-	**Créé par**:
-
-	  - Loi n°1803-05-03 promulguée le 13 mai 1803
-
-
-#### Section 1 : Des donations-partages.
-
-###### Article 1078-1
-
-Le lot de certains enfants pourra être formé, en totalité ou en partie, des donations, soit rapportables, soit préciputaires,
-déjà reçues par eux de l'ascendant, eu égard éventuellement aux emplois et remplois qu'ils auront pu faire dans l'intervalle.
-
-La date d'évaluation applicable au partage anticipé sera également applicable aux donations antérieures qui lui auront été
-ainsi incorporées. Toute stipulation contraire sera réputée non écrite.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°71-523 du 3 juillet 1971 - art. 11 () JORF 4 juillet 1971 en vigueur le 1er janvier 1972
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°71-523 du 3 juillet 1971 - art. 12 (V)
-	  - SPEC_APPLI: Loi n°71-523 du 3 juillet 1971 - art. 13 (V)
-	  - TXT_ASSOCIE: Code civil - art. 1078-3 (M)
-
-	**Cité par**:
-
-	  - Code civil - art. 1078-10 (V)
-	  - Code civil - art. 1078-7 (V)
-	  - Code général des impôts, CGI. - art. 776 A (V)
 
 
 ### Chapitre IX : Des dispositions entre époux, soit par contrat de mariage, soit pendant le mariage.
@@ -48984,6 +48981,33 @@ d'accord entre elles, par ordonnance du président du tribunal statuant en la fo
 	  - TXT_ASSOCIE: Décret n°78-704 du 3 juillet 1978 - art. 17 (V)
 
 
+###### Article 1843-5
+
+Outre l'action en réparation du préjudice subi personnellement, un ou plusieurs associés peuvent intenter l'action sociale en
+responsabilité contre les gérants. Les demandeurs sont habilités à poursuivre la réparation du préjudice subi par la
+société ; en cas de condamnation, les dommages-intérêts sont alloués à la société.
+
+Est réputée non écrite toute clause des statuts ayant pour effet de subordonner l'exercice de l'action sociale à l'avis
+préalable ou à l'autorisation de l'assemblée ou qui comporterait par avance renonciation à l'exercice de cette action.
+
+Aucune décision de l'assemblée des associés ne peut avoir pour effet d'éteindre une action en responsabilité contre les
+gérants pour la faute commise dans l'accomplissement de leur mandat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°78-9 1978-01-04
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°88-15 1988-01-05 art. 52 II *champ d'application*
+
+	**Créé par**:
+
+	  - Loi n°88-15 du 5 janvier 1988 - art. 1 () JORF 6 janvier 1988
+
+
 ###### Article 1844
 
 Tout associé a le droit de participer aux décisions collectives.
@@ -49137,6 +49161,14 @@ jour où il statue sur le fond, cette régularisation a eu lieu.
 L'appartenance de l'usufruit de toutes les parts sociales à la même personne est sans conséquence sur l'existence de la
 société.
 
+En cas de dissolution, celle-ci entraîne la transmission universelle du patrimoine de la société à l'associé unique, sans
+qu'il y ait lieu à liquidation. Les créanciers peuvent faire opposition à la dissolution dans le délai de trente jours à
+compter de la publication de celle-ci. Une décision de justice rejette l'opposition ou ordonne soit le remboursement des
+créances, soit la constitution de garanties si la société en offre et si elles sont jugées suffisantes. La transmission du
+patrimoine n'est réalisée et il n'y a disparition de la personne morale qu'à l'issue du délai d'opposition ou, le cas
+échéant, lorsque l'opposition a été rejetée en première instance ou que le remboursement des créances a été effectué ou les
+garanties constituées.
+
 **Liens relatifs à cet article**
 
 	**Cité par**:
@@ -49185,7 +49217,11 @@ société.
 
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°81-1162 du 30 décembre 1981 - art. 33, v. init.
+	  - SPEC_APPLI: Loi n°88-15 1988-01-05 art. 52 II *champ d'application*
+
+	**Modifié par**:
+
+	  - Loi n°88-15 du 5 janvier 1988 - art. 2 () JORF 6 janvier 1988
 
 
 ###### Article 1844-6
@@ -49240,7 +49276,9 @@ d'inexécution de ses obligations par un associé, ou de mésentente entre assoc
 
 6° Par la dissolution anticipée prononcée par le tribunal dans le cas prévu à l'article 1844-5 ;
 
-7° Pour toute autre cause prévue par les statuts.
+7° Par l'effet d'un jugement ordonnant la liquidation judiciaire ou la cession totale des actifs de la société ;
+
+8° Pour toute autre cause prévue par les statuts.
 
 **Liens relatifs à cet article**
 
@@ -49272,27 +49310,31 @@ d'inexécution de ses obligations par un associé, ou de mésentente entre assoc
 
 	**Modifié par**:
 
-	  - Loi n°85-98 du 25 janvier 1985 - art. 218 () JORF 26 janvier 1986 en vigueur le 1er janvier 1986
+	  - Loi n°88-15 du 5 janvier 1988 - art. 3 () JORF 6 janvier 1988
 
 	**Cite**:
 
 	  - Code civil - art. 1844-5 (M)
 	  - Code civil - art. 1844-6 (V)
 
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°88-15 1988-01-06 art. 52 II *champ d'application*
+
 
 ###### Article 1844-8
 
-La dissolution de la société entraîne sa liquidation, hormis les cas prévus à l'article 1844-4. Elle n'a d'effet à l'égard
-des tiers qu'après sa publication.
+La dissolution de la société entraîne sa liquidation, hormis les cas prévus à l'article 1844-4 et au troisième alinéa de
+l'article 1844-5. Elle n'a d'effet à l'égard des tiers qu'après sa publication. 
 
 Le liquidateur est nommé conformément aux dispositions des statuts. Dans le silence de ceux-ci, il est nommé par les associés
 ou, si les associés n'ont pu procéder à cette nomination, par décision de justice. Le liquidateur peut être révoqué dans les
 mêmes conditions. La nomination et la révocation ne sont opposables aux tiers qu'à compter de leur publication. Ni la société
 ni les tiers ne peuvent, pour se soustraire à leurs engagements, se prévaloir d'une irrégularité dans la nomination ou dans
-la révocation du liquidateur, dès lors que celle-ci a été régulièrement publiée.
+la révocation du liquidateur, dès lors que celle-ci a été régulièrement publiée. 
 
 La personnalité morale de la société subsiste pour les besoins de la liquidation jusqu'à la publication de la clôture de
-celle-ci.
+celle-ci. 
 
 Si la clôture de la liquidation n'est pas intervenue dans un délai de trois ans à compter de la dissolution, le ministère
 public ou tout intéressé peut saisir le tribunal, qui fait procéder à la liquidation ou, si celle-ci a été commencée, à son
@@ -49308,13 +49350,18 @@ achèvement.
 
 	  - Loi n°78-9 1978-01-04
 
-	**Créé par**:
+	**Liens**:
 
-	  - Loi n°78-9 1978-01-04 JORF 5 janvier 1978 rectificatif JORF 15 janvier, 12 mai 1978 en vigueur le 1er juillet 1978
+	  - SPEC_APPLI: Loi n°88-15 1988-01-05 art. 52 II *champ d'application*
+
+	**Modifié par**:
+
+	  - Loi n°88-15 du 5 janvier 1988 - art. 2 () JORF 6 janvier 1988
 
 	**Cite**:
 
 	  - Code civil - art. 1844-4 (V)
+	  - Code civil - art. 1844-5 (V)
 
 
 ###### Article 1844-9

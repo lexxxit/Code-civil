@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1804-03-20
+Version Consolidée au 1804-03-24
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -22459,6 +22459,748 @@ Les règles concernant les rentes viagères sont établies au titre "Des contrat
 	**Créé par**:
 
 	  - Loi n°1804-03-09 promulguée le 19 mars 1804
+
+
+## Titre XI : Du dépôt et du séquestre
+
+### Chapitre Ier : Du dépôt en général et de ses diverses espèces.
+
+###### Article 1915
+
+Le dépôt, en général, est un acte par lequel on reçoit la chose d'autrui, à la charge de la garder et de la restituer en
+nature.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-14
+
+	**Créé par**:
+
+	  - Loi n°1804-03-14 promulguée le 24 mars 1804
+
+
+###### Article 1916
+
+Il y a deux espèces de dépôt : le dépôt proprement dit et le séquestre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-14
+
+	**Créé par**:
+
+	  - Loi n°1804-03-14 promulguée le 24 mars 1804
+
+
+### Chapitre II : Du dépôt proprement dit
+
+#### Section 1 : De la nature et de l'essence du contrat de dépôt.
+
+###### Article 1917
+
+Le dépôt proprement dit est un contrat essentiellement gratuit.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-14
+
+	**Créé par**:
+
+	  - Loi n°1804-03-14 promulguée le 24 mars 1804
+
+
+###### Article 1918
+
+Il ne peut avoir pour objet que des choses mobilières.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-14
+
+	**Créé par**:
+
+	  - Loi n°1804-03-14 promulguée le 24 mars 1804
+
+
+###### Article 1919
+
+Il n'est parfait que par la tradition réelle ou feinte de la chose déposée.
+
+La tradition feinte suffit quand le dépositaire se trouve déjà nanti, à quelque autre titre, de la chose que l'on consent à
+lui laisser à titre de dépôt.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-14
+
+	**Créé par**:
+
+	  - Loi n°1804-03-14 promulguée le 24 mars 1804
+
+
+###### Article 1920
+
+Le dépôt est volontaire ou nécessaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-14
+
+	**Créé par**:
+
+	  - Loi n°1804-03-14 promulguée le 24 mars 1804
+
+
+#### Section 2 : Du dépôt volontaire.
+
+###### Article 1921
+
+Le dépôt volontaire se forme par le consentement réciproque de la personne qui fait le dépôt et de celle qui le reçoit.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-14
+
+	**Créé par**:
+
+	  - Loi n°1804-03-14 promulguée le 24 mars 1804
+
+
+###### Article 1922
+
+Le dépôt volontaire ne peut régulièrement être fait que par le propriétaire de la chose déposée, ou de son consentement
+exprès ou tacite.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-14
+
+	**Créé par**:
+
+	  - Loi n°1804-03-14 promulguée le 24 mars 1804
+
+
+###### Article 1925
+
+Le dépôt volontaire ne peut avoir lieu qu'entre personnes capables de contracter.
+
+Néanmoins, si une personne capable de contracter accepte le dépôt fait par une personne incapable, elle est tenue de toutes
+les obligations d'un véritable dépositaire ; elle peut être poursuivie par le tuteur ou administrateur de la personne qui a
+fait le dépôt.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-14
+
+	**Créé par**:
+
+	  - Loi n°1804-03-14 promulguée le 24 mars 1804
+
+
+###### Article 1926
+
+Si le dépôt a été fait par une personne capable à une personne qui ne l'est pas, la personne qui a fait le dépôt n'a que
+l'action en revendication de la chose déposée, tant qu'elle existe dans la main du dépositaire, ou action en restitution
+jusqu'à concurrence de ce qui a tourné au profit de ce dernier.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-14
+
+	**Créé par**:
+
+	  - Loi n°1804-03-14 promulguée le 24 mars 1804
+
+
+#### Section 3 : Des obligations du dépositaire.
+
+###### Article 1927
+
+Le dépositaire doit apporter, dans la garde de la chose déposée, les mêmes soins qu'il apporte dans la garde des choses qui
+lui appartiennent.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code civil - art. 1928 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-14
+
+	**Créé par**:
+
+	  - Loi n°1804-03-14 promulguée le 24 mars 1804
+
+
+###### Article 1928
+
+La disposition de l'article précédent doit être appliquée avec plus de rigueur :
+
+1° si le dépositaire s'est offert lui-même pour recevoir le dépôt ;
+
+2° s'il a stipulé un salaire pour la garde du dépôt ;
+
+3° si le dépôt a été fait uniquement pour l'intérêt du dépositaire ;
+
+4° s'il a été convenu expressément que le dépositaire répondrait de toute espèce de faute.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code civil - art. 1927 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-14
+
+	**Créé par**:
+
+	  - Loi n°1804-03-14 promulguée le 24 mars 1804
+
+
+###### Article 1929
+
+Le dépositaire n'est tenu, en aucun cas, des accidents de force majeure, à moins qu'il n'ait été mis en demeure de restituer
+la chose déposée.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°49-1105 du 4 août 1949 - art. 13 (Ab)
+	  - Décret n°53-380 du 28 avril 1953 - art. 27 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-14
+
+	**Créé par**:
+
+	  - Loi n°1804-03-14 promulguée le 24 mars 1804
+
+
+###### Article 1930
+
+Il ne peut se servir de la chose déposée sans la permission expresse ou présumée du déposant.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-14
+
+	**Créé par**:
+
+	  - Loi n°1804-03-14 promulguée le 24 mars 1804
+
+
+###### Article 1931
+
+Il ne doit point chercher à connaître quelles sont les choses qui lui ont été déposées si elles lui ont été confiées dans un
+coffre fermé ou sous une enveloppe cachetée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-14
+
+	**Créé par**:
+
+	  - Loi n°1804-03-14 promulguée le 24 mars 1804
+
+
+###### Article 1932
+
+Le dépositaire doit rendre identiquement la chose même qu'il a reçue.
+
+Ainsi, le dépôt des sommes monnayées doit être rendu dans les mêmes espèces qu'il a été fait, soit dans le cas
+d'augmentation, soit dans le cas de diminution de leur valeur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-14
+
+	**Créé par**:
+
+	  - Loi n°1804-03-14 promulguée le 24 mars 1804
+
+
+###### Article 1933
+
+Le dépositaire n'est tenu de rendre la chose déposée que dans l'état où elle se trouve au moment de la restitution. Les
+détériorations qui ne sont pas survenues par son fait sont à la charge du déposant.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-14
+
+	**Créé par**:
+
+	  - Loi n°1804-03-14 promulguée le 24 mars 1804
+
+
+###### Article 1934
+
+Le dépositaire auquel la chose a été enlevée par une force majeure et qui a reçu un prix ou quelque chose à la place doit
+restituer ce qu'il a reçu en échange.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-14
+
+	**Créé par**:
+
+	  - Loi n°1804-03-14 promulguée le 24 mars 1804
+
+
+###### Article 1935
+
+L'héritier du dépositaire, qui a vendu de bonne foi la chose dont il ignorait le dépôt, n'est tenu que de rendre le prix
+qu'il a reçu, ou de céder son action contre l'acheteur, s'il n'a pas touché le prix.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-14
+
+	**Créé par**:
+
+	  - Loi n°1804-03-14 promulguée le 24 mars 1804
+
+
+###### Article 1936
+
+Si la chose déposée a produit des fruits qui aient été perçus par le dépositaire, il est obligé de les restituer. Il ne doit
+aucun intérêt de l'argent déposé, si ce n'est du jour où il a été mis en demeure de faire la restitution.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-14
+
+	**Créé par**:
+
+	  - Loi n°1804-03-14 promulguée le 24 mars 1804
+
+
+###### Article 1937
+
+Le dépositaire ne doit restituer la chose déposée qu'à celui qui la lui a confiée, ou à celui au nom duquel le dépôt a été
+fait, ou à celui qui a été indiqué pour le recevoir.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-14
+
+	**Créé par**:
+
+	  - Loi n°1804-03-14 promulguée le 24 mars 1804
+
+
+###### Article 1938
+
+Il ne peut pas exiger de celui qui a fait le dépôt, la preuve qu'il était propriétaire de la chose déposée.
+
+Néanmoins, s'il découvre que la chose a été volée, et quel en est le véritable propriétaire, il doit dénoncer à celui-ci le
+dépôt qui lui a été fait avec sommation de le réclamer dans un délai déterminé et suffisant. Si celui auquel la dénonciation
+a été faite néglige de réclamer le dépôt, le dépositaire est valablement déchargé par la tradition qu'il en fait à celui
+duquel il l'a reçu.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-14
+
+	**Créé par**:
+
+	  - Loi n°1804-03-14 promulguée le 24 mars 1804
+
+
+###### Article 1939
+
+En cas de mort naturelle ou civile (1) de la personne qui a fait le dépôt, la chose déposée ne peut être rendue qu'à son
+héritier.
+
+S'il y a plusieurs héritiers, elle doit être rendue à chacun d'eux pour leur part et portion.
+
+Si la chose déposée est indivisible, les héritiers doivent s'accorder entre eux pour la recevoir.
+
+**Nota:**
+
+(1) : La mort civile a été abolie par la loi du 31 mai 1854.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-14
+
+	**Créé par**:
+
+	  - Loi n°1804-03-14 promulguée le 24 mars 1804
+
+
+###### Article 1941
+
+Si le dépôt a été fait par un tuteur, par un mari ou par un administrateur, dans l'une de ces qualités, il ne peut être
+restitué qu'à la personne que ce tuteur, ce mari ou cet administrateur représentaient, si leur gestion ou leur administration
+est finie.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-14
+
+	**Créé par**:
+
+	  - Loi n°1804-03-14 promulguée le 24 mars 1804
+
+
+###### Article 1942
+
+Si le contrat de dépôt désigne le lieu dans lequel la restitution doit être faite, le dépositaire est tenu d'y porter la
+chose déposée. S'il y a des frais de transport, ils sont à la charge du déposant.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-14
+
+	**Créé par**:
+
+	  - Loi n°1804-03-14 promulguée le 24 mars 1804
+
+
+###### Article 1943
+
+Si le contrat ne désigne point le lieu de la restitution, elle doit être faite dans le lieu même du dépôt.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-14
+
+	**Créé par**:
+
+	  - Loi n°1804-03-14 promulguée le 24 mars 1804
+
+
+###### Article 1944
+
+Le dépôt doit être remis au déposant aussitôt qu'il le réclame, lors même que le contrat aurait fixé un délai déterminé pour
+la restitution ; à moins qu'il n'existe, entre les mains du dépositaire, une saisie-arrêt ou une opposition à la restitution
+et au déplacement de la chose déposée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-14
+
+	**Créé par**:
+
+	  - Loi n°1804-03-14 promulguée le 24 mars 1804
+
+
+###### Article 1945
+
+Le dépositaire infidèle n'est point admis au bénéfice de cession.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-14
+
+	**Créé par**:
+
+	  - Loi n°1804-03-14 promulguée le 24 mars 1804
+
+
+###### Article 1946
+
+Toutes les obligations du dépositaire cessent s'il vient à découvrir et à prouver qu'il est lui-même propriétaire de la chose
+déposée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-14
+
+	**Créé par**:
+
+	  - Loi n°1804-03-14 promulguée le 24 mars 1804
+
+
+#### Section 4 : Des obligations de la personne par laquelle le dépôt a été fait.
+
+###### Article 1947
+
+La personne qui a fait le dépôt est tenue de rembourser au dépositaire les dépenses qu'il a faites pour la conservation de la
+chose déposée, et de l'indemniser de toutes les pertes que le dépôt peut lui avoir occasionnées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-14
+
+	**Créé par**:
+
+	  - Loi n°1804-03-14 promulguée le 24 mars 1804
+
+
+###### Article 1948
+
+Le dépositaire peut retenir le dépôt jusqu'à l'entier paiement de ce qui lui est dû à raison du dépôt.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-14
+
+	**Créé par**:
+
+	  - Loi n°1804-03-14 promulguée le 24 mars 1804
+
+
+#### Section 5 : Du dépôt nécessaire.
+
+###### Article 1949
+
+Le dépôt nécessaire est celui qui a été forcé par quelque accident, tel qu'un incendie, une ruine, un pillage, un naufrage ou
+autre événement imprévu.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-14
+
+	**Créé par**:
+
+	  - Loi n°1804-03-14 promulguée le 24 mars 1804
+
+
+###### Article 1951
+
+Le dépôt nécessaire est d'ailleurs régi par toutes les règles précédemment énoncées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-14
+
+	**Créé par**:
+
+	  - Loi n°1804-03-14 promulguée le 24 mars 1804
+
+
+### Chapitre III : Du séquestre
+
+#### Section 1 : Des différentes espèces de séquestre.
+
+###### Article 1955
+
+Le séquestre est ou conventionnel ou judiciaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-14
+
+	**Créé par**:
+
+	  - Loi n°1804-03-14 promulguée le 24 mars 1804
+
+
+#### Section 2 : Du séquestre conventionnel.
+
+###### Article 1956
+
+Le séquestre conventionnel est le dépôt fait par une ou plusieurs personnes, d'une chose contentieuse, entre les mains d'un
+tiers qui s'oblige de la rendre, après la contestation terminée, à la personne qui sera jugée devoir l'obtenir.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-14
+
+	**Créé par**:
+
+	  - Loi n°1804-03-14 promulguée le 24 mars 1804
+
+	**Cité par**:
+
+	  - Ordonnance n°2016-728 du 2 juin 2016 - art. 1 (V)
+
+
+###### Article 1957
+
+Le séquestre peut n'être pas gratuit.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-14
+
+	**Créé par**:
+
+	  - Loi n°1804-03-14 promulguée le 24 mars 1804
+
+
+###### Article 1958
+
+Lorsqu'il est gratuit, il est soumis aux règles du dépôt proprement dit, sauf les différences ci-après énoncées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-14
+
+	**Créé par**:
+
+	  - Loi n°1804-03-14 promulguée le 24 mars 1804
+
+
+###### Article 1959
+
+Le séquestre peut avoir pour objet, non seulement des effets mobiliers, mais même des immeubles.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-14
+
+	**Créé par**:
+
+	  - Loi n°1804-03-14 promulguée le 24 mars 1804
+
+
+###### Article 1960
+
+Le dépositaire chargé du séquestre ne peut être déchargé avant la contestation terminée, que du consentement de toutes les
+parties intéressées, ou pour une cause jugée légitime.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-14
+
+	**Créé par**:
+
+	  - Loi n°1804-03-14 promulguée le 24 mars 1804
+
+
+#### Section 3 : Du séquestre ou dépôt judiciaire.
+
+###### Article 1961
+
+La justice peut ordonner le séquestre :
+
+1° Des meubles saisis sur un débiteur ;
+
+2° D'un immeuble ou d'une chose mobilière dont la propriété ou la possession est litigieuse entre deux ou plusieurs
+personnes ;
+
+3° Des choses qu'un débiteur offre pour sa libération.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-14
+
+	**Créé par**:
+
+	  - Loi n°1804-03-14 promulguée le 24 mars 1804
+
+
+###### Article 1962
+
+L'établissement d'un gardien judiciaire produit, entre le saisissant et le gardien, des obligations réciproques. Le gardien
+doit apporter, pour la conservation des effets saisis, les soins d'un bon père de famille.
+
+Il doit les représenter soit à la décharge du saisissant pour la vente, soit à la partie contre laquelle les exécutions ont
+été faites, en cas de mainlevée de la saisie.
+
+L'obligation du saisissant consiste à payer au gardien le salaire fixé par la loi.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-14
+
+	**Créé par**:
+
+	  - Loi n°1804-03-14 promulguée le 24 mars 1804
+
+
+###### Article 1963
+
+Le séquestre judiciaire est donné, soit à une personne dont les parties intéressées sont convenues entre elles, soit à une
+personne nommée d'office par le juge.
+
+Dans l'un et l'autre cas, celui auquel la chose a été confiée est soumis à toutes les obligations qu'emporte le séquestre
+conventionnel.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-14
+
+	**Créé par**:
+
+	  - Loi n°1804-03-14 promulguée le 24 mars 1804
 
 
 ## Titre XII : Des contrats aléatoires.

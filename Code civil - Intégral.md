@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1981-12-31
+Version Consolidée au 1982-02-06
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -55476,8 +55476,11 @@ famille et à la natalité françaises, pour l'année échue et l'année courant
 
 Les rémunérations pour les six derniers mois des salariés et apprentis ;
 
-Les indemnités dues en raison de l'inobservation du préavis fixé par l'article L. 122-3 ou du délai-congé prévu par l'article
-L. 122-6 ;
+L'indemnité de fin de contrat prévue à l'article L. 122-3-5 du code du travail et l'indemnité de précarité d'emploi prévue à
+l'article L. 124-4-4 du même code.
+
+L'indemnité due en raison de l'inobservation du délai-congé prévue à l'article L. 122-8 du code du travail et l'indemnité
+compensatrice prévue à l'article L. 122-32-6 du même code.
 
 Les indemnités dues pour les congés payés ;
 
@@ -55486,8 +55489,8 @@ d'établissement, des règlements de travail, des usages, des dispositions des a
 totalité de la portion inférieure ou égale au plafond visé à l'article L. 143-10 du code du travail et pour le quart de la
 portion supérieure audit plafond ;
 
-Les indemnités dues, le cas échéant, au salarié en application des articles L. 122-2-1, L. 122-3-2, L. 122-14-4 et L.
-122-14-6 alinéa 3.
+Les indemnités dues, le cas échéant, aux salariés, en application des articles L. 122-3-8, L. 122-3-9 (2è alinéa), L.
+122-14-4, L. 122-14-6 (3è alinéa), L. 122-32-7 et L. 122-32-9 du code du travail.
 
 5° Les fournitures de subsistances faites au débiteur et à sa famille pendant la dernière année et, pendant le même délai,
 les produits livrés par un producteur agricole dans le cadre d'un accord interprofessionnel à long terme homologué, ainsi que
@@ -55566,29 +55569,26 @@ familiales et de la péréquation des charges résultant du versement desdites p
 	  - Loi n°1807-09-05 du 5 septembre 1807 - art. 2 (M)
 	  - Loi n°1895-12-27 du 27 décembre 1895 - art. 4 (M)
 
-	**Modifié par**:
-
-	  - Loi n°80-502 1980-07-04 JORF 5 juillet 1980 rectificatif JORF 18 juillet, 3 août 1980
-
 	**Nouveaux textes**:
 
 	  - Code civil - art. 2331 (M)
 
 	**Cite**:
 
-	  - Décret n°1939-07-29 art. 63
 	  - Code du travail - art. L122-14 (Ab)
-	  - Code du travail - art. L122-2 (T)
 	  - Code du travail - art. L122-3 (T)
-	  - Code du travail - art. L122-6 (Ab)
+	  - Code du travail - art. L122-32 (M)
+	  - Code du travail - art. L122-8 (M)
 	  - Code du travail - art. L122-9 (Ab)
+	  - Code du travail - art. L124-4 (M)
 	  - Code du travail - art. L143-10 (M)
 	  - Code du travail - art. L143-11 (M)
 	  - Code du travail - art. L742-6 (V)
 	  - Code du travail - art. L751-15 (AbD)
 	  - Code du travail - art. L761-5 (AbD)
 	  - Code du travail - art. L761-7 (AbD)
-	  - Code du travail 74, L122-2, L122-3, L122-6, L122-9, L122-14, L143-10, L143-11, L742-6, L751-15, L761-5, L761-7
+	  - Code du travail 74, L122-3, L122-8, L122-9, L122-14, L122-32, L124-4, L143-10, L143-11, L742-6, L751-15, L761-5, L761-7
+	  - Décret n°1939-07-29 art. 63
 
 	**Codifié par**:
 
@@ -55838,18 +55838,21 @@ famille et à la natalité françaises, pour l'année échue et l'année courant
 
 Les rémunérations pour les six derniers mois des salariés et apprentis ;
 
-Les indemnités dues en raison de l'inobservation du préavis fixé par l'article L. 122-3 ou du délai-congé prévu par l'article
-L. 122-6 et l'indemnité compensatrice prévue à l'article L. 122-32-6 du code du travail ;
+L'indemnité de fin de contrat prévue à l'article L. 122-3-5 du code du travail et l'indemnité de précarité d'emploi prévue à
+l'article L. 124-4-4 du même code.
+
+L'indemnité due en raison de l'inobservation du délai-congé prévue à l'article L. 122-8 du code du travail et l'indemnité
+compensatrice prévue à l'article L. 122-32-6 du même code.
 
 Les indemnités dues pour les congés payés ;
 
 Les indemnités de licenciement dues en application des conventions collectives de travail, des accords collectifs
 d'établissement, des règlements de travail, des usages, des dispositions des articles L. 122-9, L. 122-32-6, L. 761-5 et L.
 761-7 pour la totalité de la portion inférieure ou égale au plafond visé à l'article L. 143-10 du code du travail et pour le
-quart de la portion supérieure audit plafond ;
+quart de la portion supérieure audit plafond.
 
-Les indemnités dues, le cas échéant, au salarié en application des articles L. 122-2-1, L. 122-3-2, L. 122-14-4, L. 122-14-6,
-alinéa 3, L. 122-32-7 et L. 122-32-9 du code du travail.
+Les indemnités dues, le cas échéant, aux salariés en application des articles L. 122-3-8, L. 122-3-9 (2è alinéa), L.
+122-14-4, L. 122-14-6 (3è alinéa), L. 122-32-7 et L. 122-32-9 du code du travail.
 
 **Liens relatifs à cet article**
 
@@ -55892,15 +55895,16 @@ alinéa 3, L. 122-32-7 et L. 122-32-9 du code du travail.
 	**Cite**:
 
 	  - Code du travail - art. L122-14 (Ab)
-	  - Code du travail - art. L122-2 (T)
 	  - Code du travail - art. L122-3 (T)
 	  - Code du travail - art. L122-32 (M)
-	  - Code du travail - art. L122-6 (Ab)
+	  - Code du travail - art. L122-8 (M)
 	  - Code du travail - art. L122-9 (Ab)
+	  - Code du travail - art. L124-4 (M)
 	  - Code du travail - art. L143-10 (M)
 	  - Code du travail - art. L143-11 (M)
 	  - Code du travail - art. L742-6 (V)
 	  - Code du travail - art. L751-15 (AbD)
+	  - Code du travail - art. L761-5 (AbD)
 	  - Code du travail - art. L761-7 (AbD)
 	  - Décret n°1939-07-29 art. 63
 

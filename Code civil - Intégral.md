@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1977-01-01
+Version Consolidée au 1977-07-01
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -24955,9 +24955,242 @@ en ce qu'elles ne sont pas contraires aux dispositions des articles 1000 et 1001
 	  - Loi n°1803-04-19 promulguée le 29 avril 1803
 
 
+### Chapitre VI : De l'administration de la succession par un mandataire.
+
+#### Section 1 : Du mandat à effet posthume.
+
+###### Article 815-5
+
+Un indivisaire peut être autorisé par justice à passer seul un acte pour lequel le consentement d'un coïndivisaire serait
+nécessaire, si le refus de celui-ci met en péril l'intérêt commun.
+
+Le juge ne peut toutefois, sinon aux fins de partage, autoriser la vente de la pleine propriété d'un bien grevé d'usufruit,
+contre la volonté de l'usufruitier.
+
+L'acte passé dans les conditions fixées par l'autorisation de justice est opposable à l'indivisaire dont le consentement a
+fait défaut.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°76-1286 du 31 décembre 1976 - art. 19 (V)
+	  - SPEC_APPLI: Loi n°87-498 du 6 juillet 1987 - art. 2 (V)
+
+	**Créé par**:
+
+	  - Loi n°76-1286 du 31 décembre 1976 - art. 3 () JORF 1er janvier 1977 en vigueur le 1er juillet 1977
+
+	**Cité par**:
+
+	  - Code civil - art. 818 (V)
+	  - Code civil - art. 819 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-04-19
+
+
 ### Chapitre VI : Du partage et des rapports (en vigueur jusqu'au 1er janvier 2007)
 
 #### Section 1 : De l'indivision et de l'action en partage.
+
+###### Article 815-1
+
+A défaut d'accord amiable, l'indivision de toute exploitation agricole constituant une unité économique et dont la mise en
+valeur était assurée par le défunt ou par son conjoint peut être maintenue, dans les conditions fixées par le tribunal, à la
+demande des personnes visées aux alinéas 3 et 4 ci-dessous. Le tribunal statue en fonction des intérêts en présence et des
+possibilités d'existence que la famille peut tirer des biens indivis. Le maintien de l'indivision demeure possible lorsque
+l'exploitation comprend des éléments dont l'héritier ou le conjoint était déjà propriétaire ou copropriétaire avant
+l'ouverture de la succession.
+
+L'indivision peut également être maintenue à la demande des mêmes personnes et dans les conditions fixées par le tribunal, en
+ce qui concerne la propriété du local d'habitation ou à usage professionnel qui, à l'époque du décès, était effectivement
+utilisé pour cette habitation ou à cet usage par le défunt ou son conjoint. Il en est de même des objets mobiliers servant à
+l'exercice de la profession.
+
+Si le défunt laisse un ou plusieurs descendants mineurs, le maintien de l'indivision peut être demandé, soit par le conjoint
+survivant, soit par tout héritier, soit par le représentant légal des mineurs.
+
+A défaut de descendants mineurs, le maintien de l'indivision ne peut être demandé que par le conjoint survivant et à la
+condition qu'il ait été avant le décès ou soit devenu du fait du décès, copropriétaire de l'exploitation agricole ou des
+locaux d'habitation ou à usage professionnel. S'il s'agit d'un local d'habitation, le conjoint doit avoir résidé dans les
+lieux à l'époque du décès.
+
+Le maintien dans l'indivision ne peut être prescrit pour une durée supérieure à cinq ans. Il peut être renouvelé, dans le cas
+prévu à l'alinéa 3, jusqu'à la majorité du plus jeune des descendants et, dans le cas prévu à l'alinéa 4, jusqu'au décès du
+conjoint survivant.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°76-1286 du 31 décembre 1976 - art. 19 (V)
+
+	**Créé par**:
+
+	  - Loi n°76-1286 du 31 décembre 1976 - art. 3 () JORF 1er janvier 1977 en vigueur le 1er juillet 1977
+
+	**Cité par**:
+
+	  - Décret n°2016-230 du 26 février 2016 - art.
+	  - Code civil - art. 832-1 (M)
+	  - Code civil - art. 832-3 (M)
+	  - Code rural - art. L321-25 (M)
+	  - Code rural - art. L411-2 (M)
+
+	**Codifié par**:
+
+	  - Loi n°1803-04-19
+
+
+###### Article 815-2
+
+Tout indivisaire peut prendre les mesures nécessaires à la conservation des biens indivis.
+
+Il peut employer à cet effet les fonds de l'indivision détenus par lui et il est réputé en avoir la libre disposition à
+l'égard des tiers.
+
+A défaut de fonds de l'indivision, il peut obliger ses coïndivisaires à faire avec lui les dépenses nécessaires.
+
+Lorsque des biens indivis sont grevés d'un usufruit, ces pouvoirs sont opposables à l'usufruitier dans la mesure où celui-ci
+est tenu des réparations.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-04-19
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°76-1286 du 31 décembre 1976 - art. 19 (V)
+
+	**Créé par**:
+
+	  - Loi n°76-1286 du 31 décembre 1976 - art. 3 () JORF 1er janvier 1977 en vigueur le 1er juillet 1977
+
+
+###### Article 815-3
+
+Les actes d'administration et de disposition relatifs aux biens indivis requièrent le consentement de tous les indivisaires.
+Ceux-ci peuvent donner à l'un ou à plusieurs d'entre eux un mandat général d'administration. Un mandat spécial est nécessaire
+pour tout acte qui ne ressortit pas à l'exploitation normale des biens indivis, ainsi que pour la conclusion et le
+renouvellement des baux.
+
+Si un indivisaire prend en main la gestion des biens indivis, au su des autres et néanmoins sans opposition de leur part, il
+est censé avoir reçu un mandat tacite, couvrant les actes d'administration mais non les actes de disposition ni la conclusion
+ou le renouvellement des baux.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°72-12 du 3 janvier 1972 - art. 10 bis (Ab)
+	  - Loi n°86-18 du 6 janvier 1986 - art. 19-1 (VD)
+	  - Loi n°2014-1170 du 13 octobre 2014 - art. 85
+	  - Loi n°2017-285 du 6 mars 2017 - art. 2 (V)
+	  - Code rural - art. L135-11 (V)
+	  - Code rural - art. L181-29 (VD)
+	  - Code rural - art. L183-24 (VD)
+	  - Code rural et de la pêche maritime - art. L181-14-1 (Ab)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°76-1286 du 31 décembre 1976 - art. 19 (V)
+
+	**Créé par**:
+
+	  - Loi n°76-1286 du 31 décembre 1976 - art. 3 () JORF 1er janvier 1977 en vigueur le 1er juillet 1977
+
+	**Codifié par**:
+
+	  - Loi n°1803-04-19
+
+
+###### Article 815-4
+
+Si l'un des indivisaires se trouve hors d'état de manifester sa volonté, un autre peut se faire habiliter par justice à le
+représenter, d'une manière générale ou pour certains actes particuliers, les conditions et l'étendue de cette représentation
+étant fixées par le juge.
+
+A défaut de pouvoir légal, de mandat ou d'habilitation par justice, les actes faits par un indivisaire en représentation d'un
+autre ont effet à l'égard de celui-ci, suivant les règles de la gestion d'affaires.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°76-1286 du 31 décembre 1976 - art. 19 (V)
+
+	**Créé par**:
+
+	  - Loi n°76-1286 du 31 décembre 1976 - art. 3 () JORF 1er janvier 1977 en vigueur le 1er juillet 1977
+
+	**Cité par**:
+
+	  - Code civil - art. 1873-8 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-04-19
+
+
+###### Article 815-6
+
+Le président du tribunal de grande instance peut prescrire ou autoriser toutes les mesures urgentes que requiert l'intérêt
+commun.
+
+Il peut, notamment, autoriser un indivisaire à percevoir des débiteurs de l'indivision ou des dépositaires de fonds indivis
+une provision destinée à faire face aux besoins urgents, en prescrivant, au besoin, les conditions de l'emploi. Cette
+autorisation n'entraîne pas prise de qualité pour le conjoint survivant ou pour l'héritier.
+
+Il peut également soit désigner un indivisaire comme administrateur en l'obligeant s'il y a lieu à donner caution, soit
+nommer un séquestre. Les articles 1873-5 à 1873-9 du présent code s'appliquent en tant que de raison aux pouvoirs et aux
+obligations de l'administrateur, s'ils ne sont autrement définis par le juge.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-04-19
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°76-1286 du 31 décembre 1976 - art. 19 (V)
+
+	**Créé par**:
+
+	  - Loi n°76-1286 du 31 décembre 1976 - art. 3 () JORF 1er janvier 1977 en vigueur le 1er juillet 1977
+
+	**Cité par**:
+
+	  - Code civil - art. 813-2 (V)
+
+	**Cite**:
+
+	  - Code civil 1873-5 à 1873-9
+
+
+###### Article 815-7
+
+Le président du tribunal peut aussi interdire le déplacement des meubles corporels sauf à spécifier ceux dont il attribue
+l'usage personnel à l'un ou à l'autre des ayants droit, à charge pour ceux-ci de donner caution s'il l'estime nécessaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-04-19
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°76-1286 du 31 décembre 1976 - art. 19 (V)
+
+	**Créé par**:
+
+	  - Loi n°76-1286 du 31 décembre 1976 - art. 3 () JORF 1er janvier 1977 en vigueur le 1er juillet 1977
+
 
 ###### Article 816
 
@@ -25554,31 +25787,6 @@ avec les formalités prescrites pour l'aliénation des biens des mineurs. Les é
 	**Cite**:
 
 	  - Code civil - art. 838 (M)
-
-
-###### Article 841
-
-Toute personne, même parente du défunt, qui n'est pas successible, et à laquelle un cohéritier aurait cédé son droit à la
-succession, peut être écartée du partage soit par tous les cohéritiers, soit par un seul, en lui remboursant le prix de la
-cession.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-04-19
-
-	**Créé par**:
-
-	  - Loi n°1803-04-19 promulguée le 29 avril 1803
-
-	**Abrogé par**:
-
-	  - Loi n°76-1286 du 31 décembre 1976 - art. 17 () JORF 1er janvier 1977 en vigueur le 1er juillet 1977
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°76-1286 du 31 décembre 1976 - art. 19 (V)
 
 
 ###### Article 842
@@ -26503,6 +26711,45 @@ formée.
 
 #### Section 4 : Des effets du partage et de la garantie des lots.
 
+###### Article 883
+
+Chaque cohéritier est censé avoir succédé seul et immédiatement à tous les effets compris dans son lot, ou à lui échus sur
+licitation, et n'avoir jamais eu la propriété des autres effets de la succession.
+
+Il en est de même des biens qui lui sont advenus par tout autre acte ayant pour effet de faire cesser l'indivision. Il n'est
+pas distingué selon que l'acte fait cesser l'indivision en tout ou partie, à l'égard de certains biens ou de certains
+héritiers seulement.
+
+Toutefois, les actes valablement accomplis soit en vertu d'un mandat des coïndivisaires, soit en vertu d'une autorisation
+judiciaire, conservent leurs effets quelle que soit, lors du partage, l'attribution des biens qui en ont fait l'objet.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code de la propriété intellectuelle - art. L613-30 (V)
+	  - Code rural et de la pêche maritime - art. L143-4 (V)
+	  - Loi n°62-933 du 8 août 1962 - art. 7 (Ab)
+	  - Loi n°67-5 du 3 janvier 1967 - art. 56 (V)
+	  - Loi n°68-1 du 2 janvier 1968 - art. 42 (Ab)
+
+	**Codifié par**:
+
+	  - Loi n°1803-04-19
+
+	**Créé par**:
+
+	  - Loi n°1803-04-19 promulguée le 29 avril 1803
+
+	**Modifié par**:
+
+	  - Loi n°76-1286 du 31 décembre 1976 - art. 18 () JORF 1er janvier 1977 en vigueur le 1er juillet 1977
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°76-1286 du 31 décembre 1976 - art. 19 (V)
+
+
 ###### Article 884
 
 Les cohéritiers demeurent respectivement garants, les uns envers les autres, des troubles et évictions seulement qui
@@ -26662,6 +26909,339 @@ violence si l'aliénation qu'il a faite est postérieure à la découverte du do
 	**Créé par**:
 
 	  - Loi n°1803-04-19 promulguée le 29 avril 1803
+
+
+### Chapitre VII : Du régime légal de l'indivision.
+
+#### Section 1 : Des actes relatifs aux biens indivis.
+
+###### Article 815-8
+
+Quiconque perçoit des revenus ou expose des frais pour le compte de l'indivision doit en tenir un état qui est à la
+disposition des indivisaires.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-04-19
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°76-1286 du 31 décembre 1976 - art. 19 (V)
+
+	**Créé par**:
+
+	  - Loi n°76-1286 du 31 décembre 1976 - art. 3 () JORF 1er janvier 1977 en vigueur le 1er juillet 1977
+
+
+###### Article 815-9
+
+Chaque indivisaire peut user et jouir des biens indivis conformément à leur destination, dans la mesure compatible avec le
+droit des autres indivisaires et avec l'effet des actes régulièrement passés au cours de l'indivision. A défaut d'accord
+entre les intéressés, l'exercice de ce droit est réglé, à titre provisoire, par le président du tribunal.
+
+L'indivisaire qui use ou jouit privativement de la chose indivise est, sauf convention contraire, redevable d'une indemnité.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-04-19
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°76-1286 du 31 décembre 1976 - art. 19 (V)
+
+	**Créé par**:
+
+	  - Loi n°76-1286 du 31 décembre 1976 - art. 3 () JORF 1er janvier 1977 en vigueur le 1er juillet 1977
+
+	**Cité par**:
+
+	  - Code civil - art. 1873-11 (V)
+
+
+###### Article 815-10
+
+Les fruits et les revenus des biens indivis accroissent à l'indivision, à défaut de partage provisionnel ou de tout autre
+accord établissant la jouissance divise.
+
+Aucune recherche relative aux fruits et revenus ne sera, toutefois, recevable plus de cinq ans après la date à laquelle ils
+ont été perçus ou auraient pu l'être.
+
+Chaque indivisaire a droit aux bénéfices provenant des biens indivis et supporte les pertes proportionnellement à ses droits
+dans l'indivision.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-04-19
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°76-1286 du 31 décembre 1976 - art. 19 (V)
+
+	**Créé par**:
+
+	  - Loi n°76-1286 du 31 décembre 1976 - art. 3 () JORF 1er janvier 1977 en vigueur le 1er juillet 1977
+
+
+###### Article 815-11
+
+Tout indivisaire peut demander sa part annuelle dans les bénéfices, déduction faite des dépenses entraînées par les actes
+auxquels il a consenti ou qui lui sont opposables.
+
+A défaut d'autre titre, l'étendue des droits de chacun dans l'indivision résulte de l'acte de notoriété ou de l'intitulé
+d'inventaire établi par le notaire.
+
+En cas de contestation, le président du tribunal de grande instance peut ordonner une répartition provisionnelle des
+bénéfices sous réserve d'un compte à établir lors de la liquidation définitive.
+
+A concurrence des fonds disponibles, il peut semblablement ordonner une avance en capital sur les droits de l'indivisaire
+dans le partage à intervenir.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-04-19
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°76-1286 du 31 décembre 1976 - art. 19 (V)
+
+	**Créé par**:
+
+	  - Loi n°76-1286 du 31 décembre 1976 - art. 3 () JORF 1er janvier 1977 en vigueur le 1er juillet 1977
+
+
+###### Article 815-12
+
+L'indivisaire qui gère un ou plusieurs biens indivis est redevable des produits nets de sa gestion. Il a droit à la
+rémunération de son activité dans les conditions fixées à l'amiable ou, à défaut, par décision de justice.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-04-19
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°76-1286 du 31 décembre 1976 - art. 19 (V)
+
+	**Créé par**:
+
+	  - Loi n°76-1286 du 31 décembre 1976 - art. 3 () JORF 1er janvier 1977 en vigueur le 1er juillet 1977
+
+
+###### Article 815-13
+
+Lorsqu'un indivisaire a amélioré à ses frais l'état d'un bien indivis, il doit lui en être tenu compte selon l'équité, eu
+égard à ce dont la valeur du bien se trouve augmentée au temps du partage ou de l'aliénation. Il doit lui être pareillement
+tenu compte des impenses nécessaires qu'il a faites de ses deniers personnels pour la conservation desdits biens, encore
+qu'elles ne les aient point améliorés.
+
+Inversement, l'indivisaire répond des dégradations et déteriorations qui ont diminué la valeur des biens indivis par son fait
+ou par sa faute.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-04-19
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°76-1286 du 31 décembre 1976 - art. 19 (V)
+
+	**Créé par**:
+
+	  - Loi n°76-1286 du 31 décembre 1976 - art. 3 () JORF 1er janvier 1977 en vigueur le 1er juillet 1977
+
+
+###### Article 815-14
+
+L'indivisaire qui entend céder, à titre onéreux, à une personne étrangère à l'indivision, tout ou partie de ses droits dans
+les biens indivis ou dans un ou plusieurs de ces biens est tenu de notifier par acte extrajudiciaire aux autres indivisaires
+le prix et les conditions de la cession projetée ainsi que les nom, domicile et profession de la personne qui se propose
+d'acquérir.
+
+Tout indivisaire peut, dans le délai d'un mois qui suit cette notification, faire connaître au cédant, par acte
+extrajudiciaire, qu'il exerce un droit de préemption aux prix et conditions qui lui ont été notifiés.
+
+En cas de préemption, celui qui l'exerce dispose pour la réalisation de l'acte de vente d'un délai de deux mois à compter de
+la date d'envoi de sa réponse au vendeur. Passé ce délai, sa déclaration de préemption est nulle de plein droit, quinze jours
+après une mise en demeure restée sans effet, et sans préjudice des dommages-intérêts qui peuvent lui être demandés par le
+vendeur.
+
+Si plusieurs indivisaires exercent leur droit de préemption, ils sont réputés, sauf convention contraire, acquérir ensemble
+la portion mise en vente en proportion de leur part respective dans l'indivision.
+
+Lorsque des délais de paiement ont été consentis par le cédant, l'article 833-1 est applicable.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°62-933 du 8 août 1962 - art. 7 (Ab)
+	  - Code civil - art. 1873-12 (V)
+	  - Code civil - art. 815-16 (V)
+	  - Code civil - art. 815-18 (V)
+	  - Code rural et de la pêche maritime - art. L143-4 (V)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°76-1286 du 31 décembre 1976 - art. 19 (V)
+	  - TXT_ASSOCIE: Code civil 815-16 *sanctions*
+
+	**Créé par**:
+
+	  - Loi n°76-1286 du 31 décembre 1976 - art. 3 () JORF 1er janvier 1977 en vigueur le 1er juillet 1977
+
+	**Cite**:
+
+	  - Code civil - art. 833-1 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-04-19
+
+
+###### Article 815-15
+
+S'il y a lieu à l'adjudication de tout ou partie des droits d'un indivisaire dans les biens indivis ou dans un ou plusieurs
+de ces biens, l'avocat ou le notaire doit en informer les indivisaires par notification un mois avant la date prévue pour la
+vente. Chaque indivisaire peut se substituer à l'acquéreur dans un délai d'un mois à compter de l'adjudication, par
+déclaration au secrétariat-greffe ou auprès du notaire.
+
+Le cahier des charges établi en vue de la vente doit faire mention des droits de substitution.
+
+**Nota:**
+
+NOTA : Ordonnance 2006-461 2006-04-21 art. 23 : La présente ordonnance entrera en vigueur à la date de l'entrée en vigueur du
+décret en Conseil d'Etat prévu à l'article 23 et, au plus tard, le 1er janvier 2007.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code civil - art. 815-16 (V)
+	  - Code civil - art. 815-18 (V)
+	  - Code rural - art. L143-4 (V)
+	  - Loi n°62-933 du 8 août 1962 - art. 7 (Ab)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code civil 815-16 *sanctions*
+
+	**Codifié par**:
+
+	  - Loi n°1803-04-19
+
+	**Créé par**:
+
+	  - Loi n°76-1286 du 31 décembre 1976 - art. 3 () JORF 1er janvier 1977 en vigueur le 1er juillet 1977
+
+	**Modifié par**:
+
+	  - Loi n°78-627 du 10 juin 1978 - art. 2 () JORF 11 juin 1978
+
+
+###### Article 815-16
+
+Est nulle toute cession ou toute licitation opérée au mépris des dispositions des articles 815-14 et 815-15. L'action en
+nullité se prescrit par cinq ans. Elle ne peut être exercée que par ceux à qui les notifications devaient être faites ou par
+leurs héritiers.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°76-1286 du 31 décembre 1976 - art. 19 (V)
+
+	**Créé par**:
+
+	  - Loi n°76-1286 du 31 décembre 1976 - art. 3 () JORF 1er janvier 1977 en vigueur le 1er juillet 1977
+
+	**Cite**:
+
+	  - Code civil - art. 815-14 (M)
+	  - Code civil - art. 815-15 (M)
+
+	**Cité par**:
+
+	  - Code civil - art. 815-18 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-04-19
+
+
+###### Article 815-17
+
+Les créanciers qui auraient pu agir sur les biens indivis avant qu'il y eût indivision, et ceux dont la créance résulte de la
+conservation ou de la gestion des biens indivis, seront payés par prélèvement sur l'actif avant le partage. Ils peuvent en
+outre poursuivre la saisie et la vente des biens indivis.
+
+Les créanciers personnels d'un indivisaire ne peuvent saisir sa part dans les biens indivis, meubles ou immeubles.
+
+Ils ont toutefois la faculté de provoquer le partage au nom de leur débiteur ou d'intervenir dans le partage provoqué par
+lui. Les coïndivisaires peuvent arrêter le cours de l'action en partage en acquittant l'obligation au nom et en l'acquit du
+débiteur. Ceux qui exerceront cette faculté se rembourseront par prélèvement sur les biens indivis.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-04-19
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°76-1286 du 31 décembre 1976 - art. 19 (V)
+
+	**Créé par**:
+
+	  - Loi n°76-1286 du 31 décembre 1976 - art. 3 () JORF 1er janvier 1977 en vigueur le 1er juillet 1977
+
+	**Cité par**:
+
+	  - Code civil - art. 1873-15 (V)
+
+
+###### Article 815-18
+
+Les dispositions des articles 815 à 815-17 sont applicables aux indivisions en usufruit en tant qu'elles sont compatibles
+avec les règles de l'usufruit.
+
+Les notifications prévues par les articles 815-14, 815-15 et 815-16 doivent être adressées à tout nu-propriétaire et à tout
+usufruitier. Mais un usufruitier ne peut acquérir une part en nue-propriété que si aucun nu-propriétaire ne s'en porte
+acquéreur ; un nu-propriétaire ne peut acquérir une part en usufruit que si aucun usufruitier ne s'en porte acquéreur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-04-19
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°76-1286 du 31 décembre 1976 - art. 19 (V)
+
+	**Créé par**:
+
+	  - Loi n°76-1286 du 31 décembre 1976 - art. 3 () JORF 1er janvier 1977 en vigueur le 1er juillet 1977
+
+	**Cité par**:
+
+	  - Code civil - art. 1873-12 (V)
+
+	**Cite**:
+
+	  - Code civil - art. 814 (M)
+	  - Code civil 814, 815 à 815-17
 
 
 ## Titre II : Des donations entre vifs et des testaments (en vigueur jusqu'au 1er janvier 2007)
@@ -45809,6 +46389,466 @@ immobilière. Toute stipulation contraire est réputée non écrite.
 
 	  - SPEC_APPLI: Ordonnance 98-774 1998-09-02 art. 1 I (champ d'application territoriale aux TOM et à Mayotte)
 	  - PILOTE_SUIVEUR: Code de la construction et de l'habitation. - art. L221-5 (V)
+
+
+## Titre IX bis : Des conventions relatives à l'exercice des droits indivis
+
+###### Article 1873-1
+
+Ceux qui ont des droits à exercer sur des biens indivis, à titre de propriétaires, de nus-propriétaires ou d'usufruitiers
+peuvent passer des conventions relatives à l'exercice de ces droits.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°68-1 du 2 janvier 1968 - art. 42 (Ab)
+	  - Décret n°2016-230 du 26 février 2016 - art.
+	  - Code civil - art. 515-5-3 (VD)
+	  - Code civil - art. 815-1 (V)
+	  - Code de la propriété intellectuelle - art. L613-30 (V)
+
+	**Codifié par**:
+
+	  - Loi n°76-1286 1976-12-31
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°76-1286 du 31 décembre 1976 - art. 19 (V)
+
+	**Créé par**:
+
+	  - Loi n°76-1286 du 31 décembre 1976 - art. 5 () JORF 1er janvier 1977 en vigueur le 1er juillet 1977
+
+
+### Chapitre Ier : Des conventions relatives à l'exercice des droits indivis en l'absence d'usufruitier.
+
+###### Article 1873-2
+
+Les coïndivisaires, s'ils y consentent tous, peuvent convenir de demeurer dans l'indivision.
+
+A peine de nullité, la convention doit être établie par un écrit comportant la désignation des biens indivis et l'indication
+des quotes-parts appartenant à chaque indivisaire. Si les biens indivis comprennent des créances, il y a lieu aux formalités
+de l'article 1690 ; s'ils comprennent des immeubles, aux formalités de la publicité foncière.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°76-1286 1976-12-31
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°76-1286 du 31 décembre 1976 - art. 19 (V)
+
+	**Créé par**:
+
+	  - Loi n°76-1286 du 31 décembre 1976 - art. 7 () JORF 1er janvier 1977 en vigueur le 1er juillet 1977
+
+	**Cite**:
+
+	  - Code civil - art. 1690 (V)
+
+	**Cité par**:
+
+	  - Code civil - art. 1872-1 (V)
+
+
+###### Article 1873-3
+
+La convention peut être conclue pour une durée déterminée qui ne saurait être supérieure à cinq ans. Elle est renouvelable
+par une décision expresse des parties. Le partage ne peut être provoqué avant le terme convenu qu'autant qu'il y en a de
+justes motifs. 
+
+La convention peut également être conclue pour une durée indéterminée. Le partage peut, en ce cas, être provoqué à tout
+moment, pourvu que ce ne soit pas de mauvaise foi ou à contretemps. 
+
+Il peut être décidé que la convention à durée déterminée se renouvellera par tacite reconduction pour une durée déterminée ou
+indéterminée. A défaut d'un pareil accord, l'indivision sera régie par les articles 815 et suivants à l'expiration de la
+convention à durée déterminée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°76-1286 1976-12-31
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°76-1286 du 31 décembre 1976 - art. 19 (V)
+
+	**Créé par**:
+
+	  - Loi n°76-1286 du 31 décembre 1976 - art. 8 () JORF 1er janvier 1977 en vigueur le 1er juillet 1977
+
+	**Cité par**:
+
+	  - Code civil - art. 515-5-3 (VD)
+
+	**Cite**:
+
+	  - Code civil - art. 815 (V)
+
+
+###### Article 1873-5
+
+Les coïndivisaires peuvent nommer un ou plusieurs gérants, choisis ou non parmi eux. Les modalités de désignation et de
+révocation du gérant peuvent être déterminées par une décision unanime des indivisaires.
+
+A défaut d'un tel accord, le gérant pris parmi les indivisaires ne peut être révoqué de ses fonctions que par une décision
+unanime des autres indivisaires.
+
+Le gérant, qui n'est pas indivisaire, peut être révoqué dans les conditions convenues entre ses mandants ou, à défaut, par
+une décision prise à la majorité des indivisaires en nombre et en parts.    Dans tous les cas, la révocation peut être
+prononcée par le tribunal à la demande d'un indivisaire lorsque le gérant, par ses fautes de gestion, met en péril les
+intérêts de l'indivision.
+
+Si le gérant révoqué est un indivisaire, la convention sera réputée conclue pour une durée indéterminée à compter de sa
+révocation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°76-1286 1976-12-31
+
+	**Créé par**:
+
+	  - Loi n°76-1286 du 31 décembre 1976 - art. 10 () JORF 1er janvier 1977 en vigueur le 1er juillet 1977
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°76-1286 du 31 décembre 1976 - art. 19 (V)
+
+	**Cité par**:
+
+	  - Code civil - art. 815-6 (V)
+
+
+###### Article 1873-6
+
+Le gérant représente les indivisaires dans la mesure de ses pouvoirs, soit pour les actes de la vie civile, soit en justice
+tant en demandant qu'en défendant. Il est tenu d'indiquer, à titre purement énonciatif, le nom de tous les indivisaires dans
+le premier acte de procédure.
+
+Le gérant administre l'indivision et exerce, à cet effet, les pouvoirs que la loi attribue au mari sur les biens communs. Il
+ne peut, toutefois, disposer des meubles corporels que pour les besoins d'une exploitation normale des biens indivis, ou
+encore s'il s'agit de choses difficiles à conserver ou sujettes à dépérissement. Toute clause extensive des pouvoirs du
+gérant est réputée non écrite.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°76-1286 1976-12-31
+
+	**Créé par**:
+
+	  - Loi n°76-1286 du 31 décembre 1976 - art. 11 () JORF 1er janvier 1977 en vigueur le 1er juillet 1977
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°76-1286 du 31 décembre 1976 - art. 19 (V)
+
+	**Cité par**:
+
+	  - Code civil - art. 1873-9 (V)
+	  - Code civil - art. 515-5-3 (VD)
+
+
+###### Article 1873-7
+
+Le gérant exerce les pouvoirs qu'il tient de l'article précédent lors même qu'il existe un incapable parmi les indivisaires. 
+
+Néanmoins, l'article 456, alinéa 3, est applicable aux baux consentis au cours de l'indivision.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°76-1286 1976-12-31
+
+	**Créé par**:
+
+	  - Loi n°76-1286 du 31 décembre 1976 - art. 11 () JORF 1er janvier 1977 en vigueur le 1er juillet 1977
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°76-1286 du 31 décembre 1976 - art. 19 (V)
+
+	**Cite**:
+
+	  - Code civil - art. 456 (VT)
+
+
+###### Article 1873-8
+
+Les décisions qui excèdent les pouvoirs du gérant sont prises à l'unanimité, sauf au gérant, s'il est lui-même indivisaire, à
+exercer les recours prévus par les articles 815-4,815-5 et 815-6. 
+
+S'il existe des incapables mineurs ou majeurs parmi les indivisaires, les décisions dont il est parlé à l'alinéa précédent
+donnent lieu à l'application des règles de protection prévues en leur faveur. 
+
+Il peut être convenu entre les indivisaires qu'en l'absence d'incapables certaines catégories de décisions seront prises
+autrement qu'à l'unanimité. Toutefois, aucun immeuble indivis ne peut être aliéné sans l'accord de tous les indivisaires, si
+ce n'est en application des articles 815-4 et 815-5 ci-dessus.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°76-1286 1976-12-31
+
+	**Créé par**:
+
+	  - Loi n°76-1286 du 31 décembre 1976 - art. 11 () JORF 1er janvier 1977 en vigueur le 1er juillet 1977
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°76-1286 du 31 décembre 1976 - art. 19 (V)
+
+	**Cite**:
+
+	  - Code civil - art. 815-4 (V)
+
+
+###### Article 1873-9
+
+La convention d'indivision peut régler le mode d'administration en cas de pluralité de gérants. A défaut de stipulations
+spéciales, ceux-ci détiennent séparément les pouvoirs prévus à l'article 1873-6, sauf le droit pour chacun de s'opposer à
+toute opération avant qu'elle ne soit conclue.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°76-1286 1976-12-31
+
+	**Créé par**:
+
+	  - Loi n°76-1286 du 31 décembre 1976 - art. 11 () JORF 1er janvier 1977 en vigueur le 1er juillet 1977
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°76-1286 du 31 décembre 1976 - art. 19 (V)
+
+	**Cite**:
+
+	  - Code civil - art. 1873-6 (V)
+
+
+###### Article 1873-10
+
+Le gérant a droit, sauf accord contraire, à la rémunération de son travail. Les conditions en sont fixées par les
+indivisaires, à l'exclusion de l'intéressé, ou, à défaut par le président du tribunal de grande instance statuant à titre
+provisionnel.
+
+Le gérant répond, comme un mandataire, des fautes qu'il commet dans sa gestion.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°76-1286 1976-12-31
+
+	**Créé par**:
+
+	  - Loi n°76-1286 du 31 décembre 1976 - art. 12 () JORF 1er janvier 1977 en vigueur le 1er juillet 1977
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°76-1286 du 31 décembre 1976 - art. 19 (V)
+
+
+###### Article 1873-11
+
+Chaque indivisaire peut exiger la communication de tous les documents relatifs à la gestion. Le gérant doit, une fois par an,
+rendre compte de sa gestion aux indivisaires. A cette occasion, il indique par écrit les bénéfices réalisés et les pertes
+encourues ou prévisibles. 
+
+Chaque indivisaire est tenu de participer aux dépenses de conservation des biens indivis. A défaut d'accord particulier, les
+articles 815-9,815-10 et 815-11 du présent code sont applicables à l'exercice du droit d'usage et de jouissance, ainsi qu'à
+la répartition des bénéfices et des pertes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°76-1286 1976-12-31
+
+	**Créé par**:
+
+	  - Loi n°76-1286 du 31 décembre 1976 - art. 12 () JORF 1er janvier 1977 en vigueur le 1er juillet 1977
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°76-1286 du 31 décembre 1976 - art. 19 (V)
+
+	**Cite**:
+
+	  - Code civil - art. 815-9 (V)
+
+
+###### Article 1873-12
+
+En cas d'aliénation de tout ou partie des droits d'un indivisaire dans les biens indivis, ou dans un ou plusieurs de ces
+biens, les coïndivisaires bénéficient des droits de préemption et de substitution prévus par les articles 815-14 à 815-16 et
+815-18 du présent code. 
+
+La convention est réputée conclue pour une durée indéterminée lorsque, pour quelque cause que ce soit, une part indivise est
+dévolue à une personne étrangère à l'indivision.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°76-1286 1976-12-31
+
+	**Créé par**:
+
+	  - Loi n°76-1286 du 31 décembre 1976 - art. 13 () JORF 1er janvier 1977 en vigueur le 1er juillet 1977
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°76-1286 du 31 décembre 1976 - art. 19 (V)
+
+	**Cité par**:
+
+	  - Code civil - art. 1873-15 (V)
+
+	**Cite**:
+
+	  - Code civil - art. 815-14 (V)
+	  - Code civil - art. 815-18 (V)
+
+
+###### Article 1873-14
+
+La faculté d'acquisition ou d'attribution est caduque si son bénéficiaire ne l'a pas exercée par une notification faite aux
+indivisaires survivants et aux héritiers du prémourant dans le délai d'un mois à compter du jour où il aura été mis en
+demeure de prendre parti. Cette mise en demeure ne peut elle-même avoir lieu avant l'expiration du délai prévu au titre "Des
+successions" pour faire inventaire et délibérer.
+
+Lorsqu'il n'a pas été prévu de faculté d'acquisition ou d'attribution, ou que celle-ci est caduque, la quote-part du défunt
+échoit à ses héritiers ou légataires. En pareil cas, la convention d'indivision sera réputée conclue pour une durée
+indéterminée à compter de l'ouverture de la succession.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°76-1286 1976-12-31
+
+	**Créé par**:
+
+	  - Loi n°76-1286 du 31 décembre 1976 - art. 13 () JORF 1er janvier 1977 en vigueur le 1er juillet 1977
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°76-1286 du 31 décembre 1976 - art. 19 (V)
+
+
+###### Article 1873-15
+
+L'article 815-17 est applicable aux créanciers de l'indivision, ainsi qu'aux créanciers personnels des indivisaires. 
+
+Toutefois, ces derniers ne peuvent provoquer le partage que dans les cas où leur débiteur pourrait lui-même le provoquer.
+Dans les autres cas, ils peuvent poursuivre la saisie et la vente de la quote-part de leur débiteur dans l'indivision en
+suivant les formes prévues par le code de procédure civile. Les dispositions de l'article 1873-12 sont alors applicables.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°76-1286 1976-12-31
+
+	**Créé par**:
+
+	  - Loi n°76-1286 du 31 décembre 1976 - art. 14 () JORF 1er janvier 1977 en vigueur le 1er juillet 1977
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°76-1286 du 31 décembre 1976 - art. 19 (V)
+
+	**Cite**:
+
+	  - Code civil - art. 1873-12 (V)
+	  - Code civil - art. 815-17 (V)
+
+
+### Chapitre II : Des conventions relatives à l'exercice des droits indivis en présence d'un usufruitier.
+
+###### Article 1873-16
+
+Lorsque les biens indivis sont grevés d'un usufruit, des conventions, soumises en principe aux dispositions du chapitre
+précédent, peuvent être conclues, soit entre les nus-propriétaires, soit entre les usufruitiers, soit entre les uns et les
+autres. Il peut y avoir pareillement convention entre ceux qui sont en indivision pour la jouissance et celui qui est nu-
+propriétaire de tous les biens, de même qu'entre l'usufruitier universel et les nus-propriétaires.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°76-1286 1976-12-31
+
+	**Créé par**:
+
+	  - Loi n°76-1286 du 31 décembre 1976 - art. 15 () JORF 1er janvier 1977 en vigueur le 1er juillet 1977
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°76-1286 du 31 décembre 1976 - art. 19 (V)
+
+
+###### Article 1873-17
+
+Lorsque les usufruitiers n'ont pas été parties à la convention, les tiers qui ont traité avec le gérant de l'indivision ne
+peuvent se prévaloir au préjudice des droits d'usufruit des pouvoirs qui lui auraient été conférés par les nus-propriétaires.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°76-1286 1976-12-31
+
+	**Créé par**:
+
+	  - Loi n°76-1286 du 31 décembre 1976 - art. 15 () JORF 1er janvier 1977 en vigueur le 1er juillet 1977
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°76-1286 du 31 décembre 1976 - art. 19 (V)
+
+
+###### Article 1873-18
+
+Lorsque la convention passée entre usufruitiers et nus-propriétaires prévoit que des décisions seront prises à la majorité en
+nombre et en parts, le droit de vote afférent aux parts est divisé par moitié entre l'usufruit et la nue-propriété, à moins
+que les parties n'en soient autrement convenues. 
+
+Toute dépense excédant les obligations de l'usufruitier, telles qu'elles sont définies par les articles 582 et suivants, ne
+l'engage qu'avec son consentement donné dans la convention elle-même ou par un acte ultérieur. 
+
+L'aliénation de la pleine propriété des biens indivis ne peut être faite sans l'accord de l'usufruitier, sauf le cas où elle
+est provoquée par les créanciers habiles à poursuivre la vente.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°76-1286 1976-12-31
+
+	**Créé par**:
+
+	  - Loi n°76-1286 du 31 décembre 1976 - art. 15 () JORF 1er janvier 1977 en vigueur le 1er juillet 1977
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°76-1286 du 31 décembre 1976 - art. 19 (V)
+
+	**Cite**:
+
+	  - Code civil - art. 582 (V)
 
 
 ## Titre X : Du prêt

@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 2003-11-27
+Version Consolidée au 2004-01-03
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -17963,22 +17963,10 @@ service ou une institution, excéder deux ans. La mesure peut être renouvelée 
 
 Le juge des enfants est compétent, à charge d'appel, pour tout ce qui concerne l'assistance éducative.
 
-Il doit toujours s'efforcer de recueillir l'adhésion de la famille à la mesure envisagée.
+Il doit toujours s'efforcer de recueillir l'adhésion de la famille à la mesure envisagée et se prononcer en stricte
+considération de l'intérêt de l'enfant.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°70-459 du 4 juin 1970 - art. 1 () JORF 5 juin 1970 en vigueur le 1er janvier 1971
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 10 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 11 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 12 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 13 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 9 (V)
-	  - SPEC_APPLI: Loi n°74-631 du 5 juillet 1974 - art. 21 (V)
 
 	**Cité par**:
 
@@ -17987,6 +17975,10 @@ Il doit toujours s'efforcer de recueillir l'adhésion de la famille à la mesure
 	  - Code de l'action sociale et des familles - art. R221-3 (V)
 	  - Code de la famille et de l'aide sociale. - art. 95 (M)
 	  - Code de procédure civile - art. 1193 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2004-1 du 2 janvier 2004 - art. 13 () JORF 3 janvier 2004
 
 	**Codifié par**:
 

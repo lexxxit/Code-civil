@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1893-06-08
+Version Consolidée au 1893-08-29
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -1630,6 +1630,30 @@ l'article 185, peut et doit demander la nullité du mariage, du vivant des deux 
 	**Créé par**:
 
 	  - Loi n°1803-03-17 promulguée le 27 mars 1803
+
+
+###### Article 190-1
+
+Le mariage qui a été célébré en fraude à la loi peut être annulé à la demande de l'époux de bonne foi ou du ministère public,
+formée dans l'année du mariage.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°93-1027 du 24 août 1993 - art. 31 () JORF 29 août 1993
+
+	**Abrogé par**:
+
+	  - Loi n°2003-1119 du 26 novembre 2003 - art. 77 () JORF 27 novembre 2003
+
+	**Cité par**:
+
+	  - Code civil - art. 170-1 (M)
 
 
 ###### Article 191

@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1804-03-17
+Version Consolidée au 1804-03-19
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -21937,6 +21937,528 @@ seulement le profit des veaux qui en naissent.
 	**Créé par**:
 
 	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+
+## Titre X : Du prêt
+
+###### Article 1874
+
+Il y a deux sortes de prêt :
+
+Celui des choses dont on peut user sans les détruire ;
+
+Et celui des choses qui se consomment par l'usage qu'on en fait.
+
+La première espèce s'appelle "prêt à usage", ou "commodat".
+
+La deuxième s'appelle "prêt de consommation", ou simplement "prêt".
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°1804-03-09 promulguée le 19 mars 1804
+
+
+### Chapitre Ier : Du prêt à usage, ou commodat
+
+#### Section 1 : De la nature du prêt à usage.
+
+###### Article 1875
+
+Le prêt à usage ou commodat est un contrat par lequel l'une des parties livre une chose à l'autre pour s'en servir, à la
+charge par le preneur de la rendre après s'en être servi.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°2003-1010 du 22 octobre 2003 - art. 87 (Ab)
+	  - Code de l'action sociale et des familles - art. R314-86 (V)
+
+	**Créé par**:
+
+	  - Loi n°1804-03-09 promulguée le 19 mars 1804
+
+
+###### Article 1876
+
+Ce prêt est essentiellement gratuit.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°1804-03-09 promulguée le 19 mars 1804
+
+
+###### Article 1877
+
+Le prêteur demeure propriétaire de la chose prêtée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°1804-03-09 promulguée le 19 mars 1804
+
+
+###### Article 1878
+
+Tout ce qui est dans le commerce, et qui ne se consomme pas par l'usage, peut être l'objet de cette convention.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°1804-03-09 promulguée le 19 mars 1804
+
+
+###### Article 1879
+
+Les engagements qui se forment par le commodat passent aux héritiers de celui qui prête, et aux héritiers de celui qui
+emprunte.
+
+Mais si l'on n'a prêté qu'en considération de l'emprunteur, et à lui personnellement, alors ses héritiers ne peuvent
+continuer de jouir de la chose prêtée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°1804-03-09 promulguée le 19 mars 1804
+
+
+#### Section 2 : Des engagements de l'emprunteur.
+
+###### Article 1880
+
+L'emprunteur est tenu de veiller, en bon père de famille, à la garde et à la conservation de la chose prêtée. Il ne peut s'en
+servir qu'à l'usage déterminé par sa nature ou par la convention ; le tout à peine de dommages-intérêts, s'il y a lieu.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°1804-03-09 promulguée le 19 mars 1804
+
+
+###### Article 1881
+
+Si l'emprunteur emploie la chose à un autre usage, ou pour un temps plus long qu'il ne le devait, il sera tenu de la perte
+arrivée, même par cas fortuit.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°1804-03-09 promulguée le 19 mars 1804
+
+
+###### Article 1882
+
+Si la chose prêtée périt par cas fortuit dont l'emprunteur aurait pu la garantir en employant la sienne propre, ou si, ne
+pouvant conserver que l'une des deux, il a préféré la sienne, il est tenu de la perte de l'autre.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°1804-03-09 promulguée le 19 mars 1804
+
+
+###### Article 1883
+
+Si la chose a été estimée en la prêtant, la perte qui arrive, même par cas fortuit, est pour l'emprunteur, s'il n'y a
+convention contraire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°1804-03-09 promulguée le 19 mars 1804
+
+
+###### Article 1884
+
+Si la chose se détériore par le seul effet de l'usage pour lequel elle a été empruntée, et sans aucune faute de la part de
+l'emprunteur, il n'est pas tenu de la détérioration.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°1804-03-09 promulguée le 19 mars 1804
+
+
+###### Article 1885
+
+L'emprunteur ne peut pas retenir la chose par compensation de ce que le prêteur lui doit.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°1804-03-09 promulguée le 19 mars 1804
+
+
+###### Article 1886
+
+Si, pour user de la chose, l'emprunteur a fait quelque dépense, il ne peut pas la répéter.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°1804-03-09 promulguée le 19 mars 1804
+
+
+###### Article 1887
+
+Si plusieurs ont conjointement emprunté la même chose, ils en sont solidairement responsables envers le prêteur.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°1804-03-09 promulguée le 19 mars 1804
+
+
+#### Section 3 : Des engagements de celui qui prête à usage.
+
+###### Article 1888
+
+Le prêteur ne peut retirer la chose prêtée qu'après le terme convenu, ou, à défaut de convention, qu'après qu'elle a servi à
+l'usage pour lequel elle a été empruntée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°1804-03-09 promulguée le 19 mars 1804
+
+
+###### Article 1889
+
+Néanmoins, si, pendant ce délai, ou avant que le besoin de l'emprunteur ait cessé, il survient au prêteur un besoin pressant
+et imprévu de sa chose, le juge peut, suivant les circonstances, obliger l'emprunteur à la lui rendre.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°1804-03-09 promulguée le 19 mars 1804
+
+
+###### Article 1890
+
+Si, pendant la durée du prêt, l'emprunteur a été obligé, pour la conservation de la chose, à quelque dépense extraordinaire,
+nécessaire, et tellement urgente qu'il n'ait pas pu en prévenir le prêteur, celui-ci sera tenu de la lui rembourser.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°1804-03-09 promulguée le 19 mars 1804
+
+
+###### Article 1891
+
+Lorsque la chose prêtée a des défauts tels qu'elle puisse causer du préjudice à celui qui s'en sert le prêteur est
+responsable, s'il connaissait les défauts et n'en a pas averti l'emprunteur.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code civil - art. 1898 (V)
+
+	**Créé par**:
+
+	  - Loi n°1804-03-09 promulguée le 19 mars 1804
+
+
+### Chapitre II : Du prêt de consommation, ou simple prêt
+
+#### Section 1 : De la nature du prêt de consommation.
+
+###### Article 1892
+
+Le prêt de consommation est un contrat par lequel l'une des parties livre à l'autre une certaine quantité de choses qui se
+consomment par l'usage, à la charge par cette dernière de lui en rendre autant de même espèce et qualité.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. L211-22 (V)
+
+	**Créé par**:
+
+	  - Loi n°1804-03-09 promulguée le 19 mars 1804
+
+
+###### Article 1893
+
+Par l'effet de ce prêt, l'emprunteur devient le propriétaire de la chose prêtée ; et c'est pour lui qu'elle périt, de quelque
+manière que cette perte arrive.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°1804-03-09 promulguée le 19 mars 1804
+
+
+###### Article 1894
+
+On ne peut pas donner à titre de prêt de consommation des choses qui, quoique de même espèce, diffèrent dans l'individu,
+comme les animaux : alors c'est un prêt à usage.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°1804-03-09 promulguée le 19 mars 1804
+
+
+###### Article 1895
+
+L'obligation qui résulte d'un prêt en argent n'est toujours que de la somme numérique énoncée au contrat.
+
+S'il y a eu augmentation ou diminution d'espèces avant l'époque du paiement, le débiteur doit rendre la somme numérique
+prêtée, et ne doit rendre que cette somme dans les espèces ayant cours au moment du paiement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°1804-03-09 promulguée le 19 mars 1804
+
+
+###### Article 1896
+
+La règle portée en l'article précédent n'a pas lieu si le prêt a été fait en lingots.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°1804-03-09 promulguée le 19 mars 1804
+
+
+###### Article 1897
+
+Si ce sont des lingots ou des denrées qui ont été prêtés, quelle que soit l'augmentation ou la diminution de leur prix, le
+débiteur doit toujours rendre la même quantité et qualité, et ne doit rendre que cela.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°1804-03-09 promulguée le 19 mars 1804
+
+
+#### Section 2 : Des obligations du prêteur.
+
+###### Article 1898
+
+Dans le prêt de consommation, le prêteur est tenu de la responsabilité établie par l'article 1891 pour le prêt à usage.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code civil - art. 1891 (V)
+
+	**Créé par**:
+
+	  - Loi n°1804-03-09 promulguée le 19 mars 1804
+
+
+###### Article 1899
+
+Le prêteur ne peut pas redemander les choses prêtées avant le terme convenu.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°1804-03-09 promulguée le 19 mars 1804
+
+
+###### Article 1900
+
+S'il n'a pas été fixé de terme pour la restitution, le juge peut accorder à l'emprunteur un délai suivant les circonstances.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°1804-03-09 promulguée le 19 mars 1804
+
+
+###### Article 1901
+
+S'il a été seulement convenu que l'emprunteur payerait quand il le pourrait, ou quand il en aurait les moyens, le juge lui
+fixera un terme de paiement suivant les circonstances.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°1804-03-09 promulguée le 19 mars 1804
+
+
+#### Section 3 : Des engagements de l'emprunteur.
+
+###### Article 1902
+
+L'emprunteur est tenu de rendre les choses prêtées, en même quantité et qualité, et au terme convenu.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°1804-03-09 promulguée le 19 mars 1804
+
+
+###### Article 1903
+
+S'il est dans l'impossibilité d'y satisfaire, il est tenu d'en payer la valeur eu égard au temps et au lieu où la chose
+devait être rendue d'après la convention.
+
+Si ce temps et ce lieu n'ont pas été réglés, le paiement se fait au prix du temps et du lieu où l'emprunt a été fait.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°1804-03-09 promulguée le 19 mars 1804
+
+
+### Chapitre III : Du prêt à intérêt.
+
+###### Article 1905
+
+Il est permis de stipuler des intérêts pour simple prêt soit d'argent, soit de denrées, ou autres choses mobilières.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°1804-03-09 promulguée le 19 mars 1804
+
+
+###### Article 1906
+
+L'emprunteur qui a payé des intérêts qui n'étaient pas stipulés ne peut ni les répéter ni les imputer sur le capital.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°1804-03-09 promulguée le 19 mars 1804
+
+
+###### Article 1907
+
+L'intérêt est légal ou conventionnel. L'intérêt légal est fixé par la loi. L'intérêt conventionnel peut excéder celui de la
+loi, toutes les fois que la loi ne le prohibe pas.
+
+Le taux de l'intérêt conventionnel doit être fixé par écrit.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°1804-03-09 promulguée le 19 mars 1804
+
+
+###### Article 1908
+
+La quittance du capital donnée sans réserve des intérêts en fait présumer le paiement et en opère la libération.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°1804-03-09 promulguée le 19 mars 1804
+
+
+###### Article 1909
+
+On peut stipuler un intérêt moyennant un capital que le prêteur s'interdit d'exiger.
+
+Dans ce cas, le prêt prend le nom de "constitution de rente".
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°1804-03-09 promulguée le 19 mars 1804
+
+
+###### Article 1910
+
+Cette rente peut être constituée de deux manières, en perpétuel ou en viager.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°1804-03-09 promulguée le 19 mars 1804
+
+
+###### Article 1911
+
+La rente constituée en perpétuel est essentiellement rachetable.
+
+Les parties peuvent seulement convenir que le rachat ne sera pas fait avant un délai qui ne pourra excéder dix ans, ou sans
+avoir averti le créancier au terme d'avance qu'elles auront déterminé.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°1804-03-09 promulguée le 19 mars 1804
+
+
+###### Article 1912
+
+Le débiteur d'une rente constituée en perpétuel peut être contraint au rachat :
+
+1° S'il cesse de remplir ses obligations pendant deux années ;
+
+2° S'il manque à fournir au prêteur les sûretés promises par le contrat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°1804-03-09 promulguée le 19 mars 1804
+
+
+###### Article 1913
+
+Le capital de la rente constituée en perpétuel devient aussi exigible en cas de faillite ou de déconfiture du débiteur.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°1804-03-09 promulguée le 19 mars 1804
+
+
+###### Article 1914
+
+Les règles concernant les rentes viagères sont établies au titre "Des contrats aléatoires".
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°1804-03-09 promulguée le 19 mars 1804
 
 
 ## Titre XIV : Du cautionnement.

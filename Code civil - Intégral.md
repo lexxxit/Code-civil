@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1977-12-30
+Version Consolidée au 1978-03-31
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -1506,6 +1506,38 @@ obtenir la rectification, conformément à l'article 99 du présent code.
 	  - Ordonnance 58-779 1958-08-23 art. 1 JORF 30 août 1958
 
 
+###### Article 92
+
+Si celui dont le décès a été judiciairement déclaré reparaît postérieurement au jugement déclaratif, le procureur de la
+République ou tout intéressé peut poursuivre, dans les formes prévues aux articles 89 et suivants, l'annulation du jugement. 
+
+Les dispositions des articles 130, 131 et 132 sont applicables, en tant que de besoin. 
+
+Mention de l'annulation du jugement déclaratif sera faite en marge de sa transcription.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°77-1447 du 28 décembre 1977 - art. 2 () JORF 29 décembre 1977 en vigueur le 31 mars 1978
+	  - Ordonnance 1945-10-30 art. 1
+
+	**Cite**:
+
+	  - Code civil - art. 130 (V)
+	  - Code civil - art. 131 (V)
+	  - Code civil - art. 132 (V)
+	  - Code civil - art. 89 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-11
+
+	**Créé par**:
+
+	  - Loi n°1803-03-11 promulguée le 21 mars 1803
+
+
 ### Chapitre V : Des actes de l'état civil concernant les militaires et marins dans certains cas spéciaux.
 
 ###### Article 93
@@ -1974,148 +2006,55 @@ juge de ce domicile.
 
 ## Titre IV : Des absents
 
-### Chapitre II : De la déclaration d'absence
+### Chapitre Ier : De la présomption d'absence
 
-###### Article 133
+###### Article 112
 
-(texte abrogé).
+Lorsqu'une personne a cessé de paraître au lieu de son domicile ou de sa résidence sans que l'on en ait eu de nouvelles, le
+juge des tutelles peut, à la demande des parties intéressées ou du ministère public, constater qu'il y a présomption
+d'absence.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
 	**Créé par**:
-
-	  - Loi n°1803-03-14 promulguée le 24 mars 1803
-
-	**Abrogé par**:
 
 	  - Loi n°77-1447 du 28 décembre 1977 - art. 1 () JORF 29 décembre 1977 en vigueur le 31 mars 1978
 
+	**Liens**:
 
-###### Article 134
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°1803-03-14 promulguée le 24 mars 1803
-
-	**Abrogé par**:
-
-	  - Loi n°77-1447 du 28 décembre 1977 - art. 1 () JORF 29 décembre 1977 en vigueur le 31 mars 1978
-
-
-###### Article 135
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°1803-03-14 promulguée le 24 mars 1803
-
-	**Abrogé par**:
-
-	  - Loi n°77-1447 du 28 décembre 1977 - art. 1 () JORF 29 décembre 1977 en vigueur le 31 mars 1978
-
-
-###### Article 136
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°1803-03-14 promulguée le 24 mars 1803
-
-	**Abrogé par**:
-
-	  - Loi n°77-1447 du 28 décembre 1977 - art. 1 () JORF 29 décembre 1977 en vigueur le 31 mars 1978
-
-
-###### Article 137
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°1803-03-14 promulguée le 24 mars 1803
-
-	**Abrogé par**:
-
-	  - Loi n°77-1447 du 28 décembre 1977 - art. 1 () JORF 29 décembre 1977 en vigueur le 31 mars 1978
-
-
-###### Article 138
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°1803-03-14 promulguée le 24 mars 1803
-
-	**Abrogé par**:
-
-	  - Loi n°77-1447 du 28 décembre 1977 - art. 1 () JORF 29 décembre 1977 en vigueur le 31 mars 1978
-
-
-###### Article 139
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°1803-03-14 promulguée le 24 mars 1803
+	  - SPEC_APPLI: Loi n°77-1447 du 28 décembre 1977 - art. 10 (V)
+	  - SPEC_APPLI: Loi n°77-1447 du 28 décembre 1977 - art. 7 (V)
+	  - SPEC_APPLI: Loi n°77-1447 du 28 décembre 1977 - art. 8 (V)
+	  - SPEC_APPLI: Loi n°77-1447 du 28 décembre 1977 - art. 9 (V)
+	  - SPEC_APPLI: Loi n°2001-1135 2001-12-03 art. 26 I (application à Mayotte)
 
 	**Cité par**:
 
-	  - Ordonnance n°59-68 du 7 janvier 1959 - art. 5 (V)
+	  - Loi n°77-1447 du 28 décembre 1977 - art. 8 (V)
+	  - Loi n°99-209 du 19 mars 1999 - art. 193-1 (V)
+	  - Loi n°2004-192 du 27 février 2004 - art. 115 (V)
+	  - Code civil - art. 122 (V)
+	  - Code civil - art. 725 (V)
+	  - Code de la sécurité sociale. - art. L161-15-1 (VD)
+	  - Code électoral - art. L221 (V)
+	  - Code électoral - art. L224-29 (VD)
+	  - Code électoral - art. LO469 (VT)
+	  - Code électoral - art. LO499 (V)
+	  - Code électoral - art. LO526 (V)
+	  - Code électoral - art. LO554 (V)
 
-	**Abrogé par**:
+	**Codifié par**:
 
-	  - Loi n°77-1447 du 28 décembre 1977 - art. 1 () JORF 29 décembre 1977 en vigueur le 31 mars 1978
+	  - Loi n°1803-03-14
 
 
-###### Article 140
+###### Article 113
 
-(texte abrogé).
+Le juge peut désigner un ou plusieurs parents ou alliés, ou, le cas échéant, toutes autres personnes pour représenter la
+personne présumée absente dans l'exercice de ses droits ou dans tout acte auquel elle serait intéressée, ainsi que pour
+administrer tout ou partie de ses biens ; la représentation du présumé absent et l'administration de ses biens sont alors
+soumises aux règles applicables à l'administration légale sous contrôle judiciaire telle qu'elle est prévue pour les mineurs,
+et en outre sous les modifications qui suivent.
 
 **Liens relatifs à cet article**
 
@@ -2125,16 +2064,35 @@ juge de ce domicile.
 
 	**Créé par**:
 
-	  - Loi n°1803-03-14 promulguée le 24 mars 1803
-
-	**Abrogé par**:
-
 	  - Loi n°77-1447 du 28 décembre 1977 - art. 1 () JORF 29 décembre 1977 en vigueur le 31 mars 1978
 
+	**Liens**:
 
-###### Article 141
+	  - SPEC_APPLI: Loi n°77-1447 du 28 décembre 1977 - art. 10 (V)
+	  - SPEC_APPLI: Loi n°77-1447 du 28 décembre 1977 - art. 7 (V)
+	  - SPEC_APPLI: Loi n°77-1447 du 28 décembre 1977 - art. 8 (V)
+	  - SPEC_APPLI: Loi n°77-1447 du 28 décembre 1977 - art. 9 (V)
+	  - SPEC_APPLI: Loi n°2001-1135 2001-12-03 art. 26 I (application à Mayotte)
 
-(texte abrogé).
+	**Cité par**:
+
+	  - Loi n°77-1447 du 28 décembre 1977 - art. 8 (V)
+	  - Arrêté du 28 octobre 2016 - art. 13
+	  - Code de commerce - art. A444-180 (V)
+	  - Code de la construction et de l'habitation. - art. R443-39 (Ab)
+	  - Décret du 26 mars 1910 - art. 12 (Ab)
+
+
+###### Article 114
+
+Sans préjudice de la compétence particulière attribuée à d'autres juridictions, aux mêmes fins, le juge fixe, le cas échéant,
+suivant l'importance des biens, les sommes qu'il convient d'affecter annuellement à l'entretien de la famille ou aux charges
+du mariage.
+
+Il détermine comment il est pourvu à l'établissement des enfants.
+
+Il spécifie aussi comment sont réglées les dépenses d'administration ainsi qu'éventuellement la rémunération qui peut être
+allouée à la personne chargée de la représentation du présumé absent et de l'administration de ses biens.
 
 **Liens relatifs à cet article**
 
@@ -2144,16 +2102,21 @@ juge de ce domicile.
 
 	**Créé par**:
 
-	  - Loi n°1803-03-14 promulguée le 24 mars 1803
-
-	**Abrogé par**:
-
 	  - Loi n°77-1447 du 28 décembre 1977 - art. 1 () JORF 29 décembre 1977 en vigueur le 31 mars 1978
 
+	**Liens**:
 
-###### Article 142
+	  - SPEC_APPLI: Loi n°77-1447 du 28 décembre 1977 - art. 10 (V)
+	  - SPEC_APPLI: Loi n°77-1447 du 28 décembre 1977 - art. 7 (V)
+	  - SPEC_APPLI: Loi n°77-1447 du 28 décembre 1977 - art. 8 (V)
+	  - SPEC_APPLI: Loi n°77-1447 du 28 décembre 1977 - art. 9 (V)
+	  - SPEC_APPLI: Loi n°2001-1135 2001-12-03 art. 26 I (application à Mayotte)
 
-(texte abrogé).
+
+###### Article 115
+
+Le juge peut, à tout moment et même d'office, mettre fin à la mission de la personne ainsi désignée ; il peut également
+procéder à son remplacement.
 
 **Liens relatifs à cet article**
 
@@ -2163,22 +2126,40 @@ juge de ce domicile.
 
 	**Créé par**:
 
-	  - Loi n°1803-03-14 promulguée le 24 mars 1803
-
-	**Abrogé par**:
-
 	  - Loi n°77-1447 du 28 décembre 1977 - art. 1 () JORF 29 décembre 1977 en vigueur le 31 mars 1978
 
+	**Liens**:
 
-###### Article 143
+	  - SPEC_APPLI: Loi n°77-1447 du 28 décembre 1977 - art. 10 (V)
+	  - SPEC_APPLI: Loi n°77-1447 du 28 décembre 1977 - art. 7 (V)
+	  - SPEC_APPLI: Loi n°77-1447 du 28 décembre 1977 - art. 8 (V)
+	  - SPEC_APPLI: Loi n°77-1447 du 28 décembre 1977 - art. 9 (V)
+	  - SPEC_APPLI: Loi n°2001-1135 2001-12-03 art. 26 I (application à Mayotte)
 
-(texte abrogé).
+	**Cité par**:
+
+	  - Code civil - art. 116 (V)
+
+
+###### Article 116
+
+Si le présumé absent est appelé à un partage, il est fait application de l'article 838, alinéa 1er, du code civil.
+
+Toutefois, le juge des tutelles peut autoriser le partage, même partiel, et désigner un notaire pour y procéder, en présence
+du représentant du présumé absent, ou de son remplaçant désigné conformément à l'article 115, si le représentant initial est
+lui-même intéressé au partage. L'état liquidatif est soumis à l'homologation du tribunal de grande instance.
 
 **Liens relatifs à cet article**
 
-	**Abrogé par**:
+	**Cite**:
 
-	  - Loi n°77-1447 du 28 décembre 1977 - art. 1 () JORF 29 décembre 1977 en vigueur le 31 mars 1978
+	  - Code civil - art. 115 (V)
+	  - Code civil - art. 838 (M)
+
+	**Cité par**:
+
+	  - Code civil - art. 836 (V)
+	  - Loi n°2006-728 du 23 juin 2006 - art. 47 (V)
 
 	**Codifié par**:
 
@@ -2186,7 +2167,515 @@ juge de ce domicile.
 
 	**Créé par**:
 
-	  - Loi n°1803-03-14 promulguée le 24 mars 1803
+	  - Loi n°77-1447 du 28 décembre 1977 - art. 1 () JORF 29 décembre 1977 en vigueur le 31 mars 1978
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°77-1447 du 28 décembre 1977 - art. 10 (V)
+	  - SPEC_APPLI: Loi n°77-1447 du 28 décembre 1977 - art. 7 (V)
+	  - SPEC_APPLI: Loi n°77-1447 du 28 décembre 1977 - art. 8 (V)
+	  - SPEC_APPLI: Loi n°77-1447 du 28 décembre 1977 - art. 9 (V)
+	  - SPEC_APPLI: Loi n°2001-1135 2001-12-03 art. 26 I (application à Mayotte)
+
+
+###### Article 117
+
+Le ministère public est spécialement chargé de veiller aux intérêts des présumés absents ; il est entendu sur toutes les
+demandes les concernant ; il peut requérir d'office l'application ou la modification des mesures prévues au présent titre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°77-1447 du 28 décembre 1977 - art. 1 () JORF 29 décembre 1977 en vigueur le 31 mars 1978
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°77-1447 du 28 décembre 1977 - art. 10 (V)
+	  - SPEC_APPLI: Loi n°77-1447 du 28 décembre 1977 - art. 7 (V)
+	  - SPEC_APPLI: Loi n°77-1447 du 28 décembre 1977 - art. 8 (V)
+	  - SPEC_APPLI: Loi n°77-1447 du 28 décembre 1977 - art. 9 (V)
+	  - SPEC_APPLI: Loi n°2001-1135 2001-12-03 art. 26 I (application à Mayotte)
+
+
+###### Article 118
+
+Si un présumé absent reparaît ou donne de ses nouvelles, il est, sur sa demande, mis fin par le juge aux mesures prises pour
+sa représentation et l'administration de ses biens ; il recouvre alors les biens gérés ou acquis pour son compte durant la
+période de l'absence.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°77-1447 du 28 décembre 1977 - art. 1 () JORF 29 décembre 1977 en vigueur le 31 mars 1978
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°77-1447 du 28 décembre 1977 - art. 10 (V)
+	  - SPEC_APPLI: Loi n°77-1447 du 28 décembre 1977 - art. 7 (V)
+	  - SPEC_APPLI: Loi n°77-1447 du 28 décembre 1977 - art. 8 (V)
+	  - SPEC_APPLI: Loi n°77-1447 du 28 décembre 1977 - art. 9 (V)
+	  - SPEC_APPLI: Loi n°2001-1135 2001-12-03 art. 26 I (application à Mayotte)
+
+	**Cité par**:
+
+	  - Loi n°77-1447 du 28 décembre 1977 - art. 10 (V)
+
+
+###### Article 119
+
+Les droits acquis sans fraude, sur le fondement de la présomption d'absence, ne sont pas remis en cause lorsque le décès de
+l'absent vient à être établi ou judiciairement déclaré, quelle que soit la date retenue pour le décès.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°77-1447 du 28 décembre 1977 - art. 1 () JORF 29 décembre 1977 en vigueur le 31 mars 1978
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°77-1447 du 28 décembre 1977 - art. 10 (V)
+	  - SPEC_APPLI: Loi n°77-1447 du 28 décembre 1977 - art. 7 (V)
+	  - SPEC_APPLI: Loi n°77-1447 du 28 décembre 1977 - art. 8 (V)
+	  - SPEC_APPLI: Loi n°77-1447 du 28 décembre 1977 - art. 9 (V)
+	  - SPEC_APPLI: Loi n°2001-1135 2001-12-03 art. 26 I (application à Mayotte)
+
+
+###### Article 120
+
+Les dispositions qui précèdent, relatives à la représentation des présumés absents et à l'administration de leurs biens, sont
+aussi applicables aux personnes qui, par suite d'éloignement, se trouvent malgré elles hors d'état de manifester leur
+volonté.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°77-1447 du 28 décembre 1977 - art. 1 () JORF 29 décembre 1977 en vigueur le 31 mars 1978
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°77-1447 du 28 décembre 1977 - art. 10 (V)
+	  - SPEC_APPLI: Loi n°77-1447 du 28 décembre 1977 - art. 7 (V)
+	  - SPEC_APPLI: Loi n°77-1447 du 28 décembre 1977 - art. 8 (V)
+	  - SPEC_APPLI: Loi n°77-1447 du 28 décembre 1977 - art. 9 (V)
+	  - SPEC_APPLI: Loi n°2001-1135 2001-12-03 art. 26 I (application à Mayotte)
+
+	**Cité par**:
+
+	  - Code civil - art. 121 (V)
+
+
+###### Article 121
+
+Ces mêmes dispositions ne sont pas applicables aux présumés absents ou aux personnes mentionnées à l'article 120 lorsqu'ils
+ont laissé une procuration suffisante à l'effet de les représenter et d'administrer leurs biens. 
+
+Il en est de même si le conjoint peut pourvoir suffisamment aux intérêts en cause par l'application du régime matrimonial, et
+notamment par l'effet d'une décision obtenue en vertu des articles 217 et 219, 1426 et 1429.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°77-1447 du 28 décembre 1977 - art. 1 () JORF 29 décembre 1977 en vigueur le 31 mars 1978
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°77-1447 du 28 décembre 1977 - art. 10 (V)
+	  - SPEC_APPLI: Loi n°77-1447 du 28 décembre 1977 - art. 7 (V)
+	  - SPEC_APPLI: Loi n°77-1447 du 28 décembre 1977 - art. 8 (V)
+	  - SPEC_APPLI: Loi n°77-1447 du 28 décembre 1977 - art. 9 (V)
+	  - SPEC_APPLI: Loi n°2001-1135 2001-12-03 art. 26 I (application à Mayotte)
+
+	**Cite**:
+
+	  - Code civil - art. 120 (V)
+	  - Code civil - art. 1426 (V)
+	  - Code civil - art. 1429 (V)
+	  - Code civil - art. 217 (V)
+	  - Code civil - art. 219 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+### Chapitre II : De la déclaration d'absence
+
+###### Article 122
+
+Lorsqu'il se sera écoulé dix ans depuis le jugement qui a constaté la présomption d'absence, soit selon les modalités fixées
+par l'article 112, soit à l'occasion de l'une des procédures judiciaires prévues par les articles 217 et 219, 1426 et 1429,
+l'absence pourra être déclarée par le tribunal de grande instance à la requête de toute partie intéressée ou du ministère
+public. 
+
+Il en sera de même quand, à défaut d'une telle constatation, la personne aura cessé de paraître au lieu de son domicile ou de
+sa résidence, sans que l'on en ait eu de nouvelles depuis plus de vingt ans.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°77-1447 du 28 décembre 1977 - art. 1 () JORF 29 décembre 1977 en vigueur le 31 mars 1978
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°77-1447 du 28 décembre 1977 - art. 10 (V)
+	  - SPEC_APPLI: Loi n°77-1447 du 28 décembre 1977 - art. 7 (V)
+	  - SPEC_APPLI: Loi n°77-1447 du 28 décembre 1977 - art. 8 (V)
+	  - SPEC_APPLI: Loi n°77-1447 du 28 décembre 1977 - art. 9 (V)
+	  - SPEC_APPLI: Loi n°2001-1135 2001-12-03 art. 26 I (application à Mayotte)
+
+	**Cite**:
+
+	  - Code civil - art. 112 (V)
+	  - Code civil - art. 1426 (V)
+	  - Code civil - art. 1429 (V)
+	  - Code civil - art. 217 (V)
+	  - Code civil - art. 219 (V)
+
+	**Cité par**:
+
+	  - Code civil - art. 125 (V)
+
+
+###### Article 123
+
+Des extraits de la requête aux fins de déclaration d'absence, après avoir été visés par le ministère public, sont publiés
+dans deux journaux diffusés dans le département ou, le cas échéant, dans le pays du domicile ou de la dernière résidence de
+la personne demeurée sans donner de nouvelles.
+
+Le tribunal, saisi de la requête, peut en outre ordonner toute autre mesure de publicité dans tout lieu où il le juge utile.
+
+Ces mesures de publicité sont assurées par la partie qui présente la requête.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°77-1447 du 28 décembre 1977 - art. 1 () JORF 29 décembre 1977 en vigueur le 31 mars 1978
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°77-1447 du 28 décembre 1977 - art. 10 (V)
+	  - SPEC_APPLI: Loi n°77-1447 du 28 décembre 1977 - art. 7 (V)
+	  - SPEC_APPLI: Loi n°77-1447 du 28 décembre 1977 - art. 8 (V)
+	  - SPEC_APPLI: Loi n°77-1447 du 28 décembre 1977 - art. 9 (V)
+	  - SPEC_APPLI: Loi n°2001-1135 2001-12-03 art. 26 I (application à Mayotte)
+
+	**Cité par**:
+
+	  - Code civil - art. 127 (V)
+	  - Code civil - art. 129 (V)
+
+
+###### Article 124
+
+Dès que les extraits en ont été publiés, la requête est transmise, par l'intermédiaire du procureur de la République, au
+tribunal qui statue d'après les pièces et documents produits et eu égard aux conditions de la disparition, ainsi qu'aux
+circonstances qui peuvent expliquer le défaut de nouvelles.
+
+Le tribunal peut ordonner toute mesure d'information complémentaire et prescrire, s'il y a lieu, qu'une enquête soit faite
+contradictoirement avec le procureur de la République, quand celui-ci n'est pas lui-même requérant, dans tout lieu où il le
+jugera utile, et notamment dans l'arrondissement du domicile ou dans ceux des dernières résidences, s'ils sont distincts.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Cité par**:
+
+	  - Loi n°65-570 du 13 juillet 1965 - art. 23 (V)
+	  - Code civil - art. 1442 (M)
+
+	**Créé par**:
+
+	  - Loi n°77-1447 du 28 décembre 1977 - art. 1 () JORF 29 décembre 1977 en vigueur le 31 mars 1978
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°77-1447 du 28 décembre 1977 - art. 10 (V)
+	  - SPEC_APPLI: Loi n°77-1447 du 28 décembre 1977 - art. 7 (V)
+	  - SPEC_APPLI: Loi n°77-1447 du 28 décembre 1977 - art. 8 (V)
+	  - SPEC_APPLI: Loi n°77-1447 du 28 décembre 1977 - art. 9 (V)
+	  - SPEC_APPLI: Loi n°2001-1135 2001-12-03 art. 26 I (application à Mayotte)
+
+
+###### Article 125
+
+La requête introductive d'instance peut être présentée dès l'année précédant l'expiration des délais prévus aux alinéas 1 et
+2 de l'article 122. Le jugement déclaratif d'absence est rendu un an au moins après la publication des extraits de cette
+requête. Il constate que la personne présumée absente n'a pas reparu au cours des délais visés à l'article 122.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°77-1447 du 28 décembre 1977 - art. 1 () JORF 29 décembre 1977 en vigueur le 31 mars 1978
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°77-1447 du 28 décembre 1977 - art. 10 (V)
+	  - SPEC_APPLI: Loi n°77-1447 du 28 décembre 1977 - art. 7 (V)
+	  - SPEC_APPLI: Loi n°77-1447 du 28 décembre 1977 - art. 8 (V)
+	  - SPEC_APPLI: Loi n°77-1447 du 28 décembre 1977 - art. 9 (V)
+	  - SPEC_APPLI: Loi n°2001-1135 2001-12-03 art. 26 I (application à Mayotte)
+
+	**Cite**:
+
+	  - Code civil - art. 122 (V)
+
+
+###### Article 126
+
+La requête aux fins de déclaration d'absence est considérée comme non avenue lorsque l'absent reparaît ou que la date de son
+décès vient à être établie, antérieurement au prononcé du jugement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°77-1447 du 28 décembre 1977 - art. 1 () JORF 29 décembre 1977 en vigueur le 31 mars 1978
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°77-1447 du 28 décembre 1977 - art. 10 (V)
+	  - SPEC_APPLI: Loi n°77-1447 du 28 décembre 1977 - art. 7 (V)
+	  - SPEC_APPLI: Loi n°77-1447 du 28 décembre 1977 - art. 8 (V)
+	  - SPEC_APPLI: Loi n°77-1447 du 28 décembre 1977 - art. 9 (V)
+	  - SPEC_APPLI: Loi n°2001-1135 2001-12-03 art. 26 I (application à Mayotte)
+
+
+###### Article 127
+
+Lorsque le jugement déclaratif d'absence est rendu, des extraits en sont publiés selon les modalités prévues à l'article 123,
+dans le délai fixé par le tribunal. La décision est réputée non avenue si elle n'a pas été publiée dans ce délai. 
+
+Quand le jugement est passé en force de chose jugée, son dispositif est transcrit à la requête du procureur de la République
+sur les registres des décès du lieu du domicile de l'absent ou de sa dernière résidence. Mention de cette transcription est
+faite en marge des registres à la date du jugement déclarant l'absence ; elle est également faite en marge de l'acte de
+naissance de la personne déclarée absente. 
+
+La transcription rend le jugement opposable aux tiers qui peuvent seulement en obtenir la rectification conformément à
+l'article 99.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°77-1447 du 28 décembre 1977 - art. 1 () JORF 29 décembre 1977 en vigueur le 31 mars 1978
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°77-1447 du 28 décembre 1977 - art. 10 (V)
+	  - SPEC_APPLI: Loi n°77-1447 du 28 décembre 1977 - art. 7 (V)
+	  - SPEC_APPLI: Loi n°77-1447 du 28 décembre 1977 - art. 8 (V)
+	  - SPEC_APPLI: Loi n°77-1447 du 28 décembre 1977 - art. 9 (V)
+	  - SPEC_APPLI: Loi n°2001-1135 2001-12-03 art. 26 I (application à Mayotte)
+
+	**Cite**:
+
+	  - Code civil - art. 123 (V)
+	  - Code civil - art. 99 (V)
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 1069 (V)
+	  - Code des pensions militaires d'invalidité et de... - art. L144-1 (VD)
+	  - Code des pensions militaires d'invalidité et de... - art. L144-3 (VD)
+	  - Code des pensions militaires d'invalidité et de... - art. L146-3 (VD)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 128
+
+Le jugement déclaratif d'absence emporte, à partir de la transcription, tous les effets que le décès établi de l'absent
+aurait eus.
+
+Les mesures prises pour l'administration des biens de l'absent, conformément au chapitre Ier du présent titre prennent fin,
+sauf décision contraire du tribunal ou, à défaut, du juge qui les a ordonnées.
+
+Le conjoint de l'absent peut contracter un nouveau mariage.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°77-1447 du 28 décembre 1977 - art. 1 () JORF 29 décembre 1977 en vigueur le 31 mars 1978
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°77-1447 du 28 décembre 1977 - art. 10 (V)
+	  - SPEC_APPLI: Loi n°77-1447 du 28 décembre 1977 - art. 7 (V)
+	  - SPEC_APPLI: Loi n°77-1447 du 28 décembre 1977 - art. 8 (V)
+	  - SPEC_APPLI: Loi n°77-1447 du 28 décembre 1977 - art. 9 (V)
+	  - SPEC_APPLI: Loi n°2001-1135 2001-12-03 art. 26 I (application à Mayotte)
+
+
+###### Article 129
+
+Si l'absent reparaît ou si son existence est prouvée postérieurement au jugement déclaratif d'absence, l'annulation de ce
+jugement peut être poursuivie, à la requête du procureur de la République ou de toute partie intéressée. 
+
+Toutefois, si la partie intéressée entend se faire représenter, elle ne pourra le faire que par un avocat régulièrement
+inscrit au barreau. 
+
+Le dispositif du jugement d'annulation est publié sans délai, selon les modalités fixées par l'article 123. Mention de cette
+décision est portée, dès sa publication, en marge du jugement déclaratif d'absence et sur tout registre qui y fait référence.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°77-1447 du 28 décembre 1977 - art. 1 () JORF 29 décembre 1977 en vigueur le 31 mars 1978
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°77-1447 du 28 décembre 1977 - art. 10 (V)
+	  - SPEC_APPLI: Loi n°77-1447 du 28 décembre 1977 - art. 7 (V)
+	  - SPEC_APPLI: Loi n°77-1447 du 28 décembre 1977 - art. 8 (V)
+	  - SPEC_APPLI: Loi n°77-1447 du 28 décembre 1977 - art. 9 (V)
+	  - SPEC_APPLI: Loi n°2001-1135 2001-12-03 art. 26 I (application à Mayotte)
+
+	**Cite**:
+
+	  - Code civil - art. 123 (V)
+
+
+###### Article 130
+
+L'absent dont l'existence est judiciairement constatée recouvre ses biens et ceux qu'il aurait dû recueillir pendant son
+absence dans l'état où ils se trouvent, le prix de ceux qui auraient été aliénés ou les biens acquis en emploi des capitaux
+ou des revenus échus à son profit.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°77-1447 du 28 décembre 1977 - art. 1 () JORF 29 décembre 1977 en vigueur le 31 mars 1978
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°77-1447 du 28 décembre 1977 - art. 10 (V)
+	  - SPEC_APPLI: Loi n°77-1447 du 28 décembre 1977 - art. 7 (V)
+	  - SPEC_APPLI: Loi n°77-1447 du 28 décembre 1977 - art. 8 (V)
+	  - SPEC_APPLI: Loi n°77-1447 du 28 décembre 1977 - art. 9 (V)
+	  - SPEC_APPLI: Loi n°2001-1135 2001-12-03 art. 26 I (application à Mayotte)
+
+	**Cité par**:
+
+	  - Code civil - art. 92 (V)
+
+
+###### Article 131
+
+Toute partie intéressée qui a provoqué par fraude une déclaration d'absence sera tenue de restituer à l'absent dont
+l'existence est judiciairement constatée les revenus des biens dont elle aura eu la jouissance et de lui en verser les
+intérêts légaux à compter du jour de la perception, sans préjudice, le cas échéant, de dommages-intérêts complémentaires.
+
+Si la fraude est imputable au conjoint de la personne déclarée absente, celle-ci sera recevable à attaquer la liquidation du
+régime matrimonial auquel le jugement déclaratif d'absence aura mis fin.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°77-1447 du 28 décembre 1977 - art. 1 () JORF 29 décembre 1977 en vigueur le 31 mars 1978
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°77-1447 du 28 décembre 1977 - art. 10 (V)
+	  - SPEC_APPLI: Loi n°77-1447 du 28 décembre 1977 - art. 7 (V)
+	  - SPEC_APPLI: Loi n°77-1447 du 28 décembre 1977 - art. 8 (V)
+	  - SPEC_APPLI: Loi n°77-1447 du 28 décembre 1977 - art. 9 (V)
+	  - SPEC_APPLI: Loi n°2001-1135 2001-12-03 art. 26 I (application à Mayotte)
+
+	**Cité par**:
+
+	  - Code civil - art. 92 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 132
+
+Le mariage de l'absent reste dissous, même si le jugement déclaratif d'absence a été annulé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°77-1447 du 28 décembre 1977 - art. 1 () JORF 29 décembre 1977 en vigueur le 31 mars 1978
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°77-1447 du 28 décembre 1977 - art. 10 (V)
+	  - SPEC_APPLI: Loi n°77-1447 du 28 décembre 1977 - art. 7 (V)
+	  - SPEC_APPLI: Loi n°77-1447 du 28 décembre 1977 - art. 8 (V)
+	  - SPEC_APPLI: Loi n°77-1447 du 28 décembre 1977 - art. 9 (V)
+	  - SPEC_APPLI: Loi n°2001-1135 2001-12-03 art. 26 I (application à Mayotte)
+
+	**Cité par**:
+
+	  - Code civil - art. 92 (V)
 
 
 ## Titre V : Du mariage
@@ -25918,6 +26407,34 @@ avec les formalités prescrites pour l'aliénation des biens des mineurs. Les é
 	  - Code civil - art. 838 (M)
 
 
+###### Article 840
+
+Les partages faits conformément aux règles ci-dessus prescrites au nom des présumés absents et non présents sont définitifs ;
+ils ne sont que provisionnels si les règles prescrites n'ont pas été observées.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°64-1230 du 14 décembre 1964 - art. 2 () JORF 15 décembre 1964
+	  - Loi n°77-1447 du 28 décembre 1977 - art. 4 () JORF 29 décembre 1977 en vigueur le 31 mars 1978
+
+	**Cité par**:
+
+	  - Décret n°2014-945 du 21 août 2014 - art. 1 (VT)
+	  - Code civil - art. 116 (V)
+	  - Code civil - art. 466 (VT)
+	  - Code civil - art. 507 (VD)
+
+	**Codifié par**:
+
+	  - Loi n°1803-04-19
+
+	**Créé par**:
+
+	  - Loi n°1803-04-19 promulguée le 29 avril 1803
+
+
 ###### Article 842
 
 Après le partage, remise doit être faite, à chacun des copartageants, des titres particuliers aux objets qui lui seront
@@ -39706,6 +40223,29 @@ qu'il y ait terme pour le paiement, s'il n'y a stipulation contraire.
 ##### Section 3 : De la dissolution de la communauté
 
 ##### Paragraphe 1 : Des causes de dissolution et de la séparation de biens.
+
+###### Article 1441
+
+La communauté se dissout :
+
+1° par la mort de l'un des époux ;
+
+2° par l'absence déclarée ;
+
+3° par le divorce ;
+
+4° par la séparation de corps ;
+
+5° par la séparation de biens ;
+
+6° par le changement du régime matrimonial.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°65-570 1965-07-13
+
 
 ###### Article 1443
 

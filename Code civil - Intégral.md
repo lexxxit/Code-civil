@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1973-12-27
+Version Consolidée au 1974-07-07
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -9161,6 +9161,107 @@ l'autoriseraient à révoquer son consentement.
 	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 9 (V)
 
 
+###### Article 377
+
+Les père et mère, ensemble ou séparément, ou le tuteur autorisé par le conseil de famille, peuvent, quand ils ont remis
+l'enfant mineur de seize ans à un particulier digne de confiance, à un établissement agréé à cette fin, ou au service
+départemental de l'aide sociale à l'enfance, renoncer en tout ou partie à l'exercice de leur autorité.
+
+En ce cas, délégation, totale ou partielle, de l'autorité parentale résultera du jugement qui sera rendu par le tribunal sur
+la requête conjointe des délégants et du délégataire.
+
+La même délégation peut être décidée, à la seule requête du délégataire, lorsque les parents se sont désintéressés de
+l'enfant depuis plus d'un an.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°59-1095 du 21 septembre 1959 - art. 10 (Ab)
+	  - Décret n°59-1095 du 21 septembre 1959 - art. 13 (Ab)
+	  - Décret n°59-1095 du 21 septembre 1959 - art. 2 (Ab)
+	  - Décret n°59-1095 du 21 septembre 1959 - art. 6 (Ab)
+	  - Arrêté du 24 mai 1974 - art. 9 (Ab)
+	  - Code de l'action sociale et des familles - art. L222-5 (VD)
+	  - Code de l'action sociale et des familles - art. L223-3 (M)
+	  - Code de l'action sociale et des familles - art. L228-3 (V)
+	  - Code de la défense. - art. D4123-4 (V)
+	  - Code de la défense. - art. R4123-21 (V)
+	  - Code de la famille et de l'aide sociale. - art. 46 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 57 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 85 (Ab)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°70-459 du 4 juin 1970 - art. 1 () JORF 5 juin 1970 en vigueur le 1er janvier 1971
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 10 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 11 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 12 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 13 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 14 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 15 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 9 (V)
+
+	**Modifié par**:
+
+	  - Loi n°74-631 du 5 juillet 1974 - art. 5 () JORF 7 juillet 1974
+
+
+###### Article 377-1
+
+La délégation de l'autorité parentale peut aussi avoir lieu quand le mineur de seize ans a été recueilli sans l'intervention
+des père et mère ou du tuteur. Mais il faut, en ce cas, que le particulier ou l'établissement, après avoir recueilli
+l'enfant, en ait fait la déclaration à l'autorité administrative du lieu.
+
+Cette déclaration est faite dans la huitaine. L'autorité administrative, dans le mois qui suit, en donne avis aux père et
+mère ou au tuteur. La notification qui leur est ainsi faite ouvre un nouveau délai de trois mois à l'expiration duquel, faute
+par eux de réclamer l'enfant, ils sont présumés renoncer à exercer sur lui leur autorité.
+
+Le particulier, l'établissement ou le service départemental de l'aide sociale à l'enfance qui a recueilli l'enfant peut alors
+présenter requête au tribunal aux fins de se faire déléguer totalement ou partiellement l'autorité parentale. Quel que soit
+le requérant, le tribunal peut décider, dans l'intérêt de l'enfant, les parents entendus ou appelés, que l'autorité parentale
+sera déléguée au service de l'aide sociale à l'enfance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°70-459 du 4 juin 1970 - art. 1 () JORF 5 juin 1970 en vigueur le 1er janvier 1971
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 10 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 11 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 12 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 13 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 14 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 15 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 9 (V)
+
+	**Modifié par**:
+
+	  - Loi n°74-631 du 5 juillet 1974 - art. 5 () JORF 7 juillet 1974
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. L222-5 (V)
+	  - Code de la famille et de l'aide sociale. - art. 46 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 85 (Ab)
+	  - Code de la sécurité sociale. - art. L351-4 (V)
+	  - Nouveau code de procédure civile - art. 1201 (Ab)
+
+
 ###### Article 377-2
 
 La délégation pourra, dans tous les cas, prendre fin ou être transférée par un nouveau jugement, s'il est justifié de
@@ -9565,6 +9666,42 @@ La jouissance légale appartient à celui des père et mère qui a la charge de 
 	  - Code civil - art. 389-1 (M)
 
 
+###### Article 384
+
+Le droit de jouissance cesse :
+
+1° Dès que l'enfant a seize ans accomplis, ou même plus tôt quand il contracte mariage ;
+
+2° Par les causes qui mettent fin à l'autorité parentale, ou même plus spécialement par celles qui mettent fin à
+l'administration légale ;
+
+3° Par les causes qui emportent l'extinction de tout usufruit.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°70-459 du 4 juin 1970 - art. 1 () JORF 5 juin 1970 en vigueur le 1er janvier 1971
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 10 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 11 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 12 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 13 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 14 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 15 (V)
+	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 9 (V)
+
+	**Modifié par**:
+
+	  - Loi n°74-631 du 5 juillet 1974 - art. 5 () JORF 7 juillet 1974
+
+
 ###### Article 385
 
 Les charges de cette jouissance sont :
@@ -9923,6 +10060,38 @@ pourra, à la requête de ce parent, décider de substituer à la tutelle l'admi
 
 ## Titre X : De la minorité, de la tutelle et de l'émancipation.
 
+### Chapitre Ier : De la minorité.
+
+###### Article 388
+
+Le mineur est l'individu de l'un ou l'autre sexe qui n'a point encore l'âge de dix-huit ans accomplis.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°74-631 du 5 juillet 1974 - art. 1 () JORF 7 juillet 1974
+
+	**Cité par**:
+
+	  - Décret n°2016-840 du 24 juin 2016 - art. 1
+	  - Arrêté du 17 novembre 2016 (V)
+	  - Arrêté du 17 novembre 2016 - art. 8 (V)
+	  - Code de l'action sociale et des familles - art. R221-11 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°1803-03-26 promulguée le 5 avril 1803
+
+
 ### Chapitre II : De la tutelle.
 
 #### Section 2 : De l'organisation de la tutelle.
@@ -10280,6 +10449,30 @@ La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 	**Créé par**:
 
 	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+
+
+###### Article 410
+
+Le conseil de famille est convoqué par le juge des tutelles. Il doit l'être si la convocation est requise, soit par deux de
+ses membres, soit par le tuteur ou le subrogé tuteur, soit par le mineur lui-même pourvu qu'il ait seize ans révolus.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+
+	**Modifié par**:
+
+	  - Loi n°74-631 du 5 juillet 1974 - art. 5 () JORF 7 juillet 1974
+
+	**Cité par**:
+
+	  - Code civil - art. 447 (VT)
 
 
 ###### Article 411
@@ -11838,6 +12031,35 @@ La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 	  - Code de procédure civile - art. 1213 (V)
 
 
+###### Article 470
+
+Dès avant la fin de la tutelle, le tuteur est tenu de remettre chaque année au subrogé tuteur un compte de gestion. Ce compte
+sera rédigé et remis, sans frais, sur papier non timbré.
+
+Le subrogé tuteur transmet le compte, avec ses observations, au juge des tutelles, lequel, s'il y échet, convoque le conseil
+de famille.
+
+Si le mineur a atteint l'âge de seize ans révolus, le juge des tutelles peut décider que le compte lui sera communiqué.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+
+	**Modifié par**:
+
+	  - Loi n°74-631 du 5 juillet 1974 - art. 5 () JORF 7 juillet 1974
+
+	**Cité par**:
+
+	  - Décret n°2008-1484 du 22 décembre 2008 - art. Annexe 1 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
 ###### Article 471
 
 Dans les trois mois qui suivront la fin de la tutelle, le compte définitif sera rendu soit au mineur lui-même, devenu majeur
@@ -11983,6 +12205,110 @@ La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 
 
 ### Chapitre III : De l'émancipation.
+
+###### Article 476
+
+Le mineur est émancipé de plein droit par le mariage.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 413-1 (VD)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+
+	**Modifié par**:
+
+	  - Loi n°74-631 du 5 juillet 1974 - art. 4 () JORF 7 juillet 1974
+
+	**Transféré par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 1 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+
+
+###### Article 477
+
+Le mineur, même non marié, pourra être émancipé lorsqu'il aura atteint l'âge de seize ans révolus.
+
+Cette émancipation sera prononcée, s'il y a de justes motifs, par le juge des tutelles, à la demande des père et mère ou de
+l'un d'eux.    Lorsque la demande sera présentée par un seul des parents, le juge décidera, après avoir entendu l'autre, à
+moins que ce dernier soit dans l'impossibilité de manifester sa volonté.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+
+	**Cité par**:
+
+	  - Décret n°67-223 du 17 mars 1967 - art. 32 (V)
+	  - Arrêté du 23 décembre 2009 - art. Annexe (V)
+	  - Arrêté du 28 octobre 2016 - art. 3
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L322-2 (Ab)
+	  - Code de commerce - art. A444-79-1 (V)
+	  - Code de procédure civile - art. 1258 (V)
+	  - Code de procédure civile - art. 1258-1 (V)
+
+	**Modifié par**:
+
+	  - Loi n°74-631 du 5 juillet 1974 - art. 4 () JORF 7 juillet 1974
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 413-2 (VD)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 478
+
+Le mineur resté sans père ni mère pourra de la même manière être émancipé à la demande du conseil de famille.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+
+	**Modifié par**:
+
+	  - Loi n°74-631 du 5 juillet 1974 - art. 4 () JORF 7 juillet 1974
+
+	**Transféré par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 1 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 413-3 (VD)
+
+	**Cité par**:
+
+	  - Code civil - art. 413-4 (VD)
+	  - Code civil - art. 479 (AbD)
+
 
 ###### Article 479
 
@@ -12222,6 +12548,51 @@ délai au conseil qui décidera du remploi.
 ## Titre XI : De la majorité et des majeurs qui sont protégés par la loi.
 
 ### Chapitre Ier : Dispositions générales.
+
+###### Article 488
+
+La majorité est fixée à dix-huit ans accomplis ; à cet âge, on est capable de tous les actes de la vie civile.
+
+Est néanmoins protégé par la loi, soit à l'occasion d'un acte particulier, soit d'une manière continue, le majeur qu'une
+altération de ses facultés personnelles met dans l'impossibilité de pourvoir seul à ses intérêts.
+
+Peut pareillement être protégé le majeur qui, par sa prodigalité, son intempérance ou son oisiveté, s'expose à tomber dans le
+besoin ou compromet l'exécution de ses obligations familiales.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°67-237 du 23 mars 1967 - art. 30 (Ab)
+	  - Loi n°68-5 du 3 janvier 1968 - art. 11 (V)
+	  - Code civil - art. 1124 (M)
+	  - Code civil - art. 508-1 (VT)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°68-5 du 3 janvier 1968 - art. 1 () JORF 4 janvier 1968 en vigueur le 1er novembre 1968
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 14 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 15 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 16 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 17 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 21 (V)
+	  - SPEC_APPLI: Loi n°68-696 1968-07-31 art. 14
+
+	**Modifié par**:
+
+	  - Loi n°74-631 du 5 juillet 1974 - art. 1 () JORF 7 juillet 1974
+
 
 ###### Article 489
 
@@ -31524,6 +31895,25 @@ La simple déclaration de majorité, faite par le mineur, ne fait point obstacle
 	**Créé par**:
 
 	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1308
+
+Le mineur qui exerce une profession n'est point restituable contre les engagements qu'il a pris dans l'exercice de celle-ci.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+	**Modifié par**:
+
+	  - Loi n°74-631 du 5 juillet 1974 - art. 9
 
 
 ###### Article 1309

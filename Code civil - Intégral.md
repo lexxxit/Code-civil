@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1972-08-01
+Version Consolidée au 1972-09-16
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -44692,6 +44692,42 @@ L'erreur de calcul dans une transaction doit être réparée.
 
 ## Titre XVI : Du compromis
 
+###### Article 2059
+
+Toutes personnes peuvent compromettre sur les droits dont elles ont la libre disposition.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°68-1 du 2 janvier 1968 - art. 68 (Ab)
+	  - Loi n°91-7 du 4 janvier 1991 - art. 35 (Ab)
+	  - Code de la propriété intellectuelle - art. L615-17 (V)
+	  - Code de la propriété intellectuelle - art. L623-31 (V)
+	  - Code de la propriété intellectuelle - art. L716-4 (V)
+
+	**Codifié par**:
+
+	  - Loi n°72-626 1972-07-05
+
+
+###### Article 2061
+
+La clause compromissoire est nulle s'il n'est disposé autrement par la loi.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°72-626 1972-07-05
+
+	**Cité par**:
+
+	  - Décret n°2000-810 du 24 août 2000 - art. Annexe V (Ab)
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 57 (V)
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 58 (V)
+
+
 ###### Article 2062
 
 (article abrogé).
@@ -44957,6 +44993,41 @@ par acte public ou sous seing privé, aussi enregistré, et signifié au débite
 	**Créé par**:
 
 	  - Loi n°1804-03-16 promulguée le 26 mars 1804
+
+
+###### Article 2075-1
+
+Le dépôt ou la consignation de sommes, effets ou valeurs, ordonné judiciairement à titre de garantie ou à titre
+conservatoire, emporte affectation spéciale et privilège de l'article 2073.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-16
+
+	**Cité par**:
+
+	  - Loi n°85-98 du 25 janvier 1985 - art. 107 (Ab)
+	  - Loi n°91-650 du 9 juillet 1991 - art. 75 (VT)
+	  - Code de commerce - art. L632-1 (VD)
+	  - Code de commerce. - art. L621-107 (T)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 98-774 1998-09-02 art. 1 I (champ d'application territoriale aux TOM et à Mayotte)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 56 () JORF 24 mars 2006
+
+	**Cite**:
+
+	  - Code civil - art. 2073 (Ab)
 
 
 ###### Article 2076

@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1958-04-30
+Version Consolidée au 1958-08-30
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -1142,6 +1142,57 @@ Il sera fait mention du décès en marge de l'acte de naissance de la personne d
 	  - Loi n°1803-03-11 promulguée le 21 mars 1803
 
 
+###### Article 80
+
+Lorsqu'un décès se sera produit ailleurs que dans la commune où le défunt était domicilié, l'officier de l'état civil qui
+aura dressé l'acte de décès enverra, dans le plus bref délai, à l'officier de l'état civil du dernier domicile du défunt, une
+expédition de cet acte, laquelle sera immédiatement transcrite sur les registres. Cette disposition ne s'applique pas aux
+villes divisées en arrondissements, lorsque le décès est survenu dans un arrondissement autre que celui où le défunt était
+domicilié.
+
+En cas de décès dans les hôpitaux ou les formations sanitaires, les hôpitaux maritimes, coloniaux, civils, ou autres
+établissements publics, soit en France, soit dans les colonies ou les pays de protectorat, les directeurs, administrateurs ou
+maîtres de ces hôpitaux ou établissements devront en donner avis, dans les vingt-quatre heures, à l'officier de l'état civil
+ou à celui qui en remplit les fonctions.
+
+Celui-ci s'y transportera pour s'assurer du décès et en dressera l'acte, conformément à l'article précédent, sur les
+déclarations qui lui auront été faites, et sur les renseignements qu'il aura pris.
+
+Il sera tenu, dans lesdits hôpitaux, formations sanitaires et établissements, un registre sur lequel seront inscrits ces
+déclarations et renseignements.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°54-883 du 2 septembre 1954 - art. 10 (Ab)
+	  - Décret n°65-422 du 1 juin 1965 - art. 10 (V)
+	  - Décret n°65-422 du 1 juin 1965 - art. 9 (V)
+	  - Décret n°74-27 du 14 janvier 1974 - art. 70 (Ab)
+	  - Code civil - art. 84 (V)
+	  - Code de l'action sociale et des familles - art. R131-5 (T)
+	  - Code de l'action sociale et des familles - art. R131-6 (V)
+	  - Code de la santé publique - art. R1112-71 (V)
+	  - Code général des collectivités territoriales - art. R2213-8 (V)
+	  - Décret n°41-5050 du 31 décembre 1941 - art. 4-1 (Ab)
+
+	**Modifié par**:
+
+	  - Ordonnance 58-779 1958-08-23 art. 4 JORF 30 août 1958
+
+	**Cite**:
+
+	  - Code civil - art. 79 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-11
+
+	**Créé par**:
+
+	  - Loi n°1803-03-11 promulguée le 21 mars 1803
+
+
 ###### Article 81
 
 Lorsqu'il y aura des signes ou indices de mort violente, ou d'autres circonstances qui donneront lieu de le soupçonner, on ne
@@ -1264,7 +1315,239 @@ par l'article 79.
 	  - Loi n°1803-03-11 promulguée le 21 mars 1803
 
 
+###### Article 87
+
+Lorsque le corps d'une personne décédée est retrouvé et peut être identifié, un acte de décès doit être dressé par l'officier
+de l'état civil du lieu présumé du décès, quel que soit le temps écoulé entre le décès et la découverte du corps. 
+
+Si le défunt ne peut être identifié, l'acte de décès doit comporter son signalement le plus complet ; en cas d'identification
+ultérieure, l'acte est rectifié dans les conditions prévues à l'article 99 du présent code.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°55-1350 du 14 octobre 1955 - art. 69 (VD)
+	  - Loi n°71-569 du 15 juillet 1971 - art. 6-1 (V)
+	  - Code de l'aviation civile - art. L142-3 (VT)
+	  - Code de procédure pénale - art. 814-2 (V)
+	  - Code de procédure pénale - art. R93 (V)
+	  - Code des communes de la Nouvelle-Calédonie - art. L362-1 (V)
+	  - Code des pensions militaires d'invalidité et de... - art. R171 (Ab)
+	  - Code des transports - art. L6132-3 (V)
+	  - Code disciplinaire et pénal de la marine marchande - art. 43 (VT)
+	  - Code général des collectivités territoriales - art. L2223-42 (VD)
+
+	**Modifié par**:
+
+	  - Ordonnance 58-779 1958-08-23 art. 1 JORF 30 août 1958
+	  - Ordonnance 1945-10-30 art. 1
+
+	**Cite**:
+
+	  - Code civil - art. 99 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-11
+
+	**Créé par**:
+
+	  - Loi n°1803-03-11 promulguée le 21 mars 1803
+
+
+###### Article 88
+
+Peut être judiciairement déclaré, à la requête du procureur de la République ou des parties intéressées, le décès de tout
+Français disparu en France ou hors de France, dans des circonstances de nature à mettre sa vie en danger, lorsque son corps
+n'a pu être retrouvé.
+
+Peut, dans les mêmes conditions, être judiciairement déclaré le décès de tout étranger ou apatride disparu soit sur un
+territoire relevant de l'autorité de la France, soit à bord d'un bâtiment ou aéronef français, soit même à l'étranger s'il
+avait son domicile ou sa résidence habituelle en France.
+
+La procédure de déclaration judiciaire de décès est également applicable lorsque le décès est certain mais que le corps n'a
+pu être retrouvé.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°55-1350 du 14 octobre 1955 - art. 69 (V)
+	  - Code des pensions militaires d'invalidité et de... - art. L144-2 (VD)
+	  - Code des pensions militaires d'invalidité et de... - art. L146-3 (VD)
+	  - Code des pensions militaires d'invalidité et de... - art. R171 (Ab)
+	  - Code des transports - art. L6132-3 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-11
+
+	**Créé par**:
+
+	  - Loi n°1803-03-11 promulguée le 21 mars 1803
+
+	**Modifié par**:
+
+	  - Ordonnance 1945-10-30 art. 1
+	  - Ordonnance 58-779 1958-08-23 art. 1 JORF 30 août 1958
+
+
+###### Article 89
+
+La requête est présentée au tribunal de grande instance du lieu de la mort ou de la disparition, si celle-ci s'est produite
+sur un territoire relevant de l'autorité de la France, sinon au tribunal du domicile ou de la dernière résidence du défunt ou
+du disparu ou, à défaut, au tribunal du lieu du port d'attache de l'aéronef ou du bâtiment qui le transportait. A défaut de
+tout autre, le tribunal de grande instance de Paris est compétent.
+
+Si plusieurs personnes ont disparu au cours du même événement, une requête collective peut être présentée au tribunal du lieu
+de la disparition, à celui du port d'attache du bâtiment ou de l'aéronef ou, à défaut, au tribunal de grande instance de
+Paris.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Ordonnance 58-779 1958-08-23 art. 1 JORF 30 août 1958
+	  - Ordonnance 1945-10-30 art. 1
+
+	**Cité par**:
+
+	  - Code civil - art. 92 (V)
+	  - Code des pensions militaires d'invalidité et de... - art. R171 (Ab)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-11
+
+	**Créé par**:
+
+	  - Loi n°1803-03-11 promulguée le 21 mars 1803
+
+
+###### Article 90
+
+Lorsqu'elle n'émane pas du procureur de la République, la requête est transmise par son intermédiaire au tribunal. L'affaire
+est instruite et jugée en chambre du conseil. Le ministère d'avocat n'est pas obligatoire et tous les actes de la procédure,
+ainsi que les expéditions et extraits desdits actes, sont dispensés du timbre et enregistrés gratis.
+
+Si le tribunal estime que le décès n'est pas suffisamment établi, il peut ordonner toute mesure d'information complémentaire
+et requérir notamment une enquête administrative sur les circonstances de la disparition.
+
+Si le décès est déclaré, sa date doit être fixée en tenant compte des présomptions tirées des circonstances de la cause et, à
+défaut, au jour de la disparition. Cette date ne doit jamais être indéterminée.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Ordonnance 58-779 1958-08-23 art. 1 JORF 30 août 1958
+	  - Ordonnance 1945-10-30 art. 1
+
+	**Cité par**:
+
+	  - Code de l'aviation civile - art. L142-3 (VT)
+	  - Code des pensions militaires d'invalidité et de... - art. R171 (Ab)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-11
+
+	**Créé par**:
+
+	  - Loi n°1803-03-11 promulguée le 21 mars 1803
+
+
+###### Article 91
+
+Le dispositif du jugement déclaratif de décès est transcrit sur les registres de l'état civil du lieu réel ou présumé du
+décès et, le cas échéant, sur ceux du lieu du dernier domicile du défunt. 
+
+Mention de la transcription est faite en marge des registres à la date du décès. En cas de jugement collectif, des extraits
+individuels du dispositif sont transmis aux officiers de l'état civil du dernier domicile de chacun des disparus, en vue de
+la transcription. 
+
+Les jugements déclaratifs de décès tiennent lieu d'actes de décès et sont opposables aux tiers, qui peuvent seulement en
+obtenir la rectification, conformément à l'article 99 du présent code.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code civil - art. 99 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-11
+
+	**Créé par**:
+
+	  - Loi n°1803-03-11 promulguée le 21 mars 1803
+
+	**Modifié par**:
+
+	  - Ordonnance 1945-10-30 art. 1
+	  - Ordonnance 58-779 1958-08-23 art. 1 JORF 30 août 1958
+
+
 ### Chapitre V : Des actes de l'état civil concernant les militaires et marins dans certains cas spéciaux.
+
+###### Article 93
+
+Les actes de l'état civil concernant les militaires et les marins de l'Etat sont établis comme il est dit aux chapitres
+précédents.
+
+Toutefois, hors de la France métropolitaine, et en cas de guerre, d'expédition, d'opération de maintien de l'ordre et de
+pacification ou de stationnement des troupes françaises en territoire étranger, en occupation ou en vertu d'accords
+intergouvernementaux, ces actes peuvent être également reçus par les officiers de l'état civil militaires désignés par arrêté
+du ministre des armées. Lesdits officiers de l'état civil sont également compétents à l'égard des non-militaires lorsque les
+dispositions des chapitres précédents sont inapplicables.
+
+En France métropolitaine, les officiers de l'état civil ci-dessus visés peuvent recevoir les actes concernant les militaires
+et les non-militaires, dans les parties du territoire où, par suite de mobilisation ou de siège, le service municipal de
+l'état civil n'est plus régulièrement assuré.
+
+Les déclarations de naissance aux armées sont faites dans les dix jours qui suivent l'accouchement.
+
+Les actes de décès peuvent être dressés aux armées par dérogation à l'article 77 ci-dessus, bien que l'officier de l'état
+civil n'ait pu se transporter auprès de la personne décédée, et, par dérogation à l'article 78, ils ne peuvent y être dressés
+que sur l'attestation de deux déclarants.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Ordonnance n°45-320 du 3 mars 1945 - art. 3 (V)
+	  - Loi n°57-1232 du 28 novembre 1957 - art. 2 (Ab)
+	  - Décret n°65-422 du 1 juin 1965 - art. 10 (V)
+	  - Arrêté du 16 février 2011 - art. 20 (Ab)
+	  - Arrêté du 20 avril 2012 - art. 22 (V)
+	  - Code civil - art. 95 (V)
+	  - Code civil - art. 96 (V)
+	  - Code civil - art. 96-1 (V)
+	  - Code civil - art. 97 (V)
+	  - Code civil - art. 981 (V)
+	  - Code civil - art. 984 (V)
+	  - Décret-loi du 9 septembre 1939 - art. 1 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°57-1232 du 28 novembre 1957 - art. 1 () JORF 20 novembre 1957
+	  - Ordonnance 58-779 1958-08-23 art. 2 JORF 30 août 1958
+
+	**Cite**:
+
+	  - Code civil - art. 77 (Ab)
+	  - Code civil - art. 78 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-11
+
+	**Créé par**:
+
+	  - Loi n°1803-03-11 promulguée le 21 mars 1803
+
 
 ###### Article 94
 
@@ -1339,6 +1622,31 @@ forces armées.
 	**Modifié par**:
 
 	  - Loi n°57-1232 du 28 novembre 1957 - art. 1 () JORF 29 novembre 1957
+
+
+### Chapitre VII : De la rectification des actes d'état civil.
+
+###### Article 100
+
+Toute rectification judiciaire ou administrative d'un acte ou jugement relatif à l'état civil est opposable à tous.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code civil - art. 61-4 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-11
+
+	**Créé par**:
+
+	  - Loi n°1803-03-11 promulguée le 21 mars 1803
+
+	**Modifié par**:
+
+	  - Ordonnance 58-779 1958-08-23 art. 1 JORF 30 août 1958
 
 
 ## Titre III : Du domicile
@@ -2172,11 +2480,16 @@ dispense prévue à l'article 169 ci-après.
 	  - Loi n°1803-03-17 promulguée le 27 mars 1803
 
 
-###### Article 167
+###### Article 166
 
-(article abrogé).
+La publication ordonnée à l'article 63 sera faite à la mairie du lieu du mariage et à celle du lieu où chacun des futurs
+époux a son domicile ou, à défaut de domicile, sa résidence.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code civil - art. 63 (V)
 
 	**Codifié par**:
 
@@ -2186,28 +2499,9 @@ dispense prévue à l'article 169 ci-après.
 
 	  - Loi n°1803-03-17 promulguée le 27 mars 1803
 
-	**Abrogé par**:
+	**Modifié par**:
 
-	  - Ordonnance 58-779 1958-12-23 art. 8 JORF 30 août 1958
-
-
-###### Article 168
-
-(article abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°1803-03-17 promulguée le 27 mars 1803
-
-	**Abrogé par**:
-
-	  - Ordonnance 58-779 1958-12-23 art. 8 JORF 30 août 1958
+	  - Ordonnance 58-779 1958-08-23 art. 1 JORF 30 août 1958
 
 
 ###### Article 169

@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1994-03-01
+Version Consolidée au 1994-07-01
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -2442,6 +2442,34 @@ Il en est délivré récépissé après remise des pièces nécessaires à la pr
 	**Cite**:
 
 	  - Code civil - art. 21-9 (M)
+
+
+###### Article 26-1
+
+Toute déclaration de nationalité doit, à peine de nullité, être enregistrée soit par le juge d'instance, pour les
+déclarations souscrites en France, soit par le ministre de la justice, pour les déclarations souscrites à l'étranger.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°93-933 1993-07-22
+
+	**Créé par**:
+
+	  - Loi n°93-933 du 22 juillet 1993 - art. 50 () JORF 23 juillet 1993 en vigueur le 1er juillet 1994
+	  - Loi n°93-933 du 22 juillet 1993 - art. 51 (V) JORF 23 juillet 1993 en vigueur le 1er juillet 1994
+
+	**Cité par**:
+
+	  - Décret n°2017-890 du 6 mai 2017 - art. 30 (VD)
+	  - Décret n°2017-890 du 6 mai 2017 - art. 32 (VD)
+	  - Code civil - art. 21-2 (V)
+	  - Code civil - art. 21-9 (M)
+
+	**Anciens textes**:
+
+	  - Code de la nationalité française. - art. 104 (Ab)
 
 
 ###### Article 26-2

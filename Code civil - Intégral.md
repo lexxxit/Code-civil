@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 2000-12-14
+Version Consolidée au 2001-02-08
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -16953,14 +16953,14 @@ Si l'adopté est âgé de plus de treize ans, il doit consentir personnellement 
 
 ###### Article 361
 
-Les dispositions des articles 343 à 344, 346 à 350, 353, 353-1, 355 et 357, dernier alinéa, sont applicables à l'adoption
-simple.
+Les dispositions des articles 343 à 344, 346 à 350, 353, 353-1, 353-2, 355 et 357, dernier alinéa, sont applicables à
+l'adoption simple.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Codifié par**:
 
-	  - Loi n°66-500 du 11 juillet 1966 - art. 1 () JORF 12 juillet 1966 en vigueur le 1er novembre 1966
+	  - Loi n°1803-03-14
 
 	**Liens**:
 
@@ -16971,7 +16971,7 @@ simple.
 
 	**Modifié par**:
 
-	  - Loi n°76-1179 1976-12-22 art. 11 JORF 23 décembre 1976
+	  - Loi n°2001-111 du 6 février 2001 - art. 4 ()
 
 	**Cité par**:
 
@@ -16983,13 +16983,10 @@ simple.
 
 	  - Code civil - art. 353 (M)
 	  - Code civil - art. 353-1 (T)
+	  - Code civil - art. 353-2 (V)
 	  - Code civil - art. 355 (V)
 	  - Code civil - art. 357 (M)
-	  - Code civil 343 à 344, 346 à 350, 353, 353-1, 355, 357
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
+	  - Code civil 343 à 344, 346 à 350, 353, 353-1, 353-2, 355, 357
 
 
 ###### Article 362
@@ -17331,6 +17328,73 @@ La révocation fait cesser pour l'avenir tous les effets de l'adoption.
 	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 12 (V)
 	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 13 (V)
 	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 7 (V)
+
+
+### Chapitre III : Du conflit des lois relatives à la filiation adoptive et de l'effet en France des adoptions prononcées à l'étranger
+
+###### Article 370-3
+
+Les conditions de l'adoption sont soumises à la loi nationale de l'adoptant ou, en cas d'adoption par deux époux, par la loi
+qui régit les effets de leur union. L'adoption ne peut toutefois être prononcée si la loi nationale de l'un et l'autre époux
+la prohibe.
+
+L'adoption d'un mineur étranger ne peut être prononcée si sa loi personnelle prohibe cette institution, sauf si ce mineur est
+né et réside habituellement en France.
+
+Quelle que soit la loi applicable, l'adoption requiert le consentement du représentant légal de l'enfant. Le consentement
+doit être libre, obtenu sans aucune contrepartie, après la naissance de l'enfant et éclairé sur les conséquences de
+l'adoption, en particulier, s'il est donné en vue d'une adoption plénière, sur le caractère complet et irrévocable de la
+rupture du lien de filiation préexistant.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2001-111 2001-02-06 art. 3 (date d'effet des dispositions du deuxième alinéa du présent article 370-3 du code civil)
+
+	**Créé par**:
+
+	  - Loi n°2001-111 du 6 février 2001 - art. 2
+
+	**Cité par**:
+
+	  - Loi n°2001-111 du 6 février 2001 - art. 3 (V)
+
+
+###### Article 370-4
+
+Les effets de l'adoption prononcée en France sont ceux de la loi française.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°2001-111 du 6 février 2001 - art. 2
+
+
+###### Article 370-5
+
+L'adoption régulièrement prononcée à l'étranger produit en France les effets de l'adoption plénière si elle rompt de manière
+complète et irrévocable le lien de filiation préexistant. A défaut, elle produit les effets de l'adoption simple. Elle peut
+être convertie en adoption plénière si les consentements requis ont été donnés expressément en connaissance de cause.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°2001-111 du 6 février 2001 - art. 2
 
 
 ## Titre IX : De l'autorité parentale

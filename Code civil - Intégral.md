@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1890-12-28
+Version Consolidée au 1892-07-11
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -29653,6 +29653,41 @@ tient.
 	**Cité par**:
 
 	  - Décret n°56-27 du 11 janvier 1956 - art. 12 (Ab)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-15
+
+	**Créé par**:
+
+	  - Loi n°1804-03-15 promulguée le 25 mars 1804
+
+
+###### Article 2280
+
+Si le possesseur actuel de la chose volée ou perdue l'a achetée dans une foire ou dans un marché, ou dans une vente publique,
+ou d'un marchand vendant des choses pareilles, le propriétaire originaire ne peut se la faire rendre qu'en remboursant au
+possesseur le prix qu'elle lui a coûté.
+
+Le bailleur qui revendique, en vertu de l'article 2102, les meubles déplacés sans son consentement et qui ont été achetés
+dans les mêmes conditions, doit également rembourser à l'acheteur le prix qu'ils lui ont coûté.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code civil - art. 2102 (M)
+
+	**Cité par**:
+
+	  - Code rural ancien - art. 672 (Ab)
+	  - Décret n°56-27 du 11 janvier 1956 - art. 11 (Ab)
+	  - Décret n°56-27 du 11 janvier 1956 - art. 12 (Ab)
+	  - Décret n°56-27 du 11 janvier 1956 - art. 18 (V)
+	  - Décret n°56-27 du 11 janvier 1956 - art. 20 (V)
+	  - Décret n°56-27 du 11 janvier 1956 - art. 28 (T)
+	  - Décret n°56-27 du 11 janvier 1956 - art. 30 (Ab)
+	  - Décret n°56-27 du 11 janvier 1956 - art. 5 (V)
 
 	**Codifié par**:
 

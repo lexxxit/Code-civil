@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1948-02-22
+Version Consolidée au 1948-08-26
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -29025,6 +29025,111 @@ Les privilèges sont ou généraux, ou particuliers sur certains meubles.
 	**Créé par**:
 
 	  - Loi n°1804-03-19 promulguée le 29 mars 1804
+
+
+#### Section I : Des privilèges sur les meubles
+
+##### Paragraphe II : Des privilèges sur certains meubles.
+
+###### Article 2102
+
+Les créances privilégiées sur certains meubles sont :
+
+1° Les loyers et fermages des immeubles, sur les fruits de la récolte de l'année, et sur le prix de tout ce qui garnit la
+maison louée ou la ferme, et de tout ce qui sert à l'exploitation de la ferme ; savoir, pour tout ce qui est échu, et pour
+tout ce qui est à échoir, si les baux sont authentiques, ou si, étant sous signature privée, ils ont une date certaine ; et,
+dans ces deux cas, les autres créanciers ont le droit de relouer la maison ou la ferme pour le restant du bail, et de faire
+leur profit des baux ou fermages, à la charge toutefois de payer au propriétaire tout ce qui lui serait encore dû ;
+
+Et, à défaut de baux authentiques, ou lorsque étant sous signature privée ils n'ont pas une date certaine, pour une année à
+partir de l'expiration de l'année courante.
+
+Le même privilège a lieu pour les réparations locatives et pour tout ce qui concerne l'exécution du bail. Il a lieu également
+pour toute créance résultant, au profit du propriétaire ou bailleur, de l'occupation des lieux à quelque titre que ce soit.
+
+Néanmoins, les sommes dues pour les semences, pour les engrais et amendements, pour les produits anticryptogamiques et
+insecticides, pour les produits destinés à la destruction des parasites végétaux et animaux nuisibles à l'agriculture, ou
+pour les frais de la récolte de l'année, seront payées sur le prix de la récolte, et celles dues pour ustensiles, sur le prix
+de ces ustensiles, par préférence au propriétaire, dans l'un et l'autre cas.
+
+Le propriétaire peut saisir les meubles qui garnissent sa maison ou sa ferme, lorsqu'ils ont été déplacés sans son
+consentement, et il conserve sur eux son privilège, pourvu qu'il ait fait la revendication, savoir, lorsqu'il s'agit du
+mobilier qui garnissait une ferme, dans le délai de quarante jours ; et dans celui de quinzaine, s'il s'agit des meubles
+garnissant une maison ;
+
+2° La créance sur le gage dont le créancier est saisi ;
+
+3° Les frais faits pour la conservation de la chose ;
+
+4° Le prix d'effets mobiliers non payés, s'ils sont encore en la possession du débiteur, soit qu'il ait acheté à terme ou
+sans terme ;
+
+Si la vente a été faite sans terme, le vendeur peut même revendiquer ces effets tant qu'ils sont en la possession de
+l'acheteur, et en empêcher la revente, pourvu que la revendication soit faite dans la huitaine de la livraison et que les
+effets se trouvent dans le même état dans lequel cette livraison a été faite ;
+
+Le privilège du vendeur ne s'exerce toutefois qu'après celui du propriétaire de la maison ou de la ferme, à moins qu'il ne
+soit prouvé que le propriétaire avait connaissance que les meubles et autres objets garnissant sa maison ou sa ferme
+n'appartenaient pas au locataire ;
+
+Il n'est rien innové aux lois et usages du commerce sur la revendication ;
+
+5° Les fournitures d'un aubergiste, sur les effets du voyageur qui ont été transportés dans son auberge ;
+
+6° Les frais de voiture et les dépenses accessoires, sur la chose voiturée ;
+
+7° Les créances résultant d'abus et prévarications commis par les fonctionnaires publics dans l'exercice de leurs fonctions,
+sur les fonds de leur cautionnement et sur les intérêts qui en peuvent être dus ;
+
+8° Les créances nées d'un accident au profit des tiers lésés par cet accident ou leurs ayants droit, sur l'indemnité dont
+l'assureur de la responsabilité civile se reconnaît ou a été judiciairement reconnu débiteur à raison de la convention
+d'assurance.
+
+Aucun paiement fait à l'assuré ne sera libératoire tant que les créanciers privilégiés n'auront pas été désintéressés ;
+
+9° Les créances nées du contrat de travail de l'auxiliaire salarié d'un travailleur à domicile répondant à la définition de
+l'article L. 721-1 du code du travail sur les sommes dues à ce travailleur par les donneurs d'ouvrage.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°1889-02-19 du 19 février 1889 - art. 1 (M)
+	  - Loi n°1924-06-01 du 1 juin 1924 - art. 68 (M)
+	  - Décret n°1933-11-21 du 21 novembre 1933 - art. 17 (Ab)
+	  - Décret n°1933-11-21 du 21 novembre 1933 - art. 7 (Ab)
+	  - Loi n°52-1322 du 15 décembre 1952 - art. 103 (M)
+	  - Loi n°65-557 du 10 juillet 1965 - art. 19 (M)
+	  - Loi n°67-563 du 13 juillet 1967 - art. 60 (Ab)
+	  - Loi n°85-98 du 25 janvier 1985 - art. 116 (Ab)
+	  - Ordonnance n°2005-57 du 26 janvier 2005 - art. 12 (M)
+	  - Code civil - art. 2280 (M)
+	  - Code de commerce. - art. L621-117 (T)
+	  - Code de commerce. - art. L624-11 (M)
+	  - Code de la construction et de l'habitation. - art. L641-7 (M)
+	  - Code du domaine public fluvial et de la navigation - art. 89 (M)
+	  - Code du domaine public fluvial et de la navigation - art. 91 (M)
+	  - Code du travail - art. L143-8 (M)
+	  - Code rural - art. L417-5 (M)
+	  - Code rural - art. L462-11 (M)
+	  - Code rural - art. L753-5 (M)
+	  - Code rural ancien - art. 1205 (Ab)
+	  - Code rural ancien - art. 672 (Ab)
+	  - Décret n°1928-04-07 du 7 avril 1928 - art. 11 (Ab)
+	  - Décret n°1928-04-07 du 7 avril 1928 - art. 21 (Ab)
+	  - Loi n°1807-09-05 du 5 septembre 1807 - art. 2 (M)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-19
+
+	**Créé par**:
+
+	  - Loi n°1804-03-19 promulguée le 29 mars 1804
+
+	**Cite**:
+
+	  - Code du travail 721-1
 
 
 #### Section 4 : Comment se conservent les privilèges.

@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1898-04-08
+Version Consolidée au 1900-04-10
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -23219,6 +23219,18 @@ S'il est dans l'impossibilité d'y satisfaire, il est tenu d'en payer la valeur 
 devait être rendue d'après la convention.
 
 Si ce temps et ce lieu n'ont pas été réglés, le paiement se fait au prix du temps et du lieu où l'emprunt a été fait.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°1804-03-09 promulguée le 19 mars 1804
+
+
+###### Article 1904
+
+Si l'emprunteur ne rend pas les choses prêtées ou leur valeur au terme convenu, il en doit l'intérêt du jour de la sommation
+ou de la demande en justice.
 
 **Liens relatifs à cet article**
 

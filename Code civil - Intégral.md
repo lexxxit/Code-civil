@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 2001-06-01
+Version Consolidée au 2001-12-04
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -12011,6 +12011,50 @@ II.
 	  - Code général des impôts, CGI. - art. 80 quater (VD)
 
 
+###### Article 279
+
+La convention homologuée a la même force exécutoire qu'une décision de justice.
+
+Elle ne peut être modifiée que par une nouvelle convention entre des époux, également soumise à l'homologation.
+
+Les époux ont néanmoins la faculté de prévoir dans leur convention que chacun d'eux pourra, en cas de changement important
+dans les ressources et les besoins des parties, demander au juge de réviser la prestation compensatoire.
+
+Ils peuvent également demander la révision de la prestation compensatoire sur le fondement des articles 275-1, 276-3 et
+276-4.
+
+**Nota:**
+
+NOTA : La loi 2004-439 du 26 mai 2004 entrera en vigueur le 1er janvier 2005 sauf pour les exceptions citées par l'article 33
+II.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°2000-596 du 30 juin 2000 - art. 21-1 (Ab)
+	  - Code civil - art. 279-1 (V)
+	  - Nouveau code de procédure civile - art. 1084 (M)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2001-1135 2001-12-03 art. 25 I, II
+
+	**Modifié par**:
+
+	  - Loi n°2001-1135 du 3 décembre 2001 - art. 23 () JORF 4 décembre 2001
+
+	**Cite**:
+
+	  - Code civil - art. 275-1 (M)
+	  - Code civil - art. 276-3 (M)
+	  - Code civil - art. 276-4 (M)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
 #### Section 2 : Des conséquences du divorce pour les époux.
 
 ##### Paragraphe 2 : Des suites propres aux différents cas de divorce.
@@ -12197,41 +12241,6 @@ L'autre époux conserve les siens.
 
 
 ##### Paragraphe 3 : Des prestations compensatoires.
-
-###### Article 279
-
-La convention homologuée a la même force exécutoire qu'une décision de justice.
-
-Elle ne peut être modifiée que par une nouvelle convention entre des époux, également soumise à l'homologation.
-
-Les époux ont néanmoins la faculté de prévoir dans leur convention que chacun d'eux pourra, en cas de changement important
-dans les ressources et les besoins des parties, demander au juge de réviser la prestation compensatoire.
-
-**Nota:**
-
-Loi 2000-596 2000-06-30 art. 23 [*dispositions transitoires*]
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
-
-	**Modifié par**:
-
-	  - Loi n°2000-596 du 30 juin 2000 - art. 15 () JORF 1er juillet 2000
-
-	**Cité par**:
-
-	  - Loi n°2000-596 du 30 juin 2000 - art. 21-1 (Ab)
-	  - Code civil - art. 279-1 (V)
-	  - Nouveau code de procédure civile - art. 1084 (M)
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
 
 ###### Article 280
 
@@ -13061,7 +13070,12 @@ II.
 En cas de décès de l'un des époux séparés de corps, l'autre époux conserve les droits que la loi accorde au conjoint
 survivant. Il en est toutefois privé si la séparation de corps est prononcée contre lui suivant les distinctions faites à
 l'article 265. Lorsque la séparation de corps est prononcée sur demande conjointe, les époux peuvent inclure dans leur
-convention une renonciation aux droits successoraux qui leur sont conférés par les articles 765 à 767.
+convention une renonciation aux droits successoraux qui leur sont conférés par les articles 756 à 757-3 et 764 à 766.
+
+**Nota:**
+
+NOTA : La loi 2004-439 du 26 mai 2004 entrera en vigueur le 1er janvier 2005 sauf pour les exceptions citées par l'article 33
+II.
 
 **Liens relatifs à cet article**
 
@@ -13074,19 +13088,18 @@ convention une renonciation aux droits successoraux qui leur sont conférés par
 	  - Loi n°1928-03-30 du 30 mars 1928 - art. 2 septies (V)
 	  - Loi n°1930-08-24 du 24 août 1930 - art. 7 (V)
 
-	**Créé par**:
-
-	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
-
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+	  - SPEC_APPLI: Loi n°2001-1135 2001-12-03 art. 25 I, II
+
+	**Modifié par**:
+
+	  - Loi n°2001-1135 du 3 décembre 2001 - art. 15 () JORF 4 décembre 2001
 
 	**Cite**:
 
 	  - Code civil - art. 265 (M)
-	  - Code civil 265, 765 à 767
+	  - Code civil 265, 756 à 757-3, 764 à 766
 
 
 ###### Article 302
@@ -15019,26 +15032,11 @@ mère.
 
 Il entre dans la famille de son auteur.
 
-Si, au temps de la conception, le père ou la mère était engagé dans les liens du mariage avec une autre personne, les droits
-de l'enfant ne peuvent préjudicier que dans la mesure réglée par la loi, aux engagements que, par le fait du mariage, ce
-parent avait contractés.
-
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°72-3 du 3 janvier 1972 - art. 1 () JORF 5 janvier 1972 en vigueur le 1er août 1972
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 11 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 12 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 13 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 14 (V)
 
 	**Cité par**:
 
@@ -15046,6 +15044,18 @@ parent avait contractés.
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*321-9 (M)
 	  - Code civil - art. 334-7 (Ab)
 	  - Code de l'action sociale et des familles - art. L262-35 (M)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2001-1135 2001-12-03 art. 25 I (dérogations à l'entrée en vigueur), II (ouverture des successions)
+
+	**Modifié par**:
+
+	  - Loi n°2001-1135 du 3 décembre 2001 - art. 16 () JORF 4 décembre 2001
+
+	**Abrogé par**:
+
+	  - Loi n°2002-305 du 4 mars 2002 - art. 10 () JORF 5 mars 2002
 
 
 ###### Article 334-1
@@ -15239,37 +15249,6 @@ Les règles d'attribution du nom prévues aux articles précédents ne préjudic
 	**Abrogé par**:
 
 	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 15 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
-
-
-###### Article 334-7
-
-Dans le cas prévu au troisième alinéa de l'article 334 ci-dessus, l'enfant naturel ne peut être élevé au domicile conjugal
-qu'avec le consentement du conjoint de son auteur.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°72-3 du 3 janvier 1972 - art. 1 () JORF 5 janvier 1972 en vigueur le 1er août 1972
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 11 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 12 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 13 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 14 (V)
-
-	**Abrogé par**:
-
-	  - Loi n°2001-1135 du 3 décembre 2001 - art. 16 () JORF 4 décembre 2001
-
-	**Cite**:
-
-	  - Code civil - art. 334 (M)
 
 
 ###### Article 334-8
@@ -28970,6 +28949,49 @@ la loi accorde aux pères et mères sur les biens de leurs enfants.
 	  - Loi n°1803-04-19 promulguée le 29 avril 1803
 
 
+### Chapitre III : Des héritiers.
+
+#### Section 2 : Des droits du conjoint successible.
+
+##### Paragraphe 3 : Du droit au logement temporaire et du droit viager au logement
+
+###### Article 763
+
+Si, à l'époque du décès, le conjoint successible occupe effectivement, à titre d'habitation principale, un logement
+appartenant aux époux ou dépendant totalement de la succession, il a de plein droit, pendant une année, la jouissance
+gratuite de ce logement, ainsi que du mobilier, compris dans la succession, qui le garnit.
+
+Si son habitation était assurée au moyen d'un bail à loyer, les loyers lui en seront remboursés par la succession pendant
+l'année, au fur et à mesure de leur acquittement.
+
+Les droits prévus au présent article sont réputés effets directs du mariage et non droits successoraux.
+
+Le présent article est d'ordre public.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2001-1135 2001-12-03 art. 25 I (dérogations à la date d'entrée en vigueur), II (ouverture des successions)
+
+	**Modifié par**:
+
+	  - Loi n°2001-1135 du 3 décembre 2001 - art. 1 () JORF 4 décembre 2001
+	  - Loi n°2001-1135 du 3 décembre 2001 - art. 2 () JORF 4 décembre 2001
+
+	**Cité par**:
+
+	  - Loi n°2001-1135 du 3 décembre 2001 - art. 25 (V)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 789 bis (Ab)
+	  - Code civil - art. 515-6 (V)
+	  - Code de la construction et de l'habitation. - art. L254-7 (V)
+	  - Code général des impôts, CGI. - art. 775 quater (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-04-19
+
+
 ### Chapitre III : Des divers ordres de succession.
 
 #### Section 1 : Dispositions générales.
@@ -29695,45 +29717,6 @@ de biens, sous la stipulation expresse qu'elle a lieu en règlement anticipé de
 	**Créé par**:
 
 	  - Loi n°1803-04-19 promulguée le 29 avril 1803
-
-
-###### Article 763
-
-L'attribution se fait en la forme des donations. Elle emportera transfert de la propriété par l'acceptation de l'attributaire
-ou de son représentant légal.
-
-Tant qu'elle n'est pas acceptée, elle peut être révoquée ou modifiée par son auteur dans les mêmes formes. Si l'attributaire
-ne veut ou ne peut en percevoir les revenus, ils seront employés pour son compte et à son nom.
-
-L'attribution prend effet à l'ouverture de la succession lorsqu'elle n'a pas été antérieurement acceptée par l'attributaire.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-04-19
-
-	**Créé par**:
-
-	  - Loi n°1803-04-19 promulguée le 29 avril 1803
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 11 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 12 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 14 (V)
-
-	**Modifié par**:
-
-	  - Loi n°72-3 du 3 janvier 1972 - art. 5 () JORF 5 janvier 1972 en vigueur le 1er août 1972
-
-	**Cité par**:
-
-	  - Loi n°2001-1135 du 3 décembre 2001 - art. 25 (V)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 789 bis (Ab)
-	  - Code civil - art. 515-6 (V)
-	  - Code de la construction et de l'habitation. - art. L254-7 (V)
-	  - Code général des impôts, CGI. - art. 775 quater (V)
 
 
 ###### Article 763-1
@@ -34294,128 +34277,6 @@ pas la quotité de biens à laquelle elle est fixée.
 	  - Code de la propriété intellectuelle - art. L123-6 (M)
 
 
-###### Article 915
-
-Quant un enfant naturel dont le père ou la mère était, au temps de la conception, engagé dans les liens du mariage avec une
-autre personne, est appelé à la succession de son auteur en concours avec les enfants légitimes issus de ce mariage, il
-compte par sa présence pour le calcul de la quotité disponible ; mais sa part dans la réserve héréditaire n'est égale qu'à la
-moitié de celle qu'il aurait eue si tous les enfants, y compris lui-même, eussent été légitimes.
-
-La fraction dont sa part dans la réserve est ainsi diminuée accroîtra aux seuls enfants issus du mariage auquel l'adultère a
-porté atteinte ; elle se divisera entre eux par égales portions.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-05-03
-
-	**Créé par**:
-
-	  - Loi n°1803-05-03 promulguée le 13 mai 1803
-
-	**Cité par**:
-
-	  - Loi n°57-298 du 11 mars 1957 - art. 24 (Ab)
-	  - Code civil - art. 913 (M)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 11 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 12 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 13 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 14 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 15 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 16 (V)
-	  - SPEC_APPLI: Loi n°2001-1135 2001-12-03 art. 25 I (dérogations à l'entrée en vigueur), II (ouverture des successions)
-	  - TXT_ASSOCIE: Code civil - art. 915-1 (Ab)
-
-	**Modifié par**:
-
-	  - Loi n°72-3 du 3 janvier 1972 - art. 6 () JORF 5 janvier 1972 en vigueur le 1er août 1972
-
-	**Abrogé par**:
-
-	  - Loi n°2001-1135 du 3 décembre 2001 - art. 16 () JORF 4 décembre 2001
-
-
-###### Article 915-1
-
-Quand l'enfant naturel visé à l'article précédent est appelé seul à la succession de son auteur, ou en concours avec d'autres
-enfants qui ne sont pas issus du mariage auquel l'adultère avait porté atteinte, la quotité disponible en faveur de toute
-autre personne que le conjoint protégé est celle de l'article 913.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-05-03
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 11 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 12 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 13 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 14 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 15 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 16 (V)
-	  - SPEC_APPLI: Loi n°2001-1135 2001-12-03 art. 25 I (dérogations à l'entrée en vigueur), II (ouverture des successions)
-	  - TXT_ASSOCIE: Code civil - art. 915 (Ab)
-
-	**Créé par**:
-
-	  - Loi n°72-3 du 3 janvier 1972 - art. 6 () JORF 5 janvier 1972 en vigueur le 1er août 1972
-
-	**Abrogé par**:
-
-	  - Loi n°2001-1135 du 3 décembre 2001 - art. 16 () JORF 4 décembre 2001
-
-	**Cite**:
-
-	  - Code civil - art. 913 (M)
-
-
-###### Article 915-2
-
-S'il est dans le besoin, l'enfant naturel dont la vocation se trouve réduite par application des articles 759 et 760 peut,
-contre l'abandon de ses droits aux héritiers, réclamer de la succession une pension alimentaire.
-
-Cette pension obéit aux règles de l'article 207-1 du présent code.
-
-Les héritiers peuvent, toutefois, écarter cette réclamation en accordant au demandeur une part égale à celle dont il eût
-bénéficié sans l'application des articles 759 et 760.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-05-03
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 11 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 12 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 13 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 14 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 15 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 16 (V)
-	  - SPEC_APPLI: Loi n°2001-1135 2001-12-03 art. 25 I (dérogations à l'entrée en vigueur), II (ouverture des successions)
-
-	**Créé par**:
-
-	  - Loi n°72-3 du 3 janvier 1972 - art. 6 () JORF 5 janvier 1972 en vigueur le 1er août 1972
-
-	**Abrogé par**:
-
-	  - Loi n°2001-1135 du 3 décembre 2001 - art. 16 () JORF 4 décembre 2001
-
-	**Cite**:
-
-	  - Code civil - art. 207-1 (Ab)
-	  - Code civil - art. 759 (M)
-	  - Code civil - art. 760 (M)
-
-
 ###### Article 917
 
 Si la disposition par acte entre vifs ou par testament est d'un usufruit ou d'une rente viagère dont la valeur excède la
@@ -38289,80 +38150,6 @@ subrogé au bien aliéné, la valeur de ce nouveau bien.
 
 ### Chapitre II : De la capacité de disposer ou de recevoir par donation entre vifs ou par testament.
 
-###### Article 908
-
-Les enfants naturels ne peuvent rien recevoir par donations entre vifs ou par testament de leur père ou de leur mère au-delà
-de ce qui leur est accordé par les articles 759 et 760 ci-dessus lorsque le disposant était, au temps de leur conception,
-engagé dans les liens du mariage avec une autre personne.
-
-L'action en réduction ne pourra être exercée, néanmoins, que par le conjoint ou par les enfants issus de ce mariage, selon
-les cas, et seulement après l'ouverture de la succession.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code civil - art. 759 (M)
-	  - Code civil - art. 760 (M)
-
-	**Cité par**:
-
-	  - Code civil - art. 908-1 (Ab)
-
-	**Codifié par**:
-
-	  - Loi n°1803-05-03
-
-	**Créé par**:
-
-	  - Loi n°1803-05-03 promulguée le 13 mai 1803
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 11 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 12 (V)
-
-	**Modifié par**:
-
-	  - Loi n°72-3 du 3 janvier 1972 - art. 6 () JORF 5 janvier 1972 en vigueur le 1er août 1972
-
-	**Abrogé par**:
-
-	  - Loi n°2001-1135 du 3 décembre 2001 - art. 16 () JORF 4 décembre 2001
-
-
-###### Article 908-1
-
-Les dispositions de l'article précédent sont applicables quand bien même la filiation des gratifiés ne serait pas légalement
-établie, si par des indices tirés de l'acte lui-même, il est prouvé qu'elle a été la cause de la libéralité.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code civil - art. 908 (Ab)
-
-	**Codifié par**:
-
-	  - Loi n°1803-05-03
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 11 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 12 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 13 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 14 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 15 (V)
-
-	**Créé par**:
-
-	  - Loi n°72-3 du 3 janvier 1972 - art. 6 () JORF 5 janvier 1972 en vigueur le 1er août 1972
-
-	**Abrogé par**:
-
-	  - Loi n°2001-1135 du 3 décembre 2001 - art. 16 () JORF 4 décembre 2001
-
-
 ###### Article 910
 
 Les dispositions entre vifs ou par testament, au profit des hospices, des pauvres d'une commune, ou d'établissements
@@ -38416,49 +38203,6 @@ d'utilité publique, n'auront leur effet qu'autant qu'elles seront autorisées p
 
 #### Section 1 : De la portion de biens disponible.
 
-###### Article 913
-
-Les libéralités, soit par actes entre vifs, soit par testament, ne pourront excéder la moitié des biens du disposant, s'il ne
-laisse à son décès qu'un enfant ; le tiers, s'il laisse deux enfants ; le quart, s'il en laisse trois ou un plus grand
-nombre ; sans qu'il y ait lieu de distinguer entre les enfants légitimes et les enfants naturels, hormis le cas de l'article
-915.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-05-03
-
-	**Créé par**:
-
-	  - Loi n°1803-05-03 promulguée le 13 mai 1803
-
-	**Cité par**:
-
-	  - Loi n°57-298 du 11 mars 1957 - art. 24 (Ab)
-	  - Code civil - art. 913-1 (V)
-	  - Code civil - art. 915-1 (Ab)
-	  - Code de la propriété intellectuelle - art. L123-6 (V)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 11 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 12 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 13 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 14 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 15 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 16 (V)
-	  - TXT_ASSOCIE: Code civil 913-1 *descendants - degré*
-
-	**Modifié par**:
-
-	  - Loi n°72-3 du 3 janvier 1972 - art. 6 () JORF 5 janvier 1972 en vigueur le 1er août 1972
-
-	**Cite**:
-
-	  - Code civil - art. 915 (Ab)
-
-
 ###### Article 916
 
 A défaut d'ascendants et de descendants, les libéralités par actes entre vifs ou testamentaires pourront épuiser la totalité
@@ -38473,6 +38217,37 @@ des biens.
 	**Créé par**:
 
 	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+#### Section 1 : De la portion de biens disponible.
+
+###### Article 913
+
+Les libéralités, soit par actes entre vifs, soit par testament, ne pourront excéder la moitié des biens du disposant, s'il ne
+laisse à son décès qu'un enfant ; le tiers, s'il laisse deux enfants ; le quart, s'il en laisse trois ou un plus grand
+nombre ; sans qu'il y ait lieu de distinguer entre les enfants légitimes et les enfants naturels.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Cité par**:
+
+	  - Loi n°57-298 du 11 mars 1957 - art. 24 (Ab)
+	  - Code civil - art. 913-1 (V)
+	  - Code civil - art. 915-1 (Ab)
+	  - Code de la propriété intellectuelle - art. L123-6 (V)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2001-1135 2001-12-03 art. 25 I (dérogations à l'entrée en vigueur), II (ouverture des successions)
+	  - TXT_ASSOCIE: Code civil 913-1 (descendants - degré)
+
+	**Modifié par**:
+
+	  - Loi n°2001-1135 du 3 décembre 2001 - art. 16 () JORF 4 décembre 2001
 
 
 ### Chapitre IV : Des donations entre vifs
@@ -38728,75 +38503,6 @@ II.
 
 	  - Loi n°2006-728 du 23 juin 2006 - art. 46 (V)
 	  - Loi n°2006-728 du 23 juin 2006 - art. 47 (V)
-
-
-###### Article 1097
-
-Si l'époux ne laisse que des enfants naturels qu'il a eus pendant le mariage, il pourra disposer, en faveur de son conjoint,
-soit des trois quarts de ses biens en propriété, soit de la moitié en propriété et de l'autre moitié en usufruit, soit encore
-de la totalité en usufruit.
-
-S'il laisse à la fois des enfants naturels visés à l'alinéa précédent et d'autres enfants, issus ou non du mariage, il pourra
-disposer en faveur du conjoint de tout ce dont l'article 1094-I ci-dessus lui permet de disposer.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°1803-05-03 promulguée le 13 mai 1803
-
-	**Cité par**:
-
-	  - Loi n°63-1092 du 6 novembre 1963 - art. 1 (V)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 13 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 14 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 15 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 16 (V)
-	  - SPEC_APPLI: Loi n°2001-1135 2001-12-03 art. 25 I (dérogations à l'entrée en vigueur), II (ouverture des successions)
-
-	**Modifié par**:
-
-	  - Loi n°72-3 du 3 janvier 1972 - art. 6 () JORF 5 janvier 1972 en vigueur le 1er août 1972
-
-	**Abrogé par**:
-
-	  - Loi n°2001-1135 du 3 décembre 2001 - art. 16 () JORF 4 décembre 2001
-
-	**Cite**:
-
-	  - Code civil - art. 1094-1 (M)
-
-
-###### Article 1097-1
-
-Les enfants naturels conçus pendant le mariage, d'un autre que de l'époux, ne pourront se prévaloir contre celui-ci de la
-faculté ouverte aux enfants par l'article 1094-2 ci-dessus.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 13 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 14 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 15 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 16 (V)
-	  - SPEC_APPLI: Loi n°2001-1135 2001-12-03 art. 25 I (dérogations à l'entrée en vigueur), II (ouverture des successions)
-	  - TXT_ASSOCIE: Code civil - art. 1094-2 (Ab)
-
-	**Créé par**:
-
-	  - Loi n°72-3 du 3 janvier 1972 - art. 6 () JORF 5 janvier 1972 en vigueur le 1er août 1972
-
-	**Abrogé par**:
-
-	  - Loi n°2001-1135 du 3 décembre 2001 - art. 16 () JORF 4 décembre 2001
-
-	**Cite**:
-
-	  - Code civil - art. 1094-2 (Ab)
 
 
 ###### Article 1099
@@ -47698,8 +47404,7 @@ acquitter le passif entièrement.
 ###### Article 1491
 
 Les héritiers des époux exercent, en cas de dissolution de la communauté, les mêmes droits que celui des époux qu'ils
-représentent et sont soumis aux mêmes obligations. Ils ne peuvent, toutefois, se prévaloir des droits résultant de l'article
-1481.
+représentent et sont soumis aux mêmes obligations.
 
 **Liens relatifs à cet article**
 
@@ -47707,17 +47412,13 @@ représentent et sont soumis aux mêmes obligations. Ils ne peuvent, toutefois, 
 
 	  - Loi n°65-570 1965-07-13
 
-	**Modifié par**:
-
-	  - Loi n°85-1372 du 23 décembre 1985 - art. 26 () JORF 26 juillet 1985 en vigueur le 1er juillet 1986
-
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°85-1372 du 23 décembre 1985 - art. 55 (V)
+	  - SPEC_APPLI: Loi n°2001-1135 2001-12-03 art. 25 I (dérogations à l'entrée en vigueur), II (ouverture des successions)
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code civil - art. 1481 (Ab)
+	  - Loi n°2001-1135 du 3 décembre 2001 - art. 15 () JORF 4 décembre 2001
 
 
 ##### Section III : De la dissolution de la communauté
@@ -47825,34 +47526,6 @@ II.
 	**Codifié par**:
 
 	  - Loi n°65-570 1965-07-13
-
-
-###### Article 1481
-
-Si la communauté est dissoute par la mort de l'un des époux, le survivant a droit, pendant les neuf mois qui suivent à la
-nourriture et au logement, ainsi qu'aux frais de deuil, le tout à la charge de la communauté, en ayant égard tant aux
-facultés de celle-ci qu'à la situation du ménage.
-
-Ce droit du survivant est exclusivement attaché à sa personne.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°65-570 1965-07-13
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°2001-1135 2001-12-03 art. 25 I (dérogations à l'entrée en vigueur), II (ouverture des successions)
-
-	**Abrogé par**:
-
-	  - Loi n°2001-1135 du 3 décembre 2001 - art. 15 () JORF 4 décembre 2001
-
-	**Cité par**:
-
-	  - Loi n°2001-1135 du 3 décembre 2001 - art. 25 (V)
-	  - Code civil - art. 1491 (M)
 
 
 #### Deuxième partie : De la communauté conventionnelle.
@@ -48247,11 +47920,11 @@ La communauté universelle supporte définitivement toutes les dettes des époux
 Les avantages que l'un ou l'autre des époux peut retirer des clauses d'une communauté conventionnelle, ainsi que ceux qui
 peuvent résulter de la confusion du mobilier ou des dettes, ne sont point regardés comme des donations.
 
-Néanmoins, dans le cas où il y aurait des enfants d'un précédent mariage, toute convention qui aurait pour conséquence de
-donner à l'un des époux au-delà de la portion réglée par l'article 1098, au titre "Des donations entre vifs et des
-testaments", sera sans effet pour tout l'excédent ; mais les simples bénéfices résultant des travaux communs et des économies
-faites sur les revenus respectifs quoique inégaux, des deux époux, ne sont pas considérés comme un avantage fait au préjudice
-des enfants d'un précédent lit.
+Néanmoins, au cas où il y aurait des enfants qui ne seraient pas issus des deux époux, toute convention qui aurait pour
+conséquence de donner à l'un des époux au-delà de la portion réglée par l'article 1094-1, au titre "Des donations entre vifs
+et des testaments", sera sans effet pour tout l'excédent ; mais les simples bénéfices résultant des travaux communs et des
+économies faites sur les revenus respectifs quoique inégaux, des deux époux, ne sont pas considérés comme un avantage fait au
+préjudice des enfants d'un autre lit.
 
 **Liens relatifs à cet article**
 
@@ -48259,13 +47932,21 @@ des enfants d'un précédent lit.
 
 	  - Loi n°65-570 1965-07-13
 
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2001-1135 2001-12-03 art. 25 I (dérogations à l'entrée en vigueur), II (ouverture des successions)
+
+	**Modifié par**:
+
+	  - Loi n°2001-1135 du 3 décembre 2001 - art. 17 () JORF 4 décembre 2001
+
 	**Cité par**:
 
 	  - Loi n°2001-1135 du 3 décembre 2001 - art. 25 (V)
 
 	**Cite**:
 
-	  - Code civil - art. 1098 (M)
+	  - Code civil - art. 1094-1 (M)
 
 
 ### Chapitre III : Du régime de séparation de biens.

@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1907-06-21
+Version Consolidée au 1909-03-17
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -26702,6 +26702,34 @@ autres créanciers.
 	**Abrogé par**:
 
 	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 56 () JORF 24 mars 2006
+
+
+###### Article 2075
+
+Le privilège énoncé en l'article précédent, ne s'établit sur les meubles incorporels, tels que les créances mobilières, que
+par acte public ou sous seing privé, aussi enregistré, et signifié au débiteur de la créance donnée en gage.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°55-619 du 20 mai 1955 - art. 1 (V)
+	  - Décret n°67-18 du 5 janvier 1967 - art. 11 (M)
+	  - Code de commerce - art. 91 (Ab)
+	  - Code de commerce. - art. L521-1 (M)
+	  - Code de la défense. - art. L2235-1 (V)
+	  - Code des assurances - art. L132-10 (M)
+	  - Code des marchés publics - art. 188 (M)
+	  - Code des marchés publics - art. 189 (M)
+	  - Code des marchés publics - art. 197 (Ab)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-16
+
+	**Créé par**:
+
+	  - Loi n°1804-03-16 promulguée le 26 mars 1804
 
 
 ###### Article 2076

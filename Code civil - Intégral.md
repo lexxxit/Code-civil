@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1803-05-13
+Version Consolidée au 1804-01-10
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -2145,6 +2145,30 @@ l'enfant à qui il devra des aliments, devra dans ce cas être dispensé de paye
 	**Abrogé par**:
 
 	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+
+
+# Livre II : Des biens et des différentes modifications de la propriété
+
+## Titre IV : Des servitudes ou services fonciers
+
+### Chapitre III : Des servitudes établies par le fait de l'homme
+
+#### Section 3 : Des droits du propriétaire du fonds auquel la servitude est due
+
+###### Article 702
+
+De son côté, celui qui a un droit de servitude ne peut en user que suivant son titre, sans pouvoir faire, ni dans le fonds
+qui doit la servitude, ni dans le fonds à qui elle est due, de changement qui aggrave la condition du premier.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-01-31
+
+	**Créé par**:
+
+	  - Loi n°1804-01-31 promulguée le 10 février 1804
 
 
 # Livre III : Des différentes manières dont on acquiert la propriété

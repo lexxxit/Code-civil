@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1975-07-09
+Version Consolidée au 1975-07-10
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -137,52 +137,6 @@ On ne peut déroger, par des conventions particulières, aux lois qui intéresse
 
 
 # Livre Ier : Des personnes
-
-## Titre Ier : De la jouissance et de la privation des droits civils.
-
-### Chapitre Ier : De la jouissance des droits civils.
-
-###### Article 16
-
-(article abrogé).
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Ordonnance n°45-2658 du 2 novembre 1945 - art. 17 (M)
-	  - Loi n°2004-800 du 6 août 2004 - art. 37 (V)
-	  - Décret n°2012-360 du 14 mars 2012 (V)
-	  - Décret n°2014-1286 du 23 octobre 2014 - art. (V)
-	  - Code de la santé publique - art. L2141-1 (V)
-	  - Code de la santé publique - art. L2141-11-1 (V)
-	  - Code de la santé publique - art. L2151-6 (V)
-	  - Code de la santé publique - art. R2141-14 (M)
-	  - Code de la santé publique - art. R2141-15 (V)
-	  - Code de la santé publique - art. R2151-13 (V)
-	  - Code de la santé publique - art. R2151-18 (V)
-	  - Code du travail - art. L341-5 (Ab)
-
-	**Abrogé par**:
-
-	  - Loi n°75-596 1975-07-09 art. 6 JORF 10 juillet 1975
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. L2211-1 (V)
-
-	**Liens**:
-
-	  - PILOTE_SUIVEUR: Code de la santé publique - art. L2211-1 (V)
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-08
-
-	**Créé par**:
-
-	  - Loi n°1803-03-08 promulguée le 18 mars 1803
-
 
 ## Titre II : Des actes de l'état civil
 
@@ -28616,6 +28570,89 @@ de l'inexécution de la convention.
 	  - Loi n°1804-02-07 promulguée le 17 février 1804
 
 
+###### Article 1152
+
+Lorsque la convention porte que celui qui manquera de l'exécuter paiera une certaine somme à titre de dommages-intérêts, il
+ne peut être alloué à l'autre partie une somme plus forte, ni moindre.
+
+Néanmoins, le juge peut modérer ou augmenter la peine qui avait été convenue, si elle est manifestement excessive ou
+dérisoire. Toute stipulation contraire sera réputée non écrite.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°78-22 du 10 janvier 1978 - art. 19 (Ab)
+	  - Loi n°78-22 du 10 janvier 1978 - art. 20 (Ab)
+	  - Loi n°78-22 du 10 janvier 1978 - art. 21 (Ab)
+	  - Loi n°79-596 du 13 juillet 1979 - art. 12 (Ab)
+	  - Loi n°79-596 du 13 juillet 1979 - art. 13 (Ab)
+	  - Loi n°79-596 du 13 juillet 1979 - art. 27 (Ab)
+	  - Ordonnance n°2002-1476 du 19 décembre 2002 - art. 10 (V)
+	  - Arrêté du 23 décembre 2009 - art. Annexe (V)
+	  - Ordonnance n°2013-516 du 20 juin 2013 - art. 1 (V)
+	  - Code civil - art. 1231 (V)
+	  - Code de la consommation - art. L311-24 (VT)
+	  - Code de la consommation - art. L311-25 (VT)
+	  - Code de la consommation - art. L311-30 (VT)
+	  - Code de la consommation - art. L311-31 (VT)
+	  - Code de la consommation - art. L312-21 (VT)
+	  - Code de la consommation - art. L312-22 (VT)
+	  - Code de la consommation - art. L312-29 (VT)
+	  - Code de la consommation - art. L312-39 (VD)
+	  - Code de la consommation - art. L312-40 (VD)
+	  - Code de la consommation - art. L313-47 (VD)
+	  - Code de la consommation - art. L313-51 (VD)
+	  - Code de la consommation - art. L313-60 (VD)
+	  - Code de la consommation - art. L314-10 (VT)
+	  - Code de la consommation - art. L314-14-1 (VT)
+	  - Code de la consommation - art. L315-17 (VD)
+	  - Code de la consommation - art. L315-23 (VD)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code civil 1231 *clause pénale*
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1153
+
+Dans les obligations qui se bornent au paiement d'une certaine somme, les dommages-intérêts résultant du retard dans
+l'exécution ne consistent jamais que dans la condamnation aux intérêts au taux légal, sauf les règles particulières au
+commerce et au cautionnement.
+
+Ces dommages et intérêts sont dus sans que le créancier soit tenu de justifier d'aucune perte.
+
+Ils ne sont dus que du jour de la sommation de payer, excepté dans le cas où la loi les fait courir de plein droit.
+
+Le créancier auquel son débiteur en retard a causé, par sa mauvaise foi, un préjudice indépendant de ce retard, peut obtenir
+des dommages et intérêts distincts des intérêts moratoires de la créance.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 14 avril 2003 - art. 8 (V)
+	  - Arrêté du 1er août 2014 - art. Annexe (V)
+	  - Décret n°2016-230 du 26 février 2016 - art.
+	  - Ordonnance n°2006-461 du 21 avril 2006 - art. 23 (VT)
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
 ###### Article 1154
 
 Les intérêts échus des capitaux peuvent produire des intérêts, ou par une demande judiciaire, ou par une convention spéciale,
@@ -45311,6 +45348,36 @@ Toutes personnes peuvent compromettre sur les droits dont elles ont la libre dis
 	  - Loi n°72-626 1972-07-05
 
 
+###### Article 2060
+
+On ne peut compromettre sur les questions d'état et de capacité des personnes, sur celles relatives au divorce et à la
+séparation de corps ou sur les contestations intéressant les collectivités publiques et les établissements publics et plus
+généralement dans toutes les matières qui intéressent l'ordre public.
+
+Toutefois, des catégories d'établissements publics à caractère industriel et commercial peuvent être autorisées par décret à
+compromettre.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°68-1 du 2 janvier 1968 - art. 68 (Ab)
+	  - Loi n°86-972 du 19 août 1986 - art. 9 (V)
+	  - Loi n°91-7 du 4 janvier 1991 - art. 35 (Ab)
+	  - Code de l'énergie - art. L511-13 (V)
+	  - Code de la propriété intellectuelle - art. L615-17 (V)
+	  - Code des assurances - art. L431-2 (Ab)
+	  - Code des relations entre le public et l'adminis... - art. L432-1 (V)
+
+	**Codifié par**:
+
+	  - Loi n°72-626 1972-07-05
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2002-56 2002-01-08 art. 1 (autorisation à compromettre pour les EPIC)
+
+
 ###### Article 2061
 
 La clause compromissoire est nulle s'il n'est disposé autrement par la loi.
@@ -52686,5 +52753,48 @@ trente ans à compter de la même époque, seront accomplies par ce laps de tren
 	**Créé par**:
 
 	  - Loi n°1804-03-15 promulguée le 25 mars 1804
+
+
+### Chapitre VI : De la protection possessoire.
+
+###### Article 2282
+
+La possession est protégée, sans avoir égard au fond du droit, contre le trouble qui l'affecte ou la menace.
+
+La protection possessoire est pareillement accordée au détenteur contre tout autre que celui de qui il tient ses droits.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TRANSFERE: Loi n°2008-561 du 17 juin 2008 - art. 2
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2278 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-15
+
+
+###### Article 2283
+
+Les actions possessoires sont ouvertes dans les conditions prévues par le code de procédure civile à ceux qui possèdent ou
+détiennent paisiblement.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TRANSFERE: Loi n°2008-561 du 17 juin 2008 - art. 2
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2279 (Ab)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-15
 
 

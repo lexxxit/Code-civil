@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1993-01-05
+Version Consolidée au 1993-01-09
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -355,8 +355,8 @@ usitées dans ledit pays.
 
 ###### Article 48
 
-Tout acte de l'état civil des Français en pays étranger sera valable, s'il a été reçu, conformément aux lois françaises, par
-les agents diplomatiques ou par les consuls.
+Tout acte de l'état civil des Français en pays étranger sera valable s'il a été reçu, conformément aux lois françaises, par
+les agents diplomatiques ou consulaires.
 
 Un double des registres de l'état civil tenus par ces agents sera adressé à la fin de chaque année au ministère des affaires
 étrangères, qui en assurera la garde et pourra en délivrer des extraits.
@@ -371,9 +371,9 @@ Un double des registres de l'état civil tenus par ces agents sera adressé à l
 
 	  - Loi n°1803-03-11
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°1803-03-11 promulguée le 21 mars 1803
+	  - Loi n°93-22 du 8 janvier 1993 - art. 1 () JORF 9 janvier 1993
 
 
 ###### Article 49
@@ -389,9 +389,9 @@ Si l'acte en marge duquel doit être effectuée cette mention a été dressé ou
 adressé, dans le délai de trois jours, à l'officier de l'état civil de cette commune et celui-ci en avisera aussitôt, si le
 double du registre est au greffe, le procureur de la République de son arrondissement.
 
-Si l'acte en marge duquel une mention devra être effectuée a été dressé ou transcrit dans une colonie ou à l'étranger,
-l'officier de l'état civil qui a dressé ou transcrit l'acte donnant lieu à mention en avisera, dans les trois jours, le
-ministre des colonies ou le ministre des affaires étrangères.
+Si l'acte en marge duquel une mention devra être effectuée a été dressé ou transcrit à l'étranger, l'officier de l'état civil
+qui a dressé ou transcrit l'acte donnant lieu à mention en avisera, dans les trois jours, le ministre des affaires
+étrangères.
 
 **Liens relatifs à cet article**
 
@@ -406,9 +406,9 @@ ministre des colonies ou le ministre des affaires étrangères.
 
 	  - Loi n°1803-03-11
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°1803-03-11 promulguée le 21 mars 1803
+	  - Loi n°93-22 du 8 janvier 1993 - art. 2 () JORF 9 janvier 1993
 
 
 ###### Article 50
@@ -524,15 +524,13 @@ registres qu'en vertu d'un jugement rendu par le tribunal de l'arrondissement da
 sommaire en sera faite en marge à la date de la naissance. Si le lieu de la naissance est inconnu, le tribunal compétent sera
 celui du domicile du requérant.
 
-En pays étranger, les déclarations aux agents diplomatiques ou aux consuls seront faites dans les dix jours de
-l'accouchement. Toutefois, ce délai pourra être prolongé dans certaines circonscriptions consulaires en vertu d'un décret du
-Président de la République qui fixera la mesure et les conditions de cette prolongation.
+En pays étranger, les déclarations aux agents diplomatiques ou consulaires seront faites dans les quinze jours de
+l'accouchement. Toutefois, ce délai pourra être prolongé par décret dans certaines circonscriptions consulaires.
 
 **Liens relatifs à cet article**
 
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°60-1265 du 25 novembre 1960 - art. 1 (V)
 	  - TXT_SOURCE: Décret n°60-1265 du 25 novembre 1960
 	  - TXT_SOURCE: Décret n°60-1265 du 25 novembre 1960 - art. 1 (Ab)
 	  - TXT_SOURCE: Ordonnance n°98-580 du 8 juillet 1998
@@ -542,9 +540,10 @@ Président de la République qui fixera la mesure et les conditions de cette pro
 
 	  - Loi n°1803-03-11
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°1803-03-11 promulguée le 21 mars 1803
+	  - Loi n°93-22 1993-01-08 art. 3 I, II JORF 9 janvier 1993
+	  - Loi n°93-22 du 8 janvier 1993 - art. 3 () JORF 9 janvier 1993
 
 	**Cité par**:
 
@@ -561,18 +560,56 @@ Président de la République qui fixera la mesure et les conditions de cette pro
 	  - Code pénal - art. R645-4 (V)
 
 
+###### Article 56
+
+La naissance de l'enfant sera déclarée par le père, ou, à défaut du père, par les docteurs en médecine ou en chirurgie,
+sages-femmes, officiers de santé ou autres personnes qui auront assisté à l'accouchement ; et lorsque la mère sera accouchée
+hors de son domicile, par la personne chez qui elle sera accouchée.
+
+L'acte de naissance sera rédigé immédiatement.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°93-22 du 8 janvier 1993 - art. 3 () JORF 9 janvier 1993
+
+	**Cité par**:
+
+	  - Décret n°2004-1159 du 29 octobre 2004 - art. 2 (V)
+	  - CODE PENAL - art. R40 (Ab)
+	  - Code pénal - art. 433-18-1 (V)
+	  - Code pénal - art. R645-4 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-11
+
+	**Créé par**:
+
+	  - Loi n°1803-03-11 promulguée le 21 mars 1803
+
+
 ###### Article 57
 
 L'acte de naissance énoncera le jour, l'heure et le lieu de la naissance, le sexe de l'enfant et les prénoms qui lui seront
 donnés, les prénoms, noms, âges, professions et domiciles des père et mère et, s'il y a lieu, ceux du déclarant. Si les père
 et mère de l'enfant naturel, ou l'un d'eux, ne sont pas désignés à l'officier de l'état civil, il ne sera fait sur les
-registres aucune mention à ce sujet.    Si l'acte dressé concerne un enfant naturel, l'officier de l'état civil en donnera,
-dans le mois avis au juge du tribunal d'instance du canton de la naissance.
+registres aucune mention à ce sujet.
 
-Les prénoms de l'enfant figurant dans son acte de naissance peuvent, en cas d'intérêt légitime, être modifiés par jugement du
-tribunal de grande instance prononcé à la requête de l'enfant ou, pendant la minorité de celui-ci, à la requête de son
-représentant légal. Le jugement est rendu et publié dans les conditions prévues aux articles 99 et 101 du présent code.
-L'adjonction de prénoms pourra pareillement être décidée.
+Les prénoms de l'enfant sont choisis par ses père et mère. Si ces derniers ne sont pas connus, l'officier de l'état civil
+attribue à l'enfant plusieurs prénoms dont le dernier lui tient lieu de patronyme. L'officier de l'état civil porte
+immédiatement sur l'acte de naissance les prénoms choisis. Tout prénom inscrit dans l'acte de naissance peut être choisi
+comme prénom usuel.
+
+Lorsque ces prénoms ou l'un d'eux, seul ou associé aux autres prénoms ou au nom, lui paraissent contraires à l'intérêt de
+l'enfant ou au droit des tiers à voir protéger leur patronyme, l'officier de l'état civil en avise sans délai le procureur de
+la République. Celui-ci peut saisir le juge aux affaires familiales.
+
+Si le juge estime que le prénom n'est pas conforme à l'intérêt de l'enfant ou méconnaît le droit des tiers à voir protéger
+leur patronyme, il en ordonne la suppression sur les registres de l'état civil. Il attribue, le cas échéant, à l'enfant un
+autre prénom qu'il détermine lui-même à défaut par les parents d'un nouveau choix qui soit conforme aux intérêts susvisés.
+Mention de la décision est portée en marge des actes de l'état civil de l'enfant.
 
 **Liens relatifs à cet article**
 
@@ -596,13 +633,62 @@ L'adjonction de prénoms pourra pareillement être décidée.
 
 	**Modifié par**:
 
-	  - Décret n°62-921 du 3 août 1962 - art. 14 (V) JORF 9 août 1962
-	  - Décret-loi 1939-07-29 art. 108
+	  - Loi n°93-22 1993-01-08 art. 3 I, III JORF 9 janvier 1993
+	  - Loi n°93-22 du 8 janvier 1993 - art. 3 () JORF 9 janvier 1993
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-11
+
+
+###### Article 58
+
+Toute personne qui aura trouvé un enfant nouveau-né est tenue d'en faire la déclaration à l'officier de l'état civil du lieu
+de la découverte. Si elle ne consent pas à se charger de l'enfant, elle doit le remettre, ainsi que les vêtements et autres
+effets trouvés avec lui, à l'officier de l'état civil. 
+
+Il est dressé un procès-verbal détaillé qui, outre les indications prévues à l'article 34 du présent code, énonce la date,
+l'heure, le lieu et les circonstances de la découverte, l'âge apparent et le sexe de l'enfant, toute particularité pouvant
+contribuer à son identification ainsi que l'autorité ou la personne à laquelle il est confié. Ce procès-verbal est inscrit à
+sa date sur les registres de l'état civil. 
+
+A la suite et séparément de ce procès-verbal, l'officier de l'état civil établit un acte tenant lieu d'acte de naissance. En
+plus des indications prévues à l'article 34, cet acte énonce le sexe de l'enfant ainsi que les prénoms et nom qui lui sont
+donnés ; il fixe une date de naissance pouvant correspondre à son âge apparent et désigne comme lieu de naissance la commune
+où l'enfant a été découvert. 
+
+Pareil acte doit être établi, sur déclaration des services de l'assistance à l'enfance, pour les enfants placés sous leur
+tutelle et dépourvus d'acte de naissance connu ou pour lesquels le secret de la naissance a été réclamé. 
+
+Les copies et extraits du procès-verbal de découverte ou de l'acte provisoire de naissance sont délivrés dans les conditions
+et selon les distinctions faites à l'article 57 du présent code. 
+
+Si l'acte de naissance de l'enfant vient à être retrouvé ou si sa naissance est judiciairement déclarée, le procès-verbal de
+la découverte et l'acte provisoire de naissance sont annulés à la requête du procureur de la République ou des parties
+intéressées.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Ordonnance 58-779 1958-08-23 art. 1 JORF 30 août 1958
+	  - Loi n°93-22 du 8 janvier 1993 - art. 3 () JORF 9 janvier 1993
+
+	**Cité par**:
+
+	  - CODE PENAL - art. R40 (Ab)
+	  - Code civil - art. 19-2 (V)
+	  - Code civil - art. 2492 (VD)
+	  - Code civil - art. 354 (V)
+	  - Code de l'action sociale et des familles - art. L221-8 (V)
+	  - Code de la famille et de l'aide sociale. - art. 81 (Ab)
+	  - Code de la nationalité française. - art. 22 (Ab)
+	  - Code pénal - art. R645-5 (V)
 
 	**Cite**:
 
-	  - Code civil - art. 101 (V)
-	  - Code civil - art. 99 (V)
+	  - Code civil - art. 34 (V)
+	  - Code civil - art. 57 (V)
 
 	**Codifié par**:
 
@@ -613,23 +699,102 @@ L'adjonction de prénoms pourra pareillement être décidée.
 	  - Loi n°1803-03-11 promulguée le 21 mars 1803
 
 
+###### Article 59
+
+En cas de naissance pendant un voyage maritime, il en sera dressé acte dans les trois jours de l'accouchement sur la
+déclaration du père, s'il est à bord.
+
+Si la naissance a lieu pendant un arrêt dans un port, l'acte sera dressé dans les mêmes conditions, lorsqu'il y aura
+impossibilité de communiquer avec la terre, ou lorsqu'il n'existera pas dans le port, si l'on est à l'étranger, d'agent
+diplomatique ou consulaire français investi des fonctions d'officier de l'état civil.
+
+Cet acte sera rédigé, savoir : sur les bâtiments de l'Etat, par l'officier du commissariat de la marine ou, à son défaut, par
+le commandant ou celui qui en remplit les fonctions ; et sur les autres bâtiments, par le capitaine, maître ou patron, ou par
+celui qui en remplit les fonctions.
+
+Il y sera fait mention de celle des circonstances ci-dessus prévues, dans laquelle l'acte a été dressé. L'acte sera inscrit à
+la suite du rôle d'équipage.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°65-422 du 1 juin 1965 - art. 8 (V)
+	  - Décret n°65-422 du 1 juin 1965 - art. 9 (V)
+	  - Code civil - art. 62 (V)
+	  - Code civil - art. 86 (V)
+	  - Code disciplinaire et pénal de la marine marchande - art. 43 (VT)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-11
+
+	**Créé par**:
+
+	  - Loi n°1803-03-11 promulguée le 21 mars 1803
+
+	**Modifié par**:
+
+	  - Loi n°93-22 du 8 janvier 1993 - art. 3 () JORF 9 janvier 1993
+
+
+#### Section 2 : Des changements de prénoms et de nom.
+
+###### Article 60
+
+Toute personne qui justifie d'un intérêt légitime peut demander à changer de prénom. La demande est portée devant le juge aux
+affaires familiales à la requête de l'intéressé ou, s'il s'agit d'un incapable, à la requête de son représentant légal.
+L'adjonction ou la suppression de prénoms peut pareillement être décidée.
+
+Si l'enfant est âgé de plus de treize ans, son consentement personnel est requis.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°65-422 du 1 juin 1965 - art. 12 (V)
+	  - Décret n°93-1091 du 16 septembre 1993 - art. 22 (V)
+	  - Arrêté du 23 décembre 2004 - art. 2 (V)
+	  - Décret n°2017-450 du 29 mars 2017 (V)
+	  - Décret n°2017-450 du 29 mars 2017 - art. 2
+	  - Code de procédure civile - art. 1055-2 (V)
+	  - Code de procédure civile - art. 1055-3 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-11
+
+	**Créé par**:
+
+	  - Loi n°93-22 du 8 janvier 1993 - art. 4 () JORF 9 janvier 1993
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2002-304 2002-03-04 art. 24 (Mayotte)
+
+
 #### Section 3 : De l'acte de reconnaissance.
 
 ###### Article 62
 
-L'acte de reconnaissance d'un enfant naturel sera inscrit sur les registres à sa date ; il en sera fait mention en marge de
-l'acte de naissance, s'il en existe un, et il en sera donné avis, dans le mois, au juge du tribunal d'instance du canton de
-la naissance.
+L'acte de reconnaissance d'un enfant naturel énonce les prénoms, nom, date de naissance ou, à défaut, âge, lieu de naissance
+et domicile de l'auteur de la reconnaissance.
+
+Il indique les date et lieu de naissance, le sexe et les prénoms de l'enfant ou, à défaut, tous renseignements utiles sur la
+naissance, sous réserve des dispositions de l'article 341-1.
+
+L'acte de reconnaissance sera inscrit à sa date sur les registres de l'état civil.
+
+Seules les mentions prévues au premier alinéa sont portées en marge de l'acte de naissance s'il en existe un.
 
 Dans les circonstances prévues à l'article 59, la déclaration de reconnaissance pourra être reçue par les officiers
-instrumentaires désignés en cet article, et dans les formes qui y sont indiquées.
+instrumentaires désignés en cet article et dans les formes qui y sont indiquées.
 
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°65-422 du 1 juin 1965 - art. 12 (V) JORF 5 juin 1965
-	  - Décret-loi 1939-07-29 art. 109
 
 	**Cité par**:
 
@@ -640,17 +805,18 @@ instrumentaires désignés en cet article, et dans les formes qui y sont indiqu�
 	  - Code civil - art. 335 (M)
 	  - Code disciplinaire et pénal de la marine marchande - art. 43 (VT)
 
+	**Modifié par**:
+
+	  - Loi n°93-22 du 8 janvier 1993 - art. 5 () JORF 9 janvier 1993
+
 	**Cite**:
 
+	  - Code civil - art. 341-1 (T)
 	  - Code civil - art. 59 (V)
 
 	**Codifié par**:
 
 	  - Loi n°1803-03-11
-
-	**Créé par**:
-
-	  - Loi n°1803-03-11 promulguée le 21 mars 1803
 
 
 ### Chapitre III : Des actes de mariage.
@@ -1157,6 +1323,35 @@ Il sera fait mention du décès en marge de l'acte de naissance de la personne d
 	  - Loi n°1803-03-11 promulguée le 21 mars 1803
 
 
+###### Article 79-1
+
+Lorsqu'un enfant est décédé avant que sa naissance ait été déclarée à l'état civil, l'officier de l'état civil établit un
+acte de naissance et un acte de décès sur production d'un certificat médical indiquant que l'enfant est né vivant et viable
+et précisant les jours et heures de sa naissance et de son décès.
+
+A défaut du certificat médical prévu à l'alinéa précédent, l'officier de l'état civil établit un acte d'enfant sans vie. Cet
+acte est inscrit à sa date sur les registres de décès et il énonce les jour, heure et lieu de l'accouchement, les prénoms et
+noms, dates et lieux de naissance, professions et domiciles des père et mère et, s'il y a lieu, ceux du déclarant. L'acte
+dressé ne préjuge pas de savoir si l'enfant a vécu ou non ; tout intéressé pourra saisir le tribunal de grande instance à
+l'effet de statuer sur la question.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°93-22 du 8 janvier 1993 - art. 6 () JORF 9 janvier 1993
+
+	**Cité par**:
+
+	  - Arrêté du 20 août 2008 (V)
+	  - Décret n°2008-800 du 20 août 2008 - art. 1 (V)
+	  - Code de la santé publique - art. R1112-72 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-11
+
+
 ###### Article 80
 
 Lorsqu'un décès se sera produit ailleurs que dans la commune où le défunt était domicilié, l'officier de l'état civil qui
@@ -1165,10 +1360,9 @@ expédition de cet acte, laquelle sera immédiatement transcrite sur les registr
 villes divisées en arrondissements, lorsque le décès est survenu dans un arrondissement autre que celui où le défunt était
 domicilié.
 
-En cas de décès dans les hôpitaux ou les formations sanitaires, les hôpitaux maritimes, coloniaux, civils, ou autres
-établissements publics, soit en France, soit dans les colonies ou les pays de protectorat, les directeurs, administrateurs ou
-maîtres de ces hôpitaux ou établissements devront en donner avis, dans les vingt-quatre heures, à l'officier de l'état civil
-ou à celui qui en remplit les fonctions.
+En cas de décès dans les hôpitaux ou les formations sanitaires, les hôpitaux maritimes, civils, ou autres établissements
+publics, les directeurs, administrateurs ou maîtres de ces hôpitaux ou établissements devront en donner avis, dans les vingt-
+quatre heures, à l'officier de l'état civil ou à celui qui en remplit les fonctions.
 
 Celui-ci s'y transportera pour s'assurer du décès et en dressera l'acte, conformément à l'article précédent, sur les
 déclarations qui lui auront été faites, et sur les renseignements qu'il aura pris.
@@ -1191,10 +1385,6 @@ déclarations et renseignements.
 	  - Code général des collectivités territoriales - art. R2213-8 (V)
 	  - Décret n°41-5050 du 31 décembre 1941 - art. 4-1 (Ab)
 
-	**Modifié par**:
-
-	  - Ordonnance 58-779 1958-08-23 art. 4 JORF 30 août 1958
-
 	**Cite**:
 
 	  - Code civil - art. 79 (V)
@@ -1203,9 +1393,9 @@ déclarations et renseignements.
 
 	  - Loi n°1803-03-11
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°1803-03-11 promulguée le 21 mars 1803
+	  - Loi n°93-22 du 8 janvier 1993 - art. 7 () JORF 9 janvier 1993
 
 
 ###### Article 81
@@ -1904,24 +2094,30 @@ dépositaires des registres.
 
 Les personnes habilitées à exercer les fonctions d'officier de l'état civil pour dresser les actes mentionnés aux articles 98
 à 98-2 peuvent procéder à la rectification administrative des erreurs et omissions purement matérielles contenues dans ces
-actes.
+actes ou dans les mentions qui y sont apposées en marge, à l'exception de celles inscrites après l'établissement des actes.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°78-731 du 12 juillet 1978 - art. 7 () JORF 13 juillet 1978 en vigueur le 1er janvier 1979
 
 	**Cité par**:
 
 	  - Décret n°80-308 du 25 avril 1980 - art. 5 (V)
 	  - Code de procédure civile - art. 1047 (V)
 
+	**Modifié par**:
+
+	  - Loi n°93-22 du 8 janvier 1993 - art. 8 () JORF 9 janvier 1993
+
+	**Liens**:
+
+	  - TRANSFERE: Loi n°2016-1547 du 18 novembre 2016 - art. 55
+
 	**Cite**:
 
 	  - Code civil - art. 98 (V)
-	  - Code civil - art. 98-1 (V)
-	  - Code civil - art. 98-2 (V)
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 99-2 (V)
 
 	**Codifié par**:
 
@@ -4396,7 +4592,7 @@ Si la bonne foi n'existe que de la part de l'un des époux, le mariage ne produi
 
 Il produit aussi ses effets à l'égard des enfants, quand bien même aucun des époux n'aurait été de bonne foi.
 
-Il est statué sur leur garde comme en matière de divorce.
+Le juge statue sur les modalités de l'exercice de l'autorité parentale comme en matière de divorce.
 
 **Liens relatifs à cet article**
 
@@ -4408,13 +4604,9 @@ Il est statué sur leur garde comme en matière de divorce.
 
 	  - Loi n°1803-03-14
 
-	**Créé par**:
-
-	  - Loi n°1803-03-17 promulguée le 27 mars 1803
-
 	**Modifié par**:
 
-	  - Loi n°72-3 du 3 janvier 1972 - art. 3 () JORF 5 janvier 1972 en vigueur le 1er août 1972
+	  - Loi n°93-22 du 8 janvier 1993 - art. 34 () JORF 9 janvier 1993
 
 
 ### Chapitre V : Des obligations qui naissent du mariage
@@ -6617,8 +6809,8 @@ II.
 
 S'il y a des enfants mineurs, le juge se prononce sur les modalités de l'exercice de l'autorité parentale. Il peut également
 décider de les confier à un tiers. Il se prononce également sur le droit de visite et d'hébergement et fixe la contribution
-due, pour leur entretien et leur éducation, par l'époux qui n'a pas l'exercice de l'autorité parentale ou chez lequel les
-enfants ne résident pas habituellement.
+due pour leur entretien et leur éducation par le parent chez lequel les enfants ne résident pas habituellement ou qui
+n'exerce pas l'autorité parentale.
 
 **Liens relatifs à cet article**
 
@@ -6628,12 +6820,7 @@ enfants ne résident pas habituellement.
 
 	**Modifié par**:
 
-	  - Loi n°87-570 du 22 juillet 1987 - art. 2 () JORF 24 juillet 1987
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°87-570 du 22 juillet 1987 - art. 29 (V)
-	  - SPEC_APPLI: Loi n°87-570 du 22 juillet 1987 - art. 30 (V)
+	  - Loi n°93-22 du 8 janvier 1993 - art. 35 () JORF 9 janvier 1993
 
 	**Cité par**:
 
@@ -8013,29 +8200,32 @@ qui suivent.
 
 ###### Article 287
 
-Selon l'intérêt des enfants mineurs, l'autorité parentale est exercée soit en commun par les deux parents après que le juge
-ait recueilli leur avis, soit par l'un d'eux. En cas d'exercice en commun de l'autorité parentale, le juge indique le parent
-chez lequel les enfants ont leur résidence habituelle.
+L'autorité parentale est exercée en commun par les deux parents. Le juge désigne, à défaut d'accord amiable ou si cet accord
+lui apparaît contraire à l'intérêt de l'enfant, le parent chez lequel les enfants ont leur résidence habituelle.
+
+Si l'intérêt de l'enfant le commande, le juge peut confier l'exercice de l'autorité parentale à l'un des deux parents.
+
+Les parents peuvent, de leur propre initiative ou à la demande du juge, présenter leurs observations sur les modalités de
+l'exercice de l'autorité parentale.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°87-570 du 22 juillet 1987 - art. 29 (V)
-	  - SPEC_APPLI: Loi n°87-570 du 22 juillet 1987 - art. 30 (V)
-
-	**Modifié par**:
-
-	  - Loi n°87-570 du 22 juillet 1987 - art. 5 () JORF 24 juillet 1987
 
 	**Cité par**:
 
 	  - Code civil - art. 373-2 (M)
 	  - Code civil - art. 375-3 (M)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Modifié par**:
+
+	  - Loi n°93-22 du 8 janvier 1993 - art. 36 () JORF 9 janvier 1993
+
+	**Abrogé par**:
+
+	  - Loi n°2002-305 du 4 mars 2002 - art. 1 () JORF 5 mars 2002
 
 
 ###### Article 287-1
@@ -8182,29 +8372,26 @@ Le juge tient compte :
 
 2° Des renseignements qui ont été recueillis dans l'enquête et la contre-enquête sociale prévues à l'article 287-1 ;
 
-3° Des sentiments exprimés par les enfants. Lorsque ceux-ci ont moins de treize ans, ils ne peuvent être entendus que si leur
-audition paraît nécessaire et ne comporte pas d'inconvénients pour eux ; lorsqu'ils ont plus de treize ans, leur audition ne
-peut être écartée que par décision spécialement motivée. Cette décision n'est susceptible d'appel qu'avec la décision qui
-statue sur l'autorité parentale.
+3° Des sentiments exprimés par les enfants mineurs dans les conditions prévues à l'article 388-1.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
 	**Modifié par**:
 
-	  - Loi n°87-570 du 22 juillet 1987 - art. 10 () JORF 24 juillet 1987
+	  - Loi n°93-22 du 8 janvier 1993 - art. 57 () JORF 9 janvier 1993
 
-	**Liens**:
+	**Abrogé par**:
 
-	  - SPEC_APPLI: Loi n°87-570 du 22 juillet 1987 - art. 29 (V)
-	  - SPEC_APPLI: Loi n°87-570 du 22 juillet 1987 - art. 30 (V)
+	  - Loi n°2002-305 du 4 mars 2002 - art. 1 () JORF 5 mars 2002
 
 	**Cite**:
 
 	  - Code civil - art. 287-1 (M)
+	  - Code civil - art. 388-1 (M)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
 
 
 ###### Article 291
@@ -8260,8 +8447,8 @@ l'autorité parentale peuvent être révisées, pour des motifs graves, à la de
 ###### Article 293
 
 La contribution à l'entretien et à l'éducation des enfants prévue à l'article 288 prend la forme d'une pension alimentaire
-versée, selon le cas, au parent qui a l'exercice de l'autorité parentale ou chez lequel les enfants ont leur résidence
-habituelle ou à la personne à laquelle les enfants ont été confiés.
+versée, selon le cas, au parent chez lequel les enfants ont leur résidence habituelle ou qui exerce l'autorité parentale ou à
+la personne à laquelle les enfants ont été confiés.
 
 Les modalités et les garanties de cette pension alimentaire sont fixées par le jugement ou, en cas de divorce sur demande
 conjointe, par la convention des époux homologuée par le juge.
@@ -8274,12 +8461,11 @@ conjointe, par la convention des époux homologuée par le juge.
 
 	**Modifié par**:
 
-	  - Loi n°87-570 du 22 juillet 1987 - art. 11 () JORF 24 juillet 1987
+	  - Loi n°93-22 du 8 janvier 1993 - art. 37 () JORF 9 janvier 1993
 
-	**Liens**:
+	**Abrogé par**:
 
-	  - SPEC_APPLI: Loi n°87-570 du 22 juillet 1987 - art. 29 (V)
-	  - SPEC_APPLI: Loi n°87-570 du 22 juillet 1987 - art. 30 (V)
+	  - Loi n°2002-305 du 4 mars 2002 - art. 1 () JORF 5 mars 2002
 
 	**Cite**:
 
@@ -8903,27 +9089,31 @@ Les parents ou l'enfant peuvent demander au juge des tutelles que leur soit dél
 Sans préjudice de tous autres moyens de preuve auxquels ils pourraient recourir pour en établir l'existence en justice, si
 elle venait à être contestée.
 
+Le lien de filiation établi par la possession d'état constatée dans l'acte de notoriété est mentionné en marge de l'acte de
+naissance de l'enfant.
+
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°72-3 du 3 janvier 1972 - art. 1 () JORF 5 janvier 1972 en vigueur le 1er août 1972
+	  - Loi n°93-22 du 8 janvier 1993 - art. 13 () JORF 9 janvier 1993
 
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 11 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 12 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 13 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 14 (V)
+	  - SPEC_APPLI: Ordonnance 2005-759 2005-07-04 art. 20 : Spécificité d'application
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 18 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
 
 	**Cite**:
 
 	  - Code civil - art. 71 (V)
 	  - Code civil - art. 72 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
 
 
 #### Section 2 : Des actions relatives à la filiation.
@@ -9147,9 +9337,9 @@ Les juges peuvent d'office ordonner que soient mis en cause tous les intéressé
 
 ###### Article 311-11
 
-Pareillement quand, sur l'une des actions ouvertes par les articles 340 et 342 ci-dessous, il est opposé une fin de non-
-recevoir ou une défense tirée de ce que la mère a eu, pendant la période légale de la conception, des relations avec un
-tiers, le juge peut ordonner que celui-ci soit appelé en la cause.
+Pareillement quand, sur l'une des actions ouvertes par les articles 340 et 342 ci-dessous, il est opposé une défense tirée de
+ce que la mère a eu, pendant la période légale de la conception, des relations avec un tiers, le juge peut ordonner que
+celui-ci soit appelé en la cause.
 
 **Liens relatifs à cet article**
 
@@ -9157,17 +9347,18 @@ tiers, le juge peut ordonner que celui-ci soit appelé en la cause.
 
 	  - Loi n°1803-03-14
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°72-3 du 3 janvier 1972 - art. 1 () JORF 5 janvier 1972 en vigueur le 1er août 1972
+	  - Loi n°93-22 du 8 janvier 1993 - art. 14 () JORF 9 janvier 1993
 
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 11 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 12 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 13 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 14 (V)
+	  - SPEC_APPLI: Ordonnance 2005-759 2005-07-04 art. 20 : Spécificité d'application
 	  - TXT_ASSOCIE: Code civil - art. 342-3 (Ab)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 18 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
 
 	**Cite**:
 
@@ -9457,22 +9648,21 @@ est établie à l'égard de la mère comme s'il y avait eu désaveu admis en jus
 Chacun des époux peut demander que les effets de la présomption de paternité soient rétablis, en justifiant que, dans la
 période légale de la conception, une réunion de fait a eu lieu entre eux, qui rend vraisemblable la paternité du mari.
 
+L'action est ouverte à l'enfant pendant les deux années qui suivent sa majorité.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Loi n°1803-03-14
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°72-3 du 3 janvier 1972 - art. 1 () JORF 5 janvier 1972 en vigueur le 1er août 1972
+	  - Loi n°93-22 du 8 janvier 1993 - art. 15 () JORF 9 janvier 1993
 
-	**Liens**:
+	**Abrogé par**:
 
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 11 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 12 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 13 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 14 (V)
+	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 10 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
 
 	**Cite**:
 
@@ -9624,29 +9814,26 @@ comme non avenu, s'il n'est suivi d'une action en justice dans le délai de six 
 
 ###### Article 317
 
-L'action en désaveu est dirigée, en présence de la mère, contre un tuteur ad hoc, désigné à l'enfant par le juge des
-tutelles.
+L'action en désaveu est dirigée, en présence de la mère contre un administrateur ad hoc, désigné à l'enfant par le juge des
+tutelles, dans les conditions prévues à l'article 389-3.
 
 **Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code civil - art. 2492 (VD)
+
+	**Cite**:
+
+	  - Code civil - art. 389-3 (M)
 
 	**Codifié par**:
 
 	  - Loi n°1803-03-14
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°72-3 du 3 janvier 1972 - art. 1 () JORF 5 janvier 1972 en vigueur le 1er août 1972
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 11 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 12 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 13 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 14 (V)
-
-	**Cité par**:
-
-	  - Code civil - art. 2492 (VD)
+	  - Loi n°93-22 du 8 janvier 1993 - art. 59 () JORF 9 janvier 1993
 
 
 ###### Article 318
@@ -9684,7 +9871,7 @@ elle se sera, après dissolution du mariage, remariée avec le véritable père 
 ###### Article 318-1
 
 A peine d'irrecevabilité, l'action, dirigée contre le mari ou ses héritiers, est jointe à une demande de légitimation formée
-dans les termes de l'article 331-1 ci-dessous.
+devant le tribunal de grande instance.
 
 Elle doit être introduite par la mère et son nouveau conjoint dans les six mois de leur mariage et avant que l'enfant n'ait
 atteint l'âge de sept ans.
@@ -9695,29 +9882,17 @@ atteint l'âge de sept ans.
 
 	  - Code civil - art. 311-5 (T)
 
-	**Cite**:
-
-	  - Code civil - art. 331-1 (Ab)
-
 	**Codifié par**:
 
 	  - Loi n°1803-03-14
 
-	**Créé par**:
-
-	  - Loi n°72-3 du 3 janvier 1972 - art. 1 () JORF 5 janvier 1972 en vigueur le 1er août 1972
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 11 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 12 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 13 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 14 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 18 (V)
-
 	**Cité par**:
 
 	  - Loi n°72-3 du 3 janvier 1972 - art. 18 (V)
+
+	**Modifié par**:
+
+	  - Loi n°93-22 du 8 janvier 1993 - art. 16 () JORF 9 janvier 1993
 
 
 ###### Article 318-2
@@ -9878,73 +10053,28 @@ rédaction de l'acte de naissance, la preuve en sera recevable et pourra se fair
 ###### Article 323
 
 A défaut de titre et de possession d'état, ou si l'enfant a été inscrit, soit sous de faux noms, soit sans indication du nom
-de la mère, la preuve de la filiation peut se faire par témoins.
-
-La preuve par témoins ne peut, néanmoins, être admise que lorsqu'il existe, soit un commencement de preuve par écrit, soit
-des présomptions ou indices assez graves pour en déterminer l'admission.
+de la mère, la preuve de la filiation ne peut être judiciairement rapportée que s'il existe des présomptions ou indices assez
+graves pour en déterminer l'admission.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°72-3 du 3 janvier 1972 - art. 1 () JORF 5 janvier 1972 en vigueur le 1er août 1972
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 11 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 12 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 13 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 14 (V)
-
-	**Cité par**:
-
-	  - Loi n°93-22 du 8 janvier 1993 - art. 60 (V)
-	  - Code civil - art. 328 (M)
 
 	**Anciens textes**:
 
 	  - Code civil - art. 311-9 (T)
 
+	**Cité par**:
 
-###### Article 324
-
-Le commencement de preuve par écrit résulte des titres de famille, des registres et papiers domestiques, ainsi que de tous
-autres écrits publics ou privés émanés d'une partie engagée dans la contestation ou qui y aurait intérêt si elle était
-vivante.
-
-**Liens relatifs à cet article**
+	  - Code civil - art. 328 (M)
+	  - Loi n°93-22 du 8 janvier 1993 - art. 60 (V)
 
 	**Codifié par**:
 
 	  - Loi n°1803-03-14
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°72-3 du 3 janvier 1972 - art. 1 () JORF 5 janvier 1972 en vigueur le 1er août 1972
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 11 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 12 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 13 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 14 (V)
-
-	**Abrogé par**:
-
+	  - Loi n°93-22 du 8 janvier 1993 - art. 17 () JORF 9 janvier 1993
 	  - Loi n°93-22 du 8 janvier 1993 - art. 60 (V) JORF 9 janvier 1993
-
-	**Cité par**:
-
-	  - Loi n°93-22 du 8 janvier 1993 - art. 60 (V)
-	  - Code civil - art. 341 (M)
-
-	**Anciens textes**:
-
-	  - Code civil - art. 311-10 (T)
 
 
 ###### Article 325
@@ -10075,8 +10205,7 @@ l'inexactitude, à supposer que l'on soit dans l'un des cas où la loi autorise 
 
 ###### Article 329
 
-La légitimation peut bénéficier à tous les enfants naturels, pourvu que, soit par reconnaissance volontaire, soit par
-jugement, leur filiation ait été légalement établie.
+La légitimation peut bénéficier à tous les enfants naturels pourvu que leur filiation ait été légalement établie.
 
 **Liens relatifs à cet article**
 
@@ -10084,16 +10213,13 @@ jugement, leur filiation ait été légalement établie.
 
 	  - Loi n°1803-03-14
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°72-3 du 3 janvier 1972 - art. 1 () JORF 5 janvier 1972 en vigueur le 1er août 1972
+	  - Loi n°93-22 du 8 janvier 1993 - art. 18 () JORF 9 janvier 1993
 
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 11 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 12 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 13 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 14 (V)
+	  - SPEC_APPLI: Loi n°2002-304 2002-03-04 art. 24 (Mayotte)
 
 	**Cité par**:
 
@@ -10128,7 +10254,8 @@ La légitimation a lieu, soit par mariage des parents, soit par autorité de jus
 
 ###### Article 331
 
-Tous les enfants nés hors mariage sont légitimés de plein droit par le mariage subséquent de leurs père et mère.
+Tous les enfants nés hors mariage "fussent-ils décédés" sont légitimés de plein droit par le mariage subséquent de leurs père
+et mère.
 
 Si leur filiation n'était pas déjà établie, ces enfants font l'objet d'une reconnaissance au moment de la célébration du
 mariage. En ce cas, l'officier de l'état civil qui procède à la célébration constate la reconnaissance et la légitimation
@@ -10136,16 +10263,11 @@ dans un acte séparé.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°72-3 du 3 janvier 1972 - art. 1 () JORF 5 janvier 1972 en vigueur le 1er août 1972
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 11 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 12 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 13 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 14 (V)
+	  - Loi n°93-22 du 8 janvier 1993 - art. 10 () JORF 9 janvier 1993
+	  - Loi n°2002-304 du 4 mars 2002 - art. 5 () JORF 5 mars 2002
+	  - Loi n°2003-516 du 18 juin 2003 - art. 5 () JORF 19 juin 2003
 
 	**Cité par**:
 
@@ -10197,22 +10319,18 @@ Toute légitimation est mentionnée en marge de l'acte de naissance de l'enfant 
 Cette mention peut être requise par tout intéressé. Dans le cas de l'article 331, l'officier de l'état civil y pourvoit lui-
 même, s'il a eu connaissance de l'existence des enfants.
 
+La mention de la légitimation sur l'acte de naissance d'un enfant majeur est dépourvue d'effet sur son patronyme si l'acte ne
+comporte pas, en outre, la mention du consentement de l'intéressé à la modification de son patronyme.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Loi n°1803-03-14
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°72-3 du 3 janvier 1972 - art. 1 () JORF 5 janvier 1972 en vigueur le 1er août 1972
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 11 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 12 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 13 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 14 (V)
+	  - Loi n°93-22 du 8 janvier 1993 - art. 19 () JORF 9 janvier 1993
 
 	**Cité par**:
 
@@ -10226,41 +10344,19 @@ même, s'il a eu connaissance de l'existence des enfants.
 	  - Code civil - art. 331 (M)
 
 
-###### Article 332
-
-La légitimation peut avoir lieu après la mort de l'enfant, s'il a laissé des descendants ; elle profite alors à ceux-ci.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°72-3 du 3 janvier 1972 - art. 1 () JORF 5 janvier 1972 en vigueur le 1er août 1972
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 11 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 12 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 13 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 14 (V)
-
-	**Abrogé par**:
-
-	  - Loi n°93-22 du 8 janvier 1993 - art. 10 () JORF 9 janvier 1993
-
-	**Cité par**:
-
-	  - Code civil - art. 333-6 (M)
-
-
 ###### Article 332-1
 
 La légitimation confère à l'enfant légitimé les droits et les devoirs de l'enfant légitime.
 
+Toutefois, la légitimation ne peut avoir pour effet de modifier le patronyme d'un enfant majeur sans le consentement de
+celui-ci.
+
 Elle prend effet à la date du mariage.
+
+**Nota:**
+
+NOTA : Ces dispositions demeurent en vigueur jusqu'au 1er janvier 2005, l'article 13 de la loi n° 2003-516 ayant reporté au
+1er janvier 2005 la date initiale du 1er septembre 2003 prévue par l'article 25 de la loi n° 2002-304.
 
 **Liens relatifs à cet article**
 
@@ -10268,16 +10364,9 @@ Elle prend effet à la date du mariage.
 
 	  - Loi n°1803-03-14
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°72-3 du 3 janvier 1972 - art. 1 () JORF 5 janvier 1972 en vigueur le 1er août 1972
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 11 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 12 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 13 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 14 (V)
+	  - Loi n°93-22 du 8 janvier 1993 - art. 20 () JORF 9 janvier 1993
 
 	**Cité par**:
 
@@ -10849,25 +10938,24 @@ l'égard de l'autre.
 
 ###### Article 335
 
-La reconnaissance d'un enfant naturel sera faite par acte authentique, lorsqu'elle ne l'aura pas été dans l'acte de
-naissance.
+La reconnaissance d'un enfant naturel peut être faite dans l'acte de naissance, par acte reçu par l'officier de l'état civil
+ou par tout autre acte authentique.
+
+L'acte comporte les énonciations prévues à l'article 62.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code civil - art. 62 (M)
 
 	**Codifié par**:
 
 	  - Loi n°1803-03-14
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°72-3 du 3 janvier 1972 - art. 1 () JORF 5 janvier 1972 en vigueur le 1er août 1972
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 11 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 12 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 13 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 14 (V)
+	  - Loi n°93-22 du 8 janvier 1993 - art. 22 () JORF 9 janvier 1993
 
 	**Cité par**:
 
@@ -10992,23 +11080,23 @@ prétendent les parents véritables.
 
 ###### Article 340
 
-La paternité hors mariage peut être judiciairement déclarée :
+La paternité hors mariage peut être judiciairement déclarée.
 
-1° Dans le cas d'enlèvement ou de viol, lorsque l'époque des faits se rapportera à celle de la conception ;
-
-2° Dans le cas de séduction, accomplie à l'aide de manoeuvres dolosives, abus d'autorité, promesse de mariage ou
-fiançailles ;
-
-3° Dans le cas où il existe des lettres ou quelque autre écrit émanant du père prétendu, propres à établir la paternité d'une
-manière non équivoque ;
-
-4° Dans le cas où le père prétendu et la mère ont vécu pendant la période légale de la conception en état de concubinage,
-impliquant, à défaut de communauté de vie, des relations stables et continues ;
-
-5° Dans le cas où le père prétendu a pourvu ou participé à l'entretien, à l'éducation ou à l'établissement de l'enfant en
-qualité de père.
+La preuve ne peut en être rapportée que s'il existe des présomptions ou indices graves.
 
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Modifié par**:
+
+	  - Loi n°93-22 du 8 janvier 1993 - art. 23 () JORF 9 janvier 1993
+
+	**Transféré par**:
+
+	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 2 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
 
 	**Cité par**:
 
@@ -11017,63 +11105,8 @@ qualité de père.
 
 	**Nouveaux textes**:
 
+	  - Code civil - art. 327 (M)
 	  - Code civil - art. 327 (V)
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°72-3 du 3 janvier 1972 - art. 1 () JORF 5 janvier 1972 en vigueur le 1er août 1972
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 11 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 12 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 13 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 14 (V)
-
-
-###### Article 340-1
-
-L'action en recherche de paternité ne sera pas recevable :
-
-1° S'il est établi que, pendant la période légale de la conception, la mère était d'une inconduite notoire ou qu'elle a eu
-commerce avec un autre individu, à moins qu'il ne résulte d'un examen des sangs ou de toute autre méthode médicale certaine
-que cet individu ne peut être le père ;
-
-2° Si le père prétendu était, pendant la même période, soit par suite d'éloignement, soit par l'effet de quelque accident,
-dans l'impossibilité physique d'être le père ;
-
-3° Si le père prétendu établit par un examen des sangs ou par toute autre méthode médicale certaine qu'il ne peut être le
-père de l'enfant.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°72-3 du 3 janvier 1972 - art. 1 () JORF 5 janvier 1972 en vigueur le 1er août 1972
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 11 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 12 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 13 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 14 (V)
-
-	**Abrogé par**:
-
-	  - Loi n°93-22 du 8 janvier 1993 - art. 60 (V) JORF 9 janvier 1993
-
-	**Cité par**:
-
-	  - Loi n°93-22 du 8 janvier 1993 - art. 60 (V)
-	  - Code civil - art. 342-4 (M)
 
 
 ###### Article 340-2
@@ -11114,8 +11147,9 @@ l'action sera intentée conformément aux dispositions de l'article 464, alinéa
 
 ###### Article 340-3
 
-L'action en recherche de paternité est exercée contre le père prétendu ou contre ses héritiers ; si les héritiers ont renoncé
-à la succession, contre l'Etat.
+L'action en recherche de paternité est exercée contre le père prétendu ou contre ses héritiers ; à défaut d'héritiers ou si
+ceux-ci ont renoncé à la succession, contre l'Etat, les héritiers renonçants devant être cependant appelés à la procédure
+pour y faire valoir leurs droits.
 
 **Liens relatifs à cet article**
 
@@ -11123,16 +11157,17 @@ L'action en recherche de paternité est exercée contre le père prétendu ou co
 
 	  - Loi n°1803-03-14
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°72-3 du 3 janvier 1972 - art. 1 () JORF 5 janvier 1972 en vigueur le 1er août 1972
+	  - Loi n°93-22 du 8 janvier 1993 - art. 24 () JORF 9 janvier 1993
 
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 11 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 12 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 13 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 14 (V)
+	  - SPEC_APPLI: Ordonnance 2005-759 2005-07-04 art. 20 : Spécificité d'application
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 18 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
 
 	**Cité par**:
 
@@ -11143,11 +11178,14 @@ L'action en recherche de paternité est exercée contre le père prétendu ou co
 
 L'action doit, à peine de déchéance, être exercée dans les deux années qui suivent la naissance.
 
-Toutefois, dans les quatrième et cinquième cas de l'article 340, elle peut être exercée jusqu'à l'expiration des deux années
-qui suivent la cessation, soit du concubinage, soit des actes de participation à l'entretien et à l'éducation de l'enfant.
+Toutefois, si le père prétendu et la mère ont vécu pendant la période légale de la conception en état de concubinage
+impliquant, à défaut de communauté de vie, des relations stables ou continues, l'action peut être exercée jusqu'à
+l'expiration des deux années qui suivent la cessation du concubinage. Si le père prétendu a participé à l'entretien, à
+l'éducation ou à l'établissement de l'enfant en qualité de père, l'action peut être exercée jusqu'à l'expiration des deux
+années qui suivent la cessation de cette contribution.
 
 Si elle n'a pas été exercée pendant la minorité de l'enfant, celui-ci peut encore l'exercer pendant les deux années qui
-suivent sa majorité.
+suivent la majorité.
 
 **Liens relatifs à cet article**
 
@@ -11155,20 +11193,17 @@ suivent sa majorité.
 
 	  - Loi n°1803-03-14
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°72-3 du 3 janvier 1972 - art. 1 () JORF 5 janvier 1972 en vigueur le 1er août 1972
+	  - Loi n°93-22 du 8 janvier 1993 - art. 25 () JORF 9 janvier 1993
 
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 11 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 12 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 13 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 14 (V)
+	  - SPEC_APPLI: Ordonnance 2005-759 2005-07-04 art. 20 : Spécificité d'application
 
-	**Cite**:
+	**Abrogé par**:
 
-	  - Code civil - art. 340 (M)
+	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 18 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
 
 
 ###### Article 340-5
@@ -11254,14 +11289,38 @@ défendeur ont été démontrées dans les conditions prévues aux articles 342 
 
 ###### Article 341
 
-La recherche de la maternité est admise.
+La recherche de la maternité est admise sous réserve de l'application de l'article 341-1.
 
 L'enfant qui exerce l'action sera tenu de prouver qu'il est celui dont la mère prétendue est accouchée.
 
-Il sera reçu à le prouver en établissant qu'il a, à l'égard de celle-ci, la possession d'état d'enfant naturel.
+La preuve ne peut en être rapportée que s'il existe des présomptions ou indices graves.
 
-A défaut, la preuve de la filiation pourra être faite par témoins, s'il existe, soit des présomptions ou indices graves, soit
-un commencement de preuve par écrit, au sens de l'article 324 ci-dessus.
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code civil - art. 341-1 (T)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Modifié par**:
+
+	  - Loi n°93-22 du 8 janvier 1993 - art. 26 () JORF 9 janvier 1993
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2005-759 2005-07-04 art. 20 : Spécificité d'application
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 18 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
+
+
+###### Article 341-1
+
+Lors de l'accouchement, la mère peut demander que le secret de son admission et de son identité soit préservé.
 
 **Liens relatifs à cet article**
 
@@ -11271,18 +11330,21 @@ un commencement de preuve par écrit, au sens de l'article 324 ci-dessus.
 
 	**Créé par**:
 
-	  - Loi n°72-3 du 3 janvier 1972 - art. 1 () JORF 5 janvier 1972 en vigueur le 1er août 1972
+	  - Loi n°93-22 du 8 janvier 1993 - art. 27 () JORF 9 janvier 1993
 
-	**Liens**:
+	**Transféré par**:
 
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 11 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 12 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 13 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 14 (V)
+	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 2 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
 
-	**Cite**:
+	**Nouveaux textes**:
 
-	  - Code civil - art. 324 (Ab)
+	  - Code civil - art. 326 (M)
+	  - Code civil - art. 326 (V)
+
+	**Cité par**:
+
+	  - Code civil - art. 341 (Ab)
+	  - Code civil - art. 62 (V)
 
 
 #### Section 4 : De l'action à fins de subsides
@@ -11437,8 +11499,7 @@ Les dispositions régissant les subsides sont, pour le surplus, applicables à c
 
 ###### Article 342-4
 
-Le défendeur peut écarter la demande, soit en faisant la preuve, conformément à l'article 340-1, 2° et 3°, qu'il ne pouvait
-être le père de l'enfant, soit en établissant que la mère se livrait à la débauche.
+Le défendeur peut écarter la demande en faisant la preuve par tous moyens qu'il ne peut être le père de l'enfant.
 
 **Liens relatifs à cet article**
 
@@ -11446,20 +11507,9 @@ Le défendeur peut écarter la demande, soit en faisant la preuve, conformément
 
 	  - Loi n°1803-03-14
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°72-3 du 3 janvier 1972 - art. 1 () JORF 5 janvier 1972 en vigueur le 1er août 1972
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 11 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 12 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 13 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 14 (V)
-
-	**Cite**:
-
-	  - Code civil - art. 340-1 (Ab)
+	  - Loi n°93-22 du 8 janvier 1993 - art. 28 () JORF 9 janvier 1993
 
 
 ###### Article 342-5
@@ -11724,6 +11774,22 @@ S'il a plus de treize ans, l'adopté doit consentir personnellement à son adopt
 	**Modifié par**:
 
 	  - Loi n°76-1179 1976-12-22 art. 5 JORF 23 décembre 1976
+
+
+###### Article 345-1
+
+L'adoption plénière de l'enfant du conjoint n'est permise que lorsque cet enfant n'a de filiation légalement établie qu'à
+l'égard de ce conjoint.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°93-22 du 8 janvier 1993 - art. 29 () JORF 9 janvier 1993
 
 
 ###### Article 346
@@ -12043,32 +12109,18 @@ relations nécessaires au maintien de liens affectifs.
 
 La simple rétractation du consentement à l'adoption, la demande de nouvelles ou l'intention exprimée mais non suivie d'effet
 de reprendre l'enfant n'est pas une marque d'intérêt suffisante pour motiver de plein droit le rejet d'une demande en
-déclaration d'abandon.
+déclaration d'abandon. Ces démarches n'interrompent pas le délai figurant au premier alinéa.
 
 L'abandon n'est pas déclaré si, au cours du délai prévu au premier alinéa du présent article, un membre de la famille a
 demandé à assumer la charge de l'enfant et si cette demande est jugée conforme à l'intérêt de ce dernier.
 
 Lorsqu'il déclare l'enfant abandonné, le tribunal délègue par la même décision les droits d'autorité parentale sur l'enfant
-au service de l'aide sociale à l'enfance, à l'établissement ou au particulier gardien de l'enfant.
+au service de l'aide sociale à l'enfance, à l'établissement ou au particulier qui a recueilli l'enfant ou à qui ce dernier a
+été confié.
 
 La tierce opposition n'est recevable qu'en cas de dol, de fraude ou d'erreur sur l'identité de l'enfant.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°66-500 du 11 juillet 1966 - art. 1 () JORF 12 juillet 1966 en vigueur le 1er novembre 1966
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 11 (V)
-	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 12 (V)
-	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 13 (V)
-	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 7 (V)
-
-	**Modifié par**:
-
-	  - Loi n°76-1179 1976-12-22 art. 8 JORF 23 décembre 1976
 
 	**Cité par**:
 
@@ -12082,6 +12134,10 @@ La tierce opposition n'est recevable qu'en cas de dol, de fraude ou d'erreur sur
 	**Codifié par**:
 
 	  - Loi n°1803-03-14
+
+	**Modifié par**:
+
+	  - Loi n°93-22 du 8 janvier 1993 - art. 30 () JORF 9 janvier 1993
 
 
 #### Section 2 : Du placement en vue de l'adoption plénière et du jugement d'adoption plénière
@@ -12169,8 +12225,9 @@ sont rétroactivement résolus.
 
 ###### Article 353
 
-L'adoption est prononcée à la requête de l'adoptant par le tribunal de grande instance qui vérifie si les conditions de la
-loi sont remplies et si l'adoption est conforme à l'intérêt de l'enfant.
+L'adoption est prononcée à la requête de l'adoptant par le tribunal de grande instance qui vérifie dans un délai de six mois
+à compter de la saisine du tribunal si les conditions de la loi sont remplies et si l'adoption est conforme à l'intérêt de
+l'enfant.
 
 Dans le cas où l'adoptant a des descendants le tribunal vérifie en outre si l'adoption n'est pas de nature à compromettre la
 vie familiale.
@@ -12181,17 +12238,6 @@ son nom par le conjoint survivant ou l'un des héritiers de l'adoptant.
 Le jugement prononçant l'adoption n'est pas motivé.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°66-500 du 11 juillet 1966 - art. 1 () JORF 12 juillet 1966 en vigueur le 1er novembre 1966
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 11 (V)
-	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 12 (V)
-	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 13 (V)
-	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 7 (V)
 
 	**Cité par**:
 
@@ -12204,7 +12250,7 @@ Le jugement prononçant l'adoption n'est pas motivé.
 
 	**Modifié par**:
 
-	  - Loi n°76-1179 1976-12-22 art. 9 JORF 23 décembre 1976
+	  - Loi n°93-22 du 8 janvier 1993 - art. 33 () JORF 9 janvier 1993
 
 	**Codifié par**:
 
@@ -12463,7 +12509,7 @@ L'adoption est irrévocable.
 
 L'adoption simple est permise quel que soit l'âge de l'adopté.
 
-Si l'adopté est âgé de plus de quinze ans, il doit consentir personnellement à l'adoption.
+Si l'adopté est âgé de plus de treize ans, il doit consentir personnellement à l'adoption.
 
 **Liens relatifs à cet article**
 
@@ -12471,20 +12517,13 @@ Si l'adopté est âgé de plus de quinze ans, il doit consentir personnellement 
 
 	  - Loi n°1803-03-14
 
-	**Créé par**:
-
-	  - Loi n°66-500 du 11 juillet 1966 - art. 1 () JORF 12 juillet 1966 en vigueur le 1er novembre 1966
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 11 (V)
-	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 12 (V)
-	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 13 (V)
-	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 7 (V)
-
 	**Cité par**:
 
 	  - Loi n°66-500 du 11 juillet 1966 - art. 13 (V)
+
+	**Modifié par**:
+
+	  - Loi n°93-22 du 8 janvier 1993 - art. 31 () JORF 9 janvier 1993
 
 
 ###### Article 361
@@ -12559,8 +12598,16 @@ est mentionnée ou transcrite sur les registres de l'état civil à la requête 
 
 ###### Article 363
 
-L'adoption simple confère le nom de l'adoptant à l'adopté en l'ajoutant au nom de ce dernier. Le tribunal peut toutefois
-décider que l'adopté ne portera que le nom de l'adoptant.
+L'adoption simple confère le nom de l'adoptant à l'adopté en l'ajoutant au nom de ce dernier.
+
+Le tribunal peut, toutefois, à la demande de l'adoptant, décider que l'adopté ne portera que le nom de l'adoptant. Cette
+demande peut également être formée postérieurement à l'adoption. Si l'adopté est âgé de plus de treize ans, son consentement
+personnel à cette substitution de patronyme est nécessaire.
+
+**Nota:**
+
+NOTA : Ces dispositions demeurent en vigueur jusqu'au 1er janvier 2005, l'article 13 de la loi n° 2003-516 ayant reporté au
+1er janvier 2005 la date initiale du 1er septembre 2003 prévue par l'article 25 de la loi n° 2002-304.
 
 **Liens relatifs à cet article**
 
@@ -12568,16 +12615,9 @@ décider que l'adopté ne portera que le nom de l'adoptant.
 
 	  - Loi n°1803-03-14
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°66-500 du 11 juillet 1966 - art. 1 () JORF 12 juillet 1966 en vigueur le 1er novembre 1966
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 11 (V)
-	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 12 (V)
-	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 13 (V)
-	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 7 (V)
+	  - Loi n°93-22 du 8 janvier 1993 - art. 32 () JORF 9 janvier 1993
 
 	**Cité par**:
 
@@ -13092,17 +13132,18 @@ personnes, parents ou non.
 
 ###### Article 374-1
 
-Les mêmes règles sont applicables, à défaut de reconnaissance volontaire, quand la filiation est établie, soit à l'égard des
-deux parents, soit à l'égard d'un seul d'entre eux.
-
-Toutefois, en statuant sur l'une ou l'autre filiation, le tribunal peut toujours décider de confier provisoirement l'enfant à
-un tiers qui sera chargé de requérir l'organisation de la tutelle.
+Le tribunal qui statue sur l'établissement d'une filiation naturelle peut décider de confier provisoirement l'enfant à un
+tiers qui sera chargé de requérir l'organisation de la tutelle.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Loi n°1803-03-14
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2002-305 2002-305 2002-03-04 art. I (application à Mayotte)
 
 	**Cité par**:
 
@@ -13112,12 +13153,7 @@ un tiers qui sera chargé de requérir l'organisation de la tutelle.
 
 	**Modifié par**:
 
-	  - Loi n°87-570 du 22 juillet 1987 - art. 19 () JORF 24 juillet 1987
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°87-570 du 22 juillet 1987 - art. 29 (V)
-	  - SPEC_APPLI: Loi n°87-570 du 22 juillet 1987 - art. 30 (V)
+	  - Loi n°93-22 du 8 janvier 1993 - art. 45 () JORF 9 janvier 1993
 
 
 ###### Article 374-2
@@ -13152,7 +13188,12 @@ Elle est alors organisée selon les règles prévues au titre X.
 
 ###### Article 372
 
-Pendant le mariage, les père et mère exercent en commun leur autorité.
+L'autorité parentale est exercée en commun par les deux parents s'ils sont mariés.
+
+Elle est également exercée en commun si les parents d'un enfant naturel, l'ayant tous deux reconnu avant qu'il ait atteint
+l'âge d'un an, vivent en commun au moment de la reconnaissance concomitante ou de la seconde reconnaissance.
+
+Les dispositions de l'alinéa précédent ne font pas obstacle à celles des troisième et quatrième alinéas de l'article 374.
 
 **Liens relatifs à cet article**
 
@@ -13160,19 +13201,13 @@ Pendant le mariage, les père et mère exercent en commun leur autorité.
 
 	  - Loi n°1803-03-14
 
-	**Créé par**:
-
-	  - Loi n°70-459 du 4 juin 1970 - art. 1 () JORF 5 juin 1970 en vigueur le 1er janvier 1971
-
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 10 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 11 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 12 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 13 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 14 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 15 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 9 (V)
+	  - SPEC_APPLI: Loi n°93-22 1993-01-08 art. 46 *dérogations*
+
+	**Modifié par**:
+
+	  - Loi n°93-22 du 8 janvier 1993 - art. 38 () JORF 9 janvier 1993
 
 	**Cité par**:
 
@@ -13226,26 +13261,51 @@ saisir le juge des tutelles qui statuera après avoir tenté de concilier les pa
 	  - Code civil - art. 372-1-1 (M)
 
 
-###### Article 372-2
+###### Article 372-1-1
 
-A l'égard des tiers de bonne foi, chacun des époux est réputé agir avec l'accord de l'autre, quand il fait seul un acte usuel
-de l'autorité parentale relativement à la personne de l'enfant.
+Si les père et mère ne parvenaient pas à s'accorder sur ce qu'exige l'intérêt de l'enfant, la pratique qu'ils avaient
+précédemment pu suivre dans des occasions semblables leur tiendrait lieu de règle.
+
+A défaut d'une telle pratique ou en cas de contestation sur son existence ou son bien-fondé, le parent le plus diligent
+pourra saisir le juge des tutelles qui statuera après avoir tenté de concilier les parties.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Loi n°70-459 du 4 juin 1970 - art. 1 () JORF 5 juin 1970 en vigueur le 1er janvier 1971
-
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 10 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 11 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 12 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 13 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 14 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 15 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 9 (V)
+	  - SPEC_APPLI: Loi n°93-22 1993-01-08 art. 63 *Mayotte*
+
+	**Créé par**:
+
+	  - Loi n°93-22 du 8 janvier 1993 - art. 39 () JORF 9 janvier 1993
+	  - Loi n°93-22 du 8 janvier 1993 - art. 40 () JORF 9 janvier 1993
+
+	**Cité par**:
+
+	  - Loi n°93-22 du 8 janvier 1993 - art. 52 (Ab)
+	  - Code de la santé publique - art. R355-45 (Ab)
+	  - Code de la santé publique - art. R3711-13 (V)
+	  - Nouveau code de procédure civile - art. 1179 (M)
+
+	**Anciens textes**:
+
+	  - Code civil - art. 372-1 (T)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 372-2
+
+A l'égard des tiers de bonne foi, chacun des parents est réputé agir avec l'accord de l'autre, quand il fait seul un acte
+usuel de l'autorité parentale relativement à la personne de l'enfant.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°93-22 du 8 janvier 1993 - art. 41 () JORF 9 janvier 1993
 
 	**Cité par**:
 
@@ -13332,9 +13392,8 @@ parentale est dévolu à l'autre.
 
 ###### Article 373-2
 
-Si les père et mère sont divorcés ou séparés de corps, l'autorité parentale est exercée soit en commun par les deux parents,
-soit par celui d'entre eux à qui le tribunal l'a confiée, sauf, dans ce dernier cas, le droit de visite et de surveillance de
-l'autre. S'ils exercent en commun leur autorité, les articles 372-1 et 372-2 demeurent applicables.
+Si les père et mère sont divorcés ou séparés de corps, l'autorité parentale est exercée dans les conditions prévues à
+l'article 287.
 
 **Liens relatifs à cet article**
 
@@ -13344,17 +13403,11 @@ l'autre. S'ils exercent en commun leur autorité, les articles 372-1 et 372-2 de
 
 	**Modifié par**:
 
-	  - Loi n°87-570 du 22 juillet 1987 - art. 15 () JORF 24 juillet 1987
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°87-570 du 22 juillet 1987 - art. 29 (V)
-	  - SPEC_APPLI: Loi n°87-570 du 22 juillet 1987 - art. 30 (V)
+	  - Loi n°93-22 du 8 janvier 1993 - art. 42 () JORF 9 janvier 1993
 
 	**Cite**:
 
-	  - Code civil - art. 372-1 (T)
-	  - Code civil - art. 372-2 (M)
+	  - Code civil - art. 287 (M)
 
 	**Codifié par**:
 
@@ -13367,14 +13420,17 @@ Le divorce ou la séparation de corps ne fait pas obstacle à la dévolution pr�
 père et mère qui demeure en état d'exercer l'autorité parentale aurait été privé de l'exercice de certains des attributs de
 cette autorité par l'effet du jugement prononcé contre lui.
 
-Néanmoins, le tribunal qui avait statué en dernier lieu sur les modalités de l'exercice de l'autorité parentale peut toujours
-être saisi par la famille ou par le ministère public, afin de confier l'enfant à un tiers, avec ou sans ouverture d'une
-tutelle, ainsi qu'il est dit à l'article suivant.
+Néanmoins, le tribunal qui avait statué en dernier lieu sur la garde peut toujours être saisi par la famille ou par le
+ministère public, afin de confier l'enfant à un tiers, avec ou sans ouverture d'une tutelle, ainsi qu'il est dit à l'article
+suivant.
 
-Dans des circonstances exceptionnelles, le tribunal qui statue sur les modalités de l'exercice de l'autorité parentale après
-divorce ou séparation de corps peut décider, du vivant même des parents, qu'en cas de décès de celui d'entre eux qui exerce
-cette autorité, l'enfant n'est pas confié au survivant. Il peut, dans ce cas, désigner la personne à laquelle l'enfant est
-provisoirement confié.
+Dans des circonstances exceptionnelles, le juge aux affaires familiales qui statue sur les modalités de l'exercice de
+l'autorité parentale après divorce ou séparation de corps peut décider, du vivant même des parents, qu'en cas de décès de
+celui d'entre eux qui exerce cette autorité, l'enfant n'est pas confié au survivant. Il peut, dans ce cas, désigner la
+personne à laquelle l'enfant est provisoirement confié.
+
+Les dispositions des deuxième et troisième alinéas sont applicables aux parents d'un enfant naturel qui exercent en commun
+l'autorité parentale, lorsqu'ils résident séparément.
 
 **Liens relatifs à cet article**
 
@@ -13390,14 +13446,13 @@ provisoirement confié.
 	  - Code de la sécurité sociale. - art. L351-4 (V)
 	  - Code de procédure civile - art. 1180 (V)
 
-	**Modifié par**:
-
-	  - Loi n°87-570 du 22 juillet 1987 - art. 16 () JORF 24 juillet 1987
-
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°87-570 du 22 juillet 1987 - art. 29 (V)
-	  - SPEC_APPLI: Loi n°87-570 du 22 juillet 1987 - art. 30 (V)
+	  - SPEC_APPLI: Loi n°93-22 1993-01-08 art. 63 *Mayotte*
+
+	**Modifié par**:
+
+	  - Loi n°93-22 du 8 janvier 1993 - art. 43 () JORF 9 janvier 1993
 
 	**Cite**:
 
@@ -13464,51 +13519,43 @@ qu'il est dit à l'article 390 ci-dessous.
 
 ###### Article 374
 
-L'autorité parentale est exercée sur l'enfant naturel par celui des père et mère qui l'a volontairement reconnu, s'il n'a été
-reconnu que par l'un d'eux. Si l'un et l'autre l'ont reconnu, l'autorité parentale est exercée par la mère.
+Lorsque la filiation d'un enfant naturel n'est établie qu'à l'égard de l'un de ses deux parents, celui-ci exerce seul
+l'autorité parentale.
 
-L'autorité parentale peut être exercée en commun par les deux parents s'ils en font la déclaration conjointe devant le juge
-des tutelles.
+Lorsque sa filiation est établie à l'égard de ses deux parents selon des modalités autres que celles prévues à l'article 372,
+l'autorité parentale est exercée par la mère. Toutefois, elle est exercée en commun par les deux parents s'ils en font la
+déclaration conjointe devant le juge aux affaires familiales.
 
-A la demande du père ou de la mère ou du ministère public, le juge aux affaires matrimoniales peut modifier les conditions
-d'exercice de l'autorité parentale et décider qu'elle sera exercée soit par l'un des deux parents, soit en commun par le père
-et la mère ; il indique, dans ce cas, le parent chez lequel l'enfant a sa résidence habituelle.
+Dans tous les cas, le juge aux affaires familiales peut, à la demande du père, de la mère ou du ministère public, modifier
+les conditions d'exercice de l'autorité parentale à l'égard d'un enfant naturel. Il peut décider qu'elle sera exercée soit
+par l'un des deux parents, soit en commun par le père et la mère ; il désigne, dans ce cas, le parent chez lequel l'enfant
+aura sa résidence habituelle.
 
-Le juge aux affaires matrimoniales peut toujours accorder un droit de visite et de surveillance au parent qui n'a pas
-l'exercice de l'autorité parentale.
+Le juge aux affaires familiales peut accorder un droit de surveillance au parent qui n'a pas l'exercice de l'autorité
+parentale. Il ne peut lui refuser un droit de visite et d'hébergement que pour des motifs graves.
 
-En cas d'exercice conjoint de l'autorité parentale, les articles 372-1 et 372-2 sont applicables comme si l'enfant était un
-enfant légitime.
+En cas d'exercice en commun de l'autorité parentale, le parent chez lequel les enfants ne résident pas habituellement
+contribue à leur entretien et à leur éducation à proportion des facultés respectives des parents.
 
 **Liens relatifs à cet article**
 
 	**Cité par**:
 
-	  - Loi n°70-459 du 4 juin 1970 - art. 11 (V)
-	  - Loi n°93-22 du 8 janvier 1993 - art. 46 (V)
 	  - Décret n°93-1091 du 16 septembre 1993 - art. 22 (V)
 	  - Code civil - art. 340-6 (M)
 	  - Code civil - art. 372 (M)
+	  - Loi n°70-459 du 4 juin 1970 - art. 11 (V)
+	  - Loi n°93-22 du 8 janvier 1993 - art. 46 (V)
 	  - Nouveau code de procédure civile - art. 1180-1 (M)
 	  - Nouveau code de procédure civile - art. 1180-2 (M)
-
-	**Modifié par**:
-
-	  - Loi n°87-570 du 22 juillet 1987 - art. 18 () JORF 24 juillet 1987
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°87-570 du 22 juillet 1987 - art. 29 (V)
-	  - SPEC_APPLI: Loi n°87-570 du 22 juillet 1987 - art. 30 (V)
-
-	**Cite**:
-
-	  - Code civil - art. 372-1 (T)
-	  - Code civil - art. 372-2 (M)
 
 	**Codifié par**:
 
 	  - Loi n°1803-03-14
+
+	**Modifié par**:
+
+	  - Loi n°93-22 du 8 janvier 1993 - art. 44 () JORF 9 janvier 1993
 
 
 #### Section 2 : De l'assistance éducative
@@ -14729,17 +14776,30 @@ L'administrateur légal représentera le mineur dans tous les actes civils, sauf
 autorise les mineurs à agir eux-mêmes.
 
 Quand ses intérêts sont en opposition avec ceux du mineur, il doit faire nommer un administrateur ad hoc par le juge des
-tutelles.
+tutelles. A défaut de diligence de l'administrateur légal, le juge peut procéder à cette nomination à la demande du ministère
+public, du mineur lui-même ou d'office.
 
-Ne sont pas soumis à l'administration légale, les biens qui auraient été donnés ou légués au mineur sous la condition qu'ils
+Ne sont pas soumis à l'administration légale les biens qui auraient été donnés ou légués au mineur sous la condition qu'ils
 seraient administrés par un tiers. Ce tiers administrateur aura les pouvoirs qui lui auront été conférés par la donation ou
 le testament ; à défaut, ceux d'un administrateur légal sous contrôle judiciaire.
 
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Codifié par**:
 
-	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+	  - Loi n°1803-03-14
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2002-305 2002-305 2002-03-04 art. I (application à Mayotte)
+
+	**Modifié par**:
+
+	  - Loi n°93-22 du 8 janvier 1993 - art. 58 () JORF 9 janvier 1993
 
 	**Cité par**:
 
@@ -14748,10 +14808,6 @@ le testament ; à défaut, ceux d'un administrateur légal sous contrôle judici
 	  - Code civil - art. 388-2 (V)
 	  - Code de procédure civile - art. 1210-1 (M)
 	  - Code de procédure pénale - art. R93 (V)
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
 
 
 ###### Article 389-4
@@ -14991,6 +15047,87 @@ La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 	**Créé par**:
 
 	  - Loi n°1803-03-26 promulguée le 5 avril 1803
+
+
+###### Article 388-1
+
+Dans toute procédure le concernant, le mineur capable de discernement peut, sans préjudice des dispositions prévoyant son
+intervention ou son consentement, être entendu par le juge ou la personne désignée par le juge à cet effet.
+
+Lorsque le mineur en fait la demande, son audition ne peut être écartée que par une décision spécialement motivée. Il peut
+être entendu seul, avec un avocat ou une personne de son choix. Si ce choix n'apparaît pas conforme à l'intérêt du mineur, le
+juge peut procéder à la désignation d'une autre personne.
+
+L'audition du mineur ne lui confère pas la qualité de partie à la procédure.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°91-647 du 10 juillet 1991 - art. 10 (VD)
+	  - Loi n°91-647 du 10 juillet 1991 - art. 9-1 (V)
+	  - Décret n°91-1266 du 19 décembre 1991 - art. 70-1 (V)
+	  - Décret n°96-887 du 10 octobre 1996 - art. Annexe (V)
+	  - Loi n°2002-305 du 4 mars 2002 - art. 19 (V)
+	  - Code civil - art. 290 (Ab)
+	  - Code civil - art. 373-2-11 (V)
+	  - Code civil - art. 411 (VT)
+	  - Code de procédure civile - art. 1144 (V)
+	  - Code de procédure civile - art. 1148-2 (V)
+	  - Code de procédure civile - art. 1180-9 (V)
+	  - Code de procédure civile - art. 1236 (V)
+	  - Code de procédure civile - art. 338-1 (V)
+	  - Code de procédure civile - art. 695 (V)
+	  - Code de procédure pénale - art. A43-13 (V)
+	  - Code de procédure pénale - art. R224-2 (V)
+	  - Code de procédure pénale - art. R93 (V)
+
+	**Créé par**:
+
+	  - Loi n°93-22 du 8 janvier 1993 - art. 53 () JORF 9 janvier 1993
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2002-305 2002-305 2002-03-04 art. I (application à Mayotte)
+
+
+###### Article 388-2
+
+Lorsque, dans une procédure, les intérêts d'un mineur apparaissent en opposition avec ceux de ses représentants légaux, le
+juge des tutelles dans les conditions prévues à l'article 389-3 ou, à défaut, le juge saisi de l'instance lui désigne un
+administrateur ad hoc chargé de le représenter.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°93-22 du 8 janvier 1993 - art. 56 () JORF 9 janvier 1993
+
+	**Cité par**:
+
+	  - Loi n°2002-305 du 4 mars 2002 - art. 19 (V)
+	  - Code de procédure civile - art. 1210-1 (V)
+	  - Code de procédure pénale - art. R93 (V)
+
+	**Cite**:
+
+	  - Code civil - art. 389-3 (VT)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2002-305 2002-305 2002-03-04 art. I (application à Mayotte)
 
 
 ### Chapitre II : De la tutelle.
@@ -17197,15 +17334,17 @@ La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 
 Le mineur, même non marié, pourra être émancipé lorsqu'il aura atteint l'âge de seize ans révolus.
 
-Cette émancipation sera prononcée, s'il y a de justes motifs, par le juge des tutelles, à la demande des père et mère ou de
-l'un d'eux.    Lorsque la demande sera présentée par un seul des parents, le juge décidera, après avoir entendu l'autre, à
-moins que ce dernier soit dans l'impossibilité de manifester sa volonté.
+Après audition du mineur, cette émancipation sera prononcée, s'il y a de justes motifs, par le juge des tutelles, à la
+demande des père et mère ou de l'un d'eux.
+
+Lorsque la demande sera présentée par un seul des parents, le juge décidera, après avoir entendu l'autre, à moins que ce
+dernier soit dans l'impossibilité de manifester sa volonté.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
 
 	**Cité par**:
 
@@ -17219,7 +17358,11 @@ moins que ce dernier soit dans l'impossibilité de manifester sa volonté.
 
 	**Modifié par**:
 
-	  - Loi n°74-631 du 5 juillet 1974 - art. 4 () JORF 7 juillet 1974
+	  - Loi n°93-22 du 8 janvier 1993 - art. 61 () JORF 9 janvier 1993
+
+	**Transféré par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 1 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
 
 	**Nouveaux textes**:
 

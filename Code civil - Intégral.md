@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1938-11-12
+Version Consolidée au 1939-06-19
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -8426,6 +8426,29 @@ s'il n'y a eu un acte de partage, ou possession suffisante pour acquérir la pre
 	  - Loi n°1803-04-19 promulguée le 29 avril 1803
 
 
+###### Article 817
+
+L'action en partage, à l'égard des cohéritiers mineurs ou majeurs en tutelle, peut être exercée par leurs tuteurs
+spécialement autorisés par un conseil de famille.
+
+A l'égard des cohéritiers absents, l'action appartient aux parents envoyés en possession.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code civil - art. 819 (V)
+	  - Loi n°1924-06-01 du 1 juin 1924 - art. 221 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-04-19
+
+	**Créé par**:
+
+	  - Loi n°1803-04-19 promulguée le 29 avril 1803
+
+
 ###### Article 819
 
 Si tous les héritiers sont présents et majeurs, l'apposition de scellés sur les effets de la succession n'est pas nécessaire
@@ -8498,6 +8521,44 @@ Les formalités pour la levée des scellés et la confection de l'inventaire ser
 	  - Code rural - art. L323-6 (V)
 	  - Code rural - art. L411-2 (V)
 	  - Nouveau code de procédure civile - art. 1381 (V)
+
+
+###### Article 822
+
+L'action en partage et les contestations qui s'élèvent soit à l'occasion du maintien de l'indivision, soit au cours des
+opérations de partage sont, à peine de nullité, soumises au seul tribunal du lieu de l'ouverture de la succession ; c'est
+devant ce tribunal qu'il est procédé aux licitations et que doivent être portées les demandes relatives à la garantie des
+lots entre copartageants et celles en rescision du partage. Dans le cas où il y aurait lieu à la tentative de conciliation
+prévue par l'article 48 du code de procédure civile, le juge du tribunal d'instance du lieu de l'ouverture de la succession
+sera seul compétent à peine de nullité.
+
+Si toutes les parties sont d'accord, le tribunal peut être saisi de la demande en partage par une requête collective signée
+par tous les avocats. S'il y a lieu à licitation, la requête contiendra une mise à prix qui servira d'estimation. Dans ce
+cas, le jugement est rendu en chambre du conseil et n'est pas susceptible d'appel si les conclusions de la requête sont
+admises par le tribunal sans modification.
+
+Les dispositions des paragraphes précédents sont applicables sans qu'il soit besoin d'une autorisation préalable, quelle que
+soit la capacité de l'intéressé et même s'il est représenté par un mandataire de justice.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de procédure civile 48
+
+	**Cité par**:
+
+	  - Code civil - art. 465 (M)
+	  - Code civil - art. 821 (V)
+	  - Code civil - art. 823 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-04-19
+
+	**Créé par**:
+
+	  - Loi n°1803-04-19 promulguée le 29 avril 1803
 
 
 ###### Article 823

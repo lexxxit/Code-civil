@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1921-02-15
+Version Consolidée au 1922-02-28
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -682,6 +682,38 @@ Si la publication a été faite dans plusieurs communes, l'officier de l'état c
 celui d'entre eux qui doit célébrer le mariage un certificat constatant qu'il n'existe point d'opposition.
 
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-11
+
+	**Créé par**:
+
+	  - Loi n°1803-03-11 promulguée le 21 mars 1803
+
+
+###### Article 73
+
+L'acte authentique du consentement des père et mère ou aïeuls ou aïeules ou, à leur défaut, celui du conseil de famille,
+contiendra les prénoms, noms, professions et domicile des futurs époux et de tous ceux qui auront concouru à l'acte, ainsi
+que leur degré de parenté. 
+
+Hors le cas prévu par l'article 159 du code civil, cet acte de consentement est dressé, soit par un notaire, soit par
+l'officier de l'état civil du domicile ou de la résidence de l'ascendant, et, à l'étranger, par les agents diplomatiques ou
+consulaires français. Lorsqu'il est dressé par un officier de l'état civil, il ne doit être légalisé, sauf conventions
+internationales contraires, que lorsqu'il y a lieu de le produire devant les autorités étrangères.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code civil - art. 155 (V)
+	  - Loi du 16 mars 1803 - art. 10 (Ab)
+	  - Nouveau code de procédure civile - art. ANNEXE, art. 30-11 (V)
+
+	**Cite**:
+
+	  - Code civil - art. 159 (V)
 
 	**Codifié par**:
 

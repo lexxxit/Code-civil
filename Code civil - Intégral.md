@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1985-07-13
+Version Consolidée au 1985-10-15
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -34802,13 +34802,21 @@ de l'inexécution de la convention.
 
 ###### Article 1152
 
-Lorsque la convention porte que celui qui manquera de l'exécuter paiera une certaine somme à titre de dommages-intérêts, il
+Lorsque la convention porte que celui qui manquera de l'exécuter payera une certaine somme à titre de dommages-intérêts, il
 ne peut être alloué à l'autre partie une somme plus forte, ni moindre.
 
-Néanmoins, le juge peut modérer ou augmenter la peine qui avait été convenue, si elle est manifestement excessive ou
-dérisoire. Toute stipulation contraire sera réputée non écrite.
+Néanmoins, le juge peut, même d'office, modérer ou augmenter la peine qui avait été convenue, si elle est manifestement
+excessive ou dérisoire. Toute stipulation contraire sera réputée non écrite.
 
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°85-1087 1985-10-11 art. 3
 
 	**Cité par**:
 
@@ -34839,17 +34847,9 @@ dérisoire. Toute stipulation contraire sera réputée non écrite.
 	  - Code de la consommation - art. L315-17 (VD)
 	  - Code de la consommation - art. L315-23 (VD)
 
-	**Liens**:
+	**Modifié par**:
 
-	  - TXT_ASSOCIE: Code civil 1231 *clause pénale*
-
-	**Codifié par**:
-
-	  - Loi n°1804-02-07
-
-	**Créé par**:
-
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
+	  - Loi n°85-1097 du 11 octobre 1985 - art. 1 () JORF 15 octobre 1985
 
 
 ###### Article 1153
@@ -36360,9 +36360,9 @@ peine n'est encourue que lorsque celui qui s'est obligé soit à livrer, soit à
 
 ###### Article 1231
 
-Lorsque l'engagement a été exécuté en partie, la peine convenue peut être diminuée par le juge à proportion de l'intérêt que
-l'exécution partielle a procuré au créancier, sans préjudice de l'application de l'article 1152. Toute stipulation contraire
-sera réputée non écrite.
+Lorsque l'engagement a été exécuté en partie, la peine convenue peut, même d'office, être diminuée par le juge à proportion
+de l'intérêt que l'exécution partielle a procuré au créancier, sans préjudice de l'application de l'article 1152. Toute
+stipulation contraire sera réputée non écrite.
 
 **Liens relatifs à cet article**
 
@@ -36370,13 +36370,9 @@ sera réputée non écrite.
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
-
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
-
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°75-597 1975-07-09 art. 3
+	  - SPEC_APPLI: Loi n°85-1087 1985-10-11 art 3
 
 	**Cité par**:
 
@@ -36392,9 +36388,13 @@ sera réputée non écrite.
 	  - Code de la consommation - art. L314-14-1 (VT)
 	  - Code de la consommation - art. L315-23 (VD)
 
+	**Modifié par**:
+
+	  - Loi n°85-1097 du 11 octobre 1985 - art. 2 () JORF 15 octobre 1985
+
 	**Cite**:
 
-	  - Code civil - art. 1152 (M)
+	  - Code civil - art. 1152 (V)
 
 
 ###### Article 1232
@@ -36718,7 +36718,7 @@ offerte soit égale ou même plus grande.
 Le débiteur ne peut point forcer le créancier à recevoir en partie le paiement d'une dette, même divisible.
 
 Les juges peuvent néanmoins, en considération de la position du débiteur et compte tenu de la situation économique, accorder
-pour le paiement des délais qui emprunteront leur mesure aux circonstances, sans toutefois dépasser un an, et surseoir à
+pour le paiement des délais qui emprunteront leur mesure aux circonstances, sans toutefois dépasser deux ans, et surseoir à
 l'exécution des poursuites, toutes choses demeurant en l'état.
 
 En cas d'urgence, la même faculté appartient en tout état de cause, au juge des référés.
@@ -36730,13 +36730,8 @@ procédures d'exécution seront suspendus jusqu'à l'expiration du délai accord
 
 	**Cité par**:
 
-	  - Décret n°53-960 du 30 septembre 1953 - art. 25 (M)
-	  - Code de la construction et de l'habitation. - art. Annexe 1 au III art R353-159 (M)
-	  - Code de la construction et de l'habitation. - art. L222-4 (V)
-	  - Code de la construction et de l'habitation. - art. L261-13 (V)
-	  - Code de la construction et de l'habitation. - art. L613-1 (M)
-	  - Code rural - art. L411-76 (M)
 	  - Loi n°48-1360 du 1 septembre 1948 - art. 80 (M)
+	  - Décret n°53-960 du 30 septembre 1953 - art. 25 (M)
 	  - Loi n°56-672 du 9 juillet 1956 - art. 6 (M)
 	  - Loi n°67-3 du 3 janvier 1967 - art. 9 (V)
 	  - Loi n°70-632 du 15 juillet 1970 - art. 60 (V)
@@ -36747,14 +36742,19 @@ procédures d'exécution seront suspendus jusqu'à l'expiration du délai accord
 	  - Loi n°89-462 du 6 juillet 1989 - art. 24 (M)
 	  - Loi n°91-650 du 9 juillet 1991 - art. 83 bis (VT)
 	  - Ordonnance n°98-774 du 2 septembre 1998 - art. 1 (VD)
+	  - Code de la construction et de l'habitation. - art. Annexe 1 au III art R353-159 (M)
+	  - Code de la construction et de l'habitation. - art. L222-4 (V)
+	  - Code de la construction et de l'habitation. - art. L261-13 (V)
+	  - Code de la construction et de l'habitation. - art. L613-1 (M)
+	  - Code rural - art. L411-76 (M)
+
+	**Modifié par**:
+
+	  - Loi n°85-1097 1985-10-11 art. 7 JORF 15 octobre 1985
 
 	**Codifié par**:
 
 	  - Loi n°1804-02-07
-
-	**Créé par**:
-
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
 
 
 ###### Article 1245

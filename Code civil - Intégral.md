@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1994-01-01
+Version Consolidée au 1994-02-01
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -3953,6 +3953,149 @@ La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 	**Liens**:
 
 	  - SPEC_APPLI: Loi n°2002-304 2002-03-04 art. 24 (Mayotte)
+
+
+###### Article 61
+
+Toute personne qui justifie d'un intérêt légitime peut demander à changer de nom.
+
+La demande de changement de nom peut avoir pour objet d'éviter l'extinction du nom porté par un ascendant ou un collatéral du
+demandeur jusqu'au quatrième degré.
+
+Le changement de nom est autorisé par décret.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°53-1169 du 28 novembre 1953 - art. 2 (Ab)
+	  - Décret n°65-422 du 1 juin 1965 - art. 12 (V)
+	  - Décret n°2004-459 du 28 mai 2004 - art. 1 (VT)
+	  - Décret n°2015-1411 du 5 novembre 2015 - art. Annexe I (V)
+	  - Code de justice administrative - art. L311-2 (V)
+	  - Code des relations entre le public et l'adminis... - art. R221-15 (VD)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-11
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°93-22 1993-01-08 art. 64 *date d'effet*
+	  - SPEC_APPLI: Loi n°2002-304 2002-03-04 art. 24 (Mayotte)
+
+	**Créé par**:
+
+	  - Loi n°93-22 du 8 janvier 1993 - art. 4 () JORF 9 janvier 1993 en vigueur le 1er février 1994
+	  - Loi n°93-22 du 8 janvier 1993 - art. 64 (V) JORF 9 janvier 1993 en vigueur le 1er février 1994
+
+
+###### Article 61-1
+
+Tout intéressé peut faire opposition devant le Conseil d'Etat au décret portant changement de nom dans un délai de deux mois
+à compter de sa publication au Journal officiel.
+
+Un décret portant changement de nom prend effet, s'il n'y a pas eu d'opposition, à l'expiration du délai pendant lequel
+l'opposition est recevable ou, dans le cas contraire, après le rejet de l'opposition.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-11
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°93-22 1993-01-08 art. 64 *date d'effet*
+	  - SPEC_APPLI: Loi n°2002-304 2002-03-04 art. 24 (Mayotte)
+
+	**Créé par**:
+
+	  - Loi n°93-22 du 8 janvier 1993 - art. 4 () JORF 9 janvier 1993 en vigueur le 1er février 1994
+	  - Loi n°93-22 du 8 janvier 1993 - art. 64 (V) JORF 9 janvier 1993 en vigueur le 1er février 1994
+
+
+###### Article 61-2
+
+Le changement de nom s'étend de plein droit aux enfants du bénéficiaire lorsqu'ils ont moins de treize ans.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-11
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°93-22 1993-01-08 art. 64 *date d'effet*
+	  - SPEC_APPLI: Loi n°2002-304 2002-03-04 art. 24 (Mayotte)
+
+	**Créé par**:
+
+	  - Loi n°93-22 du 8 janvier 1993 - art. 4 () JORF 9 janvier 1993 en vigueur le 1er février 1994
+	  - Loi n°93-22 du 8 janvier 1993 - art. 64 (V) JORF 9 janvier 1993 en vigueur le 1er février 1994
+
+
+###### Article 61-3
+
+Tout changement de nom de l'enfant de plus de treize ans nécessite son consentement personnel lorsque ce changement ne
+résulte pas de l'établissement ou d'une modification d'un lien de filiation.
+
+L'établissement ou la modification du lien de filiation n'emporte cependant le changement du patronyme des enfants majeurs
+que sous réserve de leur consentement.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°93-22 1993-01-08 art. 64 *date d'effet*
+
+	**Créé par**:
+
+	  - Loi n°93-22 du 8 janvier 1993 - art. 4 () JORF 9 janvier 1993 en vigueur le 1er février 1994
+	  - Loi n°93-22 du 8 janvier 1993 - art. 64 (V) JORF 9 janvier 1993 en vigueur le 1er février 1994
+
+	**Cité par**:
+
+	  - Code civil - art. 2290 (T)
+	  - Code civil - art. 2495 (VT)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-11
+
+
+###### Article 61-4
+
+Mention des décisions de changement de prénoms et de nom est portée en marge des actes de l'état civil de l'intéressé et, le
+cas échéant, de ceux de son conjoint et de ses enfants. 
+
+Les dispositions des articles 100 et 101 sont applicables aux modifications de prénoms et de nom.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-11
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°93-22 1993-01-08 art. 64 *date d'effet*
+	  - SPEC_APPLI: Loi n°2002-304 2002-03-04 art. 24 (Mayotte)
+
+	**Créé par**:
+
+	  - Loi n°93-22 du 8 janvier 1993 - art. 4 () JORF 9 janvier 1993 en vigueur le 1er février 1994
+	  - Loi n°93-22 du 8 janvier 1993 - art. 64 (V) JORF 9 janvier 1993 en vigueur le 1er février 1994
+
+	**Cité par**:
+
+	  - Décret n°94-52 du 20 janvier 1994 - art. 7 (V)
+
+	**Cite**:
+
+	  - Code civil - art. 100 (V)
+	  - Code civil - art. 101 (V)
 
 
 #### Section 3 : De l'acte de reconnaissance.
@@ -8184,11 +8327,20 @@ ou que l'autre n'en ait plus besoin en tout ou partie, la décharge ou réductio
 
 ###### Article 210
 
-Si la personne qui doit fournir des aliments justifie qu'elle ne peut payer la pension alimentaire, le tribunal pourra, en
-connaissance de cause, ordonner qu'elle recevra dans sa demeure, qu'elle nourrira et entretiendra celui auquel elle devra des
-aliments.
+Si la personne qui doit fournir des aliments justifie qu'elle ne peut payer la pension alimentaire, le juge aux affaires
+familiales pourra, en connaissance de cause, ordonner qu'elle recevra dans sa demeure, qu'elle nourrira et entretiendra celui
+auquel elle devra des aliments.
 
 **Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°93-22 1993-01-08 art. 63 *Mayotte*, art. 64 *date d'effet*
+
+	**Modifié par**:
+
+	  - Loi n°93-22 du 8 janvier 1993 - art. 48 () JORF 9 janvier 1993 en vigueur le 1er février 1994
+	  - Loi n°93-22 du 8 janvier 1993 - art. 64 (V) JORF 9 janvier 1993 en vigueur le 1er février 1994
 
 	**Cité par**:
 
@@ -8197,30 +8349,31 @@ aliments.
 	**Codifié par**:
 
 	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°1803-03-17 promulguée le 27 mars 1803
 
 
 ###### Article 211
 
-Le tribunal prononcera également si le père ou la mère qui offrira de recevoir, nourrir et entretenir dans sa demeure,
-l'enfant à qui il devra des aliments, devra dans ce cas être dispensé de payer la pension alimentaire.
+Le juge aux affaires familiales prononcera également si le père ou la mère qui offrira de recevoir, nourrir et entretenir
+dans sa demeure, l'enfant à qui il devra des aliments, devra dans ce cas être dispensé de payer la pension alimentaire.
 
 **Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Code de la famille et de l'aide sociale. - art. 83 (Ab)
 
 	**Codifié par**:
 
 	  - Loi n°1803-03-14
 
-	**Créé par**:
+	**Liens**:
 
-	  - Loi n°1803-03-17 promulguée le 27 mars 1803
+	  - SPEC_APPLI: Loi n°93-22 1993-01-08 art. 63 *Mayotte*, art. 64 *date d'effet*
+
+	**Modifié par**:
+
+	  - Loi n°93-22 du 8 janvier 1993 - art. 48 () JORF 9 janvier 1993 en vigueur le 1er février 1994
+	  - Loi n°93-22 du 8 janvier 1993 - art. 64 (V) JORF 9 janvier 1993 en vigueur le 1er février 1994
+
+	**Cité par**:
+
+	  - Code de la famille et de l'aide sociale. - art. 83 (Ab)
 
 
 ### Chapitre VI : Des devoirs et des droits respectifs des époux
@@ -8538,8 +8691,8 @@ emprunts à moins que ces derniers ne portent sur des sommes modestes nécessair
 
 ###### Article 220-1
 
-Si l'un des époux manque gravement à ses devoirs et met ainsi en péril les intérêts de la famille, le président du tribunal
-de grande instance peut prescrire toutes les mesures urgentes que requièrent ces intérêts.
+Si l'un des époux manque gravement à ses devoirs et met ainsi en péril les intérêts de la famille, le juge aux affaires
+familiales peut prescrire toutes les mesures urgentes que requièrent ces intérêts.
 
 Il peut notamment interdire à cet époux de faire, sans le consentement de l'autre, des actes de disposition sur ses propres
 biens ou sur ceux de la communauté, meubles ou immeubles. Il peut aussi interdire le déplacement des meubles, sauf à
@@ -8567,15 +8720,16 @@ dépasser trois ans.
 	  - Code de la construction et de l'habitation. - art. L441-1 (V)
 	  - Code de procédure civile - art. 1290 (V)
 
-	**Créé par**:
-
-	  - Loi n°65-570 du 13 juillet 1965 - art. 1 () JORF 14 juillet 1965 en vigueur le 1er février 1966
-
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°65-570 du 13 juillet 1965 - art. 9, v. init.
+	  - SPEC_APPLI: Loi n°93-22 1993-01-08 art. 63, art. 64
 	  - TXT_ASSOCIE: Code civil - art. 220-2 (V)
 	  - TXT_ASSOCIE: Code civil - art. 220-3 (V)
+
+	**Modifié par**:
+
+	  - Loi n°93-22 du 8 janvier 1993 - art. 48 () JORF 9 janvier 1993 en vigueur le 1er février 1994
+	  - Loi n°93-22 du 8 janvier 1993 - art. 64 (V) JORF 9 janvier 1993 en vigueur le 1er février 1994
 
 	**Codifié par**:
 
@@ -9391,30 +9545,24 @@ font apparaître des torts à la charge de l'un et de l'autre.
 	  - Code de procédure civile - art. 1136-2 (VD)
 
 
-#### Section 3 : Du divorce pour faute.
-
 ###### Article 246
 
 Lorsque le divorce aura été demandé en application des articles 233 à 245, les époux pourront, tant qu'aucune décision sur le
-fond n'aura été rendue, demander au tribunal de constater leur accord et d'homologuer le projet de convention réglant les
-conséquences du divorce.
+fond n'aura été rendue, demander au juge aux affaires familiales de constater leur accord et d'homologuer le projet de
+convention réglant les conséquences du divorce.
 
 Les dispositions des articles 231 et 232 seront alors applicables.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
-
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+	  - SPEC_APPLI: Loi n°93-22 1993-01-08 art. 63 *Mayotte*, art. 64 *date d'effet*
+
+	**Modifié par**:
+
+	  - Loi n°93-22 du 8 janvier 1993 - art. 48 () JORF 9 janvier 1993 en vigueur le 1er février 1994
+	  - Loi n°93-22 du 8 janvier 1993 - art. 64 (V) JORF 9 janvier 1993 en vigueur le 1er février 1994
 
 	**Cité par**:
 
@@ -9427,6 +9575,10 @@ Les dispositions des articles 231 et 232 seront alors applicables.
 	  - Code civil - art. 232 (M)
 	  - Code civil 231, 232, 233 à 245
 
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
 
 ### Chapitre II : De la procédure du divorce
 
@@ -9437,11 +9589,11 @@ Les dispositions des articles 231 et 232 seront alors applicables.
 Le tribunal de grande instance statuant en matière civile est seul compétent pour se prononcer sur le divorce et ses
 conséquences.
 
-Un juge de ce tribunal est délégué aux affaires matrimoniales. Il est plus spécialement chargé de veiller à la sauvegarde des
+Un juge de ce tribunal est délégué aux affaires familiales. Il est plus spécialement chargé de veiller à la sauvegarde des
 intérêts des enfants mineurs.
 
-Le juge aux affaires matrimoniales a compétence exclusive pour prononcer le divorce lorsqu'il est demandé par consentement
-mutuel.
+Ce juge a compétence pour prononcer le divorce, quelle qu'en soit la cause. Il peut renvoyer l'affaire en l'état à une
+audience collégiale. Ce renvoi est de droit à la demande d'une partie.
 
 Il est également seul compétent, après le prononcé du divorce, quelle qu'en soit la cause, pour statuer sur les modalités de
 l'exercice de l'autorité parentale et sur la modification de la pension alimentaire, ainsi que pour décider de confier les
@@ -9453,14 +9605,14 @@ enfants à un tiers. Il statue alors sans formalité et peut être saisi par les
 
 	  - Loi n°1803-03-14
 
-	**Modifié par**:
-
-	  - Loi n°87-570 du 22 juillet 1987 - art. 1 () JORF 24 juillet 1987
-
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°87-570 du 22 juillet 1987 - art. 29 (V)
-	  - SPEC_APPLI: Loi n°87-570 du 22 juillet 1987 - art. 30 (V)
+	  - SPEC_APPLI: Loi n°93-22 1993-01-08 art. 63 *Mayotte*, art. 64 *date d'effet*
+
+	**Modifié par**:
+
+	  - Loi n°93-22 du 8 janvier 1993 - art. 47 () JORF 9 janvier 1993 en vigueur le 1er février 1994
+	  - Loi n°93-22 du 8 janvier 1993 - art. 64 (V) JORF 9 janvier 1993 en vigueur le 1er février 1994
 
 	**Cité par**:
 
@@ -9474,31 +9626,6 @@ enfants à un tiers. Il statue alors sans formalité et peut être saisi par les
 
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L312-1 (V)
 	  - Code civil - art. 228 (V)
-
-
-###### Article 248-1
-
-En cas de divorce pour faute, et à la demande des conjoints, le tribunal peut se limiter à constater dans les motifs du
-jugement qu'il existe des faits constituant une cause de divorce, sans avoir à énoncer les torts et griefs des parties.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
-
-	**Nouveaux textes**:
-
-	  - Code civil - art. 245-1 (V)
 
 
 #### Section 1 : Dispositions générales
@@ -9521,6 +9648,41 @@ Les débats sur la cause, les conséquences du divorce et les mesures provisoire
 
 	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
 	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+
+
+###### Article 248-1
+
+En cas de divorce pour faute, et à la demande des conjoints, le juge aux affaires familiales peut se limiter à constater dans
+les motifs du jugement qu'il existe des faits constituant une cause de divorce, sans avoir à énoncer les torts et griefs des
+parties.
+
+**Nota:**
+
+NOTA : La loi 2004-439 du 26 mai 2004 entrera en vigueur le 1er janvier 2005 sauf pour les exceptions citées par l'article 33
+II.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°93-22 1993-01-08 art. 63 *Mayotte*, art. 64 *date d'effet*
+
+	**Modifié par**:
+
+	  - Loi n°93-22 du 8 janvier 1993 - art. 48 () JORF 9 janvier 1993 en vigueur le 1er février 1994
+	  - Loi n°93-22 du 8 janvier 1993 - art. 64 (V) JORF 9 janvier 1993 en vigueur le 1er février 1994
+
+	**Transféré par**:
+
+	  - Loi n°2004-439 du 26 mai 2004 - art. 6 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 245-1 (V)
 
 
 ###### Article 249
@@ -9806,6 +9968,45 @@ II.
 	  - Loi n°1803-03-14
 
 
+###### Article 252-2
+
+Lorsqu'il ne parvient pas à les faire renoncer au divorce, le juge essaye d'amener les époux à en régler les conséquences à
+l'amiable, notamment, en ce qui concerne les enfants, par des accords dont pourra tenir compte le jugement à intervenir.
+
+**Nota:**
+
+NOTA : La loi 2004-439 du 26 mai 2004 entrera en vigueur le 1er janvier 2005 sauf pour les exceptions citées par l'article 33
+II.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°93-22 1993-01-08 art. 63 *Mayotte*, art. 64 *date d'effet*
+
+	**Modifié par**:
+
+	  - Loi n°93-22 du 8 janvier 1993 - art. 49 () JORF 9 janvier 1993 en vigueur le 1er février 1994
+	  - Loi n°93-22 du 8 janvier 1993 - art. 64 (V) JORF 9 janvier 1993 en vigueur le 1er février 1994
+
+	**Transféré par**:
+
+	  - Loi n°2004-439 du 26 mai 2004 - art. 6 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
+
+	**Anciens textes**:
+
+	  - Code civil - art. 252-1 (M)
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 252-3 (M)
+	  - Code civil - art. 252-3 (V)
+
+
 ###### Article 252-3
 
 Ce qui a été dit ou écrit à l'occasion d'une tentative de conciliation, sous quelque forme qu'elle ait eu lieu, ne pourra pas
@@ -9842,37 +10043,6 @@ II.
 	**Nouveaux textes**:
 
 	  - Code civil - art. 252-4 (V)
-
-
-#### Section 2 : De la conciliation.
-
-###### Article 252-2
-
-Lorsqu'il ne parvient pas à les faire renoncer au divorce, le juge essaye d'amener les époux à en régler les conséquences à
-l'amiable, notamment, en ce qui concerne les enfants, par des accords dont le tribunal pourra tenir compte dans son jugement.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
-
-	**Anciens textes**:
-
-	  - Code civil - art. 252-1 (M)
-
-	**Nouveaux textes**:
-
-	  - Code civil - art. 252-3 (V)
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
 
 
 #### Section 3 : Des mesures provisoires.
@@ -10482,8 +10652,13 @@ II.
 
 ###### Article 264-1
 
-En prononçant le divorce, le tribunal ordonne la liquidation et le partage des intérêts patrimoniaux des époux et il statue,
-s'il y a lieu, sur les demandes de maintien dans l'indivision ou d'attribution préférentielle.
+En prononçant le divorce, le juge aux affaires familiales ordonne la liquidation et le partage des intérêts patrimoniaux des
+époux et il statue, s'il y a lieu, sur les demandes de maintien dans l'indivision ou d'attribution préférentielle.
+
+**Nota:**
+
+NOTA : La loi 2004-439 du 26 mai 2004 entrera en vigueur le 1er janvier 2005 sauf pour les exceptions citées par l'article 33
+II.
 
 **Liens relatifs à cet article**
 
@@ -10491,9 +10666,18 @@ s'il y a lieu, sur les demandes de maintien dans l'indivision ou d'attribution p
 
 	  - Loi n°1803-03-14
 
-	**Créé par**:
+	**Liens**:
 
-	  - Loi n°85-1372 du 23 décembre 1985 - art. 44 () JORF 26 décembre 1985 en vigueur le 1er juillet 1986
+	  - SPEC_APPLI: Loi n°93-22 1993-01-08 art. 63 *Mayotte*, art. 64 *date d'effet*
+
+	**Modifié par**:
+
+	  - Loi n°93-22 du 8 janvier 1993 - art. 48 () JORF 9 janvier 1993 en vigueur le 1er février 1994
+	  - Loi n°93-22 du 8 janvier 1993 - art. 64 (V) JORF 9 janvier 1993 en vigueur le 1er février 1994
+
+	**Abrogé par**:
+
+	  - Loi n°2004-439 du 26 mai 2004 - art. 23 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
 
 
 ###### Article 265
@@ -13926,23 +14110,12 @@ nom de son père, si la filiation est établie simultanément à l'égard de l'u
 ###### Article 334-2
 
 Lors même que sa filiation n'aurait été établie qu'en second lieu à l'égard du père, l'enfant naturel pourra prendre le nom
-de celui-ci par substitution, si, pendant sa minorité, ses deux parents en font la déclaration conjointe devant le juge des
-tutelles.
+de celui-ci par substitution, si, pendant sa minorité, ses deux parents en font la déclaration conjointe devant le juge aux
+affaires familiales.
 
-Si l'enfant a plus de quinze ans, son consentement personnel est nécessaire.
+Si l'enfant a plus de treize ans, son consentement personnel est nécessaire.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°72-3 du 3 janvier 1972 - art. 1 () JORF 5 janvier 1972 en vigueur le 1er août 1972
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 11 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 12 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 13 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 14 (V)
 
 	**Cité par**:
 
@@ -13957,6 +14130,15 @@ Si l'enfant a plus de quinze ans, son consentement personnel est nécessaire.
 	  - Code civil - art. 334-5 (Ab)
 	  - Nouveau code de procédure civile - art. 1152 (Ab)
 
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°93-22 1993-01-08 art. 63 *Mayotte*, art. 64 *date d'effet*
+
+	**Modifié par**:
+
+	  - Loi n°93-22 du 8 janvier 1993 - art. 21 () JORF 9 janvier 1993 en vigueur le 1er février 1994
+	  - Loi n°93-22 du 8 janvier 1993 - art. 64 (V) JORF 9 janvier 1993 en vigueur le 1er février 1994
+
 	**Codifié par**:
 
 	  - Loi n°1803-03-14
@@ -13964,7 +14146,9 @@ Si l'enfant a plus de quinze ans, son consentement personnel est nécessaire.
 
 ###### Article 334-3
 
-Dans tous les autres cas, le changement de nom de l'enfant naturel doit être demandé au tribunal de grande instance.
+Dans les autres cas, le changement de nom de l'enfant naturel doit être demandé au juge aux affaires familiales. Toutefois,
+le tribunal de grande instance saisi d'une requête en modification de l'état de l'enfant naturel peut dans un seul et même
+jugement statuer sur celle-ci et sur la demande de changement de nom de l'enfant qui lui serait présentée.
 
 L'action est ouverte pendant la minorité de l'enfant et dans les deux années qui suivront, soit sa majorité, soit une
 modification apportée à son état.
@@ -13975,16 +14159,14 @@ modification apportée à son état.
 
 	  - Loi n°1803-03-14
 
-	**Créé par**:
-
-	  - Loi n°72-3 du 3 janvier 1972 - art. 1 () JORF 5 janvier 1972 en vigueur le 1er août 1972
-
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 11 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 12 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 13 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 14 (V)
+	  - SPEC_APPLI: Loi n°93-22 1993-01-08 art. 63, art. 64
+
+	**Modifié par**:
+
+	  - Loi n°93-22 du 8 janvier 1993 - art. 48 () JORF 9 janvier 1993 en vigueur le 1er février 1994
+	  - Loi n°93-22 du 8 janvier 1993 - art. 64 (V) JORF 9 janvier 1993 en vigueur le 1er février 1994
 
 	**Cité par**:
 
@@ -14023,25 +14205,15 @@ leur consentement.
 En l'absence de filiation paternelle établie, le mari de la mère peut conférer, par substitution, son propre nom à l'enfant
 par une déclaration qu'il fera conjointement avec la mère, sous les conditions prévues à l'article 334-2 ci-dessus.
 
-L'enfant pourra toutefois demander à reprendre le nom qu'il portait antérieurement par une demande qu'il soumettra au
-tribunal de grande instance, dans les deux années suivant sa majorité.
+L'enfant pourra toutefois demander à reprendre le nom qu'il portait antérieurement par une demande qu'il soumettra au juge
+aux affaires familiales, dans les deux années suivant sa majorité.
+
+**Nota:**
+
+NOTA : Ces dispositions demeurent en vigueur jusqu'au 1er janvier 2005. L'article 13 de la loi n° 2003-516 ayant reporté au
+1er janvier 2005 la date initiale du 1er septembre 2003 prévue par l'article 25 de la loi n° 2002-304.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°72-3 du 3 janvier 1972 - art. 1 () JORF 5 janvier 1972 en vigueur le 1er août 1972
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 11 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 12 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 13 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 14 (V)
 
 	**Cité par**:
 
@@ -14050,6 +14222,19 @@ tribunal de grande instance, dans les deux années suivant sa majorité.
 	  - Code civil - art. 2291 (T)
 	  - Code civil - art. 2497 (Ab)
 	  - Nouveau code de procédure civile - art. 1152 (Ab)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°93-22 1993-01-08 art. 63, art. 64
+
+	**Modifié par**:
+
+	  - Loi n°93-22 du 8 janvier 1993 - art. 48 () JORF 9 janvier 1993 en vigueur le 1er février 1994
+	  - Loi n°93-22 du 8 janvier 1993 - art. 64 (V) JORF 9 janvier 1993 en vigueur le 1er février 1994
 
 	**Cite**:
 
@@ -16368,26 +16553,13 @@ de nécessité que détermine la loi.
 ###### Article 371-4
 
 Les père et mère ne peuvent, sauf motifs graves, faire obstacle aux relations personnelles de l'enfant avec ses grands-
-parents. A défaut d'accord entre les parties, les modalités de ces relations sont réglées par le tribunal.
+parents. A défaut d'accord entre les parties, les modalités de ces relations sont réglées par le juge aux affaires
+familiales.
 
-En considération de situations exceptionnelles, le tribunal peut accorder un droit de correspondance ou de visite à d'autres
-personnes, parents ou non.
+En considération de situations exceptionnelles, le juge aux affaires familiales peut accorder un droit de correspondance ou
+de visite à d'autres personnes, parents ou non.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°70-459 du 4 juin 1970 - art. 1 () JORF 5 juin 1970 en vigueur le 1er janvier 1971
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 10 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 11 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 12 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 13 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 14 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 15 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 9 (V)
 
 	**Cité par**:
 
@@ -16400,6 +16572,15 @@ personnes, parents ou non.
 	**Codifié par**:
 
 	  - Loi n°1803-03-14
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°93-22 1993-01-08 art. 63 *Mayotte*, art. 64 *date d'effet*
+
+	**Modifié par**:
+
+	  - Loi n°93-22 du 8 janvier 1993 - art. 48 () JORF 9 janvier 1993 en vigueur le 1er février 1994
+	  - Loi n°93-22 du 8 janvier 1993 - art. 64 (V) JORF 9 janvier 1993 en vigueur le 1er février 1994
 
 
 #### Section 1 : De l'exercice de l'autorité parentale
@@ -16497,11 +16678,10 @@ Les dispositions de l'alinéa précédent ne font pas obstacle à celles des tro
 
 ###### Article 372-1
 
-Si les père et mère ne parvenaient pas à s'accorder sur ce qu'exige l'intérêt de l'enfant, la pratique qu'ils avaient
-précédemment pu suivre dans des occasions semblables leur tiendrait lieu de règle.
+Il est justifié de la communauté de vie entre les père et mère au moment de la reconnaissance de leur enfant par un acte
+délivré par le juge aux affaires familiales établi au vu des éléments apportés par le demandeur.
 
-A défaut d'une telle pratique ou en cas de contestation sur son existence ou son bien-fondé, l'époux le plus diligent pourra
-saisir le juge des tutelles qui statuera après avoir tenté de concilier les parties.
+Ni l'acte ni le refus de le délivrer ne sont sujets à recours.
 
 **Liens relatifs à cet article**
 
@@ -16509,19 +16689,14 @@ saisir le juge des tutelles qui statuera après avoir tenté de concilier les pa
 
 	  - Loi n°1803-03-14
 
-	**Créé par**:
-
-	  - Loi n°70-459 du 4 juin 1970 - art. 1 () JORF 5 juin 1970 en vigueur le 1er janvier 1971
-
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 10 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 11 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 12 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 13 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 14 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 15 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 9 (V)
+	  - SPEC_APPLI: Loi n°93-22 1993-01-08 art. 63 *Mayotte*, art. 64 *date d'effet*
+
+	**Modifié par**:
+
+	  - Loi n°93-22 du 8 janvier 1993 - art. 48 () JORF 9 janvier 1993 en vigueur le 1er février 1994
+	  - Loi n°93-22 du 8 janvier 1993 - art. 64 (V) JORF 9 janvier 1993 en vigueur le 1er février 1994
 
 	**Cité par**:
 
@@ -16531,6 +16706,10 @@ saisir le juge des tutelles qui statuera après avoir tenté de concilier les pa
 	  - Code civil - art. 374 (M)
 	  - Nouveau code de procédure civile - art. 1179 (M)
 	  - Nouveau code de procédure civile - art. 1179-1 (M)
+
+	**Abrogé par**:
+
+	  - Loi n°2002-305 du 4 mars 2002 - art. 8 () JORF 5 mars 2002
 
 	**Nouveaux textes**:
 
@@ -16543,18 +16722,18 @@ Si les père et mère ne parvenaient pas à s'accorder sur ce qu'exige l'intér�
 précédemment pu suivre dans des occasions semblables leur tiendrait lieu de règle.
 
 A défaut d'une telle pratique ou en cas de contestation sur son existence ou son bien-fondé, le parent le plus diligent
-pourra saisir le juge des tutelles qui statuera après avoir tenté de concilier les parties.
+pourra saisir le juge aux affaires familiales qui statuera après avoir tenté de concilier les parties.
 
 **Liens relatifs à cet article**
 
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°93-22 1993-01-08 art. 63 *Mayotte*
+	  - SPEC_APPLI: Loi n°93-22 1993-01-08 art. 63 *Mayotte*, art. 64 *date d'effet*
 
 	**Créé par**:
 
-	  - Loi n°93-22 du 8 janvier 1993 - art. 39 () JORF 9 janvier 1993
-	  - Loi n°93-22 du 8 janvier 1993 - art. 40 () JORF 9 janvier 1993
+	  - Loi n°93-22 du 8 janvier 1993 - art. 48 () JORF 9 janvier 1993 en vigueur le 1er février 1994
+	  - Loi n°93-22 du 8 janvier 1993 - art. 64 (V) JORF 9 janvier 1993 en vigueur le 1er février 1994
 
 	**Cité par**:
 
@@ -16562,6 +16741,10 @@ pourra saisir le juge des tutelles qui statuera après avoir tenté de concilier
 	  - Code de la santé publique - art. R355-45 (Ab)
 	  - Code de la santé publique - art. R3711-13 (V)
 	  - Nouveau code de procédure civile - art. 1179 (M)
+
+	**Abrogé par**:
+
+	  - Loi n°2002-305 du 4 mars 2002 - art. 8 () JORF 5 mars 2002
 
 	**Anciens textes**:
 
@@ -16696,9 +16879,8 @@ Le divorce ou la séparation de corps ne fait pas obstacle à la dévolution pr�
 père et mère qui demeure en état d'exercer l'autorité parentale aurait été privé de l'exercice de certains des attributs de
 cette autorité par l'effet du jugement prononcé contre lui.
 
-Néanmoins, le tribunal qui avait statué en dernier lieu sur la garde peut toujours être saisi par la famille ou par le
-ministère public, afin de confier l'enfant à un tiers, avec ou sans ouverture d'une tutelle, ainsi qu'il est dit à l'article
-suivant.
+Néanmoins, le juge aux affaires familiales peut toujours être saisi par la famille ou par le ministère public, afin de
+confier l'enfant à un tiers, avec ou sans ouverture d'une tutelle, ainsi qu'il est dit à l'article suivant.
 
 Dans des circonstances exceptionnelles, le juge aux affaires familiales qui statue sur les modalités de l'exercice de
 l'autorité parentale après divorce ou séparation de corps peut décider, du vivant même des parents, qu'en cas de décès de
@@ -16722,13 +16904,15 @@ l'autorité parentale, lorsqu'ils résident séparément.
 	  - Code de la sécurité sociale. - art. L351-4 (V)
 	  - Code de procédure civile - art. 1180 (V)
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°93-22 1993-01-08 art. 63 *Mayotte*
-
 	**Modifié par**:
 
-	  - Loi n°93-22 du 8 janvier 1993 - art. 43 () JORF 9 janvier 1993
+	  - Loi n°93-22 1993-01-08 art. 48 III, IV, art. 64 JORF 9 janvier 1993 en vigueur le 1er février 1994
+	  - Loi n°93-22 du 8 janvier 1993 - art. 48 () JORF 9 janvier 1993 en vigueur le 1er février 1994
+	  - Loi n°93-22 du 8 janvier 1993 - art. 64 (V) JORF 9 janvier 1993 en vigueur le 1er février 1994
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°93-22 1993-01-08 art. 63 *Mayotte*, art. 64 *date d'effet*
 
 	**Cite**:
 
@@ -16741,27 +16925,28 @@ l'autorité parentale, lorsqu'ils résident séparément.
 Lorsque l'enfant a été confié à un tiers, l'autorité parentale continue d'être exercée par les père et mère ; toutefois, la
 personne à qui l'enfant a été confié accomplit tous les actes usuels relatifs à sa surveillance et à son éducation.
 
-Le tribunal, en confiant l'enfant à titre provisoire à un tiers, peut décider qu'il devra requérir l'ouverture d'une tutelle.
+Le juge aux affaires familiales, en confiant l'enfant à titre provisoire à un tiers, peut décider qu'il devra requérir
+l'ouverture d'une tutelle.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
+	**Codifié par**:
 
-	  - Loi n°87-570 du 22 juillet 1987 - art. 17 () JORF 24 juillet 1987
+	  - Loi n°1803-03-14
 
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°87-570 du 22 juillet 1987 - art. 29 (V)
-	  - SPEC_APPLI: Loi n°87-570 du 22 juillet 1987 - art. 30 (V)
+	  - SPEC_APPLI: Loi n°93-22 1993-01-08 art. 63 *Mayotte*, art. 64 *date d'effet*
+
+	**Modifié par**:
+
+	  - Loi n°93-22 du 8 janvier 1993 - art. 48 () JORF 9 janvier 1993 en vigueur le 1er février 1994
+	  - Loi n°93-22 du 8 janvier 1993 - art. 64 (V) JORF 9 janvier 1993 en vigueur le 1er février 1994
 
 	**Cité par**:
 
 	  - Code civil - art. 373-3 (M)
 	  - Code civil - art. 375-7 (V)
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
 
 
 ###### Article 373-5
@@ -17006,15 +17191,10 @@ résidence habituelle ;
 Toutefois, lorsqu'une requête en divorce a été présentée ou un jugement de divorce rendu entre les père et mère, ces mesures
 ne peuvent être prises que si un fait nouveau de nature à entraîner un danger pour le mineur s'est révélé postérieurement à
 la décision statuant sur les modalités de l'exercice de l'autorité parentale ou confiant l'enfant à un tiers. Elles ne
-peuvent faire obstacle à la faculté qu'aura le tribunal de décider, par application des articles 287 et 287-1, à qui l'enfant
-devra être confié. Les mêmes règles sont applicables à la séparation de corps.
+peuvent faire obstacle à la faculté qu'aura le juge aux affaires familiales de décider, par application des articles 287 et
+287-1, à qui l'enfant devra être confié. Les mêmes règles sont applicables à la séparation de corps.
 
 **Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°87-570 du 22 juillet 1987 - art. 29 (V)
-	  - SPEC_APPLI: Loi n°87-570 du 22 juillet 1987 - art. 30 (V)
 
 	**Cité par**:
 
@@ -17050,9 +17230,14 @@ devra être confié. Les mêmes règles sont applicables à la séparation de co
 	  - Code de la sécurité sociale. - art. L543-3 (V)
 	  - Code de procédure civile - art. 1198 (V)
 
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°93-22 1993-01-08 art. 63 *Mayotte*, art. 64 *date d'effet*
+
 	**Modifié par**:
 
-	  - Loi n°89-487 1989-07-10 art. 11 JORF 14 Juillet 1989
+	  - Loi n°93-22 du 8 janvier 1993 - art. 48 () JORF 9 janvier 1993 en vigueur le 1er février 1994
+	  - Loi n°93-22 du 8 janvier 1993 - art. 64 (V) JORF 9 janvier 1993 en vigueur le 1er février 1994
 
 	**Cite**:
 
@@ -17304,10 +17489,10 @@ jugement dans les cas déterminés ci-dessous.
 
 ###### Article 376-1
 
-Un tribunal peut, quand il est appelé à statuer sur les modalités de l'exercice de l'autorité parentale ou sur l'éducation
-d'un enfant mineur ou quand il décide de confier l'enfant à un tiers, avoir égard aux pactes que les père et mère ont pu
-librement conclure entre eux à ce sujet, à moins que l'un d'eux ne justifie de motifs graves qui l'autoriseraient à révoquer
-son consentement.
+Un juge aux affaires familiales peut, quand il est appelé à statuer sur les modalités de l'exercice de l'autorité parentale
+ou sur l'éducation d'un enfant mineur ou quand il décide de confier l'enfant à un tiers, avoir égard aux pactes que les père
+et mère ont pu librement conclure entre eux à ce sujet, à moins que l'un d'eux ne justifie de motifs graves qui
+l'autoriseraient à révoquer son consentement.
 
 **Liens relatifs à cet article**
 
@@ -17324,14 +17509,14 @@ son consentement.
 
 	  - Loi n°1803-03-14
 
-	**Modifié par**:
-
-	  - Loi n°87-570 du 22 juillet 1987 - art. 24 () JORF 24 juillet 1987
-
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°87-570 du 22 juillet 1987 - art. 29 (V)
-	  - SPEC_APPLI: Loi n°87-570 du 22 juillet 1987 - art. 30 (V)
+	  - SPEC_APPLI: Loi n°93-22 1993-01-08 art. 63 *Mayotte*, art. 64 *date d'effet*
+
+	**Modifié par**:
+
+	  - Loi n°93-22 du 8 janvier 1993 - art. 48 () JORF 9 janvier 1993 en vigueur le 1er février 1994
+	  - Loi n°93-22 du 8 janvier 1993 - art. 64 (V) JORF 9 janvier 1993 en vigueur le 1er février 1994
 
 
 ###### Article 377
@@ -17340,8 +17525,8 @@ Les père et mère, ensemble ou séparément, ou le tuteur autorisé par le cons
 l'enfant mineur de seize ans à un particulier digne de confiance, à un établissement agréé à cette fin, ou au service
 départemental de l'aide sociale à l'enfance, renoncer en tout ou partie à l'exercice de leur autorité.
 
-En ce cas, délégation, totale ou partielle, de l'autorité parentale résultera du jugement qui sera rendu par le tribunal sur
-la requête conjointe des délégants et du délégataire.
+En ce cas, délégation, totale ou partielle, de l'autorité parentale résultera du jugement qui sera rendu par le juge aux
+affaires familiales sur la requête conjointe des délégants et du délégataire.
 
 La même délégation peut être décidée, à la seule requête du délégataire, lorsque les parents se sont désintéressés de
 l'enfant depuis plus d'un an.
@@ -17364,27 +17549,18 @@ l'enfant depuis plus d'un an.
 	  - Code de la famille et de l'aide sociale. - art. 57 (Ab)
 	  - Code de la famille et de l'aide sociale. - art. 85 (Ab)
 
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°70-459 du 4 juin 1970 - art. 1 () JORF 5 juin 1970 en vigueur le 1er janvier 1971
-
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 10 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 11 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 12 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 13 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 14 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 15 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 9 (V)
+	  - SPEC_APPLI: Loi n°93-22 1993-01-08 art. 63 *Mayotte*, art. 64 *date d'effet*
 
 	**Modifié par**:
 
-	  - Loi n°74-631 du 5 juillet 1974 - art. 5 () JORF 7 juillet 1974
+	  - Loi n°93-22 du 8 janvier 1993 - art. 48 () JORF 9 janvier 1993 en vigueur le 1er février 1994
+	  - Loi n°93-22 du 8 janvier 1993 - art. 64 (V) JORF 9 janvier 1993 en vigueur le 1er février 1994
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
 
 
 ###### Article 377-1
@@ -17398,33 +17574,20 @@ mère ou au tuteur. La notification qui leur est ainsi faite ouvre un nouveau d�
 par eux de réclamer l'enfant, ils sont présumés renoncer à exercer sur lui leur autorité.
 
 Le particulier, l'établissement ou le service départemental de l'aide sociale à l'enfance qui a recueilli l'enfant peut alors
-présenter requête au tribunal aux fins de se faire déléguer totalement ou partiellement l'autorité parentale. Quel que soit
-le requérant, le tribunal peut décider, dans l'intérêt de l'enfant, les parents entendus ou appelés, que l'autorité parentale
-sera déléguée au service de l'aide sociale à l'enfance.
+présenter requête au juge aux affaires familiales aux fins de se faire déléguer totalement ou partiellement l'autorité
+parentale. Quel que soit le requérant, le juge aux affaires familiales peut décider, dans l'intérêt de l'enfant, les parents
+entendus ou appelés, que l'autorité parentale sera déléguée au service de l'aide sociale à l'enfance.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°70-459 du 4 juin 1970 - art. 1 () JORF 5 juin 1970 en vigueur le 1er janvier 1971
-
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 10 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 11 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 12 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 13 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 14 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 15 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 9 (V)
+	  - SPEC_APPLI: Loi n°93-22 1993-01-08 art. 63 *Mayotte*, art. 64 *date d'effet*
 
 	**Modifié par**:
 
-	  - Loi n°74-631 du 5 juillet 1974 - art. 5 () JORF 7 juillet 1974
+	  - Loi n°93-22 du 8 janvier 1993 - art. 48 () JORF 9 janvier 1993 en vigueur le 1er février 1994
+	  - Loi n°93-22 du 8 janvier 1993 - art. 64 (V) JORF 9 janvier 1993 en vigueur le 1er février 1994
 
 	**Cité par**:
 
@@ -17434,14 +17597,18 @@ sera déléguée au service de l'aide sociale à l'enfance.
 	  - Code de la sécurité sociale. - art. L351-4 (V)
 	  - Nouveau code de procédure civile - art. 1201 (Ab)
 
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
 
 ###### Article 377-2
 
 La délégation pourra, dans tous les cas, prendre fin ou être transférée par un nouveau jugement, s'il est justifié de
 circonstances nouvelles.
 
-Dans le cas où la restitution de l'enfant est accordée aux père et mère, le tribunal met à leur charge, s'ils ne sont
-indigents, le remboursement de tout ou partie des frais d'entretien.
+Dans le cas où la restitution de l'enfant est accordée aux père et mère, le juge aux affaires familiales met à leur charge,
+s'ils ne sont indigents, le remboursement de tout ou partie des frais d'entretien.
 
 Quand la demande de restitution a été rejetée, elle ne peut être renouvelée qu'un an plus tôt après que la décision de rejet
 sera devenue irrévocable.
@@ -17452,19 +17619,14 @@ sera devenue irrévocable.
 
 	  - Loi n°1803-03-14
 
-	**Créé par**:
-
-	  - Loi n°70-459 du 4 juin 1970 - art. 1 () JORF 5 juin 1970 en vigueur le 1er janvier 1971
-
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 10 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 11 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 12 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 13 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 14 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 15 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 9 (V)
+	  - SPEC_APPLI: Loi n°93-22 1993-01-08 art. 63 *Mayotte*, art. 64 *date d'effet*
+
+	**Modifié par**:
+
+	  - Loi n°93-22 du 8 janvier 1993 - art. 48 () JORF 9 janvier 1993 en vigueur le 1er février 1994
+	  - Loi n°93-22 du 8 janvier 1993 - art. 64 (V) JORF 9 janvier 1993 en vigueur le 1er février 1994
 
 
 ###### Article 377-3

@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 2000-03-14
+Version Consolidée au 2000-06-16
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -225,6 +225,37 @@ urgence, être ordonnées en référé.
 	  - SPEC_APPLI: Loi n°94-653 1994-07-29 art. 11 *champ d'application*
 
 
+###### Article 9-1
+
+Chacun a droit au respect de la présomption d'innocence.
+
+Lorsqu'une personne est, avant toute condamnation, présentée publiquement comme étant coupable de faits faisant l'objet d'une
+enquête ou d'une instruction judiciaire, le juge peut, même en référé, sans préjudice de la réparation du dommage subi,
+prescrire toutes mesures, telles que l'insertion d'une rectification ou la diffusion d'un communiqué, aux fins de faire
+cesser l'atteinte à la présomption d'innocence, et ce aux frais de la personne, physique ou morale, responsable de cette
+atteinte.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-08
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 96-267 1996-03-28 art. 3 *champ d'application*
+	  - SPEC_APPLI: Loi n°96-1240 1996-12-30 art. 17 *ratification des ordonnances prises en matière pénale pour Mayotte et les territoires d'outre-mer*
+	  - SPEC_APPLI: Loi n°2000-516 2000-06-15 art. 142 (champ d'application territoriale)
+
+	**Cité par**:
+
+	  - Ordonnance n°96-267 du 28 mars 1996 - art. 3 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2000-516 du 15 juin 2000 - art. 91 () JORF 16 juin 2000
+
+
 ###### Article 10
 
 Chacun est tenu d'apporter son concours à la justice en vue de la manifestation de la vérité.
@@ -324,41 +355,6 @@ avec un étranger.
 	**Modifié par**:
 
 	  - Loi n°94-653 du 29 juillet 1994 - art. 1 () JORF 30 juillet 1994
-
-
-### Chapitre Ier : De la jouissance des droits civils.
-
-###### Article 9-1
-
-Chacun a droit au respect de la présomption d'innocence.
-
-Lorsqu'une personne placée en garde à vue, mise en examen ou faisant l'objet d'une citation à comparaître en justice, d'un
-réquisitoire du procureur de la République ou d'une plainte avec constitution de partie civile, est, avant toute
-condamnation, présentée publiquement comme étant coupable de faits faisant l'objet de l'enquête ou de l'instruction
-judiciaire, le juge peut, même en référé, ordonner l'insertion dans la publication concernée d'un communiqué aux fins de
-faire cesser l'atteinte à la présomption d'innocence, sans préjudice d'une action en réparation des dommages subis et des
-autres mesures qui peuvent être prescrites en application du nouveau code de procédure civile et ce, aux frais de la
-personne, physique ou morale, responsable de l'atteinte à la présomption d'innocence.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-08
-
-	**Modifié par**:
-
-	  - Loi n°93-1013 1993-08-24 art. 44 JORF 25 août 1993 en vigueur le 2 septembre 1993
-	  - Loi n°94-653 du 29 juillet 1994 - art. 1 () JORF 30 juillet 1994
-
-	**Liens**:
-
-	  - SPEC_APPLI: Ordonnance 96-267 1996-03-28 art. 3 *champ d'application*
-	  - SPEC_APPLI: Loi n°96-1240 1996-12-30 art. 17 *ratification des ordonnances prises en matière pénale pour Mayotte et les territoires d'outre-mer*
-
-	**Cité par**:
-
-	  - Ordonnance n°96-267 du 28 mars 1996 - art. 3 (V)
 
 
 ### Chapitre II : Du respect du corps humain

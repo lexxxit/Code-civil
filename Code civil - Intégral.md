@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1977-12-29
+Version Consolidée au 1977-12-30
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -10486,6 +10486,64 @@ un commencement de preuve par écrit, au sens de l'article 324 ci-dessus.
 
 #### Section 4 : De l'action à fins de subsides
 
+###### Article 342
+
+Tout enfant naturel dont la filiation paternelle n'est pas légalement établie, peut réclamer des subsides à celui qui a eu
+des relations avec sa mère pendant la période légale de la conception.
+
+L'action peut être exercée pendant toute la minorité de l'enfant ; celui-ci peut encore l'exercer dans les deux années qui
+suivent sa majorité si elle ne l'a pas été pendant sa minorité.
+
+L'action est recevable même si le père ou la mère était au temps de la conception, engagé dans les liens du mariage avec une
+autre personne, ou s'il existait entre eux un des empêchements à mariage réglés par les articles 161 à 164 du présent code.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°72-3 du 3 janvier 1972 - art. 1 () JORF 5 janvier 1972 en vigueur le 1er août 1972
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 11 (V)
+	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 12 (V)
+	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 13 (V)
+	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 14 (V)
+	  - SPEC_APPLI: Loi n°77-1456 du 29 décembre 1977 - art. 3 (V)
+
+	**Cité par**:
+
+	  - Loi n°73-5 du 2 janvier 1973 - art. 1 (VT)
+	  - Décret n°73-216 du 1 mars 1973 - art. 8 (Ab)
+	  - Loi n°75-618 du 11 juillet 1975 - art. 15 (V)
+	  - Décret n°75-1339 du 31 décembre 1975 - art. 22 (V)
+	  - Loi n°84-1171 du 22 décembre 1984 - art. 9 (V)
+	  - Décret n°85-560 du 30 mai 1985 - art. 18 (Ab)
+	  - Loi n°88-1088 du 1 décembre 1988 - art. 23 (Ab)
+	  - Ordonnance n°2002-1476 du 19 décembre 2002 - art. 10 (VD)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*321-14 (Ab)
+	  - Code civil - art. 311-11 (Ab)
+	  - Code de l'action sociale et des familles - art. L262-10 (VD)
+	  - Code de l'action sociale et des familles - art. L262-35 (V)
+	  - Code de la sécurité sociale. - art. L524-4 (VT)
+	  - Code de la sécurité sociale. - art. R581-9 (V)
+	  - Code des procédures civiles d'exécution - art. L161-3 (VD)
+	  - Code des procédures civiles d'exécution - art. L213-1 (VD)
+	  - Nouveau code de procédure civile - art. 465-1 (V)
+
+	**Modifié par**:
+
+	  - Loi n°77-1456 du 29 décembre 1977 - art. 1 () JORF 30 décembre 1977
+
+	**Cite**:
+
+	  - Code civil 161 à 164
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
 ###### Article 342-1
 
 L'action à fins de subsides peut aussi être exercée par l'enfant d'une femme mariée, si son titre d'enfant légitime n'est pas
@@ -10627,6 +10685,43 @@ La charge des subsides se transmet à la succession du débiteur suivant les rè
 	**Cite**:
 
 	  - Code civil - art. 207-1 (Ab)
+
+
+###### Article 342-6
+
+Les articles 340-2, 340-3 et 340-5 ci-dessus sont applicables à l'action à fins de subsides.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°72-3 du 3 janvier 1972 - art. 1 () JORF 5 janvier 1972 en vigueur le 1er août 1972
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 11 (V)
+	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 12 (V)
+	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 13 (V)
+	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 14 (V)
+	  - SPEC_APPLI: Loi n°77-1456 du 29 décembre 1977 - art. 3 (V)
+
+	**Modifié par**:
+
+	  - Loi n°77-1456 du 29 décembre 1977 - art. 2 () JORF 30 décembre 1977
+
+	**Cité par**:
+
+	  - Ordonnance n°2002-1476 du 19 décembre 2002 - art. 10 (VD)
+
+	**Cite**:
+
+	  - Code civil - art. 340-2 (Ab)
+	  - Code civil - art. 340-3 (M)
+	  - Code civil - art. 340-5 (Ab)
 
 
 ###### Article 342-7

@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1938-02-19
+Version Consolidée au 1938-02-20
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -2739,6 +2739,121 @@ l'enfant à qui il devra des aliments, devra dans ce cas être dispensé de paye
 	**Créé par**:
 
 	  - Loi n°1803-03-17 promulguée le 27 mars 1803
+
+
+### Chapitre VI : Des devoirs et des droits respectifs des époux
+
+###### Article 213
+
+Le mari, chef de la famille, a le choix de la résidence du ménage ; la femme est obligée d'habiter avec son mari, celui-ci
+est tenu de la recevoir.
+
+Un droit de recours au tribunal, statuant en chambre du conseil, le mari dûment appelé et le ministère public entendu, est
+ouvert à la femme contre une fixation abusive de la résidence du ménage par le mari.
+
+La qualité de chef de famille cesse d'exister au profit du mari 1° dans les cas d'absence, d'interdiction, d'impossibilité
+pour le mari de manifester sa volonté, et de séparation de corps ; 2° lorsqu'il est condamné, même par contumace, à une peine
+criminelle, pendant la durée de sa peine.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi du 18 février 1938, v. init.
+
+	**Cité par**:
+
+	  - Arrêté du 13 janvier 1970 - art. 2 (V)
+	  - Arrêté du 25 février 1982 - art. 3 (V)
+	  - Décret n°89-271 du 12 avril 1989 - art. 5 (V)
+	  - Décret n°98-844 du 22 septembre 1998 - art. 4 (V)
+	  - Arrêté du 27 novembre 1968 - art. 2 (Ab)
+	  - Code civil - art. 75 (V)
+
+
+###### Article 214
+
+Le mari est obligé de fournir à la femme tout ce qui est nécessaire pour les besoins de sa vie selon ses facultés et son
+état.
+
+Sur les biens dont elle a l'administration, la femme doit contribuer proportionnellement à ses facultés et à celles de son
+mari tant aux frais du ménage qu'à ceux d'éducation des enfants communs, sauf dans les cas prévus aux articles 1537 ou 1575,
+où la contribution de la femme est fixée sur les bases en ces articles.
+
+Faute par l'un des époux de remplir son obligation, l'autre époux pourra obtenir du juge de paix l'autorisation de saisir-
+arrêter et de toucher des salaires, du produit du travail ou des revenus de son conjoint une part proportionnée à ses
+besoins.
+
+Les époux seront appelés devant le juge de paix par une lettre recommandée du greffier indiquant la nature de la demande.
+
+Ils devront comparaître en personne, sauf en cas d'empêchement absolu et dûment justifié.
+
+La signification du jugement par l'époux qui l'aura obtenu à son conjoint et aux tiers débiteurs lui vaut par elle-même
+attribution des sommes saisies.
+
+Les jugements ainsi rendus seront exécutoires par provision nonobstant opposition ou appel.
+
+Une nouvelle décision peut toujours être provoquée si un changement des situations respectives le justifie.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi du 14 juillet 1908 - art. 26 (VT)
+	  - Loi n°1928-03-30 du 30 mars 1928 - art. 2 septies (V)
+	  - Décret n°49-1416 du 5 octobre 1949 - art. 48 (Ab)
+	  - Décret n°68-382 du 5 avril 1968 - art. 29 (M)
+	  - Décret n°68-960 du 11 octobre 1968 - art. 27 (M)
+	  - Loi n°73-5 du 2 janvier 1973 - art. 1 (VT)
+	  - Décret n°73-216 du 1 mars 1973 - art. 8 (Ab)
+	  - Loi n°75-618 du 11 juillet 1975 - art. 15 (V)
+	  - Décret n°75-1339 du 31 décembre 1975 - art. 22 (V)
+	  - Loi n°84-1171 du 22 décembre 1984 - art. 9 (V)
+	  - Décret n°85-560 du 30 mai 1985 - art. 18 (Ab)
+	  - Loi n°88-1088 du 1 décembre 1988 - art. 23 (Ab)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*321-14 (M)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*321-9 (M)
+	  - CODE DES COMMUNES. - art. L354-10 (Ab)
+	  - Code civil - art. 1537 (V)
+	  - Code civil - art. 75 (V)
+	  - Code de l'action sociale et des familles - art. L262-35 (V)
+	  - Code de la sécurité sociale. - art. L524-4 (VT)
+	  - Code de la sécurité sociale. - art. L581-3 (V)
+	  - Code de la sécurité sociale. - art. R581-9 (V)
+	  - Code des pensions de retraite des marins frança... - art. L30 (VT)
+	  - Code des pensions de retraite des marins français  - art. R21 (V)
+	  - Code des pensions militaires d'invalidité et de... - art. L163-1 (VD)
+	  - Code des pensions militaires d'invalidité et des v - art. L105 (V)
+	  - Code des procédures civiles d'exécution - art. L161-3 (VD)
+	  - Code des procédures civiles d'exécution - art. L213-1 (VD)
+	  - Code général des impôts, CGI. - art. 156 (VT)
+	  - Code général des impôts, CGI. - art. 80 quater (VD)
+	  - Nouveau code de procédure civile - art. 1069-3 (Ab)
+	  - Nouveau code de procédure civile - art. 1282 (Ab)
+	  - Nouveau code de procédure civile - art. 465-1 (V)
+
+	**Modifié par**:
+
+	  - Loi du 18 février 1938, v. init.
+
+
+###### Article 215
+
+La femme mariée a le plein exercice de sa capacité civile.
+
+Les restrictions à cet exercice ne peuvent résulter que de limitations légales ou du régime matrimonial qu'elle a adopté.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi du 18 février 1938, v. init.
+
+	**Cité par**:
+
+	  - Loi n°54-439 du 15 avril 1954 - art. 10 (VD)
+	  - Code civil - art. 222 (V)
+	  - Code civil - art. 75 (VD)
 
 
 ### Chapitre VII : De la dissolution du mariage

@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1938-02-20
+Version Consolidée au 1938-06-30
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -6152,32 +6152,6 @@ imprescriptible.
 	**Créé par**:
 
 	  - Loi n°1804-01-31 promulguée le 10 février 1804
-
-
-#### Section I : Du mur et du fossé mitoyens.
-
-###### Article 664
-
-(article abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1804-01-31
-
-	**Créé par**:
-
-	  - Loi n°1804-01-31 promulguée le 10 février 1804
-
-	**Abrogé par**:
-
-	  - Loi n°1938-06-28 art. 13 JORF 30 juin 1938
-	  - Loi n°65-557 du 10 juillet 1965 - art. 48 (V) JORF 11 juillet 1965
-
-	**Cité par**:
-
-	  - Loi n°65-557 du 10 juillet 1965 - art. 48 (V)
 
 
 #### Section 2 : De la distance et des ouvrages intermédiaires requis pour certaines constructions

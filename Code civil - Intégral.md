@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1979-01-04
+Version Consolidée au 1980-07-05
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -25786,6 +25786,72 @@ fait défaut.
 
 #### Section 1 : De l'indivision et de l'action en partage.
 
+###### Article 815
+
+Nul ne peut être contraint à demeurer dans l'indivision et le partage peut être toujours provoqué, à moins qu'il n'y ait été
+sursis par jugement ou convention.
+
+A la demande d'un indivisaire, le tribunal peut surseoir au partage pour deux années au plus si sa réalisation immédiate
+risque de porter atteinte à la valeur des biens indivis ou si l'un des indivisaires ne peut s'installer sur une exploitation
+agricole dépendant de la succession qu'à l'expiration de ce délai. Ce sursis peut s'appliquer à l'ensemble des biens indivis
+ou à certains d'entre eux seulement.
+
+En outre, si des indivisaires entendent demeurer dans l'indivision, le tribunal peut, à la demande de l'un ou plusieurs
+d'entre eux, en fonction des intérêts en présence, et sans préjudice de l'application des articles 832 à 832-3, attribuer sa
+part, après expertise, à celui qui a demandé le partage, soit en nature, si elle est aisément détachable du reste des biens
+indivis, soit en argent, si l'attribution en nature ne peut être commodément effectuée, ou si le demandeur en exprime la
+préférence ; s'il n'existe pas dans l'indivision une somme suffisante, le complément est versé par ceux des indivisaires qui
+ont concouru à la demande, sans préjudice de la possibilité pour les autres indivisaires d'y participer s'ils en expriment la
+volonté. La part de chacun dans l'indivision est augmentée en proportion de son versement.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 23 avril 1982 - art. CHAPITRE 5 PARAGRAPHE 2 ART. 25 (V)
+	  - Arrêté du 20 décembre 1991 - art. Annexe, 25 (Ab)
+	  - Décret n°2017-862 du 9 mai 2017 - art. 2
+	  - Code civil - art. 1471 (M)
+	  - Code civil - art. 1873-3 (V)
+	  - Code civil - art. 466 (M)
+	  - Code civil - art. 815-18 (V)
+	  - Code civil - art. 832-1 (M)
+	  - Code civil - art. 832-2 (M)
+	  - Code civil - art. 832-3 (M)
+	  - Code de commerce - art. R444-71 (VD)
+	  - Code de la propriété intellectuelle - art. L613-30 (V)
+	  - Code rural - art. L321-25 (M)
+	  - Code rural - art. L323-6 (M)
+	  - Code rural - art. L411-2 (M)
+	  - Loi n°1924-06-01 du 1 juin 1924 - art. 89 (V)
+	  - Loi n°61-1378 du 19 décembre 1961 - art. 14 (M)
+	  - Loi n°62-917 du 8 août 1962 - art. 1 (Ab)
+	  - Loi n°68-1 du 2 janvier 1968 - art. 42 (Ab)
+
+	**Cite**:
+
+	  - Code civil 832 à 832-3
+
+	**Codifié par**:
+
+	  - Loi n°1803-04-19
+
+	**Créé par**:
+
+	  - Loi n°1803-04-19 promulguée le 29 avril 1803
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°76-1286 du 31 décembre 1976 - art. 19 (V)
+	  - SPEC_APPLI: Loi n°78-627 du 10 juin 1978 - art. 5 (V)
+
+	**Modifié par**:
+
+	  - Loi n°76-1286 du 31 décembre 1976 - art. 2 () JORF 1er janvier 1977 en vigueur le 1er juillet 1977
+	  - Loi n°78-627 du 10 juin 1978 - art. 1 () JORF 11 juin 1978
+	  - Loi n°80-502 du 4 juillet 1980 - art. 36 () JORF 5 juillet 1980 rectificatif JORF 3 août 1980
+
+
 ###### Article 815-1
 
 A défaut d'accord amiable, l'indivision de toute exploitation agricole constituant une unité économique et dont la mise en
@@ -26384,6 +26450,115 @@ d'héritiers copartageants, ou de souches copartageantes.
 	**Créé par**:
 
 	  - Loi n°1803-04-19 promulguée le 29 avril 1803
+
+
+###### Article 832-1
+
+Par dérogation aux dispositions des alinéas onzième et treizième de l'article 832 et à moins que le maintien de l'indivision
+ne soit demandé en application des articles 815 (deuxième alinéa) et 815-1, l'attribution préférentielle visée au troisième
+alinéa de l'article 832 est de droit pour toute exploitation agricole qui ne dépasse pas les limites de superficies fixées
+par décret en Conseil d'Etat. En cas de pluralité de demandes, le tribunal désigne l'attributaire ou les attributaires
+conjoints en fonction des intérêts en présence et de l'aptitude des différents postulants à gérer l'exploitation et à s'y
+maintenir.
+
+Dans l'hypothèse prévue à l'alinéa précédent, même si l'attribution préférentielle a été accordée judiciairement,
+l'attributaire peut exiger de ses copartageants pour le paiement d'une fraction de la soulte, égale au plus à la moitié, des
+délais ne pouvant excéder dix ans. Sauf convention contraire, les sommes restant dues portent intérêt au taux légal.
+
+En cas de vente de la totalité du bien attribué, la fraction de soulte restant due devient immédiatement exigible ; en cas de
+ventes partielles, le produit de ces ventes est versé aux copartageants et imputé sur la fraction de soulte encore due.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-04-19
+
+	**Cité par**:
+
+	  - Loi n°61-1378 du 19 décembre 1961 - art. 12 (V)
+	  - Loi n°61-1378 du 19 décembre 1961 - art. 13 (V)
+	  - Loi n°62-933 du 8 août 1962 - art. 5 (V)
+	  - Décret n°65-577 du 15 juillet 1965 - art. 2 (Ab)
+	  - Loi n°70-1265 du 23 décembre 1970 - art. 2 (V)
+	  - Loi n°2001-1135 du 3 décembre 2001 - art. 26 (V)
+	  - Loi n°2006-728 du 23 juin 2006 - art. 40 (V)
+	  - CODE GENERAL DES IMPOTS ANNEXE 3, CGIAN3. - art. 397 (M)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 1722 bis (M)
+	  - Code civil - art. 1471 (M)
+	  - Code civil - art. 2504 (Ab)
+	  - Code civil - art. 831-1 (V)
+	  - Code civil - art. 832 (M)
+	  - Code civil - art. 832-2 (V)
+	  - Code civil - art. 832-3 (M)
+	  - Code civil - art. 832-4 (M)
+	  - Code de procédure civile - art. 1381 (VD)
+	  - Code rural - art. L143-6 (V)
+	  - Code rural - art. L322-14 (V)
+	  - Code rural - art. L323-6 (V)
+
+	**Modifié par**:
+
+	  - Loi n°71-523 du 3 juillet 1971 - art. 1 () JORF 4 juillet 1971 en vigueur le 1er janvier 1972
+	  - Loi n°76-1286 du 31 décembre 1976 - art. 16 () JORF 1er janvier 1977 en vigueur le 1er juillet 1977
+	  - Loi n°80-502 du 4 juillet 1980 - art. 37 () JORF 5 juillet 1980
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 22 août 1975
+	  - TXT_SOURCE: Arrêté du 22 août 1975 - art. Annexe (V)
+	  - SPEC_APPLI: Loi n°76-1286 du 31 décembre 1976 - art. 19 (V)
+	  - SPEC_APPLI: Loi n°80-502 1980-07-04 art. 32
+	  - SPEC_APPLI: Code civil - art. 832 (M)
+	  - TXT_ASSOCIE: Code civil - art. 832-4 (M)
+
+	**Cite**:
+
+	  - Code civil - art. 815 (M)
+	  - Code civil - art. 815-1 (M)
+
+	**Créé par**:
+
+	  - Loi n°91-1378 1961-12-19 art. 3 JORF 20 décembre 1961
+
+
+###### Article 832-4
+
+Les dispositions des articles 832, 832-1, 832-2 et 832-3 profitent au conjoint ou à tout héritier, qu'il soit copropriétaire
+en pleine propriété ou en nue-propriété.
+
+Les dispositions des articles 832, 832-2 et 832-3 profitent aussi au gratifié ayant vocation universelle ou à titre universel
+à la succession en vertu d'un testament ou d'une institution contractuelle.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°80-502 du 4 juillet 1980 - art. 31 () JORF 5 juillet 1980
+
+	**Cité par**:
+
+	  - Code civil - art. 2299 (T)
+	  - Code civil - art. 2503 (V)
+	  - Code civil - art. 2505 (M)
+	  - Code civil - art. 515-6 (VT)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code civil - art. 832 (M)
+	  - TXT_ASSOCIE: Code civil - art. 832-1 (M)
+	  - TXT_ASSOCIE: Code civil - art. 832-3 (M)
+
+	**Cite**:
+
+	  - Code civil - art. 832 (M)
+	  - Code civil - art. 832-1 (M)
+	  - Code civil - art. 832-2 (M)
+	  - Code civil - art. 832-3 (M)
+
+	**Codifié par**:
+
+	  - Loi n°1803-04-19
 
 
 ###### Article 833
@@ -28061,6 +28236,146 @@ acquéreur ; un nu-propriétaire ne peut acquérir une part en usufruit que si a
 
 	  - Code civil - art. 814 (M)
 	  - Code civil 814, 815 à 815-17
+
+
+### Chapitre VIII : Du partage.
+
+#### Section 1 : Des opérations de partage.
+
+##### Sous-section 1 : Dispositions communes.
+
+##### Paragraphe 3 : Des attributions préférentielles.
+
+###### Article 832-2
+
+Si le maintien dans l'indivision n'a pas été ordonné en application des articles 815, deuxième alinéa, et 815-1, et à défaut
+d'attribution préférentielle en propriété, prévue aux articles 832, troisième alinéa, ou 832-1, le conjoint survivant ou tout
+héritier copropriétaire peut demander l'attribution préférentielle de tout ou partie des biens et droits immobiliers à
+destination agricole dépendant de la succession en vue de constituer, avec un ou plusieurs cohéritiers et, le cas échéant, un
+ou plusieurs tiers, un groupement foncier agricole.
+
+Cette attribution est de droit si le conjoint survivant ou un ou plusieurs des cohéritiers remplissant les conditions
+personnelles prévues à l'article 832, troisième alinéa, exigent que leur soit donné à bail, dans les conditions fixées au
+chapitre VII du titre I du livre VI du code rural, tout ou partie des biens du groupement.
+
+En cas de pluralité de demandes, les biens du groupement peuvent, si leur consistance le permet, faire l'objet de plusieurs
+baux bénéficiant à des cohéritiers différents ; dans le cas contraire, et à défaut d'accord amiable le tribunal désigne le
+preneur en tenant compte de l'aptitude des différents postulants à gérer les biens concernés et à s'y maintenir. Si les
+clauses et conditions de ce bail ou de ces baux n'ont pas fait l'objet d'un accord, elles sont fixées par le tribunal.
+
+Les biens et droits immobiliers que les demandeurs n'envisagent pas d'apporter au groupement foncier agricole, ainsi que les
+autres biens de la succession, sont attribués par priorité, dans les limites de leurs droits successoraux respectifs, aux
+indivisaires qui n'ont pas consenti à la formation du groupement. Si ces indivisaires ne sont pas remplis de leurs droits par
+l'attribution ainsi faite, une soulte doit leur être versée. Sauf accord amiable entre les copartageants, la soulte
+éventuellement due est payable dans l'année suivant le partage. Elle peut faire l'objet d'une dation en paiement sous la
+forme de parts du groupement foncier agricole, à moins que les intéressés, dans le mois suivant la proposition qui leur en
+est faite, n'aient fait connaître leur opposition à ce mode de règlement.
+
+Le partage n'est parfait qu'après la signature de l'acte constitutif du groupement foncier agricole et, s'il y a lieu, du ou
+des baux à long terme.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°61-1378 du 19 décembre 1961 - art. 4 () JORF 20 décembre 1961
+
+	**Cité par**:
+
+	  - Loi n°62-933 du 8 août 1962 - art. 7 (Ab)
+	  - Décret n°65-577 du 15 juillet 1965 - art. 2 (Ab)
+	  - Loi n°70-1265 du 23 décembre 1970 - art. 2 (V)
+	  - Loi n°2006-728 du 23 juin 2006 - art. 40 (V)
+	  - Code civil - art. 1471 (M)
+	  - Code civil - art. 2505 (V)
+	  - Code civil - art. 832 (M)
+	  - Code civil - art. 832-3 (M)
+	  - Code civil - art. 832-4 (M)
+	  - Code rural - art. L143-6 (M)
+	  - Code rural - art. L412-14 (V)
+	  - Nouveau code de procédure civile - art. 1381 (V)
+
+	**Modifié par**:
+
+	  - Loi n°76-1286 du 31 décembre 1976 - art. 16 () JORF 1er juillet 1977
+	  - Loi n°80-502 du 4 juillet 1980 - art. 30 () JORF 5 juillet 1980
+
+	**Cite**:
+
+	  - Code civil - art. 815 (M)
+	  - Code civil - art. 832-1 (M)
+
+	**Codifié par**:
+
+	  - Loi n°1803-04-19
+
+
+###### Article 832-3
+
+Si une exploitation agricole constituant une unité économique et non exploitée sous forme sociale n'est pas maintenue dans
+l'indivision en application des articles 815, 2e alinéa, et 815-1, et n'a pas fait l'objet d'une attribution préférentielle
+dans les conditions prévues aux articles 832, 832-1 ou 832-2, le conjoint survivant ou tout héritier copropriétaire qui
+désire poursuivre l'exploitation à laquelle il participe ou a participé effectivement peut exiger, nonobstant toute demande
+de licitation, que le partage soit conclu sous la condition que ses copartageants lui consentent un bail à long terme dans
+les conditions fixées au chapitre VII du titre Ier du livre VI du code rural, sur les terres de l'exploitation qui leur
+échoient. Sauf accord amiable entre les parties, celui qui demande à bénéficier de ces dispositions reçoit par priorité dans
+sa part les bâtiments d'exploitation et d'habitation.
+
+Les dispositions qui précèdent sont applicables à une partie de l'exploitation agricole pouvant constituer une unité
+économique.
+
+Il est tenu compte, s'il y a lieu, de la dépréciation due à l'existence du bail dans l'évaluation des terres incluses dans
+les différents lots.
+
+Les articles 807 et 808 du code rural déterminent les règles spécifiques au bail visé au premier alinéa du présent article.
+
+S'il y a pluralité de demandes, le tribunal de grande instance désigne le ou les bénéficiaires en fonction des intérêts en
+présence et de l'aptitude des différents postulants à gérer tout ou partie de l'exploitation ou à s'y maintenir.
+
+Si, en raison de l'inaptitude manifeste du ou des demandeurs à gérer tout ou partie de l'exploitation, les intérêts des
+cohéritiers risquent d'être compromis, le tribunal peut décider qu'il n'y a pas lieu d'appliquer les trois premiers alinéas
+du présent article.
+
+L'unité économique prévue au premier alinéa peut être formée, pour une part, de biens dont le conjoint survivant ou
+l'héritier était déjà propriétaire ou copropriétaire avant le décès. Dans le cas de l'héritier, la condition de participation
+peut avoir été remplie par son conjoint.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°70-1265 du 23 décembre 1970 - art. 1 () JORF 29 décembre 1970
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°80-502 1980-07-04 art. 32
+	  - TXT_ASSOCIE: Code civil - art. 832-4 (M)
+
+	**Modifié par**:
+
+	  - Loi n°80-502 du 4 juillet 1980 - art. 33 () JORF 5 juillet 1980
+
+	**Cité par**:
+
+	  - Code civil - art. 2505 (V)
+	  - Code civil - art. 515-6 (VT)
+	  - Code civil - art. 832-4 (M)
+	  - Code rural - art. L322-14 (V)
+	  - Code rural - art. L412-14 (M)
+	  - Nouveau code de procédure civile - art. 1381 (V)
+
+	**Cite**:
+
+	  - Code civil - art. 815 (M)
+	  - Code civil - art. 815-1 (M)
+	  - Code civil - art. 832 (M)
+	  - Code civil - art. 832-1 (M)
+	  - Code civil - art. 832-2 (M)
+	  - Code rural 807, 808
+
+	**Codifié par**:
+
+	  - Loi n°1803-04-19
 
 
 ## Titre II : Des donations entre vifs et des testaments (en vigueur jusqu'au 1er janvier 2007)
@@ -55137,10 +55452,10 @@ dus ;
 4° Sans préjudice de l'application éventuelle des dispositions des articles L. 143-10, L. 143-11, L. 742-6 et L. 751-15 du
 code du travail :
 
-Les rémunérations des gens de service pour l'année échue et l'année courante ;
+Les rémunérations des gens de service pour l'année échue et l'année courante :
 
 Le salaire différé résultant du contrat de travail institué par l'article 63 du décret du 29 juillet 1939 relatif à la
-famille et à la natalité françaises, pour l'année échue et l'année courante ;
+famille et à la natalité françaises, pour l'année échue et l'année courante :
 
 Les rémunérations pour les six derniers mois des salariés et apprentis ;
 
@@ -55158,7 +55473,8 @@ Les indemnités dues, le cas échéant, au salarié en application des articles 
 122-14-6 alinéa 3.
 
 5° Les fournitures de subsistances faites au débiteur et à sa famille pendant la dernière année et, pendant le même délai,
-les produits livrés par un producteur agricole dans le cadre d'un accord interprofessionnel à long terme homologué.
+les produits livrés par un producteur agricole dans le cadre d'un accord interprofessionnel à long terme homologué, ainsi que
+les sommes dues par tout contractant d'un exploitant agricole en application d'un contrat type homologué.
 
 6° La créance de la victime de l'accident ou de ses ayants droit relative aux frais médicaux, pharmaceutiques et funéraires,
 ainsi qu'aux indemnités allouées à la suite de l'incapacité temporaire de travail ;
@@ -55235,18 +55551,15 @@ familiales et de la péréquation des charges résultant du versement desdites p
 
 	**Modifié par**:
 
-	  - Loi n°79-11 1979-01-03 JORF 4 janvier 1979 rectificatif JORF 17 janvier 1979
+	  - Loi n°80-502 1980-07-04 JORF 5 juillet 1980 rectificatif JORF 18 juillet, 3 août 1980
 
 	**Nouveaux textes**:
 
 	  - Code civil - art. 2331 (M)
 
-	**Codifié par**:
-
-	  - Loi n°1804-03-19
-
 	**Cite**:
 
+	  - Décret n°1939-07-29 art. 63
 	  - Code du travail - art. L122-14 (Ab)
 	  - Code du travail - art. L122-2 (T)
 	  - Code du travail - art. L122-3 (T)
@@ -55259,7 +55572,10 @@ familiales et de la péréquation des charges résultant du versement desdites p
 	  - Code du travail - art. L761-5 (AbD)
 	  - Code du travail - art. L761-7 (AbD)
 	  - Code du travail 74, L122-2, L122-3, L122-6, L122-9, L122-14, L143-10, L143-11, L742-6, L751-15, L761-5, L761-7
-	  - Décret n°1939-07-29 art. 63
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-19
 
 
 ##### Paragraphe II : Des privilèges sur certains meubles.

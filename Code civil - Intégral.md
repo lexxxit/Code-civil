@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1998-04-07
+Version Consolidée au 1998-05-19
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -19662,44 +19662,58 @@ La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 Le conseil de famille est convoqué par le juge des tutelles. Il doit l'être si la convocation est requise, soit par deux de
 ses membres, soit par le tuteur ou le subrogé tuteur, soit par le mineur lui-même pourvu qu'il ait seize ans révolus.
 
+Le conseil de famille est également convoqué à la demande du mineur âgé de moins de seize ans et capable de discernement,
+sauf décision contraire spécialement motivée du juge.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
 
 	**Modifié par**:
 
-	  - Loi n°74-631 du 5 juillet 1974 - art. 5 () JORF 7 juillet 1974
+	  - Loi n°98-381 du 14 mai 1998 - art. 1 () JORF 19 mai 1998
 
 	**Cité par**:
 
 	  - Code civil - art. 447 (VT)
 
-
-###### Article 411
-
-La convocation doit être faite huit jours au moins avant la réunion.
-
-**Liens relatifs à cet article**
-
 	**Codifié par**:
 
 	  - Loi n°1803-03-14
 
-	**Créé par**:
 
-	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+###### Article 411
+
+La convocation doit être faite huit jours au moins avant la réunion. 
+
+Préalablement à cette réunion, le juge procède à l'audition du mineur capable de discernement dans les conditions prévues à
+l'article 388-1.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°98-381 du 14 mai 1998 - art. 2 () JORF 19 mai 1998
+
+	**Cite**:
+
+	  - Code civil - art. 388-1 (VT)
 
 	**Cité par**:
 
 	  - Code de l'action sociale et des familles - art. L222-5 (V)
 	  - Code de la construction et de l'habitation. - art. R443-38 (Ab)
 	  - Décret du 26 mars 1910 - art. 12 (Ab)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
 
 
 ###### Article 412
@@ -19802,16 +19816,20 @@ Le conseil de famille est présidé par le juge des tutelles, qui aura voix dél
 Le tuteur doit assister à la séance ; il y est entendu mais ne vote pas, non plus que le subrogé tuteur dans le cas où il
 remplace le tuteur.
 
-Le mineur âgé de seize ans révolus peut, si le juge l'estime utile, assister à la séance à titre consultatif. Il y est
-obligatoirement convoqué, quand le conseil a été réuni à sa réquisition.
+Le mineur capable de discernement peut, si le juge ne l'estime pas contraire à son intérêt, assister à la séance à titre
+consultatif. Le mineur de seize ans révolus est obligatoirement convoqué quand le conseil a été réuni à sa réquisition.
 
 En aucun cas, son assentiment à un acte ne décharge le tuteur et les autres organes de la tutelle de leurs responsabilités.
 
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+	  - Loi n°98-381 du 14 mai 1998 - art. 3 () JORF 19 mai 1998
 
 	**Cité par**:
 
@@ -62173,58 +62191,6 @@ bâtiments, l'hypothèque est reportée de plein droit sur les nouvelles constru
 	**Abrogé par**:
 
 	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 56 () JORF 24 mars 2006
-
-
-#### Section IV : Du rang que les hypothèques ont entre elles.
-
-###### Article 2134
-
-Entre les créanciers, l'hypothèque, soit légale, soit judiciaire, soit conventionnelle, n'a rang que du jour de l'inscription
-prise par le créancier à la conservation des hypothèques, dans la forme et de la manière prescrites par la loi.
-
-Lorsque plusieurs inscriptions sont requises le même jour relativement au même immeuble, celle qui est requise en vertu du
-titre portant la date la plus ancienne est réputée d'un rang antérieur, quel que soit l'ordre qui résulte du registre prévu à
-l'article 2200.
-
-Dans le cas où le requérant est légalement dispensé de la représentation d'un titre, le rang de son inscription est réputé
-antérieur à celui de toute inscription d'hypothèque judiciaire ou conventionnelle requise le même jour.
-
-Si plusieurs inscriptions sont prises le même jour relativement au même immeuble, soit en vertu de titres portant la même
-date, soit au profit de requérants légalement dispensés de la représentation d'un titre, les inscriptions viennent en
-concurrence quel que soit l'ordre du registre susvisé.
-
-L'ordre de préférence entre les créanciers privilégiés ou hypothécaires et les porteurs de warrants, dans la mesure où ces
-derniers sont gagés sur des biens réputés immeubles, est déterminé par les dates auxquelles les titres respectifs ont été
-publiés, la publicité des warrants demeurant soumise aux lois spéciales qui les régissent.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Loi n°1924-06-01 du 1 juin 1924 - art. 45 (M)
-	  - Code civil - art. 2135 (Ab)
-	  - Code civil - art. 2136 (T)
-	  - Code civil - art. 2137 (T)
-
-	**Modifié par**:
-
-	  - Décret n°55-22 du 4 janvier 1955 - art. 20 () JORF 7 janvier 1955
-
-	**Cite**:
-
-	  - Code civil - art. 2200 (T)
-
-	**Nouveaux textes**:
-
-	  - Code civil - art. 2425 (V)
-
-	**Codifié par**:
-
-	  - Loi n°1804-03-19
-
-	**Créé par**:
-
-	  - Loi n°1804-03-19 promulguée le 29 mars 1804
 
 
 #### Section 5 : Des règles particulières à l'hypothèque légale des époux.

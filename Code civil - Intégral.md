@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1804-01-31
+Version Consolidée au 1804-02-04
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -2148,6 +2148,686 @@ l'enfant à qui il devra des aliments, devra dans ce cas être dispensé de paye
 
 
 # Livre II : Des biens et des différentes modifications de la propriété
+
+## Titre Ier : De la distinction des biens
+
+###### Article 516
+
+Tous les biens sont meubles ou immeubles.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code civil - art. 2500 (M)
+
+	**Codifié par**:
+
+	  - Loi n°1804-01-25
+
+	**Créé par**:
+
+	  - Loi n°1804-01-25 promulguée le 4 février 1804
+
+
+### Chapitre Ier : Des immeubles
+
+###### Article 517
+
+Les biens sont immeubles, ou par leur nature, ou par leur destination, ou par l'objet auquel ils s'appliquent.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-01-25
+
+	**Créé par**:
+
+	  - Loi n°1804-01-25 promulguée le 4 février 1804
+
+
+###### Article 518
+
+Les fonds de terre et les bâtiments sont immeubles par leur nature.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°2008-1086 du 23 octobre 2008 - art. 1 (V)
+	  - Code des postes et des communications électroni... - art. L55 (VD)
+	  - Code des postes et des communications électroni... - art. L58 (VD)
+	  - Ordonnance n°2016-492 du 21 avril 2016 - art. 1
+
+	**Codifié par**:
+
+	  - Loi n°1804-01-25
+
+	**Créé par**:
+
+	  - Loi n°1804-01-25 promulguée le 4 février 1804
+
+
+###### Article 519
+
+Les moulins à vent ou à eau, fixés sur piliers et faisant partie du bâtiment, sont aussi immeubles par leur nature.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Ordonnance n°2016-492 du 21 avril 2016 - art. 1
+	  - Code des postes et des communications électroni... - art. L58 (VD)
+
+	**Codifié par**:
+
+	  - Loi n°1804-01-25
+
+	**Créé par**:
+
+	  - Loi n°1804-01-25 promulguée le 4 février 1804
+
+
+###### Article 520
+
+Les récoltes pendantes par les racines et les fruits des arbres non encore recueillis sont pareillement immeubles.
+
+Dès que les grains sont coupés et les fruits détachés, quoique non enlevés, ils sont meubles.
+
+Si une partie seulement de la récolte est coupée, cette partie seule est meuble.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code rural - art. L342-1 (V)
+	  - Code rural - art. L342-12 (V)
+	  - Code rural - art. L342-3 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-01-25
+
+	**Créé par**:
+
+	  - Loi n°1804-01-25 promulguée le 4 février 1804
+
+
+###### Article 521
+
+Les coupes ordinaires des bois taillis ou de futaies mises en coupes réglées ne deviennent meubles qu'au fur et à mesure que
+les arbres sont abattus.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-01-25
+
+	**Créé par**:
+
+	  - Loi n°1804-01-25 promulguée le 4 février 1804
+
+
+###### Article 522
+
+Les animaux que le propriétaire du fonds livre au fermier ou au métayer pour la culture, estimés ou non, sont censés
+immeubles tant qu'ils demeurent attachés au fonds par l'effet de la convention.
+
+Ceux qu'il donne à cheptel à d'autres qu'au fermier ou métayer sont meubles.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-01-25
+
+	**Créé par**:
+
+	  - Loi n°1804-01-25 promulguée le 4 février 1804
+
+
+###### Article 523
+
+Les tuyaux servant à la conduite des eaux dans une maison ou autre héritage sont immeubles et font partie du fonds auquel ils
+sont attachés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-01-25
+
+	**Créé par**:
+
+	  - Loi n°1804-01-25 promulguée le 4 février 1804
+
+
+###### Article 524
+
+Les objets que le propriétaire d'un fonds y a placés pour le service et l'exploitation de ce fonds sont immeubles par
+destination.
+
+Ainsi, sont immeubles par destination, quand ils ont été placés par le propriétaire pour le service et l'exploitation du
+fonds :
+
+Les animaux attachés à la culture ;
+
+Les ustensiles aratoires ;
+
+Les semences données aux fermiers ou colons partiaires ;
+
+Les pigeons des colombiers ;
+
+Les lapins des garennes ;
+
+Les ruches à miel ;
+
+Les poissons des étangs ;
+
+Les pressoirs, chaudières, alambics, cuves et tonnes ;
+
+Les ustensiles nécessaires à l'exploitation des forges, papeteries et autres usines ;
+
+Les pailles et engrais.
+
+Sont aussi immeubles par destination, tous effets mobiliers que le propriétaire a attachés au fonds à perpétuelle demeure.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 75
+	  - Décret n°2017-456 du 29 mars 2017 - art. 14
+	  - Décret n°2017-456 du 29 mars 2017 - art. 15
+	  - Décret n°2017-456 du 29 mars 2017 - art. 19
+	  - Code civil - art. 2501 (M)
+	  - Code de l'urbanisme - art. *R421-17 (V)
+	  - Code de l'urbanisme - art. L313-1 (V)
+	  - Code de l'urbanisme - art. R*431-37 (V)
+	  - Code de l'urbanisme - art. R313-5 (V)
+	  - Code du patrimoine - art. L621-27 (VD)
+	  - Code du patrimoine - art. L621-9 (VD)
+	  - Code du patrimoine - art. L632-1 (V)
+	  - Code du travail - art. R4534-2 (VD)
+	  - Code général des impôts, CGI. - art. 1920 (VD)
+	  - Code rural - art. L342-1 (V)
+	  - Code rural - art. L342-12 (V)
+	  - Code rural - art. L342-3 (V)
+
+	**Cite**:
+
+	  - Code rural 402, 432, 433
+
+	**Codifié par**:
+
+	  - Loi n°1804-01-25
+
+	**Créé par**:
+
+	  - Loi n°1804-01-25 promulguée le 4 février 1804
+
+
+###### Article 525
+
+Le propriétaire est censé avoir attaché à son fonds des effets mobiliers à perpétuelle demeure, quand ils y sont scellés en
+plâtre ou à chaux ou à ciment, ou, lorsqu'ils ne peuvent être détachés sans être fracturés ou détériorés, ou sans briser ou
+détériorer la partie du fonds à laquelle ils sont attachés.
+
+Les glaces d'un appartement sont censées mises à perpétuelle demeure lorsque le parquet sur lequel elles sont attachées fait
+corps avec la boiserie.
+
+Il en est de même des tableaux et autres ornements.
+
+Quant aux statues, elles sont immeubles lorsqu'elles sont placées dans une niche pratiquée exprès pour les recevoir, encore
+qu'elles puissent être enlevées sans fracture ou détérioration.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 75
+	  - Décret n°2017-456 du 29 mars 2017 - art. 14
+	  - Décret n°2017-456 du 29 mars 2017 - art. 15
+	  - Décret n°2017-456 du 29 mars 2017 - art. 19
+	  - Code général des impôts, CGI. - art. 14 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-01-25
+
+	**Créé par**:
+
+	  - Loi n°1804-01-25 promulguée le 4 février 1804
+
+
+###### Article 526
+
+Sont immeubles, par l'objet auquel ils s'appliquent :
+
+L'usufruit des choses immobilières ;
+
+Les servitudes ou services fonciers ;
+
+Les actions qui tendent à revendiquer un immeuble.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-01-25
+
+	**Créé par**:
+
+	  - Loi n°1804-01-25 promulguée le 4 février 1804
+
+
+### Chapitre II : Des meubles
+
+###### Article 527
+
+Les biens sont meubles par leur nature ou par la détermination de la loi.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-01-25
+
+	**Créé par**:
+
+	  - Loi n°1804-01-25 promulguée le 4 février 1804
+
+
+###### Article 528
+
+Sont meubles par leur nature, les corps qui peuvent se transporter d'un lieu à un autre, soit qu'ils se meuvent par eux-
+mêmes, comme les animaux, soit qu'ils ne puissent changer de place que par l'effet d'une force étrangère, comme les choses
+inanimées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-01-25
+
+	**Créé par**:
+
+	  - Loi n°1804-01-25 promulguée le 4 février 1804
+
+	**Cité par**:
+
+	  - Code de la consommation - art. L221-1 (VD)
+	  - Loi n°1817-01-02 du 2 janvier 1817 - art. 2 (V)
+
+
+###### Article 529
+
+Sont meubles par la détermination de la loi les obligations et actions qui ont pour objet des sommes exigibles ou des effets
+mobiliers, les actions ou intérêts dans les compagnies de finance, de commerce ou d'industrie, encore que des immeubles
+dépendant de ces entreprises appartiennent aux compagnies. Ces actions ou intérêts sont réputés meubles à l'égard de chaque
+associé seulement, tant que dure la société.
+
+Sont aussi meubles par la détermination de la loi les rentes perpétuelles ou viagères, soit sur l'Etat, soit sur des
+particuliers.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°72-1137 du 22 décembre 1972 - art. 7 (Ab)
+	  - Code de la consommation - art. L121-10 (V)
+	  - Code de la consommation - art. L122-10 (VT)
+	  - Loi n°1817-01-02 du 2 janvier 1817 - art. 2 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-01-25
+
+	**Créé par**:
+
+	  - Loi n°1804-01-25 promulguée le 4 février 1804
+
+
+###### Article 530
+
+Toute rente établie à perpétuité pour le prix de la vente d'un immeuble, ou comme condition de la cession à titre onéreux ou
+gratuit d'un fonds immobilier, est essentiellement rachetable.
+
+Il est néanmoins permis au créancier de régler les clauses et conditions du rachat.
+
+Il lui est aussi permis de stipuler que la rente ne pourra lui être remboursée qu'après un certain terme, lequel ne peut
+jamais excéder trente ans ; toute stipulation contraire est nulle.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-01-25
+
+	**Créé par**:
+
+	  - Loi n°1804-01-25 promulguée le 4 février 1804
+
+
+###### Article 531
+
+Les bateaux, bacs, navires, moulins et bains sur bateaux, et généralement toutes usines non fixées par des piliers, et ne
+faisant point partie de la maison, sont meubles : la saisie de quelques-uns de ces objets peut cependant, à cause de leur
+importance, être soumises à des formes particulières, ainsi qu'il sera expliqué dans le code de la procédure civile.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-01-25
+
+	**Créé par**:
+
+	  - Loi n°1804-01-25 promulguée le 4 février 1804
+
+
+###### Article 532
+
+Les matériaux provenant de la démolition d'un édifice, ceux assemblés pour en construire un nouveau, sont meubles jusqu'à ce
+qu'ils soient employés par l'ouvrier dans une construction.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-01-25
+
+	**Créé par**:
+
+	  - Loi n°1804-01-25 promulguée le 4 février 1804
+
+
+###### Article 533
+
+Le mot "meuble", employé seul dans les dispositions de la loi ou de l'homme, sans autre addition ni désignation, ne comprend
+pas l'argent comptant, les pierreries, les dettes actives, les livres, les médailles, les instruments des sciences, des arts
+et métiers, le linge de corps, les chevaux, équipages, armes, grains, vins, foins et autres denrées ; il ne comprend pas
+aussi ce qui fait l'objet d'un commerce.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-01-25
+
+	**Créé par**:
+
+	  - Loi n°1804-01-25 promulguée le 4 février 1804
+
+
+###### Article 534
+
+Les mots "meubles meublants" ne comprennent que les meubles destinés à l'usage et à l'ornement des appartements, comme
+tapisseries, lits, sièges, glaces, pendules, tables, porcelaines et autres objets de cette nature.
+
+Les tableaux et les statues qui font partie du meuble d'un appartement y sont aussi compris, mais non les collections de
+tableaux qui peuvent être dans les galeries ou pièces particulières.
+
+Il en est de même des porcelaines : celles seulement qui font partie de la décoration d'un appartement sont comprises sous la
+dénomination de "meubles meublants".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-01-25
+
+	**Créé par**:
+
+	  - Loi n°1804-01-25 promulguée le 4 février 1804
+
+
+###### Article 535
+
+L'expression "biens meubles", celle de "mobilier ou d'effets mobiliers", comprennent généralement tout ce qui est censé
+meuble d'après les règles ci-dessus établies.
+
+La vente ou le don d'une maison meublée ne comprend que les meubles meublants.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-01-25
+
+	**Créé par**:
+
+	  - Loi n°1804-01-25 promulguée le 4 février 1804
+
+
+###### Article 536
+
+La vente ou le don d'une maison, avec tout ce qui s'y trouve, ne comprend pas l'argent comptant, ni les dettes actives et
+autres droits dont les titres peuvent être déposés dans la maison ; tous les autres effets mobiliers y sont compris.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-01-25
+
+	**Créé par**:
+
+	  - Loi n°1804-01-25 promulguée le 4 février 1804
+
+
+### Chapitre III : Des biens dans leurs rapports avec ceux qui les possèdent
+
+###### Article 537
+
+Les particuliers ont la libre disposition des biens qui leur appartiennent, sous les modifications établies par les lois.
+
+Les biens qui n'appartiennent pas à des particuliers sont administrés et ne peuvent être aliénés que dans les formes et
+suivant les règles qui leur sont particulières.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code général de la propriété des personnes publ... - art. L2221-1 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-01-25
+
+	**Créé par**:
+
+	  - Loi n°1804-01-25 promulguée le 4 février 1804
+
+
+###### Article 538
+
+Les chemins, routes et rues à la charge de l'Etat, les fleuves et rivières navigables ou flottables, les rivages, lais et
+relais de la mer, les ports, les havres, les rades, et généralement toutes les portions du territoire français qui ne sont
+pas susceptibles d'une propriété privée, sont considérés comme des dépendances du domaine public.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-01-25
+
+	**Créé par**:
+
+	  - Loi n°1804-01-25 promulguée le 4 février 1804
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
+
+	**Cité par**:
+
+	  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V)
+	  - Code civil - art. 644 (V)
+
+
+###### Article 539
+
+Tous les biens vacants et sans maître, et ceux des personnes qui décèdent sans héritiers, ou dont les successions sont
+abandonnées, appartiennent au domaine public.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code du domaine de l'Etat - art. L23 (Ab)
+	  - Code du domaine de l'Etat - art. L25 (M)
+	  - Code du domaine de l'Etat - art. L27 bis (M)
+	  - Code général de la propriété des personnes publ... - art. L1122-1 (V)
+	  - Code rural - art. L136-6 (V)
+	  - Loi n°90-85 du 23 janvier 1990 - art. 18 (Ab)
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 9
+
+	**Codifié par**:
+
+	  - Loi n°1804-01-25
+
+	**Créé par**:
+
+	  - Loi n°1804-01-25 promulguée le 4 février 1804
+
+
+###### Article 540
+
+Les portes, murs, fossés, remparts des places de guerre et des forteresses font aussi partie du domaine public.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-01-25
+
+	**Créé par**:
+
+	  - Loi n°1804-01-25 promulguée le 4 février 1804
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
+
+	**Cité par**:
+
+	  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V)
+
+
+###### Article 541
+
+Il en est de même des terrains, des fortifications et remparts des places qui ne sont plus places de guerre : ils
+appartiennent à l'Etat s'ils n'ont été valablement aliénés ou si la propriété n'en a pas été prescrite contre lui.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-01-25
+
+	**Créé par**:
+
+	  - Loi n°1804-01-25 promulguée le 4 février 1804
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
+
+	**Cité par**:
+
+	  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V)
+
+
+###### Article 542
+
+Les biens communaux sont ceux à la propriété ou au produit desquels les habitants d'une ou plusieurs communes ont un droit
+acquis.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-01-25
+
+	**Créé par**:
+
+	  - Loi n°1804-01-25 promulguée le 4 février 1804
+
+
+###### Article 543
+
+On peut avoir sur les biens, ou un droit de propriété, ou un simple droit de jouissance, ou seulement des services fonciers à
+prétendre.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi du 1er juin 1924 - art. 37 (V)
+	  - Décret n°2009-1193 du 7 octobre 2009 - art. 12 (V)
+	  - Décret n°2009-1193 du 7 octobre 2009 - art. 17 (V)
+	  - Décret n°2009-1193 du 7 octobre 2009 - art. 20 (V)
+	  - Décret n°2009-1193 du 7 octobre 2009 - art. 7 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-01-25
+
+	**Créé par**:
+
+	  - Loi n°1804-01-25 promulguée le 4 février 1804
+
+
+## Titre II : De la propriété
+
+### Chapitre II : Du droit d'accession sur ce qui s'unit et s'incorpore à la chose
+
+###### Article 551
+
+Tout ce qui s'unit et s'incorpore à la chose appartient au propriétaire, suivant les règles qui seront ci-après établies.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°1804-01-25 promulguée le 4 février 1804
+
+	**Codifié par**:
+
+	  - Loi n°1804-01-27
+
+
+#### Section 1 : Du droit d'accession relativement aux choses immobilières
+
+###### Article 564
+
+Les pigeons, lapins, poissons, qui passent dans un autre colombier, garenne ou étang, appartiennent au propriétaire de ces
+objets, pourvu qu'ils n'y aient point été attirés par fraude et artifice.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code civil - art. 2296 (T)
+	  - Code civil - art. 2502 (V)
+	  - Code rural - art. L911-4 (T)
+	  - Code rural ancien - art. 202 (Ab)
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code rural - art. L211-4 (V)
+
+	**Créé par**:
+
+	  - Loi n°1804-01-25 promulguée le 4 février 1804
+
+	**Codifié par**:
+
+	  - Loi n°1804-01-27
+
 
 ## Titre IV : Des servitudes ou services fonciers
 

@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1999-01-07
+Version Consolidée au 1999-07-10
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -61186,7 +61186,7 @@ famille et à la natalité françaises, pour l'année échue et l'année courant
 
 La créance du conjoint survivant instituée par l'article 14 de la loi n° 89-1008 du 31 décembre 1989 relative au
 développement des entreprises commerciales et artisanales et à l'amélioration de leur environnement économique, juridique et
-social.
+social et la créance du conjoint survivant instituée par l'article L. 321-21-1 du code rural.
 
 Les rémunérations pour les six derniers mois des salariés, apprentis et l'indemnité due par l'employeur aux jeunes en stage
 d'initiation à la vie professionnelle, telle que prévue à l'article L. 980-11-1 du code du travail ;
@@ -61223,6 +61223,29 @@ l'égard de leurs adhérents, pour les cotisations que ceux-ci se sont engagés 
 familiales et de la péréquation des charges résultant du versement desdites prestations.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural L321-21-1
+	  - Décret n°1939-07-29 art. 63
+	  - Loi n°89-1008 1989-12-31 art. 14
+	  - Code du travail - art. L122-14-4 (M)
+	  - Code du travail - art. L122-14-5 (Ab)
+	  - Code du travail - art. L122-3-4 (M)
+	  - Code du travail - art. L122-3-8 (M)
+	  - Code du travail - art. L122-32-6 (M)
+	  - Code du travail - art. L122-32-7 (AbD)
+	  - Code du travail - art. L122-32-9 (AbD)
+	  - Code du travail - art. L122-8 (M)
+	  - Code du travail - art. L122-9 (Ab)
+	  - Code du travail - art. L124-4-4 (M)
+	  - Code du travail - art. L143-10 (M)
+	  - Code du travail - art. L143-11 (M)
+	  - Code du travail - art. L321-6 (T)
+	  - Code du travail - art. L742-6 (V)
+	  - Code du travail - art. L751-15 (AbD)
+	  - Code du travail - art. L761-5 (AbD)
+	  - Code du travail 74, L122-3-8, L122-8, L122-9, L122-14-4, L122-14-5, L122-32-7, L122-32-9, L122-3-4, L124-4-4, L122-32-6, L143-10, L143-11, L742-6, L751-15, L761-5, L761- L980-11-1, L321-6
 
 	**Cité par**:
 
@@ -61284,39 +61307,17 @@ familiales et de la péréquation des charges résultant du versement desdites p
 	  - Loi n°1807-09-05 du 5 septembre 1807 - art. 2 (M)
 	  - Loi n°1895-12-27 du 27 décembre 1895 - art. 4 (M)
 
-	**Cite**:
+	**Codifié par**:
 
-	  - Loi n°89-1008 1989-12-31 art. 14
-	  - Code du travail - art. L122-14-4 (M)
-	  - Code du travail - art. L122-14-5 (Ab)
-	  - Code du travail - art. L122-3-4 (M)
-	  - Code du travail - art. L122-3-8 (M)
-	  - Code du travail - art. L122-32-6 (M)
-	  - Code du travail - art. L122-32-7 (AbD)
-	  - Code du travail - art. L122-32-9 (AbD)
-	  - Code du travail - art. L122-8 (M)
-	  - Code du travail - art. L122-9 (Ab)
-	  - Code du travail - art. L124-4-4 (M)
-	  - Code du travail - art. L143-10 (M)
-	  - Code du travail - art. L143-11 (M)
-	  - Code du travail - art. L321-6 (T)
-	  - Code du travail - art. L742-6 (V)
-	  - Code du travail - art. L751-15 (AbD)
-	  - Code du travail - art. L761-5 (AbD)
-	  - Code du travail 74, L122-3-8, L122-8, L122-9, L122-14-4, L122-14-5, L122-32-7, L122-32-9, L122-3-4, L124-4-4, L122-32-6, L143-10, L143-11, L742-6, L751-15, L761-5, L761- L980-11-1, L321-6
-	  - Décret n°1939-07-29 art. 63
+	  - Loi n°1804-03-19
 
 	**Modifié par**:
 
-	  - Loi n°90-9 du 2 janvier 1990 - art. 6 () JORF 4 Janvier 1990
+	  - Loi n°99-574 du 9 juillet 1999 - art. 36 () JORF 10 juillet 1999
 
 	**Nouveaux textes**:
 
 	  - Code civil - art. 2331 (M)
-
-	**Codifié par**:
-
-	  - Loi n°1804-03-19
 
 
 #### Section 2 : Des privilèges spéciaux sur les immeubles.
@@ -61422,49 +61423,6 @@ droits qu'ils tiennent de ce contrat.
 
 #### Section 3 : Des privilèges généraux sur les immeubles.
 
-###### Article 2105
-
-Lorsqu'à défaut de mobilier les créanciers privilégiés énoncés en l'article précédent se présentent pour être payés sur le
-prix d'un immeuble en concurrence avec les autres créanciers privilégiés sur l'immeuble, ils priment ces derniers et exercent
-leurs droits dans l'ordre indiqué audit article.
-
-**Nota:**
-
-
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°55-22 1955-01-04 JORF 7 janvier 1955 rectificatif JORF 27 janvier 1955
-
-	**Transféré par**:
-
-	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
-
-	**Cite**:
-
-	  - Code civil - art. 2104 (M)
-
-	**Nouveaux textes**:
-
-	  - Code civil - art. 2376 (V)
-
-	**Codifié par**:
-
-	  - Loi n°1804-03-19
-
-	**Créé par**:
-
-	  - Loi n°1804-03-19 promulguée le 29 mars 1804
-
-	**Cité par**:
-
-	  - Loi n°1933-01-14 du 14 janvier 1933 - art. 32 (M)
-
-
-#### Section III : Des privilèges généraux sur les immeubles
-
 ###### Article 2104
 
 Les créances privilégiées sur la généralité des immeubles sont :
@@ -61481,7 +61439,7 @@ famille et à la natalité françaises, pour l'année échue et l'année courant
 
 La créance du conjoint survivant instituée par l'article 14 de la loi n° 89-1008 du 31 décembre 1989 relative au
 développement des entreprises commerciales et artisanales et à l'amélioration de leur environnement économique, juridique et
-social.
+social et la créance du conjoint survivant instituée par l'article L. 321-21-1 du code rural.
 
 Les rémunérations pour les six derniers mois des salariés, apprentis et l'indemnité due par l'employeur aux jeunes en stage
 d'initiation à la vie professionnelle, telle que prévue à l'article L. 980-11-1 du code du travail ;
@@ -61501,6 +61459,10 @@ au plafond visé à l'article L. 143-10 du code du travail et pour le quart de l
 
 Les indemnités dues, le cas échéant, aux salariés en application des articles L. 122-3-8, deuxième alinéa, L. 122-14-4, L.
 122-14-5, deuxième alinéa, L. 122-32-7 et L. 122-32-9 du code du travail.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
@@ -61557,19 +61519,66 @@ Les indemnités dues, le cas échéant, aux salariés en application des article
 	  - Code du travail - art. L761-5 (AbD)
 	  - Code du travail - art. L761-7 (AbD)
 	  - Code du travail - art. L980-11-1 (M)
+	  - Code rural L321-21-1
 	  - Décret n°1939-07-29 art. 63
 
 	**Modifié par**:
 
-	  - Loi n°90-9 du 2 janvier 1990 - art. 6 () JORF 4 Janvier 1990
+	  - Loi n°99-574 du 9 juillet 1999 - art. 36 () JORF 10 juillet 1999
+
+	**Transféré par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
 
 	**Nouveaux textes**:
 
 	  - Code civil - art. 2375 (M)
+	  - Code civil - art. 2375 (V)
 
 	**Codifié par**:
 
 	  - Loi n°1804-03-19
+
+
+###### Article 2105
+
+Lorsqu'à défaut de mobilier les créanciers privilégiés énoncés en l'article précédent se présentent pour être payés sur le
+prix d'un immeuble en concurrence avec les autres créanciers privilégiés sur l'immeuble, ils priment ces derniers et exercent
+leurs droits dans l'ordre indiqué audit article.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°55-22 1955-01-04 JORF 7 janvier 1955 rectificatif JORF 27 janvier 1955
+
+	**Transféré par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
+
+	**Cite**:
+
+	  - Code civil - art. 2104 (M)
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2376 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-19
+
+	**Créé par**:
+
+	  - Loi n°1804-03-19 promulguée le 29 mars 1804
+
+	**Cité par**:
+
+	  - Loi n°1933-01-14 du 14 janvier 1933 - art. 32 (M)
 
 
 #### Section 4 : Comment se conservent les privilèges.

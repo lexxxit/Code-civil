@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1998-05-19
+Version Consolidée au 1998-05-21
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -44400,6 +44400,498 @@ d'entretien ou par le vice de sa construction.
 	**Créé par**:
 
 	  - Loi n°1804-02-09 promulguée le 19 février 1804
+
+
+## Titre IV bis : De la responsabilité du fait des produits défectueux
+
+###### Article 1386-1
+
+Le producteur est responsable du dommage causé par un défaut de son produit, qu'il soit ou non lié par un contrat avec la
+victime.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-09
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°98-389 1998-05-19 art. 21 *modalités d'application* et art. 22 *champ d'application territoriale*
+
+	**Créé par**:
+
+	  - Loi n°98-389 du 19 mai 1998 - art. 1 () JORF 21 mai 1998
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 4
+
+
+###### Article 1386-2
+
+Les dispositions du présent titre s'appliquent à la réparation du dommage qui résulte d'une atteinte à la personne ou à un
+bien autre que le produit défectueux lui-même.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°98-389 1998-05-19 art. 21 *modalités d'application* et art. 22 *champ d'application territoriale*
+
+	**Créé par**:
+
+	  - Loi n°98-389 du 19 mai 1998 - art. 1 () JORF 21 mai 1998
+
+	**Cité par**:
+
+	  - Décret n°2005-113 du 11 février 2005 - art. 1 (M)
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-09
+
+
+###### Article 1386-3
+
+Est un produit tout bien meuble, même s'il est incorporé dans un immeuble, y compris les produits du sol, de l'élevage, de la
+chasse et de la pêche. L'électricité est considérée comme un produit.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-09
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°98-389 1998-05-19 art. 21 *modalités d'application* et art. 22 *champ d'application territoriale*
+
+	**Créé par**:
+
+	  - Loi n°98-389 du 19 mai 1998 - art. 1 () JORF 21 mai 1998
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 4
+
+
+###### Article 1386-4
+
+Un produit est défectueux au sens du présent titre lorsqu'il n'offre pas la sécurité à laquelle on peut légitimement
+s'attendre.
+
+Dans l'appréciation de la sécurité à laquelle on peut légitimement s'attendre, il doit être tenu compte de toutes les
+circonstances et notamment de la présentation du produit, de l'usage qui peut en être raisonnablement attendu et du moment de
+sa mise en circulation.
+
+Un produit ne peut être considéré comme défectueux par le seul fait qu'un autre, plus perfectionné, a été mis postérieurement
+en circulation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-09
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°98-389 1998-05-19 art. 21 *modalités d'application* et art. 22 *champ d'application territoriale*
+
+	**Créé par**:
+
+	  - Loi n°98-389 du 19 mai 1998 - art. 1 () JORF 21 mai 1998
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 4
+
+
+###### Article 1386-5
+
+Un produit est mis en circulation lorsque le producteur s'en est dessaisi volontairement.
+
+Un produit ne fait l'objet que d'une seule mise en circulation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-09
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°98-389 1998-05-19 art. 21 *modalités d'application* et art. 22 *champ d'application territoriale*
+
+	**Créé par**:
+
+	  - Loi n°98-389 du 19 mai 1998 - art. 1 () JORF 21 mai 1998
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 4
+
+
+###### Article 1386-6
+
+Est producteur, lorsqu'il agit à titre professionnel, le fabricant d'un produit fini, le producteur d'une matière première,
+le fabricant d'une partie composante. 
+
+Est assimilée à un producteur pour l'application du présent titre toute personne agissant à titre professionnel : 
+
+1° Qui se présente comme producteur en apposant sur le produit son nom, sa marque ou un autre signe distinctif ; 
+
+2° Qui importe un produit dans la Communauté européenne en vue d'une vente, d'une location, avec ou sans promesse de vente,
+ou de toute autre forme de distribution. 
+
+Ne sont pas considérées comme producteurs, au sens du présent titre, les personnes dont la responsabilité peut être
+recherchée sur le fondement des articles 1792 à 1792-6 et 1646-1.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-09
+
+	**Créé par**:
+
+	  - Loi n°98-389 du 19 mai 1998 - art. 1 () JORF 21 mai 1998
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 4
+
+	**Cite**:
+
+	  - Code de la consommation - art. L112-6 (V)
+	  - Code civil - art. 1646-1
+	  - Code civil - art. 1792
+
+
+###### Article 1386-7
+
+Le vendeur, le loueur, à l'exception du crédit-bailleur ou du loueur assimilable au crédit-bailleur, ou tout autre
+fournisseur professionnel est responsable du défaut de sécurité du produit dans les mêmes conditions que le producteur.
+
+Le recours du fournisseur contre le producteur obéit aux mêmes règles que la demande émanant de la victime directe du défaut.
+Toutefois, il doit agir dans l'année suivant la date de sa citation en justice.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-09
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°98-389 1998-05-19 art. 21 *modalités d'application* et art. 22 *champ d'application territoriale*
+
+	**Créé par**:
+
+	  - Loi n°98-389 du 19 mai 1998 - art. 1 () JORF 21 mai 1998
+	  - Loi n°98-389 du 19 mai 1998 - art. 7 () JORF 21 mai 1998
+
+	**Cité par**:
+
+	  - Loi n°2006-406 du 5 avril 2006 - art. 2 (V)
+
+
+###### Article 1386-8
+
+En cas de dommage causé par le défaut d'un produit incorporé dans un autre, le producteur de la partie composante et celui
+qui a réalisé l'incorporation sont solidairement responsables.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-09
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°98-389 1998-05-19 art. 21 *modalités d'application* et art. 22 *champ d'application territoriale*
+
+	**Créé par**:
+
+	  - Loi n°98-389 du 19 mai 1998 - art. 1 () JORF 21 mai 1998
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 4
+
+
+###### Article 1386-9
+
+Le demandeur doit prouver le dommage, le défaut et le lien de causalité entre le défaut et le dommage.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-09
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°98-389 1998-05-19 art. 21 *modalités d'application* et art. 22 *champ d'application territoriale*
+
+	**Créé par**:
+
+	  - Loi n°98-389 du 19 mai 1998 - art. 1 () JORF 21 mai 1998
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 4
+
+
+###### Article 1386-10
+
+Le producteur peut être responsable du défaut alors même que le produit a été fabriqué dans le respect des règles de l'art ou
+de normes existantes ou qu'il a fait l'objet d'une autorisation administrative.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-09
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°98-389 1998-05-19 art. 21 *modalités d'application* et art. 22 *champ d'application territoriale*
+
+	**Créé par**:
+
+	  - Loi n°98-389 du 19 mai 1998 - art. 1 () JORF 21 mai 1998
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 4
+
+
+###### Article 1386-11
+
+Le producteur est responsable de plein droit à moins qu'il ne prouve :
+
+1° Qu'il n'avait pas mis le produit en circulation ;
+
+2° Que, compte tenu des circonstances, il y a lieu d'estimer que le défaut ayant causé le dommage n'existait pas au moment où
+le produit a été mis en circulation par lui ou que ce défaut est né postérieurement ;
+
+3° Que le produit n'a pas été destiné à la vente ou à toute autre forme de distribution ;
+
+4° Que l'état des connaissances scientifiques et techniques, au moment où il a mis le produit en circulation, n'a pas permis
+de déceler l'existence du défaut ;
+
+5° Ou que le défaut est dû à la conformité du produit avec des règles impératives d'ordre législatif ou réglementaire.
+
+Le producteur de la partie composante n'est pas non plus responsable s'il établit que le défaut est imputable à la conception
+du produit dans lequel cette partie a été incorporée ou aux instructions données par le producteur de ce produit.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°98-389 1998-05-19 art. 21 *modalités d'application* et art. 22 *champ d'application territoriale*
+
+	**Créé par**:
+
+	  - Loi n°98-389 du 19 mai 1998 - art. 1 () JORF 21 mai 1998
+
+	**Cité par**:
+
+	  - Loi n°2013-316 du 16 avril 2013 - art. 13 (V)
+	  - Code civil - art. 1386-12 (Ab)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 4
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-09
+
+
+###### Article 1386-12
+
+Le producteur ne peut invoquer la cause d'exonération prévue au 4° de l'article 1386-11 lorsque le dommage a été causé par un
+élément du corps humain ou par les produits issus de celui-ci.
+
+Le producteur ne peut invoquer les causes d'exonération prévu es aux 4° et 5° de l'article 1386-11 si, en présence d'un
+défaut qui s'est révélé dans un délai de dix ans après la mise en circulation du produit, il n'a pas pris les dispositions
+propres à en prévenir les conséquences dommageables.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-09
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°98-389 1998-05-19 art. 21 *modalités d'application* et art. 22 *champ d'application territoriale*
+
+	**Créé par**:
+
+	  - Loi n°98-389 du 19 mai 1998 - art. 1 () JORF 21 mai 1998
+	  - Loi n°98-389 du 19 mai 1998 - art. 13 () JORF 21 mai 1998
+
+	**Cite**:
+
+	  - Code civil - art. 1386-11 (V)
+
+
+###### Article 1386-13
+
+La responsabilité du producteur peut être réduite ou supprimée, compte tenu de toutes les circonstances, lorsque le dommage
+est causé conjointement par un défaut du produit et par la faute de la victime ou d'une personne dont la victime est
+responsable.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-09
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°98-389 1998-05-19 art. 21 *modalités d'application* et art. 22 *champ d'application territoriale*
+
+	**Créé par**:
+
+	  - Loi n°98-389 du 19 mai 1998 - art. 1 () JORF 21 mai 1998
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 4
+
+
+###### Article 1386-14
+
+La responsabilité du producteur envers la victime n'est pas réduite par le fait d'un tiers ayant concouru à la réalisation du
+dommage.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-09
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°98-389 1998-05-19 art. 21 *modalités d'application* et art. 22 *champ d'application territoriale*
+
+	**Créé par**:
+
+	  - Loi n°98-389 du 19 mai 1998 - art. 1 () JORF 21 mai 1998
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 4
+
+
+###### Article 1386-15
+
+Les clauses qui visent à écarter ou à limiter la responsabilité du fait des produits défectueux sont interdites et réputées
+non écrites.
+
+Toutefois, pour les dommages causés aux biens qui ne sont pas utilisés par la victime principalement pour son usage ou sa
+consommation privée, les clauses stipulées entre professionnels sont valables.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-09
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°98-389 1998-05-19 art. 21 *modalités d'application* et art. 22 *champ d'application territoriale*
+
+	**Créé par**:
+
+	  - Loi n°98-389 du 19 mai 1998 - art. 1 () JORF 21 mai 1998
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 4
+
+
+###### Article 1386-16
+
+Sauf faute du producteur, la responsabilité de celui-ci, fondée sur les dispositions du présent titre, est éteinte dix ans
+après la mise en circulation du produit même qui a causé le dommage à moins que, durant cette période, la victime n'ait
+engagé une action en justice.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°98-389 1998-05-19 art. 21 *modalités d'application* et art. 22 *champ d'application territoriale*
+
+	**Créé par**:
+
+	  - Loi n°98-389 du 19 mai 1998 - art. 1 () JORF 21 mai 1998
+
+	**Cité par**:
+
+	  - Arrêté du 5 février 2008 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-09
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 4
+
+
+###### Article 1386-17
+
+L'action en réparation fondée sur les dispositions du présent titre se prescrit dans un délai de trois ans à compter de la
+date à laquelle le demandeur a eu ou aurait dû avoir connaissance du dommage, du défaut et de l'identité du producteur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-09
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°98-389 1998-05-19 art. 21 *modalités d'application* et art. 22 *champ d'application territoriale*
+
+	**Créé par**:
+
+	  - Loi n°98-389 du 19 mai 1998 - art. 1 () JORF 21 mai 1998
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 4
+
+
+###### Article 1386-18
+
+Les dispositions du présent titre ne portent pas atteinte aux droits dont la victime d'un dommage peut se prévaloir au titre
+du droit de la responsabilité contractuelle ou extracontractuelle ou au titre d'un régime spécial de responsabilité.
+
+Le producteur reste responsable des conséquences de sa faute et de celle des personnes dont il répond.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-09
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°98-389 1998-05-19 art. 21 *modalités d'application* et art. 22 *champ d'application territoriale*
+
+	**Créé par**:
+
+	  - Loi n°98-389 du 19 mai 1998 - art. 1 () JORF 21 mai 1998
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 4
 
 
 ## Titre V : Du contrat de mariage et des régimes matrimoniaux

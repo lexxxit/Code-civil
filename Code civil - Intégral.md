@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1998-07-01
+Version Consolidée au 1998-07-31
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -18147,19 +18147,16 @@ les a rendues soit d'office, soit à la requête des père et mère conjointemen
 
 ###### Article 375-7
 
-Les père et mère dont l'enfant a donné lieu à une mesure d'assistance éducative, conservent sur lui leur autorité parentale
-et en exercent tous les attributs qui ne sont pas inconciliables avec l'application de la mesure. Ils ne peuvent émanciper
+Les père et mère dont l'enfant a donné lieu à une mesure d'assistance éducative conservent sur lui leur autorité parentale et
+en exercent tous les attributs qui ne sont pas inconciliables avec l'application de la mesure. Ils ne peuvent émanciper
 l'enfant sans autorisation du juge des enfants, tant que la mesure d'assistance éducative reçoit application.
 
 S'il a été nécessaire de placer l'enfant hors de chez ses parents, ceux-ci conservent un droit de correspondance et un droit
 de visite. Le juge en fixe les modalités et peut même, si l'intérêt de l'enfant l'exige, décider que l'exercice de ces
-droits, ou de l'un d'eux, sera provisoirement suspendu.
+droits, ou de l'un d'eux, sera provisoirement suspendu. Le juge peut indiquer que le lieu de placement de l'enfant doit être
+recherché afin de faciliter, autant que possible, l'exercice du droit de visite par le ou les parents.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°70-459 du 4 juin 1970 - art. 1 () JORF 5 juin 1970 en vigueur le 1er janvier 1971
 
 	**Liens**:
 
@@ -18179,6 +18176,10 @@ droits, ou de l'un d'eux, sera provisoirement suspendu.
 	  - Code de la famille et de l'aide sociale. - art. 95 (M)
 	  - Code de procédure civile - art. 1199-2 (V)
 	  - Code de procédure pénale - art. 230-19 (V)
+
+	**Modifié par**:
+
+	  - Loi n°98-657 du 29 juillet 1998 - art. 135 () JORF 31 juillet 1998
 
 	**Codifié par**:
 
@@ -58760,19 +58761,28 @@ il a été contracté.
 Le cautionnement indéfini d'une obligation principale s'étend à tous les accessoires de la dette, même aux frais de la
 première demande, et à tous ceux postérieurs à la dénonciation qui en est faite à la caution.
 
+Lorsque ce cautionnement est contracté par une personne physique, celle-ci est informée par le créancier de l'évolution du
+montant de la créance garantie et de ces accessoires au moins annuellement à la date convenue entre les parties ou, à défaut,
+à la date anniversaire du contrat, sous peine de déchéance de tous les accessoires de la dette, frais et pénalités.
+
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°98-657 du 29 juillet 1998 - art. 101 () JORF 31 juillet 1998
+
+	**Transféré par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 5 () JORF 24 mars 2006
 
 	**Nouveaux textes**:
 
+	  - Code civil - art. 2293 (T)
 	  - Code civil - art. 2293 (V)
 
 	**Codifié par**:
 
 	  - Loi n°1804-02-14
-
-	**Créé par**:
-
-	  - Loi n°1804-02-14 promulguée le 24 février 1804
 
 
 ###### Article 2017
@@ -59008,6 +59018,42 @@ possession du débiteur.
 	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 5 () JORF 24 mars 2006
 
 
+###### Article 2024
+
+Toutes les fois que la caution a fait l'indication de biens autorisée par l'article précédent, et qu'elle a fourni les
+deniers suffisants pour la discussion, le créancier est, jusqu'à concurrence des biens indiqués, responsable à l'égard de la
+caution, de l'insolvabilité du débiteur principal survenue par le défaut de poursuites. En toute hypothèse, le montant des
+dettes résultant du cautionnement ne peut avoir pour effet de priver la personne physique qui s'est portée caution d'un
+minimum de ressources fixé à l'article L. 331-2 du code de la consommation.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°98-657 du 29 juillet 1998 - art. 103 () JORF 31 juillet 1998
+
+	**Transféré par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 5 () JORF 24 mars 2006
+
+	**Cite**:
+
+	  - Code de la consommation - art. L331-2 (M)
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2301 (T)
+	  - Code civil - art. 2301 (V)
+
+	**Cité par**:
+
+	  - Code du travail - art. R124-16 (M)
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-14
+
+
 ###### Article 2025
 
 Lorsque plusieurs personnes se sont rendues cautions d'un même débiteur pour une même dette, elles sont obligées chacune à
@@ -59085,33 +59131,6 @@ même antérieurement au temps où il l'a ainsi consentie, des cautions insolvab
 	**Transféré par**:
 
 	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 5 () JORF 24 mars 2006
-
-
-#### Section 1 : De l'effet du cautionnement entre le créancier et la caution.
-
-###### Article 2024
-
-Toutes les fois que la caution a fait l'indication de biens autorisée par l'article précédent, et qu'elle a fourni les
-deniers suffisants pour la discussion, le créancier est, jusqu'à concurrence des biens indiqués, responsable à l'égard de la
-caution, de l'insolvabilité du débiteur principal survenue par le défaut de poursuites.
-
-**Liens relatifs à cet article**
-
-	**Nouveaux textes**:
-
-	  - Code civil - art. 2301 (V)
-
-	**Cité par**:
-
-	  - Code du travail - art. R124-16 (M)
-
-	**Codifié par**:
-
-	  - Loi n°1804-02-14
-
-	**Créé par**:
-
-	  - Loi n°1804-02-14 promulguée le 24 février 1804
 
 
 #### Section 2 : De l'effet du cautionnement entre le débiteur et la caution.

@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 2000-01-01
+Version Consolidée au 2000-03-14
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -43112,10 +43112,39 @@ obligation.
 	  - Loi n°1804-02-07 promulguée le 17 février 1804
 
 
-###### Article 1316
+###### Article 1315-1
 
 Les règles qui concernent la preuve littérale, la preuve testimoniale, les présomptions, l'aveu de la partie et le serment,
 sont expliquées dans les sections suivantes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Transféré par**:
+
+	  - Loi n°2000-30 2000-03-13 art. 1 JORF 14 mars 2000
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
+
+	**Anciens textes**:
+
+	  - Code civil - art. 1316 (T)
+	  - Code civil 1316 (ancienne version)
+
+
+#### Section 1 : De la preuve littérale.
+
+##### Paragraphe 1 : Dispositions générales.
+
+###### Article 1316
+
+La preuve littérale, ou preuve par écrit, résulte d'une suite de lettres, de caractères, de chiffres ou de tous autres signes
+ou symboles dotés d'une signification intelligible, quels que soient leur support et leurs modalités de transmission.
 
 **Liens relatifs à cet article**
 
@@ -43132,9 +43161,54 @@ sont expliquées dans les sections suivantes.
 	  - Arrêté du 24 juillet 2014 - art. 2 (M)
 	  - Code général des collectivités territoriales - art. R1415-7 (VT)
 
-	**Nouveaux textes**:
+	**Modifié par**:
 
-	  - Code civil - art. 1315-1 (V)
+	  - Loi n°2000-230 du 13 mars 2000 - art. 1 () JORF 14 mars 2000
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+
+###### Article 1316-1
+
+L'écrit sous forme électronique est admis en preuve au même titre que l'écrit sur support papier, sous réserve que puisse
+être dûment identifiée la personne dont il émane et qu'il soit établi et conservé dans des conditions de nature à en garantir
+l'intégrité.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi du 1er juin 1924 - art. 36-2 (V)
+	  - Loi du 1er juin 1924 - art. 36-3 (V)
+	  - Loi du 1er juin 1924 - art. 40 (VD)
+	  - Décret n°67-223 du 17 mars 1967 - art. 14 (VD)
+	  - Décret n°67-223 du 17 mars 1967 - art. 17 (M)
+	  - Décret n°98-247 du 2 avril 1998 - art. 19 (V)
+	  - Décret n°98-247 du 2 avril 1998 - art. 21 (M)
+	  - Loi n°2002-306 du 4 mars 2002 - art. 2 (MMN)
+	  - Décret n°2006-85 du 27 janvier 2006 - art. 3 (Ab)
+	  - Loi n°2009-323 du 25 mars 2009 - art. 102
+	  - Arrêté du 21 juin 2011 (V)
+	  - Décret n°2013-559 du 26 juin 2013 - art. 40 (M)
+	  - Arrêté du 24 juillet 2014 - art. 2 (M)
+	  - Code civil - art. 1108-1 (Ab)
+	  - Code civil - art. 1325 (V)
+	  - Code civil - art. 2307 (MMN)
+	  - Code civil - art. 2513 (V)
+	  - Code de commerce - art. R310-15 (Ab)
+	  - Code de commerce. - art. R762-5 (M)
+	  - Code du tourisme. - art. R211-48 (M)
+	  - Code du tourisme. - art. R211-49 (M)
+	  - Code rural et de la pêche maritime - art. R141-2-3 (VD)
+	  - Code rural et de la pêche maritime - art. R143-4 (V)
+	  - Code rural et de la pêche maritime - art. R143-6 (VD)
+	  - Nouveau code de procédure civile - art. 287 (M)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
 
 	**Codifié par**:
 
@@ -43142,17 +43216,189 @@ sont expliquées dans les sections suivantes.
 
 	**Créé par**:
 
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
+	  - Loi n°2000-230 du 13 mars 2000 - art. 1 () JORF 14 mars 2000
 
 
-#### Section 1 : De la preuve littérale
+###### Article 1316-2
 
-##### Paragraphe 1 : Du titre authentique.
+Lorsque la loi n'a pas fixé d'autres principes, et à défaut de convention valable entre les parties, le juge règle les
+conflits de preuve littérale en déterminant par tous moyens le titre le plus vraisemblable, quel qu'en soit le support.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°2000-230 du 13 mars 2000 - art. 1 () JORF 14 mars 2000
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
+
+
+###### Article 1316-3
+
+L'écrit sur support électronique a la même force probante que l'écrit sur support papier.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Cité par**:
+
+	  - Loi du 1er juin 1924 - art. 36-2 (V)
+
+	**Créé par**:
+
+	  - Loi n°2000-230 du 13 mars 2000 - art. 3 () JORF 14 mars 2000
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
+
+
+###### Article 1316-4
+
+La signature nécessaire à la perfection d'un acte juridique identifie celui qui l'appose. Elle manifeste le consentement des
+parties aux obligations qui découlent de cet acte. Quand elle est apposée par un officier public, elle confère l'authenticité
+à l'acte.
+
+Lorsqu'elle est électronique, elle consiste en l'usage d'un procédé fiable d'identification garantissant son lien avec l'acte
+auquel elle s'attache. La fiabilité de ce procédé est présumée, jusqu'à preuve contraire, lorsque la signature électronique
+est créée, l'identité du signataire assurée et l'intégrité de l'acte garantie, dans des conditions fixées par décret en
+Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi du 1er juin 1924 - art. 36-2 (V)
+	  - Décret n°56-222 du 29 février 1956 - art. 26 (V)
+	  - Décret n°58-1345 du 23 décembre 1958 - art. 10-1 (Ab)
+	  - Décret n°67-223 du 17 mars 1967 - art. 17 (M)
+	  - Décret n°67-236 du 23 mars 1967 - art. 131-3 (Ab)
+	  - Décret n°67-236 du 23 mars 1967 - art. 132 (Ab)
+	  - Décret n°71-941 du 26 novembre 1971 - art. 17 (M)
+	  - Décret n°84-406 du 30 mai 1984 - art. 1 (Ab)
+	  - Décret n°96-650 du 19 juillet 1996 - art. 9-1 (Ab)
+	  - Décret n°98-247 du 2 avril 1998 - art. 21 (M)
+	  - Décret n°2001-272 du 30 mars 2001 - art. 1 (M)
+	  - Décret n°2006-1803 du 23 décembre 2006 - art. 3 (Ab)
+	  - Décret n°2006-1804 du 23 décembre 2006 - art. 1 (M)
+	  - Arrêté du 17 juin 2008 (V)
+	  - Arrêté du 25 septembre 2008 (V)
+	  - Décret n°2008-1404 du 19 décembre 2008 (V)
+	  - Arrêté du 7 avril 2009 (V)
+	  - Décret n°2009-834 du 7 juillet 2009 (V)
+	  - Décret n°2009-1150 du 25 septembre 2009 (V)
+	  - Décret n°2009-1193 du 7 octobre 2009 (V)
+	  - Décret n°2009-1193 du 7 octobre 2009 - art. 51 (M)
+	  - Décret n°2009-1193 du 7 octobre 2009 - art. 52 (M)
+	  - Décret n°2009-1193 du 7 octobre 2009 - art. 58 (M)
+	  - Décret n°2009-1193 du 7 octobre 2009 - art. 81 (M)
+	  - Arrêté du 14 décembre 2009 (Ab)
+	  - Arrêté du 23 décembre 2009 (V)
+	  - Arrêté du 20 avril 2010 (V)
+	  - Décret n°2010-434 du 29 avril 2010 (VT)
+	  - Arrêté du 5 mai 2010 (V)
+	  - Décret n°2010-671 du 18 juin 2010 (V)
+	  - Décret n°2010-872 du 26 juillet 2010 (V)
+	  - Décret n°2010-1008 du 30 août 2010 (V)
+	  - Arrêté du 27 octobre 2010 (V)
+	  - Arrêté du 23 décembre 2010 (P)
+	  - Décret n°2011-167 du 10 février 2011 (V)
+	  - Arrêté du 30 mars 2011 (V)
+	  - Arrêté du 21 juin 2011 (V)
+	  - Décret n°2011-763 du 28 juin 2011 (V)
+	  - Arrêté du 3 août 2011 (V)
+	  - Décret n°2012-298 du 2 mars 2012 (V)
+	  - Arrêté du 18 avril 2012 (V)
+	  - Arrêté du 15 juin 2012 (V)
+	  - Arrêté du 28 août 2012 (V)
+	  - Arrêté du 10 septembre 2012 (V)
+	  - Décret n°2012-1515 du 28 décembre 2012 (V)
+	  - Arrêté du 20 décembre 2012 (V)
+	  - Décret n°2013-30 du 9 janvier 2013 (V)
+	  - Arrêté du 12 mars 2013 (Ab)
+	  - Arrêté du 12 mars 2013 (V)
+	  - Arrêté du 22 avril 2013 (V)
+	  - Décret n°2013-414 du 21 mai 2013 (V)
+	  - Arrêté du 7 mai 2013 (V)
+	  - Arrêté du 21 juin 2013 (V)
+	  - Arrêté du 12 juillet 2013 (V)
+	  - Arrêté du 12 juillet 2013 - art. 4 (M)
+	  - Arrêté du 18 octobre 2013 (V)
+	  - Arrêté du 6 mai 2014 (V)
+	  - Arrêté du 4 septembre 2014 (V)
+	  - Décret n°2015-731 du 24 juin 2015 - art. 6 (M)
+	  - Décret n°2015-1325 du 21 octobre 2015 (V)
+	  - Décret n°2016-46 du 26 janvier 2016 (V)
+	  - Arrêté du 9 février 2016 (V)
+	  - Décret n°2016-1673 du 5 décembre 2016 (V)
+	  - Arrêté du 20 janvier 2017 (V)
+	  - Code civil - art. 1108-1 (Ab)
+	  - Code civil - art. 1325 (V)
+	  - Code de commerce - art. A123-30 (VD)
+	  - Code de commerce - art. A123-53 (M)
+	  - Code de commerce - art. R123-152-2 (V)
+	  - Code de commerce - art. R123-24 (M)
+	  - Code de commerce - art. R123-77 (M)
+	  - Code de commerce - art. R134-13 (V)
+	  - Code de commerce - art. R225-79 (V)
+	  - Code de commerce - art. R526-20 (M)
+	  - Code de commerce. - art. R225-77 (V)
+	  - Code de commerce. - art. R527-3 (M)
+	  - Code de justice administrative - art. R414-2 (VD)
+	  - Code de la propriété intellectuelle - art. R331-36 (M)
+	  - Code de la santé publique - art. R1142-41-1 (V)
+	  - Code de la santé publique - art. R1335-8-10 (V)
+	  - Code de la santé publique - art. R1413-2-2 (T)
+	  - Code de la santé publique - art. R1413-22 (V)
+	  - Code de la santé publique - art. R3115-38 (VD)
+	  - Code de la santé publique - art. R3115-43 (M)
+	  - Code de la santé publique - art. R4113-107-1 (V)
+	  - Code de la santé publique - art. R5139-19 (V)
+	  - Code de la santé publique - art. R6111-20 (V)
+	  - Code de procédure civile - art. 456 (V)
+	  - Code de procédure pénale - art. R249-10 (V)
+	  - Code des juridictions financières - art. R141-10 (M)
+	  - Code des juridictions financières - art. R241-33 (M)
+	  - Code monétaire et financier - art. D514-9 (V)
+	  - Code rural et de la pêche maritime - art. R141-2-3 (VD)
+	  - Code rural et de la pêche maritime - art. R311-2-3 (M)
+	  - Nouveau code de procédure civile - art. 287 (M)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2000-230 2000-03-13 art. 5 *champ d'application territoriale*
+
+	**Créé par**:
+
+	  - Loi n°2000-230 du 13 mars 2000 - art. 4 () JORF 14 mars 2000
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+
+##### Paragraphe 2 : Du titre authentique.
 
 ###### Article 1317
 
 L'acte authentique est celui qui a été reçu par officiers publics ayant le droit d'instrumenter dans le lieu où l'acte a été
 rédigé, et avec les solennités requises.
+
+Il peut être dressé sur support électronique s'il est établi et conservé dans des conditions fixées par décret en Conseil
+d'Etat.
 
 **Liens relatifs à cet article**
 
@@ -43163,13 +43409,13 @@ rédigé, et avec les solennités requises.
 	  - Code du patrimoine. - art. R213-2 (M)
 	  - Loi du 16 mars 1803 - art. 10 (Ab)
 
+	**Modifié par**:
+
+	  - Loi n°2000-230 du 13 mars 2000 - art. 1 () JORF 14 mars 2000
+
 	**Codifié par**:
 
 	  - Loi n°1804-02-07
-
-	**Créé par**:
-
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
 
 
 ###### Article 1318
@@ -43179,6 +43425,10 @@ L'acte qui n'est point authentique par l'incompétence ou l'incapacité de l'off
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Loi n°2000-230 du 13 mars 2000 - art. 1 () JORF 14 mars 2000
+
 	**Cité par**:
 
 	  - Code rural et de la pêche maritime - art. R343-26 (V)
@@ -43187,17 +43437,13 @@ L'acte qui n'est point authentique par l'incompétence ou l'incapacité de l'off
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
-
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
-
 
 ###### Article 1319
 
 L'acte authentique fait pleine foi de la convention qu'il renferme entre les parties contractantes et leurs héritiers ou
 ayants cause.
 
-Néanmoins, en cas de de plaintes en faux principal, l'exécution de l'acte argué de faux sera suspendue par la mise en
+Néanmoins, en cas de plaintes en faux principal, l'exécution de l'acte argué de faux sera suspendue par la mise en
 accusation ; et, en cas d'inscription de faux faite incidemment, les tribunaux pourront, suivant les circonstances, suspendre
 provisoirement l'exécution de l'acte.
 
@@ -43207,9 +43453,9 @@ provisoirement l'exécution de l'acte.
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
+	  - Loi n°2000-230 du 13 mars 2000 - art. 1 () JORF 14 mars 2000
 
 
 ###### Article 1320
@@ -43224,9 +43470,9 @@ peuvent servir que d'un commencement de preuve.
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
+	  - Loi n°2000-230 du 13 mars 2000 - art. 1 () JORF 14 mars 2000
 
 
 ###### Article 1321
@@ -43235,6 +43481,10 @@ Les contre-lettres ne peuvent avoir leur effet qu'entre les parties contractante
 tiers.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2000-230 du 13 mars 2000 - art. 1 () JORF 14 mars 2000
 
 	**Cité par**:
 
@@ -43246,12 +43496,8 @@ tiers.
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
 
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
-
-
-##### Paragraphe 2 : De l'acte sous seing privé.
+##### Paragraphe 3 : De l'acte sous seing privé.
 
 ###### Article 1322
 
@@ -43269,14 +43515,14 @@ souscrit et entre leurs héritiers et ayants cause, la même foi que l'acte auth
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
+	  - Loi n°2000-230 du 13 mars 2000 - art. 1 () JORF 14 mars 2000
 
 
 ###### Article 1323
 
-Celui auquel on oppose un acte sous seing privé, est obligé d'avouer ou de désavouer formellement son écriture ou sa
+Celui auquel on oppose un acte sous seing privé est obligé d'avouer ou de désavouer formellement son écriture ou sa
 signature.
 
 Ses héritiers ou ayants cause peuvent se contenter de déclarer qu'ils ne connaissent point l'écriture ou la signature de leur
@@ -43288,9 +43534,9 @@ auteur.
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
+	  - Loi n°2000-230 du 13 mars 2000 - art. 1 () JORF 14 mars 2000
 
 
 ###### Article 1324
@@ -43304,9 +43550,9 @@ les point connaître, la vérification en est ordonnée en justice.
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
+	  - Loi n°2000-230 du 13 mars 2000 - art. 1 () JORF 14 mars 2000
 
 
 ###### Article 1325
@@ -43327,33 +43573,41 @@ exécuté de sa part la convention portée dans l'acte.
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
-
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
-
 	**Cité par**:
 
 	  - Loi n°70-9 du 2 janvier 1970 - art. 6 (VT)
+
+	**Modifié par**:
+
+	  - Loi n°2000-230 du 13 mars 2000 - art. 1 () JORF 14 mars 2000
 
 
 ###### Article 1326
 
 L'acte juridique par lequel une seule partie s'engage envers une autre à lui payer une somme d'argent ou à lui livrer un bien
 fongible doit être constaté dans un titre qui comporte la signature de celui qui souscrit cet engagement ainsi que la
-mention, écrite de sa main, de la somme ou de la quantité en toutes lettres et en chiffres. En cas de différence, l'acte sous
-seing privé vaut pour la somme écrite en toutes lettres.
+mention, écrite par lui-même, de la somme ou de la quantité en toutes lettres et en chiffres. En cas de différence, l'acte
+sous seing privé vaut pour la somme écrite en toutes lettres.
 
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2000-230 2000-03-14 art. 6 *champ d'application territoriale*
+
+	**Modifié par**:
+
+	  - Loi n°2000-230 du 13 mars 2000 - art. 1 () JORF 14 mars 2000
 
 	**Cité par**:
 
 	  - Arrêté du 8 avril 2005 - art. Annexe (V)
 	  - Arrêté du 21 février 2013 - art. (M)
 	  - Arrêté du 24 février 2014 - art. (M)
-
-	**Codifié par**:
-
-	  - Loi n°1804-02-07
 
 
 ###### Article 1328
@@ -43374,9 +43628,9 @@ publics, tels que procès-verbaux de scellé ou d'inventaire.
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
+	  - Loi n°2000-230 du 13 mars 2000 - art. 1 () JORF 14 mars 2000
 
 
 ###### Article 1329
@@ -43390,14 +43644,14 @@ sauf ce qui sera dit à l'égard du serment.
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
+	  - Loi n°2000-230 du 13 mars 2000 - art. 1 () JORF 14 mars 2000
 
 
 ###### Article 1330
 
-Les livres des marchands font preuve contre eux ; mais celui qui en veut tirer avantage, ne peut les diviser en ce qu'ils
+Les livres des marchands font preuve contre eux ; mais celui qui en veut tirer avantage ne peut les diviser en ce qu'ils
 contiennent de contraire à sa prétention.
 
 **Liens relatifs à cet article**
@@ -43406,19 +43660,16 @@ contiennent de contraire à sa prétention.
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
+	  - Loi n°2000-230 du 13 mars 2000 - art. 1 () JORF 14 mars 2000
 
 
 ###### Article 1331
 
-Les registres et papiers domestiques ne font point un titre pour celui qui les a écrits. Ils font foi contre lui :
-
-1° dans tous les cas où ils énoncent formellement un paiement reçu ;
-
-2° lorsqu'ils contiennent la mention expresse que la note a été faite pour suppléer le défaut du titre en faveur de celui au
-profit duquel ils énoncent une obligation.
+Les registres et papiers domestiques ne font point un titre pour celui qui les a écrits. Ils font foi contre lui : 1° dans
+tous les cas où ils énoncent formellement un paiement reçu ; 2° lorsqu'ils contiennent la mention expresse que la note a été
+faite pour suppléer le défaut du titre en faveur de celui au profit duquel ils énoncent une obligation.
 
 **Liens relatifs à cet article**
 
@@ -43426,14 +43677,14 @@ profit duquel ils énoncent une obligation.
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
+	  - Loi n°2000-230 du 13 mars 2000 - art. 1 () JORF 14 mars 2000
 
 
 ###### Article 1332
 
-L'écriture mise par le créancier à la suite, en marge ou au dos d'un titre qui est toujours resté en sa possession, fait foi,
+L'écriture mise par le créancier à la suite, en marge ou au dos d'un titre qui est toujours resté en sa possession fait foi,
 quoique non signée ni datée par lui, lorsqu'elle tend à établir la libération du débiteur.
 
 Il en est de même de l'écriture mise par le créancier au dos ou en marge, ou à la suite du double d'un titre ou d'une
@@ -43445,12 +43696,12 @@ quittance, pourvu que ce double soit entre les mains du débiteur.
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
+	  - Loi n°2000-230 du 13 mars 2000 - art. 1 () JORF 14 mars 2000
 
 
-##### Paragraphe 3 : Des tailles.
+##### Paragraphe 4 : Des tailles.
 
 ###### Article 1333
 
@@ -43463,12 +43714,12 @@ fournitures qu'elles font ou reçoivent en détail.
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
+	  - Loi n°2000-230 du 13 mars 2000 - art. 1 () JORF 14 mars 2000
 
 
-##### Paragraphe 4 : Des copies des titres.
+##### Paragraphe 5 : Des copies des titres.
 
 ###### Article 1334
 
@@ -43481,9 +43732,9 @@ toujours être exigée.
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
+	  - Loi n°2000-230 du 13 mars 2000 - art. 1 () JORF 14 mars 2000
 
 
 ###### Article 1335
@@ -43515,9 +43766,9 @@ que soit leur ancienneté, que de commencement de preuve par écrit.
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
+	  - Loi n°2000-230 du 13 mars 2000 - art. 1 () JORF 14 mars 2000
 
 
 ###### Article 1336
@@ -43539,12 +43790,12 @@ Lorsqu'au moyen du concours de ces deux circonstances la preuve par témoins ser
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
+	  - Loi n°2000-230 du 13 mars 2000 - art. 1 () JORF 14 mars 2000
 
 
-##### Paragraphe 5 : Des actes récognitifs et confirmatifs.
+##### Paragraphe 6 : Des actes récognitifs et confirmatifs.
 
 ###### Article 1337
 
@@ -43558,6 +43809,10 @@ date, le créancier pourrait être dispensé de représenter le titre primordial
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Loi n°2000-230 du 13 mars 2000 - art. 1 () JORF 14 mars 2000
+
 	**Cité par**:
 
 	  - Code de la construction et de l'habitation. - art. R431-63 (V)
@@ -43566,14 +43821,10 @@ date, le créancier pourrait être dispensé de représenter le titre primordial
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
-
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
-
 
 ###### Article 1338
 
-L'acte de confirmation ou ratification d'une obligation contre laquelle la loi admet l'action en nullité ou en rescision,
+L'acte de confirmation ou ratification d'une obligation contre laquelle la loi admet l'action en nullité ou en rescision
 n'est valable que lorsqu'on y trouve la substance de cette obligation, la mention du motif de l'action en rescision, et
 l'intention de réparer le vice sur lequel cette action est fondée.
 
@@ -43595,9 +43846,9 @@ renonciation aux moyens et exceptions que l'on pouvait opposer contre cet acte, 
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
+	  - Loi n°2000-230 du 13 mars 2000 - art. 1 () JORF 14 mars 2000
 
 
 ###### Article 1339
@@ -43611,9 +43862,9 @@ qu'elle soit refaite en la forme légale.
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
+	  - Loi n°2000-230 du 13 mars 2000 - art. 1 () JORF 14 mars 2000
 
 
 ###### Article 1340
@@ -43627,9 +43878,9 @@ son décès, emporte leur renonciation à opposer soit les vices de forme, soit 
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
+	  - Loi n°2000-230 du 13 mars 2000 - art. 1 () JORF 14 mars 2000
 
 
 #### Section 2 : De la preuve testimoniale.

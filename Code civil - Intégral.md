@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 2002-01-23
+Version Consolidée au 2002-03-05
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -714,6 +714,25 @@ doivent, en outre, être inscrites sur une liste d'experts judiciaires.
 	**Codifié par**:
 
 	  - Loi n°1803-03-08
+
+
+###### Article 16-13
+
+Nul ne peut faire l'objet de discriminations en raison de ses caractéristiques génétiques.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-08
+
+	**Créé par**:
+
+	  - Loi n°2002-303 du 4 mars 2002 - art. 4 () JORF 5 mars 2002
+
+	**Cité par**:
+
+	  - Loi n°2002-303 du 4 mars 2002 - art. 127 (V)
 
 
 ## Titre Ier bis : De la nationalité française
@@ -4820,6 +4839,8 @@ Seules les mentions prévues au premier alinéa sont portées en marge de l'acte
 Dans les circonstances prévues à l'article 59, la déclaration de reconnaissance pourra être reçue par les officiers
 instrumentaires désignés en cet article et dans les formes qui y sont indiquées.
 
+Lors de l'établissement de l'acte de reconnaissance, il sera fait lecture à son auteur des articles 371-1 et 371-2.
+
 **Liens relatifs à cet article**
 
 	**Cité par**:
@@ -4831,13 +4852,19 @@ instrumentaires désignés en cet article et dans les formes qui y sont indiqué
 	  - Code civil - art. 335 (M)
 	  - Code disciplinaire et pénal de la marine marchande - art. 43 (VT)
 
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2002-305 2002-03-04 art. 19 I (application à Mayotte)
+
 	**Modifié par**:
 
-	  - Loi n°93-22 du 8 janvier 1993 - art. 5 () JORF 9 janvier 1993
+	  - Loi n°2002-305 du 4 mars 2002 - art. 10 () JORF 5 mars 2002
 
 	**Cite**:
 
 	  - Code civil - art. 341-1 (T)
+	  - Code civil - art. 371-1 (M)
+	  - Code civil - art. 371-2 (M)
 	  - Code civil - art. 59 (V)
 
 	**Codifié par**:
@@ -5178,32 +5205,28 @@ d'habitation continue à la date de la publication prévue par la loi.
 
 Le jour désigné par les parties, après le délai de publication, l'officier de l'état civil, à la mairie, en présence d'au
 moins deux témoins, ou de quatre au plus, parents ou non des parties, fera lecture aux futurs époux des articles 212, 213
-(alinéas 1 et 2), 214 (alinéa 1er) et 215 (alinéa 1er) du présent code.
+(alinéas 1er et 2), 214 (alinéa 1er) et 215 (alinéa 1er) du présent code. Il sera également fait lecture de l'article 371-1. 
 
 Toutefois, en cas d'empêchement grave, le procureur de la République du lieu du mariage pourra requérir l'officier de l'état
 civil de se transporter au domicile ou à la résidence de l'une des parties pour célébrer le mariage. En cas de péril imminent
 de mort de l'un des futurs époux, l'officier de l'état civil pourra s'y transporter avant toute réquisition ou autorisation
 du procureur de la République, auquel il devra ensuite, dans le plus bref délai, faire part de la nécessité de cette
-célébration hors de la maison commune.
+célébration hors de la maison commune. 
 
 Mention en sera faite dans l'acte de mariage.
 
 L'officier de l'état civil interpellera les futurs époux, et, s'ils sont mineurs, leurs ascendants présents à la célébration
 et autorisant le mariage, d'avoir à déclarer s'il a été fait un contrat de mariage et, dans le cas de l'affirmative, la date
-de ce contrat, ainsi que les nom et lieu de résidence du notaire qui l'aura reçu.    Si les pièces produites par l'un des
-futurs époux ne concordent point entre elles quant aux prénoms ou quant à l'orthographe des noms, il interpellera celui
-qu'elles concernent, et s'il est mineur, ses plus proches ascendants présents à la célébration, d'avoir à déclarer que le
-défaut de concordance résulte d'une omission ou d'une erreur.
+de ce contrat, ainsi que les nom et lieu de résidence du notaire qui l'aura reçu. 
+
+Si les pièces produites par l'un des futurs époux ne concordent point entre elles quant aux prénoms ou quant à l'orthographe
+des noms, il interpellera celui qu'elles concernent, et s'il est mineur, ses plus proches ascendants présents à la
+célébration, d'avoir à déclarer que le défaut de concordance résulte d'une omission ou d'une erreur. 
 
 Il recevra de chaque partie, l'une après l'autre, la déclaration qu'elles veulent se prendre pour mari et femme : il
 prononcera, au nom de la loi, qu'elles sont unies par le mariage, et il en dressera acte sur-le-champ.
 
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Ordonnance 58-779 1958-08-23 art. 2 JORF 30 août 1958
-	  - Ordonnance 59-71 1959-01-07 art. 1 JORF 8 janvier 1959
 
 	**Cité par**:
 
@@ -5214,20 +5237,25 @@ prononcera, au nom de la loi, qu'elles sont unies par le mariage, et il en dress
 	  - Code de procédure pénale - art. D424 (V)
 	  - Code général des collectivités territoriales - art. R2122-10 (VD)
 
-	**Cite**:
-
-	  - Code civil - art. 212 (M)
-	  - Code civil - art. 213 (V)
-	  - Code civil - art. 214 (V)
-	  - Code civil - art. 215 (V)
-
 	**Codifié par**:
 
 	  - Loi n°1803-03-11
 
-	**Créé par**:
+	**Liens**:
 
-	  - Loi n°1803-03-11 promulguée le 21 mars 1803
+	  - SPEC_APPLI: Loi n°2002-305 2002-03-04 art. 19 I (application à Mayotte)
+
+	**Modifié par**:
+
+	  - Loi n°2002-305 du 4 mars 2002 - art. 10 () JORF 5 mars 2002
+
+	**Cite**:
+
+	  - Code civil - art. 212 (V)
+	  - Code civil - art. 213 (V)
+	  - Code civil - art. 214 (V)
+	  - Code civil - art. 215 (V)
+	  - Code civil - art. 371-1 (V)
 
 
 ###### Article 76
@@ -10304,15 +10332,14 @@ Les dispositions des articles 231 et 232 seront alors applicables.
 
 ### Chapitre II : De la procédure du divorce
 
-#### Section 1 : Dispositions générales.
+#### Section 1 : Dispositions générales
 
 ###### Article 247
 
 Le tribunal de grande instance statuant en matière civile est seul compétent pour se prononcer sur le divorce et ses
 conséquences.
 
-Un juge de ce tribunal est délégué aux affaires familiales. Il est plus spécialement chargé de veiller à la sauvegarde des
-intérêts des enfants mineurs.
+Un juge de ce tribunal est délégué aux affaires familiales.
 
 Ce juge a compétence pour prononcer le divorce, quelle qu'en soit la cause. Il peut renvoyer l'affaire en l'état à une
 audience collégiale. Ce renvoi est de droit à la demande d'une partie.
@@ -10324,18 +10351,13 @@ formalité et peut être saisi par les parties intéressées sur simple requête
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°93-22 1993-01-08 art. 63 *Mayotte*, art. 64 *date d'effet*
-	  - SPEC_APPLI: Loi n°2000-596 2000-06-30 art. 23 *dispositions transitoires*
-
 	**Modifié par**:
 
-	  - Loi n°2000-596 du 30 juin 2000 - art. 13 () JORF 1er juillet 2000
+	  - Loi n°2002-305 du 4 mars 2002 - art. 8 () JORF 5 mars 2002
+
+	**Transféré par**:
+
+	  - Loi n°2004-439 du 26 mai 2004 - art. 6 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
 
 	**Cité par**:
 
@@ -10348,10 +10370,13 @@ formalité et peut être saisi par les parties intéressées sur simple requête
 	**Nouveaux textes**:
 
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L312-1 (V)
+	  - Code civil - art. 228 (Ab)
 	  - Code civil - art. 228 (V)
 
+	**Codifié par**:
 
-#### Section 1 : Dispositions générales
+	  - Loi n°1803-03-14
+
 
 ###### Article 248
 
@@ -10898,6 +10923,31 @@ II.
 	  - Loi n°1803-03-14
 
 
+###### Article 256
+
+Les conséquences de la séparation pour les enfants sont réglées selon les dispositions du chapitre Ier du titre IX du présent
+livre.
+
+**Nota:**
+
+NOTA : La loi 2004-439 du 26 mai 2004 entrera en vigueur le 1er janvier 2005 sauf pour les exceptions citées par l'article 33
+II.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Modifié par**:
+
+	  - Loi n°2002-305 du 4 mars 2002 - art. 1 () JORF 5 mars 2002
+
+	**Cité par**:
+
+	  - Ordonnance n°2010-590 du 3 juin 2010 - art. 11 (V)
+
+
 ###### Article 257
 
 Le juge peut prendre, dès la requête initiale, des mesures d'urgence.
@@ -10970,30 +11020,6 @@ II.
 	**Cité par**:
 
 	  - Nouveau code de procédure civile - art. 1073 (M)
-
-
-#### Section 3 : Des mesures provisoires.
-
-###### Article 256
-
-S'il y a des enfants mineurs, le juge se prononce sur les modalités de l'exercice de l'autorité parentale. Il peut également
-décider de les confier à un tiers. Il se prononce également sur le droit de visite et d'hébergement et fixe la contribution
-due pour leur entretien et leur éducation par le parent chez lequel les enfants ne résident pas habituellement ou qui
-n'exerce pas l'autorité parentale.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Modifié par**:
-
-	  - Loi n°93-22 du 8 janvier 1993 - art. 35 () JORF 9 janvier 1993
-
-	**Cité par**:
-
-	  - Ordonnance n°2010-590 du 3 juin 2010 - art. 11 (V)
 
 
 #### Section 4 : Des preuves.
@@ -12531,329 +12557,14 @@ Dans tous les cas, le juge peut résilier le bail si des circonstances nouvelles
 	  - Loi n°87-570 du 22 juillet 1987 - art. 4 () JORF 24 juillet 1987
 
 
-#### Section 3 : Des conséquences du divorce pour les enfants.
+#### Section 3 : Des conséquences du divorce pour les enfants
 
 ###### Article 286
 
-Le divorce laisse subsister les droits et les devoirs des père et mère à l'égard de leurs enfants, sous réserve des règles
-qui suivent.
+Les conséquences du divorce pour les enfants sont réglées selon les dispositions du chapitre Ier du titre IX du présent
+livre.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
-
-
-###### Article 287
-
-L'autorité parentale est exercée en commun par les deux parents. Le juge désigne, à défaut d'accord amiable ou si cet accord
-lui apparaît contraire à l'intérêt de l'enfant, le parent chez lequel les enfants ont leur résidence habituelle.
-
-Si l'intérêt de l'enfant le commande, le juge peut confier l'exercice de l'autorité parentale à l'un des deux parents.
-
-Les parents peuvent, de leur propre initiative ou à la demande du juge, présenter leurs observations sur les modalités de
-l'exercice de l'autorité parentale.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Code civil - art. 373-2 (M)
-	  - Code civil - art. 375-3 (M)
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Modifié par**:
-
-	  - Loi n°93-22 du 8 janvier 1993 - art. 36 () JORF 9 janvier 1993
-
-	**Abrogé par**:
-
-	  - Loi n°2002-305 du 4 mars 2002 - art. 1 () JORF 5 mars 2002
-
-
-###### Article 287-1
-
-A titre exceptionnel et si l'intérêt des enfants l'exige, le juge peut décider de fixer leur résidence soit chez une autre
-personne choisie de préférence dans leur parenté, soit, si cela s'avérait impossible, dans un établissement d'éducation. La
-personne à qui les enfants sont confiés accomplit tous les actes usuels relatifs à leur surveillance et à leur éducation.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°87-570 du 22 juillet 1987 - art. 29 (V)
-	  - SPEC_APPLI: Loi n°87-570 du 22 juillet 1987 - art. 30 (V)
-
-	**Modifié par**:
-
-	  - Loi n°87-570 du 22 juillet 1987 - art. 6 () JORF 24 juillet 1987
-
-	**Abrogé par**:
-
-	  - Loi n°2002-305 du 4 mars 2002 - art. 1 () JORF 5 mars 2002
-
-	**Cité par**:
-
-	  - CODE DE PROCEDURE PENALE - art. R93 (M)
-	  - Code civil - art. 290 (Ab)
-	  - Code civil - art. 375-3 (M)
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-
-###### Article 287-2
-
-Avant toute décision, provisoire ou définitive, fixant les modalités de l'exercice de l'autorité parentale et du droit de
-visite ou confiant les enfants à un tiers, le juge peut donner mission à toute personne qualifiée d'effectuer une enquête
-sociale. Celle-ci a pour but de recueillir des renseignements sur la situation matérielle et morale de la famille, sur les
-conditions dans lesquelles vivent et sont élevés les enfants et sur les mesures qu'il y a lieu de prendre dans leur intérêt.
-
-Si l'un des époux conteste les conclusions de l'enquête sociale, il peut demander une contre-enquête.
-
-L'enquête sociale ne peut être utilisée dans le débat sur la cause du divorce.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°87-570 du 22 juillet 1987 - art. 29 (V)
-	  - SPEC_APPLI: Loi n°87-570 du 22 juillet 1987 - art. 30 (V)
-
-	**Créé par**:
-
-	  - Loi n°87-570 du 22 juillet 1987 - art. 7 () JORF 24 juillet 1987
-
-	**Cité par**:
-
-	  - Décret n°2000-35 du 17 janvier 2000 - art. 1 (Ab)
-	  - Nouveau code de procédure civile - art. 1078 (Ab)
-
-	**Abrogé par**:
-
-	  - Loi n°2002-305 du 4 mars 2002 - art. 1 () JORF 5 mars 2002
-
-
-###### Article 288
-
-Le parent qui n'a pas l'exercice de l'autorité parentale conserve le droit de surveiller l'entretien et l'éducation des
-enfants et doit être informé, en conséquence, des choix importants relatifs à la vie de ces derniers. Il y contribue à
-proportion de ses ressources et de celles de l'autre parent.
-
-Un droit de visite et d'hébergement ne peut lui être refusé que pour des motifs graves.
-
-Il peut être chargé d'administrer sous contrôle judiciaire tout ou partie du patrimoine des enfants, par dérogation aux
-articles 372-2 et 389, si l'intérêt d'une bonne administration de ce patrimoine l'exige.
-
-En cas d'exercice en commun de l'autorité parentale, le parent chez lequel les enfants ne résident pas habituellement
-contribue à leur entretien et à leur éducation à proportion de ses ressources et de celles de l'autre parent.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°87-570 du 22 juillet 1987 - art. 29 (V)
-	  - SPEC_APPLI: Loi n°87-570 du 22 juillet 1987 - art. 30 (V)
-
-	**Modifié par**:
-
-	  - Loi n°87-570 du 22 juillet 1987 - art. 8 () JORF 24 juillet 1987
-
-	**Abrogé par**:
-
-	  - Loi n°2002-305 du 4 mars 2002 - art. 1 () JORF 5 mars 2002
-
-	**Cité par**:
-
-	  - Code civil - art. 293 (Ab)
-
-	**Cite**:
-
-	  - Code civil - art. 372-2 (M)
-	  - Code civil - art. 389 (M)
-
-
-###### Article 289
-
-Le juge statue sur les modalités de l'exercice de l'autorité parentale ou décide de confier l'enfant à un tiers, à la demande
-de l'un des époux, d'un membre de la famille ou du ministère public.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°87-570 du 22 juillet 1987 - art. 29 (V)
-	  - SPEC_APPLI: Loi n°87-570 du 22 juillet 1987 - art. 30 (V)
-
-	**Modifié par**:
-
-	  - Loi n°87-570 du 22 juillet 1987 - art. 9 () JORF 24 juillet 1987
-
-	**Abrogé par**:
-
-	  - Loi n°2002-305 du 4 mars 2002 - art. 1 () JORF 5 mars 2002
-
-
-###### Article 290
-
-Le juge tient compte :
-
-1° Des accords passés entre les époux ;
-
-2° Des renseignements qui ont été recueillis dans l'enquête et la contre-enquête sociale prévues à l'article 287-1 ;
-
-3° Des sentiments exprimés par les enfants mineurs dans les conditions prévues à l'article 388-1.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°93-22 du 8 janvier 1993 - art. 57 () JORF 9 janvier 1993
-
-	**Abrogé par**:
-
-	  - Loi n°2002-305 du 4 mars 2002 - art. 1 () JORF 5 mars 2002
-
-	**Cite**:
-
-	  - Code civil - art. 287-1 (M)
-	  - Code civil - art. 388-1 (M)
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-
-###### Article 291
-
-Les décisions relatives à l'exercice de l'autorité parentale peuvent être modifiées ou complétées à tout moment par le juge,
-à la demande d'un époux, d'un membre de la famille ou du ministère public.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
-
-	**Abrogé par**:
-
-	  - Loi n°2002-305 du 4 mars 2002 - art. 1 () JORF 5 mars 2002
-
-
-###### Article 292
-
-En cas de divorce sur demande conjointe, les dispositions de la convention homologuée par le juge relatives à l'exercice de
-l'autorité parentale peuvent être révisées, pour des motifs graves, à la demande de l'un des époux ou du ministère public.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
-
-	**Abrogé par**:
-
-	  - Loi n°2002-305 du 4 mars 2002 - art. 1 () JORF 5 mars 2002
-
-
-###### Article 293
-
-La contribution à l'entretien et à l'éducation des enfants prévue à l'article 288 prend la forme d'une pension alimentaire
-versée, selon le cas, au parent chez lequel les enfants ont leur résidence habituelle ou qui exerce l'autorité parentale ou à
-la personne à laquelle les enfants ont été confiés.
-
-Les modalités et les garanties de cette pension alimentaire sont fixées par le jugement ou, en cas de divorce sur demande
-conjointe, par la convention des époux homologuée par le juge.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Modifié par**:
-
-	  - Loi n°93-22 du 8 janvier 1993 - art. 37 () JORF 9 janvier 1993
-
-	**Abrogé par**:
-
-	  - Loi n°2002-305 du 4 mars 2002 - art. 1 () JORF 5 mars 2002
-
-	**Cite**:
-
-	  - Code civil - art. 288 (M)
-
-
-###### Article 294
-
-Lorsque la consistance des biens du débiteur s'y prête, la pension alimentaire peut être remplacée, en tout ou partie, selon
-les règles des articles 274 à 275-1, 277 et 280, par le versement d'une somme d'argent entre les mains d'un organisme
-accrédité chargé d'accorder en contrepartie à l'enfant une rente indexée, l'abandon de biens en usufruit ou l'affectation de
-biens productifs de revenus.
-
-**Nota:**
-
-
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - CODE GENERAL DES IMPOTS ANNEXE 2, CGIAN2. - art. 91 quinquies (M)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 156 (M)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 757 A (M)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 80 quater (M)
-	  - Loi n°75-1278 du 30 décembre 1975 - art. 61 (V)
-
-	**Cite**:
-
-	  - Code civil - art. 277 (M)
-	  - Code civil - art. 280 (M)
-	  - Code civil 274 à 275-1, 277, 280
 
 	**Codifié par**:
 
@@ -12865,65 +12576,6 @@ biens productifs de revenus.
 	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
 
 	**Modifié par**:
-
-	  - Loi n°2000-596 du 30 juin 2000 - art. 16 () JORF 1er juillet 2000
-
-	**Abrogé par**:
-
-	  - Loi n°2002-305 du 4 mars 2002 - art. 1 () JORF 5 mars 2002
-
-
-###### Article 294-1
-
-Si le capital ainsi constitué devient insuffisant pour couvrir les besoins des enfants, le parent qui a l'exercice de
-l'autorité parentale ou chez lequel les enfants ont leur résidence habituelle ou la personne à laquelle les enfants ont été
-confiés peut demander l'attribution d'un complément sous forme de pension alimentaire.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Modifié par**:
-
-	  - Loi n°87-570 du 22 juillet 1987 - art. 12 () JORF 24 juillet 1987
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°87-570 du 22 juillet 1987 - art. 29 (V)
-	  - SPEC_APPLI: Loi n°87-570 du 22 juillet 1987 - art. 30 (V)
-
-	**Abrogé par**:
-
-	  - Loi n°2002-305 du 4 mars 2002 - art. 1 () JORF 5 mars 2002
-
-
-###### Article 295
-
-Le parent qui assume à titre principal la charge d'enfants majeurs qui ne peuvent eux-mêmes subvenir à leurs besoins peut
-demander à son conjoint de lui verser une contribution à leur entretien et à leur éducation.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
-
-	**Cité par**:
-
-	  - Loi n°75-617 du 11 juillet 1975 - art. 24 (V)
-
-	**Abrogé par**:
 
 	  - Loi n°2002-305 du 4 mars 2002 - art. 1 () JORF 5 mars 2002
 
@@ -13352,6 +13004,31 @@ divorce ou de la séparation de corps.
 ## Titre VII : De la filiation
 
 ### Chapitre Ier : Dispositions générales
+
+###### Article 310-1
+
+Tous les enfants dont la filiation est légalement établie ont les mêmes droits et les mêmes devoirs dans leurs rapports avec
+leur père et mère. Ils entrent dans la famille de chacun d'eux.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2002-305 du 4 mars 2002 - art. 9 () JORF 5 mars 2002
+
+	**Transféré par**:
+
+	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 2 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 310 (T)
+	  - Code civil - art. 310 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
 
 #### Section 1 : Des preuves et présomptions
 
@@ -15028,39 +14705,6 @@ Les dispositions des articles 331-2, 332 et 332-1, alinéa 1er sont applicables 
 
 #### Section 1 : Des effets de la filiation naturelle et de ses modes d'établissement en général.
 
-###### Article 334
-
-L'enfant naturel a en général les mêmes droits et les mêmes devoirs que l'enfant légitime dans ses rapports avec ses père et
-mère.
-
-Il entre dans la famille de son auteur.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Cité par**:
-
-	  - Loi n°88-1088 du 1 décembre 1988 - art. 23 (Ab)
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*321-9 (M)
-	  - Code civil - art. 334-7 (Ab)
-	  - Code de l'action sociale et des familles - art. L262-35 (M)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°2001-1135 2001-12-03 art. 25 I (dérogations à l'entrée en vigueur), II (ouverture des successions)
-
-	**Modifié par**:
-
-	  - Loi n°2001-1135 du 3 décembre 2001 - art. 16 () JORF 4 décembre 2001
-
-	**Abrogé par**:
-
-	  - Loi n°2002-305 du 4 mars 2002 - art. 10 () JORF 5 mars 2002
-
-
 ###### Article 334-1
 
 L'enfant naturel acquiert le nom de celui de ses deux parents à l'égard de qui sa filiation est établie en premier lieu ; le
@@ -15658,29 +15302,30 @@ sans préjudice des dommages-intérêts auxquels elle pourrait prétendre par ap
 ###### Article 340-6
 
 Le tribunal statue, s'il y a lieu, sur l'attribution du nom et sur l'autorité parentale, conformément aux articles 334-3 et
-374.
+372.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°72-3 du 3 janvier 1972 - art. 1 () JORF 5 janvier 1972 en vigueur le 1er août 1972
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 11 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 12 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 13 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 14 (V)
-
-	**Cite**:
-
-	  - Code civil - art. 334-3 (M)
-	  - Code civil - art. 374 (M)
 
 	**Codifié par**:
 
 	  - Loi n°1803-03-14
+
+	**Modifié par**:
+
+	  - Loi n°2002-305 du 4 mars 2002 - art. 9 () JORF 5 mars 2002
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2005-759 2005-07-04 art. 20 : Spécificité d'application
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 18 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
+
+	**Cite**:
+
+	  - Code civil - art. 334-3 (M)
+	  - Code civil - art. 372 (M)
 
 
 ###### Article 340-7
@@ -16855,22 +16500,15 @@ volonté, le tribunal apprécie souverainement après avoir consulté les hérit
 
 ###### Article 358
 
-L'adopté a, dans la famille de l'adoptant, les mêmes droits et les mêmes obligations qu'un enfant légitime.
+L'adopté a, dans la famille de l'adoptant, les mêmes droits et les mêmes obligations qu'un enfant dont la filiation est
+établie en application du titre VII du présent livre.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
 
 	**Cité par**:
 
 	  - Loi n°1928-03-30 du 30 mars 1928 - art. 2 sexies (Ab)
 	  - Décret n°82-938 du 28 octobre 1982 - art. 2 (Ab)
-
-	**Créé par**:
-
-	  - Loi n°66-500 du 11 juillet 1966 - art. 1 () JORF 12 juillet 1966 en vigueur le 1er novembre 1966
 
 	**Liens**:
 
@@ -16878,6 +16516,14 @@ L'adopté a, dans la famille de l'adoptant, les mêmes droits et les mêmes obli
 	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 12 (V)
 	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 13 (V)
 	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 7 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2002-305 du 4 mars 2002 - art. 9 () JORF 5 mars 2002
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
 
 
 ###### Article 359
@@ -17065,12 +16711,14 @@ d'origine.
 
 L'adoptant est seul investi à l'égard de l'adopté de tous les droits d'autorité parentale, inclus celui de consentir au
 mariage de l'adopté, à moins qu'il ne soit le conjoint du père ou de la mère de l'adopté ; dans ce cas, l'adoptant a
-l'autorité parentale concurremment avec son conjoint, mais celui-ci en conserve l'exercice.
+l'autorité parentale concurremment avec son conjoint, lequel en conserve seul l'exercice, sous réserve d'une déclaration
+conjointe avec l'adoptant devant le greffier en chef du tribunal de grande instance aux fins d'un exercice en commun de cette
+autorité.
 
-Les droits d'autorité parentale sont exercés par le ou les adoptants dans les mêmes conditions qu'à l'égard de l'enfant
-légitime.
+Les droits d'autorité parentale sont exercés par le ou les adoptants dans les conditions prévues par le chapitre Ier du titre
+IX du présent livre.
 
-Les règles de l'administration légale et de la tutelle de l'enfant légitime s'appliquent à l'adopté.
+Les règles de l'administration légale et de la tutelle des mineurs s'appliquent à l'adopté.
 
 **Liens relatifs à cet article**
 
@@ -17078,16 +16726,16 @@ Les règles de l'administration légale et de la tutelle de l'enfant légitime s
 
 	  - Loi n°1803-03-14
 
-	**Créé par**:
-
-	  - Loi n°66-500 du 11 juillet 1966 - art. 1 () JORF 12 juillet 1966 en vigueur le 1er novembre 1966
-
 	**Liens**:
 
 	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 11 (V)
 	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 12 (V)
 	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 13 (V)
 	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 7 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2002-305 du 4 mars 2002 - art. 5 () JORF 5 mars 2002
 
 	**Cité par**:
 
@@ -17156,9 +16804,7 @@ l'adopté ne sont tenus de lui fournir des aliments que s'il ne peut les obtenir
 
 ###### Article 368
 
-L'adopté a, dans la famille de l'adoptant, les droits successoraux d'un enfant légitime.
-
-Les descendants de l'adopté ont, dans la famille de l'adoptant, les droits successoraux prévus au chapitre III du titre Ier
+L'adopté et ses descendants ont, dans la famille de l'adoptant, les droits successoraux prévus au chapitre III du titre Ier
 du livre III.
 
 L'adopté et ses descendants n'ont cependant pas la qualité d'héritier réservataire à l'égard des ascendants de l'adoptant.
@@ -17169,9 +16815,13 @@ L'adopté et ses descendants n'ont cependant pas la qualité d'héritier réserv
 
 	  - Loi n°1803-03-14
 
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2002-305 2002-03-04 art. 19 (application à Mayotte)
+
 	**Modifié par**:
 
-	  - Loi n°96-604 du 5 juillet 1996 - art. 15 () JORF 6 juillet 1996
+	  - Loi n°2002-305 du 4 mars 2002 - art. 9 () JORF 5 mars 2002
 
 	**Cité par**:
 
@@ -17410,13 +17060,14 @@ L'enfant, à tout âge, doit honneur et respect à ses père et mère.
 
 ###### Article 371-1
 
-Il reste sous leur autorité jusqu'à sa majorité ou son émancipation.
+L'autorité parentale est un ensemble de droits et de devoirs ayant pour finalité l'intérêt de l'enfant.
+
+Elle appartient aux père et mère jusqu'à la majorité ou l'émancipation de l'enfant pour le protéger dans sa sécurité, sa
+santé et sa moralité, pour assurer son éducation et permettre son développement, dans le respect dû à sa personne.
+
+Les parents associent l'enfant aux décisions qui le concernent, selon son âge et son degré de maturité.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°70-459 du 4 juin 1970 - art. 1 () JORF 5 juin 1970 en vigueur le 1er janvier 1971
 
 	**Liens**:
 
@@ -17427,6 +17078,10 @@ Il reste sous leur autorité jusqu'à sa majorité ou son émancipation.
 	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 14 (V)
 	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 15 (V)
 	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 9 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2002-305 du 4 mars 2002 - art. 2 () JORF 5 mars 2002
 
 	**Cité par**:
 
@@ -17449,9 +17104,10 @@ Il reste sous leur autorité jusqu'à sa majorité ou son émancipation.
 
 ###### Article 371-2
 
-L'autorité appartient aux père et mère pour protéger l'enfant dans sa sécurité, sa santé et sa moralité.
+Chacun des parents contribue à l'entretien et à l'éducation des enfants à proportion de ses ressources, de celles de l'autre
+parent, ainsi que des besoins de l'enfant.
 
-Ils ont à son égard droit et devoir de garde, de surveillance et d'éducation.
+Cette obligation ne cesse pas de plein droit lorsque l'enfant est majeur.
 
 **Liens relatifs à cet article**
 
@@ -17502,10 +17158,6 @@ Ils ont à son égard droit et devoir de garde, de surveillance et d'éducation.
 	  - Code pénal - art. 131-30-1 (VD)
 	  - Code pénal - art. 131-30-2 (V)
 
-	**Créé par**:
-
-	  - Loi n°70-459 du 4 juin 1970 - art. 1 () JORF 5 juin 1970 en vigueur le 1er janvier 1971
-
 	**Liens**:
 
 	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 10 (V)
@@ -17515,6 +17167,10 @@ Ils ont à son égard droit et devoir de garde, de surveillance et d'éducation.
 	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 14 (V)
 	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 15 (V)
 	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 9 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2002-305 du 4 mars 2002 - art. 3 () JORF 5 mars 2002
 
 	**Codifié par**:
 
@@ -17549,12 +17205,11 @@ de nécessité que détermine la loi.
 
 ###### Article 371-4
 
-Les père et mère ne peuvent, sauf motifs graves, faire obstacle aux relations personnelles de l'enfant avec ses grands-
-parents. A défaut d'accord entre les parties, les modalités de ces relations sont réglées par le juge aux affaires
-familiales.
+L'enfant a le droit d'entretenir des relations personnelles avec ses ascendants. Seuls des motifs graves peuvent faire
+obstacle à ce droit.
 
-En considération de situations exceptionnelles, le juge aux affaires familiales peut accorder un droit de correspondance ou
-de visite à d'autres personnes, parents ou non.
+Si tel est l'intérêt de l'enfant, le juge aux affaires familiales fixe les modalités des relations entre l'enfant et un
+tiers, parent ou non.
 
 **Liens relatifs à cet article**
 
@@ -17566,18 +17221,17 @@ de visite à d'autres personnes, parents ou non.
 	  - Code de l'action sociale et des familles - art. R224-23 (V)
 	  - Code de procédure civile - art. 1180 (V)
 
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
 	**Liens**:
 
 	  - SPEC_APPLI: Loi n°93-22 1993-01-08 art. 63 *Mayotte*, art. 64 *date d'effet*
 
 	**Modifié par**:
 
-	  - Loi n°93-22 du 8 janvier 1993 - art. 48 () JORF 9 janvier 1993 en vigueur le 1er février 1994
-	  - Loi n°93-22 du 8 janvier 1993 - art. 64 (V) JORF 9 janvier 1993 en vigueur le 1er février 1994
+	  - Loi n°2002-305 du 4 mars 2002 - art. 4 () JORF 5 mars 2002
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
 
 
 ###### Article 371-5
@@ -17602,7 +17256,606 @@ autre solution. S'il y a lieu, le juge statue sur les relations personnelles ent
 
 #### Section 1 : De l'exercice de l'autorité parentale
 
+##### Paragraphe 1 : Principes généraux.
+
+###### Article 372
+
+Les père et mère exercent en commun l'autorité parentale.
+
+Toutefois, lorsque la filiation est établie à l'égard de l'un d'entre eux plus d'un an après la naissance d'un enfant dont la
+filiation est déjà établie à l'égard de l'autre, celui-ci reste seul investi de l'exercice de l'autorité parentale. Il en est
+de même lorsque la filiation est judiciairement déclarée à l'égard du second parent de l'enfant.
+
+L'autorité parentale pourra néanmoins être exercée en commun en cas de déclaration conjointe des père et mère devant le
+greffier en chef du tribunal de grande instance ou sur décision du juge aux affaires familiales.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°93-22 1993-01-08 art. 46 *dérogations*
+	  - SPEC_APPLI: Loi n°2002-305 2002-03-04 art. 11 II (dispositions transitoires - enfants nés avant le 5 mars 2002), art. 19 I (application à Mayotte)
+
+	**Cité par**:
+
+	  - Loi n°93-22 du 8 janvier 1993 - art. 46 (V)
+	  - Loi n°2002-305 du 4 mars 2002 - art. 11 (V)
+	  - Code civil - art. 340-6 (Ab)
+	  - Code civil - art. 374 (Ab)
+	  - Code de procédure civile - art. 1180-1 (V)
+	  - Code du service national - art. R*59-2 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2002-305 du 4 mars 2002 - art. 5 () JORF 5 mars 2002
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 372-2
+
+A l'égard des tiers de bonne foi, chacun des parents est réputé agir avec l'accord de l'autre, quand il fait seul un acte
+usuel de l'autorité parentale relativement à la personne de l'enfant.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2002-305 du 4 mars 2002 - art. 5 () JORF 5 mars 2002
+
+	**Cité par**:
+
+	  - Loi n°2002-305 du 4 mars 2002 - art. 19 (V)
+	  - Code civil - art. 288 (Ab)
+	  - Code civil - art. 373-2 (M)
+	  - Code civil - art. 374 (M)
+	  - Code civil - art. 377-1 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 373
+
+Est privé de l'exercice de l'autorité parentale le père ou la mère qui est hors d'état de manifester sa volonté, en raison de
+son incapacité, de son absence ou de toute autre cause.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2002-305 du 4 mars 2002 - art. 5 () JORF 5 mars 2002
+
+	**Cité par**:
+
+	  - Code civil - art. 389-1 (M)
+	  - Code civil - art. 389-2 (M)
+	  - Code civil - art. 390 (M)
+	  - Code de la santé publique - art. L339 (M)
+	  - Code pénal - art. 227-17 (V)
+	  - Code pénal - art. 227-3 (VD)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 373-1
+
+Si l'un des père et mère décède ou se trouve privé de l'exercice de l'autorité parentale, l'autre exerce seul cette autorité.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°87-570 du 22 juillet 1987 - art. 29 (V)
+	  - SPEC_APPLI: Loi n°87-570 du 22 juillet 1987 - art. 30 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2002-305 du 4 mars 2002 - art. 5 () JORF 5 mars 2002
+
+	**Cité par**:
+
+	  - Code civil - art. 373-3 (V)
+
+
+##### Paragraphe 2 : De l'exercice de l'autorité parentale par les parents séparés
+
+###### Article 373-2
+
+La séparation des parents est sans incidence sur les règles de dévolution de l'exercice de l'autorité parentale.
+
+Chacun des père et mère doit maintenir des relations personnelles avec l'enfant et respecter les liens de celui-ci avec
+l'autre parent.
+
+Tout changement de résidence de l'un des parents, dès lors qu'il modifie les modalités d'exercice de l'autorité parentale,
+doit faire l'objet d'une information préalable et en temps utile de l'autre parent. En cas de désaccord, le parent le plus
+diligent saisit le juge aux affaires familiales qui statue selon ce qu'exige l'intérêt de l'enfant. Le juge répartit les
+frais de déplacement et ajuste en conséquence le montant de la contribution à l'entretien et à l'éducation de l'enfant.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Cité par**:
+
+	  - Loi n°70-459 du 4 juin 1970 - art. 15 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2002-305 du 4 mars 2002 - art. 6 () JORF 5 mars 2002
+
+
+###### Article 373-2-1
+
+Si l'intérêt de l'enfant le commande, le juge peut confier l'exercice de l'autorité parentale à l'un des deux parents.
+
+L'exercice du droit de visite et d'hébergement ne peut être refusé à l'autre parent que pour des motifs graves.
+
+Ce parent conserve le droit et le devoir de surveiller l'entretien et l'éducation de l'enfant. Il doit être informé des choix
+importants relatifs à la vie de ce dernier. Il doit respecter l'obligation qui lui incombe en vertu de l'article 371-2.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2002-305 du 4 mars 2002 - art. 6 () JORF 5 mars 2002
+
+	**Cite**:
+
+	  - Code civil - art. 371-2 (M)
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. D216-1 (V)
+	  - Code de procédure civile - art. 1180-5 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 373-2-2
+
+En cas de séparation entre les parents, ou entre ceux-ci et l'enfant, la contribution à son entretien et à son éducation
+prend la forme d'une pension alimentaire versée, selon le cas, par l'un des parents à l'autre, ou à la personne à laquelle
+l'enfant a été confié. 
+
+Les modalités et les garanties de cette pension alimentaire sont fixées par la convention homologuée visée à l'article
+373-2-7 ou, à défaut, par le juge. 
+
+Cette pension peut en tout ou partie prendre la forme d'une prise en charge directe de frais exposés au profit de l'enfant. 
+
+Elle peut être en tout ou partie servie sous forme d'un droit d'usage et d'habitation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2002-305 du 4 mars 2002 - art. 6 () JORF 5 mars 2002
+
+	**Cité par**:
+
+	  - Décret n°2015-1709 du 21 décembre 2015 - art. 1
+	  - Décret n°2017-122 du 1er février 2017 - art. 2
+	  - Code de l'action sociale et des familles - art. R245-47 (V)
+	  - Code de la sécurité sociale. - art. L582-1 (V)
+	  - Code de la sécurité sociale. - art. R844-2 (VD)
+
+	**Cite**:
+
+	  - Code civil - art. 373-2-7 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 373-2-3
+
+Lorsque la consistance des biens du débiteur s'y prête, la pension alimentaire peut être remplacée, en tout ou partie, sous
+les modalités et garanties prévues par la convention homologuée ou par le juge, par le versement d'une somme d'argent entre
+les mains d'un organisme accrédité chargé d'accorder en contrepartie à l'enfant une rente indexée, l'abandon de biens en
+usufruit ou l'affectation de biens productifs de revenus.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2002-305 du 4 mars 2002 - art. 6 () JORF 5 mars 2002
+
+	**Cité par**:
+
+	  - Arrêté du 26 février 2016 - art. 2
+	  - Décret n°2016-230 du 26 février 2016 - art.
+	  - Code de commerce - art. A444-75 (V)
+	  - Code général des impôts, CGI. - art. 156 (VT)
+	  - Code général des impôts, CGI. - art. 757 A (V)
+	  - Code général des impôts, CGI. - art. 80 quater (VD)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 91 quinquies (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 373-2-4
+
+L'attribution d'un complément, notamment sous forme de pension alimentaire, peut, s'il y a lieu, être demandée
+ultérieurement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°2002-305 du 4 mars 2002 - art. 6 () JORF 5 mars 2002
+
+
+###### Article 373-2-5
+
+Le parent qui assume à titre principal la charge d'un enfant majeur qui ne peut lui-même subvenir à ses besoins peut demander
+à l'autre parent de lui verser une contribution à son entretien et à son éducation. Le juge peut décider ou les parents
+convenir que cette contribution sera versée en tout ou partie entre les mains de l'enfant.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°2002-305 du 4 mars 2002 - art. 6 () JORF 5 mars 2002
+
+
+##### Paragraphe 3 : De l'intervention du juge aux affaires familiales
+
+###### Article 373-2-6
+
+Le juge du tribunal de grande instance délégué aux affaires familiales règle les questions qui lui sont soumises dans le
+cadre du présent chapitre en veillant spécialement à la sauvegarde des intérêts des enfants mineurs.
+
+Le juge peut prendre les mesures permettant de garantir la continuité et l'effectivité du maintien des liens de l'enfant avec
+chacun de ses parents.
+
+Il peut notamment ordonner l'inscription sur le passeport des parents de l'interdiction de sortie de l'enfant du territoire
+français sans l'autorisation des deux parents.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2002-305 du 4 mars 2002 - art. 5 () JORF 5 mars 2002
+
+	**Cité par**:
+
+	  - Loi n°2003-239 du 18 mars 2003 - art. 23 (V)
+	  - Décret n°2012-1037 du 10 septembre 2012 (V)
+	  - Code de procédure civile - art. 1180-3 (VD)
+	  - Code de procédure civile - art. 1180-4 (VD)
+	  - Code de procédure pénale - art. 230-19 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 373-2-7
+
+Les parents peuvent saisir le juge aux affaires familiales afin de faire homologuer la convention par laquelle ils organisent
+les modalités d'exercice de l'autorité parentale et fixent la contribution à l'entretien et à l'éducation de l'enfant.
+
+Le juge homologue la convention sauf s'il constate qu'elle ne préserve pas suffisamment l'intérêt de l'enfant ou que le
+consentement des parents n'a pas été donné librement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2002-305 du 4 mars 2002 - art. 5 () JORF 5 mars 2002
+
+	**Cité par**:
+
+	  - Loi n°2011-1862 du 13 décembre 2011 - art. 15 (V)
+	  - Décret n°2016-1906 du 28 décembre 2016 - art. 2
+	  - Code civil - art. 373-2-2 (V)
+	  - Code civil - art. 373-2-9 (V)
+	  - Code de la sécurité sociale. - art. L582-2 (VD)
+	  - Code de procédure civile - art. 1143 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 373-2-8
+
+Le juge peut également être saisi par l'un des parents ou le ministère public, qui peut lui-même être saisi par un tiers,
+parent ou non, à l'effet de statuer sur les modalités d'exercice de l'autorité parentale et sur la contribution à l'entretien
+et à l'éducation de l'enfant.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2002-305 du 4 mars 2002 - art. 6 () JORF 5 mars 2002
+
+	**Cité par**:
+
+	  - Code civil - art. 373-2-9 (V)
+	  - Code civil - art. 373-3 (V)
+	  - Code de procédure civile - art. 1179-1 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 373-2-9
+
+En application des deux articles précédents, la résidence de l'enfant peut être fixée en alternance au domicile de chacun des
+parents ou au domicile de l'un d'eux.
+
+A la demande de l'un des parents ou en cas de désaccord entre eux sur le mode de résidence de l'enfant, le juge peut ordonner
+à titre provisoire une résidence en alternance dont il détermine la durée. Au terme de celle-ci, le juge statue
+définitivement sur la résidence de l'enfant en alternance au domicile de chacun des parents ou au domicile de l'un d'eux.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code civil - art. 373-2-7 (V)
+	  - Code civil - art. 373-2-8 (V)
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. D216-1 (V)
+	  - Code de l'éducation - art. R212-10 (V)
+	  - Code de la sécurité sociale. - art. L521-2 (V)
+	  - Code de la sécurité sociale. - art. R861-2 (V)
+	  - Code de procédure civile - art. 1180-2 (V)
+	  - Code de procédure civile - art. 1180-5 (V)
+	  - Code des pensions militaires d'invalidité et de... - art. L161-3 (VD)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°2002-305 du 4 mars 2002 - art. 5 () JORF 5 mars 2002
+
+
+###### Article 373-2-10
+
+En cas de désaccord, le juge s'efforce de concilier les parties.
+
+A l'effet de faciliter la recherche par les parents d'un exercice consensuel de l'autorité parentale, le juge peut leur
+proposer une mesure de médiation et, après avoir recueilli leur accord, désigner un médiateur familial pour y procéder.
+
+Il peut leur enjoindre de rencontrer un médiateur familial qui les informera sur l'objet et le déroulement de cette mesure.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°2010-1395 du 12 novembre 2010 - art. 1 (V)
+	  - Arrêté du 19 mars 2012 - art. (V)
+	  - Code de procédure civile - art. 1071 (V)
+	  - Nouveau code de procédure civile - art. 1180-3 (Ab)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°2002-305 du 4 mars 2002 - art. 5 () JORF 5 mars 2002
+
+
+###### Article 373-2-11
+
+Lorsqu'il se prononce sur les modalités d'exercice de l'autorité parentale, le juge prend notamment en considération : 
+
+1° La pratique que les parents avaient précédemment suivie ou les accords qu'ils avaient pu antérieurement conclure ; 
+
+2° Les sentiments exprimés par l'enfant mineur dans les conditions prévues à l'article 388-1 ; 
+
+3° L'aptitude de chacun des parents à assumer ses devoirs et respecter les droits de l'autre ; 
+
+4° Le résultat des expertises éventuellement effectuées, tenant compte notamment de l'âge de l'enfant ; 
+
+5° Les renseignements qui ont été recueillis dans les éventuelles enquêtes et contre-enquêtes sociales prévues à l'article
+373-2-12.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2002-305 du 4 mars 2002 - art. 5 () JORF 5 mars 2002
+
+	**Cite**:
+
+	  - Code civil - art. 373-2-12 (V)
+	  - Code civil - art. 388-1 (VT)
+
+	**Cité par**:
+
+	  - Code civil - art. 373-3 (V)
+	  - Code civil - art. 377-1 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 373-2-12
+
+Avant toute décision fixant les modalités de l'exercice de l'autorité parentale et du droit de visite ou confiant les enfants
+à un tiers, le juge peut donner mission à toute personne qualifiée d'effectuer une enquête sociale. Celle-ci a pour but de
+recueillir des renseignements sur la situation de la famille et les conditions dans lesquelles vivent et sont élevés les
+enfants.
+
+Si l'un des parents conteste les conclusions de l'enquête sociale, une contre-enquête peut à sa demande être ordonnée.
+
+L'enquête sociale ne peut être utilisée dans le débat sur la cause du divorce.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2002-305 du 4 mars 2002 - art. 5 () JORF 5 mars 2002
+
+	**Cité par**:
+
+	  - Code civil - art. 373-2-11 (V)
+	  - Code de procédure civile - art. 1072 (V)
+	  - Code de procédure civile - art. 1078 (VD)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 373-2-13
+
+Les dispositions contenues dans la convention homologuée ainsi que les décisions relatives à l'exercice de l'autorité
+parentale peuvent être modifiées ou complétées à tout moment par le juge, à la demande des ou d'un parent ou du ministère
+public, qui peut lui-même être saisi par un tiers, parent ou non.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2002-305 du 4 mars 2002 - art. 5 () JORF 5 mars 2002
+
+	**Cité par**:
+
+	  - Loi n°2011-1862 du 13 décembre 2011 - art. 15 (V)
+	  - Code de procédure civile - art. 1179-1 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
 ##### Paragraphe 4 : De l'intervention des tiers
+
+###### Article 373-3
+
+La séparation des parents ne fait pas obstacle à la dévolution prévue à l'article 373-1, lors même que celui des père et mère
+qui demeure en état d'exercer l'autorité parentale aurait été privé de l'exercice de certains des attributs de cette autorité
+par l'effet du jugement prononcé contre lui. 
+
+Le juge peut, à titre exceptionnel et si l'intérêt de l'enfant l'exige, notamment lorsqu'un des parents est privé de
+l'exercice de l'autorité parentale, décider de confier l'enfant à un tiers, choisi de préférence dans sa parenté. Il est
+saisi et statue conformément aux articles 373-2-8 et 373-2-11. 
+
+Dans des circonstances exceptionnelles, le juge aux affaires familiales qui statue sur les modalités de l'exercice de
+l'autorité parentale après séparation des parents peut décider, du vivant même des parents, qu'en cas de décès de celui
+d'entre eux qui exerce cette autorité, l'enfant n'est pas confié au survivant. Il peut, dans ce cas, désigner la personne à
+laquelle l'enfant est provisoirement confié.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Cité par**:
+
+	  - Loi n°70-459 du 4 juin 1970 - art. 15 (V)
+	  - Loi n°2002-305 du 4 mars 2002 - art. 19 (V)
+	  - Code civil - art. 375-3 (V)
+	  - Code de la sécurité sociale. - art. L351-4 (V)
+	  - Code de procédure civile - art. 1180 (V)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°93-22 1993-01-08 art. 63 *Mayotte*, art. 64 *date d'effet*
+	  - SPEC_APPLI: Loi n°2002-305 2002-03-04 art. 19 I (application à Mayotte)
+
+	**Modifié par**:
+
+	  - Loi n°2002-305 du 4 mars 2002 - art. 8 () JORF 5 mars 2002
+
+	**Cite**:
+
+	  - Code civil - art. 373-1 (V)
+	  - Code civil - art. 373-2-11 (V)
+	  - Code civil - art. 373-2-8 (V)
+
+
+###### Article 373-4
+
+Lorsque l'enfant a été confié à un tiers, l'autorité parentale continue d'être exercée par les père et mère ; toutefois, la
+personne à qui l'enfant a été confié accomplit tous les actes usuels relatifs à sa surveillance et à son éducation.
+
+Le juge aux affaires familiales, en confiant l'enfant à titre provisoire à un tiers, peut décider qu'il devra requérir
+l'ouverture d'une tutelle.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°93-22 1993-01-08 art. 63 *Mayotte*, art. 64 *date d'effet*
+
+	**Modifié par**:
+
+	  - Loi n°2002-305 du 4 mars 2002 - art. 8 () JORF 5 mars 2002
+
+	**Cité par**:
+
+	  - Code civil - art. 373-3 (M)
+	  - Code civil - art. 375-7 (V)
+
+
+###### Article 373-5
+
+S'il ne reste plus ni père ni mère en état d'exercer l'autorité parentale, il y aura lieu à l'ouverture d'une tutelle ainsi
+qu'il est dit à l'article 390 ci-dessous.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°87-570 du 22 juillet 1987 - art. 29 (V)
+	  - SPEC_APPLI: Loi n°87-570 du 22 juillet 1987 - art. 30 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2002-305 du 4 mars 2002 - art. 8 () JORF 5 mars 2002
+
+	**Anciens textes**:
+
+	  - Code civil - art. 373-4 (M)
+
+	**Cite**:
+
+	  - Code civil - art. 390 (V)
+
 
 ###### Article 374-1
 
@@ -17656,383 +17909,6 @@ Elle est alors organisée selon les règles prévues au titre X.
 	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 14 (V)
 	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 15 (V)
 	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 9 (V)
-
-
-#### Section 1 : De l'exercice de l'autorité parentale.
-
-###### Article 372
-
-L'autorité parentale est exercée en commun par les deux parents s'ils sont mariés.
-
-Elle est également exercée en commun si les parents d'un enfant naturel, l'ayant tous deux reconnu avant qu'il ait atteint
-l'âge d'un an, vivent en commun au moment de la reconnaissance concomitante ou de la seconde reconnaissance.
-
-Les dispositions de l'alinéa précédent ne font pas obstacle à celles des troisième et quatrième alinéas de l'article 374.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°93-22 1993-01-08 art. 46 *dérogations*
-
-	**Modifié par**:
-
-	  - Loi n°93-22 du 8 janvier 1993 - art. 38 () JORF 9 janvier 1993
-
-	**Cité par**:
-
-	  - Loi n°93-22 du 8 janvier 1993 - art. 46 (V)
-	  - Loi n°2002-305 du 4 mars 2002 - art. 11 (V)
-	  - Code civil - art. 340-6 (Ab)
-	  - Code civil - art. 374 (Ab)
-	  - Code de procédure civile - art. 1180-1 (V)
-	  - Code du service national - art. R*59-2 (V)
-
-
-###### Article 372-1
-
-Il est justifié de la communauté de vie entre les père et mère au moment de la reconnaissance de leur enfant par un acte
-délivré par le juge aux affaires familiales établi au vu des éléments apportés par le demandeur.
-
-Ni l'acte ni le refus de le délivrer ne sont sujets à recours.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°93-22 1993-01-08 art. 63 *Mayotte*, art. 64 *date d'effet*
-
-	**Modifié par**:
-
-	  - Loi n°93-22 du 8 janvier 1993 - art. 48 () JORF 9 janvier 1993 en vigueur le 1er février 1994
-	  - Loi n°93-22 du 8 janvier 1993 - art. 64 (V) JORF 9 janvier 1993 en vigueur le 1er février 1994
-
-	**Cité par**:
-
-	  - Décret n°93-1091 du 16 septembre 1993 - art. 22 (V)
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L322-2 (M)
-	  - Code civil - art. 373-2 (M)
-	  - Code civil - art. 374 (M)
-	  - Nouveau code de procédure civile - art. 1179 (M)
-	  - Nouveau code de procédure civile - art. 1179-1 (M)
-
-	**Abrogé par**:
-
-	  - Loi n°2002-305 du 4 mars 2002 - art. 8 () JORF 5 mars 2002
-
-	**Nouveaux textes**:
-
-	  - Code civil - art. 372-1-1 (M)
-
-
-###### Article 372-1-1
-
-Si les père et mère ne parvenaient pas à s'accorder sur ce qu'exige l'intérêt de l'enfant, la pratique qu'ils avaient
-précédemment pu suivre dans des occasions semblables leur tiendrait lieu de règle.
-
-A défaut d'une telle pratique ou en cas de contestation sur son existence ou son bien-fondé, le parent le plus diligent
-pourra saisir le juge aux affaires familiales qui statuera après avoir tenté de concilier les parties.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°93-22 1993-01-08 art. 63 *Mayotte*, art. 64 *date d'effet*
-
-	**Créé par**:
-
-	  - Loi n°93-22 du 8 janvier 1993 - art. 48 () JORF 9 janvier 1993 en vigueur le 1er février 1994
-	  - Loi n°93-22 du 8 janvier 1993 - art. 64 (V) JORF 9 janvier 1993 en vigueur le 1er février 1994
-
-	**Cité par**:
-
-	  - Loi n°93-22 du 8 janvier 1993 - art. 52 (Ab)
-	  - Code de la santé publique - art. R355-45 (Ab)
-	  - Code de la santé publique - art. R3711-13 (V)
-	  - Nouveau code de procédure civile - art. 1179 (M)
-
-	**Abrogé par**:
-
-	  - Loi n°2002-305 du 4 mars 2002 - art. 8 () JORF 5 mars 2002
-
-	**Anciens textes**:
-
-	  - Code civil - art. 372-1 (T)
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-
-###### Article 372-2
-
-A l'égard des tiers de bonne foi, chacun des parents est réputé agir avec l'accord de l'autre, quand il fait seul un acte
-usuel de l'autorité parentale relativement à la personne de l'enfant.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°93-22 du 8 janvier 1993 - art. 41 () JORF 9 janvier 1993
-
-	**Cité par**:
-
-	  - Loi n°2002-305 du 4 mars 2002 - art. 19 (V)
-	  - Code civil - art. 288 (Ab)
-	  - Code civil - art. 373-2 (M)
-	  - Code civil - art. 374 (M)
-	  - Code civil - art. 377-1 (V)
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-
-###### Article 373
-
-Perd l'exercice de l'autorité parentale ou en est provisoirement privé celui des père et mère qui se trouve dans l'un des cas
-suivants :
-
-1° S'il est hors d'état de manifester sa volonté, en raison de son incapacité, de son absence, de son éloignement ou de toute
-autre cause ;
-
-2° S'il a consenti une délégation de ses droits selon les règles établies à la section III du présent chapitre ;
-
-3° S'il a été condamné sous l'un des divers chefs de l'abandon de famille, tant qu'il n'a pas recommencé à assumer ses
-obligations pendant une durée de six mois au moins ;
-
-4° Si un jugement de retrait total ou partiel de l'autorité parentale a été prononcé contre lui, pour ceux de ses droits qui
-lui ont été retirés.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°96-604 du 5 juillet 1996 - art. 17 () JORF 6 juillet 1996
-
-	**Cité par**:
-
-	  - Code civil - art. 389-1 (M)
-	  - Code civil - art. 389-2 (M)
-	  - Code civil - art. 390 (M)
-	  - Code de la santé publique - art. L339 (M)
-	  - Code pénal - art. 227-17 (V)
-	  - Code pénal - art. 227-3 (VD)
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-
-###### Article 373-1
-
-Si l'un des père et mère décède ou se trouve dans l'un des cas énumérés par l'article précédent, l'exercice de l'autorité
-parentale est dévolu à l'autre.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Modifié par**:
-
-	  - Loi n°87-570 du 22 juillet 1987 - art. 14 () JORF 24 juillet 1987
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°87-570 du 22 juillet 1987 - art. 29 (V)
-	  - SPEC_APPLI: Loi n°87-570 du 22 juillet 1987 - art. 30 (V)
-
-	**Cité par**:
-
-	  - Code civil - art. 373-3 (V)
-
-
-###### Article 373-2
-
-Si les père et mère sont divorcés ou séparés de corps, l'autorité parentale est exercée dans les conditions prévues à
-l'article 287.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Loi n°70-459 du 4 juin 1970 - art. 15 (V)
-
-	**Modifié par**:
-
-	  - Loi n°93-22 du 8 janvier 1993 - art. 42 () JORF 9 janvier 1993
-
-	**Cite**:
-
-	  - Code civil - art. 287 (M)
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-
-###### Article 373-3
-
-Le divorce ou la séparation de corps ne fait pas obstacle à la dévolution prévue à l'article 373-1, lors même que celui des
-père et mère qui demeure en état d'exercer l'autorité parentale aurait été privé de l'exercice de certains des attributs de
-cette autorité par l'effet du jugement prononcé contre lui.
-
-Néanmoins, le juge aux affaires familiales peut toujours être saisi par la famille ou par le ministère public, afin de
-confier l'enfant à un tiers, avec ou sans ouverture d'une tutelle, ainsi qu'il est dit à l'article suivant.
-
-Dans des circonstances exceptionnelles, le juge aux affaires familiales qui statue sur les modalités de l'exercice de
-l'autorité parentale après divorce ou séparation de corps peut décider, du vivant même des parents, qu'en cas de décès de
-celui d'entre eux qui exerce cette autorité, l'enfant n'est pas confié au survivant. Il peut, dans ce cas, désigner la
-personne à laquelle l'enfant est provisoirement confié.
-
-Les dispositions des deuxième et troisième alinéas sont applicables aux parents d'un enfant naturel qui exercent en commun
-l'autorité parentale, lorsqu'ils résident séparément.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Cité par**:
-
-	  - Loi n°70-459 du 4 juin 1970 - art. 15 (V)
-	  - Loi n°2002-305 du 4 mars 2002 - art. 19 (V)
-	  - Code civil - art. 375-3 (V)
-	  - Code de la sécurité sociale. - art. L351-4 (V)
-	  - Code de procédure civile - art. 1180 (V)
-
-	**Modifié par**:
-
-	  - Loi n°93-22 1993-01-08 art. 48 III, IV, art. 64 JORF 9 janvier 1993 en vigueur le 1er février 1994
-	  - Loi n°93-22 du 8 janvier 1993 - art. 48 () JORF 9 janvier 1993 en vigueur le 1er février 1994
-	  - Loi n°93-22 du 8 janvier 1993 - art. 64 (V) JORF 9 janvier 1993 en vigueur le 1er février 1994
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°93-22 1993-01-08 art. 63 *Mayotte*, art. 64 *date d'effet*
-
-	**Cite**:
-
-	  - Code civil - art. 373-1 (M)
-	  - Code civil - art. 373-4 (M)
-
-
-###### Article 373-4
-
-Lorsque l'enfant a été confié à un tiers, l'autorité parentale continue d'être exercée par les père et mère ; toutefois, la
-personne à qui l'enfant a été confié accomplit tous les actes usuels relatifs à sa surveillance et à son éducation.
-
-Le juge aux affaires familiales, en confiant l'enfant à titre provisoire à un tiers, peut décider qu'il devra requérir
-l'ouverture d'une tutelle.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°93-22 1993-01-08 art. 63 *Mayotte*, art. 64 *date d'effet*
-
-	**Modifié par**:
-
-	  - Loi n°93-22 du 8 janvier 1993 - art. 48 () JORF 9 janvier 1993 en vigueur le 1er février 1994
-	  - Loi n°93-22 du 8 janvier 1993 - art. 64 (V) JORF 9 janvier 1993 en vigueur le 1er février 1994
-
-	**Cité par**:
-
-	  - Code civil - art. 373-3 (M)
-	  - Code civil - art. 375-7 (V)
-
-
-###### Article 373-5
-
-S'il ne reste plus ni père ni mère en état d'exercer l'autorité parentale, il y aura lieu à l'ouverture d'une tutelle ainsi
-qu'il est dit à l'article 390 ci-dessous.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°87-570 du 22 juillet 1987 - art. 17 () JORF 24 juillet 1987
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°87-570 du 22 juillet 1987 - art. 29 (V)
-	  - SPEC_APPLI: Loi n°87-570 du 22 juillet 1987 - art. 30 (V)
-
-	**Anciens textes**:
-
-	  - Code civil - art. 373-4 (M)
-
-	**Cite**:
-
-	  - Code civil - art. 390 (M)
-
-
-###### Article 374
-
-Lorsque la filiation d'un enfant naturel n'est établie qu'à l'égard de l'un de ses deux parents, celui-ci exerce seul
-l'autorité parentale.
-
-Lorsque sa filiation est établie à l'égard de ses deux parents selon des modalités autres que celles prévues à l'article 372,
-l'autorité parentale est exercée par la mère. Toutefois, elle est exercée en commun par les deux parents s'ils en font la
-déclaration conjointe devant le greffier en chef du tribunal de grande instance.
-
-Dans tous les cas, le juge aux affaires familiales peut, à la demande du père, de la mère ou du ministère public, modifier
-les conditions d'exercice de l'autorité parentale à l'égard d'un enfant naturel. Il peut décider qu'elle sera exercée soit
-par l'un des deux parents, soit en commun par le père et la mère ; il désigne, dans ce cas, le parent chez lequel l'enfant
-aura sa résidence habituelle.
-
-Le juge aux affaires familiales peut accorder un droit de surveillance au parent qui n'a pas l'exercice de l'autorité
-parentale. Il ne peut lui refuser un droit de visite et d'hébergement que pour des motifs graves.
-
-En cas d'exercice en commun de l'autorité parentale, le parent chez lequel les enfants ne résident pas habituellement
-contribue à leur entretien et à leur éducation à proportion des facultés respectives des parents.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Cité par**:
-
-	  - Loi n°70-459 du 4 juin 1970 - art. 11 (V)
-	  - Loi n°93-22 du 8 janvier 1993 - art. 46 (V)
-	  - Décret n°93-1091 du 16 septembre 1993 - art. 22 (V)
-	  - Code civil - art. 340-6 (M)
-	  - Code civil - art. 372 (M)
-	  - Nouveau code de procédure civile - art. 1180-1 (M)
-	  - Nouveau code de procédure civile - art. 1180-2 (M)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°95-125 1995-02-08 art. 19 *date d'effet*
-
-	**Modifié par**:
-
-	  - Loi n°95-125 du 8 février 1995 - art. 10 () JORF 9 février 1995 en vigueur le 9 mai 1995
-
-	**Abrogé par**:
-
-	  - Loi n°2002-305 du 4 mars 2002 - art. 8 () JORF 5 mars 2002
 
 
 #### Section 2 : De l'assistance éducative
@@ -18195,8 +18071,7 @@ professionnelle.
 
 S'il est nécessaire de retirer l'enfant de son milieu actuel, le juge peut décider de le confier :
 
-1° A celui des père et mère qui n'avait pas l'exercice de l'autorité parentale ou chez lequel l'enfant n'avait pas sa
-résidence habituelle ;
+1° A l'autre parent ;
 
 2° A un autre membre de la famille ou à un tiers digne de confiance ;
 
@@ -18207,8 +18082,8 @@ résidence habituelle ;
 Toutefois, lorsqu'une requête en divorce a été présentée ou un jugement de divorce rendu entre les père et mère, ces mesures
 ne peuvent être prises que si un fait nouveau de nature à entraîner un danger pour le mineur s'est révélé postérieurement à
 la décision statuant sur les modalités de l'exercice de l'autorité parentale ou confiant l'enfant à un tiers. Elles ne
-peuvent faire obstacle à la faculté qu'aura le juge aux affaires familiales de décider, par application des articles 287 et
-287-1, à qui l'enfant devra être confié. Les mêmes règles sont applicables à la séparation de corps.
+peuvent faire obstacle à la faculté qu'aura le juge aux affaires familiales de décider, par application de l'article 373-3, à
+qui l'enfant devra être confié. Les mêmes règles sont applicables à la séparation de corps.
 
 **Liens relatifs à cet article**
 
@@ -18252,13 +18127,11 @@ peuvent faire obstacle à la faculté qu'aura le juge aux affaires familiales de
 
 	**Modifié par**:
 
-	  - Loi n°93-22 du 8 janvier 1993 - art. 48 () JORF 9 janvier 1993 en vigueur le 1er février 1994
-	  - Loi n°93-22 du 8 janvier 1993 - art. 64 (V) JORF 9 janvier 1993 en vigueur le 1er février 1994
+	  - Loi n°2002-305 du 4 mars 2002 - art. 8 () JORF 5 mars 2002
 
 	**Cite**:
 
-	  - Code civil - art. 287 (M)
-	  - Code civil - art. 287-1 (M)
+	  - Code civil - art. 373-3 (M)
 
 	**Codifié par**:
 
@@ -18463,6 +18336,34 @@ en décharger en tout ou en partie.
 	  - Loi n°1803-03-14
 
 
+###### Article 375-9
+
+La décision confiant le mineur, sur le fondement du 3° de l'article 375-3, à un établissement recevant des personnes
+hospitalisées en raison de troubles mentaux, est ordonnée après avis médical circonstancié d'un médecin extérieur à
+l'établissement, pour une durée ne pouvant excéder quinze jours.
+
+La mesure peut être renouvelée, après avis médical conforme d'un psychiatre de l'établissement d'accueil, pour une durée d'un
+mois renouvelable.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2002-303 du 4 mars 2002 - art. 19 () JORF 5 mars 2002
+
+	**Cité par**:
+
+	  - Loi n°2002-303 du 4 mars 2002 - art. 127 (V)
+
+	**Cite**:
+
+	  - Code civil - art. 375-3 (M)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
 #### Section 3 : De la délégation de l'autorité parentale
 
 ###### Article 376
@@ -18538,15 +18439,16 @@ l'autoriseraient à révoquer son consentement.
 
 ###### Article 377
 
-Les père et mère, ensemble ou séparément, ou le tuteur autorisé par le conseil de famille, peuvent, quand ils ont remis
-l'enfant mineur de seize ans à un particulier digne de confiance, à un établissement agréé à cette fin, ou au service
-départemental de l'aide sociale à l'enfance, renoncer en tout ou partie à l'exercice de leur autorité.
+Les père et mère, ensemble ou séparément, peuvent, lorsque les circonstances l'exigent, saisir le juge en vue de voir
+déléguer tout ou partie de l'exercice de leur autorité parentale à un tiers, membre de la famille, proche digne de confiance,
+établissement agréé pour le recueil des enfants ou service départemental de l'aide sociale à l'enfance.
 
-En ce cas, délégation, totale ou partielle, de l'autorité parentale résultera du jugement qui sera rendu par le juge aux
-affaires familiales sur la requête conjointe des délégants et du délégataire.
+En cas de désintérêt manifeste ou si les parents sont dans l'impossibilité d'exercer tout ou partie de l'autorité parentale,
+le particulier, l'établissement ou le service départemental de l'aide sociale à l'enfance qui a recueilli l'enfant peut
+également saisir le juge aux fins de se faire déléguer totalement ou partiellement l'exercice de l'autorité parentale.
 
-La même délégation peut être décidée, à la seule requête du délégataire, lorsque les parents se sont désintéressés de
-l'enfant depuis plus d'un an.
+Dans tous les cas visés au présent article, les deux parents doivent être appelés à l'instance. Lorsque l'enfant concerné
+fait l'objet d'une mesure d'assistance éducative, la délégation ne peut intervenir qu'après avis du juge des enfants.
 
 **Liens relatifs à cet article**
 
@@ -18572,8 +18474,7 @@ l'enfant depuis plus d'un an.
 
 	**Modifié par**:
 
-	  - Loi n°93-22 du 8 janvier 1993 - art. 48 () JORF 9 janvier 1993 en vigueur le 1er février 1994
-	  - Loi n°93-22 du 8 janvier 1993 - art. 64 (V) JORF 9 janvier 1993 en vigueur le 1er février 1994
+	  - Loi n°2002-305 du 4 mars 2002 - art. 7 () JORF 5 mars 2002
 
 	**Codifié par**:
 
@@ -18582,18 +18483,15 @@ l'enfant depuis plus d'un an.
 
 ###### Article 377-1
 
-La délégation de l'autorité parentale peut aussi avoir lieu quand le mineur de seize ans a été recueilli sans l'intervention
-des père et mère ou du tuteur. Mais il faut, en ce cas, que le particulier ou l'établissement, après avoir recueilli
-l'enfant, en ait fait la déclaration à l'autorité administrative du lieu.
+La délégation, totale ou partielle, de l'autorité parentale résultera du jugement rendu par le juge aux affaires familiales. 
 
-Cette déclaration est faite dans la huitaine. L'autorité administrative, dans le mois qui suit, en donne avis aux père et
-mère ou au tuteur. La notification qui leur est ainsi faite ouvre un nouveau délai de trois mois à l'expiration duquel, faute
-par eux de réclamer l'enfant, ils sont présumés renoncer à exercer sur lui leur autorité.
+Toutefois, le jugement de délégation peut prévoir, pour les besoins d'éducation de l'enfant, que les père et mère, ou l'un
+d'eux, partageront tout ou partie de l'exercice de l'autorité parentale avec le tiers délégataire. Le partage nécessite
+l'accord du ou des parents en tant qu'ils exercent l'autorité parentale. La présomption de l'article 372-2 est applicable à
+l'égard des actes accomplis par le ou les délégants et le délégataire. 
 
-Le particulier, l'établissement ou le service départemental de l'aide sociale à l'enfance qui a recueilli l'enfant peut alors
-présenter requête au juge aux affaires familiales aux fins de se faire déléguer totalement ou partiellement l'autorité
-parentale. Quel que soit le requérant, le juge aux affaires familiales peut décider, dans l'intérêt de l'enfant, les parents
-entendus ou appelés, que l'autorité parentale sera déléguée au service de l'aide sociale à l'enfance.
+Le juge peut être saisi des difficultés que l'exercice partagé de l'autorité parentale pourrait générer par les parents, l'un
+d'eux, le délégataire ou le ministère public. Il statue conformément aux dispositions de l'article 373-2-11.
 
 **Liens relatifs à cet article**
 
@@ -18603,8 +18501,12 @@ entendus ou appelés, que l'autorité parentale sera déléguée au service de l
 
 	**Modifié par**:
 
-	  - Loi n°93-22 du 8 janvier 1993 - art. 48 () JORF 9 janvier 1993 en vigueur le 1er février 1994
-	  - Loi n°93-22 du 8 janvier 1993 - art. 64 (V) JORF 9 janvier 1993 en vigueur le 1er février 1994
+	  - Loi n°2002-305 du 4 mars 2002 - art. 7 () JORF 5 mars 2002
+
+	**Cite**:
+
+	  - Code civil - art. 372-2 (V)
+	  - Code civil - art. 373-2-11 (V)
 
 	**Cité par**:
 
@@ -18627,9 +18529,6 @@ circonstances nouvelles.
 Dans le cas où la restitution de l'enfant est accordée aux père et mère, le juge aux affaires familiales met à leur charge,
 s'ils ne sont indigents, le remboursement de tout ou partie des frais d'entretien.
 
-Quand la demande de restitution a été rejetée, elle ne peut être renouvelée qu'un an plus tôt après que la décision de rejet
-sera devenue irrévocable.
-
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -18642,8 +18541,7 @@ sera devenue irrévocable.
 
 	**Modifié par**:
 
-	  - Loi n°93-22 du 8 janvier 1993 - art. 48 () JORF 9 janvier 1993 en vigueur le 1er février 1994
-	  - Loi n°93-22 du 8 janvier 1993 - art. 64 (V) JORF 9 janvier 1993 en vigueur le 1er février 1994
+	  - Loi n°2002-305 du 4 mars 2002 - art. 7 () JORF 5 mars 2002
 
 
 ###### Article 377-3
@@ -19156,9 +19054,12 @@ La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 ###### Article 389-2
 
 L'administration légale est placée sous le contrôle du juge des tutelles lorsque l'un ou l'autre des deux parents est décédé
-ou se trouve dans l'un des cas prévus à l'article 373 ; elle l'est également, à moins que les parents n'exercent en commun
-l'autorité parentale, lorsque les père et mère sont divorcés ou séparés de corps, ou encore lorsque le mineur est un enfant
-naturel.
+ou se trouve privé de l'exercice de l'autorité parentale ; elle l'est également, en cas d'exercice unilatéral de l'autorité
+parentale.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 
 **Liens relatifs à cet article**
 
@@ -19166,17 +19067,14 @@ naturel.
 
 	  - Loi n°1803-03-14
 
-	**Modifié par**:
-
-	  - Loi n°85-1372 du 23 décembre 1985 - art. 40 () JORF 26 décembre 1985 en vigueur le 1er juillet 1986
-
 	**Liens**:
 
 	  - SPEC_APPLI: Loi n°85-1372 du 23 décembre 1985 - art. 55 (V)
+	  - SPEC_APPLI: Loi n°2002-305 2002-03-04 art. 19 I (application à Mayotte)
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code civil - art. 373 (M)
+	  - Loi n°2002-305 du 4 mars 2002 - art. 8 () JORF 5 mars 2002
 
 	**Cité par**:
 
@@ -19340,17 +19238,14 @@ La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 
 ###### Article 390
 
-La tutelle s'ouvre lorsque le père et la mère sont tous deux décédés ou se trouvent dans l'un des cas prévus à l'article 373.
+La tutelle s'ouvre lorsque le père et la mère sont tous deux décédés ou se trouvent privés de l'exercice de l'autorité
+parentale.
 
 Elle s'ouvre, aussi, à l'égard d'un enfant naturel, s'il n'a ni père ni mère qui l'aient volontairement reconnu.
 
 Il n'est pas dérogé aux lois particulières qui régissent le service de l'aide sociale à l'enfance.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
 
 	**Cité par**:
 
@@ -19361,9 +19256,9 @@ Il n'est pas dérogé aux lois particulières qui régissent le service de l'aid
 	  - Code de la famille et de l'aide sociale. - art. 193 (Ab)
 	  - Code de procédure civile - art. 1217 (V)
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code civil - art. 373 (M)
+	  - Loi n°2002-305 du 4 mars 2002 - art. 8 () JORF 5 mars 2002
 
 	**Codifié par**:
 
@@ -19731,6 +19626,30 @@ La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 	**Cité par**:
 
 	  - Code civil - art. 456 (V)
+
+
+###### Article 402
+
+Lorsqu'il n'a pas été choisi de tuteur par le dernier mourant des père et mère, la tutelle de l'enfant est déférée à celui
+des ascendants qui est du degré le plus rapproché.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2002-305 du 4 mars 2002 - art. 10 () JORF 5 mars 2002
+
+	**Cité par**:
+
+	  - Code civil - art. 456 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
 
 
 ###### Article 403
@@ -20887,30 +20806,6 @@ La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 	  - Code civil - art. 437 (V)
 	  - Code civil - art. 449 (V)
 	  - Code de procédure civile - art. 1255 (V)
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-
-#### Section 2 : De l'organisation de la tutelle.
-
-##### Paragraphe 2 : Du tuteur.
-
-###### Article 402
-
-Lorsqu'il n'a pas été choisi de tuteur par le dernier mourant des père et mère, la tutelle de l'enfant légitime est déférée à
-celui des ascendants qui est du degré le plus rapproché.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
-
-	**Cité par**:
-
-	  - Code civil - art. 456 (V)
 
 	**Codifié par**:
 
@@ -37403,6 +37298,26 @@ acquéreurs pourraient avoir eue de la disposition par d'autres voies que celle 
 	  - Loi n°2006-728 du 23 juin 2006 - art. 20 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
+###### Article 1072
+
+Les donataires, les légataires, ni même les héritiers de celui qui aura fait la disposition, ni pareillement leurs
+donataires, légataires ou héritiers ne pourront, en aucun cas, opposer aux appelés le défaut de publication ou inscription.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Modifié par**:
+
+	  - Loi n°2002-305 du 4 mars 2002 - art. 10 () JORF 5 mars 2002
+
+	**Abrogé par**:
+
+	  - Loi n°2006-728 du 23 juin 2006 - art. 20 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+
 ###### Article 1073
 
 Le tuteur nommé pour l'exécution sera personnellement responsable, s'il ne s'est pas, en tout point, conformé aux règles ci-
@@ -38363,26 +38278,6 @@ publicité foncière, et quant aux créances privilégiées ou hypothécaires, s
 	  - Loi n°1803-05-03 promulguée le 13 mai 1803
 
 
-###### Article 1072
-
-Les donataires, les légataires, ni même les héritiers légitimes de celui qui aura fait la disposition, ni pareillement leurs
-donataires, légataires ou héritiers, ne pourront, en aucun cas, opposer aux appelés le défaut de publication ou inscription.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-05-03
-
-	**Créé par**:
-
-	  - Loi n°1803-05-03 promulguée le 13 mai 1803
-
-	**Modifié par**:
-
-	  - Ordonnance 59-71 1959-01-07 art. 25 JORF 8 janvier 1959
-
-
 ### Chapitre IX : Des dispositions entre époux, soit par contrat de mariage, soit pendant le mariage.
 
 ###### Article 1094
@@ -38524,29 +38419,6 @@ II.
 	**Créé par**:
 
 	  - Loi n°1803-05-03 promulguée le 13 mai 1803
-
-
-###### Article 1100
-
-Seront réputées faites à personnes interposées, les donations de l'un des époux aux enfants ou à l'un des enfants de l'autre
-époux issus d'un autre mariage, et celles faites par le donateur aux parents dont l'autre époux sera héritier présomptif au
-jour de la donation, encore que ce dernier n'ait point survécu à son parent donataire.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°1803-05-03 promulguée le 13 mai 1803
-
-	**Abrogé par**:
-
-	  - Loi n°2002-305 du 4 mars 2002 - art. 10 () JORF 5 mars 2002
-
-	**Cité par**:
-
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 751 (M)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 773 (M)
-	  - Code général des impôts, CGI. - art. 752 (V)
 
 
 ## Titre III : Des contrats ou des obligations conventionnelles en général
@@ -44884,27 +44756,27 @@ imprudence.
 
 ###### Article 1384
 
-On est responsable non seulement du dommage  que l'on cause par son propre fait, mais encore de celui qui est causé par le
-fait des personnes dont on doit répondre, ou des choses que l'on a sous sa garde.
+On est responsable non seulement du dommage que l'on cause par son propre fait, mais encore de celui qui est causé par le
+fait des personnes dont on doit répondre, ou des choses que l'on a sous sa garde. 
 
 Toutefois, celui qui détient, à un titre quelconque, tout ou partie de l'immeuble ou des biens mobiliers dans lesquels un
 incendie a pris naissance ne sera responsable, vis-à-vis des tiers, des dommages causés par cet incendie que s'il est prouvé
-qu'il doit être attribué à sa faute ou à la faute des personnes dont il est responsable.
+qu'il doit être attribué à sa faute ou à la faute des personnes dont il est responsable. 
 
 Cette disposition ne s'applique pas aux rapports entre propriétaires et locataires, qui demeurent régis par les articles 1733
-et 1734 du code civil.
+et 1734 du code civil. 
 
-Le père et la mère, en tant qu'ils exercent le droit de garde, sont solidairement responsables du dommage causé par leurs
-enfants mineurs habitant avec eux.
+Le père et la mère, en tant qu'ils exercent l'autorité parentale, sont solidairement responsables du dommage causé par leurs
+enfants mineurs habitant avec eux. 
 
 Les maîtres et les commettants, du dommage causé par leurs domestiques et préposés dans les fonctions auxquelles ils les ont
-employés ;
+employés ; 
 
 Les instituteurs et les artisans, du dommage causé par leurs élèves et apprentis pendant le temps qu'ils sont sous leur
-surveillance.
+surveillance. 
 
 La responsabilité ci-dessus a lieu, à moins que les père et mère et les artisans ne prouvent qu'ils n'ont pu empêcher le fait
-qui donne lieu à cette responsabilité.
+qui donne lieu à cette responsabilité. 
 
 En ce qui concerne les instituteurs, les fautes, imprudences ou négligences invoquées contre eux comme ayant causé le fait
 dommageable, devront être prouvées, conformément au droit commun, par le demandeur, à l'instance.
@@ -44948,22 +44820,21 @@ dommageable, devront être prouvées, conformément au droit commun, par le dema
 	  - Code rural ancien - art. 491 (Ab)
 	  - Décret n°1986-03-14 du 14 mars 1986 - art. ANNEXE (Ab)
 
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2002-305 2002-03-04 art. 19 I (application à Mayotte), art. 19 II (application à Wallis-et-Futuna, Polynésie française et Nouvelle-Calédonie)
+
+	**Modifié par**:
+
+	  - Loi n°2002-305 du 4 mars 2002 - art. 8 () JORF 5 mars 2002
+
 	**Cite**:
 
 	  - Code civil - art. 1733 (V)
-	  - Code civil - art. 1734 (V)
 
 	**Codifié par**:
 
 	  - Loi n°1804-02-09
-
-	**Créé par**:
-
-	  - Loi n°1804-02-09 promulguée le 19 février 1804
-
-	**Modifié par**:
-
-	  - Loi n°1937-04-05 JORF 6 avril 1937 rectificatif JORF 12 mai 1937
 
 
 ###### Article 1385

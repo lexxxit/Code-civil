@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1892-07-11
+Version Consolidée au 1893-06-08
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -458,6 +458,29 @@ et mères décédés, que par témoins.
 	  - Décret n°2017-890 du 6 mai 2017 - art. 15 (VD)
 	  - Code civil - art. 194 (V)
 	  - Ordonnance n°2010-590 du 3 juin 2010 - art. 9 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-11
+
+	**Créé par**:
+
+	  - Loi n°1803-03-11 promulguée le 21 mars 1803
+
+
+###### Article 48
+
+Tout acte de l'état civil des Français en pays étranger sera valable, s'il a été reçu, conformément aux lois françaises, par
+les agents diplomatiques ou par les consuls.
+
+Un double des registres de l'état civil tenus par ces agents sera adressé à la fin de chaque année au ministère des affaires
+étrangères, qui en assurera la garde et pourra en délivrer des extraits.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 13 juillet 2012 (V)
 
 	**Codifié par**:
 
@@ -9463,6 +9486,61 @@ assujetti à aucune autre forme.
 
 #### Section 2 : Des règles particulières sur la forme de certains testaments.
 
+###### Article 983
+
+Dans tous les cas, il sera fait un double original des testaments mentionnés aux deux articles précédents.
+
+Si cette formalité n'a pu être remplie à raison de l'état de santé du testateur, il sera dressé une expédition du testament
+pour tenir lieu du second original ; cette expédition sera signée par les témoins et par les officiers instrumentaires. Il y
+sera fait mention des causes qui ont empêché de dresser le second original.
+
+Dès que la communication sera possible, et dans le plus bref délai, les deux originaux ou l'original et l'expédition du
+testament seront adressés, séparément et par courriers différents, sous pli clos et cacheté, au ministre de la guerre ou de
+la marine, pour être déposés chez le notaire indiqué par le testateur ou, à défaut d'indication, chez le président de la
+chambre des notaires de l'arrondissement du dernier domicile.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code civil - art. 991 (V)
+	  - Code civil - art. 992 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 984
+
+Le testament fait dans la forme ci-dessus établie sera nul six mois après que le testateur sera venu dans un lieu où il aura
+la liberté d'employer les formes ordinaires, à moins que, avant l'expiration de ce délai, il n'ait été de nouveau placé dans
+une des situations spéciales prévues à l'article 93. Le testament sera alors valable pendant la durée de cette situation
+spéciale et pendant un nouveau délai de six mois après son expiration.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code civil - art. 93 (M)
+
+	**Cité par**:
+
+	  - Code civil - art. 996 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
 ###### Article 987
 
 Les testaments mentionnés aux deux précédents articles deviendront nuls six mois après que les communications auront été
@@ -9474,6 +9552,250 @@ interrompues.
 	**Cité par**:
 
 	  - Code civil - art. 996 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 988
+
+Au cours d'un voyage maritime, soit en route, soit pendant un arrêt dans un port, lorsqu'il y aura impossibilité de
+communiquer avec la terre ou lorsqu'il n'existera pas dans le port, si l'on est à l'étranger, d'agent diplomatique ou
+consulaire français investi des fonctions de notaire, les testaments des personnes présentes à bord seront reçus, en présence
+de deux témoins : sur les bâtiments de l'Etat, par l'officier d'administration ou, à son défaut, par le commandant ou celui
+qui en remplit les fonctions, et sur les autres bâtiments, par le capitaine, maître ou patron, assisté du second du navire,
+ou, à leur défaut, par ceux qui les remplacent.
+
+L'acte indiquera celle des circonstances ci-dessus prévues dans laquelle il aura été reçu.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code civil - art. 994 (V)
+	  - Code civil - art. 995 (V)
+	  - Code disciplinaire et pénal de la marine marchande - art. 43 (VT)
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 989
+
+Sur les bâtiments de l'Etat, le testament de l'officier d'administration sera, dans les circonstances prévues à l'article
+précédent, reçu par le commandant ou par celui qui en remplit les fonctions, et, s'il n'y a pas d'officier d'administration,
+le testament du commandant sera reçu par celui qui vient après lui dans l'ordre du service.
+
+Sur les autres bâtiments, le testament du capitaine, maître ou patron, ou celui du second, seront, dans les mêmes
+circonstances, reçus par les personnes qui viennent après eux dans l'ordre du service.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code disciplinaire et pénal de la marine marchande - art. 43 (VT)
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 990
+
+Dans tous les cas, il sera fait un double original des testaments mentionnés aux deux articles précédents.
+
+Si cette formalité n'a pu être remplie à raison de l'état de santé du testateur, il sera dressé une expédition du testament
+pour tenir lieu du second original ; cette expédition sera signée par les témoins et par les officiers instrumentaires. Il y
+sera fait mention des causes qui ont empêché de dresser le second original.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 991
+
+Au premier arrêt dans un port étranger où se trouve un agent diplomatique ou consulaire français, il sera fait remise, sous
+pli clos et cacheté, de l'un des originaux ou de l'expédition du testament entre les mains de ce fonctionnaire, qui
+l'adressera au ministre de la marine afin que le dépôt puisse en être effectué comme il est dit à l'article 983.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code civil - art. 983 (M)
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 992
+
+A l'arrivée du bâtiment dans un port de France, les deux originaux du testament ou l'original et son expédition, ou
+l'original qui reste, en cas de transmission ou de remise effectuée pendant le cours du voyage, seront déposés, sous pli clos
+et cacheté, pour les bâtiments de l'Etat, au bureau des armements, et pour les autres bâtiments au bureau de l'inscription
+maritime. Chacune de ces pièces sera adressée, séparément et par courriers différents, au ministre de la marine qui en
+opérera la transmission comme il est dit à l'article 983.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code civil - art. 983 (M)
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 993
+
+Il sera fait mention, sur le rôle du bâtiment, en regard du nom du testateur, de la remise des originaux ou expédition du
+testament faite, conformément aux prescriptions des articles précédents, au consulat, au bureau des armements ou au bureau de
+l'inscription maritime.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 994
+
+Le testament fait au cours d'un voyage maritime, en la forme prescrite par les articles 988 et suivants, ne sera valable
+qu'autant que le testateur mourra à bord ou dans les six mois après qu'il sera débarqué dans un lieu où il aura pu le refaire
+dans les formes ordinaires.
+
+Toutefois, si le testateur entreprend un nouveau voyage maritime avant l'expiration de ce délai, le testament sera valable
+pendant la durée de ce voyage et pendant un nouveau délai de six mois après que le testateur sera de nouveau débarqué.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code civil - art. 988 (M)
+
+	**Cité par**:
+
+	  - Code civil - art. 996 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 995
+
+Les dispositions insérées dans un testament fait, au cours d'un voyage maritime, au profit des officiers du bâtiment autres
+que ceux qui seraient parents ou alliés du testateur, seront nulles et non avenues.
+
+Il en sera ainsi, que le testament soit fait en la forme olographe ou qu'il soit reçu conformément aux articles 988 et
+suivants.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code civil - art. 988 (M)
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 996
+
+Il sera donné lecture au testateur, en présence des témoins, des dispositions de l'article 984, 987 ou 994, suivant le cas,
+et mention de cette lecture sera faite dans le testament.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code civil - art. 984 (M)
+	  - Code civil - art. 987 (M)
+	  - Code civil - art. 994 (M)
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 997
+
+Les testaments compris dans les articles ci-dessus de la présente section seront signés par le testateur, par ceux qui les
+auront reçus et par les témoins.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 998
+
+Si le testateur déclare qu'il ne peut ou ne sait signer, il sera fait mention de sa déclaration, ainsi que de la cause qui
+l'empêche de signer.
+
+Dans le cas où la présence de deux témoins est requise, le testament sera signé au moins par l'un d'eux, et il sera fait
+mention de la cause pour laquelle l'autre n'aura pas signé.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code civil - art. 1001 (M)
 
 	**Codifié par**:
 

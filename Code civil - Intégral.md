@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1967-07-01
+Version Consolidée au 1967-07-09
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -27400,6 +27400,71 @@ conservée, en faisant déterminer le prix par la ventilation.
 
 ### Chapitre III-1 : De la vente d'immeubles à construire.
 
+###### Article 1601-1
+
+La vente d'immeubles à construire est celle par laquelle le vendeur s'oblige à édifier un immeuble dans un délai déterminé
+par le contrat.
+
+Elle peut être conclue à terme ou en l'état futur d'achèvement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°67-3 du 3 janvier 1967 - art. 1 () JORF 4 janvier 1967 en vigueur le 1er juillet 1967
+
+	**Cité par**:
+
+	  - Loi n°85-704 du 12 juillet 1985 - art. 1 (V)
+	  - Ordonnance n°98-774 du 2 septembre 1998 - art. 1 (VD)
+	  - CODE GENERAL DES IMPOTS ANNEXE 3, CGIAN3. - art. 46 quater-0 G (Ab)
+	  - Code de l'urbanisme - art. L213-1 (VD)
+	  - Code de l'urbanisme - art. R*315-2 (M)
+	  - Code de la construction et de l'habitation. - art. L261-1 (M)
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code de la construction et de l'habitation. - art. L261-1 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-06
+
+
+###### Article 1601-2
+
+La vente à terme est le contrat par lequel le vendeur s'engage à livrer l'immeuble à son achèvement, l'acheteur s'engage à en
+prendre livraison et à en payer le prix à la date de livraison. Le transfert de propriété s'opère de plein droit par la
+constatation par acte authentique de l'achèvement de l'immeuble ; il produit ses effets rétroactivement au jour de la vente.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°67-3 du 3 janvier 1967 - art. 1 () JORF 4 janvier 1967 en vigueur le 1er juillet 1967
+
+	**Cité par**:
+
+	  - Loi n°67-3 du 3 janvier 1967 - art. 6 (V)
+	  - Loi n°85-704 du 12 juillet 1985 - art. 1 (V)
+	  - Code civil - art. 2108-1 (T)
+	  - Code civil - art. 2380 (V)
+	  - Code de l'urbanisme - art. R*315-2 (M)
+	  - Code de la construction et de l'habitation. - art. L261-10 (V)
+	  - Code de la construction et de l'habitation. - art. L261-2 (M)
+	  - Code de la construction et de l'habitation. - art. R*261-1 (V)
+	  - Code de la construction et de l'habitation. - art. R*261-32 (V)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 98-774 1998-09-02 art. 1 II (champ d'application territoriale Polynésie française)
+	  - PILOTE_SUIVEUR: Code de la construction et de l'habitation. - art. L261-2 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-06
+
+
 ###### Article 1601-3
 
 La vente en l'état futur d'achèvement est le contrat par lequel le vendeur transfère immédiatement à l'acquéreur ses droits
@@ -27434,6 +27499,31 @@ Le vendeur conserve les pouvoirs de maître de l'ouvrage jusqu'à la réception 
 
 	  - SPEC_APPLI: Ordonnance 98-774 1998-09-02 art. 1 II (champ d'application territoriale Polynésie française)
 	  - PILOTE_SUIVEUR: Code de la construction et de l'habitation. - art. L261-3 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-06
+
+
+###### Article 1601-4
+
+La cession par l'acquéreur des droits qu'il tient d'une vente d'immeuble à construire substitue de plein droit le
+cessionnaire dans les obligations de l'acquéreur envers le vendeur.
+
+Si la vente a été assortie d'un mandat, celui-ci se poursuit entre le vendeur et le cessionnaire.
+
+Ces dispositions s'appliquent à toute mutation entre vifs, volontaire ou forcée, ou à cause de mort.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 98-774 1998-09-02 art. 1 II (champ d'application territoriale Polynésie française)
+	  - PILOTE_SUIVEUR: Code de la construction et de l'habitation. - art. L261-4 (V)
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*315-2 (M)
 
 	**Codifié par**:
 
@@ -28198,6 +28288,45 @@ Le vendeur n'est pas tenu des vices apparents et dont l'acheteur a pu se convain
 	  - Loi n°1804-03-06 promulguée le 16 mars 1804
 
 
+###### Article 1642-1
+
+Le vendeur d'un immeuble à construire ne peut être déchargé, ni avant la réception des travaux, ni avant l'expiration d'un
+délai d'un mois après la prise de possession par l'acquéreur, des vices de construction alors apparents.
+
+Il n'y aura pas lieu à résolution du contrat ou à diminution du prix si le vendeur s'oblige à réparer le vice.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-06
+
+	**Créé par**:
+
+	  - Loi n°67-3 du 3 janvier 1967 - art. 2 () JORF 4 janvier 1967 en vigueur le 1er janvier 1967
+
+	**Cité par**:
+
+	  - Loi n°67-3 du 3 janvier 1967 - art. 12 (V)
+	  - Loi n°71-579 du 16 juillet 1971 - art. 2 (Ab)
+	  - Ordonnance n°98-774 du 2 septembre 1998 - art. 1 (VD)
+	  - Ordonnance n°2013-516 du 20 juin 2013 - art. 1 (VD)
+	  - Code civil - art. 1648 (V)
+	  - Code de la construction et de l'habitation. - art. L211-2 (V)
+	  - Code de la construction et de l'habitation. - art. L261-16 (V)
+	  - Code de la construction et de l'habitation. - art. L261-21 (Ab)
+	  - Code de la construction et de l'habitation. - art. L261-5 (M)
+	  - Code de la construction et de l'habitation. - art. L261-7 (V)
+	  - Code de la construction et de l'habitation. - art. L291-3 (V)
+	  - Code de la construction et de l'habitation. - art. R*261-1 (V)
+	  - Code de la construction et de l'habitation. - art. R*261-8 (V)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 98-774 1998-09-02 art. 1 II (champ d'application territoriale Polynésie française)
+	  - PILOTE_SUIVEUR: Code de la construction et de l'habitation. - art. L261-5 (V)
+
+
 ###### Article 1643
 
 Il est tenu des vices cachés, quand même il ne les aurait pas connus, à moins que, dans ce cas, il n'ait stipulé qu'il ne
@@ -28320,6 +28449,44 @@ Mais la perte arrivée par cas fortuit sera pour le compte de l'acheteur.
 	  - Code rural - art. L213-3 (V)
 	  - Code rural - art. L913-3 (T)
 	  - Code rural ancien - art. 285-1 (Ab)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-06
+
+	**Créé par**:
+
+	  - Loi n°1804-03-06 promulguée le 16 mars 1804
+
+
+###### Article 1648
+
+L'action résultant des vices rédhibitoires doit être intentée par l'acquéreur, dans un bref délai, suivant la nature des
+vices rédhibitoires, et l'usage du lieu où la vente a été faite.
+
+Dans le cas prévu par l'article 1642-1, l'action doit être introduite, à peine de forclusion, dans l'année qui suit la date à
+laquelle le vendeur peut être déchargé des vices apparents.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°87-1045 du 22 décembre 1987 - art. Annexe (Ab)
+	  - Ordonnance n°98-774 du 2 septembre 1998 - art. 1 (VD)
+	  - Ordonnance n°2013-516 du 20 juin 2013 - art. 1 (VD)
+	  - Loi n°2014-344 du 17 mars 2014 - art. 15 (V)
+	  - Code de la consommation - art. L211-15 (VT)
+	  - Code de la consommation - art. L217-15 (VD)
+	  - Code de la construction et de l'habitation. - art. L261-7 (M)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 98-774 1998-09-02 art. 1 II (champ d'application territoriale Polynésie française)
+	  - PILOTE_SUIVEUR: Code de la construction et de l'habitation. - art. L261-7 (V)
+
+	**Cite**:
+
+	  - Code civil - art. 1642-1 (V)
 
 	**Codifié par**:
 
@@ -36711,6 +36878,48 @@ l'immeuble du chef de l'acquéreur et qui les ont publiés.
 	**Créé par**:
 
 	  - Loi n°1804-03-19 promulguée le 29 mars 1804
+
+
+###### Article 2108-1
+
+Dans le cas de vente d'un immeuble à construire conclue à terme conformément à l'article 1601-2, le privilège du vendeur ou
+celui du prêteur de deniers prend rang à la date de l'acte de vente si l'inscription est prise avant l'expiration d'un délai
+de deux mois à compter de la constatation par acte authentique de l'achèvement de l'immeuble.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°67-547 1967-07-07 art. 9 JORF 9 juillet 1967
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 98-774 1998-09-02 art. 1 II (champ d'application territoriale Polynésie française)
+
+	**Cité par**:
+
+	  - Ordonnance n°98-774 du 2 septembre 1998 - art. 1 (VD)
+	  - Ordonnance n°2006-461 du 21 avril 2006 - art. 24 (VT)
+
+	**Transféré par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
+
+	**Cite**:
+
+	  - Code civil - art. 1601-2 (V)
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2380 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-19
 
 
 ###### Article 2109

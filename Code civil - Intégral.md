@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1968-07-04
+Version Consolidée au 1968-11-01
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -7619,23 +7619,23 @@ délai au conseil qui décidera du remploi.
 
 ## Titre XI : De la majorité et des majeurs qui sont protégés par la loi.
 
-### Chapitre IV : Des majeurs en curatelle.
+### Chapitre Ier : Dispositions générales.
 
-###### Article 515
+###### Article 489
 
-(article abrogé).
+Pour faire un acte valable, il faut être sain d'esprit. Mais c'est à ceux qui agissent en nullité pour cette cause de prouver
+l'existence d'un trouble mental au moment de l'acte. 
+
+Du vivant de l'individu, l'action en nullité ne peut être exercée que par lui, ou par son tuteur ou curateur, s'il lui en a
+été ensuite nommé un. Elle s'éteint par le délai prévu à l'article 1304.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
 	**Créé par**:
-
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
-
-	**Abrogé par**:
 
 	  - Loi n°68-5 du 3 janvier 1968 - art. 1 () JORF 4 janvier 1968 en vigueur le 1er novembre 1968
 
@@ -7647,6 +7647,1873 @@ délai au conseil qui décidera du remploi.
 	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 17 (V)
 	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 21 (V)
 	  - SPEC_APPLI: Loi n°68-696 1968-07-31 art. 14
+	  - TXT_ASSOCIE: Code civil - art. 489-1 (AbD)
+
+	**Cite**:
+
+	  - Code civil - art. 1304 (VD)
+
+	**Cité par**:
+
+	  - Code civil - art. 489-1 (AbD)
+	  - Code civil - art. 491-2 (VT)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 489-1
+
+Après sa mort, les actes faits par un individu, autres que la donation entre vifs ou le testament, ne pourront être attaqués
+pour la cause prévue à l'article précédent que dans les cas ci-dessous énumérés :
+
+1° Si l'acte porte en lui-même la preuve d'un trouble mental ;
+
+2° S'il a été fait dans un temps où l'individu était placé sous la sauvegarde de justice ;
+
+3° Si une action avait été introduite avant le décès aux fins de faire ouvrir la tutelle ou la curatelle.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°68-5 du 3 janvier 1968 - art. 1 () JORF 4 janvier 1968 en vigueur le 1er novembre 1968
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 14 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 15 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 16 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 17 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 21 (V)
+	  - SPEC_APPLI: Loi n°68-696 1968-07-31 art. 14
+	  - TXT_ASSOCIE: Code civil - art. 489 (AbD)
+
+	**Abrogé par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+
+	**Cite**:
+
+	  - Code civil - art. 489 (AbD)
+
+
+###### Article 489-2
+
+Celui qui a causé un dommage à autrui alors qu'il était sous l'empire d'un trouble mental n'en est pas moins obligé à
+réparation.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°68-5 du 3 janvier 1968 - art. 1 () JORF 4 janvier 1968 en vigueur le 1er novembre 1968
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 14 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 15 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 16 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 17 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 21 (V)
+	  - SPEC_APPLI: Loi n°68-696 1968-07-31 art. 14
+
+	**Abrogé par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+
+	**Cité par**:
+
+	  - Loi n°2008-174 du 25 février 2008 - art. 11 (V)
+	  - CODE DE PROCEDURE PENALE - art. 706-125 (M)
+	  - CODE DE PROCEDURE PENALE - art. 706-131 (M)
+
+
+###### Article 490
+
+Lorsque les facultés mentales sont altérées par une maladie, une infirmité ou un affaiblissement dû à l'âge, il est pourvu
+aux intérêts de la personne par l'un des régimes de protection prévus aux chapitres suivants.
+
+Les mêmes régimes de protection sont applicables à l'altération des facultés corporelles, si elle empêche l'expression de la
+volonté.
+
+L'altération des facultés mentales ou corporelles doit être médicalement établie.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°68-5 du 3 janvier 1968 - art. 1 () JORF 4 janvier 1968 en vigueur le 1er novembre 1968
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 14 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 15 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 16 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 17 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 21 (V)
+	  - SPEC_APPLI: Loi n°68-696 1968-07-31 art. 14
+
+	**Cité par**:
+
+	  - Décret n°71-753 du 10 septembre 1971 - art. 4-2 (Ab)
+	  - Décret n°73-364 du 12 mars 1973 - art. 16 (Ab)
+	  - Décret n°95-589 du 6 mai 1995 - art. 23 (VT)
+	  - Décret n°95-589 du 6 mai 1995 - art. 71-2 (V)
+	  - Décret n°95-589 du 6 mai 1995 - art. 9 (V)
+	  - Décret n°2009-450 du 21 avril 2009 - art. 9 (V)
+	  - Décret n°2009-450 du 21 avril 2009 - art. 26 (V)
+	  - Décret n°2009-450 du 21 avril 2009 - art. 87 (V)
+	  - Décret n°2009-451 du 21 avril 2009 - art. 9 (V)
+	  - Décret n°2009-451 du 21 avril 2009 - art. 26 (V)
+	  - Décret n°2009-451 du 21 avril 2009 - art. 87 (V)
+	  - Code civil - art. 249-4 (VT)
+	  - Code civil - art. 491 (VT)
+	  - Code civil - art. 492 (VT)
+	  - Code civil - art. 508 (VT)
+	  - Code de la santé publique - art. L3211-6 (AbD)
+	  - Code de la santé publique - art. L326-1 (M)
+	  - Code de la santé publique - art. L327 (Ab)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 490-1
+
+Les modalités du traitement médical, notamment quant au choix entre l'hospitalisation et les soins à domicile, sont
+indépendantes du régime de protection appliqué aux intérêts civils.
+
+Réciproquement, le régime applicable aux intérêts civils est indépendant du traitement médical.
+
+Néanmoins, les décisions par lesquelles le juge des tutelles organise la protection des intérêts civils sont précédées de
+l'avis du médecin traitant.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°68-5 du 3 janvier 1968 - art. 1 () JORF 4 janvier 1968 en vigueur le 1er novembre 1968
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 14 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 15 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 16 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 17 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 21 (V)
+	  - SPEC_APPLI: Loi n°68-696 1968-07-31 art. 14
+
+	**Abrogé par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+
+
+###### Article 490-2
+
+Quel que soit le régime de protection applicable, le logement de la personne protégée et les meubles meublants dont il est
+garni doivent être conservés à sa disposition aussi longtemps qu'il est possible.
+
+Le pouvoir d'administrer, en ce qui touche ces biens, ne permet que des conventions de jouissance précaire, lesquelles
+devront cesser, malgré toutes dispositions ou stipulations contraires, dès le retour de la personne protégée.
+
+S'il devient nécessaire ou s'il est de l'intérêt de la personne protégée qu'il soit disposé des droits relatifs à
+l'habitation ou que le mobilier soit aliéné, l'acte devra être autorisé par le juge des tutelles, après avis du médecin
+traitant, sans préjudice des autres formalités que peut requérir la nature des biens. Les souvenirs et autres objets de
+caractère personnel seront toujours exceptés de l'aliénation et devront être gardés à la disposition de la personne protégée,
+le cas échéant, par les soins de l'établissement de traitement.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°68-5 du 3 janvier 1968 - art. 1 () JORF 4 janvier 1968 en vigueur le 1er novembre 1968
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 14 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 15 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 16 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 17 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 18, v. init.
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 21 (V)
+	  - SPEC_APPLI: Loi n°68-696 1968-07-31 art. 14
+
+	**Cité par**:
+
+	  - Loi n°68-5 du 3 janvier 1968 - art. 18 (V)
+
+	**Abrogé par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+
+
+###### Article 490-3
+
+Le procureur de la République du lieu de traitement et le juge des tutelles peuvent visiter ou faire visiter les majeurs
+protégés par la loi, quel que soit le régime de protection qui leur est applicable.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°68-5 du 3 janvier 1968 - art. 1 () JORF 4 janvier 1968 en vigueur le 1er novembre 1968
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 14 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 15 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 16 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 17 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 21 (V)
+	  - SPEC_APPLI: Loi n°68-696 1968-07-31 art. 14
+
+	**Abrogé par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. R200 (M)
+	  - Nouveau code de procédure civile - art. 1232 (V)
+
+
+### Chapitre II : Des majeurs sous la sauvegarde de justice.
+
+###### Article 491
+
+Peut être placé sous la sauvegarde de justice le majeur qui, pour l'une des causes prévues à l'article 490, a besoin d'être
+protégé dans les actes de la vie civile.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°68-5 du 3 janvier 1968 - art. 1 () JORF 4 janvier 1968 en vigueur le 1er novembre 1968
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 14 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 15 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 16 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 17 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 21 (V)
+	  - SPEC_APPLI: Loi n°68-696 1968-07-31 art. 14
+
+	**Cité par**:
+
+	  - Décret n°78-262 du 8 mars 1978 - art. 29-1 (Ab)
+	  - Loi n°2004-1 du 2 janvier 2004 - art. 17 (V)
+	  - Décret n°2007-1905 du 26 décembre 2007 (V)
+	  - Décret n°2016-230 du 26 février 2016 - art.
+
+	**Cite**:
+
+	  - Code civil - art. 490 (VT)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 491-1
+
+La sauvegarde de justice résulte d'une déclaration faite au procureur de la République dans les conditions prévues par le
+code de la santé publique.
+
+Le juge des tutelles, saisi d'une procédure de tutelle ou curatelle, peut placer la personne qu'il y a lieu de protéger sous
+la sauvegarde de justice, pour la durée de l'instance, par une décision provisoire transmise au procureur de la République.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°68-5 du 3 janvier 1968 - art. 1 () JORF 4 janvier 1968 en vigueur le 1er novembre 1968
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 14 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 15 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 16 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 17 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 21 (V)
+	  - SPEC_APPLI: Loi n°68-696 1968-07-31 art. 14
+
+	**Abrogé par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+
+	**Cité par**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L322-2 (Ab)
+	  - Nouveau code de procédure civile - art. 1238 (V)
+	  - Nouveau code de procédure civile - art. 1239 (V)
+
+
+###### Article 491-2
+
+Le majeur placé sous la sauvegarde de justice conserve l'exercice de ses droits. 
+
+Toutefois, les actes qu'il a passés et les engagements qu'il a contractés pourront être rescindés pour simple lésion ou
+réduits en cas d'excès lors même qu'ils ne pourraient être annulés en vertu de l'article 489. 
+
+Les tribunaux prendront, à ce sujet, en considération, la fortune de la personne protégée, la bonne ou mauvaise foi de ceux
+qui auront traité avec elle, l'utilité ou l'inutilité de l'opération.
+
+L'action en rescision ou en réduction peut être exercée, du vivant de la personne, par tous ceux qui auraient qualité pour
+demander l'ouverture d'une tutelle, et après sa mort, par ses héritiers. Elle s'éteint par le délai prévu à l'article 1304.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°68-5 du 3 janvier 1968 - art. 1 () JORF 4 janvier 1968 en vigueur le 1er novembre 1968
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 14 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 15 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 16 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 17 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 21 (V)
+	  - SPEC_APPLI: Loi n°68-696 1968-07-31 art. 14
+
+	**Abrogé par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+
+	**Cite**:
+
+	  - Code civil - art. 1304 (VD)
+	  - Code civil - art. 489 (VD)
+
+	**Cité par**:
+
+	  - Code civil - art. 510-3 (VT)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 491-3
+
+Lorsqu'une personne, soit avant, soit après avoir été placée sous la sauvegarde de justice, a constitué un mandataire à
+l'effet d'administrer ses biens, ce mandat reçoit exécution.
+
+Toutefois, si la procuration mentionne expressément qu'elle a été donnée en considération de la période de sauvegarde, elle
+ne peut, pendant cette période, être révoquée par le mandant qu'avec l'autorisation du juge des tutelles.
+
+Dans tous les cas, le juge, soit d'office, soit à la requête de l'une des personnes qui aurait qualité pour demander
+l'ouverture d'une tutelle, peut prononcer la révocation du mandat.
+
+Il peut aussi, même d'office, ordonner que les comptes lui seront soumis pour approbation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°68-5 du 3 janvier 1968 - art. 1 () JORF 4 janvier 1968 en vigueur le 1er novembre 1968
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 14 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 15 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 16 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 17 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 21 (V)
+	  - SPEC_APPLI: Loi n°68-696 1968-07-31 art. 14
+
+
+###### Article 491-4
+
+En l'absence de mandat, on suit les règles de la gestion d'affaires.
+
+Toutefois, ceux qui auraient qualité pour demander l'ouverture d'une tutelle ont l'obligation de faire les actes
+conservatoires que nécessite la gestion du patrimoine de la personne protégée quand ils ont eu connaissance tant de leur
+urgence que de la déclaration aux fins de sauvegarde. La même obligation incombe sous les mêmes conditions au directeur de
+l'établissement de traitement ou, éventuellement, à celui qui héberge à son domicile la personne sous sauvegarde.
+
+L'obligation de faire les actes conservatoires emporte, à l'égard des tiers, le pouvoir correspondant.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°68-5 du 3 janvier 1968 - art. 1 () JORF 4 janvier 1968 en vigueur le 1er novembre 1968
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 14 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 15 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 16 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 17 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 21 (V)
+	  - SPEC_APPLI: Loi n°68-696 1968-07-31 art. 14
+
+	**Cité par**:
+
+	  - Décret n°74-27 du 14 janvier 1974 - art. 30 (Ab)
+	  - Code civil - art. 491-5 (AbD)
+	  - Code de la santé publique - art. R1112-37 (V)
+
+	**Abrogé par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 491-5
+
+S'il y a lieu d'agir en dehors des cas définis à l'article précédent, tout intéressé peut en donner avis au juge des
+tutelles.
+
+Le juge pourra soit désigner un mandataire spécial à l'effet de faire un acte déterminé ou une série d'actes de même nature,
+dans les limites de ce qu'un tuteur pourrait faire sans l'autorisation du conseil de famille, soit décider d'office d'ouvrir
+une tutelle ou une curatelle, soit renvoyer l'intéressé à en provoquer lui-même l'ouverture, s'il est de ceux qui ont qualité
+pour la demander.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°68-5 du 3 janvier 1968 - art. 1 () JORF 4 janvier 1968 en vigueur le 1er novembre 1968
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 14 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 15 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 16 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 17 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 21 (V)
+	  - SPEC_APPLI: Loi n°68-696 1968-07-31 art. 14
+
+	**Cité par**:
+
+	  - Arrêté du 4 mars 1970 - art. 3 (V)
+	  - Nouveau code de procédure civile - art. 1241 (V)
+
+	**Abrogé par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+
+	**Cite**:
+
+	  - Code civil - art. 491-4 (AbD)
+
+
+###### Article 491-6
+
+La sauvegarde de justice prend fin par une nouvelle déclaration attestant que la situation antérieure a cessé, par la
+péremption de la déclaration selon les délais du code de procédure civile ou par sa radiation sur décision du procureur de la
+République.
+
+Elle cesse également par l'ouverture d'une tutelle ou d'une curatelle à partir du jour où prend effet le nouveau régime de
+protection.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°68-5 du 3 janvier 1968 - art. 1 () JORF 4 janvier 1968 en vigueur le 1er novembre 1968
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 14 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 15 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 16 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 17 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 21 (V)
+	  - SPEC_APPLI: Loi n°68-696 1968-07-31 art. 14
+
+	**Abrogé par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+
+
+### Chapitre III : Des majeurs en tutelle.
+
+###### Article 492
+
+Une tutelle est ouverte quand un majeur, pour l'une des causes prévues à l'article 490, a besoin d'être représenté d'une
+manière continue dans les actes de la vie civile.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°67-237 du 23 mars 1967 - art. 30 (Ab)
+	  - Décret n°84-406 du 30 mai 1984 - art. 12 (Ab)
+	  - Décret n°84-406 du 30 mai 1984 - art. 12-1 (Ab)
+	  - Décret n°84-406 du 30 mai 1984 - art. 23 (Ab)
+	  - Décret n°99-1090 du 21 décembre 1999 - art. 5 (V)
+	  - Loi n°2004-1 du 2 janvier 2004 - art. 17 (V)
+	  - Décret n°2007-1702 du 30 novembre 2007 - art. 1 (V)
+	  - Arrêté du 23 décembre 2009 - art. Annexe (V)
+	  - Décret n°2009-1628 du 23 décembre 2009 - art. 18 (V)
+	  - Code de commerce. - art. R123-46 (M)
+	  - Code de commerce. - art. R123-69 (AbD)
+	  - Code de la santé publique - art. L3211-5 (V)
+	  - Code de la santé publique - art. L3211-8 (V)
+	  - Code de la santé publique - art. L352-1 (Ab)
+	  - Code de procédure civile - art. 1258-2 (V)
+
+	**Créé par**:
+
+	  - Loi n°68-5 du 3 janvier 1968 - art. 1 () JORF 4 janvier 1968 en vigueur le 1er novembre 1968
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 14 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 15 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 16 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 17 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 21 (V)
+	  - SPEC_APPLI: Loi n°68-696 1968-07-31 art. 14
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Cite**:
+
+	  - Code civil - art. 490 (VD)
+
+
+###### Article 493
+
+L'ouverture de la tutelle est prononcée par le juge des tutelles à la requête de la personne qu'il y a lieu de protéger, de
+son conjoint, à moins que la communauté de vie n'ait cessé entre eux, de ses ascendants, de ses descendants, de ses frères et
+soeurs, du curateur ainsi que du ministère public ; elle peut être aussi ouverte d'office par le juge.
+
+Les autres parents, les alliés, les amis peuvent seulement donner au juge avis de la cause qui justifierait l'ouverture de la
+tutelle. Il en est de même du médecin traitant et du directeur de l'établissement.
+
+Les personnes visées aux deux alinéas précédents pourront, même si elles ne sont pas intervenues à l'instance, former un
+recours devant le tribunal de grande instance contre le jugement qui a ouvert la tutelle.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°68-5 du 3 janvier 1968 - art. 1 () JORF 4 janvier 1968 en vigueur le 1er novembre 1968
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 14 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 15 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 16 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 17 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 21 (V)
+	  - SPEC_APPLI: Loi n°68-696 1968-07-31 art. 14
+
+	**Cité par**:
+
+	  - Loi n°68-5 du 3 janvier 1968 - art. 10 (VD)
+	  - Loi n°68-5 du 3 janvier 1968 - art. 17 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L322-2 (Ab)
+	  - Code civil - art. 507 (VT)
+	  - Code de procédure civile - art. 1259-3 (V)
+	  - Code de procédure civile - art. 1259-5 (V)
+	  - Nouveau code de procédure civile - art. 1256 (V)
+
+
+###### Article 493-1
+
+Le juge ne peut prononcer l'ouverture d'une tutelle que si l'altération des facultés mentales ou corporelles du malade a été
+constatée par un médecin spécialiste choisi sur une liste établie par le procureur de la République.
+
+L'ouverture de la tutelle sera prononcée dans les conditions prévues par le code de procédure civile.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°68-5 du 3 janvier 1968 - art. 1 () JORF 4 janvier 1968 en vigueur le 1er novembre 1968
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 14 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 15 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 16 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 17 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 21 (V)
+	  - SPEC_APPLI: Loi n°68-696 1968-07-31 art. 14
+
+	**Abrogé par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. D47-24 (VT)
+	  - Code de procédure civile - art. 1244 (VD)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 493-2
+
+Les jugements portant ouverture, modification ou mainlevée de la tutelle ne sont opposables aux tiers que deux mois après que
+mention en aura été portée en marge de l'acte de naissance de la personne protégée, selon les modalités prévues par le code
+de procédure civile.
+
+Toutefois, en l'absence même de cette mention, ils n'en seront pas moins opposables aux tiers qui en auraient eu
+personnellement connaissance.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°68-5 du 3 janvier 1968 - art. 1 () JORF 4 janvier 1968 en vigueur le 1er novembre 1968
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 14 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 15 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 16 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 17 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 21 (V)
+	  - SPEC_APPLI: Loi n°68-696 1968-07-31 art. 14
+
+	**Abrogé par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+
+	**Cité par**:
+
+	  - Code civil - art. 502 (VT)
+
+
+###### Article 494
+
+La tutelle peut être ouverte pour un mineur émancipé comme pour un majeur.
+
+La demande peut même être introduite et jugée, pour un mineur non émancipé, dans la dernière année de sa minorité ; mais la
+tutelle ne prendra effet que du jour où il sera devenu majeur.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°68-5 du 3 janvier 1968 - art. 1 () JORF 4 janvier 1968 en vigueur le 1er novembre 1968
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 14 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 15 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 16 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 17 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 21 (V)
+	  - SPEC_APPLI: Loi n°68-696 1968-07-31 art. 14
+
+
+###### Article 495
+
+Sont aussi applicables dans la tutelle des majeurs les règles prescrites par les sections 2, 3 et 4 du chapitre II, au titre
+dixième du présent livre, pour la tutelle des mineurs, à l'exception toutefois de celles qui concernent l'éducation de
+l'enfant et, en outre, sous les modifications qui suivent.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°68-5 du 3 janvier 1968 - art. 1 () JORF 4 janvier 1968 en vigueur le 1er novembre 1968
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 14 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 15 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 16 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 17 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 21 (V)
+	  - SPEC_APPLI: Loi n°68-696 1968-07-31 art. 14
+
+	**Cité par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 45 (V)
+
+
+###### Article 496
+
+L'époux est tuteur de son conjoint, à moins que la communauté de vie n'ait cessé entre eux ou que le juge n'estime qu'une
+autre cause interdit de lui confier la tutelle. Tous autres tuteurs sont datifs.
+
+La tutelle d'un majeur peut être déférée à une personne morale.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°68-5 du 3 janvier 1968 - art. 1 () JORF 4 janvier 1968 en vigueur le 1er novembre 1968
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 14 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 15 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 16 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 17 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 21 (V)
+	  - SPEC_APPLI: Loi n°68-696 1968-07-31 art. 14
+
+	**Cité par**:
+
+	  - Décret n°2008-1484 du 22 décembre 2008 (V)
+	  - Décret n°2015-1669 du 14 décembre 2015 (V)
+	  - Code civil - art. 382-1 (VD)
+	  - Code de l'action sociale et des familles - art. Annexe 4-3 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 496-1
+
+Nul, à l'exception de l'époux, des descendants et des personnes morales, ne sera tenu de conserver la tutelle d'un majeur au-
+delà de cinq ans. A l'expiration de ce délai, le tuteur pourra demander et devra obtenir son remplacement.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°68-5 du 3 janvier 1968 - art. 1 () JORF 4 janvier 1968 en vigueur le 1er novembre 1968
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 14 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 15 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 16 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 17 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 20 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 21 (V)
+	  - SPEC_APPLI: Loi n°68-696 1968-07-31 art. 14
+
+	**Cité par**:
+
+	  - Loi n°68-5 du 3 janvier 1968 - art. 20 (V)
+
+	**Abrogé par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+
+
+###### Article 496-2
+
+Le médecin traitant ne peut être tuteur ni subrogé tuteur du malade. Mais il est toujours loisible au juge des tutelles de
+l'appeler à participer au conseil de famille à titre consultatif. 
+
+La tutelle ne peut être déférée à l'établissement de traitement, ni à aucune personne y occupant un emploi rémunéré à moins
+qu'elle ne soit de celles qui avaient qualité pour demander l'ouverture de la tutelle. Un préposé de l'établissement peut,
+toutefois, être désigné comme gérant de la tutelle dans le cas prévu à l'article 499.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°68-5 du 3 janvier 1968 - art. 1 () JORF 4 janvier 1968 en vigueur le 1er novembre 1968
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 14 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 15 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 16 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 17 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 21 (V)
+	  - SPEC_APPLI: Loi n°68-696 1968-07-31 art. 14
+
+	**Abrogé par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+
+	**Cite**:
+
+	  - Code civil - art. 499 (VD)
+
+
+###### Article 497
+
+S'il y a un conjoint, un ascendant ou un descendant, un frère ou une soeur, apte à gérer les biens, le juge des tutelles peut
+décider qu'il les gérera en qualité d'administrateur légal, sans subrogé tuteur ni conseil de famille, suivant les règles
+applicables, pour les biens des mineurs, à l'administration légale sous contrôle judiciaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°68-5 du 3 janvier 1968 - art. 1 () JORF 4 janvier 1968 en vigueur le 1er novembre 1968
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 14 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 15 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 16 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 17 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 19 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 21 (V)
+	  - SPEC_APPLI: Loi n°68-696 1968-07-31 art. 14
+
+	**Cité par**:
+
+	  - Loi n°68-5 du 3 janvier 1968 - art. 19 (V)
+	  - Code civil - art. 506 (VT)
+
+
+###### Article 498
+
+Il n'y a pas lieu d'ouvrir une tutelle qui devrait être dévolue au conjoint, si, par l'application du régime matrimonial, et
+notamment par les règles des articles 217 et 219, 1426 et 1429, il peut être suffisamment pourvu aux intérêts de la personne
+protégée.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°68-5 du 3 janvier 1968 - art. 1 () JORF 4 janvier 1968 en vigueur le 1er novembre 1968
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 14 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 15 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 16 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 17 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 21 (V)
+	  - SPEC_APPLI: Loi n°68-696 1968-07-31 art. 14
+
+	**Cite**:
+
+	  - Code civil - art. 1426 (V)
+	  - Code civil - art. 1429 (V)
+	  - Code civil - art. 217 (V)
+	  - Code civil - art. 219 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 499
+
+Si, eu égard à la consistance des biens à gérer, le juge des tutelles constate l'inutilité de la constitution complète d'une
+tutelle, il peut se borner à désigner comme gérant de la tutelle, sans subrogé tuteur ni conseil de famille, soit un préposé
+appartenant au personnel administratif de l'établissement de traitement, soit un administrateur spécial, choisis dans les
+conditions fixées par un décret en Conseil d'Etat.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°68-5 du 3 janvier 1968 - art. 1 () JORF 4 janvier 1968 en vigueur le 1er novembre 1968
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 14 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 15 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 16 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 17 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 21 (V)
+	  - SPEC_APPLI: Loi n°68-696 1968-07-31 art. 14
+	  - TXT_SOURCE: Décret n°69-195 du 15 février 1969
+	  - TXT_SOURCE: Décret n°69-195 du 15 février 1969 - art. 1 (V)
+	  - TXT_SOURCE: Décret n°69-195 du 15 février 1969 - art. 2 (V)
+	  - TXT_SOURCE: Décret n°69-195 du 15 février 1969 - art. 3 (V)
+	  - TXT_SOURCE: Arrêté du 4 mars 1970
+	  - TXT_SOURCE: Arrêté du 4 mars 1970 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 4 mars 1970 - art. 2 (V)
+	  - TXT_SOURCE: Arrêté du 4 mars 1970 - art. 3 (V)
+	  - TXT_SOURCE: Arrêté du 4 mars 1970 - art. 4 (V)
+
+	**Cité par**:
+
+	  - Décret n°74-27 du 14 janvier 1974 - art. 30 (Ab)
+	  - Loi n°90-600 du 6 juillet 1990 - art. 2 (Ab)
+	  - Décret n°2000-35 du 17 janvier 2000 - art. 1 (M)
+	  - Loi n°2004-1 du 2 janvier 2004 - art. 17 (V)
+	  - Code civil - art. 496-2 (VT)
+	  - Code civil - art. 506 (VT)
+	  - Code de l'action sociale et des familles - art. L342-2 (V)
+	  - Code de la santé publique - art. R1112-37 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 500
+
+Le gérant de la tutelle perçoit les revenus de la personne protégée et les applique à l'entretien et au traitement de celle-
+ci, ainsi qu'à l'acquittement des obligations alimentaires dont elle pourrait être tenue. S'il y a un excédent, il le verse à
+un compte qu'il doit faire ouvrir chez un dépositaire agréé. Chaque année, il rend compte de sa gestion directement au juge
+des tutelles.
+
+Si d'autres actes deviennent nécessaires, il saisit le juge, qui pourra, soit l'autoriser à les faire, soit décider de
+constituer la tutelle complètement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°68-5 du 3 janvier 1968 - art. 1 () JORF 4 janvier 1968 en vigueur le 1er novembre 1968
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 14 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 15 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 16 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 17 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 21 (V)
+	  - SPEC_APPLI: Loi n°68-696 1968-07-31 art. 14
+	  - TXT_SOURCE: Arrêté du 4 mars 1970
+	  - TXT_SOURCE: Arrêté du 4 mars 1970 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 4 mars 1970 - art. 2 (V)
+	  - TXT_SOURCE: Arrêté du 4 mars 1970 - art. 3 (V)
+	  - TXT_SOURCE: Arrêté du 4 mars 1970 - art. 4 (V)
+
+	**Cité par**:
+
+	  - Décret n°69-195 du 15 février 1969 - art. 3 (V)
+	  - Arrêté du 4 mars 1970 - art. 2 (V)
+	  - Arrêté du 4 mars 1970 - art. 3 (V)
+	  - Décret n°74-27 du 14 janvier 1974 - art. 30 (Ab)
+	  - Loi n°90-600 du 6 juillet 1990 - art. 2 (Ab)
+	  - Décret n°2008-1484 du 22 décembre 2008 - art. Annexe 1 (V)
+	  - Code de l'action sociale et des familles - art. L342-2 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 501
+
+En ouvrant la tutelle ou dans un jugement postérieur, le juge, sur l'avis du médecin traitant, peut énumérer certains actes
+que la personne en tutelle aura la capacité de faire elle-même, soit seule, soit avec l'assistance du tuteur ou de la
+personne qui en tient lieu.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°68-5 du 3 janvier 1968 - art. 1 () JORF 4 janvier 1968 en vigueur le 1er novembre 1968
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 14 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 15 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 16 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 17 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 21 (V)
+	  - SPEC_APPLI: Loi n°68-696 1968-07-31 art. 14
+	  - TXT_SOURCE: Arrêté du 4 mars 1970
+	  - TXT_SOURCE: Arrêté du 4 mars 1970 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 4 mars 1970 - art. 2 (V)
+	  - TXT_SOURCE: Arrêté du 4 mars 1970 - art. 3 (V)
+	  - TXT_SOURCE: Arrêté du 4 mars 1970 - art. 4 (V)
+
+	**Cité par**:
+
+	  - Décret n°69-195 du 15 février 1969 - art. 3 (V)
+	  - Arrêté du 4 mars 1970 - art. 3 (V)
+	  - Loi n°89-475 du 10 juillet 1989 - art. 14 (Ab)
+	  - Décret n°2008-1484 du 22 décembre 2008 - art. Annexe 1 (V)
+	  - Code de l'action sociale et des familles - art. L443-7 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 502
+
+Tous les actes passés, postérieurement au jugement d'ouverture de la tutelle, par la personne protégée, seront nuls de droit,
+sous réserve des dispositions de l'article 493-2.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°2008-1484 du 22 décembre 2008 (V)
+	  - Décret n°2015-1669 du 14 décembre 2015 (V)
+	  - Code de procédure civile - art. 1230 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°68-5 du 3 janvier 1968 - art. 1 () JORF 4 janvier 1968 en vigueur le 1er novembre 1968
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 14 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 15 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 16 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 17 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 21 (V)
+	  - SPEC_APPLI: Loi n°68-696 1968-07-31 art. 14
+
+	**Cite**:
+
+	  - Code civil - art. 493-2 (VT)
+
+
+###### Article 503
+
+Les actes antérieurs pourront être annulés si la cause qui a déterminé l'ouverture de la tutelle existait notoirement à
+l'époque où ils ont été faits.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°68-5 du 3 janvier 1968 - art. 1 () JORF 4 janvier 1968 en vigueur le 1er novembre 1968
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 14 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 15 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 16 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 17 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 21 (V)
+	  - SPEC_APPLI: Loi n°68-696 1968-07-31 art. 14
+
+	**Cité par**:
+
+	  - Décret n°2008-1484 du 22 décembre 2008 - art. Annexe 1 (V)
+	  - Code civil - art. 472 (V)
+	  - Code de l'action sociale et des familles - art. Annexe 4-6 (V)
+	  - Code de procédure civile - art. 1253 (V)
+
+
+###### Article 504
+
+Le testament fait après ouverture de la tutelle sera nul de droit.
+
+Le testament antérieurement fait restera valable, à moins qu'il ne soit établi que, depuis l'ouverture de la tutelle, a
+disparu la cause qui a déterminé le testateur à disposer.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°68-5 du 3 janvier 1968 - art. 1 () JORF 4 janvier 1968 en vigueur le 1er novembre 1968
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 14 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 15 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 16 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 17 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 21 (V)
+	  - SPEC_APPLI: Loi n°68-696 1968-07-31 art. 14
+
+	**Cité par**:
+
+	  - Décret n°2008-1484 du 22 décembre 2008 - art. Annexe 1 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 505
+
+Avec l'autorisation du conseil de famille, des donations peuvent être faites au nom du majeur en tutelle, mais seulement au
+profit de ses descendants et en avancement d'hoirie, ou en faveur de son conjoint.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°68-5 du 3 janvier 1968 - art. 1 () JORF 4 janvier 1968 en vigueur le 1er novembre 1968
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 14 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 15 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 16 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 17 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 21 (V)
+	  - SPEC_APPLI: Loi n°68-696 1968-07-31 art. 14
+
+	**Cité par**:
+
+	  - Décret n°2008-1484 du 22 décembre 2008 - art. Annexe 1 (V)
+
+
+###### Article 506
+
+Même dans le cas des articles 497 et 499, le mariage d'un majeur en tutelle n'est permis qu'avec le consentement d'un conseil
+de famille spécialement convoqué pour en délibérer. Le conseil ne peut statuer qu'après audition des futurs conjoints. 
+
+Il n'y a pas lieu à la réunion d'un conseil de famille si les père et mère donnent l'un et l'autre leur consentement au
+mariage. 
+
+Dans tous les cas, l'avis du médecin traitant doit être requis.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°68-5 du 3 janvier 1968 - art. 1 () JORF 4 janvier 1968 en vigueur le 1er novembre 1968
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 14 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 15 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 16 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 17 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 21 (V)
+	  - SPEC_APPLI: Loi n°68-696 1968-07-31 art. 14
+
+	**Cité par**:
+
+	  - Loi n°68-5 du 3 janvier 1968 - art. 5 (V)
+	  - Décret n°2008-1484 du 22 décembre 2008 - art. Annexe 1 (V)
+
+	**Cite**:
+
+	  - Code civil - art. 497 (VD)
+	  - Code civil - art. 499 (VD)
+
+
+###### Article 507
+
+La tutelle cesse avec les causes qui l'ont déterminée ; néanmoins, la mainlevée n'en sera prononcée qu'en observant les
+formalités prescrites pour parvenir à son ouverture, et la personne en tutelle ne pourra reprendre l'exercice de ses droits
+qu'après le jugement de mainlevée. 
+
+Les recours prévus par l'article 493, alinéa 3, ne peuvent être exercés que contre les jugements qui refusent de donner
+mainlevée de la tutelle.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°68-5 du 3 janvier 1968 - art. 1 () JORF 4 janvier 1968 en vigueur le 1er novembre 1968
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 14 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 15 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 16 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 17 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 21 (V)
+	  - SPEC_APPLI: Loi n°68-696 1968-07-31 art. 14
+
+	**Cité par**:
+
+	  - Décret n°2008-1484 du 22 décembre 2008 - art. Annexe 1 (V)
+	  - Code de procédure civile - art. 1239-1 (V)
+
+	**Cite**:
+
+	  - Code civil - art. 493 (VD)
+
+
+### Chapitre IV : Des majeurs en curatelle.
+
+###### Article 508
+
+Lorsqu'un majeur, pour l'une des causes prévues à l'article 490, sans être hors d'état d'agir lui-même, a besoin d'être
+conseillé ou contrôlé dans les actes de la vie civile, il peut être placé sous un régime de curatelle.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°67-237 du 23 mars 1967 - art. 30 (Ab)
+	  - Décret n°84-406 du 30 mai 1984 - art. 12 (Ab)
+	  - Décret n°84-406 du 30 mai 1984 - art. 12-1 (Ab)
+	  - Décret n°84-406 du 30 mai 1984 - art. 23 (Ab)
+	  - Décret n°2008-1484 du 22 décembre 2008 - art. Annexe 1 (V)
+	  - Code civil - art. 509 (VD)
+	  - Code de commerce. - art. R123-46 (M)
+	  - Code de commerce. - art. R123-69 (AbD)
+	  - Code de la santé publique - art. L3211-5 (V)
+	  - Code de la santé publique - art. L3211-8 (V)
+	  - Code de la santé publique - art. L352-1 (Ab)
+	  - Loi n°2004-1 du 2 janvier 2004 - art. 17 (V)
+
+	**Créé par**:
+
+	  - Loi n°68-5 du 3 janvier 1968 - art. 1 () JORF 4 janvier 1968 en vigueur le 1er novembre 1968
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 14 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 15 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 16 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 17 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 21 (V)
+	  - SPEC_APPLI: Loi n°68-696 1968-07-31 art. 14
+
+	**Cite**:
+
+	  - Code civil - art. 490 (VD)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 508-1
+
+Peut pareillement être placé sous le régime de la curatelle le majeur visé à l'alinéa 3 de l'article 488.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°68-5 du 3 janvier 1968 - art. 1 () JORF 4 janvier 1968 en vigueur le 1er novembre 1968
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 14 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 15 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 16 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 17 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 21 (V)
+	  - SPEC_APPLI: Loi n°68-696 1968-07-31 art. 14
+
+	**Cité par**:
+
+	  - Décret n°84-406 du 30 mai 1984 - art. 12 (Ab)
+	  - Décret n°84-406 du 30 mai 1984 - art. 12-1 (Ab)
+	  - Décret n°84-406 du 30 mai 1984 - art. 23 (Ab)
+	  - Code de commerce. - art. R123-46 (M)
+	  - Code de commerce. - art. R123-69 (AbD)
+
+	**Abrogé par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+
+	**Cite**:
+
+	  - Code civil - art. 488 (VD)
+
+
+###### Article 509-1
+
+Il n'y a dans la curatelle d'autre organe que le curateur.
+
+L'époux est curateur de son conjoint à moins que la communauté de vie n'ait cessé entre eux ou que le juge n'estime qu'une
+autre cause interdit de lui confier la curatelle. Tous autres curateurs sont nommés par le juge des tutelles.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°68-5 du 3 janvier 1968 - art. 1 () JORF 4 janvier 1968 en vigueur le 1er novembre 1968
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 14 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 15 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 16 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 17 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 21 (V)
+	  - SPEC_APPLI: Loi n°68-696 1968-07-31 art. 14
+
+	**Cité par**:
+
+	  - Décret n°2000-35 du 17 janvier 2000 - art. 1 (M)
+
+	**Abrogé par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+
+
+###### Article 509-2
+
+Sont applicables à la charge de curateur les dispositions relatives aux charges tutélaires, sous les modifications qu'elles
+comportent dans la tutelle des majeurs.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°68-5 du 3 janvier 1968 - art. 1 () JORF 4 janvier 1968 en vigueur le 1er novembre 1968
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 14 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 15 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 16 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 17 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 21 (V)
+	  - SPEC_APPLI: Loi n°68-696 1968-07-31 art. 14
+
+	**Abrogé par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+
+
+###### Article 510
+
+Le majeur en curatelle ne peut, sans l'assistance de son curateur, faire aucun acte qui, sous le régime de la tutelle des
+majeurs, requerrait une autorisation du conseil de famille. Il ne peut non plus, sans cette assistance, recevoir des capitaux
+ni en faire emploi.
+
+Si le curateur refuse son assistance à un acte, la personne en curatelle peut demander au juge des tutelles une autorisation
+supplétive.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°68-5 du 3 janvier 1968 - art. 1 () JORF 4 janvier 1968 en vigueur le 1er novembre 1968
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 14 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 15 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 16 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 17 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 21 (V)
+	  - SPEC_APPLI: Loi n°68-696 1968-07-31 art. 14
+
+	**Cité par**:
+
+	  - Décret n°2012-663 du 4 mai 2012 - art. 6 (V)
+	  - Code civil - art. 437 (V)
+	  - Code civil - art. 472 (V)
+	  - Code civil - art. 511 (V)
+	  - Code civil - art. 512 (V)
+	  - Code de procédure civile - art. 1223-1 (V)
+
+
+###### Article 510-1
+
+Si le majeur en curatelle a fait seul un acte pour lequel l'assistance du curateur était requise, lui-même ou le curateur
+peuvent en demander l'annulation.
+
+L'action en nullité s'éteint par le délai prévu à l'article 1304 ou même, avant l'expiration de ce délai, par l'approbation
+que le curateur a pu donner à l'acte.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°68-5 du 3 janvier 1968 - art. 1 () JORF 4 janvier 1968 en vigueur le 1er novembre 1968
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 14 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 15 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 16 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 17 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 21 (V)
+	  - SPEC_APPLI: Loi n°68-696 1968-07-31 art. 14
+
+	**Abrogé par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+
+	**Cite**:
+
+	  - Code civil - art. 1304 (VD)
+
+
+###### Article 510-2
+
+Toute signification faite au majeur en curatelle doit l'être aussi à son curateur, à peine de nullité.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°68-5 du 3 janvier 1968 - art. 1 () JORF 4 janvier 1968 en vigueur le 1er novembre 1968
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 14 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 15 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 16 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 17 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 21 (V)
+	  - SPEC_APPLI: Loi n°68-696 1968-07-31 art. 14
+
+	**Abrogé par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+
+
+###### Article 510-3
+
+Dans les cas où l'assistance du curateur n'était pas requise par la loi, les actes que le majeur en curatelle a pu faire seul
+restent néanmoins sujets aux actions en rescision ou réduction réglées à l'article 491-2, comme s'ils avaient été faits par
+une personne sous la sauvegarde de justice.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°68-5 du 3 janvier 1968 - art. 1 () JORF 4 janvier 1968 en vigueur le 1er novembre 1968
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 14 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 15 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 16 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 17 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 21 (V)
+	  - SPEC_APPLI: Loi n°68-696 1968-07-31 art. 14
+
+	**Abrogé par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+
+	**Cite**:
+
+	  - Code civil - art. 491-2 (VT)
+
+
+###### Article 511
+
+En ouvrant la curatelle ou dans un jugement postérieur, le juge, sur l'avis du médecin traitant, peut énumérer certains actes
+que la personne en curatelle aura la capacité de faire seule par dérogation à l'article 510 ou, à l'inverse, ajouter d'autres
+actes à ceux pour lesquels cet article exige l'assistance du curateur.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 23 décembre 2009 - art. Annexe (V)
+	  - Décret n°2011-1470 du 8 novembre 2011 (V)
+	  - Code civil - art. 486 (V)
+	  - Code civil - art. 514 (V)
+	  - Code de procédure civile - art. 1254-1 (V)
+	  - Ordonnance n°2012-1222 du 2 novembre 2012 - art. 4 (V)
+
+	**Cite**:
+
+	  - Code civil - art. 510 (VD)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°68-5 du 3 janvier 1968 - art. 1 () JORF 4 janvier 1968 en vigueur le 1er novembre 1968
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 14 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 15 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 16 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 17 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 21 (V)
+	  - SPEC_APPLI: Loi n°68-696 1968-07-31 art. 14
+
+
+###### Article 512
+
+En nommant le curateur, le juge peut ordonner qu'il percevra seul les revenus de la personne en curatelle, assurera lui-même,
+à l'égard des tiers, le règlement des dépenses et versera l'excédent, s'il y a lieu, à un compte ouvert chez un dépositaire
+agréé.
+
+Le curateur nommé avec cette mission rend compte de sa gestion chaque année au juge des tutelles.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°68-5 du 3 janvier 1968 - art. 1 () JORF 4 janvier 1968 en vigueur le 1er novembre 1968
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 14 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 15 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 16 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 17 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 21 (V)
+	  - SPEC_APPLI: Loi n°68-696 1968-07-31 art. 14
+
+	**Cité par**:
+
+	  - Code civil - art. 514 (V)
+
+
+###### Article 513
+
+La personne en curatelle peut librement tester, sauf application de l'article 901 s'il y a lieu. 
+
+Elle ne peut faire de donation qu'avec l'assistance de son curateur.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°68-5 du 3 janvier 1968 - art. 1 () JORF 4 janvier 1968 en vigueur le 1er novembre 1968
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 14 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 15 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 16 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 17 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 21 (V)
+	  - SPEC_APPLI: Loi n°68-696 1968-07-31 art. 14
+
+	**Cité par**:
+
+	  - Code civil - art. 514 (V)
+
+	**Cite**:
+
+	  - Code civil - art. 901 (V)
+
+
+###### Article 514
+
+Pour le mariage du majeur en curatelle, le consentement du curateur est requis ; à défaut, celui du juge des tutelles.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°68-5 du 3 janvier 1968 - art. 1 () JORF 4 janvier 1968 en vigueur le 1er novembre 1968
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 14 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 15 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 16 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 17 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 21 (V)
+	  - SPEC_APPLI: Loi n°68-696 1968-07-31 art. 14
+
+	**Cité par**:
+
+	  - Code civil - art. 413-5 (VD)
+
+
+## Titre XII : De la gestion du patrimoine des mineurs et majeurs en tutelle
+
+### Chapitre Ier : Des modalités de la gestion
+
+#### Section 2 : Des actes du tuteur
+
+##### Paragraphe 3 : Des actes que le tuteur ne peut accomplir
+
+###### Article 509
+
+La curatelle est ouverte et prend fin de la même manière que la tutelle des majeurs.
+
+Elle est soumise à la même publicité.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er février 2009.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°68-5 du 3 janvier 1968 - art. 1 () JORF 4 janvier 1968 en vigueur le 1er novembre 1968
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 14 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 15 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 16 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 17 (V)
+	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 21 (V)
+	  - SPEC_APPLI: Loi n°68-696 1968-07-31 art. 14
+
+	**Cité par**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L322-2 (Ab)
 
 
 # Livre II : Des biens et des différentes modifications de la propriété

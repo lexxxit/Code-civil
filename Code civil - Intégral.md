@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1998-07-31
+Version Consolidée au 1998-09-01
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -1122,15 +1122,18 @@ Est français :
 2° L'enfant né en France de parents étrangers et à qui n'est attribuée par les lois étrangères la nationalité d'aucun des
 deux parents.
 
+Toutefois, il sera réputé n'avoir jamais été français si, au cours de sa minorité, la nationalité étrangère acquise ou
+possédée par l'un de ses parents vient à lui être transmise.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Loi n°93-933 1993-07-22
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°93-933 du 22 juillet 1993 - art. 50 () JORF 23 juillet 1993
+	  - Loi n°98-170 du 16 mars 1998 - art. 13 () JORF 17 mars 1998 en vigueur le 1er septembre 1998
 
 	**Cité par**:
 
@@ -1345,8 +1348,7 @@ la nationalité d'un pays étranger.
 
 ###### Article 20-4
 
-Le français qui contracte un engagement dans les armées françaises ou celui qui participe volontairement aux opérations de
-recensement en vue de l'accomplissement du service national perd la faculté de répudiation.
+Le Français qui contracte un engagement dans les armées françaises perd la faculté de répudiation.
 
 **Liens relatifs à cet article**
 
@@ -1354,9 +1356,9 @@ recensement en vue de l'accomplissement du service national perd la faculté de 
 
 	  - Loi n°93-933 1993-07-22
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°93-933 du 22 juillet 1993 - art. 50 () JORF 23 juillet 1993
+	  - Loi n°98-170 du 16 mars 1998 - art. 18 () JORF 17 mars 1998 en vigueur le 1er septembre 1998
 
 	**Anciens textes**:
 
@@ -1368,8 +1370,8 @@ recensement en vue de l'accomplissement du service national perd la faculté de 
 Les dispositions contenues dans les articles 19-3 et 19-4 ne sont pas applicables aux enfants nés en France des agents
 diplomatiques ou des consuls de carrière de nationalité étrangère. 
 
-Ces enfants ont toutefois la faculté d'acquérir volontairement la qualité de français conformément aux dispositions des
-articles 21-7 et suivants.
+Ces enfants ont toutefois la faculté d'acquérir volontairement la qualité de Français conformément aux dispositions de
+l'article 21-11 ci-après.
 
 **Liens relatifs à cet article**
 
@@ -1377,15 +1379,15 @@ articles 21-7 et suivants.
 
 	  - Loi n°93-933 1993-07-22
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°93-933 du 22 juillet 1993 - art. 50 () JORF 23 juillet 1993 en vigueur le 1er janvier 1994
-	  - Loi n°93-933 du 22 juillet 1993 - art. 51 (V) JORF 23 juillet 1993 en vigueur le 1er janvier 1994
+	  - Loi n°98-170 du 16 mars 1998 - art. 14 () JORF 17 mars 1998 en vigueur le 1er septembre 1998
 
 	**Cite**:
 
 	  - Code civil - art. 19-3 (V)
-	  - Code civil - art. 21-7 (V)
+	  - Code civil - art. 19-4 (V)
+	  - Code civil - art. 21-11 (V)
 
 	**Anciens textes**:
 
@@ -1455,23 +1457,17 @@ Le mariage n'exerce de plein droit aucun effet sur la nationalité.
 
 ###### Article 21-2
 
-L'étranger ou apatride qui contracte mariage avec un conjoint de nationalité française peut, après un délai de deux ans à
-compter du mariage, acquérir la nationalité française par déclaration à condition qu'à la date de cette déclaration la
-communauté de vie n'ait pas cessé entre les époux et que le conjoint ait conservé sa nationalité.
+L'étranger ou apatride qui contracte mariage avec un conjoint de nationalité française peut, après un délai d'un an à compter
+du mariage, acquérir la nationalité française par déclaration à condition qu'à la date de cette déclaration la communauté de
+vie n'ait pas cessé entre les époux et que le conjoint ait conservé sa nationalité.
 
-Le délai de deux ans est supprimé lorsque naît, avant ou après le mariage, un enfant dont la filiation est établie à l'égard
-des deux conjoints, si les conditions relatives à la communauté de vie et à la nationalité du conjoint français sont
-satisfaites.
+Le délai d'un an est supprimé lorsque naît, avant ou après le mariage, un enfant dont la filiation est établie à l'égard des
+deux conjoints, si les conditions relatives à la communauté de vie et à la nationalité du conjoint français sont satisfaites.
 
 La déclaration est faite dans les conditions prévues aux articles 26 et suivants. Par dérogation aux dispositions de
 l'article 26-1, elle est enregistrée par le ministre chargé des naturalisations.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code de la nationalité française 37-1
-	  - Code de la nationalité française. - art. 37-1 (Ab)
 
 	**Cité par**:
 
@@ -1496,13 +1492,17 @@ l'article 26-1, elle est enregistrée par le ministre chargé des naturalisation
 
 	  - Loi n°93-933 1993-07-22
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°93-933 du 22 juillet 1993 - art. 50 () JORF 23 juillet 1993
+	  - Loi n°98-170 du 16 mars 1998 - art. 1 () JORF 17 mars 1998 en vigueur le 1er septembre 1998
 
 	**Cite**:
 
 	  - Code civil - art. 26-1 (V)
+
+	**Anciens textes**:
+
+	  - Code de la nationalité française. - art. 37-1 (Ab)
 
 
 ###### Article 21-3
@@ -1621,17 +1621,14 @@ L'annulation du mariage n'a point d'effet sur la nationalité des enfants qui en
 
 ###### Article 21-7
 
-Tout étranger né en France de parents étrangers peut, à partir de l'âge de seize ans et jusqu'à l'âge de vingt et un ans,
-acquérir la nationalité française à condition qu'il en manifeste la volonté, qu'il réside en France à la date de sa
-manifestation de volonté et qu'il justifie d'une résidence habituelle en France pendant les cinq années qui la précèdent. 
+Tout enfant né en France de parents étrangers acquiert la nationalité française à sa majorité si, à cette date, il a en
+France sa résidence et s'il a eu sa résidence habituelle en France pendant une période continue ou discontinue d'au moins
+cinq ans, depuis l'âge de onze ans.
 
-La condition de résidence habituelle en France pendant cinq ans n'est pas exigée pour l'étranger francophone au sens des
-dispositions de l'article 21-20. 
-
-Un décret en Conseil d'Etat fixe les conditions dans lesquelles les organismes et services publics, et notamment les
-établissements d'enseignement, les caisses de sécurité sociale et les collectivités territoriales, informent le public, et en
-particulier les personnes concernées par le présent article, des dispositions en vigueur en matière de droit de la
-nationalité.
+Les tribunaux d'instance, les collectivités territoriales, les organismes et services publics, et notamment les
+établissements d'enseignement sont tenus d'informer le public, et en particulier les personnes auxquelles s'applique le
+premier alinéa, des dispositions en vigueur en matière de nationalité. Les conditions de cette information sont fixées par
+décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
@@ -1672,14 +1669,9 @@ nationalité.
 
 	  - Loi n°93-933 1993-07-22
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°93-933 du 22 juillet 1993 - art. 50 () JORF 23 juillet 1993 en vigueur le 1er janvier 1994
-	  - Loi n°93-933 du 22 juillet 1993 - art. 51 (V) JORF 23 juillet 1993 en vigueur le 1er janvier 1994
-
-	**Cite**:
-
-	  - Code civil - art. 21-20 (V)
+	  - Loi n°98-170 du 16 mars 1998 - art. 2 () JORF 17 mars 1998 en vigueur le 1er septembre 1998
 
 	**Anciens textes**:
 
@@ -1688,21 +1680,11 @@ nationalité.
 
 ###### Article 21-8
 
-Toutefois, l'étranger perd le droit qui lui est reconnu à l'article précédent s'il a fait l'objet pour des faits commis entre
-l'âge de dix-huit ans et celui de vingt et un ans :
+L'intéressé a la faculté de déclarer, dans les conditions prévues aux articles 26 et suivants et sous réserve qu'il prouve
+qu'il a la nationalité d'un Etat étranger, qu'il décline la qualité de Français dans les six mois qui précèdent sa majorité
+ou dans les douze mois qui la suivent. 
 
-- d'une condamnation à une peine quelconque d'emprisonnement pour crimes ou délits constituant une atteinte aux intérêts
-fondamentaux de la Nation ou un acte de terrorisme ;
-
-- d'une condamnation à une peine égale ou supérieure à six mois d'emprisonnement non assortie d'une mesure de sursis pour
-atteinte volontaire à la vie, violences ayant entraîné la mort, trafic de stupéfiants ou proxénétisme ;
-
-- d'une condamnation à une peine égale ou supérieure à six mois d'emprisonnement non assortie d'une mesure de sursis pour
-toute atteinte volontaire à la vie ou à l'intégrité d'un mineur de quinze ans ou pour toute atteinte sexuelle à la personne
-d'un mineur de quinze ans.
-
-Il en est de même de celui qui a fait l'objet soit d'un arrêté d'expulsion non expressément rapporté ou abrogé, soit d'une
-interdiction du territoire français non entièrement exécutée.
+Dans ce dernier cas, il est réputé n'avoir jamais été français.
 
 **Liens relatifs à cet article**
 
@@ -1720,7 +1702,11 @@ interdiction du territoire français non entièrement exécutée.
 
 	**Modifié par**:
 
-	  - Loi n°93-1417 1993-12-30 art. 11 I JORF 1er janvier 1994 en vigueur le 1er mars 1994
+	  - Loi n°98-170 du 16 mars 1998 - art. 3 () JORF 17 mars 1998 en vigueur le 1er septembre 1998
+
+	**Cite**:
+
+	  - Code civil - art. 26 (V)
 
 	**Anciens textes**:
 
@@ -1729,30 +1715,21 @@ interdiction du territoire français non entièrement exécutée.
 
 ###### Article 21-9
 
-La manifestation de volonté est recueillie soit par le juge d'instance, soit par une autorité administrative désignée par
-décret en Conseil d'Etat à l'occasion d'une démarche accomplie devant elle et relevant de sa compétence. Il en est donné acte
-dans des conditions fixées par décret en Conseil d'Etat. L'autorité administrative transmet la pièce consignant la
-manifestation de volonté au juge d'instance.
+Toute personne qui remplit les conditions prévues à l'article 21-7 pour acquérir la qualité de Français perd la faculté de
+décliner celle-ci si elle contracte un engagement dans les armées françaises. 
 
-Le juge d'instance délivre un récépissé après la remise des pièces nécessaires à la preuve de la recevabilité et procède à
-l'enregistrement conformément aux articles 26-1 et suivants.
-
-L'intéressé acquiert la nationalité française à la date de la manifestation de volonté.
+Tout mineur né en France de parents étrangers, qui est régulièrement incorporé en qualité d'engagé, acquiert la nationalité
+française à la date de son incorporation.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code de la nationalité française 46
 
 	**Codifié par**:
 
 	  - Loi n°93-933 1993-07-22
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°93-933 du 22 juillet 1993 - art. 50 () JORF 23 juillet 1993 en vigueur le 1er janvier 1994
-	  - Loi n°93-933 du 22 juillet 1993 - art. 51 (V) JORF 23 juillet 1993 en vigueur le 1er janvier 1994
+	  - Loi n°98-170 du 16 mars 1998 - art. 4 () JORF 17 mars 1998 en vigueur le 1er septembre 1998
 
 	**Cité par**:
 
@@ -1763,14 +1740,14 @@ L'intéressé acquiert la nationalité française à la date de la manifestation
 
 	**Cite**:
 
-	  - Code civil - art. 26-1 (V)
+	  - Code civil - art. 21-7 (V)
 
 
 ###### Article 21-10
 
-La participation volontaire aux opérations de recensement en vue de l'accomplissement du service national ou la demande de
-certificat de nationalité française constituent une manifestation de volonté au sens de l'article 21-7. Elle produit effet
-dans les conditions de l'article 21-9.
+Les dispositions des articles 21-7 à 21-9 ne sont pas applicables aux enfants nés en France des agents diplomatiques et des
+consuls de carrière de nationalité étrangère. Ces enfants ont toutefois la faculté d'acquérir volontairement la nationalité
+française conformément aux dispositions de l'article 21-11 ci-après.
 
 **Liens relatifs à cet article**
 
@@ -1778,15 +1755,14 @@ dans les conditions de l'article 21-9.
 
 	  - Loi n°93-933 1993-07-22
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°93-933 du 22 juillet 1993 - art. 50 () JORF 23 juillet 1993 en vigueur le 1er janvier 1994
-	  - Loi n°93-933 du 22 juillet 1993 - art. 51 (V) JORF 23 juillet 1993 en vigueur le 1er janvier 1994
+	  - Loi n°98-170 du 16 mars 1998 - art. 5 () JORF 17 mars 1998 en vigueur le 1er septembre 1998
 
 	**Cite**:
 
-	  - Code civil - art. 21-7 (M)
-	  - Code civil - art. 21-9 (M)
+	  - Code civil - art. 21-11 (V)
+	  - Code civil - art. 21-7 (V)
 
 	**Anciens textes**:
 
@@ -1795,20 +1771,20 @@ dans les conditions de l'article 21-9.
 
 ###### Article 21-11
 
-Sous réserve des dispositions de l'article 21-8, tout étranger né en France de parents étrangers, qui est régulièrement
-incorporé en qualité d'engagé ou en vue de l'accomplissement du service national actif, avant l'âge de vingt et un ans,
-acquiert la nationalité française à la date de son incorporation.
+L'enfant mineur né en France de parents étrangers peut à partir de l'âge de seize ans réclamer la nationalité française par
+déclaration, dans les conditions prévues aux articles 26 et suivants si, au moment de sa déclaration, il a en France sa
+résidence et s'il a eu sa résidence habituelle en France pendant une période continue ou discontinue d'au moins cinq ans,
+depuis l'âge de onze ans.
+
+Dans les mêmes conditions, la nationalité française peut être réclamée, au nom de l'enfant mineur né en France de parents
+étrangers, à partir de l'âge de treize ans et avec son consentement personnel, la condition de résidence habituelle en France
+devant alors être remplie à partir de l'âge de huit ans.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Loi n°93-933 1993-07-22
-
-	**Créé par**:
-
-	  - Loi n°93-933 du 22 juillet 1993 - art. 50 () JORF 23 juillet 1993 en vigueur le 1er janvier 1994
-	  - Loi n°93-933 du 22 juillet 1993 - art. 51 (V) JORF 23 juillet 1993 en vigueur le 1er janvier 1994
 
 	**Cité par**:
 
@@ -1823,13 +1799,13 @@ acquiert la nationalité française à la date de son incorporation.
 	  - Code civil - art. 21-27 (V)
 	  - Code civil - art. 21-28 (VD)
 
+	**Modifié par**:
+
+	  - Loi n°98-170 du 16 mars 1998 - art. 6 () JORF 17 mars 1998 en vigueur le 1er septembre 1998
+
 	**Cite**:
 
-	  - Code civil - art. 21-8 (M)
-
-	**Anciens textes**:
-
-	  - Code de la nationalité française 48
+	  - Code civil - art. 26 (M)
 
 
 ##### Paragraphe 4 : Acquisition de la nationalité française par déclaration de nationalité
@@ -1839,6 +1815,9 @@ acquiert la nationalité française à la date de son incorporation.
 L'enfant qui a fait l'objet d'une adoption simple par une personne de nationalité française peut, jusqu'à sa majorité,
 déclarer, dans les conditions prévues aux articles 26 et suivants, qu'il réclame la qualité de Français, pourvu qu'à l'époque
 de sa déclaration il réside en France.
+
+Toutefois, l'obligation de résidence est supprimée lorsque l'enfant a été adopté par une personne de nationalité française
+n'ayant pas sa résidence habituelle en France.
 
 Peut, dans les mêmes conditions, réclamer la nationalité française :
 
@@ -1855,15 +1834,15 @@ décret en Conseil d'Etat.
 
 	  - Loi n°93-933 1993-07-22
 
-	**Créé par**:
-
-	  - Loi n°93-933 du 22 juillet 1993 - art. 50 () JORF 23 juillet 1993
-
 	**Cité par**:
 
 	  - Décret n°93-1362 du 30 décembre 1993 - art. 16 (V)
 	  - Code civil - art. 21-27 (V)
 	  - Code civil - art. 21-28 (VD)
+
+	**Modifié par**:
+
+	  - Loi n°98-170 du 16 mars 1998 - art. 7 () JORF 17 mars 1998 en vigueur le 1er septembre 1998
 
 	**Cite**:
 
@@ -2087,10 +2066,15 @@ souveraineté, soit un protectorat, un mandat ou une tutelle ;
 intérêt exceptionnel. Dans ce cas, le décret de naturalisation ne peut être accordé qu'après avis du Conseil d'Etat sur
 rapport motivé du ministre compétent ;
 
-7° L'étranger qui n'a pas procédé à la manifestation de volonté d'être français prévue à l'article 21-7 avant l'âge de vingt
-et un ans.
+7° L'étranger qui a obtenu le statut de réfugié en application de la loi n° 52-893 du 25 juillet 1952 portant création d'un
+Office français de protection des réfugiés et apatrides.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°52-893 1952-07-25
+	  - Code civil - art. 21-7 (M)
 
 	**Cité par**:
 
@@ -2108,18 +2092,13 @@ et un ans.
 
 	  - Loi n°93-933 1993-07-22
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code civil - art. 21-7 (M)
+	  - Loi n°98-170 du 16 mars 1998 - art. 8 () JORF 17 mars 1998 en vigueur le 1er septembre 1998
 
 	**Anciens textes**:
 
-	  - Code de la nationalité française 64
 	  - Code de la nationalité française. - art. 64 (Ab)
-
-	**Créé par**:
-
-	  - Loi n°93-933 du 22 juillet 1993 - art. 50 () JORF 23 juillet 1993
 
 
 ###### Article 21-20
@@ -2279,6 +2258,33 @@ naturalisation seront fixées par décret.
 	  - Code de la nationalité française. - art. 71 (Ab)
 
 
+###### Article 21-25-1
+
+La réponse de l'autorité publique à une demande d'acquisition de la nationalité française par naturalisation doit intervenir
+dix-huit mois au plus tard après la date à laquelle a été délivré au demandeur le récépissé constatant la remise de toutes
+les pièces nécessaires à la constitution d'un dossier complet.
+
+Ce délai peut être prolongé une seule fois de trois mois par décision motivée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°93-933 1993-07-22
+
+	**Cité par**:
+
+	  - Décret n°93-1362 du 30 décembre 1993 - art. 37 (M)
+	  - Décret n°93-1362 du 30 décembre 1993 - art. 37-1 (V)
+	  - Décret n°93-1362 du 30 décembre 1993 - art. 47 (V)
+	  - Décret n°93-1362 du 30 décembre 1993 - art. 49 (V)
+	  - Décret n°2009-1671 du 28 décembre 2009 - art. 2 (V)
+
+	**Créé par**:
+
+	  - Loi n°98-170 du 16 mars 1998 - art. 15 () JORF 17 mars 1998 en vigueur le 1er septembre 1998
+
+
 ##### Paragraphe 6 : Dispositions communes à certains modes d'acquisition de la nationalité française
 
 ###### Article 21-26
@@ -2292,7 +2298,9 @@ français ou d'un organisme dont l'activité présente un intérêt particulier 
 2° Le séjour dans les pays en union douanière avec la France qui sont désignés par décret ;
 
 3° La présence hors de France, en temps de paix comme en temps de guerre, dans une formation régulière de l'armée française
-ou au titre du service national actif.
+ou au titre des obligations prévues par le livre II du code du service national ;
+
+4° Le séjour hors de France en qualité de volontaire du service national.
 
 L'assimilation de résidence qui profite à l'un des époux s'étend à l'autre s'ils habitent effectivement ensemble.
 
@@ -2302,16 +2310,16 @@ L'assimilation de résidence qui profite à l'un des époux s'étend à l'autre 
 
 	  - Loi n°93-933 1993-07-22
 
-	**Créé par**:
-
-	  - Loi n°93-933 du 22 juillet 1993 - art. 50 () JORF 23 juillet 1993
-
 	**Cité par**:
 
 	  - Décret n°93-1362 du 30 décembre 1993 - art. 37 (V)
 	  - Décret n°93-1362 du 30 décembre 1993 - art. 37-1 (V)
 	  - Décret n°93-1362 du 30 décembre 1993 - art. 4 (Ab)
 	  - Décret n°93-1362 du 30 décembre 1993 - art. 65 (V)
+
+	**Modifié par**:
+
+	  - Loi n°98-170 du 16 mars 1998 - art. 9 () JORF 17 mars 1998 en vigueur le 1er septembre 1998
 
 	**Anciens textes**:
 
@@ -2320,10 +2328,10 @@ L'assimilation de résidence qui profite à l'un des époux s'étend à l'autre 
 
 ###### Article 21-27
 
-Sous réserve des dispositions prévues aux articles 21-7, 21-8 et 22-1, nul ne peut acquérir la nationalité française ou être
-réintégré dans cette nationalité s'il a été l'objet soit d'une condamnation pour crimes ou délits contre la sûreté de l'Etat
-ou liés au terrorisme, soit, quelle que soit l'infraction considérée, s'il a été condamné à une peine égale ou supérieure à
-six mois d'emprisonnement, non assortie d'une mesure de sursis.
+Nul ne peut acquérir la nationalité française ou être réintégré dans cette nationalité s'il a été l'objet soit d'une
+condamnation pour crimes ou délits constituant une atteinte aux intérêts fondamentaux de la Nation ou un acte de terrorisme,
+soit, quelle que soit l'infraction considérée, s'il a été condamné à une peine égale ou supérieure à six mois
+d'emprisonnement, non assortie d'une mesure de sursis.
 
 Il en est de même de celui qui a fait l'objet soit d'un arrêté d'expulsion non expressément rapporté ou abrogé, soit d'une
 interdiction du territoire français non entièrement exécutée.
@@ -2331,9 +2339,8 @@ interdiction du territoire français non entièrement exécutée.
 Il en est de même de celui dont le séjour en France est irrégulier au regard des lois et conventions relatives au séjour des
 étrangers en France.
 
-(1) Dispositions de cet alinéa non reproduites car déclarées non conformes à la Constitution par décision du Conseil
-constitutionnel n° 93-321 DC du 20 juillet 1993 : "ou d'un arrêté d'assignation à résidence non expressément rapporté ou
-abrogé, soit d'un arrêté de reconduite à la frontière".
+Les dispositions du présent article ne sont pas applicables à l'enfant mineur susceptible d'acquérir la nationalité française
+en application des articles 21-7, 21-11, 21-12 et 22-1.
 
 **Liens relatifs à cet article**
 
@@ -2349,12 +2356,13 @@ abrogé, soit d'un arrêté de reconduite à la frontière".
 
 	**Modifié par**:
 
-	  - Loi n°93-1417 1993-12-30 art. 11 II JORF 1er janvier 1994
+	  - Loi n°98-170 du 16 mars 1998 - art. 10 () JORF 17 mars 1998 en vigueur le 1er septembre 1998
 
 	**Cite**:
 
+	  - Code civil - art. 21-11 (M)
+	  - Code civil - art. 21-12 (M)
 	  - Code civil - art. 21-7 (M)
-	  - Code civil - art. 21-8 (M)
 	  - Code civil - art. 22-1 (M)
 
 	**Anciens textes**:
@@ -2387,9 +2395,13 @@ la qualité de Français, à dater du jour de cette acquisition.
 
 ###### Article 22-1
 
-Sous réserve que son nom soit mentionné dans le décret de naturalisation ou dans la déclaration de nationalité, l'enfant âgé
-de moins de dix-huit ans, légitime ou naturel, dont l'un des parents acquiert la nationalité française, devient français de
-plein droit s'il a la même résidence habituelle que ce parent.
+L'enfant mineur, légitime, naturel, ou ayant fait l'objet d'une adoption plénière, dont l'un des deux parents acquiert la
+nationalité française, devient français de plein droit s'il a la même résidence habituelle que ce parent ou s'il réside
+alternativement avec ce parent dans le cas de séparation ou divorce.
+
+Les dispositions du présent article ne sont applicables à l'enfant d'une personne qui acquiert la nationalité française par
+décision de l'autorité publique ou par déclaration de nationalité que si son nom est mentionné dans le décret de
+naturalisation ou dans la déclaration.
 
 **Liens relatifs à cet article**
 
@@ -2413,9 +2425,9 @@ plein droit s'il a la même résidence habituelle que ce parent.
 
 	  - Loi n°93-933 1993-07-22
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°93-933 du 22 juillet 1993 - art. 50 () JORF 23 juillet 1993
+	  - Loi n°98-170 du 16 mars 1998 - art. 11 () JORF 17 mars 1998 en vigueur le 1er septembre 1998
 
 	**Anciens textes**:
 
@@ -2544,9 +2556,8 @@ la nationalité étrangère et, au plus tard, dans le délai d'un an à compter 
 
 ###### Article 23-2
 
-Les français de sexe masculin de moins de trente-cinq ans ne peuvent souscrire la déclaration prévue aux articles 23 et 23-1
-ci-dessus que s'ils ont satisfait aux obligations de service actif imposées par le code du service national ou s'ils en ont
-été dispensés ou exemptés.
+Les Français de moins de trente-cinq ans ne peuvent souscrire la déclaration prévue aux articles 23 et 23-1 ci-dessus que
+s'ils sont en règle avec les obligations du livre II du code du service national.
 
 **Liens relatifs à cet article**
 
@@ -2554,9 +2565,9 @@ ci-dessus que s'ils ont satisfait aux obligations de service actif imposées par
 
 	  - Loi n°93-933 1993-07-22
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°93-933 du 22 juillet 1993 - art. 50 () JORF 23 juillet 1993
+	  - Loi n°98-170 du 16 mars 1998 - art. 19 () JORF 17 mars 1998 en vigueur le 1er septembre 1998
 
 	**Cite**:
 
@@ -2570,8 +2581,8 @@ ci-dessus que s'ils ont satisfait aux obligations de service actif imposées par
 
 ###### Article 23-3
 
-Perd la nationalité française, le français qui exerce la faculté de répudier cette qualité dans les cas prévus aux articles
-18-1 et 19-4.
+Perd la nationalité française le Français qui exerce la faculté de répudier cette qualité dans les cas prévus aux articles
+18-1, 19-4 et 22-3.
 
 **Liens relatifs à cet article**
 
@@ -2579,14 +2590,15 @@ Perd la nationalité française, le français qui exerce la faculté de répudie
 
 	  - Loi n°93-933 1993-07-22
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°93-933 du 22 juillet 1993 - art. 50 () JORF 23 juillet 1993
+	  - Loi n°98-170 du 16 mars 1998 - art. 20 () JORF 17 mars 1998 en vigueur le 1er septembre 1998
 
 	**Cite**:
 
 	  - Code civil - art. 18-1 (V)
 	  - Code civil - art. 19-4 (V)
+	  - Code civil - art. 22-3 (V)
 
 	**Cité par**:
 
@@ -2630,11 +2642,10 @@ Cette autorisation est accordée par décret.
 
 En cas de mariage avec un étranger, le conjoint français peut répudier la nationalité française selon les dispositions des
 articles 26 et suivants à la condition qu'il ait acquis la nationalité étrangère de son conjoint et que la résidence
-habituelle du ménage ait été fixée à l'étranger.
+habituelle du ménage ait été fixée à l'étranger. 
 
-Toutefois, les français de sexe masculin âgés de moins de trente-cinq ans ne pourront exercer cette faculté de répudiation
-que s'ils ont satisfait aux obligations du service actif imposées par le code du service national ou s'ils en ont été
-dispensés ou exemptés.
+Toutefois, les français âgés de moins de trente-cinq ans ne pourront exercer cette faculté de répudiation que s'ils sont en
+règle avec les obligations prévues au livre II du code du service national.
 
 **Liens relatifs à cet article**
 
@@ -2642,18 +2653,18 @@ dispensés ou exemptés.
 
 	  - Loi n°93-933 1993-07-22
 
-	**Créé par**:
-
-	  - Loi n°93-933 du 22 juillet 1993 - art. 50 () JORF 23 juillet 1993
-
 	**Cité par**:
 
 	  - Décret n°93-1362 du 30 décembre 1993 - art. 27 (V)
 	  - Code civil - art. 23-9 (V)
 
+	**Modifié par**:
+
+	  - Loi n°98-170 du 16 mars 1998 - art. 21 () JORF 17 mars 1998 en vigueur le 1er septembre 1998
+
 	**Cite**:
 
-	  - Code civil - art. 26 (M)
+	  - Code civil - art. 26 (V)
 
 	**Anciens textes**:
 
@@ -2847,10 +2858,9 @@ conditions et aux règles de la naturalisation.
 
 ###### Article 24-2
 
-Les personnes qui, alors qu'elles étaient françaises d'origine, ont perdu leur nationalité à raison du mariage avec un
-étranger ou de l'acquisition par mesure individuelle d'une nationalité étrangère peuvent, sous réserve des dispositions de
-l'article 21-27, être réintégrées par déclaration souscrite, en France ou à l'étranger, conformément aux articles 26 et
-suivants.
+Les personnes qui ont perdu la nationalité française à raison du mariage avec un étranger ou de l'acquisition par mesure
+individuelle d'une nationalité étrangère peuvent, sous réserve des dispositions de l'article 21-27, être réintégrées par
+déclaration souscrite, en France ou à l'étranger, conformément aux articles 26 et suivants. 
 
 Elles doivent avoir conservé ou acquis avec la France des liens manifestes, notamment d'ordre culturel, professionnel,
 économique ou familial.
@@ -2867,14 +2877,14 @@ Elles doivent avoir conservé ou acquis avec la France des liens manifestes, not
 
 	  - Loi n°93-933 1993-07-22
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°93-933 du 22 juillet 1993 - art. 50 () JORF 23 juillet 1993
+	  - Loi n°98-170 du 16 mars 1998 - art. 22 () JORF 17 mars 1998 en vigueur le 1er septembre 1998
 
 	**Cite**:
 
-	  - Code civil - art. 21-27 (M)
-	  - Code civil - art. 26 (M)
+	  - Code civil - art. 21-27 (V)
+	  - Code civil - art. 26 (V)
 
 	**Anciens textes**:
 
@@ -2910,10 +2920,10 @@ conditions des articles 22-1 et 22-2 du présent titre.
 
 ###### Article 25
 
-L'individu qui a acquis la qualité de français peut, par décret pris après avis conforme du Conseil d'Etat, être déchu de la
-nationalité française :
+L'individu qui a acquis la qualité de Français peut, par décret pris après avis conforme du Conseil d'Etat, être déchu de la
+nationalité française, sauf si la déchéance a pour résultat de le rendre apatride :
 
-1° S'il est condamné pour un acte qualifié de crime ou délit constituant une atteinte aux intérêts fondamentaux de la nation
+1° S'il est condamné pour un acte qualifié de crime ou délit constituant une atteinte aux intérêts fondamentaux de la Nation
 ou pour un crime ou un délit constituant un acte de terrorisme ;
 
 2° S'il est condamné pour un acte qualifié de crime ou délit prévu et réprimé par le chapitre II du titre III du livre IV du
@@ -2921,11 +2931,8 @@ code pénal ;
 
 3° S'il est condamné pour s'être soustrait aux obligations résultant pour lui du code du service national ;
 
-4° S'il s'est livré au profit d'un Etat étranger à des actes incompatibles avec la qualité de français et préjudiciables aux
-intérêts de la France ;
-
-5° S'il a été condamné en France ou à l'étranger pour un acte qualifié de crime par la loi française et ayant entraîné une
-condamnation à une peine d'au moins cinq années d'emprisonnement.
+4° S'il s'est livré au profit d'un Etat étranger à des actes incompatibles avec la qualité de Français et préjudiciables aux
+intérêts de la France.
 
 **Liens relatifs à cet article**
 
@@ -2942,7 +2949,7 @@ condamnation à une peine d'au moins cinq années d'emprisonnement.
 
 	**Modifié par**:
 
-	  - Loi n°96-647 du 22 juillet 1996 - art. 12 () JORF 23 juillet 1996
+	  - Loi n°98-170 du 16 mars 1998 - art. 23 () JORF 17 mars 1998 en vigueur le 1er septembre 1998
 
 	**Anciens textes**:
 
@@ -2981,8 +2988,8 @@ Elle ne peut être prononcée que dans le délai de dix ans à compter de la per
 
 ###### Article 26
 
-Les déclarations de nationalité sont reçues, sous réserve des dispositions de l'article 21-9, par le juge d'instance ou par
-les consuls suivant les formes déterminées par décret en Conseil d'Etat.
+Les déclarations de nationalité sont reçues par le juge d'instance ou par les consuls suivant les formes déterminées par
+décret en Conseil d'Etat.
 
 Il en est délivré récépissé après remise des pièces nécessaires à la preuve de leur recevabilité.
 
@@ -2991,12 +2998,6 @@ Il en est délivré récépissé après remise des pièces nécessaires à la pr
 	**Codifié par**:
 
 	  - Loi n°93-933 1993-07-22
-
-	**Créé par**:
-
-	  - Loi n°93-933 du 22 juillet 1993 - art. 50 () JORF 23 juillet 1993 en vigueur le 1er janvier 1994
-	  - Loi n°93-933 du 22 juillet 1993 - art. 51 (V) JORF 23 juillet 1993 en vigueur le 1er janvier 1994
-	  - Loi n°1803-03-08 promulguée le 18 mars 1803
 
 	**Cité par**:
 
@@ -3022,14 +3023,13 @@ Il en est délivré récépissé après remise des pièces nécessaires à la pr
 	  - Code civil - art. 32-5 (V)
 	  - Code civil - art. 33-1 (VD)
 
+	**Modifié par**:
+
+	  - Loi n°98-170 du 16 mars 1998 - art. 12 () JORF 17 mars 1998 en vigueur le 1er septembre 1998
+
 	**Anciens textes**:
 
-	  - Code de la nationalité française 101
 	  - Code de la nationalité française. - art. 101 (Ab)
-
-	**Cite**:
-
-	  - Code civil - art. 21-9 (M)
 
 
 ###### Article 26-1
@@ -3092,48 +3092,44 @@ française sont fixés par décret.
 
 ###### Article 26-3
 
-Le ministre ou le juge refuse d'enregistrer les déclarations qui ne satisfont pas aux conditions légales.
+Le ministre ou le juge refuse d'enregistrer les déclarations qui ne satisfont pas aux conditions légales. 
 
 Sa décision motivée est notifiée au déclarant qui peut la contester devant le tribunal de grande instance durant un délai de
-six mois. L'action peut être exercée personnellement par le mineur dès l'âge de seize ans.
+six mois.L'action peut être exercée personnellement par le mineur dès l'âge de seize ans. 
 
 La décision de refus d'enregistrement doit intervenir six mois au plus après la date à laquelle a été délivré au déclarant le
-récépissé constatant la remise de toutes les pièces nécessaires à la preuve de recevabilité de la déclaration.
+récépissé constatant la remise de toutes les pièces nécessaires à la preuve de recevabilité de la déclaration. 
 
-Le délai est également de six mois pour les manifestations de volonté exprimées en application de l'article 21-7. Il est
-porté à un an pour les déclarations souscrites en vertu de l'article 21-2.
+Le délai est porté à un an pour les déclarations souscrites en vertu de l'article 21-2.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code de la nationalité française 105
-	  - Code de la nationalité française. - art. 105 (Ab)
 
 	**Codifié par**:
 
 	  - Loi n°93-933 1993-07-22
-
-	**Modifié par**:
-
-	  - Loi n°93-933 du 22 juillet 1993 - art. 50 () JORF 23 juillet 1993 en vigueur le 1er janvier 1994
-	  - Loi n°93-933 du 22 juillet 1993 - art. 51 (V) JORF 23 juillet 1993 en vigueur le 1er janvier 1994
 
 	**Cité par**:
 
 	  - Décret n°93-1362 du 30 décembre 1993 - art. 31 (V)
 	  - Code civil - art. 21-3 (V)
 
+	**Modifié par**:
+
+	  - Loi n°98-170 du 16 mars 1998 - art. 12 () JORF 17 mars 1998 en vigueur le 1er septembre 1998
+
 	**Cite**:
 
-	  - Code civil - art. 21-2 (M)
-	  - Code civil - art. 21-7 (M)
+	  - Code civil - art. 21-2 (V)
+
+	**Anciens textes**:
+
+	  - Code de la nationalité française. - art. 105 (Ab)
 
 
 ###### Article 26-4
 
-A défaut de refus d'enregistrement dans les délais légaux, copie de la déclaration, ou de la pièce consignant la
-manifestation de volonté prévue à l'article 21-9, est remise au déclarant revêtue de la mention de l'enregistrement.
+A défaut de refus d'enregistrement dans les délais légaux, copie de la déclaration est remise au déclarant revêtue de la
+mention de l'enregistrement.
 
 L'enregistrement peut encore être contesté par le ministère public en cas de mensonge ou de fraude dans le délai de deux ans
 à compter de leur découverte. La cessation de la communauté de vie entre les époux dans les douze mois suivant
@@ -3141,24 +3137,21 @@ l'enregistrement de la déclaration prévue à l'article 21-2 constitue une pré
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Code de la nationalité française 107
-	  - Code de la nationalité française. - art. 107 (Ab)
-
 	**Codifié par**:
 
 	  - Loi n°93-933 1993-07-22
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°93-933 du 22 juillet 1993 - art. 50 () JORF 23 juillet 1993 en vigueur le 1er janvier 1994
-	  - Loi n°93-933 du 22 juillet 1993 - art. 51 (V) JORF 23 juillet 1993 en vigueur le 1er janvier 1994
+	  - Loi n°98-170 du 16 mars 1998 - art. 12 () JORF 17 mars 1998 en vigueur le 1er septembre 1998
 
 	**Cite**:
 
 	  - Code civil - art. 21-2 (M)
-	  - Code civil - art. 21-9 (M)
+
+	**Anciens textes**:
+
+	  - Code de la nationalité française. - art. 107 (Ab)
 
 	**Cité par**:
 
@@ -3170,23 +3163,11 @@ l'enregistrement de la déclaration prévue à l'article 21-2 constitue une pré
 Sous réserve des dispositions du deuxième alinéa (1°) de l'article 23-9, les déclarations de nationalité, dès lors qu'elles
 ont été enregistrées, prennent effet à la date à laquelle elles ont été souscrites.
 
-Les manifestations de volonté prennent effet dans les conditions fixées à l'article 21-9.
-
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code de la nationalité française 108
-	  - Code de la nationalité française. - art. 108 (MMN)
 
 	**Codifié par**:
 
 	  - Loi n°93-933 1993-07-22
-
-	**Modifié par**:
-
-	  - Loi n°93-933 du 22 juillet 1993 - art. 50 () JORF 23 juillet 1993 en vigueur le 1er janvier 1994
-	  - Loi n°93-933 du 22 juillet 1993 - art. 51 (V) JORF 23 juillet 1993 en vigueur le 1er janvier 1994
 
 	**Cité par**:
 
@@ -3194,10 +3175,17 @@ Les manifestations de volonté prennent effet dans les conditions fixées à l'a
 	  - Décret n°93-1362 du 30 décembre 1993 - art. 17-3 (V)
 	  - Décret n°2016-872 du 29 juin 2016 - art. 6
 
+	**Modifié par**:
+
+	  - Loi n°98-170 du 16 mars 1998 - art. 12 () JORF 17 mars 1998 en vigueur le 1er septembre 1998
+
 	**Cite**:
 
-	  - Code civil - art. 21-9 (M)
 	  - Code civil - art. 23-9 (V)
+
+	**Anciens textes**:
+
+	  - Code de la nationalité française. - art. 108 (MMN)
 
 
 #### Section 2 : Des décisions administratives
@@ -3306,14 +3294,10 @@ française sont pris, l'intéressé entendu ou appelé à produire ses observati
 Mention sera portée, en marge de l'acte de naissance, des actes administratifs et des déclarations ayant pour effet
 l'acquisition, la perte de la nationalité française ou la réintégration dans cette nationalité.
 
-Il sera fait de même mention des décisions juridictionnelles ayant trait à cette nationalité.
+Il sera fait de même mention de toute première délivrance de certificat de nationalité française et des décisions
+juridictionnelles ayant trait à cette nationalité.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code de la nationalité française 115
-	  - Code de la nationalité française. - art. 115 (Ab)
 
 	**Cité par**:
 
@@ -3334,23 +3318,28 @@ Il sera fait de même mention des décisions juridictionnelles ayant trait à ce
 
 	  - Loi n°93-933 1993-07-22
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°93-933 du 22 juillet 1993 - art. 50 () JORF 23 juillet 1993
-	  - Loi n°1803-03-08 promulguée le 18 mars 1803
+	  - Loi n°98-170 du 16 mars 1998 - art. 16 () JORF 17 mars 1998 en vigueur le 1er septembre 1998
+
+	**Anciens textes**:
+
+	  - Code de la nationalité française. - art. 115 (Ab)
 
 
 ###### Article 28-1
 
-Les mentions relatives à la nationalité ne seront portées que sur les copies des actes de naissance ou des actes dressés pour
-tenir lieu de ces actes.
+Les mentions relatives à la nationalité prévues à l'article précédent sont portées sur les copies des actes de naissance ou
+des actes dressés pour en tenir lieu.
+
+Ces mentions sont également portées sur les extraits des actes de naissance ou sur le livret de famille à la demande des
+intéressés. Toutefois, la mention de la perte, de la déclination, de la déchéance, de l'opposition à l'acquisition de la
+nationalité française, du retrait du décret de naturalisation ou de réintégration ou de la décision judiciaire ayant constaté
+l'extranéité est portée d'office sur les extraits des actes de naissance et sur le livret de famille lorsqu'une personne
+ayant antérieurement acquis cette nationalité, ou s'étant vu reconnaître judiciairement celle-ci, ou délivrer un certificat
+de nationalité française a demandé qu'il en soit fait mention sur lesdits documents.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code de la nationalité française 116
-	  - Code de la nationalité française. - art. 116 (Ab)
 
 	**Cité par**:
 
@@ -3364,9 +3353,13 @@ tenir lieu de ces actes.
 
 	  - Loi n°93-933 1993-07-22
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°93-933 du 22 juillet 1993 - art. 50 () JORF 23 juillet 1993
+	  - Loi n°98-170 du 16 mars 1998 - art. 17 () JORF 17 mars 1998 en vigueur le 1er septembre 1998
+
+	**Anciens textes**:
+
+	  - Code de la nationalité française. - art. 116 (Ab)
 
 
 ### Chapitre VI : Du contentieux de la nationalité

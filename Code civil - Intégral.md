@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1945-03-29
+Version Consolidée au 1945-10-18
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -22621,6 +22621,26 @@ Le contrat de louage n'est point résolu par la mort du bailleur ni par celle du
 	  - Loi n°48-1360 du 1 septembre 1948 - art. 5 (V)
 
 
+###### Article 1744
+
+S'il a été convenu lors du bail qu'en cas de vente l'acquéreur pourrait expulser le locataire et qu'il n'ait été fait aucune
+stipulation sur les dommages-intérêts, le bailleur est tenu d'indemniser le locataire de la manière suivante.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-07
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+	**Modifié par**:
+
+	  - Ordonnance 45-2380 1945-10-17 JORF 18 octobre 1945 rectificatif JORF 30 octobre 1945
+
+
 ###### Article 1745
 
 S'il s'agit d'une maison, appartement ou boutique, le bailleur paye, à titre de dommages et intérêts, au locataire évincé,
@@ -22667,6 +22687,46 @@ avances.
 	**Créé par**:
 
 	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+
+###### Article 1748
+
+L'acquéreur qui veut user de la faculté réservée par le bail d'expulser le locataire en cas de vente est, en outre, tenu de
+l'avertir au temps d'avance usité dans le lieu pour les congés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-07
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+	**Modifié par**:
+
+	  - Ordonnance 45-2380 1945-10-17 JORF 18 octobre 1945 rectificatif JORF 30 octobre 1945
+
+
+###### Article 1749
+
+Les locataires ne peuvent être expulsés qu'ils ne soient payés par le bailleur ou, à son défaut, par le nouvel acquéreur, des
+dommages et intérêts ci-dessus expliqués.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-07
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+	**Modifié par**:
+
+	  - Ordonnance 45-2380 1945-10-17 JORF 18 octobre 1945 rectificatif JORF 30 octobre 1945
 
 
 ###### Article 1750
@@ -23225,25 +23285,6 @@ Il en est de même si, à l'expiration des baux écrits, le preneur reste et est
 	**Créé par**:
 
 	  - Loi n°1804-03-07 promulguée le 17 mars 1804
-
-
-###### Article 1776
-
-(article abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1804-03-07
-
-	**Créé par**:
-
-	  - Loi n°1804-03-07 promulguée le 17 mars 1804
-
-	**Abrogé par**:
-
-	  - Ordonnance 45-2380 1945-10-17 JORF 18 octobre 1945 rectificatif JORF 30 octobre
 
 
 ###### Article 1777

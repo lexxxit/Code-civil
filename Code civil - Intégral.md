@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1936-08-22
+Version Consolidée au 1938-02-18
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -7513,6 +7513,22 @@ Nul n'est tenu d'accepter une succession qui lui est échue.
 	  - Loi n°1803-04-19 promulguée le 29 avril 1803
 
 
+###### Article 776
+
+Les successions échues aux mineurs et aux majeurs en tutelle ne pourront être valablement acceptées que conformément aux
+dispositions du titre De la minorité, de la tutelle et de l'émancipation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-04-19
+
+	**Créé par**:
+
+	  - Loi n°1803-04-19 promulguée le 29 avril 1803
+
+
 ###### Article 777
 
 L'effet de l'acceptation remonte au jour de l'ouverture de la succession.
@@ -12474,21 +12490,6 @@ consentement, il pourra donner tout ce que la loi permet à l'époux majeur de d
 
 ### Chapitre II : De la capacité de disposer ou de recevoir par donation entre vifs ou par testament.
 
-###### Article 905
-
-(article abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-05-03
-
-	**Créé par**:
-
-	  - Loi n°1803-05-03 promulguée le 13 mai 1803
-
-
 ###### Article 910
 
 Les dispositions entre vifs ou par testament, au profit des hospices, des pauvres d'une commune, ou d'établissements
@@ -12559,23 +12560,6 @@ des biens.
 
 
 ### Chapitre IV : Des donations entre vifs
-
-#### Section 1 : De la forme des donations entre vifs.
-
-###### Article 934
-
-(article abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-05-03
-
-	**Créé par**:
-
-	  - Loi n°1803-05-03 promulguée le 13 mai 1803
-
 
 #### Section 1 : De la forme des donations entre vifs.
 
@@ -12651,26 +12635,30 @@ demande pour rentrer dans les biens donnés n'aurait été formée que postérie
 	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 20 (V)
 
 
-### Chapitre V : Des dispositions testamentaires
+### Chapitre IX : Des dispositions entre époux, soit par contrat de mariage, soit pendant le mariage.
 
-#### Section 7 : Des exécuteurs testamentaires.
+###### Article 1096
 
-###### Article 1029
+Toutes donations faites entre époux pendant le mariage, quoique qualifiées entre vifs, seront toujours révocables.
 
-(article abrogé).
+Ces donations ne seront point révoquées par la survenance d'enfants.
+
+**Nota:**
+
+NOTA : La loi 2004-439 du 26 mai 2004 entrera en vigueur le 1er janvier 2005 sauf pour les exceptions citées par l'article 33
+II.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-05-03
 
 	**Créé par**:
 
 	  - Loi n°1803-05-03 promulguée le 13 mai 1803
 
+	**Cité par**:
 
-### Chapitre IX : Des dispositions entre époux, soit par contrat de mariage, soit pendant le mariage.
+	  - Loi n°2006-728 du 23 juin 2006 - art. 46 (V)
+	  - Loi n°2006-728 du 23 juin 2006 - art. 47 (V)
+
 
 ###### Article 1099
 

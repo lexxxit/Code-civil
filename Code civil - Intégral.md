@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1933-02-02
+Version Consolidée au 1933-02-19
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -2071,6 +2071,42 @@ lorsqu'il s'est écoulé une année sans réclamation de leur part, depuis qu'il
 l'âge compétent pour consentir par lui-même au mariage.
 
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°1803-03-17 promulguée le 27 mars 1803
+
+
+###### Article 184
+
+Tout mariage contracté en contravention aux dispositions contenues aux articles 144, 146, 147, 161, 162 et 163, peut être
+attaqué soit par les époux eux-mêmes, soit par tous ceux qui y ont intérêt, soit par le ministère public.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code civil - art. 144 (M)
+	  - Code civil - art. 146 (V)
+	  - Code civil - art. 147 (V)
+	  - Code civil - art. 161 (M)
+	  - Code civil - art. 162 (M)
+	  - Code civil - art. 163 (M)
+
+	**Cité par**:
+
+	  - Code civil - art. 170-1 (Ab)
+	  - Code civil - art. 171-8 (V)
+	  - Code civil - art. 187 (V)
+	  - Code civil - art. 190 (V)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code civil - art. 185 (Ab)
 
 	**Codifié par**:
 

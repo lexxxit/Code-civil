@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1993-09-02
+Version Consolidée au 1994-01-01
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -137,35 +137,6 @@ On ne peut déroger, par des conventions particulières, aux lois qui intéresse
 
 
 # Livre Ier : Des personnes
-
-## Titre Ier : De la jouissance et de la privation des droits civils.
-
-### Chapitre Ier : De la jouissance des droits civils.
-
-###### Article 9-1
-
-Chacun a droit au respect de la présomption d'innocence.
-
-Lorsqu'une personne est, avant toute condamnation, présentée publiquement comme étant coupable de faits faisant l'objet d'une
-enquête ou d'une instruction judiciaire, le juge peut, même en référé, ordonner l'insertion d'une rectification ou la
-diffusion d'un communiqué aux fins de faire cesser l'atteinte à la présomption d'innocence, sans préjudice d'une action en
-réparation des dommages subis et des autres mesures qui peuvent être prescrites en application du nouveau code de procédure
-civile et ce, aux frais de la personne, physique ou morale, responsable de l'atteinte à la présomption d'innocence.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-08
-
-	**Créé par**:
-
-	  - Loi n°93-2 1993-01-05 art. 47 JORF 5 janvier 1993
-
-	**Cité par**:
-
-	  - Ordonnance n°96-267 du 28 mars 1996 - art. 3 (V)
-
 
 ## Titre Ier bis : De la nationalité française
 
@@ -803,6 +774,35 @@ recensement en vue de l'accomplissement du service national perd la faculté de 
 	  - Code de la nationalité française. - art. 32 (Ab)
 
 
+###### Article 20-5
+
+Les dispositions contenues dans les articles 19-3 et 19-4 ne sont pas applicables aux enfants nés en France des agents
+diplomatiques ou des consuls de carrière de nationalité étrangère. 
+
+Ces enfants ont toutefois la faculté d'acquérir volontairement la qualité de français conformément aux dispositions des
+articles 21-7 et suivants.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°93-933 1993-07-22
+
+	**Créé par**:
+
+	  - Loi n°93-933 du 22 juillet 1993 - art. 50 () JORF 23 juillet 1993 en vigueur le 1er janvier 1994
+	  - Loi n°93-933 du 22 juillet 1993 - art. 51 (V) JORF 23 juillet 1993 en vigueur le 1er janvier 1994
+
+	**Cite**:
+
+	  - Code civil - art. 19-3 (V)
+	  - Code civil - art. 21-7 (V)
+
+	**Anciens textes**:
+
+	  - Code de la nationalité française. - art. 33 (Ab)
+
+
 ### Chapitre III : De l'acquisition de la nationalité française
 
 #### Section 1 : Des modes d'acquisition de la nationalité française
@@ -946,6 +946,44 @@ laquelle la déclaration a été souscrite.
 	  - Code de la nationalité française. - art. 38 (Ab)
 
 
+###### Article 21-4
+
+Le Gouvernement peut s'opposer par décret en Conseil d'Etat, pour indignité ou défaut d'assimilation, à l'acquisition de la
+nationalité française par le conjoint étranger dans un délai d'un an à compter de la date du récépissé prévu au deuxième
+alinéa de l'article 26 ou, si l'enregistrement a été refusé, à compter du jour où la décision judiciaire admettant la
+régularité de la déclaration est passée en force de chose jugée. 
+
+En cas d'opposition du Gouvernement, l'intéressé est réputé n'avoir jamais acquis la nationalité française. 
+
+Toutefois, la validité des actes passés entre la déclaration et le décret d'opposition ne pourra être contestée pour le motif
+que l'auteur n'a pu acquérir la nationalité française.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°93-933 1993-07-22
+
+	**Créé par**:
+
+	  - Loi n°93-933 du 22 juillet 1993 - art. 50 () JORF 23 juillet 1993 en vigueur le 1er janvier 1994
+	  - Loi n°93-933 du 22 juillet 1993 - art. 51 (V) JORF 23 juillet 1993 en vigueur le 1er janvier 1994
+
+	**Cité par**:
+
+	  - Code civil - art. 21-13-2 (V)
+	  - Code civil - art. 21-3 (V)
+	  - Code civil - art. 26-3 (V)
+
+	**Cite**:
+
+	  - Code civil - art. 26 (V)
+
+	**Anciens textes**:
+
+	  - Code de la nationalité française. - art. 39 (Ab)
+
+
 ###### Article 21-5
 
 Le mariage déclaré nul par une décision émanant d'une juridiction française ou d'une juridiction étrangère dont l'autorité
@@ -988,6 +1026,226 @@ L'annulation du mariage n'a point d'effet sur la nationalité des enfants qui en
 	**Anciens textes**:
 
 	  - Code de la nationalité française. - art. 43 (Ab)
+
+
+##### Paragraphe 3 : Acquisition de la nationalité française à raison de la naissance et de la résidence en France
+
+###### Article 21-7
+
+Tout étranger né en France de parents étrangers peut, à partir de l'âge de seize ans et jusqu'à l'âge de vingt et un ans,
+acquérir la nationalité française à condition qu'il en manifeste la volonté, qu'il réside en France à la date de sa
+manifestation de volonté et qu'il justifie d'une résidence habituelle en France pendant les cinq années qui la précèdent. 
+
+La condition de résidence habituelle en France pendant cinq ans n'est pas exigée pour l'étranger francophone au sens des
+dispositions de l'article 21-20. 
+
+Un décret en Conseil d'Etat fixe les conditions dans lesquelles les organismes et services publics, et notamment les
+établissements d'enseignement, les caisses de sécurité sociale et les collectivités territoriales, informent le public, et en
+particulier les personnes concernées par le présent article, des dispositions en vigueur en matière de droit de la
+nationalité.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Ordonnance n°45-2658 du 2 novembre 1945 - art. 15 (Ab)
+	  - Ordonnance n°45-2658 du 2 novembre 1945 - art. 15-1 (MMN)
+	  - Décret n°93-1362 du 30 décembre 1993 - art. 1 (Ab)
+	  - Décret n°93-1362 du 30 décembre 1993 - art. 17-3 (V)
+	  - Décret n°93-1362 du 30 décembre 1993 - art. 8 (Ab)
+	  - Décret n°94-698 du 16 août 1994 - art. 1 (Ab)
+	  - Décret n°94-698 du 16 août 1994 - art. 8 (Ab)
+	  - Décret n°94-698 du 16 août 1994 - art. 9 (Ab)
+	  - Loi n°98-170 du 16 mars 1998 - art. 32 (V)
+	  - Loi n°98-170 du 16 mars 1998 - art. 33 (V)
+	  - Loi n°98-170 du 16 mars 1998 - art. 34 (V)
+	  - Décret n°98-719 du 20 août 1998 - art. 1 (V)
+	  - Ordonnance n°2000-371 du 26 avril 2000 - art. 20 (V)
+	  - Ordonnance n°2000-372 du 26 avril 2000 - art. 22 (V)
+	  - Ordonnance n°2000-373 du 26 avril 2000 - art. 20 (VT)
+	  - Ordonnance n°2002-388 du 20 mars 2002 - art. 22 (V)
+	  - Décret n°2016-872 du 29 juin 2016 (V)
+	  - Décret n°2016-872 du 29 juin 2016 - art. 6
+	  - Code civil - art. 20-5 (M)
+	  - Code civil - art. 21-10 (V)
+	  - Code civil - art. 21-13-2 (V)
+	  - Code civil - art. 21-19 (M)
+	  - Code civil - art. 21-27 (V)
+	  - Code civil - art. 21-28 (VD)
+	  - Code civil - art. 21-9 (V)
+	  - Code civil - art. 26-3 (M)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L314-12 (V)
+	  - Code de l'éducation - art. L511-4 (V)
+	  - Code du service national - art. L113-3 (M)
+	  - Code du service national - art. L15 (M)
+
+	**Codifié par**:
+
+	  - Loi n°93-933 1993-07-22
+
+	**Créé par**:
+
+	  - Loi n°93-933 du 22 juillet 1993 - art. 50 () JORF 23 juillet 1993 en vigueur le 1er janvier 1994
+	  - Loi n°93-933 du 22 juillet 1993 - art. 51 (V) JORF 23 juillet 1993 en vigueur le 1er janvier 1994
+
+	**Cite**:
+
+	  - Code civil - art. 21-20 (V)
+
+	**Anciens textes**:
+
+	  - Code de la nationalité française. - art. 44 (Ab)
+
+
+###### Article 21-8
+
+Toutefois, l'étranger perd le droit qui lui est reconnu à l'article précédent s'il a fait l'objet pour des faits commis entre
+l'âge de dix-huit ans et celui de vingt et un ans :
+
+- d'une condamnation à une peine quelconque d'emprisonnement pour crimes ou délits contre la sûreté de l'Etat ou liés au
+terrorisme ;
+
+- d'une condamnation à une peine égale ou supérieure à six mois d'emprisonnement non assortie d'une mesure de sursis pour
+proxénétisme ou trafic de stupéfiants ou coups mortels ou homicide volontaire ou assassinat ;
+
+- d'une condamnation à une peine égale ou supérieure à six mois d'emprisonnement non assortie d'une mesure de sursis pour
+homicide volontaire, coups et blessures volontaires, menaces, viol ou attentat à la pudeur commis à l'encontre d'un mineur de
+quinze ans.
+
+Il en est de même de celui qui a fait l'objet soit d'un arrêté d'expulsion (1) ou d'une interdiction du territoire français
+non entièrement exécutée.
+
+(1) Dispositions de cet alinéa non reproduites car déclarées non conformes à la Constitution par décision du Conseil
+constitutionnel n° 93-321 DC du 20 juillet 1993 : "ou d'un arrêté d'assignation à résidence non expressément rapporté ou
+abrogé, soit d'un arrêté de reconduite à la frontière".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°93-933 1993-07-22
+
+	**Créé par**:
+
+	  - Loi n°93-933 du 22 juillet 1993 - art. 50 () JORF 23 juillet 1993 en vigueur le 1er janvier 1994
+	  - Loi n°93-933 du 22 juillet 1993 - art. 51 (V) JORF 23 juillet 1993 en vigueur le 1er janvier 1994
+
+	**Cité par**:
+
+	  - Décret n°93-1362 du 30 décembre 1993 - art. 24-1 (V)
+	  - Loi n°98-170 du 16 mars 1998 - art. 33 (V)
+	  - Code civil - art. 21-11 (M)
+	  - Code civil - art. 21-27 (M)
+	  - Code du service national - art. L113-3 (V)
+
+	**Anciens textes**:
+
+	  - Code de la nationalité française. - art. 45 (Ab)
+
+
+###### Article 21-9
+
+La manifestation de volonté est recueillie soit par le juge d'instance, soit par une autorité administrative désignée par
+décret en Conseil d'Etat à l'occasion d'une démarche accomplie devant elle et relevant de sa compétence. Il en est donné acte
+dans des conditions fixées par décret en Conseil d'Etat. L'autorité administrative transmet la pièce consignant la
+manifestation de volonté au juge d'instance.
+
+Le juge d'instance délivre un récépissé après la remise des pièces nécessaires à la preuve de la recevabilité et procède à
+l'enregistrement conformément aux articles 26-1 et suivants.
+
+L'intéressé acquiert la nationalité française à la date de la manifestation de volonté.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de la nationalité française 46
+
+	**Codifié par**:
+
+	  - Loi n°93-933 1993-07-22
+
+	**Créé par**:
+
+	  - Loi n°93-933 du 22 juillet 1993 - art. 50 () JORF 23 juillet 1993 en vigueur le 1er janvier 1994
+	  - Loi n°93-933 du 22 juillet 1993 - art. 51 (V) JORF 23 juillet 1993 en vigueur le 1er janvier 1994
+
+	**Cité par**:
+
+	  - Code civil - art. 21-10 (M)
+	  - Code civil - art. 26 (M)
+	  - Code civil - art. 26-4 (M)
+	  - Code civil - art. 26-5 (M)
+
+	**Cite**:
+
+	  - Code civil - art. 26-1 (V)
+
+
+###### Article 21-10
+
+La participation volontaire aux opérations de recensement en vue de l'accomplissement du service national ou la demande de
+certificat de nationalité française constituent une manifestation de volonté au sens de l'article 21-7. Elle produit effet
+dans les conditions de l'article 21-9.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°93-933 1993-07-22
+
+	**Créé par**:
+
+	  - Loi n°93-933 du 22 juillet 1993 - art. 50 () JORF 23 juillet 1993 en vigueur le 1er janvier 1994
+	  - Loi n°93-933 du 22 juillet 1993 - art. 51 (V) JORF 23 juillet 1993 en vigueur le 1er janvier 1994
+
+	**Cite**:
+
+	  - Code civil - art. 21-7 (M)
+	  - Code civil - art. 21-9 (M)
+
+	**Anciens textes**:
+
+	  - Code de la nationalité française. - art. 47 (MMN)
+
+
+###### Article 21-11
+
+Sous réserve des dispositions de l'article 21-8, tout étranger né en France de parents étrangers, qui est régulièrement
+incorporé en qualité d'engagé ou en vue de l'accomplissement du service national actif, avant l'âge de vingt et un ans,
+acquiert la nationalité française à la date de son incorporation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°93-933 1993-07-22
+
+	**Créé par**:
+
+	  - Loi n°93-933 du 22 juillet 1993 - art. 50 () JORF 23 juillet 1993 en vigueur le 1er janvier 1994
+	  - Loi n°93-933 du 22 juillet 1993 - art. 51 (V) JORF 23 juillet 1993 en vigueur le 1er janvier 1994
+
+	**Cité par**:
+
+	  - Décret n°93-1362 du 30 décembre 1993 - art. 15-1 (V)
+	  - Décret n°93-1362 du 30 décembre 1993 - art. 15-2 (V)
+	  - Décret n°93-1362 du 30 décembre 1993 - art. 17-3 (V)
+	  - Décret n°2016-872 du 29 juin 2016 (V)
+	  - Décret n°2016-872 du 29 juin 2016 - art. 6
+	  - Code civil - art. 20-5 (V)
+	  - Code civil - art. 21-10 (V)
+	  - Code civil - art. 21-13-2 (V)
+	  - Code civil - art. 21-27 (V)
+	  - Code civil - art. 21-28 (VD)
+
+	**Cite**:
+
+	  - Code civil - art. 21-8 (M)
+
+	**Anciens textes**:
+
+	  - Code de la nationalité française 48
 
 
 ##### Paragraphe 4 : Acquisition de la nationalité française par déclaration de nationalité
@@ -1483,8 +1741,8 @@ réintégré dans cette nationalité s'il a été l'objet soit d'une condamnatio
 ou liés au terrorisme, soit, quelle que soit l'infraction considérée, s'il a été condamné à une peine égale ou supérieure à
 six mois d'emprisonnement, non assortie d'une mesure de sursis.
 
-Il en est de même de celui qui a fait l'objet soit d'un arrêté d'expulsion non expressément rapporté ou abrogé (1), soit
-d'une interdiction du territoire français non entièrement exécutée.
+Il en est de même de celui qui a fait l'objet soit d'un arrêté d'expulsion non expressément rapporté ou abrogé, soit d'une
+interdiction du territoire français non entièrement exécutée.
 
 Il en est de même de celui dont le séjour en France est irrégulier au regard des lois et conventions relatives au séjour des
 étrangers en France.
@@ -1499,15 +1757,15 @@ abrogé, soit d'un arrêté de reconduite à la frontière".
 
 	  - Loi n°93-933 1993-07-22
 
-	**Modifié par**:
-
-	  - Loi n°93-1027 du 24 août 1993 - art. 32 () JORF 29 août 1993
-
 	**Cité par**:
 
 	  - Décret n°93-1362 du 30 décembre 1993 - art. 43 (VD)
 	  - Code civil - art. 21-23 (V)
 	  - Code civil - art. 24-2 (V)
+
+	**Modifié par**:
+
+	  - Loi n°93-1417 1993-12-30 art. 11 II JORF 1er janvier 1994
 
 	**Cite**:
 
@@ -1517,7 +1775,6 @@ abrogé, soit d'un arrêté de reconduite à la frontière".
 
 	**Anciens textes**:
 
-	  - Code de la nationalité française 79
 	  - Code de la nationalité française. - art. 79 (Ab)
 
 
@@ -2095,7 +2352,225 @@ Elle ne peut être prononcée que dans le délai de dix ans à compter de la per
 
 ### Chapitre V : Des actes relatifs à l'acquisition ou à la perte de la nationalité française
 
+#### Section 1 : Des déclarations de nationalité
+
+###### Article 26
+
+Les déclarations de nationalité sont reçues, sous réserve des dispositions de l'article 21-9, par le juge d'instance ou par
+les consuls suivant les formes déterminées par décret en Conseil d'Etat.
+
+Il en est délivré récépissé après remise des pièces nécessaires à la preuve de leur recevabilité.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°93-933 1993-07-22
+
+	**Créé par**:
+
+	  - Loi n°93-933 du 22 juillet 1993 - art. 50 () JORF 23 juillet 1993 en vigueur le 1er janvier 1994
+	  - Loi n°93-933 du 22 juillet 1993 - art. 51 (V) JORF 23 juillet 1993 en vigueur le 1er janvier 1994
+	  - Loi n°1803-03-08 promulguée le 18 mars 1803
+
+	**Cité par**:
+
+	  - Décret n°93-1362 du 30 décembre 1993 - art. 27 (V)
+	  - Loi n°98-170 du 16 mars 1998 - art. 33 (V)
+	  - Arrêté du 30 août 2013 (V)
+	  - Décret n°2013-795 du 30 août 2013 (V)
+	  - Décret n°2014-994 du 1er septembre 2014 (V)
+	  - Décret n°2015-316 du 19 mars 2015 (V)
+	  - Code civil - art. 20-2 (V)
+	  - Code civil - art. 21-11 (V)
+	  - Code civil - art. 21-12 (V)
+	  - Code civil - art. 21-13 (V)
+	  - Code civil - art. 21-14 (V)
+	  - Code civil - art. 21-2 (V)
+	  - Code civil - art. 21-4 (V)
+	  - Code civil - art. 21-8 (V)
+	  - Code civil - art. 22-3 (V)
+	  - Code civil - art. 23 (V)
+	  - Code civil - art. 23-5 (V)
+	  - Code civil - art. 24-2 (V)
+	  - Code civil - art. 2493 (VT)
+	  - Code civil - art. 32-5 (V)
+	  - Code civil - art. 33-1 (VD)
+
+	**Anciens textes**:
+
+	  - Code de la nationalité française 101
+	  - Code de la nationalité française. - art. 101 (Ab)
+
+	**Cite**:
+
+	  - Code civil - art. 21-9 (M)
+
+
+###### Article 26-2
+
+Le siège et le ressort des tribunaux d'instance compétents pour recevoir et enregistrer les déclarations de nationalité
+française sont fixés par décret.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°93-933 1993-07-22
+
+	**Créé par**:
+
+	  - Loi n°93-933 du 22 juillet 1993 - art. 50 () JORF 23 juillet 1993 en vigueur le 1er janvier 1994
+	  - Loi n°93-933 du 22 juillet 1993 - art. 51 (V) JORF 23 juillet 1993 en vigueur le 1er janvier 1994
+
+	**Cité par**:
+
+	  - Décret n°93-1362 du 30 décembre 1993 - art. 1 (Ab)
+	  - Décret n°93-1362 du 30 décembre 1993 - art. 10 (V)
+	  - Décret n°93-1362 du 30 décembre 1993 - art. 13 (M)
+	  - Décret n°93-1362 du 30 décembre 1993 - art. 15 (V)
+	  - Décret n°93-1362 du 30 décembre 1993 - art. 6 (Ab)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*321-31 (Ab)
+
+	**Anciens textes**:
+
+	  - Code de la nationalité française. - art. 104-1 (MMN)
+
+
+###### Article 26-3
+
+Le ministre ou le juge refuse d'enregistrer les déclarations qui ne satisfont pas aux conditions légales.
+
+Sa décision motivée est notifiée au déclarant qui peut la contester devant le tribunal de grande instance durant un délai de
+six mois. L'action peut être exercée personnellement par le mineur dès l'âge de seize ans.
+
+La décision de refus d'enregistrement doit intervenir six mois au plus après la date à laquelle a été délivré au déclarant le
+récépissé constatant la remise de toutes les pièces nécessaires à la preuve de recevabilité de la déclaration.
+
+Le délai est également de six mois pour les manifestations de volonté exprimées en application de l'article 21-7. Il est
+porté à un an pour les déclarations souscrites en vertu de l'article 21-2.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de la nationalité française 105
+	  - Code de la nationalité française. - art. 105 (Ab)
+
+	**Codifié par**:
+
+	  - Loi n°93-933 1993-07-22
+
+	**Modifié par**:
+
+	  - Loi n°93-933 du 22 juillet 1993 - art. 50 () JORF 23 juillet 1993 en vigueur le 1er janvier 1994
+	  - Loi n°93-933 du 22 juillet 1993 - art. 51 (V) JORF 23 juillet 1993 en vigueur le 1er janvier 1994
+
+	**Cité par**:
+
+	  - Décret n°93-1362 du 30 décembre 1993 - art. 31 (V)
+	  - Code civil - art. 21-3 (V)
+
+	**Cite**:
+
+	  - Code civil - art. 21-2 (M)
+	  - Code civil - art. 21-7 (M)
+
+
+###### Article 26-4
+
+A défaut de refus d'enregistrement dans les délais légaux, copie de la déclaration, ou de la pièce consignant la
+manifestation de volonté prévue à l'article 21-9, est remise au déclarant revêtue de la mention de l'enregistrement.
+
+L'enregistrement peut encore être contesté par le ministère public en cas de mensonge ou de fraude dans le délai de deux ans
+à compter de leur découverte. La cessation de la communauté de vie entre les époux dans les douze mois suivant
+l'enregistrement de la déclaration prévue à l'article 21-2 constitue une présomption de fraude.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de la nationalité française 107
+	  - Code de la nationalité française. - art. 107 (Ab)
+
+	**Codifié par**:
+
+	  - Loi n°93-933 1993-07-22
+
+	**Créé par**:
+
+	  - Loi n°93-933 du 22 juillet 1993 - art. 50 () JORF 23 juillet 1993 en vigueur le 1er janvier 1994
+	  - Loi n°93-933 du 22 juillet 1993 - art. 51 (V) JORF 23 juillet 1993 en vigueur le 1er janvier 1994
+
+	**Cite**:
+
+	  - Code civil - art. 21-2 (M)
+	  - Code civil - art. 21-9 (M)
+
+	**Cité par**:
+
+	  - Nouveau code de procédure civile - art. 1040 (M)
+
+
+###### Article 26-5
+
+Sous réserve des dispositions du deuxième alinéa (1°) de l'article 23-9, les déclarations de nationalité, dès lors qu'elles
+ont été enregistrées, prennent effet à la date à laquelle elles ont été souscrites.
+
+Les manifestations de volonté prennent effet dans les conditions fixées à l'article 21-9.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de la nationalité française 108
+	  - Code de la nationalité française. - art. 108 (MMN)
+
+	**Codifié par**:
+
+	  - Loi n°93-933 1993-07-22
+
+	**Modifié par**:
+
+	  - Loi n°93-933 du 22 juillet 1993 - art. 50 () JORF 23 juillet 1993 en vigueur le 1er janvier 1994
+	  - Loi n°93-933 du 22 juillet 1993 - art. 51 (V) JORF 23 juillet 1993 en vigueur le 1er janvier 1994
+
+	**Cité par**:
+
+	  - Décret n°93-1362 du 30 décembre 1993 - art. 17-1 (V)
+	  - Décret n°93-1362 du 30 décembre 1993 - art. 17-3 (V)
+	  - Décret n°2016-872 du 29 juin 2016 - art. 6
+
+	**Cite**:
+
+	  - Code civil - art. 21-9 (M)
+	  - Code civil - art. 23-9 (V)
+
+
 #### Section 2 : Des décisions administratives
+
+###### Article 27
+
+Toute décision déclarant irrecevable, ajournant ou rejetant une demande de naturalisation ou de réintégration par décret
+ainsi qu'une autorisation de perdre la nationalité française doit être motivée.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de la nationalité française 110
+	  - Code de la nationalité française. - art. 110 (Ab)
+
+	**Créé par**:
+
+	  - Loi n°1803-03-08 promulguée le 18 mars 1803
+	  - Loi n°93-933 du 22 juillet 1993 - art. 50 () JORF 23 juillet 1993 en vigueur le 1er janvier 1994
+	  - Loi n°93-933 du 22 juillet 1993 - art. 51 (V) JORF 23 juillet 1993 en vigueur le 1er janvier 1994
+
+	**Codifié par**:
+
+	  - Loi n°93-933 1993-07-22
+
 
 ###### Article 27-1
 
@@ -2272,6 +2747,32 @@ l'exception des juridictions répressives comportant un jury criminel.
 	**Cité par**:
 
 	  - Code civil - art. 29-4 (V)
+
+
+###### Article 29-1
+
+Le siège et le ressort des tribunaux de grande instance compétents pour connaître des contestations sur la nationalité
+française ou étrangère des personnes physiques sont fixés par décret.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de la nationalité française 125
+	  - Code de la nationalité française. - art. 125 (MMN)
+
+	**Codifié par**:
+
+	  - Loi n°93-933 1993-07-22
+
+	**Créé par**:
+
+	  - Loi n°93-933 du 22 juillet 1993 - art. 50 () JORF 23 juillet 1993 en vigueur le 1er janvier 1994
+	  - Loi n°93-933 du 22 juillet 1993 - art. 51 (V) JORF 23 juillet 1993 en vigueur le 1er janvier 1994
+
+	**Cité par**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*312-9 (Ab)
 
 
 ###### Article 29-2
@@ -2533,6 +3034,34 @@ justifiant qu'elle a cette nationalité.
 	  - Décret n°2017-890 du 6 mai 2017 - art. 32 (VD)
 	  - Code civil - art. 30 (V)
 	  - Code civil - art. 33-2 (V)
+
+
+###### Article 31-1
+
+Le siège et le ressort des tribunaux d'instance compétents pour délivrer les certificats de nationalité sont fixés par
+décret.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de la nationalité française 149-1
+	  - Code de la nationalité française. - art. 149-1 (MMN)
+
+	**Codifié par**:
+
+	  - Loi n°93-933 1993-07-22
+
+	**Modifié par**:
+
+	  - Loi n°93-933 du 22 juillet 1993 - art. 50 () JORF 23 juillet 1993 en vigueur le 1er janvier 1994
+	  - Loi n°93-933 du 22 juillet 1993 - art. 51 (V) JORF 23 juillet 1993 en vigueur le 1er janvier 1994
+
+	**Cité par**:
+
+	  - Décret n°93-1362 du 30 décembre 1993 - art. 7 (Ab)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*321-31 (Ab)
+	  - Code de l'organisation judiciaire - art. R221-52 (V)
 
 
 ###### Article 31-2
@@ -6695,18 +7224,37 @@ Le ministère public peut former opposition pour les cas où il pourrait demande
 
 ###### Article 175-2
 
-(Dispositions déclarées non conformes à la Constitution par décision du Conseil constitutionnel n° 93-325 DC du 13 août
-1993).
+Lorsqu'il existe des indices sérieux laissant présumer que le mariage envisagé est susceptible d'être annulé au titre de
+l'article 146 du présent code, l'officier de l'état civil peut saisir le procureur de la République. Il en informe les
+intéressés.
+
+Le procureur de la République dispose de quinze jours pour faire opposition au mariage ou décider qu'il sera sursis à sa
+célébration. Il fait connaître sa décision motivée à l'officier de l'état civil et aux intéressés.
+
+La durée du sursis décidée par le procureur de la République ne peut excéder un mois.
+
+Le mariage ne peut être célébré que lorsque le procureur de la République a fait connaître sa décision de laisser procéder au
+mariage ou si, dans le délai prévu au deuxième alinéa, il n'a pas porté à la connaissance de l'officier de l'état civil sa
+décision de surseoir à la célébration ou de s'y opposer, ou si, à l'expiration du sursis qu'il a décidé, il n'a pas fait
+connaître à l'officier de l'état civil qu'il s'opposait à la célébration.
+
+L'un ou l'autre des futurs époux, même mineur, peut contester la décision de sursis devant le président du tribunal de grande
+instance, qui statuera dans les dix jours. La décision du président du tribunal de grande instance peut être déférée à la
+cour d'appel qui statuera dans le même délai.
 
 **Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°93-1417 1993-12-30 art. 9 JORF 1er janvier 1994
+
+	**Cite**:
+
+	  - Code civil - art. 146 (V)
 
 	**Codifié par**:
 
 	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°93-1027 du 24 août 1993 - art. 31 () JORF 29 août 1993
 
 
 ###### Article 176

@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1994-07-01
+Version Consolidée au 1994-07-26
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -15636,7 +15636,9 @@ famille de ces pupilles.
 
 L'enfant recueilli par un particulier, une oeuvre privée ou un service de l'aide sociale à l'enfance, dont les parents se
 sont manifestement désintéressés pendant l'année qui précède l'introduction de la demande en déclaration d'abandon, peut être
-déclaré abandonné par le tribunal de grande instance.
+déclaré abandonné par le tribunal de grande instance. La demande en déclaration d'abandon est obligatoirement transmise par
+le particulier, l'oeuvre privée ou le service de l'aide sociale à l'enfance à l'expiration du délai d'un an dès lors que les
+parents se sont manifestement désintéressés de l'enfant.
 
 Sont considérés comme s'étant manifestement désintéressés de leur enfant les parents qui n'ont pas entretenu avec lui les
 relations nécessaires au maintien de liens affectifs.
@@ -15671,7 +15673,7 @@ La tierce opposition n'est recevable qu'en cas de dol, de fraude ou d'erreur sur
 
 	**Modifié par**:
 
-	  - Loi n°93-22 du 8 janvier 1993 - art. 30 () JORF 9 janvier 1993
+	  - Loi n°94-629 du 25 juillet 1994 - art. 33 () JORF 26 juillet 1994
 
 
 #### Section 2 : Du placement en vue de l'adoption plénière et du jugement d'adoption plénière

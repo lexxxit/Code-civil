@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1985-03-01
+Version Consolidée au 1985-07-01
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -19541,7 +19541,8 @@ Les lapins des garennes ;
 
 Les ruches à miel ;
 
-Les poissons des étangs ;
+Les poissons des eaux non visées à l'article 402 du code rural et des plans d'eau visés aux articles 432 et 433 du même
+code ;
 
 Les pressoirs, chaudières, alambics, cuves et tonnes ;
 
@@ -19552,6 +19553,10 @@ Les pailles et engrais.
 Sont aussi immeubles par destination, tous effets mobiliers que le propriétaire a attachés au fonds à perpétuelle demeure.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°84-512 1984-06-29 art. 8 I JORF 30 juin 1984 en vigueur le 1er juillet 1985
 
 	**Cité par**:
 
@@ -19580,10 +19585,6 @@ Sont aussi immeubles par destination, tous effets mobiliers que le propriétaire
 	**Codifié par**:
 
 	  - Loi n°1804-01-25
-
-	**Créé par**:
-
-	  - Loi n°1804-01-25 promulguée le 4 février 1804
 
 
 ###### Article 525
@@ -20487,10 +20488,14 @@ la proportion de la valeur du terrain enlevé à chacun d'eux.
 
 ###### Article 564
 
-Les pigeons, lapins, poissons, qui passent dans un autre colombier, garenne ou étang, appartiennent au propriétaire de ces
-objets, pourvu qu'ils n'y aient point été attirés par fraude et artifice.
+Les pigeons, lapins, poissons, qui passent dans un autre colombier, garenne ou plan d'eau visé aux articles 432 et 433 du
+code rural, appartiennent au propriétaire de ces objets, pourvu qu'ils n'y aient point été attirés par fraude et artifice.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°84-512 1984-06-29 art. 8 II JORF 30 juin 1984 en vigueur le 1er juillet 1985
 
 	**Cité par**:
 
@@ -20503,9 +20508,9 @@ objets, pourvu qu'ils n'y aient point été attirés par fraude et artifice.
 
 	  - PILOTE_SUIVEUR: Code rural - art. L211-4 (V)
 
-	**Créé par**:
+	**Cite**:
 
-	  - Loi n°1804-01-25 promulguée le 4 février 1804
+	  - Code rural 432, 433
 
 	**Codifié par**:
 

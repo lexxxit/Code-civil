@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1984-07-13
+Version Consolidée au 1984-10-01
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -28729,6 +28729,248 @@ moeurs, seront réputées non écrites.
 	**Créé par**:
 
 	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 900-1
+
+Les clauses d'inaliénabilité affectant un bien donné ou légué ne sont valables que si elles sont temporaires et justifiées
+par un intérêt sérieux et légitime. Même dans ce cas, le donataire ou le légataire peut être judiciairement autorisé à
+disposer du bien si l'intérêt qui avait justifié la clause a disparu ou s'il advient qu'un intérêt plus important l'exige.
+
+Les dispositions du présent article ne préjudicient pas aux libéralités consenties à des personnes morales ou mêmes à des
+personnes physiques à charge de constituer des personnes morales.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°71-526 du 3 juillet 1971 - art. 1 () JORF 6 juillet 1971
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°71-526 du 3 juillet 1971 - art. 2 (V)
+	  - SPEC_APPLI: Loi n°84-562 du 4 juillet 1984 - art. 7 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°84-562 1984-07-04 art. 8 JORF 6 juillet 1984 en vigueur le 1er octobre 1984
+
+
+###### Article 900-2
+
+Tout gratifié peut demander que soient révisées en justice les conditions et charges grevant les donations ou legs qu'il a
+reçus, lorsque, par suite d'un changement de circonstances, l'exécution en est devenue pour lui soit extrêmement difficile,
+soit sérieusement dommageable.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°84-943 du 19 octobre 1984
+	  - TXT_SOURCE: Décret n°84-943 du 19 octobre 1984 - art. 1 (V)
+	  - TXT_SOURCE: Décret n°84-943 du 19 octobre 1984 - art. 2 (V)
+	  - TXT_SOURCE: Décret n°84-943 du 19 octobre 1984 - art. 3 (V)
+	  - SPEC_APPLI: Loi n°84-562 1984-07-04 art. 7, art. 8
+	  - SPEC_APPLI: Loi n°84-562 du 4 juillet 1984 - art. 7 (Ab)
+
+	**Cité par**:
+
+	  - Code général des collectivités territoriales - art. L1311-17 (V)
+	  - Ordonnance n°2002-1476 du 19 décembre 2002 - art. 10 (VD)
+	  - Code de la santé publique - art. L696 (T)
+	  - Code général de la propriété des personnes publ... - art. L2222-13 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°84-562 1984-07-04 art. 1 JORF 6 juillet 1984 en vigueur le 1er octobre 1984
+
+
+###### Article 900-3
+
+La demande en révision est formée par voie principale ; elle peut l'être aussi par voie reconventionnelle, en réponse à
+l'action en exécution ou en révocation que les héritiers du disposant ont introduite.
+
+Elle est formée contre les héritiers ; elle l'est en même temps contre le ministère public s'il y a doute sur l'existence ou
+l'identité de certains d'entre eux ; s'il n'y a pas d'héritier connu, elle est formée contre le ministère public.
+
+Celui-ci doit, dans tous les cas, avoir communication de l'affaire.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°84-943 du 19 octobre 1984
+	  - TXT_SOURCE: Décret n°84-943 du 19 octobre 1984 - art. 1 (V)
+	  - TXT_SOURCE: Décret n°84-943 du 19 octobre 1984 - art. 2 (V)
+	  - TXT_SOURCE: Décret n°84-943 du 19 octobre 1984 - art. 3 (V)
+	  - SPEC_APPLI: Loi n°84-562 1984-07-04 art. 7, art. 8
+	  - SPEC_APPLI: Loi n°84-562 du 4 juillet 1984 - art. 7 (Ab)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L696 (T)
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°84-562 1984-07-04 art. 1 JORF 6 juillet 1984 en vigueur le 1er octobre 1984
+
+
+###### Article 900-4
+
+Le juge saisi de la demande en révision peut, selon les cas et même d'office, soit réduire en quantité ou périodicité les
+prestations grevant la libéralité, soit en modifier l'objet en s'inspirant de l'intention du disposant, soit même les
+regrouper, avec des prestations analogues résultant d'autres libéralités.
+
+Il peut autoriser l'aliénation de tout ou partie des biens faisant l'objet de la libéralité en ordonnant que le prix en sera
+employé à des fins en rapport avec la volonté du disposant.
+
+Il prescrit les mesures propres à maintenir, autant qu'il est possible, l'appellation que le disposant avait entendu donner à
+sa libéralité.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°84-562 1984-07-04 art. 1 JORF 6 juillet 1984 en vigueur le 1er octobre 1984
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°84-562 1984-07-04 art. 7, art. 8
+	  - SPEC_APPLI: Loi n°84-562 du 4 juillet 1984 - art. 7 (Ab)
+	  - TXT_SOURCE: Décret n°84-943 du 19 octobre 1984
+	  - TXT_SOURCE: Décret n°84-943 du 19 octobre 1984 - art. 1 (V)
+	  - TXT_SOURCE: Décret n°84-943 du 19 octobre 1984 - art. 2 (V)
+	  - TXT_SOURCE: Décret n°84-943 du 19 octobre 1984 - art. 3 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L696 (T)
+	  - Code du domaine de l'Etat - art. R25 (Ab)
+	  - Code général de la propriété des personnes publ... - art. L2222-13 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+
+###### Article 900-5
+
+La demande n'est recevable que dix années après la mort du disposant ou, en cas de demandes successives, dix années après le
+jugement qui a ordonné la précédente révision.
+
+La personne gratifiée doit justifier des diligences qu'elle a faites, dans l'intervalle, pour exécuter ses obligations.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°84-562 1984-07-04 art. 1 JORF 6 juillet 1984 en vigueur le 1er octobre 1984
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°84-562 1984-07-04 art. 7, art. 8
+	  - SPEC_APPLI: Loi n°84-562 du 4 juillet 1984 - art. 7 (Ab)
+	  - TXT_SOURCE: Décret n°84-943 du 19 octobre 1984
+	  - TXT_SOURCE: Décret n°84-943 du 19 octobre 1984 - art. 1 (V)
+	  - TXT_SOURCE: Décret n°84-943 du 19 octobre 1984 - art. 2 (V)
+	  - TXT_SOURCE: Décret n°84-943 du 19 octobre 1984 - art. 3 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L696 (T)
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+
+###### Article 900-6
+
+La tierce opposition à l'encontre du jugement faisant droit à la demande en révision n'est recevable qu'en cas de fraude
+imputable au donataire ou légataire.
+
+La rétractation ou la réformation du jugement attaqué n'ouvre droit à aucune action contre le tiers acquéreur de bonne foi.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°84-562 1984-07-04 art. 1 JORF 6 juillet 1984 en vigueur le 1er octobre 1984
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°84-562 1984-07-04 art. 7, art. 8
+	  - SPEC_APPLI: Loi n°84-562 du 4 juillet 1984 - art. 7 (Ab)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L696 (T)
+
+
+###### Article 900-7
+
+Si, postérieurement à la révision, l'exécution des conditions ou des charges, telle qu'elle était prévue à l'origine,
+redevient possible, elle pourra être demandée par les héritiers.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°84-562 1984-07-04 art. 1 JORF 6 juillet 1984 en vigueur le 1er octobre 1984
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°84-562 1984-07-04 art. 7, art. 8
+	  - SPEC_APPLI: Loi n°84-562 du 4 juillet 1984 - art. 7 (Ab)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L696 (T)
+
+
+###### Article 900-8
+
+Est réputée non écrite toute clause par laquelle le disposant prive de la libéralité celui qui mettrait en cause la validité
+d'une clause d'inaliénabilité ou demanderait l'autorisation d'aliéner.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L696 (T)
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°84-562 1984-07-04 art. 1 JORF 6 juillet 1984 en vigueur le 1er octobre 1984
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°84-562 1984-07-04 art. 7, art. 8
+	  - SPEC_APPLI: Loi n°84-562 du 4 juillet 1984 - art. 7 (Ab)
 
 
 ### Chapitre II : De la capacité de disposer ou de recevoir par donation entre vifs ou par testament.

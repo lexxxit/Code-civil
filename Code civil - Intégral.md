@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1934-02-04
+Version Consolidée au 1936-08-22
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -15363,6 +15363,50 @@ offerte soit égale ou même plus grande.
 	**Cité par**:
 
 	  - Code rural - art. L211-1 (VD)
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°1804-02-07 promulguée le 17 février 1804
+
+
+###### Article 1244
+
+Le débiteur ne peut point forcer le créancier à recevoir en partie le paiement d'une dette, même divisible.
+
+Les juges peuvent néanmoins, en considération de la position du débiteur et compte tenu de la situation économique, accorder
+pour le paiement des délais qui emprunteront leur mesure aux circonstances, sans toutefois dépasser un an, et surseoir à
+l'exécution des poursuites, toutes choses demeurant en l'état.
+
+En cas d'urgence, la même faculté appartient en tout état de cause, au juge des référés.
+
+S'il est sursis à l'exécution des poursuites, les délais fixés par le code de procédure civile pour la validité des
+procédures d'exécution seront suspendus jusqu'à l'expiration du délai accordé par le juge.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°53-960 du 30 septembre 1953 - art. 25 (M)
+	  - Code de la construction et de l'habitation. - art. Annexe 1 au III art R353-159 (M)
+	  - Code de la construction et de l'habitation. - art. L222-4 (V)
+	  - Code de la construction et de l'habitation. - art. L261-13 (V)
+	  - Code de la construction et de l'habitation. - art. L613-1 (M)
+	  - Code rural - art. L411-76 (M)
+	  - Loi n°48-1360 du 1 septembre 1948 - art. 80 (M)
+	  - Loi n°56-672 du 9 juillet 1956 - art. 6 (M)
+	  - Loi n°67-3 du 3 janvier 1967 - art. 9 (V)
+	  - Loi n°70-632 du 15 juillet 1970 - art. 60 (V)
+	  - Loi n°71-579 du 16 juillet 1971 - art. 35 (Ab)
+	  - Loi n°78-22 du 10 janvier 1978 - art. 8 (M)
+	  - Loi n°79-596 du 13 juillet 1979 - art. 14 (M)
+	  - Loi n°86-1290 du 23 décembre 1986 - art. 19 (Ab)
+	  - Loi n°89-462 du 6 juillet 1989 - art. 24 (M)
+	  - Loi n°91-650 du 9 juillet 1991 - art. 83 bis (VT)
+	  - Ordonnance n°98-774 du 2 septembre 1998 - art. 1 (VD)
 
 	**Codifié par**:
 

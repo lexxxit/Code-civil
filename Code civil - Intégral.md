@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1930-07-30
+Version Consolidée au 1930-12-03
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -7056,6 +7056,28 @@ l'exclusion de tous autres parents de l'autre ligne.
 	**Abrogé par**:
 
 	  - Loi n°57-379 1957-03-26 art. 3 JORF 27 mars 1957
+
+
+###### Article 755
+
+Les parents collatéraux au-delà du sixième degré ne succèdent pas, à l'exception, toutefois des descendants des frères et
+soeurs du défunt.
+
+Toutefois, les parents collatéraux succèdent jusqu'au douzième degré lorsque le défunt n'était pas capable de tester et
+n'était pas frappé d'interdiction légale.
+
+A défaut de parents au degré successible dans une ligne et de conjoint contre lequel il n'existe pas de jugement de
+séparation de corps passé en force de chose jugée, les parents de l'autre ligne succèdent pour le tout.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-04-19
+
+	**Créé par**:
+
+	  - Loi n°1803-04-19 promulguée le 29 avril 1803
 
 
 ### Chapitre IV : De l'option de l'héritier

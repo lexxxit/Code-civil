@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1804-03-26
+Version Consolidée au 1804-03-29
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -4625,6 +4625,24 @@ La loi assujettit les propriétaires à différentes obligations l'un à l'égar
 	  - Loi n°1804-01-31 promulguée le 10 février 1804
 
 
+###### Article 652
+
+Partie de ces obligations est réglée par les lois sur la police rurale ;
+
+Les autres sont relatives au mur et au fossé mitoyens, au cas où il y a lieu à contre-mur, aux vues sur la propriété du
+voisin, à l'égout des toits, au droit de passage.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-01-31
+
+	**Créé par**:
+
+	  - Loi n°1804-01-31 promulguée le 10 février 1804
+
+
 #### Section 1 : Du mur et du fossé mitoyens
 
 ###### Article 653
@@ -4792,6 +4810,32 @@ la prescription soit acquise.
 	**Créé par**:
 
 	  - Loi n°1804-01-31 promulguée le 10 février 1804
+
+
+#### Section I : Du mur et du fossé mitoyens.
+
+###### Article 664
+
+(article abrogé).
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-01-31
+
+	**Créé par**:
+
+	  - Loi n°1804-01-31 promulguée le 10 février 1804
+
+	**Abrogé par**:
+
+	  - Loi n°1938-06-28 art. 13 JORF 30 juin 1938
+	  - Loi n°65-557 du 10 juillet 1965 - art. 48 (V) JORF 11 juillet 1965
+
+	**Cité par**:
+
+	  - Loi n°65-557 du 10 juillet 1965 - art. 48 (V)
 
 
 #### Section 2 : De la distance et des ouvrages intermédiaires requis pour certaines constructions
@@ -25755,6 +25799,1949 @@ il les exerce à son ordre et comme tout autre créancier.
 	**Abrogé par**:
 
 	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 56 () JORF 24 mars 2006
+
+
+## Titre XVIII : Des privilèges et hypothèques.
+
+### Chapitre I : Dispositions générales.
+
+###### Article 2092
+
+Quiconque s'est obligé personnellement, est tenu de remplir son engagement sur tous ses biens mobiliers et immobiliers,
+présents et à venir.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2284 (T)
+	  - Code civil - art. 2284 (V)
+
+	**Cité par**:
+
+	  - Code de commerce. - art. L526-1 (M)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-19
+
+	**Créé par**:
+
+	  - Loi n°1804-03-19 promulguée le 29 mars 1804
+
+	**Transféré par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 3 () JORF 24 mars 2006
+
+
+###### Article 2093
+
+Les biens du débiteur sont le gage commun de ses créanciers ; et le prix s'en distribue entre eux par contribution, à moins
+qu'il n'y ait entre les créanciers des causes légitimes de préférence.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°1942-01-19 du 19 janvier 1942 - art. 14 (M)
+	  - Code de commerce. - art. L526-1 (M)
+	  - Code monétaire et financier - art. L214-146 (MMN)
+	  - Code monétaire et financier - art. L214-33 (M)
+	  - Code monétaire et financier - art. L214-43 (M)
+
+	**Transféré par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 3 () JORF 24 mars 2006
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2285 (M)
+	  - Code civil - art. 2285 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-19
+
+	**Créé par**:
+
+	  - Loi n°1804-03-19 promulguée le 29 mars 1804
+
+
+###### Article 2094
+
+Les causes légitimes de préférence sont les privilèges et hypothèques.
+
+**Liens relatifs à cet article**
+
+	**Transféré par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 5 () JORF 24 mars 2006
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2323 (MMN)
+	  - Code civil - art. 2323 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-19
+
+	**Créé par**:
+
+	  - Loi n°1804-03-19 promulguée le 29 mars 1804
+
+
+### Chapitre II : Des privilèges.
+
+###### Article 2095
+
+Le privilège est un droit que la qualité de la créance donne à un créancier d'être préféré aux autres créanciers, même
+hypothécaires.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2324 (MMN)
+	  - Code civil - art. 2324 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-19
+
+	**Créé par**:
+
+	  - Loi n°1804-03-19 promulguée le 29 mars 1804
+
+	**Transféré par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 5 () JORF 24 mars 2006
+
+
+###### Article 2096
+
+Entre les créanciers privilégiés, la préférence se règle par les différentes qualités des privilèges.
+
+**Liens relatifs à cet article**
+
+	**Transféré par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 5 () JORF 24 mars 2006
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2325 (MMN)
+	  - Code civil - art. 2325 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-19
+
+	**Créé par**:
+
+	  - Loi n°1804-03-19 promulguée le 29 mars 1804
+
+
+###### Article 2097
+
+Les créanciers privilégiés qui sont dans le même rang, sont payés par concurrence.
+
+**Liens relatifs à cet article**
+
+	**Transféré par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 5 () JORF 24 mars 2006
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2326 (MMN)
+	  - Code civil - art. 2326 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-19
+
+	**Créé par**:
+
+	  - Loi n°1804-03-19 promulguée le 29 mars 1804
+
+
+###### Article 2098
+
+Le privilège, à raison des droits du Trésor public et l'ordre dans lequel il s'exerce, sont réglés par les lois qui les
+concernent.
+
+Le Trésor public ne peut cependant obtenir de privilège au préjudice des droits antérieurement acquis à des tiers.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-19
+
+	**Créé par**:
+
+	  - Loi n°1804-03-19 promulguée le 29 mars 1804
+
+	**Transféré par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 5 () JORF 24 mars 2006
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2327 (MMN)
+	  - Code civil - art. 2327 (V)
+
+
+###### Article 2099
+
+Les privilèges peuvent être sur les meubles ou sur les immeubles.
+
+**Liens relatifs à cet article**
+
+	**Transféré par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 5 () JORF 24 mars 2006
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2328 (MMN)
+	  - Code civil - art. 2328 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-19
+
+	**Créé par**:
+
+	  - Loi n°1804-03-19 promulguée le 29 mars 1804
+
+
+#### Section 1 : Des privilèges sur les meubles.
+
+###### Article 2100
+
+Les privilèges sont ou généraux, ou particuliers sur certains meubles.
+
+**Liens relatifs à cet article**
+
+	**Transféré par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 5 () JORF 24 mars 2006
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2330 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-19
+
+	**Créé par**:
+
+	  - Loi n°1804-03-19 promulguée le 29 mars 1804
+
+
+#### Section 4 : Comment se conservent les privilèges.
+
+###### Article 2110
+
+Les architectes, entrepreneurs, maçons et autres ouvriers employés pour édifier, reconstruire ou réparer des bâtiments,
+canaux, ou autres ouvrages, et ceux qui ont, pour les payer et rembourser, prêté les deniers dont l'emploi a été constaté
+conservent par la double inscription faite :
+
+1° Du procès-verbal qui constate l'état des lieux ;
+
+2° Du procès-verbal de réception, leur privilège à la date de l'inscription du premier procès-verbal.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°1924-06-01 du 1 juin 1924 - art. 49 (M)
+
+	**Transféré par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2382 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-19
+
+	**Créé par**:
+
+	  - Loi n°1804-03-19 promulguée le 29 mars 1804
+
+
+###### Article 2112
+
+Les cessionnaires de ces diverses créances privilégiées exercent tous les mêmes droits que les cédants en leurs lieu et
+place.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2385 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-19
+
+	**Créé par**:
+
+	  - Loi n°1804-03-19 promulguée le 29 mars 1804
+
+	**Transféré par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
+
+
+### Chapitre III : Des hypothèques.
+
+###### Article 2114
+
+L'hypothèque est un droit réel sur les immeubles affectés à l'acquittement d'une obligation.
+
+Elle est, de sa nature, indivisible, et subsiste en entier sur tous les immeubles affectés, sur chacun et sur chaque portion
+de ces immeubles.
+
+Elle les suit dans quelques mains qu'ils passent.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2393 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-19
+
+	**Créé par**:
+
+	  - Loi n°1804-03-19 promulguée le 29 mars 1804
+
+	**Transféré par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
+
+
+###### Article 2115
+
+L'hypothèque n'a lieu que dans les cas et suivant les formes autorisés par la loi.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2394 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-19
+
+	**Créé par**:
+
+	  - Loi n°1804-03-19 promulguée le 29 mars 1804
+
+	**Transféré par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
+
+
+###### Article 2116
+
+Elle est ou légale, ou judiciaire, ou conventionnelle.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2395 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-19
+
+	**Créé par**:
+
+	  - Loi n°1804-03-19 promulguée le 29 mars 1804
+
+	**Transféré par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
+
+
+###### Article 2118
+
+Sont seuls susceptibles d'hypothèques :
+
+1° Les biens immobiliers qui sont dans le commerce, et leurs accessoires réputés immeubles ;
+
+2° L'usufruit des mêmes biens et accessoires pendant le temps de sa durée.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Transféré par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2397 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-19
+
+	**Créé par**:
+
+	  - Loi n°1804-03-19 promulguée le 29 mars 1804
+
+
+###### Article 2119
+
+Les meubles n'ont pas de suite par hypothèque.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2398 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-19
+
+	**Créé par**:
+
+	  - Loi n°1804-03-19 promulguée le 29 mars 1804
+
+	**Transféré par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
+
+
+###### Article 2120
+
+Il n'est rien innové par le présent code aux dispositions des lois maritimes concernant les navires et bâtiments de mer.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2399 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-19
+
+	**Créé par**:
+
+	  - Loi n°1804-03-19 promulguée le 29 mars 1804
+
+	**Transféré par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
+
+
+#### Section 2 : Des hypothèques judiciaires.
+
+###### Article 2123
+
+L'hypothèque judiciaire résulte des jugements soit contradictoires, soit par défaut, définitifs ou provisoires, en faveur de
+celui qui les a obtenus.
+
+Elle résulte également des décisions arbitrales revêtues de l'ordonnance judiciaire d'exécution ainsi que des décisions
+judiciaires rendues en pays étrangers et déclarées exécutoires par un tribunal français.
+
+Sous réserve du droit pour le débiteur de se prévaloir, soit en cours d'instance, soit à tout autre moment, des dispositions
+des articles 2161 et suivants, le créancier qui bénéficie d'une hypothèque judiciaire peut inscrire son droit sur tous les
+immeubles appartenant actuellement à son débiteur, sauf à se conformer aux dispositions de l'article 2146. Il peut, sous les
+mêmes réserves, prendre des inscriptions complémentaires sur les immeubles entrés par la suite dans le patrimoine de son
+débiteur.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°55-22 du 4 janvier 1955 - art. 18 () JORF 7 janvier 1955
+
+	**Cité par**:
+
+	  - Décret n°64-1333 du 22 décembre 1964 - art. 4 (M)
+	  - Loi n°1924-06-01 du 1 juin 1924 - art. 62 (M)
+	  - Code civil - art. 2148 (T)
+	  - Code civil - art. 2161 (T)
+	  - Code civil - art. 2428 (VD)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-19
+
+	**Créé par**:
+
+	  - Loi n°1804-03-19 promulguée le 29 mars 1804
+
+	**Transféré par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
+
+	**Cite**:
+
+	  - Code civil - art. 2146 (T)
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2412 (M)
+	  - Code civil - art. 2412 (V)
+
+
+#### Section 3 : Des hypothèques conventionnelles.
+
+###### Article 2124
+
+Les hypothèques conventionnelles ne peuvent être consenties que par ceux qui ont la capacité d'aliéner les immeubles qu'ils y
+soumettent.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2413 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-19
+
+	**Créé par**:
+
+	  - Loi n°1804-03-19 promulguée le 29 mars 1804
+
+	**Transféré par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
+
+
+###### Article 2126
+
+Les biens des mineurs, des majeurs en tutelle, et ceux des absents, tant que la possession n'en est déférée que
+provisoirement, ne peuvent être hypothéqués que pour les causes et dans les formes établies par la loi, ou en vertu de
+jugements.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - HISTO: )
+
+	**Transféré par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2415 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-19
+
+	**Créé par**:
+
+	  - Loi n°1804-03-19 promulguée le 29 mars 1804
+
+
+###### Article 2127
+
+L'hypothèque conventionnelle ne peut être consentie que par acte passé en forme authentique devant deux notaires ou devant un
+notaire et deux témoins.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2416 (V)
+
+	**Cité par**:
+
+	  - Code rural ancien - art. 746 (Ab)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-19
+
+	**Créé par**:
+
+	  - Loi n°1804-03-19 promulguée le 29 mars 1804
+
+	**Transféré par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
+
+
+###### Article 2128
+
+Les contrats passés en pays étranger ne peuvent donner d'hypothèque sur les biens de France, s'il n'y a des dispositions
+contraires à ce principe dans les lois politiques ou dans les traités.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2417 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-19
+
+	**Créé par**:
+
+	  - Loi n°1804-03-19 promulguée le 29 mars 1804
+
+	**Transféré par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
+
+
+###### Article 2131
+
+Pareillement, en cas que l'immeuble ou les immeubles présents, assujettis à l'hypothèque, eussent péri, ou éprouvé des
+dégradations, de manière qu'ils fussent devenus insuffisants pour la sûreté du créancier, celui-ci pourra ou poursuivre dès à
+présent son remboursement, ou obtenir un supplément d'hypothèque.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-19
+
+	**Créé par**:
+
+	  - Loi n°1804-03-19 promulguée le 29 mars 1804
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 56 () JORF 24 mars 2006
+
+
+###### Article 2132
+
+L'hypothèque conventionnelle n'est valable qu'autant que la somme pour laquelle elle est consentie est certaine et déterminée
+par l'acte : si la créance résultant de l'obligation est conditionnelle pour son existence, ou indéterminée dans sa valeur,
+le créancier ne pourra requérir l'inscription dont il sera parlé ci-après, que jusqu'à concurrence d'une valeur estimative
+par lui déclarée expressément, et que le débiteur aura droit de faire réduire, s'il y a lieu.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-19
+
+	**Créé par**:
+
+	  - Loi n°1804-03-19 promulguée le 29 mars 1804
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 56 () JORF 24 mars 2006
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. L315-28 (Ab)
+
+
+### Chapitre IV : Du mode de l'inscription des privilèges et hypothèques.
+
+###### Article 2153
+
+(article abrogé).
+
+**Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Décret n°55-22 du 4 janvier 1955 - art. 46 (V) JORF 7 janvier 1955
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-19
+
+	**Créé par**:
+
+	  - Loi n°1804-03-19 promulguée le 29 mars 1804
+
+
+### Chapitre V : De la radiation et réduction des inscriptions
+
+#### Section 1 : Dispositions générales.
+
+###### Article 2157
+
+Les inscriptions sont rayées du consentement des parties intéressées et ayant capacité à cet effet, ou en vertu d'un jugement
+en dernier ressort ou passé en force de chose jugée.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°1924-11-18 du 18 novembre 1924 - art. 38 (M)
+	  - Code monétaire et financier - art. L313-47 (M)
+	  - Code rural - art. D124-11 (M)
+	  - Code rural - art. R124-11 (T)
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2440 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-19
+
+	**Créé par**:
+
+	  - Loi n°1804-03-19 promulguée le 29 mars 1804
+
+	**Transféré par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
+
+
+###### Article 2159
+
+La radiation non consentie est demandée au tribunal dans le ressort duquel l'inscription a été faite, si ce n'est lorsque
+cette inscription a eu lieu pour sûreté d'une condamnation éventuelle ou indéterminée, sur l'exécution ou liquidation de
+laquelle le débiteur et le créancier prétendu sont en instance ou doivent être jugés dans un autre tribunal ; auquel cas la
+demande en radiation doit y être portée ou renvoyée.
+
+Cependant la convention faite par le créancier et le débiteur, de porter, en cas de contestation, la demande à un tribunal
+qu'ils auraient désigné, recevra son exécution entre eux.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Transféré par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
+
+	**Cité par**:
+
+	  - Code civil - art. 2161 (T)
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2442 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-19
+
+	**Créé par**:
+
+	  - Loi n°1804-03-19 promulguée le 29 mars 1804
+
+
+###### Article 2160
+
+La radiation doit être ordonnée par les tribunaux, lorsque l'inscription a été faite sans être fondée ni sur la loi, ni sur
+un titre, ou lorsqu'elle l'a été en vertu d'un titre soit irrégulier, soit éteint ou soldé, ou lorsque les droits de
+privilège ou d'hypothèque sont effacés par les voies légales.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-19
+
+	**Créé par**:
+
+	  - Loi n°1804-03-19 promulguée le 29 mars 1804
+
+	**Transféré par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2443 (V)
+
+
+### Chapitre VI : De l'effet des privilèges et hypothèques contre les tiers détenteurs.
+
+###### Article 2167
+
+Si le tiers détenteur ne remplit pas les formalités qui seront ci-après établies, pour purger sa propriété, il demeure, par
+l'effet seul des inscriptions, obligé comme détenteur, à toutes les dettes hypothécaires, et jouit des termes et délais
+accordés au débiteur originaire.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-19
+
+	**Créé par**:
+
+	  - Loi n°1804-03-19 promulguée le 29 mars 1804
+
+	**Transféré par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2462 (M)
+	  - Code civil - art. 2462 (V)
+
+
+###### Article 2168
+
+Le tiers détenteur est tenu, dans le même cas, ou de payer tous les intérêts et capitaux exigibles, à quelque somme qu'ils
+puissent monter, ou de délaisser l'immeuble hypothéqué, sans aucune réserve.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-19
+
+	**Créé par**:
+
+	  - Loi n°1804-03-19 promulguée le 29 mars 1804
+
+	**Transféré par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2463 (M)
+	  - Code civil - art. 2463 (V)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code civil 2169 *sanctions*
+
+
+###### Article 2169
+
+Faute par le tiers détenteur de satisfaire pleinement à l'une de ces obligations, chaque créancier hypothécaire a droit de
+faire vendre sur lui l'immeuble hypothéqué, trente jours après commandement fait au débiteur originaire et sommation faite au
+tiers détenteur de payer la dette exigible ou de délaisser l'héritage.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°1924-06-01 du 1 juin 1924 - art. 142 (M)
+	  - Décret n°67-167 du 1 mars 1967 - art. 23 (M)
+	  - Ordonnance n°2006-461 du 21 avril 2006 - art. 24 (VT)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°67-167 du 1 mars 1967 - art. 23 (M)
+	  - SPEC_APPLI: Décret n°67-167 du 1 mars 1967 - art. 25 (Ab)
+	  - TXT_ASSOCIE: Code civil - art. 2170 (T)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-19
+
+	**Créé par**:
+
+	  - Loi n°1804-03-19 promulguée le 29 mars 1804
+
+	**Transféré par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2464 (M)
+	  - Code civil - art. 2464 (V)
+
+
+###### Article 2170
+
+Néanmoins, le tiers détenteur qui n'est pas personnellement obligé à la dette, peut s'opposer à la vente de l'héritage
+hypothéqué qui lui a été transmis, s'il est demeuré d'autres immeubles hypothéqués à la même dette dans la possession du
+principal ou des principaux obligés, et en requérir la discussion préalable selon la forme réglée au titre Du cautionnement ;
+pendant cette discussion, il est sursis à la vente de l'héritage hypothéqué.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-19
+
+	**Créé par**:
+
+	  - Loi n°1804-03-19 promulguée le 29 mars 1804
+
+	**Transféré par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code civil - art. 2169 (T)
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2465 (M)
+	  - Code civil - art. 2465 (V)
+
+
+###### Article 2171
+
+L'exception de discussion ne peut être opposée au créancier privilégié ou ayant hypothèque spéciale sur l'immeuble.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Transféré par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2466 (M)
+	  - Code civil - art. 2466 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-19
+
+	**Créé par**:
+
+	  - Loi n°1804-03-19 promulguée le 29 mars 1804
+
+
+###### Article 2172
+
+Quant au délaissement par hypothèque, il peut être fait par tous les tiers détenteurs qui ne sont pas personnellement obligés
+à la dette, et qui ont la capacité d'aliéner.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Transféré par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2467 (M)
+	  - Code civil - art. 2467 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-19
+
+	**Créé par**:
+
+	  - Loi n°1804-03-19 promulguée le 29 mars 1804
+
+
+###### Article 2173
+
+Il peut l'être même après que le tiers détenteur a reconnu l'obligation ou subi condamnation en cette qualité seulement : le
+délaissement n'empêche pas que jusqu'à l'adjudication, le tiers détenteur ne puisse reprendre l'immeuble en payant toute la
+dette et les frais.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-19
+
+	**Créé par**:
+
+	  - Loi n°1804-03-19 promulguée le 29 mars 1804
+
+	**Transféré par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
+
+	**Cité par**:
+
+	  - Ordonnance n°2006-461 du 21 avril 2006 - art. 24 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2468 (M)
+	  - Code civil - art. 2468 (V)
+
+
+###### Article 2174
+
+Le délaissement par hypothèque se fait au greffe du tribunal de la situation des biens ; et il en est donné acte par ce
+tribunal. 
+
+Sur la pétition du plus diligent des intéressés, il est créé à l'immeuble délaissé un curateur sur lequel la vente de
+l'immeuble est poursuivie dans les formes prescrites pour les expropriations.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°55-22 du 4 janvier 1955 - art. 28 (M)
+	  - Ordonnance n°2006-461 du 21 avril 2006 - art. 24 (VT)
+
+	**Transféré par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2469 (M)
+	  - Code civil - art. 2469 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-19
+
+	**Créé par**:
+
+	  - Loi n°1804-03-19 promulguée le 29 mars 1804
+
+
+###### Article 2175
+
+Les détériorations qui procèdent du fait ou de la négligence du tiers détenteur, au préjudice des créanciers hypothécaires ou
+privilégiés, donnent lieu contre lui à une action en indemnité ; mais il ne peut répéter ses impenses et améliorations que
+jusqu'à concurrence de la plus-value résultant de l'amélioration.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2470 (M)
+	  - Code civil - art. 2470 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-19
+
+	**Créé par**:
+
+	  - Loi n°1804-03-19 promulguée le 29 mars 1804
+
+	**Transféré par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
+
+
+###### Article 2176
+
+Les fruits de l'immeuble hypothéqué ne sont dus par le tiers détenteur qu'à compter du jour de la sommation de payer ou de
+délaisser, et, si les poursuites commencées ont été abandonnées pendant trois ans, à compter de la nouvelle sommation qui
+sera faite.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Transféré par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2471 (M)
+	  - Code civil - art. 2471 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-19
+
+	**Créé par**:
+
+	  - Loi n°1804-03-19 promulguée le 29 mars 1804
+
+
+###### Article 2177
+
+Les servitudes et droits réels que le tiers détenteur avait sur l'immeuble avant sa possession, renaissent après le
+délaissement ou après l'adjudication faite sur lui.
+
+Ses créanciers personnels, après tout ceux qui sont inscrits sur les précédents propriétaires, exercent leur hypothèque à
+leur rang, sur le bien délaissé ou adjugé.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Transféré par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
+
+	**Cité par**:
+
+	  - Ordonnance n°2006-461 du 21 avril 2006 - art. 24 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2472 (M)
+	  - Code civil - art. 2472 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-19
+
+	**Créé par**:
+
+	  - Loi n°1804-03-19 promulguée le 29 mars 1804
+
+
+###### Article 2178
+
+Le tiers détenteur qui a payé la dette hypothécaire, ou délaissé l'immeuble hypothéqué, ou subi l'expropriation de cet
+immeuble, a le recours en garantie, tel que de droit, contre le débiteur principal.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-19
+
+	**Créé par**:
+
+	  - Loi n°1804-03-19 promulguée le 29 mars 1804
+
+	**Transféré par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
+
+	**Cité par**:
+
+	  - Ordonnance n°2006-461 du 21 avril 2006 - art. 24 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2473 (M)
+	  - Code civil - art. 2473 (V)
+
+
+###### Article 2179
+
+Le tiers détenteur qui veut purger sa propriété en payant le prix, observe les formalités qui sont établies dans le chapitre
+VIII du présent titre.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Transféré par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2474 (M)
+	  - Code civil - art. 2474 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-19
+
+	**Créé par**:
+
+	  - Loi n°1804-03-19 promulguée le 29 mars 1804
+
+
+### Chapitre VIII : Du mode de purger les propriétés des privilèges et hypothèques.
+
+###### Article 2184
+
+L'acquéreur ou le donataire déclarera, par le même acte, qu'il est prêt à acquitter, sur-le-champ, les dettes et charges
+hypothécaires, jusqu'à concurrence seulement du prix, sans discussion des dettes exigibles ou non exigibles.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2479 (M)
+	  - Code civil - art. 2479 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-19
+
+	**Créé par**:
+
+	  - Loi n°1804-03-19 promulguée le 29 mars 1804
+
+	**Cité par**:
+
+	  - Loi n°1924-06-01 du 1 juin 1924 - art. 214 (M)
+
+	**Transféré par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
+
+
+###### Article 2185
+
+Lorsque le nouveau propriétaire a fait cette notification dans le délai fixé, tout créancier dont le titre est inscrit, peut
+requérir la mise de l'immeuble aux enchères et adjudications publiques, à la charge :
+
+1° Que cette réquisition sera signifiée au nouveau propriétaire dans quarante jours, au plus tard, de la notification faite à
+la requête de ce dernier, en y ajoutant deux jours par cinq myriamètres de distance entre le domicile élu et le domicile réel
+de chaque créancier requérant ;
+
+2° Qu'elle contiendra soumission du requérant, de porter ou de faire porter le prix à un dixième en sus de celui qui aura été
+stipulé dans le contrat, ou déclaré par le nouveau propriétaire ;
+
+3° Que la même signification sera faite dans le même délai au précédent propriétaire, débiteur principal ;
+
+4° Que l'original et les copies de ces exploits seront signés par le créancier requérant, ou par son fondé de procuration
+expresse, lequel, en ce cas, est tenu de donner copie de sa procuration ;
+
+5° Qu'il offrira de donner caution jusqu'à concurrence du prix et des charges.
+
+Le tout à peine de nullité.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-19
+
+	**Créé par**:
+
+	  - Loi n°1804-03-19 promulguée le 29 mars 1804
+
+	**Cité par**:
+
+	  - Loi n°1924-06-01 du 1 juin 1924 - art. 190 (M)
+	  - Loi n°1924-06-01 du 1 juin 1924 - art. 192 (M)
+	  - Code de procédure civile - art. 832 (M)
+
+	**Transféré par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code civil - art. 2186 (T)
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2480 (M)
+	  - Code civil - art. 2480 (V)
+
+
+###### Article 2186
+
+A défaut, par les créanciers, d'avoir requis la mise aux enchères dans le délai et les formes prescrites, la valeur de
+l'immeuble demeure définitivement fixée au prix stipulé dans le contrat, ou déclaré par le nouveau propriétaire lequel est,
+en conséquence, libéré de tout privilège et hypothèque, en payant ledit prix aux créanciers qui seront en ordre de recevoir,
+ou en le consignant.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code civil - art. 2185 (T)
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2481 (M)
+	  - Code civil - art. 2481 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-19
+
+	**Créé par**:
+
+	  - Loi n°1804-03-19 promulguée le 29 mars 1804
+
+	**Transféré par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
+
+
+###### Article 2187
+
+En cas de revente sur enchères, elle aura lieu suivant les formes établies pour les expropriations forcées, à la diligence
+soit du créancier qui l'aura requise, soit du nouveau propriétaire.
+
+Le poursuivant énoncera dans les affiches le prix stipulé dans le contrat, ou déclaré, et la somme en sus à laquelle le
+créancier s'est obligé de la porter ou faire porter.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Transféré par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
+
+	**Cité par**:
+
+	  - Ordonnance n°2006-461 du 21 avril 2006 - art. 24 (VT)
+	  - Code de procédure civile - art. 836 (M)
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2482 (M)
+	  - Code civil - art. 2482 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-19
+
+	**Créé par**:
+
+	  - Loi n°1804-03-19 promulguée le 29 mars 1804
+
+
+###### Article 2190
+
+Le désistement du créancier requérant la mise aux enchères, ne peut, même quand le créancier paierait le montant de la
+soumission, empêcher l'adjudication publique, si ce n'est du consentement exprès de tous les autres créanciers hypothécaires.
+
+**Nota:**
+
+NOTA : Ordonnance 2006-346 du 6 mars 2006 art. 57 : Spécificités d'application.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2485 (M)
+	  - Code civil - art. 2485 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-19
+
+	**Créé par**:
+
+	  - Loi n°1804-03-19 promulguée le 29 mars 1804
+
+	**Transféré par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
+
+
+###### Article 2191
+
+L'acquéreur qui se sera rendu adjudicataire aura son recours tel que de droit contre le vendeur, pour le remboursement de ce
+qui excède le prix stipulé par son titre, et pour l'intérêt de cet excédent, à compter du jour de chaque paiement.
+
+**Nota:**
+
+NOTA : Ordonnance 2006-346 du 6 mars 2006 art. 57 : Spécificités d'application.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°91-650 du 9 juillet 1991 - art. 31 (VT)
+	  - Décret n°2006-936 du 27 juillet 2006 - art. 49 (Ab)
+
+	**Transféré par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2486 (M)
+	  - Code civil - art. 2486 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-19
+
+	**Créé par**:
+
+	  - Loi n°1804-03-19 promulguée le 29 mars 1804
+
+
+### Chapitre IX : Du mode de purger les hypothèques quand il n'existe pas d'inscription sur les biens des maris et des tuteurs.
+
+###### Article 2193
+
+(article abrogé).
+
+**Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Décret n°55-22 du 4 janvier 1955 - art. 46 (V) JORF 7 janvier 1955
+
+	**Cité par**:
+
+	  - Décret n°2006-936 du 27 juillet 2006 - art. 49 (Ab)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-19
+
+	**Créé par**:
+
+	  - Loi n°1804-03-19 promulguée le 29 mars 1804
+
+
+###### Article 2194
+
+(article abrogé).
+
+**Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Décret n°55-22 du 4 janvier 1955 - art. 46 (V) JORF 7 janvier 1955
+
+	**Cité par**:
+
+	  - Décret n°60-323  du 2 avril 1960  - art. 65 (VT)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-19
+
+	**Créé par**:
+
+	  - Loi n°1804-03-19 promulguée le 29 mars 1804
+
+
+###### Article 2195
+
+(article abrogé).
+
+**Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Décret n°55-22 du 4 janvier 1955 - art. 46 (V) JORF 7 janvier 1955
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-19
+
+	**Créé par**:
+
+	  - Loi n°1804-03-19 promulguée le 29 mars 1804
+
+
+## Titre XIX : De la saisie et de la distribution du prix de vente de l'immeuble
+
+### Chapitre Ier : De la saisie.
+
+#### Section 5 : De la vente.
+
+##### Paragraphe 2 : Dispositions relatives à l'adjudication.
+
+###### Article 2205
+
+(article abrogé).
+
+**Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Loi n°76-1286 du 31 décembre 1976 - art. 17 () JORF 1er janvier 1977
+
+	**Anciens textes**:
+
+	  - Code civil - art. 2092-3 (T)
+
+	**Cité par**:
+
+	  - Code de commerce. - art. L642-18 (VD)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-19
+
+	**Créé par**:
+
+	  - Loi n°1804-03-19 promulguée le 29 mars 1804
+
+
+## Titre XIX : De l'expropriation forcée et des ordres entre les créanciers
+
+### Chapitre Ier : De l'expropriation forcée
+
+###### Article 2204
+
+Le créancier peut poursuivre l'expropriation :
+
+1° des biens immobiliers et de leurs accessoires réputés immeubles appartenant en propriété à son débiteur ;
+
+2° de l'usufruit appartenant au débiteur sur les biens de même nature.
+
+**Nota:**
+
+NOTA : Ordonnance 2006-461 2006-04-21 art. 23 : La présente ordonnance entrera en vigueur à la date de l'entrée en vigueur du
+décret en Conseil d'Etat prévu à l'article 23 et, au plus tard, le 1er janvier 2007.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code de commerce. - art. L642-18 (VD)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-19
+
+	**Créé par**:
+
+	  - Loi n°1804-03-19 promulguée le 29 mars 1804
+
+
+###### Article 2206
+
+Les immeubles d'un mineur, même émancipé, ou d'un majeur en tutelle, ne peuvent être mis en vente avant la discussion du
+mobilier.
+
+**Nota:**
+
+NOTA : Ordonnance 2006-461 2006-04-21 art. 23 : La présente ordonnance entrera en vigueur à la date de l'entrée en vigueur du
+décret en Conseil d'Etat prévu à l'article 23 et, au plus tard, le 1er janvier 2007.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°2006-936 du 27 juillet 2006 - art. 45 (Ab)
+	  - Décret n°2006-936 du 27 juillet 2006 - art. 76 (Ab)
+	  - Décret n°2008-1484 du 22 décembre 2008 - art. Annexe 1 (V)
+	  - Code de commerce. - art. L642-18 (VD)
+	  - Code de procédure civile - art. 1281-17 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-19
+
+	**Créé par**:
+
+	  - Loi n°1804-03-19 promulguée le 29 mars 1804
+
+
+###### Article 2207
+
+La discussion du mobilier n'est pas requise avant l'expropriation des immeubles possédés par indivis entre un majeur et un
+mineur ou majeur en tutelle, si la dette leur est commune, ni dans le cas où les poursuites ont été commencées contre un
+majeur, ou avant la tutelle des majeurs.
+
+**Nota:**
+
+NOTA : Ordonnance 2006-461 2006-04-21 art. 23 : La présente ordonnance entrera en vigueur à la date de l'entrée en vigueur du
+décret en Conseil d'Etat prévu à l'article 23 et, au plus tard, le 1er janvier 2007.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-19
+
+	**Créé par**:
+
+	  - Loi n°1804-03-19 promulguée le 29 mars 1804
+
+
+###### Article 2208
+
+L'expropriation des immeubles qui font partie de la communauté, se poursuit contre le mari débiteur, seul, quoique la femme
+soit obligée à la dette.
+
+Celle des immeubles de la femme qui ne sont point entrés en communauté se poursuit contre le mari et la femme, laquelle, au
+refus du mari de procéder avec elle, ou si le mari est mineur, peut être autorisée en justice.
+
+En cas de minorité du mari et de la femme, ou de minorité de la femme seule, si son mari majeur refuse de procéder avec elle,
+il est nommé par le tribunal un tuteur à la femme, contre lequel la poursuite est exercée.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°67-167 1965-03-01 art. 23, art. 25
+	  - SPEC_APPLI: Loi n°85-1372 du 23 décembre 1985 - art. 55 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-19
+
+	**Créé par**:
+
+	  - Loi n°1804-03-19 promulguée le 29 mars 1804
+
+	**Abrogé par**:
+
+	  - Loi n°85-1372 du 23 décembre 1985 - art. 53 (V) JORF 26 décembre 1985 en vigueur le 1er juillet 1986
+
+	**Cité par**:
+
+	  - Loi n°85-1372 du 23 décembre 1985 - art. 53 (V)
+
+
+###### Article 2209
+
+Le créancier ne peut poursuivre la vente des immeubles qui ne lui sont pas hypothéqués que dans le cas d'insuffisance des
+biens qui lui sont hypothéqués.
+
+**Nota:**
+
+NOTA : Ordonnance 2006-461 2006-04-21 art. 23 : La présente ordonnance entrera en vigueur à la date de l'entrée en vigueur du
+décret en Conseil d'Etat prévu à l'article 23 et, au plus tard, le 1er janvier 2007.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 295 (Ab)
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 94 (Ab)
+	  - Code de commerce - art. R622-19 (V)
+	  - Code de procédure civile - art. 675 (Ab)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-19
+
+	**Créé par**:
+
+	  - Loi n°1804-03-19 promulguée le 29 mars 1804
+
+
+###### Article 2210
+
+La vente forcée des biens situés dans différents arrondissements ne peut être provoquée que successivement, à moins qu'ils ne
+fassent partie d'une seule et même exploitation.
+
+Elle est suivie dans le tribunal dans le ressort duquel se trouve le chef-lieu de l'exploitation ou, à défaut de chef-lieu,
+la partie de biens qui représente le plus grand revenu, d'après la matrice du rôle.
+
+**Nota:**
+
+NOTA : Ordonnance 2006-461 2006-04-21 art. 23 : La présente ordonnance entrera en vigueur à la date de l'entrée en vigueur du
+décret en Conseil d'Etat prévu à l'article 23 et, au plus tard, le 1er janvier 2007.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-19
+
+	**Créé par**:
+
+	  - Loi n°1804-03-19 promulguée le 29 mars 1804
+
+
+###### Article 2211
+
+Si les biens hypothéqués au créancier et les biens non hypothéqués, ou les biens situés dans divers arrondissements, font
+partie d'une seule et même exploitation, la vente des uns et des autres est poursuivie ensemble, si le débiteur le requiert ;
+et ventilation se fait du prix de l'adjudication, s'il y a lieu.
+
+**Nota:**
+
+NOTA : Ordonnance 2006-461 2006-04-21 art. 23 : La présente ordonnance entrera en vigueur à la date de l'entrée en vigueur du
+décret en Conseil d'Etat prévu à l'article 23 et, au plus tard, le 1er janvier 2007.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-19
+
+	**Créé par**:
+
+	  - Loi n°1804-03-19 promulguée le 29 mars 1804
+
+
+###### Article 2212
+
+Si le débiteur justifie, par baux authentiques, que le revenu net et libre de ses immeubles pendant une année suffit pour le
+paiement de la dette en capital, intérêts et frais, et s'il en offre la délégation au créancier, la poursuite peut être
+suspendue par les juges, sauf à être reprise s'il survient quelque opposition ou obstacle au paiement.
+
+**Nota:**
+
+NOTA : Ordonnance 2006-461 2006-04-21 art. 23 : La présente ordonnance entrera en vigueur à la date de l'entrée en vigueur du
+décret en Conseil d'Etat prévu à l'article 23 et, au plus tard, le 1er janvier 2007.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°2006-936 du 27 juillet 2006 - art. 101 (Ab)
+	  - Décret n°2006-936 du 27 juillet 2006 - art. 83 (Ab)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-19
+
+	**Créé par**:
+
+	  - Loi n°1804-03-19 promulguée le 29 mars 1804
+
+
+###### Article 2213
+
+La vente forcée des immeubles ne peut être poursuivie qu'en vertu d'un titre authentique et exécutoire, pour une dette
+certaine et liquide. Si la dette est en espèces non liquidées, la poursuite est valable mais l'adjudication ne pourra être
+faite qu'après la liquidation.
+
+**Nota:**
+
+NOTA : Ordonnance 2006-461 2006-04-21 art. 23 : La présente ordonnance entrera en vigueur à la date de l'entrée en vigueur du
+décret en Conseil d'Etat prévu à l'article 23 et, au plus tard, le 1er janvier 2007.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-19
+
+	**Créé par**:
+
+	  - Loi n°1804-03-19 promulguée le 29 mars 1804
+
+
+###### Article 2214
+
+Le cessionnaire d'un titre exécutoire ne peut poursuivre l'expropriation qu'après que la signification du transport a été
+faite au débiteur.
+
+**Nota:**
+
+NOTA : Ordonnance 2006-461 2006-04-21 art. 23 : La présente ordonnance entrera en vigueur à la date de l'entrée en vigueur du
+décret en Conseil d'Etat prévu à l'article 23 et, au plus tard, le 1er janvier 2007.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-19
+
+	**Créé par**:
+
+	  - Loi n°1804-03-19 promulguée le 29 mars 1804
+
+	**Cité par**:
+
+	  - Loi n°76-519 du 15 juin 1976 - art. 6 (M)
+	  - Ordonnance n°2006-461 du 21 avril 2006 - art. 24 (VT)
+	  - Décret n°2006-936 du 27 juillet 2006 - art. 112 (Ab)
+	  - Décret n°2006-936 du 27 juillet 2006 - art. 113 (Ab)
+
+
+###### Article 2215
+
+La poursuite peut avoir lieu en vertu d'un jugement provisoire ou définitif, exécutoire par provision, nonobstant appel ;
+mais l'adjudication ne peut se faire qu'après un jugement définitif en dernier ressort, ou passé en force de chose jugée.
+
+La poursuite ne peut s'exercer en vertu de jugements rendus par défaut durant le délai de l'opposition.
+
+**Nota:**
+
+NOTA : Ordonnance 2006-461 2006-04-21 art. 23 : La présente ordonnance entrera en vigueur à la date de l'entrée en vigueur du
+décret en Conseil d'Etat prévu à l'article 23 et, au plus tard, le 1er janvier 2007.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-19
+
+	**Créé par**:
+
+	  - Loi n°1804-03-19 promulguée le 29 mars 1804
+
+	**Cité par**:
+
+	  - Loi n°91-650 du 9 juillet 1991 - art. 31 (M)
+	  - Décret n°2006-936 du 27 juillet 2006 - art. 113 (Ab)
+	  - Décret n°2006-936 du 27 juillet 2006 - art. 41 (Ab)
+	  - Décret n°2009-160 du 12 février 2009 - art. 138
+	  - Décret n°2009-160 du 12 février 2009 - art. 142
+
+
+###### Article 2216
+
+La poursuite ne peut être annulée sous prétexte que le créancier l'aurait commencée pour une somme plus forte que celle qui
+lui est due.
+
+**Nota:**
+
+NOTA : Ordonnance 2006-461 2006-04-21 art. 23 : La présente ordonnance entrera en vigueur à la date de l'entrée en vigueur du
+décret en Conseil d'Etat prévu à l'article 23 et, au plus tard, le 1er janvier 2007.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-19
+
+	**Créé par**:
+
+	  - Loi n°1804-03-19 promulguée le 29 mars 1804
+
+
+### Chapitre II : De l'ordre et de la distribution du prix entre les créanciers
+
+###### Article 2218
+
+L'ordre et la distribution du prix des immeubles et la manière d'y procéder sont réglés par les lois sur la procédure.
+
+**Nota:**
+
+NOTA : Ordonnance 2006-461 2006-04-21 art. 23 : La présente ordonnance entrera en vigueur à la date de l'entrée en vigueur du
+décret en Conseil d'Etat prévu à l'article 23 et, au plus tard, le 1er janvier 2007.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-19
+
+	**Créé par**:
+
+	  - Loi n°1804-03-19 promulguée le 29 mars 1804
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-461 du 21 avril 2006 - art. 2 () JORF 22 avril 2006 en vigueur au plus tard le 1er janvier 2007
 
 
 ## Titre XX : De la prescription et de la possession.

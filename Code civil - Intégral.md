@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1945-11-02
+Version Consolidée au 1946-04-14
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -22087,6 +22087,27 @@ On peut louer toutes sortes de biens meubles ou immeubles.
 
 #### Section 1 : Des règles communes aux baux des maisons et des biens ruraux.
 
+###### Article 1714
+
+On peut louer ou par écrit ou verbalement, sauf, en ce qui concerne les biens ruraux, application des règles particulières
+aux baux à ferme et à colonat partiaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-07
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+	**Modifié par**:
+
+	  - Ordonnance 45-2380 1945-10-17 JORF 18 octobre 1945 rectificatif JORF 30 octobre 1945
+	  - Loi n°46-682 1946-04-13 JORF 14 avril 1946 rectificatif JORF 16 et 24 avril 1946
+
+
 ###### Article 1715
 
 Si le bail fait sans écrit n'a encore reçu aucune exécution, et que l'une des parties le nie, la preuve ne peut être reçue
@@ -22146,6 +22167,41 @@ Cette clause est toujours de rigueur.
 	  - Code rural - art. L411-35 (V)
 	  - Code rural - art. L461-10 (VD)
 	  - Code rural - art. L461-7 (VT)
+
+
+###### Article 1719
+
+Le bailleur est obligé, par la nature du contrat, et sans qu'il soit besoin d'aucune stipulation particulière :
+
+1° De délivrer au preneur la chose louée ;
+
+2° D'entretenir cette chose en état de servir à l'usage pour lequel elle a été louée ;
+
+3° D'en faire jouir paisiblement le preneur pendant la durée du bail ;
+
+4° D'assurer également la permanence et la qualité des plantations.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°46-682 1946-04-13 JORF 14 avril 1946 rectificatif JORF 16, 24 avril
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. Annexe 1 au III art R353-159 (V)
+	  - Code de la construction et de l'habitation. - art. R353-158 (V)
+	  - Code de la construction et de l'habitation. - art. R353-165-4 (Ab)
+	  - Code rural - art. L415-8 (V)
+	  - Code rural - art. L415-9 (Ab)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-07
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
 
 
 ###### Article 1720
@@ -22657,6 +22713,33 @@ Le contrat de louage n'est point résolu par la mort du bailleur ni par celle du
 	  - Loi n°48-1360 du 1 septembre 1948 - art. 5 (V)
 
 
+###### Article 1743
+
+Si le bailleur vend la chose louée, l'acquéreur ne peut expulser le fermier, le colon partiaire ou le locataire qui a un bail
+authentique ou dont la date est certaine.
+
+Il peut, toutefois, expulser le locataire de biens non ruraux s'il s'est réservé ce droit par le contrat de bail.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code rural - art. L411-7 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-07
+
+	**Créé par**:
+
+	  - Loi n°1804-03-07 promulguée le 17 mars 1804
+
+	**Modifié par**:
+
+	  - Ordonnance 45-2380 1945-10-17 JORF 18 octobre 1945 rectificatif JORF 30 octobre 1945
+	  - Loi n°46-682 1946-04-13 JORF 14 avril 1946 rectificatif JORF 16, 24 avril 1946
+
+
 ###### Article 1744
 
 S'il a été convenu lors du bail qu'en cas de vente l'acquéreur pourrait expulser le locataire et qu'il n'ait été fait aucune
@@ -23007,25 +23090,6 @@ d'avance un congé aux époques déterminées par l'usage des lieux.
 
 
 #### Section 3 : Des règles particulières aux baux à ferme.
-
-###### Article 1763
-
-(article abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1804-03-07
-
-	**Créé par**:
-
-	  - Loi n°1804-03-07 promulguée le 17 mars 1804
-
-	**Abrogé par**:
-
-	  - Loi n°46-682 1946-04-13 JORF 14 avril 1946 rectificatif JORF 16, 24 avril
-
 
 ###### Article 1764
 

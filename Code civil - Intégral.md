@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1955-01-07
+Version Consolidée au 1956-08-07
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -503,6 +503,35 @@ ministre des colonies ou le ministre des affaires étrangères.
 	  - Loi n°1803-03-11 promulguée le 21 mars 1803
 
 
+###### Article 50
+
+Toute contravention aux articles précédents, de la part des fonctionnaires y dénommés, sera poursuivie devant le tribunal de
+grande instance, et punie d'une amende de 20 F à 200 F.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°46-2154 1946-10-07 art. 38
+	  - Loi n°56-780 1956-08-04 art. 94 JORF 7 août 1956
+
+	**Cité par**:
+
+	  - Décret n°62-840 du 19 juillet 1962 - art. 11-3 (Ab)
+	  - Code civil - art. 101 (V)
+	  - Code civil - art. 76 (V)
+	  - Code de la défense. - art. L2371-1 (T)
+	  - Code de procédure pénale - art. R215 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-11
+
+	**Créé par**:
+
+	  - Loi n°1803-03-11 promulguée le 21 mars 1803
+
+
 ###### Article 51
 
 Tout dépositaire des registres sera civilement responsable des altérations qui y surviendront, sauf son recours, s'il y a
@@ -634,6 +663,59 @@ pourront se pourvoir contre le jugement.
 
 
 ### Chapitre III : Des actes de mariage.
+
+###### Article 63
+
+Avant la célébration du mariage, l'officier de l'état civil fera une publication par voie d'affiche apposée à la porte de la
+maison commune. Cette publication énoncera les prénoms, noms, professions, domiciles et résidences des futurs époux, ainsi
+que le lieu où le mariage devra être célébré.
+
+L'officier de l'état civil ne pourra procéder à la publication prévue à l'alinéa ci-dessus, ni en cas de dispense de
+publication, à la célébration du mariage, qu'après la remise, par chacun des futurs époux, d'un certificat médical datant de
+moins de deux mois, attestant, à l'exclusion de toute autre indication, que l'intéressé a été examiné en vue du mariage.
+
+L'officier d'état civil qui ne se conformera pas aux prescriptions de l'alinéa précédent sera poursuivi devant le tribunal de
+grande instance et puni d'une amende de 20 F à 200 F.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Ordonnance du 26 novembre 1823 - art. 4 (VT)
+	  - Décret n°46-1917 du 19 août 1946 - art. 10 (Ab)
+	  - Décret n°62-840 du 19 juillet 1962 - art. 6-1 (Ab)
+	  - Décret n°2007-773 du 10 mai 2007 - art. 3 (V)
+	  - Décret n°2007-773 du 10 mai 2007 - art. 4 (V)
+	  - Décret n°2008-521 du 2 juin 2008 - art. 11 (V)
+	  - Décret n°2008-521 du 2 juin 2008 - art. 3 (V)
+	  - Loi n°2009-594 du 27 mai 2009 - art. 58 (V)
+	  - Code civil - art. 165 (V)
+	  - Code civil - art. 166 (V)
+	  - Code civil - art. 169 (V)
+	  - Code civil - art. 170 (Ab)
+	  - Code civil - art. 171-2 (V)
+	  - Code civil - art. 171-3 (V)
+	  - Code civil - art. 171-9 (V)
+	  - Code civil - art. 175-2 (V)
+	  - Code civil - art. 2492 (VD)
+	  - Code civil - art. 74-1 (V)
+	  - Code de la santé publique - art. L153 (Ab)
+	  - Code de la santé publique - art. L2121-1 (V)
+	  - Décret-loi du 9 septembre 1939 - art. 1 (Ab)
+
+	**Modifié par**:
+
+	  - Ordonnance 45-2720 1945-11-02 art. 5 JORF 5 novembre 1945 rectificatif JORF 31 décembre 1945
+	  - Loi n°56-780 1956-08-04 art. 94 JORF 7 août 1956
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-11
+
+	**Créé par**:
+
+	  - Loi n°1803-03-11 promulguée le 21 mars 1803
+
 
 ###### Article 64
 
@@ -31417,6 +31499,38 @@ NOTA : Ordonnance 2006-346 du 6 mars 2006 art. 57 : Spécificités d'application
 
 	  - Code civil - art. 2487 (M)
 	  - Code civil - art. 2487 (V)
+
+
+### Chapitre X : De la publicité des registres et de la responsabilité des conservateurs.
+
+###### Article 2202
+
+Les conservateurs sont tenus de se conformer, dans l'exercice de leurs fonctions, à toutes les dispositions du présent
+chapitre, à peine d'une amende de 200 F à 2.000 F pour la première contravention, et de destitution pour la seconde ; sans
+préjudice des dommages et intérêts des parties, lesquels seront payés avant l'amende.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2455 (V)
+
+	**Cité par**:
+
+	  - Code de l'industrie cinématographique - art. 37 (M)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-19
+
+	**Créé par**:
+
+	  - Loi n°1804-03-19 promulguée le 29 mars 1804
+
+	**Modifié par**:
+
+	  - Loi n°46-2154 1946-10-07 art. 38
+	  - Loi n°56-780 1956-08-04 art. 94 JORF 7 août 1956
 
 
 ## Titre XIX : De la saisie et de la distribution du prix de vente de l'immeuble

@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1967-08-01
+Version Consolidée au 1967-09-29
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -38886,6 +38886,216 @@ autre dans le ressort du tribunal de grande instance de la situation des biens.
 	  - Loi n°1804-03-19 promulguée le 29 mars 1804
 
 
+###### Article 2154
+
+L'inscription conserve le privilège ou l'hypothèque jusqu'à la date que fixe le créancier en se conformant aux dispositions
+suivantes :
+
+Si le principal de l'obligation garantie doit être acquitté à une ou plusieurs dates déterminées, la date extrême d'effet de
+l'inscription prise avant l'échéance ou la dernière échéance prévue est, au plus, postérieure de deux années à cette échéance
+sans toutefois que la durée de l'inscription puisse excéder trente-cinq années.
+
+Si l'échéance ou la dernière échéance est indéterminée ou si elle est antérieure ou concomitante à l'inscription, la date
+extrême d'effet de cette inscription ne peut être postérieure de plus de dix années au jour de la formalité.
+
+Lorsque l'obligation est telle qu'il puisse être fait application de l'un et de l'autre des deux alinéas précédents, le
+créancier peut requérir soit une inscription unique en garantie de la totalité de l'obligation jusqu'à la date la plus
+éloignée, soit une inscription distincte en garantie de chacun des objets de cette obligation jusqu'à une date déterminée
+conformément aux dispositions desdits alinéas. Il en est de même lorsque, le premier de ces alinéas étant seul applicable,
+les différents objets de l'obligation ne comportent pas les mêmes échéances ou dernières échéances.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°1924-06-01 du 1 juin 1924 - art. 63 (M)
+	  - Décret n°1924-11-18 du 18 novembre 1924 - art. 22 (M)
+	  - Décret n°1924-11-18 du 18 novembre 1924 - art. 44 (Ab)
+	  - Décret n°1924-11-18 du 18 novembre 1924 - art. 45 (M)
+	  - Décret n°55-22 du 4 janvier 1955 - art. 26 (M)
+	  - Décret n°55-22 du 4 janvier 1955 - art. 4 (M)
+	  - Décret n°55-22 du 4 janvier 1955 - art. 51 (M)
+	  - Décret n°55-1350 du 14 octobre 1955 - art. 54-1 (M)
+	  - Décret n°55-1350 du 14 octobre 1955 - art. 67 (M)
+	  - Loi n°96-609 du 5 juillet 1996 - art. 9 (M)
+	  - Code civil - art. 2141 (T)
+	  - Code civil - art. 2145 (T)
+	  - Code civil - art. 2154-1 (T)
+	  - Code civil - art. 2154-2 (T)
+	  - Code de l'urbanisme - art. R*322-21 (V)
+
+	**Modifié par**:
+
+	  - Décret n°55-22 du 4 janvier 1955 - art. 24 () JORF 7 janvier 1955
+	  - Ordonnance n°67-839 du 28 septembre 1967 - art. 1 () JORF 29 septembre 1967
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°96-609 1996-07-05 art. 9 *champ d'application du code étendu à la Nouvelle-Calédonie, à la Polynésie française et aux îles Wallis et Futuna*
+	  - TXT_ASSOCIE: Code civil - art. 2154-2 (T)
+
+	**Transféré par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2434 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-19
+
+	**Créé par**:
+
+	  - Loi n°1804-03-19 promulguée le 29 mars 1804
+
+
+###### Article 2154-1
+
+L'inscription cesse de produire effet si elle n'a pas été renouvelée au plus tard à la date visée au premier alinéa de
+l'article 2154.
+
+Chaque renouvellement est requis jusqu'à une date déterminée. Cette date est fixée comme il est dit à l'article 2154 en
+distinguant suivant que l'échéance ou la dernière échéance, même si elle résulte d'une prorogation de délai, est ou non
+déterminée et qu'elle est ou non postérieure au jour du renouvellement.
+
+Le renouvellement est obligatoire, dans le cas où l'inscription a produit son effet légal, notamment en cas de réalisation du
+gage, jusqu'au paiement ou à la consignation du prix.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°55-1350 du 14 octobre 1955 - art. 61 (M)
+	  - Décret n°55-1350 du 14 octobre 1955 - art. 67 (M)
+	  - Décret n°55-1350 du 14 octobre 1955 - art. 67-2 (M)
+	  - Loi n°96-609 du 5 juillet 1996 - art. 9 (M)
+	  - Code civil - art. 2154-2 (T)
+	  - Code de l'urbanisme - art. R312-30 (Ab)
+	  - Code rural - art. D124-11 (M)
+	  - Code rural - art. D127-6 (Ab)
+	  - Code rural - art. R124-11 (T)
+	  - Code rural - art. R127-6 (T)
+
+	**Créé par**:
+
+	  - Ordonnance n°67-839 du 28 septembre 1967 - art. 2 () JORF 29 septembre 1967
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°96-609 1996-07-05 art. 9 *champ d'application du code étendu à la Nouvelle-Calédonie, à la Polynésie française et aux îles Wallis et Futuna*
+	  - TXT_ASSOCIE: Code civil - art. 2154-2 (T)
+
+	**Transféré par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
+
+	**Cite**:
+
+	  - Code civil - art. 2154 (T)
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2435 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-19
+
+
+###### Article 2154-2
+
+Si l'un des délais de deux ans, dix ans et trente-cinq ans visés aux articles 2154 et 2154-1 n'a pas été respecté,
+l'inscription n'a pas d'effet au-delà de la date d'expiration de ce délai.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-19
+
+	**Créé par**:
+
+	  - Ordonnance n°67-839 du 28 septembre 1967 - art. 2 () JORF 29 septembre 1967
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°96-609 1996-07-05 art. 9 *champ d'application du code étendu à la Nouvelle-Calédonie, à la Polynésie française et aux îles Wallis et Futuna*
+	  - TXT_ASSOCIE: Code civil - art. 2154 (T)
+	  - TXT_ASSOCIE: Code civil - art. 2154-1 (T)
+
+	**Cité par**:
+
+	  - Loi n°96-609 du 5 juillet 1996 - art. 9 (M)
+
+	**Transféré par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
+
+	**Cite**:
+
+	  - Code civil - art. 2154 (T)
+	  - Code civil - art. 2154-1 (T)
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2436 (V)
+
+
+###### Article 2154-3
+
+Quand il a été pris inscription provisoire de l'hypothèque légale des époux ou d'hypothèque judiciaire, les dispositions des
+articles 2154 à 2154-2 s'appliquent à l'inscription définitive et à son renouvellement. La date retenue pour point de départ
+des délais est celle de l'inscription définitive ou de son renouvellement.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-19
+
+	**Créé par**:
+
+	  - Ordonnance n°67-839 du 28 septembre 1967 - art. 2 () JORF 29 septembre 1967
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°96-609 1996-07-05 art. 9 *champ d'application du code étendu à la Nouvelle-Calédonie, à la Polynésie française et aux îles Wallis et Futuna*
+
+	**Cité par**:
+
+	  - Loi n°96-609 du 5 juillet 1996 - art. 9 (M)
+
+	**Transféré par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2437 (V)
+
+	**Cite**:
+
+	  - Code civil 2154 à 2154-2
+
+
 ###### Article 2155
 
 S'il n'y a stipulation contraire, les frais des inscriptions, dont l'avance est faite par l'inscrivant, sont à la charge du
@@ -38989,6 +39199,49 @@ en dernier ressort ou passé en force de chose jugée.
 	**Transféré par**:
 
 	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
+
+
+###### Article 2158
+
+Dans l'un et l'autre cas, ceux qui requièrent la radiation déposent au bureau du conservateur l'expédition de l'acte
+authentique portant consentement, ou celle du jugement.
+
+Aucune pièce justificative n'est exigée à l'appui de l'expédition de l'acte authentique en ce qui concerne les énonciations
+établissant l'état, la capacité et la qualité des parties, lorsque ces énonciations sont certifiées exactes dans l'acte par
+le notaire ou l'autorité administrative.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°1924-11-18 du 18 novembre 1924 - art. 38 (M)
+	  - Code rural ancien - art. 746 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°55-22 du 4 janvier 1955 - art. 27 () JORF 7 janvier 1955
+	  - Ordonnance n°67-839 du 28 septembre 1967 - art. 5 () JORF 29 septembre 1967
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-19
+
+	**Créé par**:
+
+	  - Loi n°1804-03-19 promulguée le 29 mars 1804
+
+	**Transféré par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2441 (M)
+	  - Code civil - art. 2441 (V)
 
 
 ###### Article 2159
@@ -40263,6 +40516,55 @@ NOTA : Ordonnance 2006-346 du 6 mars 2006 art. 57 : Spécificités d'application
 
 ### Chapitre X : De la publicité des registres et de la responsabilité des conservateurs.
 
+###### Article 2196
+
+Les conservateurs des hypothèques sont tenus de délivrer, à tous ceux qui le requièrent, copie ou extrait des documents,
+autres que les bordereaux d'inscription, déposés à leur bureau dans la limite des cinquante années précédant celle de la
+réquisition, et copie ou extrait des inscriptions subsistantes ou certificat qu'il n'existe aucun document ou inscription
+entrant dans le cadre de la réquisition.
+
+Ils sont également tenus de délivrer sur réquisition, dans un délai de dix jours, des copies ou extraits du fichier
+immobilier ou certificat qu'il n'existe aucune fiche entrant dans le cadre de la réquisition.
+
+**Nota:**
+
+NOTA : Ordonnance 2006-346 du 6 mars 2006 art. 57 : Spécificités d'application.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°55-22 du 4 janvier 1955 - art. 8 () JORF 7 janvier 1955
+	  - Ordonnance n°67-839 du 28 septembre 1967 - art. 6 () JORF 29 septembre 1967
+
+	**Cité par**:
+
+	  - Décret n°55-22 du 4 janvier 1955 - art. 43 (V)
+	  - Décret n°55-22 du 4 janvier 1955 - art. 9 (M)
+	  - Décret n°55-1350 du 14 octobre 1955 - art. 13 (M)
+	  - Décret n°55-1350 du 14 octobre 1955 - art. 41 (VD)
+	  - Décret n°63-1123 du 9 novembre 1963 - art. 4 (M)
+	  - Loi n°78-753 du 17 juillet 1978 - art. 21 (M)
+	  - Décret n°85-1388 du 27 décembre 1985 - art. 141 (Ab)
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 291 (M)
+
+	**Transféré par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2449 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-19
+
+	**Créé par**:
+
+	  - Loi n°1804-03-19 promulguée le 29 mars 1804
+
+
 ###### Article 2197
 
 Ils sont responsables du préjudice résultant :
@@ -40304,6 +40606,54 @@ NOTA : Ordonnance 2006-346 du 6 mars 2006 art. 57 : Spécificités d'application
 	**Transféré par**:
 
 	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
+
+
+###### Article 2198
+
+Lorsque le conservateur, délivrant un certificat au nouveau titulaire d'un droit visé à l'article 2181, omet une inscription
+de privilège ou d'hypothèque, le droit demeure dans les mains du nouveau titulaire, affranchi du privilège ou de l'hypothèque
+non révélé, pourvu que la délivrance du certificat ait été requise par l'intéressé en conséquence de la publication de son
+titre. Sans préjudice de son recours éventuel contre le conservateur, le créancier bénéficiaire de l'inscription omise ne
+perd pas le droit de se prévaloir du rang que cette inscription lui confère tant que le prix n'a pas été payé par l'acquéreur
+ou que l'intervention dans l'ordre ouvert entre les autres créanciers est autorisée.
+
+**Nota:**
+
+NOTA : Ordonnance 2006-346 du 6 mars 2006 art. 57 : Spécificités d'application.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°59-89 1959-01-07 art. 13 JORF 8 janvier 1959
+	  - Ordonnance n°67-839 du 28 septembre 1967 - art. 7 () JORF 29 septembre 1967
+
+	**Transféré par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
+
+	**Cite**:
+
+	  - Code civil - art. 2181 (T)
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2451 (V)
+
+	**Cité par**:
+
+	  - Code de la consommation - art. L331-3-2 (VT)
+	  - Code de la consommation - art. L332-6 (VT)
+	  - Code de la consommation - art. L722-8 (VD)
+	  - Code de la consommation - art. L742-7 (VD)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-19
+
+	**Créé par**:
+
+	  - Loi n°1804-03-19 promulguée le 29 mars 1804
 
 
 ###### Article 2199

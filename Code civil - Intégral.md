@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1803-03-21
+Version Consolidée au 1803-03-24
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -833,6 +833,154 @@ Le domicile de tout Français, quant à l'exercice de ses droits civils, est au 
 	**Codifié par**:
 
 	  - Loi n°1803-03-14
+
+
+###### Article 103
+
+Le changement de domicile s'opérera par le fait d'une habitation réelle dans un autre lieu, joint à l'intention d'y fixer son
+principal établissement.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code de la famille et de l'aide sociale. - art. 193 (M)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°1803-03-14 promulguée le 24 mars 1803
+
+
+###### Article 104
+
+La preuve de l'intention résultera d'une déclaration expresse, faite tant à la municipalité du lieu que l'on quittera, qu'à
+celle du lieu où on aura transféré son domicile.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°52-247 du 28 février 1952 - art. 2 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 193 (M)
+	  - Code de la santé publique - art. R3111-8 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°1803-03-14 promulguée le 24 mars 1803
+
+
+###### Article 105
+
+A défaut de déclaration expresse, la preuve de l'intention dépendra des circonstances.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code de la famille et de l'aide sociale. - art. 193 (M)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°1803-03-14 promulguée le 24 mars 1803
+
+
+###### Article 106
+
+Le citoyen appelé à une fonction publique temporaire ou révocable conservera le domicile qu'il avait auparavant, s'il n'a pas
+manifesté d'intention contraire.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code de la famille et de l'aide sociale. - art. 193 (M)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°1803-03-14 promulguée le 24 mars 1803
+
+
+###### Article 107
+
+L'acceptation de fonctions conférées à vie emportera translation immédiate du domicile du fonctionnaire dans le lieu où il
+doit exercer ces fonctions.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code de la famille et de l'aide sociale. - art. 193 (M)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°1803-03-14 promulguée le 24 mars 1803
+
+
+###### Article 109
+
+Les majeurs qui servent ou travaillent habituellement chez autrui auront le même domicile que la personne qu'ils servent ou
+chez laquelle ils travaillent, lorsqu'ils demeureront avec elle dans la même maison.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code de la famille et de l'aide sociale. - art. 193 (M)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°1803-03-14 promulguée le 24 mars 1803
+
+
+###### Article 110
+
+Le lieu où la succession s'ouvrira sera déterminé par le domicile.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code de la famille et de l'aide sociale. - art. 193 (M)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°1803-03-14 promulguée le 24 mars 1803
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2001-1135 2001-12-03 art. 25 (dérogations à l'entrée en vigueur), II (ouverture des successions)
+
+	**Abrogé par**:
+
+	  - Loi n°2001-1135 du 3 décembre 2001 - art. 21 () JORF 4 décembre 2001 en vigueur le 1er juillet 2002
 
 
 ## Titre IV : Des absents

@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1898-03-24
+Version Consolidée au 1898-04-08
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -3338,6 +3338,41 @@ rivière navigable ou flottable.
 	  - Loi n°1804-01-27 promulguée le 6 février 1804
 
 
+###### Article 563
+
+Si un fleuve ou une rivière navigable ou flottable se forme un nouveau cours en abandonnant son ancien lit, les propriétaires
+riverains peuvent acquérir la propriété de cet ancien lit, chacun en droit soi, jusqu'à une ligne qu'on suppose tracée au
+milieu de la rivière. Le prix de l'ancien lit est fixé par des experts nommés par le président du tribunal de la situation
+des lieux, à la requête du préfet du département.
+
+A défaut par les propriétaires riverains de déclarer, dans les trois mois de la notification qui leur sera faite par le
+préfet, l'intention de faire l'acquisition aux prix fixés par les experts, il est procédé à l'aliénation de l'ancien lit
+selon les règles qui président aux aliénations du domaine de l'Etat.
+
+Le prix provenant de la vente est distribué aux propriétaires des fonds occupés par le nouveau cours à titre d'indemnité dans
+la proportion de la valeur du terrain enlevé à chacun d'eux.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code du domaine public fluvial et de la navigation - art. 11 (Ab)
+	  - Code du domaine public fluvial et de la navigation - art. 13 (Ab)
+	  - Code général de la propriété des personnes publ... - art. L3211-16 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-01-27
+
+	**Créé par**:
+
+	  - Loi n°1804-01-27 promulguée le 6 février 1804
+
+	**Modifié par**:
+
+	  - Loi n°1898-04-08 art. 37 bulletin des lois, 12° 5, B 1970, n°34577
+
+
 ###### Article 564
 
 Les pigeons, lapins, poissons, qui passent dans un autre colombier, garenne ou étang, appartiennent au propriétaire de ces
@@ -4631,6 +4666,110 @@ Le propriétaire supérieur ne peut rien faire qui aggrave la servitude du fonds
 	**Créé par**:
 
 	  - Loi n°1804-01-31 promulguée le 10 février 1804
+
+
+###### Article 641
+
+Tout propriétaire a le droit d'user et de disposer des eaux pluviales qui tombent sur son fonds.
+
+Si l'usage de ces eaux ou la direction qui leur est donnée aggrave la servitude naturelle d'écoulement établie par l'article
+640, une indemnité est due au propriétaire du fonds inférieur.
+
+La même disposition est applicable aux eaux de sources nées sur un fonds.
+
+Lorsque, par des sondages ou des travaux souterrains, un propriétaire fait surgir des eaux dans son fonds, les propriétaires
+des fonds inférieurs doivent les recevoir ; mais ils ont droit à une indemnité en cas de dommages résultant de leur
+écoulement.
+
+Les maisons, cours, jardins, parcs et enclos attenant aux habitations ne peuvent être assujettis à aucune aggravation de la
+servitude d'écoulement dans les cas prévus par les paragraphes précédents.
+
+Les contestations auxquelles peuvent donner lieu l'établissement et l'exercice des servitudes prévues par ces paragraphes et
+le règlement, s'il y a lieu, des indemnités dues aux propriétaires des fonds inférieurs sont portées, en premier ressort,
+devant le juge du tribunal d'instance du canton qui, en prononçant, doit concilier les intérêts de l'agriculture et de
+l'industrie avec le respect dû à la propriété.
+
+S'il y a lieu à expertise, il peut n'être nommé qu'un seul expert.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code civil - art. 640 (V)
+
+	**Cité par**:
+
+	  - Code du travail - art. R513-26 (M)
+	  - Loi n°73-550 du 28 juin 1973 - art. 2 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-01-31
+
+	**Créé par**:
+
+	  - Loi n°1804-01-31 promulguée le 10 février 1804
+
+	**Modifié par**:
+
+	  - Loi n°1898-04-08 art. 1 Bulletin des lois, 12° s., B 1970, n°34577
+
+
+###### Article 642
+
+Celui qui a une source dans son fonds peut toujours user des eaux à sa volonté dans les limites et pour les besoins de son
+héritage.
+
+Le propriétaire d'une source ne peut plus en user au préjudice des propriétaires des fonds inférieurs qui, depuis plus de
+trente ans, ont fait et terminé, sur le fonds où jaillit la source, des ouvrages apparents et permanents destinés à utiliser
+les eaux ou à en faciliter le passage dans leur propriété.
+
+Il ne peut pas non plus en user de manière à enlever aux habitants d'une commune, village ou hameau, l'eau qui leur est
+nécessaire ; mais si les habitants n'en n'ont pas acquis ou prescrit l'usage, le propriétaire peut réclamer une indemnité,
+laquelle est réglée par experts.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code civil - art. 2500 (V)
+	  - Code du travail - art. R513-26 (M)
+
+	**Codifié par**:
+
+	  - Loi n°1804-01-31
+
+	**Créé par**:
+
+	  - Loi n°1804-01-31 promulguée le 10 février 1804
+
+	**Modifié par**:
+
+	  - Loi n°1898-04-08 art. 1 Bulletin des lois, 12° S., B 1970, n°34577
+
+
+###### Article 643
+
+Si, dès la sortie du fonds où elles surgissent, les eaux de source forment un cours d'eau offrant le caractère d'eaux
+publiques et courantes, le propriétaire ne peut les détourner de leurs cours naturel au préjudice des usagers inférieurs.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code civil - art. 2500 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-01-31
+
+	**Créé par**:
+
+	  - Loi n°1804-01-31 promulguée le 10 février 1804
+
+	**Modifié par**:
+
+	  - Loi n°1898-04-08 art. 1 Bulletin des lois, 12° S., B. 1970, n°34577
 
 
 ###### Article 644

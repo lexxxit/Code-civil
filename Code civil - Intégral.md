@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1985-10-15
+Version Consolidée au 1986-01-01
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -34883,6 +34883,38 @@ des dommages et intérêts distincts des intérêts moratoires de la créance.
 	  - Loi n°1804-02-07 promulguée le 17 février 1804
 
 
+###### Article 1153-1
+
+En toute matière, la condamnation à une indemnité emporte intérêts au taux légal même en l'absence de demande ou de
+disposition spéciale du jugement. Sauf disposition contraire de la loi, ces intérêts courent à compter du prononcé du
+jugement à moins que le juge n'en décide autrement.
+
+En cas de confirmation pure et simple par le juge d'appel d'une décision allouant une indemnité en réparation d'un dommage,
+celle-ci porte de plein droit intérêt au taux légal à compter du jugement de première instance. Dans les autres cas,
+l'indemnité allouée en appel porte intérêt à compter de la décision d'appel. Le juge d'appel peut toujours déroger aux
+dispositions du présent alinéa.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°2008-479 du 20 mai 2008 - art. 11 (M)
+	  - Ordonnance n°92-1067 du 1 octobre 1992 - art. 10 (Ab)
+	  - Ordonnance n°92-1146 du 12 octobre 1992 - art. 7 (VD)
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Loi n°85-677 du 5 juillet 1985 - art. 36 () JORF 6 juillet 1985 rectificatif JORF 23 novembre 1985 en vigueur le 1er janvier 1986
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
+
+
 ###### Article 1154
 
 Les intérêts échus des capitaux peuvent produire des intérêts, ou par une demande judiciaire, ou par une convention spéciale,
@@ -35539,10 +35571,14 @@ circonstances, qu'il a été aussi convenu en faveur du créancier.
 
 ###### Article 1188
 
-Le débiteur ne peut plus réclamer le bénéfice du terme lorsqu'il a fait faillite, ou lorsque par son fait il a diminué les
-sûretés qu'il avait données par le contrat à son créancier.
+Le débiteur ne peut plus réclamer le bénéfice du terme lorsque par son fait il a diminué les sûretés qu'il avait données par
+le contrat à son créancier.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°85-98 du 25 janvier 1985 - art. 217 ()
 
 	**Cité par**:
 
@@ -35553,10 +35589,6 @@ sûretés qu'il avait données par le contrat à son créancier.
 	**Codifié par**:
 
 	  - Loi n°1804-02-07
-
-	**Créé par**:
-
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
 
 
 #### Section 3 : Des obligations alternatives.
@@ -49234,9 +49266,7 @@ d'inexécution de ses obligations par un associé, ou de mésentente entre assoc
 
 6° Par la dissolution anticipée prononcée par le tribunal dans le cas prévu à l'article 1844-5 ;
 
-7° Par l'effet d'un jugement ordonnant la liquidation des biens de la société ;
-
-8° Pour toute autre cause prévue par les statuts.
+7° Pour toute autre cause prévue par les statuts.
 
 **Liens relatifs à cet article**
 
@@ -49266,9 +49296,9 @@ d'inexécution de ses obligations par un associé, ou de mésentente entre assoc
 
 	  - Loi n°78-9 1978-01-04
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°78-9 1978-01-04 JORF 5 janvier 1978 rectificatif JORF 15 janvier, 12 mai 1978 en vigueur le 1er juillet 1978
+	  - Loi n°85-98 du 25 janvier 1985 - art. 218 () JORF 26 janvier 1986 en vigueur le 1er janvier 1986
 
 	**Cite**:
 
@@ -61483,8 +61513,8 @@ l'ancien propriétaire, soit même par un tiers.
 
 ###### Article 2244
 
-Une citation en justice, un commandement ou une saisie, signifiés à celui qu'on veut empêcher de prescrire, forment
-l'interruption civile.
+Une citation en justice, même en référé, un commandement ou une saisie, signifiés à celui qu'on veut empêcher de prescrire,
+interrompent la prescription ainsi que les délais pour agir.
 
 **Liens relatifs à cet article**
 
@@ -61502,9 +61532,9 @@ l'interruption civile.
 
 	  - Loi n°1804-03-15
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°1804-03-15 promulguée le 25 mars 1804
+	  - Loi n°85-677 du 5 juillet 1985 - art. 37 () JORF 6 juillet 1985 en vigueur le 1er janvier 1986
 
 
 ###### Article 2245
@@ -61751,6 +61781,34 @@ Elle court encore pendant les trois mois pour faire inventaire, et les quarante 
 
 
 ### Chapitre V : Du temps requis pour prescrire.
+
+###### Article 2270-1
+
+Les actions en responsabilité civile extracontractuelle se prescrivent par dix ans à compter de la manifestation du dommage
+ou de son aggravation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°85-677 1985-07-05 art. 46 *date d'effet*
+
+	**Créé par**:
+
+	  - Loi n°85-677 du 5 juillet 1985 - art. 38 () JORF 6 juillet 1985 en vigueur le 1er janvier 1986
+
+	**Cité par**:
+
+	  - Loi n°86-1020 du 9 septembre 1986 - art. 9 (M)
+	  - Ordonnance n°92-1067 du 1 octobre 1992 - art. 10 (Ab)
+	  - Ordonnance n°92-1146 du 12 octobre 1992 - art. 7 (VD)
+	  - Code de la santé publique - art. L209-22 (Ab)
+	  - Code des assurances - art. L422-3 (M)
+
 
 #### Section 1 : Dispositions générales.
 

@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1987-07-07
+Version Consolidée au 1987-07-24
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -5946,20 +5946,24 @@ intérêts des enfants mineurs.
 Le juge aux affaires matrimoniales a compétence exclusive pour prononcer le divorce lorsqu'il est demandé par consentement
 mutuel.
 
-Il est également seul compétent pour statuer, après le prononcé du divorce, quelle qu'en soit la cause, sur la garde des
-enfants et la modification de la pension alimentaire. Il statue alors sans formalité et peut être saisi par les parties
-intéressées sur simple requête.
+Il est également seul compétent, après le prononcé du divorce, quelle qu'en soit la cause, pour statuer sur les modalités de
+l'exercice de l'autorité parentale et sur la modification de la pension alimentaire, ainsi que pour décider de confier les
+enfants à un tiers. Il statue alors sans formalité et peut être saisi par les parties intéressées sur simple requête.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Codifié par**:
 
-	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
+	  - Loi n°1803-03-14
+
+	**Modifié par**:
+
+	  - Loi n°87-570 du 22 juillet 1987 - art. 1 () JORF 24 juillet 1987
 
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+	  - SPEC_APPLI: Loi n°87-570 du 22 juillet 1987 - art. 29 (V)
+	  - SPEC_APPLI: Loi n°87-570 du 22 juillet 1987 - art. 30 (V)
 
 	**Cité par**:
 
@@ -5973,10 +5977,6 @@ intéressées sur simple requête.
 
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L312-1 (V)
 	  - Code civil - art. 228 (V)
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
 
 
 ###### Article 248-1
@@ -6552,37 +6552,15 @@ II.
 	  - Loi n°1803-03-14
 
 
-#### Section 3 : Des mesures provisoires.
-
-###### Article 256
-
-S'il y a des enfants mineurs, le juge se prononce sur leur garde, ainsi que sur le droit de visite et d'hébergement. Il fixe
-la contribution due, pour leur entretien et leur éducation, par l'époux qui n'a pas la garde.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
-
-	**Cité par**:
-
-	  - Ordonnance n°2010-590 du 3 juin 2010 - art. 11 (V)
-
-
 ###### Article 258
 
 Lorsqu'il rejette définitivement la demande en divorce, le juge peut statuer sur la contribution aux charges du mariage, la
-résidence de la famille et la garde des enfants mineurs.
+résidence de la famille et les modalités de l'exercice de l'autorité parentale.
+
+**Nota:**
+
+NOTA : La loi 2004-439 du 26 mai 2004 entrera en vigueur le 1er janvier 2005 sauf pour les exceptions citées par l'article 33
+II.
 
 **Liens relatifs à cet article**
 
@@ -6590,18 +6568,47 @@ résidence de la famille et la garde des enfants mineurs.
 
 	  - Loi n°1803-03-14
 
-	**Créé par**:
-
-	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
-
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+	  - SPEC_APPLI: Loi n°87-570 du 22 juillet 1987 - art. 29 (V)
+	  - SPEC_APPLI: Loi n°87-570 du 22 juillet 1987 - art. 30 (V)
+
+	**Modifié par**:
+
+	  - Loi n°87-570 du 22 juillet 1987 - art. 3 () JORF 24 juillet 1987
 
 	**Cité par**:
 
 	  - Nouveau code de procédure civile - art. 1073 (M)
+
+
+#### Section 3 : Des mesures provisoires.
+
+###### Article 256
+
+S'il y a des enfants mineurs, le juge se prononce sur les modalités de l'exercice de l'autorité parentale. Il peut également
+décider de les confier à un tiers. Il se prononce également sur le droit de visite et d'hébergement et fixe la contribution
+due, pour leur entretien et leur éducation, par l'époux qui n'a pas l'exercice de l'autorité parentale ou chez lequel les
+enfants ne résident pas habituellement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Modifié par**:
+
+	  - Loi n°87-570 du 22 juillet 1987 - art. 2 () JORF 24 juillet 1987
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°87-570 du 22 juillet 1987 - art. 29 (V)
+	  - SPEC_APPLI: Loi n°87-570 du 22 juillet 1987 - art. 30 (V)
+
+	**Cité par**:
+
+	  - Ordonnance n°2010-590 du 3 juin 2010 - art. 11 (V)
 
 
 #### Section 4 : Des preuves.
@@ -7917,7 +7924,8 @@ forme de pension alimentaire.
 Si le local servant de logement à la famille appartient en propre ou personnellement à l'un des époux, le juge peut le
 concéder à bail à l'autre conjoint :
 
-1° Lorsque la garde d'un ou plusieurs enfants a été confiée à celui-ci ;
+1° Lorsque l'autorité parentale est exercée par celui-ci sur un ou plusieurs enfants ou, en cas d'exercice en commun de
+l'autorité parentale, lorsqu'un ou plusieurs enfants ont leur résidence habituelle dans ce logement ;
 
 2° Lorsque le divorce a été prononcé à la demande de l'époux propriétaire, pour rupture de la vie commune.
 
@@ -7936,19 +7944,19 @@ Dans tous les cas, le juge peut résilier le bail si des circonstances nouvelles
 
 	  - Loi n°1803-03-14
 
-	**Créé par**:
-
-	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
-
 	**Cité par**:
 
 	  - Loi n°75-617 du 11 juillet 1975 - art. 24 (V)
 	  - Ordonnance n°2010-590 du 3 juin 2010 - art. 11 (V)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°87-570 du 22 juillet 1987 - art. 29 (V)
+	  - SPEC_APPLI: Loi n°87-570 du 22 juillet 1987 - art. 30 (V)
+
+	**Modifié par**:
+
+	  - Loi n°87-570 du 22 juillet 1987 - art. 4 () JORF 24 juillet 1987
 
 
 #### Section 3 : Des conséquences du divorce pour les enfants.
@@ -7976,9 +7984,9 @@ qui suivent.
 
 ###### Article 287
 
-Selon l'intérêt des enfants mineurs, leur garde est confiée à l'un ou l'autre des époux. A titre exceptionnel et si l'intérêt
-des enfants l'exige, cette garde peut être confiée, soit à une autre personne choisie de préférence dans leur parenté, soit,
-si cela s'avérait impossible, à un établissement d'éducation.
+Selon l'intérêt des enfants mineurs, l'autorité parentale est exercée soit en commun par les deux parents après que le juge
+ait recueilli leur avis, soit par l'un d'eux. En cas d'exercice en commun de l'autorité parentale, le juge indique le parent
+chez lequel les enfants ont leur résidence habituelle.
 
 **Liens relatifs à cet article**
 
@@ -7986,14 +7994,14 @@ si cela s'avérait impossible, à un établissement d'éducation.
 
 	  - Loi n°1803-03-14
 
-	**Créé par**:
-
-	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
-
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+	  - SPEC_APPLI: Loi n°87-570 du 22 juillet 1987 - art. 29 (V)
+	  - SPEC_APPLI: Loi n°87-570 du 22 juillet 1987 - art. 30 (V)
+
+	**Modifié par**:
+
+	  - Loi n°87-570 du 22 juillet 1987 - art. 5 () JORF 24 juillet 1987
 
 	**Cité par**:
 
@@ -8003,25 +8011,24 @@ si cela s'avérait impossible, à un établissement d'éducation.
 
 ###### Article 287-1
 
-Avant de statuer sur la garde des enfants, provisoire ou définitive, et sur le droit de visite, le juge peut donner mission à
-toute personne qualifiée d'effectuer une enquête sociale. Celle-ci a pour but de recueillir des renseignements sur la
-situation matérielle et morale de la famille, sur les conditions dans lesquelles vivent et sont élevés les enfants et sur les
-mesures qu'il y a lieu de prendre dans leur intérêt.
-
-Si l'un des époux conteste les conclusions de l'enquête sociale, il peut demander une contre-enquête.
-
-L'enquête sociale ne peut être utilisée dans le débat sur la cause du divorce.
+A titre exceptionnel et si l'intérêt des enfants l'exige, le juge peut décider de fixer leur résidence soit chez une autre
+personne choisie de préférence dans leur parenté, soit, si cela s'avérait impossible, dans un établissement d'éducation. La
+personne à qui les enfants sont confiés accomplit tous les actes usuels relatifs à leur surveillance et à leur éducation.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
-
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+	  - SPEC_APPLI: Loi n°87-570 du 22 juillet 1987 - art. 29 (V)
+	  - SPEC_APPLI: Loi n°87-570 du 22 juillet 1987 - art. 30 (V)
+
+	**Modifié par**:
+
+	  - Loi n°87-570 du 22 juillet 1987 - art. 6 () JORF 24 juillet 1987
+
+	**Abrogé par**:
+
+	  - Loi n°2002-305 du 4 mars 2002 - art. 1 () JORF 5 mars 2002
 
 	**Cité par**:
 
@@ -8034,15 +8041,16 @@ L'enquête sociale ne peut être utilisée dans le débat sur la cause du divorc
 	  - Loi n°1803-03-14
 
 
-###### Article 288
+###### Article 287-2
 
-L'époux à qui la garde des enfants n'a pas été confiée conserve le droit de surveiller leur entretien et leur éducation. Il y
-contribue à proportion de ses ressources.
+Avant toute décision, provisoire ou définitive, fixant les modalités de l'exercice de l'autorité parentale et du droit de
+visite ou confiant les enfants à un tiers, le juge peut donner mission à toute personne qualifiée d'effectuer une enquête
+sociale. Celle-ci a pour but de recueillir des renseignements sur la situation matérielle et morale de la famille, sur les
+conditions dans lesquelles vivent et sont élevés les enfants et sur les mesures qu'il y a lieu de prendre dans leur intérêt.
 
-Un droit de visite et d'hébergement ne peut lui être refusé que pour des motifs graves.
+Si l'un des époux conteste les conclusions de l'enquête sociale, il peut demander une contre-enquête.
 
-Il peut être chargé d'administrer sous contrôle judiciaire tout ou partie du patrimoine des enfants, par dérogation aux
-articles 372-2 et 389, si l'intérêt d'une bonne administration de ce patrimoine l'exige.
+L'enquête sociale ne peut être utilisée dans le débat sur la cause du divorce.
 
 **Liens relatifs à cet article**
 
@@ -8050,14 +8058,57 @@ articles 372-2 et 389, si l'intérêt d'une bonne administration de ce patrimoin
 
 	  - Loi n°1803-03-14
 
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°87-570 du 22 juillet 1987 - art. 29 (V)
+	  - SPEC_APPLI: Loi n°87-570 du 22 juillet 1987 - art. 30 (V)
+
 	**Créé par**:
 
-	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
+	  - Loi n°87-570 du 22 juillet 1987 - art. 7 () JORF 24 juillet 1987
+
+	**Cité par**:
+
+	  - Décret n°2000-35 du 17 janvier 2000 - art. 1 (Ab)
+	  - Nouveau code de procédure civile - art. 1078 (Ab)
+
+	**Abrogé par**:
+
+	  - Loi n°2002-305 du 4 mars 2002 - art. 1 () JORF 5 mars 2002
+
+
+###### Article 288
+
+Le parent qui n'a pas l'exercice de l'autorité parentale conserve le droit de surveiller l'entretien et l'éducation des
+enfants et doit être informé, en conséquence, des choix importants relatifs à la vie de ces derniers. Il y contribue à
+proportion de ses ressources et de celles de l'autre parent.
+
+Un droit de visite et d'hébergement ne peut lui être refusé que pour des motifs graves.
+
+Il peut être chargé d'administrer sous contrôle judiciaire tout ou partie du patrimoine des enfants, par dérogation aux
+articles 372-2 et 389, si l'intérêt d'une bonne administration de ce patrimoine l'exige.
+
+En cas d'exercice en commun de l'autorité parentale, le parent chez lequel les enfants ne résident pas habituellement
+contribue à leur entretien et à leur éducation à proportion de ses ressources et de celles de l'autre parent.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
 
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+	  - SPEC_APPLI: Loi n°87-570 du 22 juillet 1987 - art. 29 (V)
+	  - SPEC_APPLI: Loi n°87-570 du 22 juillet 1987 - art. 30 (V)
+
+	**Modifié par**:
+
+	  - Loi n°87-570 du 22 juillet 1987 - art. 8 () JORF 24 juillet 1987
+
+	**Abrogé par**:
+
+	  - Loi n°2002-305 du 4 mars 2002 - art. 1 () JORF 5 mars 2002
 
 	**Cité par**:
 
@@ -8071,8 +8122,8 @@ articles 372-2 et 389, si l'intérêt d'une bonne administration de ce patrimoin
 
 ###### Article 289
 
-Le juge statue sur l'attribution de la garde et sur les modalités de l'exercice de l'autorité parentale, à la demande de l'un
-des époux, d'un membre de la famille ou du ministère public.
+Le juge statue sur les modalités de l'exercice de l'autorité parentale ou décide de confier l'enfant à un tiers, à la demande
+de l'un des époux, d'un membre de la famille ou du ministère public.
 
 **Liens relatifs à cet article**
 
@@ -8080,14 +8131,18 @@ des époux, d'un membre de la famille ou du ministère public.
 
 	  - Loi n°1803-03-14
 
-	**Créé par**:
-
-	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
-
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+	  - SPEC_APPLI: Loi n°87-570 du 22 juillet 1987 - art. 29 (V)
+	  - SPEC_APPLI: Loi n°87-570 du 22 juillet 1987 - art. 30 (V)
+
+	**Modifié par**:
+
+	  - Loi n°87-570 du 22 juillet 1987 - art. 9 () JORF 24 juillet 1987
+
+	**Abrogé par**:
+
+	  - Loi n°2002-305 du 4 mars 2002 - art. 1 () JORF 5 mars 2002
 
 
 ###### Article 290
@@ -8098,8 +8153,10 @@ Le juge tient compte :
 
 2° Des renseignements qui ont été recueillis dans l'enquête et la contre-enquête sociale prévues à l'article 287-1 ;
 
-3° Des sentiments exprimés par les enfants mineurs lorsque leur audition a paru nécessaire et qu'elle ne comporte pas
-d'inconvénients pour eux.
+3° Des sentiments exprimés par les enfants. Lorsque ceux-ci ont moins de treize ans, ils ne peuvent être entendus que si leur
+audition paraît nécessaire et ne comporte pas d'inconvénients pour eux ; lorsqu'ils ont plus de treize ans, leur audition ne
+peut être écartée que par décision spécialement motivée. Cette décision n'est susceptible d'appel qu'avec la décision qui
+statue sur l'autorité parentale.
 
 **Liens relatifs à cet article**
 
@@ -8107,14 +8164,14 @@ d'inconvénients pour eux.
 
 	  - Loi n°1803-03-14
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
+	  - Loi n°87-570 du 22 juillet 1987 - art. 10 () JORF 24 juillet 1987
 
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+	  - SPEC_APPLI: Loi n°87-570 du 22 juillet 1987 - art. 29 (V)
+	  - SPEC_APPLI: Loi n°87-570 du 22 juillet 1987 - art. 30 (V)
 
 	**Cite**:
 
@@ -8174,7 +8231,8 @@ l'autorité parentale peuvent être révisées, pour des motifs graves, à la de
 ###### Article 293
 
 La contribution à l'entretien et à l'éducation des enfants prévue à l'article 288 prend la forme d'une pension alimentaire
-versée à la personne qui en a la garde.
+versée, selon le cas, au parent qui a l'exercice de l'autorité parentale ou chez lequel les enfants ont leur résidence
+habituelle ou à la personne à laquelle les enfants ont été confiés.
 
 Les modalités et les garanties de cette pension alimentaire sont fixées par le jugement ou, en cas de divorce sur demande
 conjointe, par la convention des époux homologuée par le juge.
@@ -8185,14 +8243,14 @@ conjointe, par la convention des époux homologuée par le juge.
 
 	  - Loi n°1803-03-14
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
+	  - Loi n°87-570 du 22 juillet 1987 - art. 11 () JORF 24 juillet 1987
 
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+	  - SPEC_APPLI: Loi n°87-570 du 22 juillet 1987 - art. 29 (V)
+	  - SPEC_APPLI: Loi n°87-570 du 22 juillet 1987 - art. 30 (V)
 
 	**Cite**:
 
@@ -8237,8 +8295,9 @@ productifs de revenus.
 
 ###### Article 294-1
 
-Si le capital ainsi constitué devient insuffisant pour couvrir les besoins des enfants, la personne qui a la garde peut
-demander l'attribution d'un complément sous forme de pension alimentaire.
+Si le capital ainsi constitué devient insuffisant pour couvrir les besoins des enfants, le parent qui a l'exercice de
+l'autorité parentale ou chez lequel les enfants ont leur résidence habituelle ou la personne à laquelle les enfants ont été
+confiés peut demander l'attribution d'un complément sous forme de pension alimentaire.
 
 **Liens relatifs à cet article**
 
@@ -8246,14 +8305,18 @@ demander l'attribution d'un complément sous forme de pension alimentaire.
 
 	  - Loi n°1803-03-14
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
+	  - Loi n°87-570 du 22 juillet 1987 - art. 12 () JORF 24 juillet 1987
 
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+	  - SPEC_APPLI: Loi n°87-570 du 22 juillet 1987 - art. 29 (V)
+	  - SPEC_APPLI: Loi n°87-570 du 22 juillet 1987 - art. 30 (V)
+
+	**Abrogé par**:
+
+	  - Loi n°2002-305 du 4 mars 2002 - art. 1 () JORF 5 mars 2002
 
 
 ###### Article 295
@@ -10336,7 +10399,12 @@ modification du nom de l'enfant, sauf décision contraire du tribunal.
 ###### Article 333-5
 
 Si la légitimation par autorité de justice a été prononcée à l'égard des deux parents, l'enfant prend le nom du père ; s'il
-est mineur, il est statué sur sa garde par le tribunal, comme en matière de divorce.
+est mineur, le tribunal statue sur les modalités d'exercice de l'autorité parentale, comme en matière de divorce.
+
+**Nota:**
+
+NOTA : Ces dispositions demeurent en vigueur jusqu'au 1er janvier 2005, l'article 13 de la loi n° 2003-516 ayant reporté au
+1er janvier 2005 la date initiale du 1er septembre 2003 prévue par l'article 25 de la loi n° 2002-304.
 
 **Liens relatifs à cet article**
 
@@ -10344,16 +10412,14 @@ est mineur, il est statué sur sa garde par le tribunal, comme en matière de di
 
 	  - Loi n°1803-03-14
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°72-3 du 3 janvier 1972 - art. 1 () JORF 5 janvier 1972 en vigueur le 1er août 1972
+	  - Loi n°87-570 du 22 juillet 1987 - art. 13 () JORF 24 juillet 1987
 
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 11 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 12 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 13 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 14 (V)
+	  - SPEC_APPLI: Loi n°87-570 du 22 juillet 1987 - art. 29 (V)
+	  - SPEC_APPLI: Loi n°87-570 du 22 juillet 1987 - art. 30 (V)
 
 	**Cité par**:
 
@@ -12997,11 +13063,11 @@ personnes, parents ou non.
 
 ###### Article 374-1
 
-Les mêmes règles sont applicables, à défaut de reconnaissance volontaire, quand la filiation est établie par jugement, soit à
-l'égard des deux parents, soit à l'égard d'un seul d'entre eux.
+Les mêmes règles sont applicables, à défaut de reconnaissance volontaire, quand la filiation est établie, soit à l'égard des
+deux parents, soit à l'égard d'un seul d'entre eux.
 
-Toutefois, en statuant sur l'une ou l'autre filiation, le tribunal peut toujours décider de confier la garde provisoire à un
-tiers qui sera chargé de requérir l'organisation de la tutelle.
+Toutefois, en statuant sur l'une ou l'autre filiation, le tribunal peut toujours décider de confier provisoirement l'enfant à
+un tiers qui sera chargé de requérir l'organisation de la tutelle.
 
 **Liens relatifs à cet article**
 
@@ -13009,25 +13075,20 @@ tiers qui sera chargé de requérir l'organisation de la tutelle.
 
 	  - Loi n°1803-03-14
 
-	**Créé par**:
-
-	  - Loi n°70-459 du 4 juin 1970 - art. 1 () JORF 5 juin 1970 en vigueur le 1er janvier 1971
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 10 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 11 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 12 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 13 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 14 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 15 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 9 (V)
-
 	**Cité par**:
 
 	  - Loi n°70-459 du 4 juin 1970 - art. 11 (V)
 	  - Loi n°70-459 du 4 juin 1970 - art. 15 (V)
 	  - Loi n°2002-305 du 4 mars 2002 - art. 19 (V)
+
+	**Modifié par**:
+
+	  - Loi n°87-570 du 22 juillet 1987 - art. 19 () JORF 24 juillet 1987
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°87-570 du 22 juillet 1987 - art. 29 (V)
+	  - SPEC_APPLI: Loi n°87-570 du 22 juillet 1987 - art. 30 (V)
 
 
 ###### Article 374-2
@@ -13218,7 +13279,7 @@ obligations pendant une durée de six mois au moins ;
 ###### Article 373-1
 
 Si l'un des père et mère décède ou se trouve dans l'un des cas énumérés par l'article précédent, l'exercice de l'autorité
-parentale est dévolu en entier à l'autre.
+parentale est dévolu à l'autre.
 
 **Liens relatifs à cet article**
 
@@ -13226,19 +13287,14 @@ parentale est dévolu en entier à l'autre.
 
 	  - Loi n°1803-03-14
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°70-459 du 4 juin 1970 - art. 1 () JORF 5 juin 1970 en vigueur le 1er janvier 1971
+	  - Loi n°87-570 du 22 juillet 1987 - art. 14 () JORF 24 juillet 1987
 
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 10 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 11 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 12 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 13 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 14 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 15 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 9 (V)
+	  - SPEC_APPLI: Loi n°87-570 du 22 juillet 1987 - art. 29 (V)
+	  - SPEC_APPLI: Loi n°87-570 du 22 juillet 1987 - art. 30 (V)
 
 	**Cité par**:
 
@@ -13247,71 +13303,55 @@ parentale est dévolu en entier à l'autre.
 
 ###### Article 373-2
 
-Si les père et mère sont divorcés ou séparés de corps, l'autorité parentale est exercée par celui d'entre eux à qui le
-tribunal a confié la garde de l'enfant, sauf le droit de visite et de surveillance de l'autre.
-
-Lorsque la garde a été confiée à un tiers, les autres attributs de l'autorité parentale continuent d'être exercés par les
-père et mère. Mais le tribunal, en désignant un tiers comme gardien provisoire, peut décider qu'il devra requérir l'ouverture
-d'une tutelle.
+Si les père et mère sont divorcés ou séparés de corps, l'autorité parentale est exercée soit en commun par les deux parents,
+soit par celui d'entre eux à qui le tribunal l'a confiée, sauf, dans ce dernier cas, le droit de visite et de surveillance de
+l'autre. S'ils exercent en commun leur autorité, les articles 372-1 et 372-2 demeurent applicables.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°70-459 du 4 juin 1970 - art. 1 () JORF 5 juin 1970 en vigueur le 1er janvier 1971
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 10 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 11 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 12 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 13 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 14 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 15 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 9 (V)
 
 	**Cité par**:
 
 	  - Loi n°70-459 du 4 juin 1970 - art. 15 (V)
 
+	**Modifié par**:
+
+	  - Loi n°87-570 du 22 juillet 1987 - art. 15 () JORF 24 juillet 1987
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°87-570 du 22 juillet 1987 - art. 29 (V)
+	  - SPEC_APPLI: Loi n°87-570 du 22 juillet 1987 - art. 30 (V)
+
+	**Cite**:
+
+	  - Code civil - art. 372-1 (T)
+	  - Code civil - art. 372-2 (M)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
 
 ###### Article 373-3
 
 Le divorce ou la séparation de corps ne fait pas obstacle à la dévolution prévue à l'article 373-1, lors même que celui des
-père et mère qui demeure en état d'exercer l'autorité parentale aurait été privé de la garde par l'effet du jugement prononcé
-contre lui.
+père et mère qui demeure en état d'exercer l'autorité parentale aurait été privé de l'exercice de certains des attributs de
+cette autorité par l'effet du jugement prononcé contre lui.
 
-Néanmoins, le tribunal qui avait statué en dernier lieu sur la garde pourra toujours être saisi par la famille ou par le
-ministère public, afin de désigner un tiers comme gardien de l'enfant, avec ou sans ouverture d'une tutelle, ainsi qu'il est
-dit à l'article précédent.
+Néanmoins, le tribunal qui avait statué en dernier lieu sur les modalités de l'exercice de l'autorité parentale peut toujours
+être saisi par la famille ou par le ministère public, afin de confier l'enfant à un tiers, avec ou sans ouverture d'une
+tutelle, ainsi qu'il est dit à l'article suivant.
 
-Dans des circonstances exceptionnelles, le tribunal qui statue sur la garde de l'enfant après divorce ou séparation de corps
-pourra décider, du vivant même des époux, qu'elle ne passera pas au survivant en cas de décès de l'époux gardien. Il pourra,
-dans ce cas, désigner la personne à laquelle la garde sera provisoirement dévolue.
+Dans des circonstances exceptionnelles, le tribunal qui statue sur les modalités de l'exercice de l'autorité parentale après
+divorce ou séparation de corps peut décider, du vivant même des parents, qu'en cas de décès de celui d'entre eux qui exerce
+cette autorité, l'enfant n'est pas confié au survivant. Il peut, dans ce cas, désigner la personne à laquelle l'enfant est
+provisoirement confié.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°70-459 du 4 juin 1970 - art. 1 () JORF 5 juin 1970 en vigueur le 1er janvier 1971
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 10 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 11 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 12 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 13 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 14 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 15 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 9 (V)
 
 	**Cité par**:
 
@@ -13321,12 +13361,50 @@ dans ce cas, désigner la personne à laquelle la garde sera provisoirement dév
 	  - Code de la sécurité sociale. - art. L351-4 (V)
 	  - Code de procédure civile - art. 1180 (V)
 
+	**Modifié par**:
+
+	  - Loi n°87-570 du 22 juillet 1987 - art. 16 () JORF 24 juillet 1987
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°87-570 du 22 juillet 1987 - art. 29 (V)
+	  - SPEC_APPLI: Loi n°87-570 du 22 juillet 1987 - art. 30 (V)
+
 	**Cite**:
 
 	  - Code civil - art. 373-1 (M)
+	  - Code civil - art. 373-4 (M)
 
 
 ###### Article 373-4
+
+Lorsque l'enfant a été confié à un tiers, l'autorité parentale continue d'être exercée par les père et mère ; toutefois, la
+personne à qui l'enfant a été confié accomplit tous les actes usuels relatifs à sa surveillance et à son éducation.
+
+Le tribunal, en confiant l'enfant à titre provisoire à un tiers, peut décider qu'il devra requérir l'ouverture d'une tutelle.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°87-570 du 22 juillet 1987 - art. 17 () JORF 24 juillet 1987
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°87-570 du 22 juillet 1987 - art. 29 (V)
+	  - SPEC_APPLI: Loi n°87-570 du 22 juillet 1987 - art. 30 (V)
+
+	**Cité par**:
+
+	  - Code civil - art. 373-3 (M)
+	  - Code civil - art. 375-7 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 373-5
 
 S'il ne reste plus ni père ni mère en état d'exercer l'autorité parentale, il y aura lieu à l'ouverture d'une tutelle ainsi
 qu'il est dit à l'article 390 ci-dessous.
@@ -13339,25 +13417,16 @@ qu'il est dit à l'article 390 ci-dessous.
 
 	**Créé par**:
 
-	  - Loi n°70-459 du 4 juin 1970 - art. 1 () JORF 5 juin 1970 en vigueur le 1er janvier 1971
+	  - Loi n°87-570 du 22 juillet 1987 - art. 17 () JORF 24 juillet 1987
 
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 10 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 11 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 12 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 13 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 9 (V)
-	  - SPEC_APPLI: Loi n°74-631 du 5 juillet 1974 - art. 21 (V)
+	  - SPEC_APPLI: Loi n°87-570 du 22 juillet 1987 - art. 29 (V)
+	  - SPEC_APPLI: Loi n°87-570 du 22 juillet 1987 - art. 30 (V)
 
-	**Cité par**:
+	**Anciens textes**:
 
-	  - Code civil - art. 373-3 (M)
-	  - Code civil - art. 375-7 (V)
-
-	**Nouveaux textes**:
-
-	  - Code civil - art. 373-5 (M)
+	  - Code civil - art. 373-4 (M)
 
 	**Cite**:
 
@@ -13366,33 +13435,23 @@ qu'il est dit à l'article 390 ci-dessous.
 
 ###### Article 374
 
-Sur l'enfant naturel, l'autorité parentale est exercée par celui des père et mère qui l'a volontairement reconnu, s'il n'a
-été reconnu que par l'un d'eux.
+L'autorité parentale est exercée sur l'enfant naturel par celui des père et mère qui l'a volontairement reconnu, s'il n'a été
+reconnu que par l'un d'eux. Si l'un et l'autre l'ont reconnu, l'autorité parentale est exercée par la mère.
 
-Si l'un et l'autre l'ont reconnu, l'autorité parentale est exercée en entier par la mère. Le tribunal pourra, néanmoins, à la
-demande de l'un ou de l'autre, ou du ministère public, décider qu'elle sera exercée soit par le père seul, soit par le père
-et la mère conjointement, auxquels les articles 372 à 372-2 seront alors applicables, comme si l'enfant était un enfant
-légitime.
+L'autorité parentale peut être exercée en commun par les deux parents s'ils en font la déclaration conjointe devant le juge
+des tutelles.
+
+A la demande du père ou de la mère ou du ministère public, le juge aux affaires matrimoniales peut modifier les conditions
+d'exercice de l'autorité parentale et décider qu'elle sera exercée soit par l'un des deux parents, soit en commun par le père
+et la mère ; il indique, dans ce cas, le parent chez lequel l'enfant a sa résidence habituelle.
+
+Le juge aux affaires matrimoniales peut toujours accorder un droit de visite et de surveillance au parent qui n'a pas
+l'exercice de l'autorité parentale.
+
+En cas d'exercice conjoint de l'autorité parentale, les articles 372-1 et 372-2 sont applicables comme si l'enfant était un
+enfant légitime.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°70-459 du 4 juin 1970 - art. 1 () JORF 5 juin 1970 en vigueur le 1er janvier 1971
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 10 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 11 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 12 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 13 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 14 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 15 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 9 (V)
 
 	**Cité par**:
 
@@ -13404,9 +13463,23 @@ légitime.
 	  - Nouveau code de procédure civile - art. 1180-1 (M)
 	  - Nouveau code de procédure civile - art. 1180-2 (M)
 
+	**Modifié par**:
+
+	  - Loi n°87-570 du 22 juillet 1987 - art. 18 () JORF 24 juillet 1987
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°87-570 du 22 juillet 1987 - art. 29 (V)
+	  - SPEC_APPLI: Loi n°87-570 du 22 juillet 1987 - art. 30 (V)
+
 	**Cite**:
 
-	  - Code civil 372 à 372-2
+	  - Code civil - art. 372-1 (T)
+	  - Code civil - art. 372-2 (M)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
 
 
 #### Section 2 : De l'assistance éducative
@@ -13415,8 +13488,8 @@ légitime.
 
 Si la santé, la sécurité ou la moralité d'un mineur non émancipé sont en danger, ou si les conditions de son éducation sont
 gravement compromises, des mesures d'assistance éducative peuvent être ordonnées par justice à la requête des père et mère
-conjointement, ou de l'un d'eux, du gardien ou du tuteur, du mineur lui-même ou du ministère public. Le juge peut se saisir
-d'office à titre exceptionnel.
+conjointement, ou de l'un d'eux, de la personne ou du service à qui l'enfant a été confié ou du tuteur, du mineur lui-même ou
+du ministère public. Le juge peut se saisir d'office à titre exceptionnel.
 
 Elles peuvent être ordonnées en même temps pour plusieurs enfants relevant de la même autorité parentale.
 
@@ -13469,14 +13542,14 @@ service ou une institution, excéder deux ans. La mesure peut être renouvelée 
 	  - Code de la sécurité sociale. - art. R322-9 (T)
 	  - Code de procédure civile - art. 1200-1 (V)
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°74-631 du 5 juillet 1974 - art. 21 (V)
-	  - SPEC_APPLI: Loi n°86-17 1986-01-06 art. 73
-
 	**Modifié par**:
 
-	  - Loi n°86-17 du 6 janvier 1986 - art. 51 () JORF 8 janvier 1986
+	  - Loi n°87-570 du 22 juillet 1987 - art. 20 () JORF 24 juillet 1987
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°87-570 du 22 juillet 1987 - art. 29 (V)
+	  - SPEC_APPLI: Loi n°87-570 du 22 juillet 1987 - art. 30 (V)
 
 	**Codifié par**:
 
@@ -13569,7 +13642,8 @@ professionnelle.
 
 S'il est nécessaire de retirer l'enfant de son milieu actuel, le juge peut décider de le confier :
 
-1° A celui des père et mère qui n'en avait pas la garde ;
+1° A celui des père et mère qui n'avait pas l'exercice de l'autorité parentale ou chez lequel l'enfant n'avait pas sa
+résidence habituelle ;
 
 2° A un autre membre de la famille ou à un tiers digne de confiance ;
 
@@ -13579,24 +13653,20 @@ S'il est nécessaire de retirer l'enfant de son milieu actuel, le juge peut déc
 
 Toutefois, lorsqu'une requête en divorce a été présentée ou un jugement de divorce rendu entre les père et mère, ces mesures
 ne peuvent être prises que si un fait nouveau de nature à entraîner un danger pour le mineur s'est révélé postérieurement à
-la décision statuant sur la garde de l'enfant. Elles ne peuvent faire obstacle à la faculté qu'aura le tribunal de décider,
-par application de l'article 302, à qui l'enfant devra être confié. Les mêmes règles sont applicables à la séparation de
-corps.
+la décision statuant sur les modalités de l'exercice de l'autorité parentale ou confiant l'enfant à un tiers. Elles ne
+peuvent faire obstacle à la faculté qu'aura le tribunal de décider, par application des articles 287 et 287-1, à qui l'enfant
+devra être confié. Les mêmes règles sont applicables à la séparation de corps.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°70-459 du 4 juin 1970 - art. 1 () JORF 5 juin 1970 en vigueur le 1er janvier 1971
+	  - Loi n°87-570 du 22 juillet 1987 - art. 21 () JORF 24 juillet 1987
 
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 10 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 11 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 12 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 13 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 9 (V)
-	  - SPEC_APPLI: Loi n°74-631 du 5 juillet 1974 - art. 21 (V)
+	  - SPEC_APPLI: Loi n°87-570 du 22 juillet 1987 - art. 29 (V)
+	  - SPEC_APPLI: Loi n°87-570 du 22 juillet 1987 - art. 30 (V)
 
 	**Cité par**:
 
@@ -13632,10 +13702,6 @@ corps.
 	  - Code de la sécurité sociale. - art. L543-3 (V)
 	  - Code de procédure civile - art. 1198 (V)
 
-	**Cite**:
-
-	  - Code civil - art. 302 (V)
-
 	**Codifié par**:
 
 	  - Loi n°1803-03-14
@@ -13644,26 +13710,22 @@ corps.
 ###### Article 375-4
 
 Dans les cas spécifiés aux 1°, 2° et 3° de l'article précédent, le juge peut charger, soit une personne qualifiée, soit un
-service d'observation, d'éducation ou de rééducation en milieu ouvert d'apporter aide et conseil au gardien ainsi qu'à la
-famille et de suivre le développement de l'enfant.
+service d'observation, d'éducation ou de rééducation en milieu ouvert d'apporter aide et conseil à la personne ou au service
+à qui l'enfant a été confié ainsi qu'à la famille et de suivre le développement de l'enfant.
 
 Dans tous les cas, le juge peut assortir la remise de l'enfant des mêmes modalités que sous l'article 375-2, deuxième alinéa.
 Il peut aussi décider qu'il lui sera rendu compte périodiquement de la situation de l'enfant.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°70-459 du 4 juin 1970 - art. 1 () JORF 5 juin 1970 en vigueur le 1er janvier 1971
+	  - Loi n°87-570 du 22 juillet 1987 - art. 22 () JORF 24 juillet 1987
 
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 10 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 11 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 12 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 13 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 9 (V)
-	  - SPEC_APPLI: Loi n°74-631 du 5 juillet 1974 - art. 21 (V)
+	  - SPEC_APPLI: Loi n°87-570 du 22 juillet 1987 - art. 29 (V)
+	  - SPEC_APPLI: Loi n°87-570 du 22 juillet 1987 - art. 30 (V)
 
 	**Cité par**:
 
@@ -13745,23 +13807,19 @@ les huit jours le juge compétent, qui maintiendra, modifiera ou rapportera la m
 ###### Article 375-6
 
 Les décisions prises en matière d'assistance éducative peuvent être, à tout moment, modifiées ou rapportées par le juge qui
-les a rendues soit d'office, soit à la requête des père et mère conjointement, ou de l'un d'eux, du gardien ou du tuteur, du
-mineur lui-même ou du ministère public.
+les a rendues soit d'office, soit à la requête des père et mère conjointement, ou de l'un d'eux, de la personne ou du service
+à qui l'enfant a été confié ou du tuteur, du mineur lui-même ou du ministère public.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°70-459 du 4 juin 1970 - art. 1 () JORF 5 juin 1970 en vigueur le 1er janvier 1971
+	  - Loi n°87-570 du 22 juillet 1987 - art. 23 () JORF 24 juillet 1987
 
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 10 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 11 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 12 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 13 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 9 (V)
-	  - SPEC_APPLI: Loi n°74-631 du 5 juillet 1974 - art. 21 (V)
+	  - SPEC_APPLI: Loi n°87-570 du 22 juillet 1987 - art. 29 (V)
+	  - SPEC_APPLI: Loi n°87-570 du 22 juillet 1987 - art. 30 (V)
 
 	**Cité par**:
 
@@ -13889,9 +13947,10 @@ jugement dans les cas déterminés ci-dessous.
 
 ###### Article 376-1
 
-Un tribunal peut, quand il est appelé à statuer sur la garde ou l'éducation d'un enfant mineur, avoir égard aux pactes que
-les père et mère ont pu librement conclure entre eux à ce sujet, à moins que l'un d'eux ne justifie de motifs graves qui
-l'autoriseraient à révoquer son consentement.
+Un tribunal peut, quand il est appelé à statuer sur les modalités de l'exercice de l'autorité parentale ou sur l'éducation
+d'un enfant mineur ou quand il décide de confier l'enfant à un tiers, avoir égard aux pactes que les père et mère ont pu
+librement conclure entre eux à ce sujet, à moins que l'un d'eux ne justifie de motifs graves qui l'autoriseraient à révoquer
+son consentement.
 
 **Liens relatifs à cet article**
 
@@ -13908,19 +13967,14 @@ l'autoriseraient à révoquer son consentement.
 
 	  - Loi n°1803-03-14
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°70-459 du 4 juin 1970 - art. 1 () JORF 5 juin 1970 en vigueur le 1er janvier 1971
+	  - Loi n°87-570 du 22 juillet 1987 - art. 24 () JORF 24 juillet 1987
 
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 10 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 11 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 12 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 13 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 14 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 15 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 9 (V)
+	  - SPEC_APPLI: Loi n°87-570 du 22 juillet 1987 - art. 29 (V)
+	  - SPEC_APPLI: Loi n°87-570 du 22 juillet 1987 - art. 30 (V)
 
 
 ###### Article 377
@@ -14270,9 +14324,8 @@ déjà nés.
 ###### Article 380
 
 En prononçant la déchéance ou le retrait du droit de garde, la juridiction saisie devra, si l'autre parent est décédé ou s'il
-a perdu l'exercice de l'autorité parentale, soit désigner un tiers qui assumera provisoirement la garde de l'enfant à charge
-pour lui de requérir l'organisation de la tutelle, soit confier l'enfant au service départemental de l'aide sociale à
-l'enfance.
+a perdu l'exercice de l'autorité parentale, soit désigner un tiers auquel l'enfant sera provisoirement confié à charge pour
+lui de requérir l'organisation de la tutelle, soit confier l'enfant au service départemental de l'aide sociale à l'enfance.
 
 Elle pourra prendre les mêmes mesures lorsque l'autorité parentale est dévolue à l'un des parents par l'effet de la déchéance
 prononcée contre l'autre.
@@ -14293,23 +14346,18 @@ prononcée contre l'autre.
 	  - Code de la famille et de l'aide sociale. - art. 61 (Ab)
 	  - Code de la famille et de l'aide sociale. - art. 64 (M)
 
-	**Créé par**:
-
-	  - Loi n°70-459 du 4 juin 1970 - art. 1 () JORF 5 juin 1970 en vigueur le 1er janvier 1971
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 10 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 11 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 12 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 13 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 14 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 15 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 9 (V)
-
 	**Codifié par**:
 
 	  - Loi n°1803-03-14
+
+	**Modifié par**:
+
+	  - Loi n°87-570 du 22 juillet 1987 - art. 25 () JORF 24 juillet 1987
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°87-570 du 22 juillet 1987 - art. 29 (V)
+	  - SPEC_APPLI: Loi n°87-570 du 22 juillet 1987 - art. 30 (V)
 
 
 ###### Article 381

@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1915-07-28
+Version Consolidée au 1918-03-01
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -27983,6 +27983,68 @@ par lui déclarée expressément, et que le débiteur aura droit de faire rédui
 
 
 ### Chapitre IV : Du mode de l'inscription des privilèges et hypothèques.
+
+###### Article 2150
+
+Le conservateur fait mention, sur le registre prescrit par l'article 2200 ci-après, du dépôt des bordereaux, et remet au
+requérant, tant le titre ou l'expédition du titre, que l'un des bordereaux, au pied duquel il mentionne la date du dépôt, le
+volume et le numéro sous lesquels le bordereau destiné aux archives a été classé.
+
+La date de l'inscription est déterminée par la mention portée sur le registre des dépôts.
+
+Les bordereaux destinés aux archives seront reliés sans déplacement par les soins et aux frais des conservateurs.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Transféré par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
+
+	**Cite**:
+
+	  - Code civil - art. 2200 (T)
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2431 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-19
+
+	**Créé par**:
+
+	  - Loi n°1804-03-19 promulguée le 29 mars 1804
+
+
+###### Article 2152
+
+Il est loisible à celui qui a requis une inscription ainsi qu'à ses représentants ou cessionnaires par acte authentique de
+changer au bureau des hypothèques le domicile par lui élu dans cette inscription, à la charge d'en choisir et indiquer un
+autre dans le ressort du tribunal de grande instance de la situation des biens.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°1924-11-18 du 18 novembre 1924 - art. 36 (M)
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2433 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-19
+
+	**Créé par**:
+
+	  - Loi n°1804-03-19 promulguée le 29 mars 1804
+
 
 ###### Article 2153
 

@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 1803-04-29
+Version Consolidée au 1803-05-13
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -4831,5 +4831,2912 @@ violence si l'aliénation qu'il a faite est postérieure à la découverte du do
 	**Créé par**:
 
 	  - Loi n°1803-04-19 promulguée le 29 avril 1803
+
+
+## Titre II : Des donations entre vifs et des testaments (en vigueur jusqu'au 1er janvier 2007)
+
+### Chapitre Ier : Dispositions générales.
+
+###### Article 893
+
+On ne pourra disposer de ses biens, à titre gratuit, que par donation entre vifs ou par testament, dans les formes ci-après
+établies.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 894
+
+La donation entre vifs est un acte par lequel le donateur se dépouille actuellement et irrévocablement de la chose donnée en
+faveur du donataire qui l'accepte.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 895
+
+Le testament est un acte par lequel le testateur dispose, pour le temps où il n'existera plus, de tout ou partie de ses biens
+et qu'il peut révoquer.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 897
+
+Sont exceptées des deux premiers paragraphes de l'article précédent les dispositions permises aux pères et mères et aux
+frères et soeurs, au chapitre VI du présent titre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+	**Abrogé par**:
+
+	  - Loi n°2006-728 du 23 juin 2006 - art. 10 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+
+###### Article 898
+
+La disposition par laquelle un tiers serait appelé à recueillir le don, l'hérédité ou le legs, dans le cas où le donataire,
+l'héritier institué ou le légataire ne le recueillerait pas, ne sera pas regardée comme une substitution et sera valable.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 899
+
+Il en sera de même de la disposition entre vifs ou testamentaire par laquelle l'usufruit sera donné à l'un et la nue-
+propriété à l'autre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 900
+
+Dans toute disposition entre vifs ou testamentaire, les conditions impossibles, celles qui sont contraires aux lois ou aux
+moeurs, seront réputées non écrites.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+### Chapitre II : De la capacité de disposer ou de recevoir par donation entre vifs ou par testament.
+
+###### Article 901
+
+Pour faire une donation entre vifs ou un testament, il faut être sain d'esprit.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code civil - art. 470 (V)
+	  - Code civil - art. 513 (VT)
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 902
+
+Toutes personnes peuvent disposer et recevoir soit par donation entre vifs, soit par testament, excepté celles que la loi en
+déclare incapables.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 903
+
+Le mineur âgé de moins de seize ans ne pourra aucunement disposer, sauf ce qui est réglé au chapitre IX du présent titre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 906
+
+Pour être capable de recevoir entre vifs, il suffit d'être conçu au moment de la donation.
+
+Pour être capable de recevoir par testament, il suffit d'être conçu à l'époque du décès du testateur.
+
+Néanmoins, la donation ou le testament n'auront leur effet qu'autant que l'enfant sera né viable.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 909
+
+Les docteurs en médecine ou en chirurgie, les officiers de santé et les pharmaciens qui auront traité une personne pendant la
+maladie dont elle meurt, ne pourront profiter des dispositions entre vifs ou testamentaires qu'elle aurait faites en leur
+faveur pendant le cours de cette maladie.
+
+Sont exceptées :
+
+1° Les dispositions rémunératoires faites à titre particulier, eu égard aux facultés du disposant et aux services rendus ;
+
+2° Les dispositions universelles, dans le cas de parenté jusqu'au quatrième degré inclusivement, pourvu toutefois que le
+décédé n'ait pas d'héritiers en ligne directe ; à moins que celui au profit de qui la disposition a été faite ne soit lui-
+même du nombre de ces héritiers.
+
+Les mêmes règles seront observées à l'égard du ministre du culte.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°89-475 du 10 juillet 1989 - art. 13 (Ab)
+	  - Loi n°2015-1776 du 28 décembre 2015 - art. 28
+	  - Code de l'action sociale et des familles - art. L116-4 (VD)
+	  - Code de l'action sociale et des familles - art. L331-4 (Ab)
+	  - Code de l'action sociale et des familles - art. L443-6 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 209 bis (Ab)
+	  - Code de la santé publique - art. R4321-97 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 911
+
+Toute disposition au profit d'un incapable sera nulle, soit qu'on la déguise sous la forme d'un contrat onéreux, soit qu'on
+la fasse sous le nom de personnes interposées.
+
+Seront réputées personnes interposées les père et mère, les enfants et descendants, et l'époux de la personne incapable.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°89-475 du 10 juillet 1989 - art. 13 (Ab)
+	  - Code de l'action sociale et des familles - art. L116-4 (V)
+	  - Code de l'action sociale et des familles - art. L331-4 (M)
+	  - Code de l'action sociale et des familles - art. L443-6 (M)
+	  - Code de la famille et de l'aide sociale. - art. 209 bis (Ab)
+	  - Code général des impôts, CGI. - art. 751 (V)
+	  - Code général des impôts, CGI. - art. 752 (V)
+	  - Code général des impôts, CGI. - art. 773 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+### Chapitre III : De la portion de biens disponible, et de la réduction
+
+#### Section 1 : De la portion de biens disponible.
+
+###### Article 917
+
+Si la disposition par acte entre vifs ou par testament est d'un usufruit ou d'une rente viagère dont la valeur excède la
+quotité disponible, les héritiers au profit desquels la loi fait une réserve, auront l'option, ou d'exécuter cette
+disposition, ou de faire l'abandon de la propriété de la quotité disponible.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 918
+
+La valeur en pleine propriété des biens aliénés, soit à charge de rente viagère, soit à fonds perdu, ou avec réserve
+d'usufruit à l'un des successibles en ligne directe, sera imputée sur la portion disponible ; et l'excédent, s'il y en a,
+sera rapporté à la masse. Cette imputation et ce rapport ne pourront être demandés par ceux des autres successibles en ligne
+directe qui auraient consenti à ces aliénations, ni, dans aucun cas, par les successibles en ligne collatérale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 919
+
+La quotité disponible pourra être donnée en tout ou en partie soit par acte entre vifs, soit par testament, aux enfants ou
+autres successibles du donateur, sans être sujette au rapport par le donataire ou le légataire venant à la succession, pourvu
+qu'en ce qui touche les dons la disposition ait été faite expressément à titre de préciput et hors part.
+
+La déclaration que le don est à titre de préciput et hors part pourra être faite, soit par l'acte qui contiendra la
+disposition, soit postérieurement, dans la forme des dispositions entre vifs ou testamentaires.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+#### Section 2 : De la réduction des donations et legs.
+
+###### Article 920
+
+Les dispositions soit entre vifs, soit à cause de mort, qui excéderont la quotité disponible, seront réductibles à cette
+quotité lors de l'ouverture de la succession.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°2008-1484 du 22 décembre 2008 - art. Annexe 1 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 921
+
+La réduction des dispositions entre vifs ne pourra être demandée que par ceux au profit desquels la loi fait la réserve, par
+leurs héritiers ou ayants cause : les donataires, les légataires, ni les créanciers du défunt ne pourront demander cette
+réduction, ni en profiter.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 923
+
+Il n'y aura jamais lieu à réduire les donations entre vifs, qu'après avoir épuisé la valeur de tous les biens compris dans
+les dispositions testamentaires ; et lorsqu'il y aura lieu à cette réduction, elle se fera en commençant par la dernière
+donation, et ainsi de suite en remontant des dernières aux plus anciennes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 925
+
+Lorsque la valeur des donations entre vifs excédera ou égalera la quotité disponible, toutes les dispositions testamentaires
+seront caduques.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+	**Abrogé par**:
+
+	  - Loi n°2006-728 du 23 juin 2006 - art. 13 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+
+###### Article 926
+
+Lorsque les dispositions testamentaires excéderont soit la quotité disponible, soit la portion de cette quotité qui resterait
+après avoir déduit la valeur des donations entre vifs, la réduction sera faite au marc le franc, sans aucune distinction
+entre les legs universels et les legs particuliers.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code civil - art. 1009 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 927
+
+Néanmoins dans tous les cas où le testateur aura expressément déclaré qu'il entend que tel legs soit acquitté de préférence
+aux autres, cette préférence aura lieu ; et le legs qui en sera l'objet ne sera réduit qu'autant que la valeur des autres ne
+remplirait pas la réserve légale.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code civil - art. 1009 (V)
+	  - Code civil - art. 207-1 (Ab)
+	  - Code civil - art. 280 (V)
+	  - Code civil - art. 758 (V)
+	  - Code civil - art. 767 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 928
+
+Le donataire restituera les fruits de ce qui excédera la portion disponible, à compter du jour du décès du donateur, si la
+demande en réduction a été faite dans l'année ; sinon, du jour de la demande.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+### Chapitre IV : Des donations entre vifs
+
+#### Section 1 : De la forme des donations entre vifs.
+
+###### Article 931
+
+Tous actes portant donation entre vifs seront passés devant notaires dans la forme ordinaire des contrats ; et il en restera
+minute, sous peine de nullité.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+	**Cité par**:
+
+	  - Loi du 16 mars 1803 - art. 10 (Ab)
+
+
+###### Article 932
+
+La donation entre vifs n'engagera le donateur, et ne produira aucun effet, que du jour qu'elle aura été acceptée en termes
+exprès.
+
+L'acceptation pourra être faite du vivant du donateur par un acte postérieur et authentique, dont il restera minute ; mais
+alors la donation n'aura d'effet, à l'égard du donateur, que du jour où l'acte qui constatera cette acceptation lui aura été
+notifié.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code civil - art. 1055 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 933
+
+Si le donataire est majeur, l'acceptation doit être faite par lui ou, en son nom, par la personne fondée de sa procuration,
+portant pouvoir d'accepter la donation faite, ou un pouvoir général d'accepter les donations qui auraient été ou qui
+pourraient être faites.
+
+Cette procuration devra être passée devant notaires ; et une expédition devra en être annexée à la minute de la donation, à
+la minute de l'acceptation qui serait faite par acte séparé.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°1924-11-18 du 18 novembre 1924 - art. 37 (M)
+	  - Décret n°71-941 du 26 novembre 1971 - art. 36 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 936
+
+Le sourd-muet qui saura écrire pourra accepter lui-même ou par un fondé de pouvoir.
+
+S'il ne sait pas écrire, l'acceptation doit être faite par un curateur nommé à cet effet, suivant les règles établies au
+titre De la minorité, de la tutelle et de l'émancipation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 938
+
+La donation dûment acceptée sera parfaite par le seul consentement des parties ; et la propriété des objets donnés sera
+transférée au donataire, sans qu'il soit besoin d'autre tradition.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 941
+
+Le défaut de publication pourra être opposé par toutes personnes ayant intérêt, excepté toutefois celles qui sont chargées de
+faire faire la publication, ou leurs ayants cause, et le donateur.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°55-22 du 4 janvier 1955 - art. 30 (VD)
+	  - Loi n°1924-06-01 du 1 juin 1924 - art. 38-2 (V)
+	  - Loi n°1924-06-01 du 1 juin 1924 - art. 40 (M)
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 943
+
+La donation entre vifs ne pourra comprendre que les biens présents du donateur ; si elle comprend des biens à venir, elle
+sera nulle à cet égard.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 944
+
+Toute donation entre vifs, faite sous des conditions dont l'exécution dépend de la seule volonté du donateur, sera nulle.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code civil - art. 947 (M)
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 945
+
+Elle sera pareillement nulle si elle a été faite sous la condition d'acquitter d'autres dettes ou charges que celles qui
+existaient à l'époque de la donation ou qui seraient exprimées soit dans l'acte de donation, soit dans l'état qui devrait y
+être annexé.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code civil - art. 947 (M)
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 946
+
+En cas que le donateur se soit réservé la liberté de disposer d'un effet compris dans la donation ou d'une somme fixe sur les
+biens donnés, s'il meurt sans en avoir disposé, ledit effet ou ladite somme appartiendra aux héritiers du donateur,
+nonobstant toutes clauses et stipulations à ce contraires.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code civil - art. 947 (M)
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 947
+
+Les quatre articles précédents ne s'appliquent point aux donations dont est mention aux chapitres VIII et IX du présent
+titre.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code civil - art. 944 (V)
+	  - SPEC_APPLI: Code civil - art. 945 (V)
+	  - SPEC_APPLI: Code civil - art. 946 (V)
+	  - SPEC_APPLI: Code civil - art. 951 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 948
+
+Tout acte de donation d'effets mobiliers ne sera valable que pour les effets dont un état estimatif, signé du donateur et du
+donataire, ou de ceux qui acceptent pour lui, aura été annexé à la minute de la donation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 949
+
+Il est permis au donateur de faire la réserve à son profit ou de disposer, au profit d'un autre, de la jouissance ou de
+l'usufruit des biens meubles ou immeubles donnés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 950
+
+Lorsque la donation d'effets mobiliers aura été faite avec réserve d'usufruit, le donataire sera tenu, à l'expiration de
+l'usufruit, de prendre les effets donnés qui se trouveront en nature, dans l'état où il seront ; et il aura action contre le
+donateur ou ses héritiers, pour raison des objets non existants, jusqu'à concurrence de la valeur qui leur aura été donnée
+dans l'état estimatif.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 951
+
+Le donateur pourra stipuler le droit de retour des objets donnés soit pour le cas du prédécès du donataire seul, soit pour le
+cas du prédécès du donataire et de ses descendants.
+
+Ce droit ne pourra être stipulé qu'au profit du donateur seul.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi du 1er juin 1924 - art. 38 (V)
+	  - Décret n°2009-1193 du 7 octobre 2009 - art. 4 (V)
+	  - Code général des impôts, CGI. - art. 791 ter (V)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code civil - art. 947 (M)
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 952
+
+L'effet du droit de retour sera de résoudre toutes les aliénations des biens donnés et de faire revenir ces biens au
+donateur, francs et quittes de toutes charges et hypothèques, sauf néanmoins l'hypothèque de la dot et des conventions
+matrimoniales, si les autres biens de l'époux donataire ne suffisent pas, et dans le cas seulement ou la donation lui aura
+été faite par le même contrat de mariage duquel résultent ces droits et hypothèques.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+	**Cité par**:
+
+	  - Loi du 1er juin 1924 - art. 38 (V)
+
+
+#### Section 2 : Des exceptions à la règle de l'irrévocabilité des donations entre vifs.
+
+###### Article 953
+
+La donation entre vifs ne pourra être révoquée que pour cause d'inexécution des conditions sous lesquelles elle aura été
+faite, pour cause d'ingratitude, et pour cause de survenance d'enfants.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°2008-1484 du 22 décembre 2008 - art. Annexe 1 (V)
+	  - Code civil - art. 1096 (V)
+	  - Code civil - art. 460 (VT)
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 954
+
+Dans le cas de la révocation pour cause d'inexécution des conditions, les biens rentreront dans les mains du donateur, libres
+de toutes charges et hypothèques du chef du donataire ; et le donateur aura, contre les tiers détenteurs des immeubles
+donnés, tous les droits qu'il aurait contre le donataire lui-même.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code civil - art. 1046 (V)
+	  - Code général des impôts, CGI. - art. 1961 (VD)
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 955
+
+La donation entre vifs ne pourra être révoquée pour cause d'ingratitude que dans les cas suivants :
+
+1° Si le donataire a attenté à la vie du donateur ;
+
+2° S'il s'est rendu coupable envers lui de sévices, délits ou injures graves ;
+
+3° S'il lui refuse des aliments.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret du 18 novembre 1924 - art. 25 (Ab)
+	  - Code civil - art. 1046 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 956
+
+La révocation pour cause d'inexécution des conditions, ou pour cause d'ingratitude, n'aura jamais lieu de plein droit.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 957
+
+La demande en révocation pour cause d'ingratitude devra être formée dans l'année, à compter du jour du délit imputé par le
+donateur au donataire, ou du jour que le délit aura pu être connu par le donateur.
+
+Cette révocation ne pourra être demandée par le donateur contre les héritiers du donataire, ni par les héritiers du donateur
+contre le donataire, à moins que, dans ce dernier cas, l'action n'ait été intentée par le donateur, ou qu'il ne soit décédé
+dans l'année du délit.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 959
+
+Les donations en faveur de mariage ne seront pas révocables pour cause d'ingratitude.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 961
+
+Cette révocation aura lieu, encore que l'enfant du donateur ou de la donatrice fût conçu au temps de la donation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 963
+
+Les biens compris dans la donation révoquée de plein droit rentreront dans le patrimoine du donateur, libres de toutes
+charges et hypothèques du chef du donataire, sans qu'ils puissent demeurer affectés, même subsidiairement, à la restitution
+de la dot de la femme de ce donataire, de ses reprises ou autres conventions matrimoniales ; ce qui aura lieu quand même la
+donation aurait été faite en faveur du mariage du donataire et insérée dans le contrat, et que le donateur se serait obligé
+comme caution, par la donation, à l'exécution du contrat de mariage.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 964
+
+Les donations ainsi révoquées ne pourront revivre ou avoir de nouveau leur effet, ni par la mort de l'enfant du donateur, ni
+par aucun acte confirmatif ; et si le donateur veut donner les mêmes biens au même donataire, soit avant ou après la mort de
+l'enfant par la naissance duquel la donation avait été révoquée, il ne le pourra faire que par une nouvelle disposition.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 965
+
+Toute clause ou convention par laquelle le donateur aurait renoncé à la révocation de la donation pour survenance d'enfant
+sera regardée comme nulle et ne pourra produire aucun effet.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 966
+
+Le donataire, ses héritiers ou ayants cause, ou autres détenteurs des choses données, ne pourront opposer la prescription
+pour faire valoir la donation révoquée par la survenance d'enfant qu'après une possession de trente années, qui ne pourront
+commencer à courir que du jour de la naissance du dernier enfant du donateur, même posthume ; et ce sans préjudice des
+interruptions, telles que de droit.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+### Chapitre V : Des dispositions testamentaires
+
+#### Section 1 : Des règles générales sur la forme des testaments
+
+###### Article 967
+
+Toute personne pourra disposer par testament soit sous le titre d'institution d'héritier, soit sous le titre de legs, soit
+sous toute autre dénomination propre à manifester sa volonté.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 968
+
+Un testament ne pourra être fait dans le même acte par deux ou plusieurs personnes soit au profit d'un tiers, soit à titre de
+disposition réciproque ou mutuelle.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 969
+
+Un testament pourra être olographe ou fait par acte public ou dans la forme mystique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 970
+
+Le testament olographe ne sera point valable s'il n'est écrit en entier, daté et signé de la main du testateur : il n'est
+assujetti à aucune autre forme.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code civil - art. 999 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+#### Section 2 : Des règles particulières sur la forme de certains testaments.
+
+###### Article 987
+
+Les testaments mentionnés aux deux précédents articles deviendront nuls six mois après que les communications auront été
+rétablies dans le lieu où le testateur se trouve, ou six mois après qu'il aura passé dans un lieu où elles ne seront point
+interrompues.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code civil - art. 996 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 999
+
+Un Français qui se trouvera en pays étranger pourra faire ses dispositions testamentaires par acte sous signature privée,
+ainsi qu'il est prescrit en l'article 970, ou par acte authentique, avec les formes usitées dans le lieu où cet acte sera
+passé.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code civil - art. 1001 (M)
+
+	**Cite**:
+
+	  - Code civil - art. 970 (M)
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 1000
+
+Les testaments faits en pays étranger ne pourront être exécutés sur les biens situés en France qu'après avoir été enregistrés
+au bureau du domicile du testateur, s'il en a conservé un, sinon au bureau de son dernier domicile connu en France ; et, dans
+le cas où le testament contiendrait des dispositions d'immeubles qui y seraient situés, il devra être, en outre, enregistré
+au bureau de la situation de ces immeubles, sans qu'il puisse être exigé un double droit.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code civil - art. 1001 (M)
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 1001
+
+Les formalités auxquelles les divers testaments sont assujettis par les dispositions de la présente section et de la
+précédente doivent être observées à peine de nullité.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code civil - art. 1000 (V)
+	  - TXT_ASSOCIE: Code civil - art. 998 (V)
+	  - TXT_ASSOCIE: Code civil - art. 999 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+#### Section 3 : Des institutions d'héritiers et des legs en général.
+
+###### Article 1002
+
+Les dispositions testamentaires sont ou universelles, ou à titre universel, ou à titre particulier.
+
+Chacune de ces dispositions, soit qu'elle ait été faite sous la dénomination d'institution d'héritier, soit qu'elle ait été
+faite sous la dénomination de legs, produira son effet suivant les règles ci-après établies pour les legs universels, pour
+les legs à titre universel, et pour les legs particuliers.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+#### Section 4 : Du legs universel.
+
+###### Article 1003
+
+Le legs universel est la disposition testamentaire par laquelle le testateur donne à une ou plusieurs personnes
+l'universalité des biens qu'il laissera à son décès.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 1004
+
+Lorsqu'au décès du testateur il y a des héritiers auxquels une quotité de ses biens est réservée par la loi, ces héritiers
+sont saisis de plein droit, par sa mort, de tous les biens de la succession ; et le légataire universel est tenu de leur
+demander la délivrance des biens compris dans le testament.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 1005
+
+Néanmoins, dans les mêmes cas, le légataire universel aura la jouissance des biens compris dans le testament, à compter du
+jour du décès, si la demande en délivrance a été faite dans l'année, depuis cette époque ; sinon, cette jouissance ne
+commencera que du jour de la demande formée en justice, ou du jour que la délivrance aurait été volontairement consentie.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 1006
+
+Lorsqu'au décès du testateur il n'y aura pas d'héritiers auxquels une quotité de ses biens soit réservée par la loi, le
+légataire universel sera saisi de plein droit par la mort du testateur, sans être tenu de demander la délivrance.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret du 18 novembre 1924 - art. 42 (Ab)
+	  - Décret n°2009-1193 du 7 octobre 2009 - art. 74 (V)
+	  - Code civil - art. 1008 (VT)
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 1008
+
+Dans le cas de l'article 1006, si le testament est olographe ou mystique, le légataire universel sera tenu de se faire
+envoyer en possession, par une ordonnance du président, mise au bas d'une requête, à laquelle sera joint l'acte de dépôt.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret du 18 novembre 1924 - art. 42 (Ab)
+	  - Décret n°60-323  du 2 avril 1960  - art. 58 (VT)
+	  - Code civil - art. 1030-2 (V)
+
+	**Cite**:
+
+	  - Code civil - art. 1006 (M)
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 1009
+
+Le légataire universel, qui sera en concours avec un héritier auquel la loi réserve une quotité des biens, sera tenu des
+dettes et charges de la succession du testateur, personnellement pour sa part et portion et hypothécairement pour le tout ;
+et il sera tenu d'acquitter tous les legs, sauf le cas de réduction, ainsi qu'il est expliqué aux articles 926 et 927.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code civil - art. 926 (M)
+	  - Code civil - art. 927 (M)
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+#### Section 5 : Du legs à titre universel.
+
+###### Article 1010
+
+Le legs à titre universel est celui par lequel le testateur lègue une quote-part des biens dont la loi lui permet de
+disposer, telle qu'une moitié, un tiers, ou tous ses immeubles, ou tout son mobilier, ou une quotité fixe de tous ses
+immeubles ou de tout son mobilier.
+
+Tout autre legs ne forme qu'une disposition à titre particulier.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 1011
+
+Les légataires à titre universel seront tenus de demander la délivrance aux héritiers auxquels une quotité des biens est
+réservée par la loi ; à leur défaut, aux légataires universels et, à défaut de ceux-ci, aux héritiers appelés dans l'ordre
+établi au titre " Des successions ".
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code civil - art. 1014 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 1012
+
+Le légataire à titre universel sera tenu, comme le légataire universel, des dettes et charges de la succession du testateur,
+personnellement pour sa part et portion, et hypothécairement pour le tout.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 1013
+
+Lorsque le testateur n'aura disposé que d'une quotité de la portion disponible, et qu'il l'aura fait à titre universel, ce
+légataire sera tenu d'acquitter les legs particuliers par contribution avec les héritiers naturels.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+#### Section 6 : Des legs particuliers.
+
+###### Article 1014
+
+Tout legs pur et simple donnera au légataire, du jour du décès du testateur, un droit à la chose léguée, droit transmissible
+à ses héritiers ou ayants cause.
+
+Néanmoins le légataire particulier ne pourra se mettre en possession de la chose léguée, ni en prétendre les fruits ou
+intérêts, qu'à compter du jour de sa demande en délivrance, formée suivant l'ordre établi par l'article 1011, ou du jour
+auquel cette délivrance lui aurait été volontairement consentie.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code civil - art. 1011 (M)
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 1015
+
+Les intérêts ou fruits de la chose léguée courront au profit du légataire, dès le jour du décès, et sans qu'il ait formé sa
+demande en justice :
+
+1° Lorsque le testateur aura expressément déclaré sa volonté, à cet égard, dans le testament ;
+
+2° Lorsqu'une rente viagère ou une pension aura été léguée à titre d'aliments.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 1016
+
+Les frais de la demande en délivrance seront à la charge de la succession, sans néanmoins qu'il puisse en résulter de
+réduction de la réserve légale.
+
+Les droits d'enregistrement seront dus par le légataire.
+
+Le tout, s'il n'en a été autrement ordonné par le testament.
+
+Chaque legs pourra être enregistré séparément, sans que cet enregistrement puisse profiter à aucun autre qu'au légataire ou à
+ses ayants cause.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 1017
+
+Les héritiers du testateur, ou autres débiteurs d'un legs, seront personnellement tenus de l'acquitter, chacun au prorata de
+la part et portion dont ils profiteront dans la succession.
+
+Ils en seront tenus hypothécairement pour le tout, jusqu'à concurrence de la valeur des immeubles de la succession dont ils
+seront détenteurs.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code civil - art. 2121 (T)
+	  - Code civil - art. 2400 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 1018
+
+La chose léguée sera délivrée avec les accessoires nécessaires et dans l'état où elle se trouvera au jour du décès du
+donateur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 1019
+
+Lorsque celui qui a légué la propriété d'un immeuble, l'a ensuite augmentée par des acquisitions, ces acquisitions, fussent-
+elles contiguës, ne seront pas censées, sans une nouvelle disposition, faire partie du legs.
+
+Il en sera autrement des embellissements, ou des constructions nouvelles faites sur le fonds légué, ou d'un enclos dont le
+testateur aurait augmenté l'enceinte.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 1020
+
+Si, avant le testament ou depuis, la chose léguée a été hypothéquée pour une dette de la succession, ou même pour la dette
+d'un tiers, ou si elle est grevée d'un usufruit, celui qui doit acquitter le legs n'est point tenu de la dégager, à moins
+qu'il n'ait été chargé de le faire par une disposition expresse du testateur.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code civil - art. 611 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 1021
+
+Lorsque le testateur aura légué la chose d'autrui, le legs sera nul, soit que le testateur ait connu ou non qu'elle ne lui
+appartenait pas.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 1022
+
+Lorsque le legs sera d'une chose indéterminée, l'héritier ne sera pas obligé de la donner de la meilleure qualité, et il ne
+pourra l'offrir de la plus mauvaise.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 1023
+
+Le legs fait au créancier ne sera pas censé en compensation de sa créance, ni le legs fait au domestique en compensation de
+ses gages.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 1024
+
+Le légataire à titre particulier ne sera point tenu des dettes de la succession, sauf la réduction du legs ainsi qu'il est
+dit ci-dessus, et sauf l'action hypothécaire des créanciers.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+#### Section 7 : Des exécuteurs testamentaires.
+
+###### Article 1025
+
+Le testateur pourra nommer un ou plusieurs exécuteurs testamentaires.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code civil - art. 813-2 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 1026
+
+Il pourra leur donner la saisine du tout ou seulement d'une partie de son mobilier ; mais elle ne pourra durer au-delà de
+l'an et jour à compter de son décès.
+
+S'il ne la leur a pas donnée, ils ne pourront l'exiger.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 1381 (VD)
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 1027
+
+L'héritier pourra faire cesser la saisine en offrant de remettre aux exécuteurs testamentaires somme suffisante pour le
+paiement des legs mobiliers ou en justifiant de ce paiement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 1028
+
+Celui qui ne peut s'obliger, ne peut pas être exécuteur testamentaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 1030
+
+Le mineur ne pourra être exécuteur testamentaire même avec l'autorisation de son tuteur ou curateur.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code civil - art. 1030-2 (VD)
+	  - Code civil - art. 1031 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 1031
+
+Les exécuteurs testamentaires feront apposer les scellés s'il y a des héritiers mineurs, majeurs en tutelle ou absents.
+
+Ils feront faire, en présence de l'héritier présomptif, ou lui dûment appelé, l'inventaire des biens de la succession.
+
+Ils provoqueront la vente du mobilier, à défaut de deniers suffisants pour acquitter les legs.
+
+Ils veilleront à ce que le testament soit exécuté ; et ils pourront, en cas de contestation sur son exécution, intervenir
+pour en soutenir la validité.
+
+Ils devront, à l'expiration de l'année du décès du testateur, rendre compte de leur gestion.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+	**Cité par**:
+
+	  - Nouveau code de procédure civile - art. 1379 (V)
+
+
+###### Article 1032
+
+Les pouvoirs de l'exécuteur testamentaire ne passeront point à ses héritiers.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 1033
+
+S'il y a plusieurs exécuteurs testamentaires qui aient accepté, un seul pourra agir au défaut des autres ; et ils seront
+solidairement responsables du compte du mobilier qui leur a été confié, à moins que le testateur n'ait divisé leurs
+fonctions, et que chacun d'eux ne se soit renfermé dans celle qui lui était attribuée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 1034
+
+Les frais faits par l'exécuteur testamentaire pour l'apposition des scellés, l'inventaire, le compte et les autres frais
+relatifs à ses fonctions seront à la charge de la succession.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+#### Section 8 : De la révocation des testaments et de leur caducité.
+
+###### Article 1035
+
+Les testaments ne pourront être révoqués, en tout ou en partie, que par un testament postérieur ou par un acte devant
+notaires portant déclaration du changement de volonté.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°55-22 du 4 janvier 1955 - art. 30 (VD)
+	  - Loi du 16 mars 1803 - art. 10 (Ab)
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 1036
+
+Les testaments postérieurs, qui ne révoqueront pas d'une manière expresse les précédents, n'annuleront, dans ceux-ci, que
+celles des dispositions y contenues qui se trouveront incompatibles avec les nouvelles ou qui seront contraires.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 1037
+
+La révocation faite dans un testament postérieur aura tout son effet, quoique ce nouvel acte reste sans exécution par
+l'incapacité de l'héritier institué ou du légataire, ou par leur refus de recueillir.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 1038
+
+Toute aliénation, celle même par vente avec faculté de rachat ou par échange, que fera le testateur de tout ou de partie de
+la chose léguée, emportera la révocation du legs pour tout ce qui a été aliéné, encore que l'aliénation postérieure soit
+nulle, et que l'objet soit rentré dans la main du testateur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 1039
+
+Toute disposition testamentaire sera caduque si celui en faveur de qui elle est faite n'a pas survécu au testateur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 1040
+
+Toute disposition testamentaire faite sous une condition dépendante d'un événement incertain, et telle que, dans l'intention
+du testateur, cette disposition ne doive être exécutée qu'autant que l'événement arrivera ou n'arrivera pas, sera caduque, si
+l'héritier institué ou le légataire décède avant l'accomplissement de la condition.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 1041
+
+La condition qui, dans l'intention du testateur, ne fait que suspendre l'exécution de la disposition, n'empêchera pas
+l'héritier institué, ou le légataire, d'avoir un droit acquis et transmissible à ses héritiers.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 1042
+
+Le legs sera caduc si la chose léguée a totalement péri pendant la vie du testateur.
+
+Il en sera de même si elle a péri depuis sa mort, sans le fait et la faute de l'héritier, quoique celui-ci ait été mis en
+retard de la délivrer, lorsqu'elle eût également dû périr entre les mains du légataire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 1043
+
+La disposition testamentaire sera caduque lorsque l'héritier institué ou le légataire la répudiera ou se trouvera incapable
+de la recueillir.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 1044
+
+Il y aura lieu à accroissement au profit des légataires dans le cas où le legs sera fait à plusieurs conjointement.
+
+Le legs sera réputé fait conjointement lorsqu'il le sera par une seule et même disposition et que le testateur n'aura pas
+assigné la part de chacun des colégataires dans la chose léguée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 1045
+
+Il sera encore réputé fait conjointement quand une chose qui n'est pas susceptible d'être divisée sans détérioration aura été
+donnée par le même acte à plusieurs personnes, même séparément.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 1046
+
+Les mêmes causes qui, suivant l'article 954 et les deux premières dispositions de l'article 955, autoriseront la demande en
+révocation de la donation entre vifs, seront admises pour la demande en révocation des dispositions testamentaires.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code civil - art. 954 (M)
+	  - Code civil - art. 955 (M)
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 1047
+
+Si cette demande est fondée sur une injure grave faite à la mémoire du testateur, elle doit être intentée dans l'année, à
+compter du jour du délit.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+### Chapitre VI : Des dispositions permises en faveur des petits-enfants du donateur ou testateur, ou des enfants de ses frères et soeurs.
+
+###### Article 1048
+
+Les biens dont les père et mère ont la faculté de disposer pourront être par eux donnés, en tout ou en partie, à un ou
+plusieurs de leurs enfants, par actes entre vifs ou testamentaires, avec la charge de rendre ces biens aux enfants nés et à
+naître, au premier degré seulement, desdits donataires.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi du 1er juin 1924 - art. 38 (V)
+	  - Décret n°2009-1193 du 7 octobre 2009 - art. 4 (V)
+	  - Code général des impôts, CGI. - art. 752 (V)
+	  - Code général des impôts, CGI. - art. 784 C (V)
+	  - Code général des impôts, CGI. - art. 791 bis (T)
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 1049
+
+Sera valable, en cas de mort sans enfants, la disposition que le défunt aura faite par acte entre vifs ou testamentaire, au
+profit d'un ou plusieurs de ses frères ou soeurs, de tout ou partie des biens qui ne sont point réservés par la loi dans sa
+succession, avec la charge de rendre ces biens aux enfants nés et à naître, au premier degré seulement, desdits frères ou
+soeurs donataires.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code civil - art. 1061 (V)
+	  - Loi du 1er juin 1924 - art. 38 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 1050
+
+Les dispositions permises par les deux articles précédents ne seront valables qu'autant que la charge de restitution sera au
+profit de tous les enfants nés et à naître du grevé, sans exception ni préférence d'âge ou de sexe.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 1051
+
+Si, dans les cas ci-dessus, le grevé de restitution au profit de ses enfants meurt, laissant des enfants au premier degré et
+des descendants d'un enfant prédécédé, ces derniers recueilleront, par représentation, la portion de l'enfant prédécédé.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code civil - art. 1061 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 1052
+
+Si l'enfant, le frère ou la soeur auxquels des biens auraient été donnés par acte entre vifs, sans charge de restitution,
+acceptent une nouvelle libéralité faite par acte entre vifs ou testamentaire, sous la condition que les biens précédemment
+donnés demeureront grevés de cette charge, il ne leur est plus permis de diviser les deux dispositions faites à leur profit,
+et de renoncer à la seconde pour s'en tenir à la première, quand même ils offriraient de rendre les biens compris dans la
+seconde disposition.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code civil - art. 1061 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 1053
+
+Les droits des appelés seront ouverts à l'époque où, par quelque cause que ce soit, la jouissance de l'enfant, du frère ou de
+la soeur, grevés de restitution, cessera : l'abandon anticipé de la jouissance au profit des appelés ne pourra préjudicier
+aux créanciers du grevé antérieurs à l'abandon.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 1054
+
+Les femmes des grevés ne pourront avoir, sur les biens à rendre, de recours subsidiaire, en cas d'insuffisance des biens
+libres, que pour le capital des deniers dotaux, et dans le cas seulement où le testateur l'aurait expressément ordonné.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 1056
+
+A défaut de ce tuteur, il en sera nommé un, à la diligence du grevé ou de son tuteur s'il est mineur, dans le délai d'un mois
+à compter du jour du décès du donateur ou testateur, ou du jour que, depuis cette mort, l'acte contenant la disposition aura
+été connu.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code civil - art. 1051 (V)
+	  - Code civil - art. 1057 (M)
+	  - Code civil - art. 1061 (V)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code civil - art. 1057 (M)
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 1057
+
+Le grevé qui n'aura pas satisfait à l'article précédent sera déchu du bénéfice de la disposition ; et, dans ce cas, le droit
+pourra être déclaré ouvert au profit des appelés, à la diligence soit des appelés s'ils sont majeurs, soit de leur tuteur ou
+curateur, s'ils sont mineurs ou majeurs en tutelle, soit de tout parent des appelés majeurs, mineurs ou majeurs en tutelle,
+ou même d'office, à la diligence du procureur de la République près le tribunal de grande instance du lieu où la succession
+est ouverte.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code civil - art. 1056 (M)
+
+	**Cite**:
+
+	  - Code civil - art. 1056 (M)
+
+	**Cité par**:
+
+	  - Code civil - art. 1061 (M)
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 1058
+
+Après le décès de celui qui aura disposé à la charge de restitution, il sera procédé, dans les formes ordinaires, à
+l'inventaire de tous les biens et effets qui composeront sa succession, excepté néanmoins le cas où il ne s'agirait que d'un
+legs particulier. Cet inventaire contiendra la prisée à juste prix des meubles et effets mobiliers.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 1059
+
+Il sera fait à la requête du grevé de restitution, et dans le délai fixé au titre Des successions, en présence du tuteur
+nommé pour l'exécution. Les frais seront pris sur les biens compris dans la disposition.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 1060
+
+Si l'inventaire n'a pas été fait à la requête du grevé dans le délai ci-dessus, il y sera procédé dans le mois suivant, à la
+diligence du tuteur nommé pour l'exécution, en présence du grevé ou de son tuteur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 1061
+
+S'il n'a point été satisfait aux deux articles précédents, il sera procédé au même inventaire, à la diligence des personnes
+désignées en l'article 1057, en y appelant le grevé ou son tuteur, et le tuteur nommé pour l'exécution.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code civil - art. 1057 (M)
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 1062
+
+Le grevé de restitution sera tenu de faire procéder à la vente, par affiches et enchères, de tous les meubles et effets
+compris dans la disposition, à l'exception néanmoins de ceux dont il est mention dans les deux articles suivants.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+	**Abrogé par**:
+
+	  - Loi n°2006-728 du 23 juin 2006 - art. 20 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+
+###### Article 1063
+
+Les meubles meublants et autres choses mobilières qui auraient été compris dans la disposition, à la condition expresse de
+les conserver en nature, seront rendus dans l'état où il se trouveront lors de la restitution.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+	**Abrogé par**:
+
+	  - Loi n°2006-728 du 23 juin 2006 - art. 20 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+
+###### Article 1064
+
+Les bestiaux et ustensiles servant à faire valoir les terres, seront censés compris dans les donations entre vifs ou
+testamentaires desdites terres ; et le grevé sera seulement tenu de les faire priser et estimer pour en rendre une valeur
+égale lors de la restitution.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+	**Abrogé par**:
+
+	  - Loi n°2006-728 du 23 juin 2006 - art. 20 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+
+###### Article 1065
+
+Il sera fait par le grevé, dans le délai de six mois à compter du jour de la clôture de l'inventaire, un emploi des deniers
+comptants, de ceux provenant du prix des meubles et effets qui auront été vendus, et de ce qui aura été reçu des effets
+actifs.
+
+Ce délai pourra être prolongé, s'il y a lieu.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+	**Abrogé par**:
+
+	  - Loi n°2006-728 du 23 juin 2006 - art. 20 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+
+###### Article 1066
+
+Le grevé sera pareillement tenu de faire emploi des deniers provenant des effets actifs qui seront recouvrés et des
+remboursements de rentes ; et ce, dans trois mois au plus tard après qu'il aura reçu ces deniers.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+	**Abrogé par**:
+
+	  - Loi n°2006-728 du 23 juin 2006 - art. 20 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+
+###### Article 1067
+
+Cet emploi sera fait conformément à ce qui aura été ordonné par l'auteur de la disposition, s'il a désigné la nature des
+effets dans lesquels l'emploi doit être fait ; sinon, il ne pourra l'être qu'en immeubles, ou avec privilège sur des
+immeubles.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+	**Abrogé par**:
+
+	  - Loi n°2006-728 du 23 juin 2006 - art. 20 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+
+###### Article 1068
+
+L'emploi ordonné par les articles précédents sera fait en présence et à la diligence du tuteur nommé pour l'exécution.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+	**Abrogé par**:
+
+	  - Loi n°2006-728 du 23 juin 2006 - art. 20 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+
+###### Article 1074
+
+Si le grevé est mineur, il ne pourra, dans le cas même de l'insolvabilité de son tuteur, être restitué contre l'inexécution
+des règles qui lui sont prescrites par les articles du présent chapitre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+	**Abrogé par**:
+
+	  - Loi n°2006-728 du 23 juin 2006 - art. 20 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+
+
+### Chapitre VIII : Des donations faites par contrat de mariage aux époux, et aux enfants à naître du mariage.
+
+###### Article 1081
+
+Toute donation entre vifs de biens présents, quoique faite par contrat de mariage aux époux, ou à l'un d'eux, sera soumise
+aux règles générales prescrites pour les donations faites à ce titre.
+
+Elle ne pourra avoir lieu au profit des enfants à naître, si ce n'est dans les cas énoncés au chapitre VI du présent titre.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 1082
+
+Les père et mère, les autres ascendants, les parents collatéraux des époux, et même les étrangers, pourront, par contrat de
+mariage, disposer de tout ou partie des biens qu'ils laisseront au jour de leur décès, tant au profit desdits époux, qu'au
+profit des enfants à naître de leur mariage, dans le cas où le donateur survivrait à l'époux donataire.
+
+Pareille donation, quoique faite au profit seulement des époux ou de l'un d'eux, sera toujours, dans ledit cas de survie du
+donateur, présumée faite au profit des enfants et descendants à naître du mariage.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code civil - art. 1083 (V)
+	  - Code civil - art. 1089 (V)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code civil - art. 1089 (M)
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 1083
+
+La donation dans la forme portée au précédent article sera irrévocable en ce sens seulement que le donateur ne pourra plus
+disposer, à titre gratuit, des objets compris dans la donation, si ce n'est pour sommes modiques, à titre de récompense ou
+autrement.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code civil - art. 1082 (M)
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 1084
+
+La donation par contrat de mariage pourra être faite cumulativement des biens présents et à venir, en tout ou partie, à la
+charge qu'il sera annexé à l'acte un état des dettes et charges du donateur existantes au jour de la donation ; auquel cas,
+il sera libre au donataire, lors du décès du donateur, de s'en tenir aux biens présents, en renonçant au surplus des biens du
+donateur.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code civil - art. 1085 (V)
+	  - Code civil - art. 1089 (V)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code civil - art. 1089 (M)
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 1085
+
+Si l'état dont est mention au précédent article n'a point été annexé à l'acte contenant donation des biens présents et à
+venir, le donataire sera obligé d'accepter ou de répudier cette donation pour le tout. En cas d'acceptation, il ne pourra
+réclamer que les biens qui se trouveront existants au jour du décès du donateur, et il sera soumis au paiement de toutes les
+dettes et charges de la succession.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code civil - art. 1084 (M)
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 1086
+
+La donation par contrat de mariage en faveur des époux et des enfants à naître de leur mariage pourra encore être faite, à
+condition de payer indistinctement toutes les dettes et charges de la succession du donateur, ou sous d'autres conditions
+dont l'exécution dépendrait de sa volonté, par quelque personne que la donation soit faite : le donataire sera tenu
+d'accomplir ces conditions, s'il n'aime mieux renoncer à la donation ; et en cas que le donateur, par contrat de mariage, se
+soit réservé la liberté de disposer d'un effet compris dans la donation de ses biens présents, ou d'une somme fixe à prendre
+sur ces mêmes biens, l'effet ou la somme, s'il meurt sans en avoir disposé, seront censés compris dans la donation et
+appartiendront au donataire ou à ses héritiers.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code civil - art. 1089 (M)
+
+	**Cité par**:
+
+	  - Code civil - art. 1089 (V)
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 1087
+
+Les donations faites par contrat de mariage ne pourront être attaquées ni déclarées nulles sous prétexte de défaut
+d'acceptation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 1088
+
+Toute donation faite en faveur du mariage sera caduque si le mariage ne s'ensuit pas.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 1089
+
+Les donations faites à l'un des époux, dans les termes des articles 1082, 1084 et 1086 ci-dessus, deviendront caduques si le
+donateur survit à l'époux donataire et à sa postérité.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code civil - art. 1082 (M)
+	  - Code civil - art. 1084 (M)
+	  - Code civil - art. 1086 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code civil - art. 1082 (V)
+	  - TXT_ASSOCIE: Code civil - art. 1084 (V)
+	  - TXT_ASSOCIE: Code civil - art. 1086 (V)
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 1090
+
+Toutes donations faites aux époux par leur contrat de mariage seront, lors de l'ouverture de la succession du donateur,
+réductibles à la portion dont la loi lui permettait de disposer.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+### Chapitre IX : Des dispositions entre époux, soit par contrat de mariage, soit pendant le mariage.
+
+###### Article 1091
+
+Les époux pourront, par contrat de mariage, se faire réciproquement, ou l'un des deux à l'autre, telle donation qu'ils
+jugeront à propos, sous les modifications ci-après exprimées.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 1092
+
+Toute donation entre vifs de biens présents, faite entre époux par contrat de mariage, ne sera point censée faite sous la
+condition de survie du donataire, si cette condition n'est formellement exprimée ; et elle sera soumise à toutes les règles
+et formes ci-dessus prescrites pour ces sortes de donations.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 1093
+
+La donation de biens à venir, ou de biens présents et à venir, faite entre époux par contrat de mariage, soit simple, soit
+réciproque, sera soumise aux règles établies par le chapitre précédent, à l'égard des donations pareilles qui leur seront
+faites par un tiers, sauf qu'elle ne sera point transmissible aux enfants issus du mariage, en cas de décès de l'époux
+donataire avant l'époux donateur.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 1095
+
+Le mineur ne pourra, par contrat de mariage, donner à l'autre époux, soit par donation simple, soit par donation réciproque,
+qu'avec le consentement et l'assistance de ceux dont le consentement est requis pour la validité de son mariage ; et, avec ce
+consentement, il pourra donner tout ce que la loi permet à l'époux majeur de donner à l'autre conjoint.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+## Titre II : Des donations entre vifs et des testaments
+
+### Chapitre II : De la capacité de disposer ou de recevoir par donation entre vifs ou par testament.
+
+###### Article 905
+
+(article abrogé).
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 910
+
+Les dispositions entre vifs ou par testament, au profit des hospices, des pauvres d'une commune, ou d'établissements
+d'utilité publique, n'auront leur effet qu'autant qu'elles seront autorisées par une ordonnance royale (un décret).
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi du 4 février 1901 - art. 10 (V)
+	  - Loi du 1er juillet 1901 - art. 11 (V)
+	  - Loi n°1905-12-09 du 9 décembre 1905 - art. 19 (V)
+	  - Décret n°2004-22 du 7 janvier 2004 - art. ANNEXE I (Ab)
+	  - Décret n°2007-807 du 11 mai 2007 - art. 1 (V)
+	  - Décret n°2007-807 du 11 mai 2007 - art. 2 (VD)
+	  - Décret n°2007-807 du 11 mai 2007 - art. 4 (VD)
+	  - Loi n°2008-776 du 4 août 2008 - art. 140 (VD)
+	  - Loi n°2009-526 du 12 mai 2009 - art. 111 (V)
+	  - Décret n°2010-395 du 20 avril 2010 - art. (V)
+	  - Décret n°2012-377  du 19 mars 2012 (V)
+	  - Décret n°2014-579 du 4 juin 2014 (V)
+	  - Décret n°2015-532 du 13 mai 2015 - art. (VD)
+	  - Décret n°2015-807 du 1er juillet 2015 (V)
+	  - Décret n°2017-908 du 6 mai 2017 (V)
+	  - Code civil - art. 937 (V)
+	  - Code de la santé publique - art. Annexe I aux articles R668-1-1 à R668-21 (Ab)
+	  - Code de la santé publique - art. R6141-63 (V)
+	  - Loi du 2 janvier 1817 - art. 1 (Ab)
+	  - Loi du 24 mai 1825 - art. 4 (Ab)
+	  - Ordonnance n°1817-04-02 du 2 avril 1817 - art. 1 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+	**Liens**:
+
+	  - TXT_SOURCE: Ordonnance n°1817-04-02 du 2 avril 1817
+	  - TXT_SOURCE: Ordonnance n°1817-04-02 du 2 avril 1817 - art. 1 (V)
+	  - TXT_SOURCE: Ordonnance n°1817-04-02 du 2 avril 1817 - art. 3 (V)
+	  - TXT_SOURCE: Ordonnance n°1817-04-02 du 2 avril 1817 - art. 4 (V)
+	  - TXT_SOURCE: Ordonnance n°1817-04-02 du 2 avril 1817 - art. 5 (V)
+	  - TXT_SOURCE: Ordonnance n°1817-04-02 du 2 avril 1817 - art. 7 (V)
+
+
+###### Article 912
+
+(article abrogé).
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+### Chapitre III : De la portion de biens disponible, et de la réduction
+
+#### Section 1 : De la portion de biens disponible.
+
+###### Article 916
+
+A défaut d'ascendants et de descendants, les libéralités par actes entre vifs ou testamentaires pourront épuiser la totalité
+des biens.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+### Chapitre IV : Des donations entre vifs
+
+#### Section 1 : De la forme des donations entre vifs.
+
+###### Article 934
+
+(article abrogé).
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+#### Section 1 : De la forme des donations entre vifs.
+
+###### Article 937
+
+Les donations faites au profit d'hospices, des pauvres d'une commune ou d'établissements d'utilité publique, seront acceptées
+par les administrateurs de ces communes ou établissements, après y avoir été dûment autorisés.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°2009-526 du 12 mai 2009 - art. 111 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+#### Section 2 : Des exceptions à la règle de l'irrévocabilité des donations entre vifs.
+
+###### Article 960
+
+Toutes donations entre vifs faites par personnes qui n'avaient point d'enfants ou de descendants actuellement vivants dans le
+temps de la donation, de quelque valeur que ces donations puissent être, et à quelque titre qu'elles aient été faites, et
+encore qu'elles fussent mutuelles ou rémunératoires, même celles qui auraient été faites en faveur de mariage par autres que
+par les ascendants aux conjoints, ou par les conjoints l'un à l'autre, demeureront révoquées de plein droit par la survenance
+d'un enfant légitime du donateur, même d'un posthume, ou par la légitimation d'un enfant naturel par mariage subséquent, s'il
+est né depuis la donation.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret du 18 novembre 1924 - art. 25 (Ab)
+	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 20 (V)
+	  - Code civil - art. 964 (V)
+	  - Code de commerce - art. A444-163-6 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 962
+
+La donation demeurera pareillement révoquée lors même que le donataire serait entré en possession des biens donnés, et qu'il
+y aurait été laissé par le donateur depuis la survenance de l'enfant ; sans néanmoins que le donataire soit tenu de restituer
+les fruits par lui perçus, de quelque nature qu'ils soient, si ce n'est du jour que la naissance de l'enfant ou sa
+légitimation par mariage subséquent lui aura été notifiée par exploit ou autre acte en bonne forme ; et ce, quand même la
+demande pour rentrer dans les biens donnés n'aurait été formée que postérieurement à cette notification.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+	**Cité par**:
+
+	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 20 (V)
+
+
+### Chapitre V : Des dispositions testamentaires
+
+#### Section 7 : Des exécuteurs testamentaires.
+
+###### Article 1029
+
+(article abrogé).
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+### Chapitre IX : Des dispositions entre époux, soit par contrat de mariage, soit pendant le mariage.
+
+###### Article 1099
+
+Les époux ne pourront se donner indirectement au-delà de ce qui leur est permis par les dispositions ci-dessus.
+
+Toute donation, ou déguisée, ou faite à personnes interposées, sera nulle.
+
+**Nota:**
+
+NOTA : La loi 2004-439 du 26 mai 2004 entrera en vigueur le 1er janvier 2005 sauf pour les exceptions citées par l'article 33
+II.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 1100
+
+Seront réputées faites à personnes interposées, les donations de l'un des époux aux enfants ou à l'un des enfants de l'autre
+époux issus d'un autre mariage, et celles faites par le donateur aux parents dont l'autre époux sera héritier présomptif au
+jour de la donation, encore que ce dernier n'ait point survécu à son parent donataire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+	**Abrogé par**:
+
+	  - Loi n°2002-305 du 4 mars 2002 - art. 10 () JORF 5 mars 2002
+
+	**Cité par**:
+
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 751 (M)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 773 (M)
+	  - Code général des impôts, CGI. - art. 752 (V)
 
 

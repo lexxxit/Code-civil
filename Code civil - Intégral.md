@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 2005-02-18
+Version Consolidée au 2005-05-07
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -46011,10 +46011,6 @@ Si l'acte de mariage mentionne qu'il n'a pas été fait de contrat, les époux s
 le régime de droit commun, à moins que, dans les actes passés avec ces tiers, ils n'aient déclaré avoir fait un contrat de
 mariage.
 
-En outre, si l'un des époux est commerçant lors du mariage ou le devient ultérieurement, le contrat de mariage et ses
-modifications doivent être publiés, à son initiative et sous sa seule responsabilité, dans les conditions et sous les
-sanctions prévues par les dispositions législatives et réglementaires relatives au registre du commerce et des sociétés.
-
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -46023,7 +46019,7 @@ sanctions prévues par les dispositions législatives et réglementaires relativ
 
 	**Modifié par**:
 
-	  - Loi n°94-126 du 11 février 1994 - art. 16 () JORF 13 février 1994
+	  - Ordonnance n°2005-428 du 6 mai 2005 - art. 7 () JORF 7 mai 2005
 
 	**Cité par**:
 
@@ -46081,8 +46077,7 @@ modifié leur régime matrimonial.
 Il sera fait mention du jugement d'homologation sur la minute du contrat de mariage modifié.
 
 La demande et la décision d'homologation doivent être publiées dans les conditions et sous les sanctions prévues au code de
-procédure civile ; en outre, si l'un des époux est commerçant, la décision est publiée dans les conditions et sous les
-sanctions prévues par les règlements relatifs au registre du commerce.
+procédure civile.
 
 Les créanciers, s'il a été fait fraude à leurs droits, pourront former tierce opposition contre le jugement d'homologation
 dans les conditions du code de procédure civile.
@@ -46104,9 +46099,9 @@ dans les conditions du code de procédure civile.
 	  - Code de procédure civile - art. 1300-3 (V)
 	  - Loi du 16 mars 1803 - art. 10 (Ab)
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Code civil - art. 1397-1 (M)
+	  - Ordonnance n°2005-428 du 6 mai 2005 - art. 8 () JORF 7 mai 2005
 
 
 ###### Article 1397-1
@@ -46182,10 +46177,6 @@ S'ils ont passé un contrat de mariage, mention de la loi applicable ainsi dési
 A l'occasion de la désignation de la loi applicable, avant le mariage ou au cours de celui-ci, les époux peuvent désigner la
 nature du régime matrimonial choisi par eux.
 
-Si l'un des époux est commerçant lors du mariage ou le devient ultérieurement, l'acte de désignation de la loi applicable
-passé avant le mariage ou au cours de celui-ci est publié dans les conditions et sous les sanctions prévues par les
-dispositions relatives au registre du commerce et des sociétés.
-
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -46207,9 +46198,9 @@ dispositions relatives au registre du commerce et des sociétés.
 	  - Code civil - art. 1397-4 (V)
 	  - Nouveau code de procédure civile - art. 1303-1 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°97-987 du 28 octobre 1997 - art. 2 () JORF 29 octobre 1997
+	  - Ordonnance n°2005-428 du 6 mai 2005 - art. 9 () JORF 7 mai 2005
 
 
 ###### Article 1397-4
@@ -47256,7 +47247,7 @@ tribunal statuant dans la forme des référés.
 ###### Article 1445
 
 La demande et le jugement de séparation de biens doivent être publiés dans les conditions et sous les sanctions prévues par
-le code de procédure civile, ainsi que par les règlements relatifs au commerce si l'un des époux est commerçant.
+le code de procédure civile.
 
 Le jugement qui prononce la séparation de biens remonte, quant à ses effets, au jour de la demande.
 
@@ -47267,6 +47258,10 @@ Il sera fait mention du jugement en marge de l'acte de mariage ainsi que sur la 
 	**Codifié par**:
 
 	  - Loi n°65-570 1965-07-13
+
+	**Modifié par**:
+
+	  - Ordonnance n°2005-428 du 6 mai 2005 - art. 10 () JORF 7 mai 2005
 
 	**Cité par**:
 

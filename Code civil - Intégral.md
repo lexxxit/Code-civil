@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 2005-05-07
+Version Consolidée au 2005-06-09
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -53384,18 +53384,18 @@ assimilable à celle d'un locateur d'ouvrage.
 ###### Article 1792-2
 
 La présomption de responsabilité établie par l'article 1792 s'étend également aux dommages qui affectent la solidité des
-éléments d'équipement d'un bâtiment, mais seulement lorsque ceux-ci font indissociablement corps avec les ouvrages de
-viabilité, de fondation, d'ossature, de clos ou de couvert.
+éléments d'équipement d'un ouvrage, mais seulement lorsque ceux-ci font indissociablement corps avec les ouvrages de
+viabilité, de fondation, d'ossature, de clos ou de couvert. 
 
-Un élément d'équipement est considéré comme formant indissociablement corps avec l'un des ouvrages mentionnés à l'alinéa
-précédent lorsque sa dépose, son démontage ou son remplacement ne peut s'effectuer sans détérioration ou enlèvement de
-matière de cet ouvrage.
+Un élément d'équipement est considéré comme formant indissociablement corps avec l'un des ouvrages de viabilité, de
+fondation, d'ossature, de clos ou de couvert lorsque sa dépose, son démontage ou son remplacement ne peut s'effectuer sans
+détérioration ou enlèvement de matière de cet ouvrage.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°78-12 du 4 janvier 1978 - art. 2 () JORF 5 janvier 1978 en vigueur le 1er janvier 1979
 
 	**Cité par**:
 
@@ -53420,6 +53420,11 @@ matière de cet ouvrage.
 	  - Code des assurances - art. A243-4 (VD)
 	  - Code des assurances - art. L241-2 (M)
 
+	**Modifié par**:
+
+	  - Ordonnance 2005-658 2005-06-08 art. 1 I, II JORF 9 juin 2005
+	  - Ordonnance n°2005-658 du 8 juin 2005 - art. 1 () JORF 9 juin 2005
+
 	**Cite**:
 
 	  - Code civil - art. 1792 (V)
@@ -53431,14 +53436,18 @@ matière de cet ouvrage.
 
 ###### Article 1792-3
 
-Les autres éléments d'équipement du bâtiment font l'objet d'une garantie de bon fonctionnement d'une durée minimale de deux
-ans à compter de la réception de l'ouvrage.
+Les autres éléments d'équipement de l'ouvrage font l'objet d'une garantie de bon fonctionnement d'une durée minimale de deux
+ans à compter de sa réception.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°78-12 du 4 janvier 1978 - art. 2 () JORF 5 janvier 1978 en vigueur le 1er janvier 1979
+	  - Ordonnance n°2005-658 du 8 juin 2005 - art. 1 () JORF 9 juin 2005
 
 	**Cité par**:
 
@@ -53584,6 +53593,34 @@ La garantie ne s'étend pas aux travaux nécessaires pour remédier aux effets d
 	  - Code de la construction et de l'habitation. - art. L111-30 (V)
 	  - Code des assurances - art. Annexe II art A243-1 (V)
 	  - Code des assurances - art. L242-1 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-07
+
+
+###### Article 1792-7
+
+Ne sont pas considérés comme des éléments d'équipement d'un ouvrage au sens des articles 1792, 1792-2, 1792-3 et 1792-4 les
+éléments d'équipement, y compris leurs accessoires, dont la fonction exclusive est de permettre l'exercice d'une activité
+professionnelle dans l'ouvrage.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-658 du 8 juin 2005 - art. 1 () JORF 9 juin 2005
+
+	**Cite**:
+
+	  - Code civil - art. 1792 (V)
+	  - Code civil - art. 1792-2 (V)
+	  - Code civil - art. 1792-3 (V)
+	  - Code civil - art. 1792-4 (V)
 
 	**Codifié par**:
 
@@ -68305,6 +68342,38 @@ contre un mineur, l'action en responsabilité civile est prescrite par vingt ans
 	**Modifié par**:
 
 	  - Loi n°98-468 du 17 juin 1998 - art. 43 () JORF 16 juin 1998
+
+
+###### Article 2270-2
+
+Les actions en responsabilité dirigées contre un sous-traitant en raison de dommages affectant un ouvrage ou des éléments
+d'équipement d'un ouvrage mentionnés aux articles 1792 et 1792-2 se prescrivent par dix ans à compter de la réception des
+travaux et, pour les dommages affectant ceux des éléments d'équipement de l'ouvrage mentionnés à l'article 1792-3, par deux
+ans à compter de cette même réception.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TRANSFERE: Loi n°2008-561 du 17 juin 2008 - art. 1
+
+	**Cite**:
+
+	  - Code civil - art. 1792 (V)
+	  - Code civil - art. 1792-2 (M)
+	  - Code civil - art. 1792-3 (M)
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 1792-4-2 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-15
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-658 du 8 juin 2005 - art. 2 () JORF 9 juin 2005
 
 
 #### Section 4 : De quelques prescriptions particulières.

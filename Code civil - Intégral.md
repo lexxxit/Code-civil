@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 2005-06-09
+Version Consolidée au 2005-06-17
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -43747,15 +43747,19 @@ les point connaître, la vérification en est ordonnée en justice.
 
 ###### Article 1325
 
-Les actes sous seing privé qui contiennent des conventions synallagmatiques, ne sont valables qu'autant qu'ils ont été faits
-en autant d'originaux qu'il y a de parties ayant un intérêt distinct.
+Les actes sous seing privé qui contiennent des conventions synallagmatiques ne sont valables qu'autant qu'ils ont été faits
+en autant d'originaux qu'il y a de parties ayant un intérêt distinct. 
 
-Il suffit d'un original pour toutes les personnes ayant le même intérêt.
+Il suffit d'un original pour toutes les personnes ayant le même intérêt. 
 
-Chaque original doit contenir la mention du nombre des originaux qui en ont été faits.
+Chaque original doit contenir la mention du nombre des originaux qui en ont été faits. 
 
-Néanmoins le défaut de mention que les originaux ont été faits doubles, triples, etc., ne peut être opposé par celui qui a
+Néanmoins, le défaut de mention que les originaux ont été faits doubles, triples, etc., ne peut être opposé par celui qui a
 exécuté de sa part la convention portée dans l'acte.
+
+L'exigence d'une pluralité d'originaux est réputée satisfaite pour les contrats sous forme électronique lorsque l'acte est
+établi et conservé conformément aux articles 1316-1 et 1316-4 et que le procédé permet à chaque partie de disposer d'un
+exemplaire ou d'y avoir accès.
 
 **Liens relatifs à cet article**
 
@@ -43769,7 +43773,12 @@ exécuté de sa part la convention portée dans l'acte.
 
 	**Modifié par**:
 
-	  - Loi n°2000-230 du 13 mars 2000 - art. 1 () JORF 14 mars 2000
+	  - Ordonnance n°2005-674 du 16 juin 2005 - art. 2 () JORF 17 juin 2005
+
+	**Cite**:
+
+	  - Code civil - art. 1316-1 (V)
+	  - Code civil - art. 1316-4 (V)
 
 
 ###### Article 1326
@@ -44801,7 +44810,103 @@ Le juge doit même, en ce cas, déterminer la somme jusqu'à concurrence de laqu
 
 ### Chapitre VII : Des contrats sous forme électronique.
 
+#### Section 1 : De l'échange d'informations en cas de contrat sous forme électronique.
+
 ###### Article 1369-1
+
+La voie électronique peut être utilisée pour mettre à disposition des conditions contractuelles ou des informations sur des
+biens ou services.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Ordonnance n°2005-674 du 16 juin 2005 - art. 1 () JORF 17 juin 2005
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
+
+	**Cité par**:
+
+	  - Code civil - art. 1369-3 (M)
+	  - Code civil - art. 1369-9 (V)
+	  - Code du tourisme. - art. L211-1 (V)
+	  - Code du tourisme. - art. R211-3-1 (M)
+	  - Code du tourisme. - art. R211-6 (M)
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 1369-4 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+
+###### Article 1369-2
+
+Les informations qui sont demandées en vue de la conclusion d'un contrat ou celles qui sont adressées au cours de son
+exécution peuvent être transmises par courrier électronique si leur destinataire a accepté l'usage de ce moyen.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Ordonnance n°2005-674 du 16 juin 2005 - art. 1 () JORF 17 juin 2005
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
+
+	**Cité par**:
+
+	  - Code civil - art. 1369-3 (M)
+	  - Code civil - art. 1369-9 (V)
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 1369-5 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+
+###### Article 1369-3
+
+Les informations destinées à un professionnel peuvent lui être adressées par courrier électronique, dès lors qu'il a
+communiqué son adresse électronique.
+
+Si ces informations doivent être portées sur un formulaire, celui-ci est mis, par voie électronique, à la disposition de la
+personne qui doit le remplir.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Modifié par**:
+
+	  - Ordonnance n°2005-674 du 16 juin 2005 - art. 1 () JORF 17 juin 2005
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 1369-6 (V)
+
+	**Cité par**:
+
+	  - Code du tourisme. - art. L211-1 (V)
+
+
+#### Section 2 : De la conclusion d'un contrat sous forme électronique.
+
+###### Article 1369-4
 
 Quiconque propose, à titre professionnel, par voie électronique, la fourniture de biens ou la prestation de services, met à
 disposition les conditions contractuelles applicables d'une manière qui permette leur conservation et leur reproduction. Sans
@@ -44825,37 +44930,31 @@ entend, le cas échéant, se soumettre.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°2004-575 2004-06-21 art. 57, art. 58
-
-	**Créé par**:
-
-	  - Loi n°2004-575 du 21 juin 2004 - art. 25 () JORF 22 juin 2004
-
-	**Transféré par**:
-
-	  - Ordonnance n°2005-674 du 16 juin 2005 - art. 1 () JORF 17 juin 2005
-
 	**Cité par**:
 
-	  - Code civil - art. 1369-3 (M)
-	  - Code civil - art. 1369-9 (V)
-	  - Code du tourisme. - art. L211-1 (V)
-	  - Code du tourisme. - art. R211-3-1 (M)
-	  - Code du tourisme. - art. R211-6 (M)
+	  - Décret n°2013-559 du 26 juin 2013 - art. 12 (M)
+	  - Code civil - art. 1369-6 (V)
+	  - Code du tourisme. - art. L211-1 (VD)
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code civil - art. 1369-4 (V)
-	  - Code civil L1369-4
+	  - Code civil - art. 1369-1 (M)
 
 	**Codifié par**:
 
 	  - Loi n°1804-02-07
 
+	**Créé par**:
 
-###### Article 1369-2
+	  - Ordonnance 2005-674 2005-06-16 art. 1 I, III JORF 17 juin 2005
+	  - Ordonnance n°2005-674 du 16 juin 2005 - art. 1 () JORF 17 juin 2005
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
+
+
+###### Article 1369-5
 
 Pour que le contrat soit valablement conclu, le destinataire de l'offre doit avoir eu la possibilité de vérifier le détail de
 sa commande et son prix total, et de corriger d'éventuelles erreurs, avant de confirmer celle-ci pour exprimer son
@@ -44869,41 +44968,71 @@ parties auxquelles ils sont adressés peuvent y avoir accès.
 
 **Liens relatifs à cet article**
 
+	**Créé par**:
+
+	  - Ordonnance 2005-674 2005-06-16 art. 1 I, III JORF 17 juin 2005
+	  - Ordonnance n°2005-674 du 16 juin 2005 - art. 1 () JORF 17 juin 2005
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
+
+	**Anciens textes**:
+
+	  - Code civil - art. 1369-2 (M)
+
+	**Cité par**:
+
+	  - Code civil - art. 1369-6 (V)
+	  - Code de commerce - art. L321-3 (VD)
+
 	**Codifié par**:
 
 	  - Loi n°1804-02-07
 
-	**Liens**:
 
-	  - SPEC_APPLI: Loi n°2004-575 2004-06-21 art. 57, art. 58
+###### Article 1369-6
+
+Il est fait exception aux obligations visées aux 1° à 5° de l'article 1369-4 et aux deux premiers alinéas de l'article 1369-5
+pour les contrats de fourniture de biens ou de prestation de services qui sont conclus exclusivement par échange de courriers
+électroniques. 
+
+Il peut, en outre, être dérogé aux dispositions de l'article 1369-5 et des 1° à 5° de l'article 1369-4 dans les conventions
+conclues entre professionnels.
+
+**Liens relatifs à cet article**
 
 	**Créé par**:
 
-	  - Loi n°2004-575 du 21 juin 2004 - art. 25 () JORF 22 juin 2004
-
-	**Transféré par**:
-
+	  - Ordonnance 2005-674 2005-06-16 art. 1 I, III JORF 17 juin 2005
 	  - Ordonnance n°2005-674 du 16 juin 2005 - art. 1 () JORF 17 juin 2005
 
-	**Cité par**:
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
+
+	**Anciens textes**:
 
 	  - Code civil - art. 1369-3 (M)
-	  - Code civil - art. 1369-9 (V)
 
-	**Nouveaux textes**:
+	**Cite**:
 
+	  - Code civil - art. 1369-4 (V)
 	  - Code civil - art. 1369-5 (V)
-	  - Code civil L1369-5
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
 
 
-###### Article 1369-3
+#### Section 3 : De l'envoi ou de la remise d'un écrit par voie électronique.
 
-Il est fait exception aux obligations visées aux 1° à 5° de l'article 1369-1 et aux deux premiers alinéas de l'article 1369-2
-pour les contrats de fourniture de biens ou de prestation de services qui sont conclus exclusivement par échange de courriers
-électroniques.
+###### Article 1369-7
 
-Il peut, en outre, être dérogé aux dispositions de l'article 1369-2 et des 1° à 5° de l'article 1369-1 dans les conventions
-conclues entre professionnels.
+Une lettre simple relative à la conclusion ou à l'exécution d'un contrat peut être envoyée par courrier électronique.
+
+L'apposition de la date d'expédition résulte d'un procédé électronique dont la fiabilité est présumée, jusqu'à preuve
+contraire, lorsqu'il satisfait à des exigences fixées par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
@@ -44911,31 +45040,124 @@ conclues entre professionnels.
 
 	  - Loi n°1804-02-07
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°2004-575 2004-06-21 art. 57, art. 58
-
 	**Créé par**:
-
-	  - Loi n°2004-575 du 21 juin 2004 - art. 25 () JORF 22 juin 2004
-
-	**Transféré par**:
 
 	  - Ordonnance n°2005-674 du 16 juin 2005 - art. 1 () JORF 17 juin 2005
 
-	**Cite**:
+	**Abrogé par**:
 
-	  - Code civil - art. 1369-1 (M)
-	  - Code civil - art. 1369-2 (M)
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
 
-	**Nouveaux textes**:
 
-	  - Code civil - art. 1369-6 (V)
-	  - Code civil L1369-6
+###### Article 1369-8
+
+Une lettre recommandée relative à la conclusion ou à l'exécution d'un contrat peut être envoyée par courrier électronique à
+condition que ce courrier soit acheminé par un tiers selon un procédé permettant d'identifier le tiers, de désigner
+l'expéditeur, de garantir l'identité du destinataire et d'établir si la lettre a été remise ou non au destinataire.
+
+Le contenu de cette lettre, au choix de l'expéditeur, peut être imprimé par le tiers sur papier pour être distribué au
+destinataire ou peut être adressé à celui-ci par voie électronique. Dans ce dernier cas, si le destinataire n'est pas un
+professionnel, il doit avoir demandé l'envoi par ce moyen ou en avoir accepté l'usage au cours d'échanges antérieurs.
+
+Lorsque l'apposition de la date d'expédition ou de réception résulte d'un procédé électronique, la fiabilité de celui-ci est
+présumée, jusqu'à preuve contraire, s'il satisfait à des exigences fixées par un décret en Conseil d'Etat.
+
+Un avis de réception peut être adressé à l'expéditeur par voie électronique ou par tout autre dispositif lui permettant de le
+conserver.
+
+Les modalités d'application du présent article sont fixées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
 
 	**Cité par**:
 
-	  - Code du tourisme. - art. L211-1 (V)
+	  - Décret n°67-223 du 17 mars 1967 - art. 64-3 (M)
+	  - Décret n°2011-144 du 2 février 2011 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-674 du 16 juin 2005 - art. 1 () JORF 17 juin 2005
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+
+###### Article 1369-9
+
+Hors les cas prévus aux articles 1369-1 et 1369-2, la remise d'un écrit sous forme électronique est effective lorsque le
+destinataire, après avoir pu en prendre connaissance, en a accusé réception. 
+
+Si une disposition prévoit que l'écrit doit être lu au destinataire, la remise d'un écrit électronique à l'intéressé dans les
+conditions prévues au premier alinéa vaut lecture.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-674 du 16 juin 2005 - art. 1 () JORF 17 juin 2005
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
+
+	**Cite**:
+
+	  - Code civil - art. 1369-1 (V)
+	  - Code civil - art. 1369-2 (V)
+
+
+#### Section 4 : De certaines exigences de forme.
+
+###### Article 1369-10
+
+Lorsque l'écrit sur papier est soumis à des conditions particulières de lisibilité ou de présentation, l'écrit sous forme
+électronique doit répondre à des exigences équivalentes.
+
+L'exigence d'un formulaire détachable est satisfaite par un procédé électronique qui permet d'accéder au formulaire et de le
+renvoyer par la même voie.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-674 du 16 juin 2005 - art. 1 () JORF 17 juin 2005
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
+
+
+###### Article 1369-11
+
+L'exigence d'un envoi en plusieurs exemplaires est réputée satisfaite sous forme électronique si l'écrit peut être imprimé
+par le destinataire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-674 du 16 juin 2005 - art. 1 () JORF 17 juin 2005
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
 
 
 ## Titre IV : Des engagements qui se forment sans convention

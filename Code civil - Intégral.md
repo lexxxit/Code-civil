@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 2005-08-03
+Version Consolidée au 2006-01-01
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -34381,6 +34381,73 @@ Les mêmes règles seront observées à l'égard du ministre du culte.
 	  - Loi n°1803-05-03 promulguée le 13 mai 1803
 
 
+###### Article 910
+
+Les dispositions entre vifs ou par testament, au profit des hospices, des pauvres d'une commune, ou d'établissements
+d'utilité publique, n'auront leur effet qu'autant qu'elles seront autorisées par une ordonnance royale (un décret).
+
+Toutefois les dispositions entre vifs ou par testament, au profit des fondations, des congrégations et des associations ayant
+la capacité à recevoir des libéralités, à l'exception des associations ou fondations dont les activités ou celles de leurs
+dirigeants sont visées à l'article 1er de la loi du 12 juin 2001 tendant à renforcer la prévention et la répression des
+mouvements sectaires portant atteinte aux droits de l'homme et aux libertés fondamentales, sont acceptées librement par
+celles-ci, sauf opposition motivée par l'inaptitude de l'organisme légataire ou donataire à utiliser la libéralité
+conformément à son objet statutaire. L'opposition est formée par l'autorité administrative à laquelle la libéralité est
+déclarée, dans des conditions fixées par décret en Conseil d'Etat. L'opposition prive d'effet cette acceptation.
+
+**Nota:**
+
+NOTA : Ordonnance 2005-856 du 28 juillet 2005 art. 9 : les dispositions de l'article 1er ne sont pas applicables aux
+libéralités pour lesquelles des demandes d'autorisation de leur acceptation ont été formées avant l'entrée en vigueur de la
+présente ordonnance.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi du 4 février 1901 - art. 10 (V)
+	  - Loi du 1er juillet 1901 - art. 11 (V)
+	  - Loi n°1905-12-09 du 9 décembre 1905 - art. 19 (V)
+	  - Décret n°2004-22 du 7 janvier 2004 - art. ANNEXE I (Ab)
+	  - Décret n°2007-807 du 11 mai 2007 - art. 1 (V)
+	  - Décret n°2007-807 du 11 mai 2007 - art. 2 (VD)
+	  - Décret n°2007-807 du 11 mai 2007 - art. 4 (VD)
+	  - Loi n°2008-776 du 4 août 2008 - art. 140 (VD)
+	  - Loi n°2009-526 du 12 mai 2009 - art. 111 (V)
+	  - Décret n°2010-395 du 20 avril 2010 - art. (V)
+	  - Décret n°2012-377  du 19 mars 2012 (V)
+	  - Décret n°2014-579 du 4 juin 2014 (V)
+	  - Décret n°2015-532 du 13 mai 2015 - art. (VD)
+	  - Décret n°2015-807 du 1er juillet 2015 (V)
+	  - Décret n°2017-908 du 6 mai 2017 (V)
+	  - Code civil - art. 937 (V)
+	  - Code de la santé publique - art. Annexe I aux articles R668-1-1 à R668-21 (Ab)
+	  - Code de la santé publique - art. R6141-63 (V)
+	  - Loi du 2 janvier 1817 - art. 1 (Ab)
+	  - Loi du 24 mai 1825 - art. 4 (Ab)
+	  - Ordonnance n°1817-04-02 du 2 avril 1817 - art. 1 (V)
+
+	**Cite**:
+
+	  - Loi n°2001-504 du 12 juin 2001 - art. 1 (M)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2005-856 du 28 juillet 2005 - art. 1 () JORF 29 juillet 2005 en vigueur le 1er janvier 2006
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Liens**:
+
+	  - TXT_SOURCE: Ordonnance n°1817-04-02 du 2 avril 1817
+	  - TXT_SOURCE: Ordonnance n°1817-04-02 du 2 avril 1817 - art. 1 (V)
+	  - TXT_SOURCE: Ordonnance n°1817-04-02 du 2 avril 1817 - art. 3 (V)
+	  - TXT_SOURCE: Ordonnance n°1817-04-02 du 2 avril 1817 - art. 4 (V)
+	  - TXT_SOURCE: Ordonnance n°1817-04-02 du 2 avril 1817 - art. 5 (V)
+	  - TXT_SOURCE: Ordonnance n°1817-04-02 du 2 avril 1817 - art. 7 (V)
+
+
 ###### Article 911
 
 Toute disposition au profit d'un incapable sera nulle, soit qu'on la déguise sous la forme d'un contrat onéreux, soit qu'on
@@ -34976,6 +35043,37 @@ titre De la minorité, de la tutelle et de l'émancipation.
 	**Créé par**:
 
 	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 937
+
+Les donations faites au profit d'hospices, des pauvres d'une commune ou, sous réserve du deuxième alinéa de l'article 910,
+d'établissements d'utilité publique, seront acceptées par les administrateurs de ces communes ou établissements, après y
+avoir été dûment autorisés.
+
+**Nota:**
+
+NOTA : Ordonnance 2005-856 du 28 juillet 2005 art. 9 : les dispositions de l'article 1er ne sont pas applicables aux
+libéralités pour lesquelles des demandes d'autorisation de leur acceptation ont été formées avant l'entrée en vigueur de la
+présente ordonnance.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Ordonnance n°2005-856 du 28 juillet 2005 - art. 1 () JORF 29 juillet 2005 en vigueur le 1er janvier 2006
+
+	**Cité par**:
+
+	  - Loi n°2009-526 du 12 mai 2009 - art. 111 (V)
+
+	**Cite**:
+
+	  - Code civil - art. 910 (M)
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
 
 
 ###### Article 938
@@ -38466,57 +38564,6 @@ subrogé au bien aliéné, la valeur de ce nouveau bien.
 
 ## Titre II : Des donations entre vifs et des testaments
 
-### Chapitre II : De la capacité de disposer ou de recevoir par donation entre vifs ou par testament.
-
-###### Article 910
-
-Les dispositions entre vifs ou par testament, au profit des hospices, des pauvres d'une commune, ou d'établissements
-d'utilité publique, n'auront leur effet qu'autant qu'elles seront autorisées par une ordonnance royale (un décret).
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Loi du 4 février 1901 - art. 10 (V)
-	  - Loi du 1er juillet 1901 - art. 11 (V)
-	  - Loi n°1905-12-09 du 9 décembre 1905 - art. 19 (V)
-	  - Décret n°2004-22 du 7 janvier 2004 - art. ANNEXE I (Ab)
-	  - Décret n°2007-807 du 11 mai 2007 - art. 1 (V)
-	  - Décret n°2007-807 du 11 mai 2007 - art. 2 (VD)
-	  - Décret n°2007-807 du 11 mai 2007 - art. 4 (VD)
-	  - Loi n°2008-776 du 4 août 2008 - art. 140 (VD)
-	  - Loi n°2009-526 du 12 mai 2009 - art. 111 (V)
-	  - Décret n°2010-395 du 20 avril 2010 - art. (V)
-	  - Décret n°2012-377  du 19 mars 2012 (V)
-	  - Décret n°2014-579 du 4 juin 2014 (V)
-	  - Décret n°2015-532 du 13 mai 2015 - art. (VD)
-	  - Décret n°2015-807 du 1er juillet 2015 (V)
-	  - Décret n°2017-908 du 6 mai 2017 (V)
-	  - Code civil - art. 937 (V)
-	  - Code de la santé publique - art. Annexe I aux articles R668-1-1 à R668-21 (Ab)
-	  - Code de la santé publique - art. R6141-63 (V)
-	  - Loi du 2 janvier 1817 - art. 1 (Ab)
-	  - Loi du 24 mai 1825 - art. 4 (Ab)
-	  - Ordonnance n°1817-04-02 du 2 avril 1817 - art. 1 (V)
-
-	**Codifié par**:
-
-	  - Loi n°1803-05-03
-
-	**Créé par**:
-
-	  - Loi n°1803-05-03 promulguée le 13 mai 1803
-
-	**Liens**:
-
-	  - TXT_SOURCE: Ordonnance n°1817-04-02 du 2 avril 1817
-	  - TXT_SOURCE: Ordonnance n°1817-04-02 du 2 avril 1817 - art. 1 (V)
-	  - TXT_SOURCE: Ordonnance n°1817-04-02 du 2 avril 1817 - art. 3 (V)
-	  - TXT_SOURCE: Ordonnance n°1817-04-02 du 2 avril 1817 - art. 4 (V)
-	  - TXT_SOURCE: Ordonnance n°1817-04-02 du 2 avril 1817 - art. 5 (V)
-	  - TXT_SOURCE: Ordonnance n°1817-04-02 du 2 avril 1817 - art. 7 (V)
-
-
 ### Chapitre III : De la portion de biens disponible, et de la réduction
 
 #### Section 1 : De la portion de biens disponible.
@@ -38551,28 +38598,6 @@ nombre ; sans qu'il y ait lieu de distinguer entre les enfants légitimes et les
 
 
 ### Chapitre IV : Des donations entre vifs
-
-#### Section 1 : De la forme des donations entre vifs.
-
-###### Article 937
-
-Les donations faites au profit d'hospices, des pauvres d'une commune ou d'établissements d'utilité publique, seront acceptées
-par les administrateurs de ces communes ou établissements, après y avoir été dûment autorisés.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Loi n°2009-526 du 12 mai 2009 - art. 111 (V)
-
-	**Codifié par**:
-
-	  - Loi n°1803-05-03
-
-	**Créé par**:
-
-	  - Loi n°1803-05-03 promulguée le 13 mai 1803
-
 
 #### Section 2 : Des exceptions à la règle de l'irrévocabilité des donations entre vifs.
 
@@ -43688,6 +43713,33 @@ tiers.
 	**Codifié par**:
 
 	  - Loi n°1804-02-07
+
+
+###### Article 1321-1
+
+Est nulle et de nul effet toute contre-lettre ayant pour objet une augmentation du prix stipulé dans le traité de cession
+d'un office ministériel et toute convention ayant pour but de dissimuler partie du prix d'une vente d'immeubles ou d'une
+cession de fonds de commerce ou de clientèle ou d'une cession d'un droit à un bail ou du bénéfice d'une promesse de bail
+portant sur tout ou partie d'un immeuble et tout ou partie de la soulte d'un échange ou d'un partage comprenant des biens
+immeubles, un fonds de commerce ou une clientèle.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-1512 du 7 décembre 2005 - art. 24 () JORF 8 décembre 2005 en vigueur le 1er janvier 2006
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
+
+	**Cité par**:
+
+	  - Code général des impôts, CGI. - art. 864 (V)
 
 
 ##### Paragraphe 3 : De l'acte sous seing privé.
@@ -49233,6 +49285,31 @@ lequel il est exigé ou reçu de celui qui s'engage un versement, quelle qu'en s
 
 	  - Loi n°2000-1208 du 13 décembre 2000 - art. 72 (V) JORF 14 décembre 2000 en vigueur le 1er juin 2001
 	  - Loi n°2000-1208 du 13 décembre 2000 - art. 72 (V)
+
+
+###### Article 1589-2
+
+Est nulle et de nul effet toute promesse unilatérale de vente afférente à un immeuble, à un droit immobilier, à un fonds de
+commerce, à un droit à un bail portant sur tout ou partie d'un immeuble ou aux titres des sociétés visées aux articles 728 et
+1655 ter du code général des impôts, si elle n'est pas constatée par un acte authentique ou par un acte sous seing privé
+enregistré dans le délai de dix jours à compter de la date de son acceptation par le bénéficiaire. Il en est de même de toute
+cession portant sur lesdites promesses qui n'a pas fait l'objet d'un acte authentique ou d'un acte sous seing privé
+enregistré dans les dix jours de sa date.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-06
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-1512 du 7 décembre 2005 - art. 24 () JORF 8 décembre 2005 en vigueur le 1er janvier 2006
+
+	**Cite**:
+
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 1655 ter (V)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 728 (V)
 
 
 ###### Article 1590
@@ -55620,22 +55697,23 @@ justice chargé de provoquer la consultation prévue ci-dessus.
 
 ###### Article 1844-7
 
-La société prend fin :
+La société prend fin : 
 
-1° Par l'expiration du temps pour lequel elle a été constituée, sauf prorogation effectuée conformément à l'article 1844-6 ;
+1° Par l'expiration du temps pour lequel elle a été constituée, sauf prorogation effectuée conformément à l'article 1844-6 ; 
 
-2° Par la réalisation ou l'extinction de son objet ;
+2° Par la réalisation ou l'extinction de son objet ; 
 
-3° Par l'annulation du contrat de société ;
+3° Par l'annulation du contrat de société ; 
 
-4° Par la dissolution anticipée décidée par les associés ;
+4° Par la dissolution anticipée décidée par les associés ; 
 
 5° Par la dissolution anticipée prononcée par le tribunal à la demande d'un associé pour justes motifs, notamment en cas
-d'inexécution de ses obligations par un associé, ou de mésentente entre associés paralysant le fonctionnement de la société ;
+d'inexécution de ses obligations par un associé, ou de mésentente entre associés paralysant le fonctionnement de la
+société ; 
 
-6° Par la dissolution anticipée prononcée par le tribunal dans le cas prévu à l'article 1844-5 ;
+6° Par la dissolution anticipée prononcée par le tribunal dans le cas prévu à l'article 1844-5 ; 
 
-7° Par l'effet d'un jugement ordonnant la liquidation judiciaire ou la cession totale des actifs de la société ;
+7° Par l'effet d'un jugement ordonnant la liquidation judiciaire ; 
 
 8° Pour toute autre cause prévue par les statuts.
 
@@ -55669,16 +55747,12 @@ d'inexécution de ses obligations par un associé, ou de mésentente entre assoc
 
 	**Modifié par**:
 
-	  - Loi n°88-15 du 5 janvier 1988 - art. 3 () JORF 6 janvier 1988
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 189 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 	**Cite**:
 
-	  - Code civil - art. 1844-5 (M)
+	  - Code civil - art. 1844-5 (V)
 	  - Code civil - art. 1844-6 (V)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°88-15 1988-01-06 art. 52 II *champ d'application*
 
 
 ###### Article 1844-8

@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 2006-01-01
+Version Consolidée au 2006-01-24
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -3048,9 +3048,12 @@ intérêts de la France.
 ###### Article 25-1
 
 La déchéance n'est encourue que si les faits reprochés à l'intéressé et visés à l'article 25 se sont produits antérieurement
-à l'acquisition de la nationalité française ou dans le délai de dix ans à compter de la date de cette acquisition.
+à l'acquisition de la nationalité française ou dans le délai de dix ans à compter de la date de cette acquisition. 
 
-Elle ne peut être prononcée que dans le délai de dix ans à compter de la perpétration desdits faits.
+Elle ne peut être prononcée que dans le délai de dix ans à compter de la perpétration desdits faits. 
+
+Si les faits reprochés à l'intéressé sont visés au 1° de l'article 25, les délais mentionnés aux deux alinéas précédents sont
+portés à quinze ans.
 
 **Liens relatifs à cet article**
 
@@ -3060,11 +3063,11 @@ Elle ne peut être prononcée que dans le délai de dix ans à compter de la per
 
 	**Modifié par**:
 
-	  - Loi n°2003-1119 du 26 novembre 2003 - art. 71 () JORF 27 novembre 2003
+	  - Loi n°2006-64 du 23 janvier 2006 - art. 21 () JORF 24 janvier 2006
 
 	**Cite**:
 
-	  - Code civil - art. 25 (M)
+	  - Code civil - art. 25 (V)
 
 	**Anciens textes**:
 

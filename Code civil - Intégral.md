@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 2006-01-24
+Version Consolidée au 2006-03-14
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -64590,66 +64590,6 @@ conformément à l'article 2154 du Code civil, par le greffier du tribunal d'ins
 
 
 ### Chapitre IV : Du mode de l'inscription des privilèges et hypothèques.
-
-###### Article 2146
-
-Sont inscrits au bureau des hypothèques de la situation des biens :
-
-1° Les privilèges sur les immeubles, sous réserve des seules exceptions visées à l'article 2107 ;
-
-2° Les hypothèques légales, judiciaires ou conventionnelles.
-
-L'inscription qui n'est jamais faite d'office par le conservateur, ne peut avoir lieu que pour une somme et sur des immeubles
-déterminés, dans les conditions fixées par l'article 2148.
-
-En toute hypothèse, les immeubles sur lesquels l'inscription est requise doivent être individuellement désignés, avec
-indication de la commune où ils sont situés, à l'exclusion de toute désignation générale, même limitée à une circonscription
-territoriale donnée.
-
-**Nota:**
-
-
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°55-22 1955-01-04 JORF 7 janvier 1955 rectificatif JORF 27 janvier 1955
-
-	**Cité par**:
-
-	  - Décret n°55-22 du 4 janvier 1955 - art. 51 (M)
-	  - Décret n°55-1350 du 14 octobre 1955 - art. 76 (M)
-	  - Décret n°67-1120 du 22 décembre 1967 - art. 29 (Ab)
-	  - Code civil - art. 2106 (T)
-	  - Code civil - art. 2108 (T)
-	  - Code civil - art. 2109 (T)
-	  - Code civil - art. 2111-1 (T)
-	  - Code civil - art. 2122 (T)
-	  - Code civil - art. 2123 (T)
-	  - Code civil - art. 2129 (T)
-
-	**Transféré par**:
-
-	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
-
-	**Cite**:
-
-	  - Code civil - art. 2107 (M)
-	  - Code civil - art. 2148 (M)
-
-	**Nouveaux textes**:
-
-	  - Code civil - art. 2426 (V)
-
-	**Codifié par**:
-
-	  - Loi n°1804-03-19
-
-	**Créé par**:
-
-	  - Loi n°1804-03-19 promulguée le 29 mars 1804
-
 
 ###### Article 2147
 

@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 2006-03-24
+Version Consolidée au 2006-04-05
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -4967,8 +4967,11 @@ publication prévue au premier alinéa ni, en cas de dispense de publication, à
 toute autre indication, que l'intéressé a été examiné en vue du mariage ;
 
 - l'audition commune des futurs époux, sauf en cas d'impossibilité ou s'il apparaît, au vu des pièces du dossier, que cette
-audition n'est pas nécessaire au regard de l'article 146. L'officier de l'état civil, s'il l'estime nécessaire, peut
-également demander à s'entretenir séparément avec l'un ou l'autre des futurs époux.
+audition n'est nécessaire ni au regard de l'article 146, ni au regard de l'article 180. L'officier de l'état civil, s'il
+l'estime nécessaire, peut également demander à s'entretenir séparément avec l'un ou l'autre des futurs époux. Il peut
+déléguer à un ou à plusieurs fonctionnaires titulaires du service de l'état civil de la commune la réalisation de l'audition
+commune ou des entretiens séparés. Si l'un des futurs époux réside dans un pays étranger, l'officier de l'état civil peut
+demander à un agent diplomatique ou consulaire français en poste dans ce pays de procéder à son audition.
 
 L'officier d'état civil qui ne se conformera pas aux prescriptions des alinéas précédents sera poursuivi devant le tribunal
 de grande instance et puni d'une amende de 3 à 30 euros.
@@ -5001,12 +5004,13 @@ de grande instance et puni d'une amende de 3 à 30 euros.
 
 	**Modifié par**:
 
-	  - Loi n°2003-1119 2003-11-26 art. 74 I, II JORF 27 novembre 2003
-	  - Loi n°2003-1119 du 26 novembre 2003 - art. 74 () JORF 27 novembre 2003
+	  - Loi n°2006-399 du 4 avril 2006 - art. 3 () JORF 5 avril 2006
+	  - Loi n°2006-399 du 4 avril 2006 - art. 4 () JORF 5 avril 2006
 
 	**Cite**:
 
 	  - Code civil - art. 146 (V)
+	  - Code civil - art. 180 (M)
 
 	**Codifié par**:
 
@@ -7265,9 +7269,13 @@ Le mariage de l'absent reste dissous, même si le jugement déclaratif d'absence
 
 ###### Article 144
 
-L'homme avant dix-huit ans révolus, la femme avant quinze ans révolus, ne peuvent contracter mariage.
+L'homme et la femme ne peuvent contracter mariage avant dix-huit ans révolus.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2006-399 du 4 avril 2006 - art. 1 () JORF 5 avril 2006
 
 	**Cité par**:
 
@@ -7281,10 +7289,6 @@ L'homme avant dix-huit ans révolus, la femme avant quinze ans révolus, ne peuv
 	**Codifié par**:
 
 	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°1803-03-17 promulguée le 27 mars 1803
 
 
 ###### Article 145
@@ -7945,33 +7949,42 @@ deuxième alinéa de l'article 75 du présent code.
 
 ###### Article 170
 
-Le mariage contracté en pays étranger entre français et entre français et étranger sera valable, s'il a été célébré dans les
+Le mariage contracté en pays étranger entre Français et entre Français et étranger sera valable, s'il a été célébré dans les
 formes usitées dans le pays, pourvu qu'il ait été précédé de la publication prescrite par l'article 63, au titre Des actes de
-l'état civil, et que le français n'ait point contrevenu aux dispositions contenues au chapitre précédent.
+l'état civil, et que le Français n'ait point contrevenu aux dispositions contenues au chapitre précédent.
 
-Il en sera de même du mariage contracté en pays étranger entre un français et un étranger, s'il a été célébré par les agents
+Il en sera de même du mariage contracté en pays étranger entre un français et un étranger s'il a été célébré par les agents
 diplomatiques, ou par les consuls de France, conformément aux lois françaises.
 
-Toutefois, les agents diplomatiques ou les consuls ne pourront procéder à la célébration du mariage entre un français et un
+Toutefois, les agents diplomatiques ou les consuls ne pourront procéder à la célébration du mariage entre un Français et un
 étranger que dans les pays qui seront désignés par décrets du Président de la République.
 
-Sauf en cas d'impossibilité ou s'il apparaît, au vu des pièces du dossier, que cette audition n'est pas nécessaire au regard
-de l'article 146, les agents diplomatiques et consulaires doivent, pour l'application du premier et du deuxième alinéa du
-présent article, procéder à l'audition commune des futurs époux ou des époux, selon les cas, soit lors de la demande de
-publication prescrite par l'article 63, soit lors de la délivrance du certificat de mariage, soit en cas de demande de
-transcription du mariage par le ressortissant français. Les agents diplomatiques et consulaires peuvent demander à
-s'entretenir, si nécessaire, avec l'un ou l'autre des époux ou futurs époux. Ils peuvent également requérir la présence des
-époux ou des futurs époux à l'occasion de chacune des formalités ci-dessus indiquées.
+Sauf en cas d'impossibilité ou s'il apparaît, au vu des pièces du dossier, que cette audition n'est nécessaire ni au regard
+de l'article 146, ni au regard de l'article 180, les agents diplomatiques et consulaires doivent, pour l'application du
+premier et du deuxième alinéa du présent article, procéder à l'audition commune des futurs époux ou des époux, selon les cas,
+soit lors de la demande de publication prescrite par l'article 63, soit lors de la délivrance du certificat de mariage, soit
+en cas de demande de transcription du mariage par le ressortissant français. Les agents diplomatiques et consulaires peuvent
+demander à s'entretenir, si nécessaire, avec l'un ou l'autre des époux ou futurs époux. Ils peuvent déléguer à un ou à
+plusieurs fonctionnaires titulaires chargés de l'état civil la réalisation de l'audition commune ou des entretiens séparés.
+Si l'un des époux ou des futurs époux réside dans un pays autre que celui de la célébration, ils peuvent demander à
+l'officier de l'état civil territorialement compétent de procéder à l'audition. Ils peuvent également requérir la présence
+des époux ou des futurs époux à l'occasion de chacune des formalités ci-dessus indiquées.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2003-1119 du 26 novembre 2003 - art. 75 () JORF 27 novembre 2003
+	  - Loi n°2006-399 du 4 avril 2006 - art. 3 () JORF 5 avril 2006
+	  - Loi n°2006-399 du 4 avril 2006 - art. 4 () JORF 5 avril 2006
+
+	**Abrogé par**:
+
+	  - Loi n°2006-1376 du 14 novembre 2006 - art. 6 () JORF 15 novembre 2006 en vigueur le 1er mars 2007
 
 	**Cite**:
 
 	  - Code civil - art. 146 (V)
+	  - Code civil - art. 180 (M)
 
 	**Cité par**:
 
@@ -7985,8 +7998,8 @@ s'entretenir, si nécessaire, avec l'un ou l'autre des époux ou futurs époux. 
 ###### Article 170-1
 
 Lorsqu'il existe des indices sérieux laissant présumer qu'un mariage célébré à l'étranger encourt la nullité au titre des
-articles 184 ou 191, l'agent diplomatique ou consulaire chargé de transcrire l'acte en informe immédiatement le ministère
-public et sursoit à la transcription.
+articles 180, 184 ou 191, l'agent diplomatique ou consulaire chargé de transcrire l'acte en informe immédiatement le
+ministère public et sursoit à la transcription.
 
 Le procureur de la République se prononce sur la transcription. Lorsqu'il demande la nullité du mariage, il ordonne que la
 transcription soit limitée à la seule fin de saisine du juge ; jusqu'à la décision de celui-ci, une expédition de l'acte
@@ -7997,18 +8010,23 @@ diplomatique ou consulaire transcrit l'acte.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
-
-	  - Loi n°2003-1119 du 26 novembre 2003 - art. 77 () JORF 27 novembre 2003
-
 	**Cité par**:
 
 	  - Décret n°2005-170 du 23 février 2005 - art. 6 (Ab)
 	  - Décret n°2007-773 du 10 mai 2007 - art. 18 (V)
 	  - Nouveau code de procédure civile - art. 1056-1 (M)
 
+	**Modifié par**:
+
+	  - Loi n°2006-399 du 4 avril 2006 - art. 3 () JORF 5 avril 2006
+
+	**Abrogé par**:
+
+	  - Loi n°2006-1376 du 14 novembre 2006 - art. 6 () JORF 15 novembre 2006 en vigueur le 1er mars 2007
+
 	**Cite**:
 
+	  - Code civil - art. 180 (M)
 	  - Code civil - art. 184 (M)
 	  - Code civil - art. 191 (V)
 
@@ -8164,9 +8182,9 @@ Le ministère public peut former opposition pour les cas où il pourrait demande
 ###### Article 175-2
 
 Lorsqu'il existe des indices sérieux laissant présumer, le cas échéant au vu de l'audition prévue par l'article 63, que le
-mariage envisagé est susceptible d'être annulé au titre de l'article 146, l'officier de l'état civil peut saisir le procureur
-de la République. Il en informe les intéressés. (Dispositions déclarées non conformes à la Constitution par décision du
-Conseil constitutionnel n° 2003-484 DC du 20 novembre 2003.)
+mariage envisagé est susceptible d'être annulé au titre de l'article 146 ou de l'article 180, l'officier de l'état civil peut
+saisir le procureur de la République. Il en informe les intéressés. (Dispositions déclarées non conformes à la Constitution
+par décision du Conseil constitutionnel n° 2003-484 DC du 20 novembre 2003.)
 
 Le procureur de la République est tenu, dans les quinze jours de sa saisine, soit de laisser procéder au mariage, soit de
 faire opposition à celui-ci, soit de décider qu'il sera sursis à sa célébration, dans l'attente des résultats de l'enquête à
@@ -8185,18 +8203,19 @@ du tribunal de grande instance, qui statue dans les dix jours. La décision du p
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
 	**Modifié par**:
 
-	  - Loi n°2003-1119 du 26 novembre 2003 - art. 76 () JORF 27 novembre 2003
+	  - Loi n°2006-399 du 4 avril 2006 - art. 3 () JORF 5 avril 2006
 
 	**Cite**:
 
 	  - Code civil - art. 146 (V)
+	  - Code civil - art. 180 (M)
 	  - Code civil - art. 63 (M)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
 
 
 ###### Article 176
@@ -8287,7 +8306,8 @@ Les jugements et arrêts par défaut rejetant les oppositions à mariage ne sont
 ###### Article 180
 
 Le mariage qui a été contracté sans le consentement libre des deux époux, ou de l'un d'eux, ne peut être attaqué que par les
-époux, ou par celui des deux dont le consentement n'a pas été libre.
+époux, ou par celui des deux dont le consentement n'a pas été libre, ou par le ministère public. L'exercice d'une contrainte
+sur les époux ou l'un d'eux, y compris par crainte révérencielle envers un ascendant, constitue un cas de nullité du mariage.
 
 S'il y a eu erreur dans la personne, ou sur des qualités essentielles de la personne, l'autre époux peut demander la nullité
 du mariage.
@@ -8296,7 +8316,7 @@ du mariage.
 
 	**Modifié par**:
 
-	  - Loi n°75-617 1975-07-11 art. 5 JORF 12 juillet 1975 en vigueur le 1er juillet 1976
+	  - Loi n°2006-399 du 4 avril 2006 - art. 5 () JORF 5 avril 2006
 
 	**Cité par**:
 
@@ -8309,37 +8329,29 @@ du mariage.
 	  - Code civil - art. 202-1 (V)
 	  - Code civil - art. 63 (V)
 
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code civil - art. 181 (M)
-
 	**Codifié par**:
 
 	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°1803-03-17 promulguée le 27 mars 1803
 
 
 ###### Article 181
 
-Dans le cas de l'article précédent, la demande en nullité n'est plus recevable, toutes les fois qu'il y a eu cohabitation
-continuée pendant six mois depuis que l'époux a acquis sa pleine liberté ou que l'erreur a été par lui reconnue.
+Dans le cas de l'article précédent, la demande en nullité n'est plus recevable à l'issue d'un délai de cinq ans à compter du
+mariage ou depuis que l'époux a acquis sa pleine liberté ou que l'erreur a été par lui reconnue.
 
 **Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code civil - art. 180 (M)
 
 	**Codifié par**:
 
 	  - Loi n°1803-03-14
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°1803-03-17 promulguée le 27 mars 1803
+	  - Loi n°2006-399 du 4 avril 2006 - art. 6 () JORF 5 avril 2006
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code civil - art. 180 (M)
 
 
 ###### Article 182
@@ -8367,8 +8379,8 @@ consentement était nécessaire, ne peut être attaqué que par ceux dont le con
 
 L'action en nullité ne peut plus être intentée ni par les époux, ni par les parents dont le consentement était requis, toutes
 les fois que le mariage a été approuvé expressément ou tacitement par ceux dont le consentement était nécessaire, ou
-lorsqu'il s'est écoulé une année sans réclamation de leur part, depuis qu'ils ont eu connaissance du mariage. Elle ne peut
-être intentée non plus par l'époux, lorsqu'il s'est écoulé une année sans réclamation de sa part, depuis qu'il a atteint
+lorsqu'il s'est écoulé cinq années sans réclamation de leur part, depuis qu'ils ont eu connaissance du mariage. Elle ne peut
+être intentée non plus par l'époux, lorsqu'il s'est écoulé cinq années sans réclamation de sa part, depuis qu'il a atteint
 l'âge compétent pour consentir par lui-même au mariage.
 
 **Liens relatifs à cet article**
@@ -8377,9 +8389,9 @@ l'âge compétent pour consentir par lui-même au mariage.
 
 	  - Loi n°1803-03-14
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°1803-03-17 promulguée le 27 mars 1803
+	  - Loi n°2006-399 du 4 avril 2006 - art. 6 () JORF 5 avril 2006
 
 
 ###### Article 184
@@ -9112,7 +9124,7 @@ dans sa demeure, l'enfant à qui il devra des aliments, devra dans ce cas être 
 
 ###### Article 212
 
-Les époux se doivent mutuellement fidélité, secours, assistance.
+Les époux se doivent mutuellement respect, fidélité, secours, assistance.
 
 **Liens relatifs à cet article**
 
@@ -9133,13 +9145,13 @@ Les époux se doivent mutuellement fidélité, secours, assistance.
 	  - Code de la santé publique - art. R6145-4 (V)
 	  - Code de la sécurité sociale. - art. L524-4 (VT)
 
+	**Modifié par**:
+
+	  - Loi n°2006-399 du 4 avril 2006 - art. 2 () JORF 5 avril 2006
+
 	**Codifié par**:
 
 	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°1803-03-17 promulguée le 27 mars 1803
 
 
 ###### Article 213
@@ -59874,684 +59886,6 @@ circonstances exigent pour l'intérêt de celui-ci.
 	  - Loi n°1804-03-10 promulguée le 20 mars 1804
 
 
-## Titre XIV : Du cautionnement.
-
-### Chapitre I : De la nature et de l'étendue du cautionnement.
-
-###### Article 2011
-
-Celui qui se rend caution d'une obligation, se soumet envers le créancier à satisfaire à cette obligation, si le débiteur n'y
-satisfait pas lui-même.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Arrêté du 18 mars 2002 - art. 1 (V)
-	  - Loi n°2007-211 du 19 février 2007 - art. 12 (VD)
-	  - Loi n°2013-1279 du 29 décembre 2013 - art. 79 (M)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 223 V (T)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 238 quater B (V)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 238 quater N (V)
-	  - Code civil - art. 2372-1 (V)
-	  - Code civil - art. 2488-1 (V)
-	  - Code de commerce. - art. L632-1 (VD)
-	  - Code général des impôts, CGI. - art. 102 ter (V)
-	  - Code général des impôts, CGI. - art. 151 septies (VD)
-	  - Code général des impôts, CGI. - art. 50-0 (V)
-	  - Code général des impôts, CGI. - art. 69 E (V)
-	  - Code général des impôts, CGI. - art. 92 (V)
-	  - Code monétaire et financier - art. L561-3 (VD)
-	  - Code monétaire et financier - art. L562-2-1 (Ab)
-
-	**Transféré par**:
-
-	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 5 () JORF 24 mars 2006
-
-	**Nouveaux textes**:
-
-	  - Code civil - art. 2288 (T)
-	  - Code civil - art. 2288 (V)
-
-	**Codifié par**:
-
-	  - Loi n°1804-02-14
-
-	**Créé par**:
-
-	  - Loi n°1804-02-14 promulguée le 24 février 1804
-
-
-###### Article 2012
-
-Le cautionnement ne peut exister que sur une obligation valable.
-
-On peut néanmoins cautionner une obligation, encore qu'elle pût être annulée par une exception purement personnelle à
-l'obligé ; par exemple, dans le cas de minorité.
-
-**Liens relatifs à cet article**
-
-	**Transféré par**:
-
-	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 5 () JORF 24 mars 2006
-
-	**Nouveaux textes**:
-
-	  - Code civil - art. 2289 (T)
-	  - Code civil - art. 2289 (V)
-
-	**Cité par**:
-
-	  - Code de commerce - art. A444-163-1 (V)
-
-	**Codifié par**:
-
-	  - Loi n°1804-02-14
-
-	**Créé par**:
-
-	  - Loi n°1804-02-14 promulguée le 24 février 1804
-
-
-###### Article 2013
-
-Le cautionnement ne peut excéder ce qui est dû par le débiteur, ni être contracté sous des conditions plus onéreuses.
-
-Il peut être contracté pour une partie de la dette seulement, et sous des conditions moins onéreuses.
-
-Le cautionnement qui excède la dette, ou qui est contracté sous des conditions plus onéreuses, n'est point nul : il est
-seulement réductible à la mesure de l'obligation principale.
-
-**Liens relatifs à cet article**
-
-	**Transféré par**:
-
-	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 5 () JORF 24 mars 2006
-
-	**Nouveaux textes**:
-
-	  - Code civil - art. 2290 (T)
-	  - Code civil - art. 2290 (V)
-
-	**Cité par**:
-
-	  - Livre des procédures fiscales - art. L64 C (V)
-
-	**Codifié par**:
-
-	  - Loi n°1804-02-14
-
-	**Créé par**:
-
-	  - Loi n°1804-02-14 promulguée le 24 février 1804
-
-
-###### Article 2014
-
-On peut se rendre caution sans ordre de celui pour lequel on s'oblige, et même à son insu.
-
-On peut aussi se rendre caution, non seulement du débiteur principal, mais encore de celui qui l'a cautionné.
-
-**Liens relatifs à cet article**
-
-	**Nouveaux textes**:
-
-	  - Code civil - art. 2291 (T)
-	  - Code civil - art. 2291 (V)
-
-	**Codifié par**:
-
-	  - Loi n°1804-02-14
-
-	**Créé par**:
-
-	  - Loi n°1804-02-14 promulguée le 24 février 1804
-
-	**Transféré par**:
-
-	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 5 () JORF 24 mars 2006
-
-
-###### Article 2015
-
-Le cautionnement ne se présume point ; il doit être exprès, et on ne peut pas l'étendre au-delà des limites dans lesquelles
-il a été contracté.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Décret n°2016-1793 du 21 décembre 2016 - art. 1
-	  - Code monétaire et financier - art. L561-25 (VD)
-	  - Loi n°2007-211 du 19 février 2007 - art. 12 (VD)
-
-	**Nouveaux textes**:
-
-	  - Code civil - art. 2292 (T)
-	  - Code civil - art. 2292 (V)
-
-	**Codifié par**:
-
-	  - Loi n°1804-02-14
-
-	**Créé par**:
-
-	  - Loi n°1804-02-14 promulguée le 24 février 1804
-
-	**Transféré par**:
-
-	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 5 () JORF 24 mars 2006
-
-
-###### Article 2016
-
-Le cautionnement indéfini d'une obligation principale s'étend à tous les accessoires de la dette, même aux frais de la
-première demande, et à tous ceux postérieurs à la dénonciation qui en est faite à la caution.
-
-Lorsque ce cautionnement est contracté par une personne physique, celle-ci est informée par le créancier de l'évolution du
-montant de la créance garantie et de ces accessoires au moins annuellement à la date convenue entre les parties ou, à défaut,
-à la date anniversaire du contrat, sous peine de déchéance de tous les accessoires de la dette, frais et pénalités.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°98-657 du 29 juillet 1998 - art. 101 () JORF 31 juillet 1998
-
-	**Transféré par**:
-
-	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 5 () JORF 24 mars 2006
-
-	**Nouveaux textes**:
-
-	  - Code civil - art. 2293 (T)
-	  - Code civil - art. 2293 (V)
-
-	**Codifié par**:
-
-	  - Loi n°1804-02-14
-
-
-###### Article 2017
-
-Les engagements des cautions passent à leurs héritiers, à l'exception de la contrainte judiciaire, si l'engagement était tel
-que la caution y fût obligée.
-
-**Nota:**
-
-Nota : Loi 2004-204 2004-03-09 art. 207 II : Les articles 159 à 193 et 198 entreront en vigueur, sous réserve des
-dispositions des III et IV du présent article, le 1er janvier 2005.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1804-02-14
-
-	**Modifié par**:
-
-	  - Loi n°2004-204 du 9 mars 2004 - art. 198 (V) JORF 10 mars 2004 en vigueur le 1er janvier 2005
-
-	**Transféré par**:
-
-	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 5 () JORF 24 mars 2006
-
-	**Cité par**:
-
-	  - Code civil - art. 2022 (VD)
-	  - Code civil - art. 2027 (V)
-
-	**Nouveaux textes**:
-
-	  - Code civil - art. 2294 (T)
-	  - Code civil - art. 2294 (V)
-
-
-###### Article 2018
-
-Le débiteur obligé à fournir une caution doit en présenter une qui ait la capacité de contracter, qui ait un bien suffisant
-pour répondre de l'objet de l'obligation, et dont le domicile soit dans le ressort de la cour royale (la cour d'appel) où
-elle doit être donnée.
-
-**Liens relatifs à cet article**
-
-	**Transféré par**:
-
-	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 5 () JORF 24 mars 2006
-
-	**Cité par**:
-
-	  - Code civil - art. 2040 (T)
-	  - Code civil - art. 2372-2 (V)
-	  - Code civil - art. 2488-2 (V)
-
-	**Nouveaux textes**:
-
-	  - Code civil - art. 2295 (T)
-
-	**Codifié par**:
-
-	  - Loi n°1804-02-14
-
-	**Créé par**:
-
-	  - Loi n°1804-02-14 promulguée le 24 février 1804
-
-
-###### Article 2019
-
-La solvabilité d'une caution ne s'estime qu'eu égard à ses propriétés foncières, excepté en matière de commerce, ou lorsque
-la dette est modique.
-
-On n'a point égard aux immeubles litigieux, ou dont la discussion deviendrait trop difficile par l'éloignement de leur
-situation.
-
-**Liens relatifs à cet article**
-
-	**Transféré par**:
-
-	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 5 () JORF 24 mars 2006
-
-	**Cité par**:
-
-	  - Code civil - art. 2040 (T)
-	  - Code civil - art. 2372-5 (V)
-	  - Code civil - art. 2488-5 (V)
-	  - Code de commerce - art. A444-163-1 (V)
-	  - Code général des impôts, CGI. - art. 635 (VD)
-	  - Livre des procédures fiscales - art. L12 (V)
-
-	**Nouveaux textes**:
-
-	  - Code civil - art. 2296 (T)
-	  - Code civil - art. 2296 (V)
-
-	**Codifié par**:
-
-	  - Loi n°1804-02-14
-
-	**Créé par**:
-
-	  - Loi n°1804-02-14 promulguée le 24 février 1804
-
-
-###### Article 2020
-
-Lorsque la caution reçue par le créancier, volontairement ou en justice, est ensuite devenue insolvable, il doit en être
-donné une autre.
-
-Cette règle reçoit exception dans le cas seulement où la caution n'a été donnée qu'en vertu d'une convention par laquelle le
-créancier a exigé une telle personne pour caution.
-
-**Liens relatifs à cet article**
-
-	**Transféré par**:
-
-	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 5 () JORF 24 mars 2006
-
-	**Cité par**:
-
-	  - Arrêté du 21 février 2013 - art. (V)
-	  - Arrêté du 24 février 2014 - art. (V)
-
-	**Nouveaux textes**:
-
-	  - Code civil - art. 2297 (T)
-	  - Code civil - art. 2297 (V)
-
-	**Codifié par**:
-
-	  - Loi n°1804-02-14
-
-	**Créé par**:
-
-	  - Loi n°1804-02-14 promulguée le 24 février 1804
-
-
-### Chapitre II : De l'effet du cautionnement
-
-#### Section 1 : De l'effet du cautionnement entre le créancier et la caution.
-
-###### Article 2021
-
-La caution n'est obligée envers le créancier à le payer qu'à défaut du débiteur, qui doit être préalablement discuté dans ses
-biens, à moins que la caution n'ait renoncé au bénéfice de discussion, ou à moins qu'elle ne se soit obligée solidairement
-avec le débiteur ; auquel cas l'effet de son engagement se règle par les principes qui ont été établis pour les dettes
-solidaires.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Décret n°55-603 du 20 mai 1955 - art. 6 (Ab)
-	  - Loi n°78-22 du 10 janvier 1978 - art. 7-2 (Ab)
-	  - Loi n°79-596 du 13 juillet 1979 - art. 9-2 (Ab)
-	  - Loi n°85-99 du 25 janvier 1985 - art. 34 (Ab)
-	  - Arrêté du 21 juillet 1993 - art. ANNEXE , 38 (Ab)
-	  - Arrêté du 23 février 1998 - art. ANNEXE (V)
-	  - Code de commerce. - art. L814-3 (M)
-	  - Code de la consommation - art. L313-8 (M)
-	  - Code de la consommation - art. L341-3 (M)
-	  - Code du travail - art. R124-16 (M)
-	  - Décret n°55-604 du 20 mai 1955 - art. 12 (M)
-
-	**Codifié par**:
-
-	  - Loi n°1804-02-14
-
-	**Créé par**:
-
-	  - Loi n°1804-02-14 promulguée le 24 février 1804
-
-	**Transféré par**:
-
-	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 5 () JORF 24 mars 2006
-
-	**Nouveaux textes**:
-
-	  - Code civil - art. 2298 (T)
-	  - Code civil - art. 2298 (V)
-
-
-###### Article 2022
-
-Le créancier n'est obligé de discuter le débiteur principal que lorsque la caution le requiert sur les premières poursuites
-dirigées contre elle.
-
-**Liens relatifs à cet article**
-
-	**Transféré par**:
-
-	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 5 () JORF 24 mars 2006
-
-	**Nouveaux textes**:
-
-	  - Code civil - art. 2299 (T)
-	  - Code civil - art. 2299 (V)
-
-	**Cité par**:
-
-	  - Code du travail - art. R124-16 (M)
-
-	**Codifié par**:
-
-	  - Loi n°1804-02-14
-
-	**Créé par**:
-
-	  - Loi n°1804-02-14 promulguée le 24 février 1804
-
-
-###### Article 2023
-
-La caution qui requiert la discussion doit indiquer au créancier les biens du débiteur principal, et avancer les deniers
-suffisants pour faire la discussion.
-
-Elle ne doit indiquer ni des biens du débiteur principal situés hors de l'arrondissement de la cour royale (la cour d'appel)
-du lieu où le paiement doit être fait, ni des biens litigieux, ni ceux hypothéqués à la dette qui ne sont plus en la
-possession du débiteur.
-
-**Liens relatifs à cet article**
-
-	**Nouveaux textes**:
-
-	  - Code civil - art. 2300 (T)
-	  - Code civil - art. 2300 (V)
-
-	**Cité par**:
-
-	  - Code du travail - art. R124-16 (M)
-
-	**Codifié par**:
-
-	  - Loi n°1804-02-14
-
-	**Créé par**:
-
-	  - Loi n°1804-02-14 promulguée le 24 février 1804
-
-	**Transféré par**:
-
-	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 5 () JORF 24 mars 2006
-
-
-###### Article 2024
-
-Toutes les fois que la caution a fait l'indication de biens autorisée par l'article précédent, et qu'elle a fourni les
-deniers suffisants pour la discussion, le créancier est, jusqu'à concurrence des biens indiqués, responsable à l'égard de la
-caution, de l'insolvabilité du débiteur principal survenue par le défaut de poursuites. En toute hypothèse, le montant des
-dettes résultant du cautionnement ne peut avoir pour effet de priver la personne physique qui s'est portée caution d'un
-minimum de ressources fixé à l'article L. 331-2 du code de la consommation.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°98-657 du 29 juillet 1998 - art. 103 () JORF 31 juillet 1998
-
-	**Transféré par**:
-
-	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 5 () JORF 24 mars 2006
-
-	**Cite**:
-
-	  - Code de la consommation - art. L331-2 (M)
-
-	**Nouveaux textes**:
-
-	  - Code civil - art. 2301 (T)
-	  - Code civil - art. 2301 (V)
-
-	**Cité par**:
-
-	  - Code du travail - art. R124-16 (M)
-
-	**Codifié par**:
-
-	  - Loi n°1804-02-14
-
-
-###### Article 2025
-
-Lorsque plusieurs personnes se sont rendues cautions d'un même débiteur pour une même dette, elles sont obligées chacune à
-toute la dette.
-
-**Liens relatifs à cet article**
-
-	**Transféré par**:
-
-	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 5 () JORF 24 mars 2006
-
-	**Nouveaux textes**:
-
-	  - Code civil - art. 2302 (T)
-	  - Code civil - art. 2302 (V)
-
-	**Codifié par**:
-
-	  - Loi n°1804-02-14
-
-	**Créé par**:
-
-	  - Loi n°1804-02-14 promulguée le 24 février 1804
-
-
-###### Article 2026
-
-Néanmoins chacune d'elles peut, à moins qu'elle n'ait renoncé au bénéfice de division, exiger que le créancier divise
-préalablement son action, et la réduise à la part et portion de chaque caution.
-
-Lorsque, dans le temps où une des cautions a fait prononcer la division, il y en avait d'insolvables, cette caution est tenue
-proportionnellement de ces insolvabilités ; mais elle ne peut plus être recherchée à raison des insolvabilités survenues
-depuis la division.
-
-**Liens relatifs à cet article**
-
-	**Nouveaux textes**:
-
-	  - Code civil - art. 2303 (MMN)
-	  - Code civil - art. 2303 (V)
-
-	**Codifié par**:
-
-	  - Loi n°1804-02-14
-
-	**Créé par**:
-
-	  - Loi n°1804-02-14 promulguée le 24 février 1804
-
-	**Transféré par**:
-
-	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 5 () JORF 24 mars 2006
-
-
-###### Article 2027
-
-Si le créancier a divisé lui-même et volontairement son action, il ne peut revenir contre cette division, quoiqu'il y eût,
-même antérieurement au temps où il l'a ainsi consentie, des cautions insolvables.
-
-**Liens relatifs à cet article**
-
-	**Nouveaux textes**:
-
-	  - Code civil - art. 2304 (MMN)
-	  - Code civil - art. 2304 (V)
-
-	**Codifié par**:
-
-	  - Loi n°1804-02-14
-
-	**Créé par**:
-
-	  - Loi n°1804-02-14 promulguée le 24 février 1804
-
-	**Transféré par**:
-
-	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 5 () JORF 24 mars 2006
-
-
-#### Section 2 : De l'effet du cautionnement entre le débiteur et la caution.
-
-###### Article 2028
-
-La caution qui a payé a son recours contre le débiteur principal, soit que le cautionnement ait été donné au su ou à l'insu
-du débiteur.
-
-Ce recours a lieu tant pour le principal que pour les intérêts et les frais ; néanmoins la caution n'a de recours que pour
-les frais par elle faits depuis qu'elle a dénoncé au débiteur principal les poursuites dirigées contre elle.
-
-Elle a aussi recours pour les dommages et intérêts, s'il y a lieu.
-
-**Liens relatifs à cet article**
-
-	**Nouveaux textes**:
-
-	  - Code civil - art. 2305 (MMN)
-	  - Code civil - art. 2305 (V)
-
-	**Codifié par**:
-
-	  - Loi n°1804-02-14
-
-	**Créé par**:
-
-	  - Loi n°1804-02-14 promulguée le 24 février 1804
-
-	**Transféré par**:
-
-	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 5 () JORF 24 mars 2006
-
-
-###### Article 2029
-
-La caution qui a payé la dette est subrogée à tous les droits qu'avait le créancier contre le débiteur.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Décret n°72-678 du 20 juillet 1972 - art. 43 (Ab)
-	  - Décret n°72-678 du 20 juillet 1972 - art. 48-6 (M)
-	  - Décret n°94-490 du 15 juin 1994 - art. 17 (M)
-	  - Code civil - art. 2372-1 (V)
-	  - Code civil - art. 2488-1 (V)
-
-	**Transféré par**:
-
-	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 5 () JORF 24 mars 2006
-
-	**Nouveaux textes**:
-
-	  - Code civil - art. 2306 (MMN)
-	  - Code civil - art. 2306 (V)
-
-	**Codifié par**:
-
-	  - Loi n°1804-02-14
-
-	**Créé par**:
-
-	  - Loi n°1804-02-14 promulguée le 24 février 1804
-
-
-###### Article 2030
-
-Lorsqu'il y avait plusieurs débiteurs principaux solidaires d'une même dette, la caution qui les a tous cautionnés, a, contre
-chacun d'eux, le recours pour la répétition du total de ce qu'elle a payé.
-
-**Liens relatifs à cet article**
-
-	**Nouveaux textes**:
-
-	  - Code civil - art. 2307 (MMN)
-
-	**Codifié par**:
-
-	  - Loi n°1804-02-14
-
-	**Créé par**:
-
-	  - Loi n°1804-02-14 promulguée le 24 février 1804
-
-	**Transféré par**:
-
-	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 5 () JORF 24 mars 2006
-
-
-###### Article 2031
-
-La caution qui a payé une première fois, n'a point de recours contre le débiteur principal qui a payé une seconde fois,
-lorsqu'elle ne l'a point averti du paiement par elle fait ; sauf son action en répétition contre le créancier.
-
-Lorsque la caution aura payé sans être poursuivie et sans avoir averti le débiteur principal, elle n'aura point de recours
-contre lui dans le cas où, au moment du paiement, ce débiteur aurait eu des moyens pour faire déclarer la dette éteinte ;
-sauf son action en répétition contre le créancier.
-
-**Liens relatifs à cet article**
-
-	**Transféré par**:
-
-	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 5 () JORF 24 mars 2006
-
-	**Cité par**:
-
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 223 VB (Ab)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 792 ter (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code civil - art. 2308 (MMN)
-	  - Code civil - art. 2308 (V)
-
-	**Codifié par**:
-
-	  - Loi n°1804-02-14
-
-	**Créé par**:
-
-	  - Loi n°1804-02-14 promulguée le 24 février 1804
-
-
 ## Titre XV : Des transactions
 
 ###### Article 2044
@@ -61114,460 +60448,6 @@ raison d'une activité professionnelle.
 	**Codifié par**:
 
 	  - Loi n°72-626 1972-07-05
-
-
-## Titre XVIII : Des privilèges et hypothèques.
-
-### Chapitre VIII : Du mode de purger les propriétés des privilèges et hypothèques.
-
-###### Article 2190
-
-Le désistement du créancier requérant la mise aux enchères, ne peut, même quand le créancier paierait le montant de la
-soumission, empêcher l'adjudication publique, si ce n'est du consentement exprès de tous les autres créanciers hypothécaires.
-
-**Nota:**
-
-NOTA : Ordonnance 2006-346 du 6 mars 2006 art. 57 : Spécificités d'application.
-
-**Liens relatifs à cet article**
-
-	**Nouveaux textes**:
-
-	  - Code civil - art. 2485 (M)
-	  - Code civil - art. 2485 (V)
-
-	**Codifié par**:
-
-	  - Loi n°1804-03-19
-
-	**Créé par**:
-
-	  - Loi n°1804-03-19 promulguée le 29 mars 1804
-
-	**Transféré par**:
-
-	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
-
-
-###### Article 2191
-
-L'acquéreur qui se sera rendu adjudicataire aura son recours tel que de droit contre le vendeur, pour le remboursement de ce
-qui excède le prix stipulé par son titre, et pour l'intérêt de cet excédent, à compter du jour de chaque paiement.
-
-**Nota:**
-
-NOTA : Ordonnance 2006-346 du 6 mars 2006 art. 57 : Spécificités d'application.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Loi n°91-650 du 9 juillet 1991 - art. 31 (VT)
-	  - Décret n°2006-936 du 27 juillet 2006 - art. 49 (Ab)
-
-	**Transféré par**:
-
-	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
-
-	**Nouveaux textes**:
-
-	  - Code civil - art. 2486 (M)
-	  - Code civil - art. 2486 (V)
-
-	**Codifié par**:
-
-	  - Loi n°1804-03-19
-
-	**Créé par**:
-
-	  - Loi n°1804-03-19 promulguée le 29 mars 1804
-
-
-###### Article 2192
-
-Dans le cas où le titre du nouveau propriétaire comprendrait des immeubles et des meubles, ou plusieurs immeubles, les uns
-hypothéqués, les autres non hypothéqués, situés dans le même ou dans divers arrondissements de bureaux, aliénés pour un seul
-et même prix, ou pour des prix distincts et séparés, soumis ou non à la même exploitation, le prix de chaque immeuble frappé
-d'inscriptions particulières et séparées, sera déclaré dans la notification du nouveau propriétaire, par ventilation, s'il y
-a lieu, du prix total exprimé dans le titre.
-
-Le créancier surenchérisseur ne pourra, en aucun cas, être contraint d'étendre sa soumission ni sur le mobilier, ni sur
-d'autres immeubles que ceux qui sont hypothéqués à sa créance et situés dans le même arrondissement ; sauf le recours du
-nouveau propriétaire contre ses auteurs, pour l'indemnité du dommage qu'il éprouverait, soit de la division des objets de son
-acquisition, soit de celle des exploitations.
-
-**Nota:**
-
-NOTA : Ordonnance 2006-346 du 6 mars 2006 art. 57 : Spécificités d'application.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1804-03-19
-
-	**Créé par**:
-
-	  - Loi n°1804-03-19 promulguée le 29 mars 1804
-
-	**Transféré par**:
-
-	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
-
-	**Nouveaux textes**:
-
-	  - Code civil - art. 2487 (M)
-	  - Code civil - art. 2487 (V)
-
-
-### Chapitre X : De la publicité des registres et de la responsabilité des conservateurs.
-
-###### Article 2196
-
-Les conservateurs des hypothèques sont tenus de délivrer, à tous ceux qui le requièrent, copie ou extrait des documents,
-autres que les bordereaux d'inscription, déposés à leur bureau dans la limite des cinquante années précédant celle de la
-réquisition, et copie ou extrait des inscriptions subsistantes ou certificat qu'il n'existe aucun document ou inscription
-entrant dans le cadre de la réquisition.
-
-Ils sont également tenus de délivrer sur réquisition, dans un délai de dix jours, des copies ou extraits du fichier
-immobilier ou certificat qu'il n'existe aucune fiche entrant dans le cadre de la réquisition.
-
-**Nota:**
-
-NOTA : Ordonnance 2006-346 du 6 mars 2006 art. 57 : Spécificités d'application.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°55-22 du 4 janvier 1955 - art. 8 () JORF 7 janvier 1955
-	  - Ordonnance n°67-839 du 28 septembre 1967 - art. 6 () JORF 29 septembre 1967
-
-	**Cité par**:
-
-	  - Décret n°55-22 du 4 janvier 1955 - art. 43 (V)
-	  - Décret n°55-22 du 4 janvier 1955 - art. 9 (M)
-	  - Décret n°55-1350 du 14 octobre 1955 - art. 13 (M)
-	  - Décret n°55-1350 du 14 octobre 1955 - art. 41 (VD)
-	  - Décret n°63-1123 du 9 novembre 1963 - art. 4 (M)
-	  - Loi n°78-753 du 17 juillet 1978 - art. 21 (M)
-	  - Décret n°85-1388 du 27 décembre 1985 - art. 141 (Ab)
-	  - Décret n°2005-1677 du 28 décembre 2005 - art. 291 (M)
-
-	**Transféré par**:
-
-	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
-
-	**Nouveaux textes**:
-
-	  - Code civil - art. 2449 (V)
-
-	**Codifié par**:
-
-	  - Loi n°1804-03-19
-
-	**Créé par**:
-
-	  - Loi n°1804-03-19 promulguée le 29 mars 1804
-
-
-###### Article 2197
-
-Ils sont responsables du préjudice résultant :
-
-1° Du défaut de publication des actes et décisions judiciaires déposés à leurs bureaux, et des inscriptions requises, toute
-les fois que ce défaut de publication ne résulte pas d'une décision de refus ou de rejet ;
-
-2° De l'omission, dans les certificats qu'ils délivrent, d'une ou de plusieurs des inscriptions existantes, à moins dans ce
-dernier cas, que l'erreur ne provînt de désignations insuffisantes ou inexactes qui ne pourraient leur être imputées.
-
-**Nota:**
-
-NOTA : Ordonnance 2006-346 du 6 mars 2006 art. 57 : Spécificités d'application.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Décret n°55-22 du 4 janvier 1955 - art. 41 (M)
-	  - Décret n°55-1350 du 14 octobre 1955 - art. 85-2 (M)
-	  - Décret n°55-1350 du 14 octobre 1955 - art. 85-4 (M)
-
-	**Modifié par**:
-
-	  - Décret n°59-89 1959-01-07 art. 13 JORF 8 janvier 1959
-
-	**Nouveaux textes**:
-
-	  - Code civil - art. 2450 (V)
-
-	**Codifié par**:
-
-	  - Loi n°1804-03-19
-
-	**Créé par**:
-
-	  - Loi n°1804-03-19 promulguée le 29 mars 1804
-
-	**Transféré par**:
-
-	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
-
-
-###### Article 2198
-
-Lorsque le conservateur, délivrant un certificat au nouveau titulaire d'un droit visé à l'article 2181, omet une inscription
-de privilège ou d'hypothèque, le droit demeure dans les mains du nouveau titulaire, affranchi du privilège ou de l'hypothèque
-non révélé, pourvu que la délivrance du certificat ait été requise par l'intéressé en conséquence de la publication de son
-titre. Sans préjudice de son recours éventuel contre le conservateur, le créancier bénéficiaire de l'inscription omise ne
-perd pas le droit de se prévaloir du rang que cette inscription lui confère tant que le prix n'a pas été payé par l'acquéreur
-ou que l'intervention dans l'ordre ouvert entre les autres créanciers est autorisée.
-
-**Nota:**
-
-NOTA : Ordonnance 2006-346 du 6 mars 2006 art. 57 : Spécificités d'application.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°59-89 1959-01-07 art. 13 JORF 8 janvier 1959
-	  - Ordonnance n°67-839 du 28 septembre 1967 - art. 7 () JORF 29 septembre 1967
-
-	**Transféré par**:
-
-	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
-
-	**Cite**:
-
-	  - Code civil - art. 2181 (T)
-
-	**Nouveaux textes**:
-
-	  - Code civil - art. 2451 (V)
-
-	**Cité par**:
-
-	  - Code de la consommation - art. L331-3-2 (VT)
-	  - Code de la consommation - art. L332-6 (VT)
-	  - Code de la consommation - art. L722-8 (VD)
-	  - Code de la consommation - art. L742-7 (VD)
-
-	**Codifié par**:
-
-	  - Loi n°1804-03-19
-
-	**Créé par**:
-
-	  - Loi n°1804-03-19 promulguée le 29 mars 1804
-
-
-###### Article 2199
-
-En dehors des cas où ils sont fondés à refuser le dépôt ou à rejeter une formalité, conformément aux dispositions
-législatives ou réglementaires, sur la publicité foncière, les conservateurs ne peuvent refuser ni retarder l'exécution d'une
-formalité ni la délivrance des documents régulièrement requis, sous peine des dommages et intérêts des parties ; à l'effet de
-quoi, procès-vebaux des refus ou retardements seront, à la diligence des requérants, dressés sur-le-champ, soit par un juge
-du tribunal d'instance, soit par un huissier audiencier du tribunal, soit par un autre huissier ou un notaire assisté de deux
-témoins.
-
-**Nota:**
-
-NOTA : Ordonnance 2006-346 du 6 mars 2006 art. 57 : Spécificités d'application.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°59-89 1959-01-07 art. 13 JORF 8 janvier 1959
-
-	**Transféré par**:
-
-	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
-
-	**Nouveaux textes**:
-
-	  - Code civil - art. 2452 (V)
-
-	**Codifié par**:
-
-	  - Loi n°1804-03-19
-
-	**Créé par**:
-
-	  - Loi n°1804-03-19 promulguée le 29 mars 1804
-
-
-###### Article 2200
-
-Les conservateurs seront tenus d'avoir un registre sur lequel ils inscriront, jour par jour, et par ordre numérique, les
-remises qui leur seront faites d'actes, décisions judiciaires, bordereaux et, généralement, de documents déposés en vue de
-l'exécution d'une formalité de publicité.
-
-Ils ne pourront exécuter les formalités qu'à la date et dans l'ordre des remises qui leur auront été faites.
-
-Chaque année, une reproduction des registres clôturés pendant l'année précédente sera déposée sans frais au greffe d'un
-tribunal de grande instance ou d'un tribunal d'instance situés dans un arrondissement autre que celui où réside le
-conservateur. 
-
-Le tribunal au greffe duquel sera déposée la reproduction sera désigné par arrêté du ministre de la justice.
-
-Un décret déterminera les modalités d'application du présent article et, notamment, les procédés techniques susceptibles
-d'être employés pour l'établissement de la reproduction à déposer au greffe.
-
-**Nota:**
-
-NOTA : Ordonnance 2006-346 du 6 mars 2006 art. 57 : Spécificités d'application.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°55-22 du 4 janvier 1955 - art. 50 () JORF 7 janvier 1955
-	  - Décret n°59-89 1959-01-07 art. 13 JORF 8 janvier 1959
-	  - Décret n°60-4 1960-01-06 art. 1 JORF 12 janvier 1960
-
-	**Cité par**:
-
-	  - Décret n°55-22 du 4 janvier 1955 - art. 31 (M)
-	  - Décret n°55-1350 du 14 octobre 1955 - art. 23 (M)
-	  - Décret n°55-1350 du 14 octobre 1955 - art. 28 (M)
-	  - Décret n°55-1350 du 14 octobre 1955 - art. 34 (M)
-	  - Décret n°55-1350 du 14 octobre 1955 - art. 51 (M)
-	  - Décret n°55-1350 du 14 octobre 1955 - art. 52 (Ab)
-	  - Décret n°55-1350 du 14 octobre 1955 - art. 77 (M)
-	  - Décret n°55-1350 du 14 octobre 1955 - art. 77-2 (M)
-	  - Ordonnance n°2006-461 du 21 avril 2006 - art. 24 (VT)
-	  - Décret n°2006-936 du 27 juillet 2006 - art. 26 (Ab)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 970 (Ab)
-	  - Code civil - art. 2134 (T)
-	  - Code civil - art. 2150 (T)
-	  - Code civil - art. 2203 (T)
-	  - Code de procédure civile - art. 674 (M)
-
-	**Transféré par**:
-
-	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
-
-	**Nouveaux textes**:
-
-	  - Code civil - art. 2453 (V)
-
-	**Codifié par**:
-
-	  - Loi n°1804-03-19
-
-	**Créé par**:
-
-	  - Loi n°1804-03-19 promulguée le 29 mars 1804
-
-
-###### Article 2201
-
-Le registre tenu en exécution de l'article précédent est coté et paraphé à chaque page, par première et dernière, par le juge
-d'instance dans le ressort duquel le bureau est établi. Il est arrêté chaque jour.
-
-Par dérogation à l'alinéa précédent, un document informatique écrit peut tenir lieu de registre ; dans ce cas, il doit être
-identifié, numéroté et daté dès son établissement par des moyens offrant toute garantie en matière de preuve.
-
-**Nota:**
-
-NOTA : Ordonnance 2006-346 du 6 mars 2006 art. 57 : Spécificités d'application.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Décret n°55-22 du 4 janvier 1955 - art. 8-1 (M)
-	  - Code civil - art. 2198 (VT)
-	  - Code civil - art. 2200 (VT)
-	  - Code civil - art. 2203-1 (T)
-
-	**Codifié par**:
-
-	  - Loi n°1804-03-19
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°98-261 1998-04-06 art. 21 *date d'effet*
-
-	**Modifié par**:
-
-	  - Loi n°98-261 du 6 avril 1998 - art. 14 () JORF 7 avril 1998 en vigueur le 1er juillet 1998
-
-	**Transféré par**:
-
-	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
-
-	**Nouveaux textes**:
-
-	  - Code civil - art. 2454 (V)
-
-
-###### Article 2202
-
-Les conservateurs sont tenus de se conformer, dans l'exercice de leurs fonctions, à toutes les dispositions du présent
-chapitre, à peine d'une amende de 30 à 300 euros pour la première contravention [*sanctions civiles*], et de destitution pour
-la seconde ; sans préjudice des dommages et intérêts des parties, lesquels seront payés avant l'amende.
-
-**Nota:**
-
-NOTA : Ordonnance 2006-346 du 6 mars 2006 art. 57 : Spécificités d'application.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1804-03-19
-
-	**Modifié par**:
-
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-
-	**Transféré par**:
-
-	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
-
-	**Nouveaux textes**:
-
-	  - Code civil - art. 2455 (V)
-
-	**Cité par**:
-
-	  - Code de l'industrie cinématographique - art. 37 (M)
-
-
-###### Article 2203
-
-Les mentions de dépôts sont faites sur le registre dont la tenue est prescrite par l'article 2200, de suite, sans aucun blanc
-ni interligne, à peine, contre le conservateur, de 60 à 600 euros d'amende, et des dommages et intérêts des parties, payables
-aussi par préférence à l'amende (sanctions civiles).
-
-**Nota:**
-
-NOTA : Ordonnance 2006-346 du 6 mars 2006 art. 57 : Spécificités d'application.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1804-03-19
-
-	**Modifié par**:
-
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-
-	**Transféré par**:
-
-	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
-
-	**Cite**:
-
-	  - Code civil - art. 2200 (T)
-
-	**Nouveaux textes**:
-
-	  - Code civil - art. 2456 (V)
 
 
 ## Titre XIX : De la saisie et de la distribution du prix de vente de l'immeuble

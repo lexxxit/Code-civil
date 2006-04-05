@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 2006-04-05
+Version Consolidée au 2006-04-06
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -45860,9 +45860,10 @@ recherchée sur le fondement des articles 1792 à 1792-6 et 1646-1.
 
 ###### Article 1386-7
 
-Le vendeur, le loueur, à l'exception du crédit-bailleur ou du loueur assimilable au crédit-bailleur, ou tout autre
-fournisseur professionnel n'est responsable du défaut de sécurité du produit dans les mêmes conditions que le producteur que
-si ce dernier demeure inconnu.
+Si le producteur ne peut être identifié, le vendeur, le loueur, à l'exception du crédit-bailleur ou du loueur assimilable au
+crédit-bailleur, ou tout autre fournisseur professionnel, est responsable du défaut de sécurité du produit, dans les mêmes
+conditions que le producteur, à moins qu'il ne désigne son propre fournisseur ou le producteur, dans un délai de trois mois à
+compter de la date à laquelle la demande de la victime lui a été notifiée.
 
 Le recours du fournisseur contre le producteur obéit aux mêmes règles que la demande émanant de la victime directe du défaut.
 Toutefois, il doit agir dans l'année suivant la date de sa citation en justice.
@@ -45875,11 +45876,15 @@ Toutefois, il doit agir dans l'année suivant la date de sa citation en justice.
 
 	**Modifié par**:
 
-	  - Loi n°2004-1343 du 9 décembre 2004 - art. 29 () JORF 10 décembre 2004
+	  - Loi n°2006-406 du 5 avril 2006 - art. 2 (V) JORF 6 avril 2006
 
 	**Cité par**:
 
 	  - Loi n°2006-406 du 5 avril 2006 - art. 2 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 4
 
 
 ###### Article 1386-8

@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 2006-04-06
+Version Consolidée au 2006-07-01
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -1029,18 +1029,9 @@ acte d'option, cet acte est déterminé dans sa forme par la loi de celui des pa
 
 ###### Article 18
 
-Est français l'enfant, légitime ou naturel, dont l'un des parents au moins est français.
+Est français l'enfant dont l'un des parents au moins est français.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°1803-03-08 promulguée le 18 mars 1803
-	  - Loi n°93-933 du 22 juillet 1993 - art. 50 () JORF 23 juillet 1993
-
-	**Abrogé par**:
-
-	  - Loi n°1927-08-10 art. 13
 
 	**Codifié par**:
 
@@ -1050,6 +1041,14 @@ Est français l'enfant, légitime ou naturel, dont l'un des parents au moins est
 
 	  - Décret n°93-1362 du 30 décembre 1993 - art. 22 (V)
 	  - Code civil - art. 20 (V)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2005-759 2005-07-04 art. 20 : Spécificité d'application
+
+	**Modifié par**:
+
+	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 17 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
 
 	**Anciens textes**:
 
@@ -1169,7 +1168,7 @@ Est présumé né en France l'enfant dont l'acte de naissance a été dressé co
 
 ###### Article 19-3
 
-Est français l'enfant, légitime ou naturel, né en France lorsque l'un de ses parents au moins y est lui-même né.
+Est français l'enfant né en France lorsque l'un de ses parents au moins y est lui-même né.
 
 **Liens relatifs à cet article**
 
@@ -1177,16 +1176,20 @@ Est français l'enfant, légitime ou naturel, né en France lorsque l'un de ses 
 
 	  - Loi n°93-933 1993-07-22
 
-	**Créé par**:
-
-	  - Loi n°93-933 du 22 juillet 1993 - art. 50 () JORF 23 juillet 1993
-
 	**Cité par**:
 
 	  - Décret n°93-1362 du 30 décembre 1993 - art. 23 (V)
 	  - Code civil - art. 19-4 (V)
 	  - Code civil - art. 20 (V)
 	  - Code civil - art. 20-5 (V)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2005-759 2005-07-04 art. 20 : Spécificité d'application
+
+	**Modifié par**:
+
+	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 17 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
 
 	**Anciens textes**:
 
@@ -2484,9 +2487,8 @@ la qualité de Français, à dater du jour de cette acquisition.
 
 ###### Article 22-1
 
-L'enfant mineur, légitime, naturel, ou ayant fait l'objet d'une adoption plénière, dont l'un des deux parents acquiert la
-nationalité française, devient français de plein droit s'il a la même résidence habituelle que ce parent ou s'il réside
-alternativement avec ce parent dans le cas de séparation ou divorce.
+L'enfant mineur dont l'un des deux parents acquiert la nationalité française, devient français de plein droit s'il a la même
+résidence habituelle que ce parent ou s'il réside alternativement avec ce parent dans le cas de séparation ou divorce.
 
 Les dispositions du présent article ne sont applicables à l'enfant d'une personne qui acquiert la nationalité française par
 décision de l'autorité publique ou par déclaration de nationalité que si son nom est mentionné dans le décret ou dans la
@@ -2514,9 +2516,13 @@ déclaration.
 
 	  - Loi n°93-933 1993-07-22
 
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2005-759 2005-07-04 art. 20 : Spécificité d'application
+
 	**Modifié par**:
 
-	  - Loi n°99-1141 du 29 décembre 1999 - art. 3 () JORF 30 décembre 1999
+	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 17 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
 
 	**Anciens textes**:
 
@@ -4532,8 +4538,8 @@ L'acte de naissance sera rédigé immédiatement.
 L'acte de naissance énoncera le jour, l'heure et le lieu de la naissance, le sexe de l'enfant, les prénoms qui lui seront
 donnés, le nom de famille, suivi le cas échéant de la mention de la déclaration conjointe de ses parents quant au choix
 effectué, ainsi que les prénoms, noms, âges, professions et domiciles des père et mère et, s'il y a lieu, ceux du déclarant.
-Si les père et mère de l'enfant naturel, ou l'un d'eux, ne sont pas désignés à l'officier de l'état civil, il ne sera fait
-sur les registres aucune mention à ce sujet.
+Si les père et mère de l'enfant ou l'un d'eux ne sont pas désignés à l'officier de l'état civil, il ne sera fait sur les
+registres aucune mention à ce sujet.
 
 Les prénoms de l'enfant sont choisis par ses père et mère. La femme qui a demandé le secret de son identité lors de
 l'accouchement peut faire connaître les prénoms qu'elle souhaite voir attribuer à l'enfant. A défaut ou lorsque les parents
@@ -4541,7 +4547,7 @@ de celui-ci ne sont pas connus, l'officier de l'état civil choisit trois préno
 à l'enfant. L'officier de l'état civil porte immédiatement sur l'acte de naissance les prénoms choisis. Tout prénom inscrit
 dans l'acte de naissance peut être choisi comme prénom usuel.
 
-Lorsque ces prénoms ou l'un deux, seul ou associé aux autres prénoms ou au nom, lui paraissent contraires à l'intérêt de
+Lorsque ces prénoms ou l'un d'eux, seul ou associé aux autres prénoms ou au nom, lui paraissent contraires à l'intérêt de
 l'enfant ou au droit des tiers à voir protéger leur nom de famille, l'officier de l'état civil en avise sans délai le
 procureur de la République. Celui-ci peut saisir le juge aux affaires familiales.
 
@@ -4572,11 +4578,11 @@ Mention de la décision est portée en marge des actes de l'état civil de l'enf
 
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°2003-516 2003-06-18 art. 13
+	  - SPEC_APPLI: Ordonnance 2005-759 2005-07-04 art. 20 : Spécificité d'application
 
 	**Modifié par**:
 
-	  - Loi n°2003-516 du 18 juin 2003 - art. 1 () JORF 19 juin 2003 en vigueur le 1er janvier 2005
+	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 17 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
 
 	**Codifié par**:
 
@@ -4585,9 +4591,8 @@ Mention de la décision est portée en marge des actes de l'état civil de l'enf
 
 ###### Article 57-1
 
-Lorsque l'officier de l'état civil du lieu de naissance d'un enfant naturel porte mention de la reconnaissance dudit enfant
-en marge de l'acte de naissance de celui-ci, il en avise l'autre parent par lettre recommandée avec demande d'avis de
-réception.
+Lorsque l'officier de l'état civil du lieu de naissance d'un enfant porte mention de la reconnaissance dudit enfant en marge
+de l'acte de naissance de celui-ci, il en avise l'autre parent par lettre recommandée avec demande d'avis de réception.
 
 Si ce parent ne peut être avisé, l'officier de l'état civil en informe le procureur de la République, qui fait procéder aux
 diligences utiles.
@@ -4598,9 +4603,13 @@ diligences utiles.
 
 	  - Loi n°1803-03-11
 
-	**Créé par**:
+	**Liens**:
 
-	  - Loi n°96-604 du 5 juillet 1996 - art. 25 () JORF 6 juillet 1996
+	  - SPEC_APPLI: Ordonnance 2005-759 2005-07-04 art. 20 : Spécificité d'application
+
+	**Modifié par**:
+
+	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 17 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
 
 
 ###### Article 58
@@ -4885,8 +4894,8 @@ Les dispositions des articles 100 et 101 sont applicables aux modifications de p
 
 ###### Article 62
 
-L'acte de reconnaissance d'un enfant naturel énonce les prénoms, nom, date de naissance ou, à défaut, âge, lieu de naissance
-et domicile de l'auteur de la reconnaissance.
+L'acte de reconnaissance énonce les prénoms, nom, date de naissance ou, à défaut, âge, lieu de naissance et domicile de
+l'auteur de la reconnaissance.
 
 Il indique les date et lieu de naissance, le sexe et les prénoms de l'enfant ou, à défaut, tous renseignements utiles sur la
 naissance, sous réserve des dispositions de l'article 341-1.
@@ -4913,11 +4922,11 @@ Lors de l'établissement de l'acte de reconnaissance, il sera fait lecture à so
 
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°2002-305 2002-03-04 art. 19 I (application à Mayotte)
+	  - SPEC_APPLI: Ordonnance 2005-759 2005-07-04 art. 20 : Spécificité d'application
 
 	**Modifié par**:
 
-	  - Loi n°2002-305 du 4 mars 2002 - art. 10 () JORF 5 mars 2002
+	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 17 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
 
 	**Cite**:
 
@@ -4943,9 +4952,13 @@ l'acte de naissance de l'enfant.
 
 	  - Loi n°1803-03-11
 
-	**Créé par**:
+	**Liens**:
 
-	  - Loi n°2002-93 du 22 janvier 2002 - art. 14 () JORF 23 janvier 2002
+	  - SPEC_APPLI: Ordonnance 2005-759 2005-07-04 art. 20 : Spécificité d'application
+
+	**Modifié par**:
+
+	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 17 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
 
 	**Cité par**:
 
@@ -7632,72 +7645,24 @@ L'officier de l'état civil qui n'aura pas exigé la justification de la notific
 	  - Loi n°1803-03-17 promulguée le 27 mars 1803
 
 
-###### Article 158
-
-L'enfant naturel légalement reconnu qui n'a pas atteint l'âge de dix-huit ans accomplis ne peut contracter mariage sans avoir
-obtenu le consentement de celui de ses père et mère qui l'a reconnu, ou de l'un et de l'autre s'il a été reconnu par tous
-deux.
-
-En cas de dissentiment entre le père et la mère, ce partage emporte consentement.
-
-Si l'un des deux est mort ou s'il est dans l'impossibilité de manifester sa volonté, le consentement de l'autre suffit. Les
-dispositions contenues aux alinéas 3, 4 et 5 de l'article 149 sont applicables à l'enfant naturel mineur.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°1803-03-17 promulguée le 27 mars 1803
-
-	**Liens**:
-
-	  - SPEC_APPLI: Ordonnance 2005-759 2005-07-04 art. 20 : Spécificité d'application
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 18 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
-
-	**Cite**:
-
-	  - Code civil - art. 149 (M)
-
-	**Cité par**:
-
-	  - Code civil - art. 151 (V)
-
-
 ###### Article 159
 
 S'il n'y a ni père, ni mère, ni aïeuls, ni aïeules, ou s'ils se trouvent tous dans l'impossibilité de manifester leur
 volonté, les mineurs de dix-huit ans ne peuvent contracter mariage sans le consentement du conseil de famille.
 
-L'enfant naturel qui n'a point été reconnu, et celui qui, après l'avoir été, a perdu ses père et mère ou dont les père et
-mère ne peuvent manifester leur volonté, ne pourront, avant l'âge de dix-huit ans révolus, se marier qu'après avoir obtenu le
-consentement du conseil de famille.
-
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Loi n°1803-03-14
 
-	**Créé par**:
+	**Liens**:
 
-	  - Loi n°1803-03-17 promulguée le 27 mars 1803
+	  - SPEC_APPLI: Ordonnance 2005-759 2005-07-04 art. 20 : Spécificité d'application
 
 	**Modifié par**:
 
-	  - Loi n°64-1230 du 14 décembre 1964 - art. 2 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°64-1230 du 14 décembre 1964 - art. 6 (V)
-	  - SPEC_APPLI: Loi n°64-1230 du 14 décembre 1964 - art. 7 (V)
-	  - SPEC_APPLI: Loi n°64-1230 du 14 décembre 1964 - art. 8 (V)
+	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 18 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
 
 	**Cité par**:
 
@@ -7739,10 +7704,17 @@ Toutefois, le mineur pourra prêter directement serment en présence des membres
 
 ###### Article 161
 
-En ligne directe, le mariage est prohibé entre tous les ascendants et descendants légitimes ou naturels, et les alliés dans
-la même ligne.
+En ligne directe, le mariage est prohibé entre tous les ascendants et descendants et les alliés dans la même ligne.
 
 **Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2005-759 2005-07-04 art. 20 : Spécificité d'application
+
+	**Modifié par**:
+
+	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 17 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
 
 	**Cité par**:
 
@@ -7762,20 +7734,20 @@ la même ligne.
 
 	  - Loi n°1803-03-14
 
-	**Créé par**:
-
-	  - Loi n°1803-03-17 promulguée le 27 mars 1803
-
 
 ###### Article 162
 
-En ligne collatérale, le mariage est prohibé, entre le frère et la soeur légitimes ou naturels.
+En ligne collatérale, le mariage est prohibé, entre le frère et la soeur.
 
 **Liens relatifs à cet article**
 
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2005-759 2005-07-04 art. 20 : Spécificité d'application
+
 	**Modifié par**:
 
-	  - Loi n°75-617 1975-07-11 art. 9 JORF 12 juillet 1975 en vigueur le 1er juillet 1976
+	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 17 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
 
 	**Cité par**:
 
@@ -7790,20 +7762,20 @@ En ligne collatérale, le mariage est prohibé, entre le frère et la soeur lég
 
 	  - Loi n°1803-03-14
 
-	**Créé par**:
-
-	  - Loi n°1803-03-17 promulguée le 27 mars 1803
-
 
 ###### Article 163
 
-Le mariage est encore prohibé entre l'oncle et la nièce, la tante et le neveu, que la parenté soit légitime ou naturelle.
+Le mariage est encore prohibé entre l'oncle et la nièce, la tante et le neveu.
 
 **Liens relatifs à cet article**
 
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2005-759 2005-07-04 art. 20 : Spécificité d'application
+
 	**Modifié par**:
 
-	  - Loi n°72-3 du 3 janvier 1972 - art. 3 () JORF 5 janvier 1972 en vigueur le 1er août 1972
+	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 17 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
 
 	**Cité par**:
 
@@ -7816,10 +7788,6 @@ Le mariage est encore prohibé entre l'oncle et la nièce, la tante et le neveu,
 	**Codifié par**:
 
 	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°1803-03-17 promulguée le 27 mars 1803
 
 
 ###### Article 164
@@ -12782,7 +12750,7 @@ au divorce.
 
 ### Chapitre V : Du conflit des lois relatives au divorce et à la séparation de corps
 
-###### Article 310
+###### Article 309
 
 Le divorce et la séparation de corps sont régis par la loi française :
 
@@ -12795,22 +12763,43 @@ divorce ou de la séparation de corps.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
-
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+	  - SPEC_APPLI: Ordonnance 2005-759 2005-07-04 art. 20 : Spécificité d'application
 
-	**Transféré par**:
+	**Créé par**:
 
 	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 2 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
+
+	**Anciens textes**:
+
+	  - Code civil - art. 310 (T)
 
 	**Codifié par**:
 
 	  - Loi n°1803-03-14
+
+
+## Titre VII : De la filiation
+
+###### Article 310
+
+Tous les enfants dont la filiation est légalement établie ont les mêmes droits et les mêmes devoirs dans leurs rapports avec
+leur père et mère. Ils entrent dans la famille de chacun d'eux.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2005-759 2005-07-04 art. 20 : Spécificité d'application
+
+	**Modifié par**:
+
+	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 2 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
 
 	**Nouveaux textes**:
 
@@ -12825,36 +12814,85 @@ divorce ou de la séparation de corps.
 	  - Loi n°1941-04-02 du 2 avril 1941 - art. 6 (Ab)
 
 
-## Titre VII : De la filiation
-
 ### Chapitre Ier : Dispositions générales
 
 ###### Article 310-1
 
-Tous les enfants dont la filiation est légalement établie ont les mêmes droits et les mêmes devoirs dans leurs rapports avec
-leur père et mère. Ils entrent dans la famille de chacun d'eux.
+La filiation est légalement établie, dans les conditions prévues au chapitre II du présent titre, par l'effet de la loi, par
+la reconnaissance volontaire ou par la possession d'état constatée par un acte de notoriété.
+
+Elle peut aussi l'être par jugement dans les conditions prévues au chapitre III du présent titre.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°2002-305 du 4 mars 2002 - art. 9 () JORF 5 mars 2002
-
-	**Transféré par**:
-
-	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 2 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
-
-	**Nouveaux textes**:
-
-	  - Code civil - art. 310 (T)
-	  - Code civil - art. 310 (V)
 
 	**Codifié par**:
 
 	  - Loi n°1803-03-14
 
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2005-759 2005-07-04 art. 20 : Spécificité d'application
+
+	**Modifié par**:
+
+	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 3 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
+	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 4 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 310 (V)
+
+
+###### Article 310-2
+
+S'il existe entre les père et mère de l'enfant un des empêchements à mariage prévus par les articles 161 et 162 pour cause de
+parenté, la filiation étant déjà établie à l'égard de l'un, il est interdit d'établir la filiation à l'égard de l'autre par
+quelque moyen que ce soit.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2005-759 2005-07-04 art. 20 : Spécificité d'application
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 4 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
+
+	**Cite**:
+
+	  - Code civil - art. 161 (V)
+	  - Code civil - art. 162 (V)
+
 
 #### Section 1 : Des preuves et présomptions
+
+###### Article 310-3
+
+La filiation se prouve par l'acte de naissance de l'enfant, par l'acte de reconnaissance ou par l'acte de notoriété
+constatant la possession d'état.
+
+Si une action est engagée en application du chapitre III du présent titre, la filiation se prouve et se conteste par tous
+moyens, sous réserve de la recevabilité de l'action.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2005-759 2005-07-04 art. 20 : Spécificité d'application
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 5 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
+
 
 ###### Article 311
 
@@ -12872,37 +12910,47 @@ La preuve contraire est recevable pour combattre ces présomptions.
 
 	  - Loi n°1803-03-14
 
-	**Créé par**:
-
-	  - Loi n°72-3 du 3 janvier 1972 - art. 1 () JORF 5 janvier 1972 en vigueur le 1er août 1972
-
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 11 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 12 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 13 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 14 (V)
+	  - SPEC_APPLI: Ordonnance 2005-759 2005-07-04 art. 20 : Spécificité d'application
+
+	**Modifié par**:
+
+	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 3 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
 
 
 ###### Article 311-1
 
-La possession d'état s'établit par une réunion suffisante de faits qui indiquent le rapport de filiation et de parenté entre
-un individu et la famille à laquelle il est dit appartenir.
+La possession d'état s'établit par une réunion suffisante de faits qui révèlent le lien de filiation et de parenté entre une
+personne et la famille à laquelle elle est dite appartenir.
 
-La possession d'état doit être continue.
+Les principaux de ces faits sont :
+
+1° Que cette personne a été traitée par celui ou ceux dont on la dit issue comme leur enfant et qu'elle-même les a traités
+comme son ou ses parents ;
+
+2° Que ceux-ci ont, en cette qualité, pourvu à son éducation, à son entretien ou à son installation ;
+
+3° Que cette personne est reconnue comme leur enfant, dans la société et par la famille ;
+
+4° Qu'elle est considérée comme telle par l'autorité publique ;
+
+5° Qu'elle porte le nom de celui ou ceux dont on la dit issue.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Codifié par**:
 
-	  - Loi n°72-3 du 3 janvier 1972 - art. 1 () JORF 5 janvier 1972 en vigueur le 1er août 1972
+	  - Loi n°1803-03-14
 
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 11 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 12 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 13 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 14 (V)
+	  - SPEC_APPLI: Ordonnance 2005-759 2005-07-04 art. 20 : Spécificité d'application
+
+	**Modifié par**:
+
+	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 2 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
+	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 5 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
 
 	**Cité par**:
 
@@ -12910,24 +12958,10 @@ La possession d'état doit être continue.
 	  - Code de l'entrée et du séjour des étrangers et ... - art. L111-6 (V)
 	  - Code de l'entrée et du séjour des étrangers et ... - art. L752-1 (V)
 
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
 
 ###### Article 311-2
 
-Les principaux de ces faits sont :
-
-Que l'individu a toujours porté le nom de ceux dont on le dit issu ;
-
-Que ceux-ci l'ont traité comme leur enfant, et qu'il les a traités comme ses père et mère ;
-
-Qu'ils ont, en cette qualité, pourvu à son éducation, à son entretien et à son établissement ;
-
-Qu'il est reconnu pour tel, dans la société et par la famille ;
-
-Que l'autorité publique le considère comme tel.
+La possession d'état doit être continue, paisible, publique et non équivoque.
 
 **Liens relatifs à cet article**
 
@@ -12935,362 +12969,21 @@ Que l'autorité publique le considère comme tel.
 
 	  - Loi n°1803-03-14
 
-	**Créé par**:
-
-	  - Loi n°72-3 du 3 janvier 1972 - art. 1 () JORF 5 janvier 1972 en vigueur le 1er août 1972
-
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 11 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 12 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 13 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 14 (V)
-
-
-### Chapitre Ier : Dispositions communes à la filiation légitime et à la filiation naturelle
-
-#### Section 1 : Des présomptions relatives à la filiation.
-
-###### Article 311-3
-
-Les parents ou l'enfant peuvent demander au juge des tutelles que leur soit délivré, dans les conditions prévues aux articles
-71 et 72 du présent code, un acte de notoriété faisant foi de la possession d'état jusqu'à preuve contraire ;
-
-Sans préjudice de tous autres moyens de preuve auxquels ils pourraient recourir pour en établir l'existence en justice, si
-elle venait à être contestée.
-
-Le lien de filiation établi par la possession d'état constatée dans l'acte de notoriété est mentionné en marge de l'acte de
-naissance de l'enfant.
-
-**Liens relatifs à cet article**
+	  - SPEC_APPLI: Ordonnance 2005-759 2005-07-04 art. 20 : Spécificité d'application
 
 	**Modifié par**:
 
-	  - Loi n°93-22 du 8 janvier 1993 - art. 13 () JORF 9 janvier 1993
-
-	**Liens**:
-
-	  - SPEC_APPLI: Ordonnance 2005-759 2005-07-04 art. 20 : Spécificité d'application
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 18 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
-
-	**Cite**:
-
-	  - Code civil - art. 71 (V)
-	  - Code civil - art. 72 (V)
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-
-#### Section 2 : Des actions relatives à la filiation.
-
-###### Article 311-4
-
-Aucune action n'est reçue quant à la filiation d'un enfant qui n'est pas né viable.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°72-3 du 3 janvier 1972 - art. 1 () JORF 5 janvier 1972 en vigueur le 1er août 1972
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 11 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 12 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 13 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 14 (V)
-
-	**Transféré par**:
-
 	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 2 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
+	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 5 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code civil - art. 318 (M)
-	  - Code civil - art. 318 (V)
+	  - Code civil 311-1 (al. 2)
 
 
-###### Article 311-5
-
-Le tribunal de grande instance, statuant en matière civile, est seul compétent pour connaître des actions relatives à la
-filiation.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°72-3 du 3 janvier 1972 - art. 1 () JORF 5 janvier 1972 en vigueur le 1er août 1972
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 11 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 12 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 13 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 14 (V)
-
-	**Transféré par**:
-
-	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 2 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
-
-	**Nouveaux textes**:
-
-	  - Code civil - art. 318-1 (M)
-	  - Code civil - art. 318-1 (V)
-
-
-###### Article 311-6
-
-En cas de délit portant atteinte à la filiation d'un individu, il ne peut être statué sur l'action pénale qu'après le
-jugement passé en force de chose jugée sur la question de filiation.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°72-3 du 3 janvier 1972 - art. 1 () JORF 5 janvier 1972 en vigueur le 1er août 1972
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 11 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 12 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 13 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 14 (V)
-
-	**Transféré par**:
-
-	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 2 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
-
-	**Nouveaux textes**:
-
-	  - Code civil - art. 319 (M)
-	  - Code civil - art. 319 (V)
-
-
-###### Article 311-7
-
-Toutes les fois qu'elles ne sont pas enfermées par la loi dans des termes plus courts, les actions relatives à la filiation
-se prescrivent par trente ans à compter du jour où l'individu aurait été privé de l'état qu'il réclame, ou a commencé à jouir
-de l'état qui lui est contesté.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°72-3 du 3 janvier 1972 - art. 1 () JORF 5 janvier 1972 en vigueur le 1er août 1972
-
-	**Cité par**:
-
-	  - Loi n°72-3 du 3 janvier 1972 - art. 15 (V)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Ordonnance 2005-759 2005-07-04 art. 20 : Spécificité d'application
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 18 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
-
-
-###### Article 311-8
-
-L'action qui appartenait à un individu quant à sa filiation ne peut être exercée par ses héritiers qu'autant qu'il est décédé
-mineur ou dans les cinq années après sa majorité ou son émancipation.
-
-Ses héritiers peuvent aussi poursuivre l'action qu'il avait déjà engagée, à moins qu'il n'y ait eu désistement ou péremption
-d'instance.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°72-3 du 3 janvier 1972 - art. 1 () JORF 5 janvier 1972 en vigueur le 1er août 1972
-
-	**Liens**:
-
-	  - SPEC_APPLI: Ordonnance 2005-759 2005-07-04 art. 20 : Spécificité d'application
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 18 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
-
-
-###### Article 311-9
-
-Les actions relatives à la filiation ne peuvent faire l'objet de renonciation.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°72-3 du 3 janvier 1972 - art. 1 () JORF 5 janvier 1972 en vigueur le 1er août 1972
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 11 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 12 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 13 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 14 (V)
-
-	**Transféré par**:
-
-	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 2 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
-
-	**Nouveaux textes**:
-
-	  - Code civil - art. 323 (M)
-	  - Code civil - art. 323 (V)
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-
-###### Article 311-10
-
-Les jugements rendus en matière de filiation sont opposables même aux personnes qui n'y ont point été parties ; mais celles-
-ci ont le droit d'y former tierce opposition.
-
-Les juges peuvent d'office ordonner que soient mis en cause tous les intéressés auxquels ils estiment que le jugement doit
-être rendu commun.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°72-3 du 3 janvier 1972 - art. 1 () JORF 5 janvier 1972 en vigueur le 1er août 1972
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 11 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 12 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 13 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 14 (V)
-
-	**Transféré par**:
-
-	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 2 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
-
-	**Nouveaux textes**:
-
-	  - Code civil - art. 324 (Ab)
-	  - Code civil - art. 324 (V)
-
-
-###### Article 311-11
-
-Pareillement quand, sur l'une des actions ouvertes par les articles 340 et 342 ci-dessous, il est opposé une défense tirée de
-ce que la mère a eu, pendant la période légale de la conception, des relations avec un tiers, le juge peut ordonner que
-celui-ci soit appelé en la cause.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Modifié par**:
-
-	  - Loi n°93-22 du 8 janvier 1993 - art. 14 () JORF 9 janvier 1993
-
-	**Liens**:
-
-	  - SPEC_APPLI: Ordonnance 2005-759 2005-07-04 art. 20 : Spécificité d'application
-	  - TXT_ASSOCIE: Code civil - art. 342-3 (Ab)
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 18 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
-
-	**Cite**:
-
-	  - Code civil - art. 340 (M)
-	  - Code civil - art. 342 (M)
-
-	**Cité par**:
-
-	  - Code civil - art. 342-3 (Ab)
-
-
-###### Article 311-12
-
-Les tribunaux règlent les conflits de filiation pour lesquels la loi n'a pas fixé d'autre principe, en déterminant par tous
-les moyens de preuve la filiation la plus vraisemblable.
-
-A défaut d'éléments suffisants de conviction, ils ont égard à la possession d'état.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°72-3 du 3 janvier 1972 - art. 1 () JORF 5 janvier 1972 en vigueur le 1er août 1972
-
-	**Liens**:
-
-	  - SPEC_APPLI: Ordonnance 2005-759 2005-07-04 art. 20 : Spécificité d'application
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 18 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
-
-
-###### Article 311-13
-
-Dans le cas où ils sont amenés à écarter la prétention de la partie qui élevait en fait l'enfant mineur, les tribunaux
-peuvent, néanmoins, compte tenu de l'intérêt de l'enfant, accorder à cette partie un droit de visite.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°72-3 du 3 janvier 1972 - art. 1 () JORF 5 janvier 1972 en vigueur le 1er août 1972
-
-	**Liens**:
-
-	  - SPEC_APPLI: Ordonnance 2005-759 2005-07-04 art. 20 : Spécificité d'application
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 18 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
-
-
-#### Section 3 : Du conflit des lois relatives à l'établissement de la filiation.
+#### Section 2 : Du conflit des lois relatives à la filiation
 
 ###### Article 311-14
 
@@ -13303,67 +12996,35 @@ par la loi personnelle de l'enfant.
 
 	  - Loi n°1803-03-14
 
-	**Créé par**:
-
-	  - Loi n°72-3 du 3 janvier 1972 - art. 1 () JORF 5 janvier 1972 en vigueur le 1er août 1972
-
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 11 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 12 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 13 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 14 (V)
+	  - SPEC_APPLI: Ordonnance 2005-759 2005-07-04 art. 20 : Spécificité d'application
+
+	**Modifié par**:
+
+	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 3 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
 
 
 ###### Article 311-15
 
-Toutefois, si l'enfant légitime et ses père et mère, l'enfant naturel et l'un de ses père et mère ont en France leur
-résidence habituelle, commune ou séparée, la possession d'état produit toutes les conséquences qui en découlent selon la loi
-française, lors même que les autres éléments de la filiation auraient pu dépendre d'une loi étrangère.
+Toutefois, si l'enfant et ses père et mère ou l'un d'eux ont en France leur résidence habituelle, commune ou séparée, la
+possession d'état produit toutes les conséquences qui en découlent selon la loi française, lors même que les autres éléments
+de la filiation auraient pu dépendre d'une loi étrangère.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°72-3 du 3 janvier 1972 - art. 1 () JORF 5 janvier 1972 en vigueur le 1er août 1972
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 11 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 12 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 13 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 14 (V)
-
-
-###### Article 311-16
-
-Le mariage emporte légitimation lorsque, au jour où l'union a été célébrée, cette conséquence est admise, soit par la loi
-régissant les effets du mariage, soit par la loi personnelle de l'un des époux, soit par la loi personnelle de l'enfant.
-
-La légitimation par autorité de justice est régie, au choix du requérant, soit par la loi personnelle de celui-ci, soit par
-la loi personnelle de l'enfant.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°72-3 du 3 janvier 1972 - art. 1 () JORF 5 janvier 1972 en vigueur le 1er août 1972
 
 	**Liens**:
 
 	  - SPEC_APPLI: Ordonnance 2005-759 2005-07-04 art. 20 : Spécificité d'application
 
-	**Abrogé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 18 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
+	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 3 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
+	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 6 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
 
 
 ###### Article 311-17
@@ -13377,16 +13038,13 @@ personnelle de son auteur, soit de la loi personnelle de l'enfant.
 
 	  - Loi n°1803-03-14
 
-	**Créé par**:
-
-	  - Loi n°72-3 du 3 janvier 1972 - art. 1 () JORF 5 janvier 1972 en vigueur le 1er août 1972
-
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 11 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 12 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 13 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 14 (V)
+	  - SPEC_APPLI: Ordonnance 2005-759 2005-07-04 art. 20 : Spécificité d'application
+
+	**Modifié par**:
+
+	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 3 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
 
 
 ###### Article 311-18
@@ -13400,19 +13058,20 @@ la résidence habituelle du débiteur.
 
 	  - Loi n°1803-03-14
 
-	**Créé par**:
-
-	  - Loi n°72-3 du 3 janvier 1972 - art. 1 () JORF 5 janvier 1972 en vigueur le 1er août 1972
-
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 11 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 12 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 13 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 14 (V)
+	  - SPEC_APPLI: Ordonnance 2005-759 2005-07-04 art. 20 : Spécificité d'application
+
+	**Modifié par**:
+
+	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 3 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
+
+	**Abrogé par**:
+
+	  - Loi n°2009-61 du 16 janvier 2009 - art. 2
 
 
-#### Section 4 : De la procréation médicalement assistée.
+#### Section 3 : De l'assistance médicale à la procréation
 
 ###### Article 311-19
 
@@ -13429,43 +13088,43 @@ Aucune action en responsabilité ne peut être exercée à l'encontre du donneur
 
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°94-653 1994-07-29 art. 11 *champ d'application*
+	  - SPEC_APPLI: Ordonnance 2005-759 2005-07-04 art. 20 : Spécificité d'application
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-653 du 29 juillet 1994 - art. 10 () JORF 30 juillet 1994
+	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 3 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
 
 
 ###### Article 311-20
 
 Les époux ou les concubins qui, pour procréer, recourent à une assistance médicale nécessitant l'intervention d'un tiers
 donneur, doivent préalablement donner, dans des conditions garantissant le secret, leur consentement au juge ou au notaire,
-qui les informe des conséquences de leur acte au regard de la filiation.
+qui les informe des conséquences de leur acte au regard de la filiation. 
 
-Le consentement donné à une procréation médicalement assistée interdit toute action en contestation de filiation ou en
-réclamation d'état à moins qu'il ne soit soutenu que l'enfant n'est pas issu de la procréation médicalement assistée ou que
-le consentement a été privé d'effet.
+Le consentement donné à une procréation médicalement assistée interdit toute action aux fins d'établissement ou de
+contestation de la filiation à moins qu'il ne soit soutenu que l'enfant n'est pas issu de la procréation médicalement
+assistée ou que le consentement a été privé d'effet. 
 
 Le consentement est privé d'effet en cas de décès, de dépôt d'une requête en divorce ou en séparation de corps ou de
 cessation de la communauté de vie, survenant avant la réalisation de la procréation médicalement assistée. Il est également
 privé d'effet lorsque l'homme ou la femme le révoque, par écrit et avant la réalisation de la procréation médicalement
-assistée, auprès du médecin chargé de mettre en oeuvre cette assistance.
+assistée, auprès du médecin chargé de mettre en oeuvre cette assistance. 
 
 Celui qui, après avoir consenti à l'assistance médicale à la procréation, ne reconnaît pas l'enfant qui en est issu engage sa
-responsabilité envers la mère et envers l'enfant.
+responsabilité envers la mère et envers l'enfant. 
 
-En outre, est judiciairement déclarée la paternité hors mariage de celui qui, après avoir consenti à l'assistance médicale à
-la procréation, ne reconnaît pas l'enfant qui en est issu. L'action obéit aux dispositions des articles 340-2 à 340-6.
+En outre, sa paternité est judiciairement déclarée. L'action obéit aux dispositions des articles 328 et 331.
 
 **Liens relatifs à cet article**
 
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°94-653 1994-07-29 art. 11 *champ d'application*
+	  - SPEC_APPLI: Ordonnance 2005-759 2005-07-04 art. 20 : Spécificité d'application
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-653 du 29 juillet 1994 - art. 10 () JORF 30 juillet 1994
+	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 3 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
+	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 7 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
 
 	**Cité par**:
 
@@ -13482,14 +13141,15 @@ la procréation, ne reconnaît pas l'enfant qui en est issu. L'action obéit aux
 
 	**Cite**:
 
-	  - Code civil 340-2 à 340-6
+	  - Code civil - art. 328 (V)
+	  - Code civil - art. 331 (V)
 
 	**Codifié par**:
 
 	  - Loi n°1803-03-14
 
 
-#### Section 5 : Des règles de dévolution du nom de famille
+#### Section 4 : Des règles de dévolution du nom de famille
 
 ###### Article 311-21
 
@@ -13498,13 +13158,14 @@ naissance ou par la suite mais simultanément, ces derniers choisissent le nom d
 père, soit le nom de la mère, soit leurs deux noms accolés dans l'ordre choisi par eux dans la limite d'un nom de famille
 pour chacun d'eux. En l'absence de déclaration conjointe à l'officier de l'état civil mentionnant le choix du nom de
 l'enfant, celui-ci prend le nom de celui de ses parents à l'égard duquel sa filiation est établie en premier lieu et le nom
-de son père si sa filiation est établie simultanément à l'égard de l'un et de l'autre.
+de son père si sa filiation est établie simultanément à l'égard de l'un et de l'autre. 
 
 En cas de naissance à l'étranger d'un enfant dont l'un au moins des parents est français, les parents qui n'ont pas usé de la
 faculté de choix du nom dans les conditions du précédent alinéa peuvent effectuer une telle déclaration lors de la demande de
-transcription de l'acte, au plus tard dans les trois ans de la naissance de l'enfant.
+transcription de l'acte, au plus tard dans les trois ans de la naissance de l'enfant. 
 
-Le nom dévolu au premier enfant vaut pour les autres enfants communs.
+Lorsqu'il a déjà été fait application du présent article ou du deuxième alinéa de l'article 311-23 à l'égard d'un enfant
+commun, le nom précédemment dévolu ou choisi vaut pour les autres enfants communs. 
 
 Lorsque les parents ou l'un d'entre eux portent un double nom de famille, ils peuvent, par une déclaration écrite conjointe,
 ne transmettre qu'un seul nom à leurs enfants.
@@ -13535,9 +13196,14 @@ ne transmettre qu'un seul nom à leurs enfants.
 	  - Code civil - art. 357-1 (V)
 	  - Code civil - art. 55 (V)
 
-	**Créé par**:
+	**Liens**:
 
-	  - Loi n°2003-516 du 18 juin 2003 - art. 2 () JORF 19 juin 2003 en vigueur le 1er janvier 2005
+	  - SPEC_APPLI: Ordonnance 2005-759 2005-07-04 art. 20 : Spécificité d'application
+
+	**Modifié par**:
+
+	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 3 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
+	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 8 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
 
 	**Codifié par**:
 
@@ -13551,14 +13217,18 @@ l'article 22-1, dans les conditions fixées par un décret pris en Conseil d'Eta
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Liens**:
 
-	  - Loi n°2003-516 du 18 juin 2003 - art. 3 () JORF 19 juin 2003 en vigueur le 1er janvier 2005
+	  - SPEC_APPLI: Ordonnance 2005-759 2005-07-04 art. 20 : Spécificité d'application
+
+	**Modifié par**:
+
+	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 3 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
 
 	**Cite**:
 
-	  - Code civil - art. 22-1 (M)
-	  - Code civil - art. 311-21 (MMN)
+	  - Code civil - art. 22-1 (V)
+	  - Code civil - art. 311-21 (V)
 
 	**Cité par**:
 
@@ -13572,12 +13242,19 @@ l'article 22-1, dans les conditions fixées par un décret pris en Conseil d'Eta
 
 ###### Article 311-23
 
-La faculté de choix ouverte en application des articles 311-21 et 334-2 ne peut être exercée qu'une seule fois.
+Lorsque la filiation n'est établie qu'à l'égard d'un parent à la date de la déclaration de naissance, l'enfant prend le nom
+de ce parent. 
 
-**Nota:**
+Lors de l'établissement du second lien de filiation et durant la minorité de l'enfant, les parents peuvent, par déclaration
+conjointe devant l'officier de l'état civil, choisir soit de lui substituer le nom de famille du parent à l'égard duquel la
+filiation a été établie en second lieu, soit d'accoler leurs deux noms, dans l'ordre choisi par eux, dans la limite d'un nom
+de famille pour chacun d'eux. Le changement de nom est mentionné en marge de l'acte de naissance. 
 
-NOTA : L'article 2-1 de la loi n° 2002-304 créant l'article 311-23 du code civil a été inséré par l'article 4 de la loi n°
-2003-516.
+Toutefois, lorsqu'il a déjà été fait application de l'article 311-21 ou du deuxième alinéa du présent article à l'égard d'un
+autre enfant commun, la déclaration de changement de nom ne peut avoir d'autre effet que de donner le nom précédemment dévolu
+ou choisi. 
+
+Si l'enfant a plus de treize ans, son consentement personnel est nécessaire.
 
 **Liens relatifs à cet article**
 
@@ -13593,19 +13270,10 @@ NOTA : L'article 2-1 de la loi n° 2002-304 créant l'article 311-23 du code civ
 	  - Code civil - art. 357 (V)
 	  - Code civil - art. 55 (M)
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Loi n°2002-304 2002-03-04 art. 2-1
-	  - Loi n°2003-516 2003-06-18 art. 4
-	  - Code civil - art. 334-2 (M)
-
-	**Créé par**:
-
-	  - Loi n°2002-304 2002-03-04 art. 2-1 JORF 5 mars 2002 en vigueur le 1er janvier 2005
-
-	**Transféré par**:
-
-	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 2 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
+	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 3 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
+	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 8 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
 
 	**Nouveaux textes**:
 
@@ -13616,16 +13284,9 @@ NOTA : L'article 2-1 de la loi n° 2002-304 créant l'article 311-23 du code civ
 	  - Loi n°1803-03-14
 
 
-### Chapitre II : De la filiation légitime.
+###### Article 311-24
 
-#### Section 1 : De la présomption de paternité.
-
-###### Article 312
-
-L'enfant conçu pendant le mariage a pour père le mari.
-
-Néanmoins, celui-ci pourra désavouer l'enfant en justice, s'il justifie de faits propres à démontrer qu'il ne peut pas en
-être le père.
+La faculté de choix ouverte en application des articles 311-21 et 311-23 ne peut être exercée qu'une seule fois.
 
 **Liens relatifs à cet article**
 
@@ -13633,16 +13294,75 @@ Néanmoins, celui-ci pourra désavouer l'enfant en justice, s'il justifie de fai
 
 	  - Loi n°1803-03-14
 
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2005-759 2005-07-04 art. 20 : Spécificité d'application
+
 	**Créé par**:
 
-	  - Loi n°72-3 du 3 janvier 1972 - art. 1 () JORF 5 janvier 1972 en vigueur le 1er août 1972
+	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 2 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
+	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 8 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
+
+	**Cite**:
+
+	  - Code civil - art. 311-21 (V)
+	  - Code civil - art. 311-23 (V)
+
+	**Anciens textes**:
+
+	  - Code civil - art. 311-23 (T)
+
+
+### Chapitre II : De l'établissement de la filiation
+
+#### Section 1 : De l'établissement de la filiation par l'effet de la loi
+
+##### Paragraphe 1 : De la désignation de la mère dans l'acte de naissance
+
+###### Article 311-25
+
+La filiation est établie, à l'égard de la mère, par la désignation de celle-ci dans l'acte de naissance de l'enfant.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
 
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 11 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 12 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 13 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 14 (V)
+	  - SPEC_APPLI: Ordonnance 2005-759 2005-07-04 art. 20 : Spécificité d'application
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 9 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
+
+	**Cité par**:
+
+	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 20 (V)
+
+
+##### Paragraphe 2 : De la présomption de paternité
+
+###### Article 312
+
+L'enfant conçu ou né pendant le mariage a pour père le mari.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2005-759 2005-07-04 art. 20 : Spécificité d'application
+
+	**Modifié par**:
+
+	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 10 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
+	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 18 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
+	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 3 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
 
 	**Cité par**:
 
@@ -13651,25 +13371,28 @@ Néanmoins, celui-ci pourra désavouer l'enfant en justice, s'il justifie de fai
 
 ###### Article 313
 
-En cas de jugement ou même de demande, soit de divorce, soit de séparation de corps, la présomption de paternité ne
-s'applique pas à l'enfant né plus de trois cents jours après l'ordonnance autorisant les époux à résider séparément, et moins
-de cent quatre-vingt jours depuis le rejet définitif de la demande ou depuis la réconciliation.
+En cas de demande en divorce ou en séparation de corps, la présomption de paternité est écartée lorsque l'enfant est né plus
+de trois cents jours après la date soit de l'homologation de la convention réglant l'ensemble des conséquences du divorce ou
+des mesures provisoires prises en application de l'article 250-2, soit de l'ordonnance de non-conciliation, et moins de cent
+quatre-vingts jours depuis le rejet définitif de la demande ou la réconciliation. 
 
-La présomption de paternité retrouve, néanmoins, de plein droit, sa force si l'enfant, à l'égard des époux, a la possession
-d'état d'enfant légitime.
+Néanmoins, la présomption de paternité se trouve rétablie de plein droit si l'enfant a la possession d'état à l'égard de
+chacun des époux et s'il n'a pas une filiation paternelle déjà établie à l'égard d'un tiers.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Loi n°72-3 du 3 janvier 1972 - art. 1 () JORF 5 janvier 1972 en vigueur le 1er août 1972
-
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 11 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 12 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 13 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 14 (V)
+	  - SPEC_APPLI: Ordonnance 2005-759 2005-07-04 art. 20 : Spécificité d'application
+
+	**Modifié par**:
+
+	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 10 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
+	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 3 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
+
+	**Cite**:
+
+	  - Code civil - art. 250-2 (V)
 
 	**Cité par**:
 
@@ -13683,88 +13406,21 @@ d'état d'enfant légitime.
 	  - Loi n°1803-03-14
 
 
-###### Article 313-1
+###### Article 314
 
-La présomption de paternité est écartée quand l'enfant, inscrit sans l'indication du nom du mari, n'a de possession d'état
-qu'à l'égard de la mère.
+La présomption de paternité est écartée lorsque l'acte de naissance de l'enfant ne désigne pas le mari en qualité de père et
+que l'enfant n'a pas de possession d'état à son égard.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°72-3 du 3 janvier 1972 - art. 1 () JORF 5 janvier 1972 en vigueur le 1er août 1972
 
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 11 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 12 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 13 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 14 (V)
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 10 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
-
-	**Cité par**:
-
-	  - Code civil - art. 313-2 (Ab)
-
-
-###### Article 313-2
-
-Lorsque la présomption de paternité est écartée dans les conditions prévues aux articles précédents, la filiation de l'enfant
-est établie à l'égard de la mère comme s'il y avait eu désaveu admis en justice.
-
-Chacun des époux peut demander que les effets de la présomption de paternité soient rétablis, en justifiant que, dans la
-période légale de la conception, une réunion de fait a eu lieu entre eux, qui rend vraisemblable la paternité du mari.
-
-L'action est ouverte à l'enfant pendant les deux années qui suivent sa majorité.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
+	  - SPEC_APPLI: Ordonnance 2005-759 2005-07-04 art. 20 : Spécificité d'application
 
 	**Modifié par**:
 
-	  - Loi n°93-22 du 8 janvier 1993 - art. 15 () JORF 9 janvier 1993
-
-	**Abrogé par**:
-
 	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 10 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
-
-	**Cite**:
-
-	  - Code civil - art. 313 (M)
-	  - Code civil - art. 313-1 (Ab)
-
-
-###### Article 314
-
-L'enfant né avant le cent quatre-vingtième jour du mariage est légitime et réputé l'avoir été dès sa conception.
-
-Le mari, toutefois, pourra le désavouer selon les règles de l'article 312.
-
-Il pourra même le désavouer sur la seule preuve de la date de l'accouchement, à moins qu'il n'ait connu la grossesse avant le
-mariage, ou qu'il ne se soit, après la naissance, comporté comme le père.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°72-3 du 3 janvier 1972 - art. 1 () JORF 5 janvier 1972 en vigueur le 1er août 1972
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 11 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 12 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 13 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 14 (V)
+	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 3 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
 
 	**Cite**:
 
@@ -13782,116 +13438,100 @@ mariage, ou qu'il ne se soit, après la naissance, comporté comme le père.
 
 ###### Article 315
 
-La présomption de paternité n'est pas applicable à l'enfant né plus de trois cents jours après la dissolution du mariage, ni,
-en cas d'absence déclarée du mari, à celui qui est né plus de trois cents jours après la disparition.
+Lorsque la présomption de paternité est écartée dans les conditions prévues aux articles 313 et 314, ses effets peuvent être
+rétablis en justice dans les conditions prévues à l'article 329.
 
 **Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2005-759 2005-07-04 art. 20 : Spécificité d'application
+
+	**Modifié par**:
+
+	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 10 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
+	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 3 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
+
+	**Cite**:
+
+	  - Code civil - art. 313 (V)
+	  - Code civil - art. 314 (V)
+	  - Code civil - art. 329 (V)
 
 	**Codifié par**:
 
 	  - Loi n°1803-03-14
 
-	**Créé par**:
 
-	  - Loi n°72-3 du 3 janvier 1972 - art. 1 () JORF 5 janvier 1972 en vigueur le 1er août 1972
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 11 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 12 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 13 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 14 (V)
-
+#### Section 2 : De l'établissement de la filiation par la reconnaissance
 
 ###### Article 316
 
-Le mari doit former l'action en désaveu dans les six mois de la naissance, lorsqu'il se trouve sur les lieux.
+Lorsque la filiation n'est pas établie dans les conditions prévues à la section I du présent chapitre, elle peut l'être par
+une reconnaissance de paternité ou de maternité, faite avant ou après la naissance. 
 
-S'il n'était pas sur les lieux, dans les six mois de son retour.
+La reconnaissance n'établit la filiation qu'à l'égard de son auteur. 
 
-Et dans les six mois qui suivent la découverte de la fraude, si la naissance de l'enfant lui avait été cachée.
+Elle est faite dans l'acte de naissance, par acte reçu par l'officier de l'état civil ou par tout autre acte authentique.
+
+L'acte comporte les énonciations prévues à l'article 62 et la mention que l'auteur de la reconnaissance a été informé du
+caractère divisible du lien de filiation ainsi établi.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Loi n°72-3 du 3 janvier 1972 - art. 1 () JORF 5 janvier 1972 en vigueur le 1er août 1972
-
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 11 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 12 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 13 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 14 (V)
+	  - SPEC_APPLI: Ordonnance 2005-759 2005-07-04 art. 20 : Spécificité d'application
+
+	**Modifié par**:
+
+	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 11 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
+	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 3 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
 
 	**Cité par**:
 
 	  - Code civil - art. 2499-1 (V)
 	  - Code civil - art. 315 (V)
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Loi n°1803-03-14
-
-
-###### Article 316-1
-
-Si le mari est mort avant d'avoir formé l'action, mais étant encore dans le délai utile pour le faire, ses héritiers auront
-qualité pour contester la légitimité de l'enfant.
-
-Leur action, néanmoins, cessera d'être recevable lorsque six mois se seront écoulés à compter de l'époque où l'enfant se sera
-mis en possession des biens prétendus paternels, ou de l'époque où ils auront été troublés par lui dans leur propre
-possession.
-
-**Liens relatifs à cet article**
+	  - Code civil - art. 62 (V)
 
 	**Codifié par**:
 
 	  - Loi n°1803-03-14
 
-	**Créé par**:
 
-	  - Loi n°72-3 du 3 janvier 1972 - art. 1 () JORF 5 janvier 1972 en vigueur le 1er août 1972
-
-	**Liens**:
-
-	  - SPEC_APPLI: Ordonnance 2005-759 2005-07-04 art. 20 : Spécificité d'application
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 18 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
-
-
-###### Article 316-2
-
-Tout acte extrajudiciaire contenant désaveu de la part du mari ou contestation de légitimité de la part des héritiers, sera
-comme non avenu, s'il n'est suivi d'une action en justice dans le délai de six mois.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°72-3 du 3 janvier 1972 - art. 1 () JORF 5 janvier 1972 en vigueur le 1er août 1972
-
-	**Liens**:
-
-	  - SPEC_APPLI: Ordonnance 2005-759 2005-07-04 art. 20 : Spécificité d'application
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 18 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
-
+#### Section 3 : De l'établissement de la filiation par la possession d'état
 
 ###### Article 317
 
-L'action en désaveu est dirigée, en présence de la mère contre un administrateur ad hoc, désigné à l'enfant par le juge des
-tutelles, dans les conditions prévues à l'article 389-3.
+Chacun des parents ou l'enfant peut demander au juge que lui soit délivré, dans les conditions prévues aux articles 71 et 72,
+un acte de notoriété qui fera foi de la possession d'état jusqu'à preuve contraire. 
+
+Quand le parent prétendu est décédé avant la déclaration de naissance de l'enfant, l'acte de notoriété peut être délivré en
+prouvant une réunion suffisante de faits au sens de l'article 311-1. 
+
+La délivrance de l'acte de notoriété ne peut être demandée que dans un délai de cinq ans à compter de la cessation de la
+possession d'état alléguée. 
+
+La filiation établie par la possession d'état constatée dans l'acte de notoriété est mentionnée en marge de l'acte de
+naissance de l'enfant.
 
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2005-759 2005-07-04 art. 20 : Spécificité d'application
+
+	**Modifié par**:
+
+	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 12 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
+	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 3 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
 
 	**Cité par**:
 
@@ -13899,38 +13539,29 @@ tutelles, dans les conditions prévues à l'article 389-3.
 
 	**Cite**:
 
-	  - Code civil - art. 389-3 (M)
+	  - Code civil - art. 311-1 (V)
+	  - Code civil - art. 71 (V)
+	  - Code civil - art. 72 (V)
 
-	**Codifié par**:
 
-	  - Loi n°1803-03-14
+### Chapitre III : Des actions relatives à la filiation
 
-	**Modifié par**:
-
-	  - Loi n°93-22 du 8 janvier 1993 - art. 59 () JORF 9 janvier 1993
-
+#### Section 1 : Dispositions générales
 
 ###### Article 318
 
-Même en l'absence de désaveu, la mère pourra contester la paternité du mari, mais seulement aux fins de légitimation, quand
-elle se sera, après dissolution du mariage, remariée avec le véritable père de l'enfant.
+Aucune action n'est reçue quant à la filiation d'un enfant qui n'est pas né viable.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°72-3 du 3 janvier 1972 - art. 1 () JORF 5 janvier 1972 en vigueur le 1er août 1972
-
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 11 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 12 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 13 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 14 (V)
+	  - SPEC_APPLI: Ordonnance 2005-759 2005-07-04 art. 20 : Spécificité d'application
+
+	**Modifié par**:
+
+	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 2 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
+	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 3 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
 
 	**Cité par**:
 
@@ -13941,20 +13572,17 @@ elle se sera, après dissolution du mariage, remariée avec le véritable père 
 
 	  - Code civil - art. 311-4 (T)
 
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
 
 ###### Article 318-1
 
-A peine d'irrecevabilité, l'action, dirigée contre le mari ou ses héritiers, est jointe à une demande de légitimation formée
-devant le tribunal de grande instance.
-
-Elle doit être introduite par la mère et son nouveau conjoint dans les six mois de leur mariage et avant que l'enfant n'ait
-atteint l'âge de sept ans.
+Le tribunal de grande instance, statuant en matière civile, est seul compétent pour connaître des actions relatives à la
+filiation.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code civil - art. 311-5 (T)
 
 	**Codifié par**:
 
@@ -13964,83 +13592,64 @@ atteint l'âge de sept ans.
 
 	  - Loi n°72-3 du 3 janvier 1972 - art. 18 (V)
 
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2005-759 2005-07-04 art. 20 : Spécificité d'application
+
 	**Modifié par**:
 
-	  - Loi n°93-22 du 8 janvier 1993 - art. 16 () JORF 9 janvier 1993
+	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 2 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
+
+	**Anciens textes**:
+
+	  - Code civil - art. 311-5 (T)
 
 
-###### Article 318-2
+###### Article 319
 
-Il est statué sur les deux demandes par un seul et même jugement, qui ne peut accueillir la contestation de paternité que si
-la légitimation est admise.
+En cas d'infraction portant atteinte à la filiation d'une personne, il ne peut être statué sur l'action pénale qu'après le
+jugement passé en force de chose jugée sur la question de filiation.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°72-3 du 3 janvier 1972 - art. 1 () JORF 5 janvier 1972 en vigueur le 1er août 1972
 
 	**Liens**:
 
 	  - SPEC_APPLI: Ordonnance 2005-759 2005-07-04 art. 20 : Spécificité d'application
 
-	**Abrogé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 18 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
-
-
-#### Section 2 : Des preuves de la filiation légitime.
-
-###### Article 319
-
-La filiation des enfants légitimes se prouve par les actes de naissance inscrits sur les registres de l'état civil.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°72-3 du 3 janvier 1972 - art. 1 () JORF 5 janvier 1972 en vigueur le 1er août 1972
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 11 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 12 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 13 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 14 (V)
+	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 13 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
+	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 2 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
+	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 3 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
 
 	**Anciens textes**:
 
 	  - Code civil - art. 311-6 (T)
 
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
 
 ###### Article 320
 
-A défaut de ce titre, la possession de l'état d'enfant légitime suffit.
+Tant qu'elle n'a pas été contestée en justice, la filiation légalement établie fait obstacle à l'établissement d'une autre
+filiation qui la contredirait.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°72-3 du 3 janvier 1972 - art. 1 () JORF 5 janvier 1972 en vigueur le 1er août 1972
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 11 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 12 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 13 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 14 (V)
 
 	**Codifié par**:
 
 	  - Loi n°1803-03-14
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2005-759 2005-07-04 art. 20 : Spécificité d'application
+
+	**Modifié par**:
+
+	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 13 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
+	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 3 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
 
 	**Cité par**:
 
@@ -14049,20 +13658,20 @@ A défaut de ce titre, la possession de l'état d'enfant légitime suffit.
 
 ###### Article 321
 
-Il n'y a de possession d'état d'enfant légitime qu'autant qu'elle rattache l'enfant indivisiblement à ses père et mère.
+Sauf lorsqu'elles sont enfermées par la loi dans un autre délai, les actions relatives à la filiation se prescrivent par dix
+ans à compter du jour où la personne a été privée de l'état qu'elle réclame, ou a commencé à jouir de l'état qui lui est
+contesté. A l'égard de l'enfant, ce délai est suspendu pendant sa minorité.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Loi n°72-3 du 3 janvier 1972 - art. 1 () JORF 5 janvier 1972 en vigueur le 1er août 1972
-
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 11 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 12 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 13 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 14 (V)
+	  - SPEC_APPLI: Ordonnance 2005-759 2005-07-04 art. 20 : Spécificité d'application
+
+	**Modifié par**:
+
+	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 13 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
+	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 3 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
 
 	**Cité par**:
 
@@ -14078,57 +13687,31 @@ Il n'y a de possession d'état d'enfant légitime qu'autant qu'elle rattache l'e
 
 ###### Article 322
 
-Nul ne peut réclamer un état contraire à celui que lui donnent son titre de naissance et la possession conforme à ce titre.
+L'action peut être exercée par les héritiers d'une personne décédée avant l'expiration du délai qui était imparti à celle-ci
+pour agir.
 
-Et réciproquement, nul ne peut contester l'état de celui qui a une possession conforme à son titre de naissance.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°72-3 du 3 janvier 1972 - art. 1 () JORF 5 janvier 1972 en vigueur le 1er août 1972
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 11 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 12 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 13 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 14 (V)
-
-
-###### Article 322-1
-
-Toutefois, s'il est allégué qu'il y a eu supposition d'enfant, ou substitution, même involontaire, soit avant, soit après la
-rédaction de l'acte de naissance, la preuve en sera recevable et pourra se faire par tous moyens.
+Les héritiers peuvent également poursuivre l'action déjà engagée, à moins qu'il n'y ait eu désistement ou péremption
+d'instance.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°72-3 du 3 janvier 1972 - art. 1 () JORF 5 janvier 1972 en vigueur le 1er août 1972
 
 	**Liens**:
 
 	  - SPEC_APPLI: Ordonnance 2005-759 2005-07-04 art. 20 : Spécificité d'application
 
-	**Abrogé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 18 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
+	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 13 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
+	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 3 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
 
 
 ###### Article 323
 
-A défaut de titre et de possession d'état, ou si l'enfant a été inscrit, soit sous de faux noms, soit sans indication du nom
-de la mère, la preuve de la filiation ne peut être judiciairement rapportée que s'il existe des présomptions ou indices assez
-graves pour en déterminer l'admission.
+Les actions relatives à la filiation ne peuvent faire l'objet de renonciation.
 
 **Liens relatifs à cet article**
 
@@ -14145,20 +13728,23 @@ graves pour en déterminer l'admission.
 
 	  - Loi n°1803-03-14
 
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2005-759 2005-07-04 art. 20 : Spécificité d'application
+
 	**Modifié par**:
 
-	  - Loi n°93-22 du 8 janvier 1993 - art. 17 () JORF 9 janvier 1993
-	  - Loi n°93-22 du 8 janvier 1993 - art. 60 (V) JORF 9 janvier 1993
+	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 2 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
+	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 3 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
 
 
-###### Article 325
+###### Article 324
 
-La preuve contraire peut se faire par tous les moyens propres à établir que le réclamant n'est pas l'enfant de la mère qu'il
-prétend avoir, ou même, la maternité prouvée, qu'il n'est pas l'enfant du mari de la mère.
+Les jugements rendus en matière de filiation sont opposables aux personnes qui n'y ont point été parties. Celles-ci ont le
+droit d'y former tierce opposition dans le délai mentionné à l'article 321 si l'action leur était ouverte. 
 
-Si le mari n'a pas été mis en cause dans l'instance en réclamation d'état, il peut contester sa paternité dans un délai de
-six mois à compter du jour où il a eu connaissance du jugement passé en force de chose jugée accueillant la demande de
-l'enfant.
+Les juges peuvent d'office ordonner que soient mis en cause tous les intéressés auxquels ils estiment que le jugement doit
+être rendu commun.
 
 **Liens relatifs à cet article**
 
@@ -14166,22 +13752,62 @@ l'enfant.
 
 	  - Loi n°1803-03-14
 
-	**Créé par**:
+	**Cité par**:
 
-	  - Loi n°72-3 du 3 janvier 1972 - art. 1 () JORF 5 janvier 1972 en vigueur le 1er août 1972
+	  - Loi n°93-22 du 8 janvier 1993 - art. 60 (V)
+	  - Code civil - art. 341 (M)
 
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 11 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 12 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 13 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 14 (V)
+	  - SPEC_APPLI: Ordonnance 2005-759 2005-07-04 art. 20 : Spécificité d'application
+
+	**Modifié par**:
+
+	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 13 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
+	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 2 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
+	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 3 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
+
+	**Anciens textes**:
+
+	  - Code civil - art. 311-10 (T)
+
+	**Cite**:
+
+	  - Code civil - art. 321 (V)
+
+
+#### Section 2 : Des actions aux fins d'établissement de la filiation
+
+###### Article 325
+
+A défaut de titre et de possession d'état, la recherche de maternité est admise sous réserve de l'application de l'article
+326.
+
+L'action est réservée à l'enfant qui est tenu de prouver qu'il est celui dont la mère prétendue a accouché.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2005-759 2005-07-04 art. 20 : Spécificité d'application
+
+	**Modifié par**:
+
+	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 14 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
+	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 3 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
+
+	**Cite**:
+
+	  - Code civil - art. 326 (M)
 
 
 ###### Article 326
 
-Sans attendre qu'une réclamation d'état soit intentée par l'enfant, le mari peut, par tous moyens, contester sa paternité
-dans un délai de six mois à compter du jour où il a connu la naissance.
+Lors de l'accouchement, la mère peut demander que le secret de son admission et de son identité soit préservé.
 
 **Liens relatifs à cet article**
 
@@ -14189,16 +13815,14 @@ dans un délai de six mois à compter du jour où il a connu la naissance.
 
 	  - Loi n°1803-03-14
 
-	**Créé par**:
-
-	  - Loi n°72-3 du 3 janvier 1972 - art. 1 () JORF 5 janvier 1972 en vigueur le 1er août 1972
-
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 11 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 12 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 13 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 14 (V)
+	  - SPEC_APPLI: Ordonnance 2005-759 2005-07-04 art. 20 : Spécificité d'application
+
+	**Modifié par**:
+
+	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 2 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
+	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 3 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
 
 	**Cité par**:
 
@@ -14212,8 +13836,9 @@ dans un délai de six mois à compter du jour où il a connu la naissance.
 
 ###### Article 327
 
-Après la mort du mari, ses héritiers auront pareillement le droit de contester sa paternité soit à titre préventif si le mari
-était encore dans le délai utile pour le faire, soit en défense à une action en réclamation d'état.
+La paternité hors mariage peut être judiciairement déclarée.
+
+L'action en recherche de paternité est réservée à l'enfant.
 
 **Liens relatifs à cet article**
 
@@ -14221,16 +13846,15 @@ Après la mort du mari, ses héritiers auront pareillement le droit de contester
 
 	  - Loi n°1803-03-14
 
-	**Créé par**:
-
-	  - Loi n°72-3 du 3 janvier 1972 - art. 1 () JORF 5 janvier 1972 en vigueur le 1er août 1972
-
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 11 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 12 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 13 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 14 (V)
+	  - SPEC_APPLI: Ordonnance 2005-759 2005-07-04 art. 20 : Spécificité d'application
+
+	**Modifié par**:
+
+	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 14 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
+	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 2 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
+	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 3 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
 
 	**Cité par**:
 
@@ -14244,26 +13868,17 @@ Après la mort du mari, ses héritiers auront pareillement le droit de contester
 
 ###### Article 328
 
-Les époux, séparément ou conjointement, peuvent, en rapportant la preuve prévue à l'article 323 ci-dessus, réclamer un enfant
-comme étant le leur ; mais si celui-ci a déjà une autre filiation établie, ils doivent préalablement en démontrer
-l'inexactitude, à supposer que l'on soit dans l'un des cas où la loi autorise cette démonstration.
+Le parent, même mineur, à l'égard duquel la filiation est établie a, pendant la minorité de l'enfant, seul qualité pour
+exercer l'action en recherche de maternité ou de paternité. 
+
+Si aucun lien de filiation n'est établi ou si ce parent est décédé ou dans l'impossibilité de manifester sa volonté, l'action
+est intentée conformément aux dispositions de l'article 464, alinéa 3.
+
+L'action est exercée contre le parent prétendu ou ses héritiers. A défaut d'héritiers ou si ceux-ci ont renoncé à la
+succession, elle est dirigée contre l'Etat. Les héritiers renonçants sont appelés à la procédure pour y faire valoir leurs
+droits.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°72-3 du 3 janvier 1972 - art. 1 () JORF 5 janvier 1972 en vigueur le 1er août 1972
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 11 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 12 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 13 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 14 (V)
 
 	**Cité par**:
 
@@ -14272,28 +13887,33 @@ l'inexactitude, à supposer que l'on soit dans l'un des cas où la loi autorise 
 
 	**Cite**:
 
-	  - Code civil - art. 323 (M)
+	  - Code civil - art. 464 (VD)
 
+	**Codifié par**:
 
-#### Section 3 : De la légitimation.
+	  - Loi n°1803-03-14
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2005-759 2005-07-04 art. 20 : Spécificité d'application
+
+	**Modifié par**:
+
+	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 14 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
+	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 3 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
+
 
 ###### Article 329
 
-La légitimation peut bénéficier à tous les enfants naturels pourvu que leur filiation ait été légalement établie.
+Lorsque la présomption de paternité a été écartée en application des articles 313 ou 314, chacun des époux peut demander,
+durant la minorité de l'enfant, que ses effets soient rétablis en prouvant que le mari est le père. L'action est ouverte à
+l'enfant pendant les dix années qui suivent sa majorité.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Loi n°1803-03-14
-
-	**Modifié par**:
-
-	  - Loi n°93-22 du 8 janvier 1993 - art. 18 () JORF 9 janvier 1993
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°2002-304 2002-03-04 art. 24 (Mayotte)
 
 	**Cité par**:
 
@@ -14301,10 +13921,25 @@ La légitimation peut bénéficier à tous les enfants naturels pourvu que leur 
 	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 20 (V)
 	  - Code civil - art. 315 (V)
 
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2005-759 2005-07-04 art. 20 : Spécificité d'application
+
+	**Modifié par**:
+
+	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 14 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
+	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 3 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
+
+	**Cite**:
+
+	  - Code civil - art. 313 (V)
+	  - Code civil - art. 314 (V)
+
 
 ###### Article 330
 
-La légitimation a lieu, soit par mariage des parents, soit par autorité de justice.
+La possession d'état peut être constatée à la demande de toute personne qui y a intérêt dans le délai mentionné à l'article
+321.
 
 **Liens relatifs à cet article**
 
@@ -14312,36 +13947,26 @@ La légitimation a lieu, soit par mariage des parents, soit par autorité de jus
 
 	  - Loi n°1803-03-14
 
-	**Créé par**:
-
-	  - Loi n°72-3 du 3 janvier 1972 - art. 1 () JORF 5 janvier 1972 en vigueur le 1er août 1972
-
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 11 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 12 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 13 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 14 (V)
-
-
-##### Paragraphe 1 : De la légitimation par mariage.
-
-###### Article 331
-
-Tous les enfants nés hors mariage "fussent-ils décédés" sont légitimés de plein droit par le mariage subséquent de leurs père
-et mère.
-
-Si leur filiation n'était pas déjà établie, ces enfants font l'objet d'une reconnaissance au moment de la célébration du
-mariage. En ce cas, l'officier de l'état civil qui procède à la célébration constate la reconnaissance et la légitimation
-dans un acte séparé.
-
-**Liens relatifs à cet article**
+	  - SPEC_APPLI: Ordonnance 2005-759 2005-07-04 art. 20 : Spécificité d'application
 
 	**Modifié par**:
 
-	  - Loi n°93-22 du 8 janvier 1993 - art. 10 () JORF 9 janvier 1993
-	  - Loi n°2002-304 du 4 mars 2002 - art. 5 () JORF 5 mars 2002
-	  - Loi n°2003-516 du 18 juin 2003 - art. 5 () JORF 19 juin 2003
+	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 14 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
+	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 3 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
+
+	**Cite**:
+
+	  - Code civil - art. 321 (V)
+
+
+###### Article 331
+
+Lorsqu'une action est exercée en application de la présente section, le tribunal statue, s'il y a lieu, sur l'exercice de
+l'autorité parentale, la contribution à l'entretien et à l'éducation de l'enfant et l'attribution du nom.
+
+**Liens relatifs à cet article**
 
 	**Cité par**:
 
@@ -14351,248 +13976,55 @@ dans un acte séparé.
 	  - Code civil - art. 311-20 (V)
 	  - Code civil - art. 331-2 (Ab)
 
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2005-759 2005-07-04 art. 20 : Spécificité d'application
+
+	**Modifié par**:
+
+	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 14 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
+	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 3 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
+
 	**Codifié par**:
 
 	  - Loi n°1803-03-14
 
 
-###### Article 331-1
+#### Section 3 : Des actions en contestation de la filiation
 
-Quand la filiation d'un enfant naturel n'a été établie à l'égard de ses père et mère ou de l'un d'eux que postérieurement à
-leur mariage, la légitimation ne peut avoir lieu qu'en vertu d'un jugement.
+###### Article 332
 
-Ce jugement doit constater que l'enfant a eu, depuis la célébration du mariage, la possession d'état d'enfant commun.
+La maternité peut être contestée en rapportant la preuve que la mère n'a pas accouché de l'enfant.
+
+La paternité peut être contestée en rapportant la preuve que le mari ou l'auteur de la reconnaissance n'est pas le père.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Loi n°1803-03-14
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2005-759 2005-07-04 art. 20 : Spécificité d'application
 
 	**Créé par**:
 
-	  - Loi n°72-3 du 3 janvier 1972 - art. 1 () JORF 5 janvier 1972 en vigueur le 1er août 1972
-
-	**Liens**:
-
-	  - SPEC_APPLI: Ordonnance 2005-759 2005-07-04 art. 20 : Spécificité d'application
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 18 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
-
-	**Cité par**:
-
-	  - Code civil - art. 318-1 (M)
-
-
-###### Article 331-2
-
-Toute légitimation est mentionnée en marge de l'acte de naissance de l'enfant légitimé.
-
-Cette mention peut être requise par tout intéressé. Dans le cas de l'article 331, l'officier de l'état civil y pourvoit lui-
-même, s'il a eu connaissance de l'existence des enfants.
-
-La mention de la légitimation sur l'acte de naissance d'un enfant majeur est dépourvue d'effet sur son patronyme si l'acte ne
-comporte pas, en outre, la mention du consentement de l'intéressé à la modification de son nom de famille.
-
-**Nota:**
-
-NOTA : L'article 13 de la loi n° 2003-516 a reporté au 1er janvier 2005 la date initiale du 1er septembre 2003, prévue par
-l'article 25 de la loi n° 2002-304.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Modifié par**:
-
-	  - Loi n°2002-304 du 4 mars 2002 - art. 6 () JORF 5 mars 2002 en vigueur le 1er janvier 2005
-
-	**Cité par**:
-
-	  - Loi n°2002-304 du 4 mars 2002 - art. 24 (V)
-	  - Code civil - art. 2291 (T)
-	  - Code civil - art. 2497 (Ab)
-	  - Code civil - art. 333-6 (Ab)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Ordonnance 2005-759 2005-07-04 art. 20 : Spécificité d'application
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 18 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
-
-	**Cite**:
-
-	  - Code civil - art. 331 (M)
-
-
-###### Article 332-1
-
-La légitimation confère à l'enfant légitimé les droits et les devoirs de l'enfant légitime.
-
-Par déclaration conjointe produite lors de la célébration du mariage ou constatée par le juge, les parents bénéficient de
-l'option ouverte à l'article 311-21, lorsque la filiation a été établie dans les conditions de l'article 334-1 et qu'ils
-n'ont pas usé de la faculté ouverte à l'article 334-2. Toutefois, la légitimation ne peut avoir pour effet de modifier le nom
-de famille d'un enfant majeur sans le consentement de celui-ci.
-
-Elle prend effet à la date du mariage.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Cité par**:
-
-	  - Loi n°2002-304 du 4 mars 2002 - art. 24 (V)
-	  - Code civil - art. 2291 (T)
-	  - Code civil - art. 2497 (Ab)
-	  - Code civil - art. 333-6 (Ab)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°2003-516 2003-06-18 art. 12, art. 13 (date d'effet à Mayotte)
-
-	**Modifié par**:
-
-	  - Loi n°2003-516 du 18 juin 2003 - art. 5 () JORF 19 juin 2003 en vigueur le 1er janvier 2005
-
-	**Abrogé par**:
-
 	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 15 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
+	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 3 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
 
-	**Cite**:
+	**Cité par**:
 
-	  - Code civil - art. 311-21 (MMN)
-	  - Code civil - art. 334-1 (M)
-	  - Code civil - art. 334-2 (M)
+	  - Code civil - art. 333-6 (M)
 
-
-##### Paragraphe 2 : De la légitimation par autorité de justice
 
 ###### Article 333
 
-S'il apparaît que le mariage est impossible entre les deux parents, le bénéfice de la légitimation pourra encore être conféré
-à l'enfant par autorité de justice pourvu qu'il ait, à l'endroit du parent qui la requiert, la possession d'état d'enfant
-naturel.
+Lorsque la possession d'état est conforme au titre, seuls peuvent agir l'enfant, l'un de ses père et mère ou celui qui se
+prétend le parent véritable. L'action se prescrit par cinq ans à compter du jour où la possession d'état a cessé.
 
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°72-3 du 3 janvier 1972 - art. 1 () JORF 5 janvier 1972 en vigueur le 1er août 1972
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 11 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 12 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 13 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 14 (V)
-
-
-###### Article 333-1
-
-La requête aux fins de légitimation est formée par l'un des deux parents ou par les deux conjointement devant le tribunal de
-grande instance.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°72-3 du 3 janvier 1972 - art. 1 () JORF 5 janvier 1972 en vigueur le 1er août 1972
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 11 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 12 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 13 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 14 (V)
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 15 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
-
-
-###### Article 333-2
-
-Si l'un des parents de l'enfant se trouvait, au temps de la conception, dans les liens d'un mariage qui n'est pas dissous, sa
-requête n'est recevable qu'avec le consentement de son conjoint.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°72-3 du 3 janvier 1972 - art. 1 () JORF 5 janvier 1972 en vigueur le 1er août 1972
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 11 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 12 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 13 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 14 (V)
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 15 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
-
-
-###### Article 333-3
-
-Le tribunal vérifie si les conditions de la loi sont remplies et, après avoir reçu ou provoqué, le cas échéant, les
-observations de l'enfant lui-même, de l'autre parent quand il n'est pas partie à la requête, ainsi que du conjoint du
-requérant, il prononce, s'il l'estime justifiée, la légitimation.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°72-3 du 3 janvier 1972 - art. 1 () JORF 5 janvier 1972 en vigueur le 1er août 1972
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 11 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 12 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 13 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 14 (V)
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 15 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
-
-
-###### Article 333-4
-
-La légitimation par autorité de justice prend effet à la date de la décision qui la prononce définitivement.
-
-Si elle a eu lieu à la requête d'un seul des parents, elle n'a point d'effet à l'égard de l'autre ; elle n'emporte pas
-modification du nom de famille de l'enfant, sauf décision contraire du tribunal.
-
-**Nota:**
-
-NOTA : L'article 13 de la loi n° 2003-516 a reporté au 1er janvier 2005 la date initiale du 1er septembre 2003, prévue par
-l'article 25 de la loi n° 2002-304.
+Nul ne peut contester la filiation lorsque la possession d'état conforme au titre a duré au moins cinq ans depuis la
+naissance ou la reconnaissance, si elle a été faite ultérieurement.
 
 **Liens relatifs à cet article**
 
@@ -14602,389 +14034,65 @@ l'article 25 de la loi n° 2002-304.
 
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 11 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 12 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 13 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 14 (V)
+	  - SPEC_APPLI: Ordonnance 2005-759 2005-07-04 art. 20 : Spécificité d'application
 
 	**Modifié par**:
 
-	  - Loi n°2002-304 du 4 mars 2002 - art. 8 () JORF 5 mars 2002 en vigueur le 1er janvier 2005
-
-	**Abrogé par**:
-
 	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 15 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
-
-	**Cité par**:
-
-	  - Code civil - art. 2291 (T)
-	  - Code civil - art. 2497 (Ab)
+	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 3 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
 
 
-###### Article 333-5
+###### Article 334
 
-Si la légitimation par autorité de justice a été prononcée à l'égard des deux parents, le nom de famille de l'enfant est
-déterminé en application des dispositions des articles 311-21 et 311-23 s'il est mineur, le tribunal statue sur les modalités
-d'exercice de l'autorité parentale, comme en matière de divorce.
+A défaut de possession d'état conforme au titre, l'action en contestation peut être engagée par toute personne qui y a
+intérêt dans le délai prévu à l'article 321.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
+	**Codifié par**:
 
-	  - Loi n°2003-516 du 18 juin 2003 - art. 9 () JORF 19 juin 2003 en vigueur le 1er janvier 2005
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 15 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
+	  - Loi n°1803-03-14
 
 	**Cité par**:
 
-	  - Code civil - art. 2291 (T)
-	  - Code civil - art. 2497 (Ab)
+	  - Loi n°88-1088 du 1 décembre 1988 - art. 23 (Ab)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*321-9 (M)
+	  - Code civil - art. 334-7 (Ab)
+	  - Code de l'action sociale et des familles - art. L262-35 (M)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2005-759 2005-07-04 art. 20 : Spécificité d'application
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 15 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
+	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 3 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
 
 	**Cite**:
 
-	  - Code civil - art. 311-21 (MMN)
-	  - Code civil - art. 311-23 (T)
+	  - Code civil - art. 321 (V)
 
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-
-###### Article 333-6
-
-Les dispositions de l'article 331-2 et des deux premiers alinéas de l'article 332-1 sont applicables à la légitimation par
-autorité de justice.
-
-**Nota:**
-
-NOTA : L'article 13 de la loi n° 2003-516 a reporté au 1er janvier 2005 la date initiale du 1er septembre 2003, prévue par
-l'article 25 de la loi n° 2002-304.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 11 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 12 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 13 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 14 (V)
-
-	**Modifié par**:
-
-	  - Loi n°2002-304 du 4 mars 2002 - art. 10 () JORF 5 mars 2002 en vigueur le 1er janvier 2005
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 15 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
-
-	**Cité par**:
-
-	  - Code civil - art. 2291 (T)
-	  - Code civil - art. 2497 (Ab)
-
-	**Cite**:
-
-	  - Code civil - art. 331-2 (M)
-	  - Code civil - art. 332-1 (M)
-
-
-### Chapitre III : De la filiation naturelle.
-
-#### Section 1 : Des effets de la filiation naturelle et de ses modes d'établissement en général.
-
-###### Article 334-1
-
-L'enfant naturel acquiert le nom de celui de ses deux parents à l'égard de qui sa filiation est établie en premier lieu.
-
-**Nota:**
-
-NOTA : L'article 13 de la loi n° 2003-516 a reporté au 1er janvier 2005 la date initiale du 1er septembre 2003, prévue par
-l'article 25 de la loi n° 2002-304.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 11 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 12 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 13 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 14 (V)
-
-	**Modifié par**:
-
-	  - Loi n°2002-304 du 4 mars 2002 - art. 11 () JORF 5 mars 2002 en vigueur le 1er janvier 2005
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 15 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
-
-	**Cité par**:
-
-	  - Code civil - art. 2291 (T)
-	  - Code civil - art. 2497 (Ab)
-	  - Code civil - art. 332-1 (Ab)
-
-
-###### Article 334-2
-
-Lorsque le nom de l'enfant naturel n'a pas été transmis dans les conditions prévues à l'article 311-21, ses parents peuvent,
-par déclaration conjointe devant l'officier de l'état civil, choisir pendant sa minorité soit de lui substituer le nom de
-famille du parent à l'égard duquel la filiation a été établie en second lieu, soit d'accoler leurs deux noms, dans l'ordre
-choisi par eux, dans la limite d'un nom de famille pour chacun d'eux. Mention du changement de nom figurera en marge de
-l'acte de naissance.
-
-Si l'enfant a plus de treize ans, son consentement personnel est nécessaire.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Décret n°74-449 du 15 mai 1974 - art. 9 (M)
-	  - Loi n°2002-304 du 4 mars 2002 - art. 24 (V)
-	  - Décret n°2004-1159 du 29 octobre 2004 - art. 10 (M)
-	  - Code civil - art. 2291 (T)
-	  - Code civil - art. 2497 (Ab)
-	  - Code civil - art. 311-23 (T)
-	  - Code civil - art. 332-1 (Ab)
-	  - Code civil - art. 334-3 (Ab)
-	  - Code civil - art. 334-5 (Ab)
-	  - Nouveau code de procédure civile - art. 1152 (Ab)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°2003-516 2003-06-18 art. 12, art. 13 (date d'effet à Mayotte)
-
-	**Modifié par**:
-
-	  - Loi n°2003-516 du 18 juin 2003 - art. 12 () JORF 19 juin 2003 en vigueur le 1er janvier 2005
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 15 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-
-###### Article 334-3
-
-Lorsque la déclaration prévue à l'article 334-2 n'a pu être faite, le changement de nom  de l'enfant naturel doit être
-demandé au juge aux affaires familiales. Toutefois, le tribunal de grande instance saisi d'une requête en modification de
-l'état de l'enfant naturel peut dans un seul et même jugement statuer sur celle-ci et sur la demande de changement de nom de
-l'enfant qui lui serait présentée.
-
-L'action est ouverte pendant la minorité de l'enfant et dans les deux années qui suivront, soit sa majorité, soit une
-modification apportée à son état.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Modifié par**:
-
-	  - Loi n°2002-304 2002-03-04 art. 12-1 JORF 5 mars 2002 en vigueur le 1er janvier 2005
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 15 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
-
-	**Cite**:
-
-	  - Code civil - art. 334-2 (M)
-
-	**Cité par**:
-
-	  - Code civil - art. 340-6 (Ab)
-
-
-###### Article 334-4
-
-La substitution de nom s'étend de plein droit aux enfants mineurs de l'intéressé. Elle ne s'étend aux enfants majeurs qu'avec
-leur consentement.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°72-3 du 3 janvier 1972 - art. 1 () JORF 5 janvier 1972 en vigueur le 1er août 1972
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 11 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 12 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 13 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 14 (V)
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 15 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
-
-
-###### Article 334-6
-
-Les règles d'attribution du nom prévues aux articles précédents ne préjudicient point aux effets de la possession d'état.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°72-3 du 3 janvier 1972 - art. 1 () JORF 5 janvier 1972 en vigueur le 1er août 1972
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 11 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 12 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 13 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 14 (V)
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 15 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
-
-
-###### Article 334-8
-
-La filiation naturelle est légalement établie par reconnaissance volontaire.
-
-La filiation naturelle peut aussi se trouver légalement établie par la possession d'état ou par l'effet d'un jugement.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°72-3 du 3 janvier 1972 - art. 1 () JORF 5 janvier 1972 en vigueur le 1er août 1972
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 11 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 12 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 13 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 14 (V)
-	  - SPEC_APPLI: Loi n°82-536 du 25 juin 1982 - art. 2 (V)
-
-	**Modifié par**:
-
-	  - Loi n°82-536 du 25 juin 1982 - art. 1 () JORF 26 juin 1982
-
-	**Cité par**:
-
-	  - Ordonnance n°2002-1476 du 19 décembre 2002 - art. 10 (VD)
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 15 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
-
-
-###### Article 334-9
-
-Toute reconnaissance est nulle, toute demande en recherche est irrecevable, quand l'enfant a une filiation légitime déjà
-établie par la possession d'état.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°72-3 du 3 janvier 1972 - art. 1 () JORF 5 janvier 1972 en vigueur le 1er août 1972
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 11 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 12 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 13 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 14 (V)
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 15 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
-
-
-###### Article 334-10
-
-S'il existe entre les père et mère de l'enfant naturel un des empêchements à mariage prévus par les articles 161 et 162 ci-
-dessus pour cause de parenté, la filiation étant déjà établie à l'égard de l'un, il est interdit d'établir la filiation à
-l'égard de l'autre.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°72-3 du 3 janvier 1972 - art. 1 () JORF 5 janvier 1972 en vigueur le 1er août 1972
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 11 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 12 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 13 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 14 (V)
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 15 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
-
-	**Cite**:
-
-	  - Code civil - art. 161 (M)
-	  - Code civil - art. 162 (M)
-
-
-#### Section 2 : De la reconnaissance des enfants naturels
 
 ###### Article 335
 
-La reconnaissance d'un enfant naturel peut être faite dans l'acte de naissance, par acte reçu par l'officier de l'état civil
-ou par tout autre acte authentique.
-
-L'acte comporte les énonciations prévues à l'article 62.
-
-Il comporte également la mention que l'auteur de la reconnaissance a été informé du caractère divisible du lien de filiation
-naturelle.
+La filiation établie par la possession d'état constatée par un acte de notoriété peut être contestée par toute personne qui y
+a intérêt en rapportant la preuve contraire, dans le délai de cinq ans à compter de la délivrance de l'acte.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code civil - art. 62 (M)
 
 	**Codifié par**:
 
 	  - Loi n°1803-03-14
 
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2005-759 2005-07-04 art. 20 : Spécificité d'application
+
 	**Modifié par**:
 
-	  - Loi n°96-604 du 5 juillet 1996 - art. 25 () JORF 6 juillet 1996
+	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 15 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
+	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 3 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
 
 	**Cité par**:
 
@@ -14993,7 +14101,8 @@ naturelle.
 
 ###### Article 336
 
-La reconnaissance du père, sans l'indication et l'aveu de la mère, n'a d'effet qu'à l'égard du père.
+La filiation légalement établie peut être contestée par le ministère public si des indices tirés des actes eux-mêmes la
+rendent invraisemblable ou en cas de fraude à la loi.
 
 **Liens relatifs à cet article**
 
@@ -15001,16 +14110,14 @@ La reconnaissance du père, sans l'indication et l'aveu de la mère, n'a d'effet
 
 	  - Loi n°1803-03-14
 
-	**Créé par**:
-
-	  - Loi n°72-3 du 3 janvier 1972 - art. 1 () JORF 5 janvier 1972 en vigueur le 1er août 1972
-
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 11 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 12 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 13 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 14 (V)
+	  - SPEC_APPLI: Ordonnance 2005-759 2005-07-04 art. 20 : Spécificité d'application
+
+	**Modifié par**:
+
+	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 15 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
+	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 3 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
 
 	**Cité par**:
 
@@ -15019,7 +14126,8 @@ La reconnaissance du père, sans l'indication et l'aveu de la mère, n'a d'effet
 
 ###### Article 337
 
-L'acte de naissance portant l'indication de la mère vaut reconnaissance, lorsqu'il est corroboré par la possession d'état.
+Lorsqu'il accueille l'action en contestation, le tribunal peut, dans l'intérêt de l'enfant, fixer les modalités des relations
+de celui-ci avec la personne qui l'élevait.
 
 **Liens relatifs à cet article**
 
@@ -15032,357 +14140,25 @@ L'acte de naissance portant l'indication de la mère vaut reconnaissance, lorsqu
 	  - TXT_SOURCE: Loi n°70-1323 du 31 décembre 1970
 	  - TXT_SOURCE: Loi n°70-1323 du 31 décembre 1970 - art. 1 (V)
 	  - TXT_SOURCE: Loi n°70-1323 du 31 décembre 1970 - art. 2 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 11 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 12 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 13 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 14 (V)
+	  - SPEC_APPLI: Ordonnance 2005-759 2005-07-04 art. 20 : Spécificité d'application
 
 	**Cité par**:
 
 	  - Loi n°70-1323 du 31 décembre 1970 - art. 1 (V)
 	  - Loi n°70-1323 du 31 décembre 1970 - art. 2 (V)
 
-	**Créé par**:
-
-	  - Loi n°72-3 du 3 janvier 1972 - art. 1 () JORF 5 janvier 1972 en vigueur le 1er août 1972
-
-
-###### Article 338
-
-Tant qu'elle n'a pas été contestée en justice, une reconnaissance rend irrecevable l'établissement d'une autre filiation
-naturelle qui la contredirait.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°72-3 du 3 janvier 1972 - art. 1 () JORF 5 janvier 1972 en vigueur le 1er août 1972
-
-	**Liens**:
-
-	  - SPEC_APPLI: Ordonnance 2005-759 2005-07-04 art. 20 : Spécificité d'application
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 18 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
-
-
-###### Article 339
-
-La reconnaissance peut être contestée par toutes personnes qui y ont intérêt, même par son auteur.
-
-L'action est aussi ouverte au ministère public, si des indices tirés des actes eux-mêmes rendent invraisemblable la filiation
-déclarée. Elle lui est également ouverte lorsque la reconnaissance est effectuée en fraude des règles régissant l'adoption.
-
-Quand il existe une possession d'état conforme à la reconnaissance et qui a duré dix ans au moins depuis celle-ci, aucune
-contestation n'est plus recevable, si ce n'est de la part de l'autre parent, de l'enfant lui-même ou de ceux qui se
-prétendent les parents véritables.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Cité par**:
-
-	  - Loi n°72-3 du 3 janvier 1972 - art. 16 (V)
-
 	**Modifié par**:
 
-	  - Loi n°96-604 du 5 juillet 1996 - art. 26 () JORF 6 juillet 1996
+	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 15 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
+	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 3 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
 
-	**Liens**:
 
-	  - SPEC_APPLI: Ordonnance 2005-759 2005-07-04 art. 20 : Spécificité d'application
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 18 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
-
-
-#### Section 3 : Des actions en recherche de paternité et de maternité.
-
-###### Article 340
-
-La paternité hors mariage peut être judiciairement déclarée.
-
-La preuve ne peut en être rapportée que s'il existe des présomptions ou indices graves.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Modifié par**:
-
-	  - Loi n°93-22 du 8 janvier 1993 - art. 23 () JORF 9 janvier 1993
-
-	**Transféré par**:
-
-	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 2 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
-
-	**Cité par**:
-
-	  - Code civil - art. 311-11 (Ab)
-	  - Code civil - art. 340-4 (M)
-
-	**Nouveaux textes**:
-
-	  - Code civil - art. 327 (M)
-	  - Code civil - art. 327 (V)
-
-
-###### Article 340-2
-
-L'action n'appartient qu'à l'enfant.
-
-Pendant la minorité de l'enfant, la mère, même mineure, a seule qualité pour l'exercer.
-
-Si la mère n'a pas reconnu l'enfant, si elle est décédée ou si elle se trouve dans l'impossibilité de manifester sa volonté,
-l'action sera intentée conformément aux dispositions de l'article 464, alinéa 3, du présent code.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°72-3 du 3 janvier 1972 - art. 1 () JORF 5 janvier 1972 en vigueur le 1er août 1972
-
-	**Liens**:
-
-	  - SPEC_APPLI: Ordonnance 2005-759 2005-07-04 art. 20 : Spécificité d'application
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 18 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
-
-	**Cité par**:
-
-	  - Code civil - art. 342-6 (M)
-
-	**Cite**:
-
-	  - Code civil - art. 464 (AbD)
-
-
-###### Article 340-3
-
-L'action en recherche de paternité est exercée contre le père prétendu ou contre ses héritiers ; à défaut d'héritiers ou si
-ceux-ci ont renoncé à la succession, contre l'Etat, les héritiers renonçants devant être cependant appelés à la procédure
-pour y faire valoir leurs droits.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Modifié par**:
-
-	  - Loi n°93-22 du 8 janvier 1993 - art. 24 () JORF 9 janvier 1993
-
-	**Liens**:
-
-	  - SPEC_APPLI: Ordonnance 2005-759 2005-07-04 art. 20 : Spécificité d'application
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 18 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
-
-	**Cité par**:
-
-	  - Code civil - art. 342-6 (M)
-
-
-###### Article 340-4
-
-L'action doit, à peine de déchéance, être exercée dans les deux années qui suivent la naissance.
-
-Toutefois, si le père prétendu et la mère ont vécu pendant la période légale de la conception en état de concubinage
-impliquant, à défaut de communauté de vie, des relations stables ou continues, l'action peut être exercée jusqu'à
-l'expiration des deux années qui suivent la cessation du concubinage. Si le père prétendu a participé à l'entretien, à
-l'éducation ou à l'établissement de l'enfant en qualité de père, l'action peut être exercée jusqu'à l'expiration des deux
-années qui suivent la cessation de cette contribution.
-
-Si elle n'a pas été exercée pendant la minorité de l'enfant, celui-ci peut encore l'exercer pendant les deux années qui
-suivent la majorité.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Modifié par**:
-
-	  - Loi n°93-22 du 8 janvier 1993 - art. 25 () JORF 9 janvier 1993
-
-	**Liens**:
-
-	  - SPEC_APPLI: Ordonnance 2005-759 2005-07-04 art. 20 : Spécificité d'application
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 18 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
-
-
-###### Article 340-5
-
-Lorsqu'il accueille l'action, le tribunal peut, à la demande de la mère, condamner le père à lui rembourser tout ou partie de
-ses frais de maternité et d'entretien pendant les trois mois qui ont précédé et les trois mois qui ont suivi la naissance,
-sans préjudice des dommages-intérêts auxquels elle pourrait prétendre par application des articles 1382 et 1383.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°72-3 du 3 janvier 1972 - art. 1 () JORF 5 janvier 1972 en vigueur le 1er août 1972
-
-	**Liens**:
-
-	  - SPEC_APPLI: Ordonnance 2005-759 2005-07-04 art. 20 : Spécificité d'application
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 18 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
-
-	**Cité par**:
-
-	  - Code civil - art. 342-6 (M)
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-
-###### Article 340-6
-
-Le tribunal statue, s'il y a lieu, sur l'attribution du nom et sur l'autorité parentale, conformément aux articles 334-3 et
-372.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Modifié par**:
-
-	  - Loi n°2002-305 du 4 mars 2002 - art. 9 () JORF 5 mars 2002
-
-	**Liens**:
-
-	  - SPEC_APPLI: Ordonnance 2005-759 2005-07-04 art. 20 : Spécificité d'application
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 18 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
-
-	**Cite**:
-
-	  - Code civil - art. 334-3 (M)
-	  - Code civil - art. 372 (M)
-
-
-###### Article 340-7
-
-En rejetant la demande, les juges pourront, néanmoins, allouer des subsides à l'enfant, si les relations entre la mère et le
-défendeur ont été démontrées dans les conditions prévues aux articles 342 et suivants.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°72-3 du 3 janvier 1972 - art. 1 () JORF 5 janvier 1972 en vigueur le 1er août 1972
-
-	**Liens**:
-
-	  - SPEC_APPLI: Ordonnance 2005-759 2005-07-04 art. 20 : Spécificité d'application
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 18 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
-
-
-###### Article 341
-
-La recherche de la maternité est admise sous réserve de l'application de l'article 341-1.
-
-L'enfant qui exerce l'action sera tenu de prouver qu'il est celui dont la mère prétendue est accouchée.
-
-La preuve ne peut en être rapportée que s'il existe des présomptions ou indices graves.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code civil - art. 341-1 (T)
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Modifié par**:
-
-	  - Loi n°93-22 du 8 janvier 1993 - art. 26 () JORF 9 janvier 1993
-
-	**Liens**:
-
-	  - SPEC_APPLI: Ordonnance 2005-759 2005-07-04 art. 20 : Spécificité d'application
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 18 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
-
-
-###### Article 341-1
-
-Lors de l'accouchement, la mère peut demander que le secret de son admission et de son identité soit préservé.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°93-22 du 8 janvier 1993 - art. 27 () JORF 9 janvier 1993
-
-	**Transféré par**:
-
-	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 2 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
-
-	**Nouveaux textes**:
-
-	  - Code civil - art. 326 (M)
-	  - Code civil - art. 326 (V)
-
-	**Cité par**:
-
-	  - Code civil - art. 341 (Ab)
-	  - Code civil - art. 62 (V)
-
-
-#### Section 4 : De l'action à fins de subsides
+### Chapitre IV : De l'action à fins de subsides
 
 ###### Article 342
 
-Tout enfant naturel dont la filiation paternelle n'est pas légalement établie, peut réclamer des subsides à celui qui a eu
-des relations avec sa mère pendant la période légale de la conception.
+Tout enfant dont la filiation paternelle n'est pas légalement établie, peut réclamer des subsides à celui qui a eu des
+relations avec sa mère pendant la période légale de la conception.
 
 L'action peut être exercée pendant toute la minorité de l'enfant ; celui-ci peut encore l'exercer dans les deux années qui
 suivent sa majorité si elle ne l'a pas été pendant sa minorité.
@@ -15391,18 +14167,6 @@ L'action est recevable même si le père ou la mère était au temps de la conce
 autre personne, ou s'il existait entre eux un des empêchements à mariage réglés par les articles 161 à 164 du présent code.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°72-3 du 3 janvier 1972 - art. 1 () JORF 5 janvier 1972 en vigueur le 1er août 1972
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 11 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 12 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 13 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 14 (V)
-	  - SPEC_APPLI: Loi n°77-1456 du 29 décembre 1977 - art. 3 (V)
 
 	**Cité par**:
 
@@ -15424,41 +14188,23 @@ autre personne, ou s'il existait entre eux un des empêchements à mariage régl
 	  - Code des procédures civiles d'exécution - art. L213-1 (VD)
 	  - Nouveau code de procédure civile - art. 465-1 (V)
 
-	**Modifié par**:
-
-	  - Loi n°77-1456 du 29 décembre 1977 - art. 1 () JORF 30 décembre 1977
-
-	**Cite**:
-
-	  - Code civil 161 à 164
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-
-###### Article 342-1
-
-L'action à fins de subsides peut aussi être exercée par l'enfant d'une femme mariée, si son titre d'enfant légitime n'est pas
-corroboré par la possession d'état.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°72-3 du 3 janvier 1972 - art. 1 () JORF 5 janvier 1972 en vigueur le 1er août 1972
-
 	**Liens**:
 
 	  - SPEC_APPLI: Ordonnance 2005-759 2005-07-04 art. 20 : Spécificité d'application
 
-	**Abrogé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 18 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
+	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 16 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
+	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 3 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
+
+	**Cite**:
+
+	  - Code civil - art. 161 (V)
+	  - Code civil - art. 164 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
 
 
 ###### Article 342-2
@@ -15475,56 +14221,13 @@ imputable à faute.
 
 	  - Loi n°1803-03-14
 
-	**Créé par**:
-
-	  - Loi n°72-3 du 3 janvier 1972 - art. 1 () JORF 5 janvier 1972 en vigueur le 1er août 1972
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 11 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 12 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 13 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 14 (V)
-
-
-###### Article 342-3
-
-Quand il y a lieu à l'application de l'article 311-11 ci-dessus, le juge, en l'absence d'autres éléments de décision, a la
-faculté de mettre une indemnité destinée à assurer l'entretien et l'éducation de l'enfant à la charge des défendeurs, si des
-fautes sont établies à leur encontre, ou si des engagements ont été pris antérieurement par eux.
-
-Cette indemnité sera recouvrée par l'aide sociale à l'enfance, une oeuvre reconnue d'utilité publique, ou un mandataire de
-justice tenu au secret professionnel, qui la reversera au représentant légal de l'enfant. Les conditions de ce recouvrement
-et de ce reversement seront fixées par décret.
-
-Les dispositions régissant les subsides sont, pour le surplus, applicables à cette indemnité.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°72-3 du 3 janvier 1972 - art. 1 () JORF 5 janvier 1972 en vigueur le 1er août 1972
-
 	**Liens**:
 
 	  - SPEC_APPLI: Ordonnance 2005-759 2005-07-04 art. 20 : Spécificité d'application
-	  - TXT_ASSOCIE: Code civil - art. 311-11 (Ab)
 
-	**Abrogé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 18 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
-
-	**Cite**:
-
-	  - Code civil - art. 311-11 (M)
-
-	**Cité par**:
-
-	  - Nouveau code de procédure civile - art. 1154 (Ab)
+	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 3 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
 
 
 ###### Article 342-4
@@ -15537,9 +14240,13 @@ Le défendeur peut écarter la demande en faisant la preuve par tous moyens qu'i
 
 	  - Loi n°1803-03-14
 
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2005-759 2005-07-04 art. 20 : Spécificité d'application
+
 	**Modifié par**:
 
-	  - Loi n°93-22 du 8 janvier 1993 - art. 28 () JORF 9 janvier 1993
+	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 3 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
 
 
 ###### Article 342-5
@@ -15548,26 +14255,26 @@ La charge des subsides se transmet à la succession du débiteur suivant les rè
 
 **Liens relatifs à cet article**
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°2001-1135 2001-12-03 art. 25 II (ouverture des successions)
-
-	**Modifié par**:
-
-	  - Loi n°2001-1135 du 3 décembre 2001 - art. 9 () JORF 4 décembre 2001 en vigueur le 1er juillet 2002
-
 	**Cite**:
 
-	  - Code civil - art. 767 (M)
+	  - Code civil - art. 767 (V)
 
 	**Codifié par**:
 
 	  - Loi n°1803-03-14
 
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2005-759 2005-07-04 art. 20 : Spécificité d'application
+
+	**Modifié par**:
+
+	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 3 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
+
 
 ###### Article 342-6
 
-Les articles 340-2, 340-3 et 340-5 ci-dessus sont applicables à l'action à fins de subsides.
+Les articles 327 alinéa 2, et 328 ci-dessus sont applicables à l'action à fins de subsides.
 
 **Liens relatifs à cet article**
 
@@ -15575,31 +14282,23 @@ Les articles 340-2, 340-3 et 340-5 ci-dessus sont applicables à l'action à fin
 
 	  - Loi n°1803-03-14
 
-	**Créé par**:
-
-	  - Loi n°72-3 du 3 janvier 1972 - art. 1 () JORF 5 janvier 1972 en vigueur le 1er août 1972
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 11 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 12 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 13 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 14 (V)
-	  - SPEC_APPLI: Loi n°77-1456 du 29 décembre 1977 - art. 3 (V)
-
-	**Modifié par**:
-
-	  - Loi n°77-1456 du 29 décembre 1977 - art. 2 () JORF 30 décembre 1977
-
 	**Cité par**:
 
 	  - Ordonnance n°2002-1476 du 19 décembre 2002 - art. 10 (VD)
 
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2005-759 2005-07-04 art. 20 : Spécificité d'application
+
+	**Modifié par**:
+
+	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 16 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
+	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 3 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
+
 	**Cite**:
 
-	  - Code civil - art. 340-2 (Ab)
-	  - Code civil - art. 340-3 (M)
-	  - Code civil - art. 340-5 (Ab)
+	  - Code civil - art. 327 (V)
+	  - Code civil - art. 328 (V)
 
 
 ###### Article 342-7
@@ -15613,20 +14312,18 @@ et les parents ou le conjoint de l'autre, les empêchements à mariage réglés 
 
 	  - Loi n°1803-03-14
 
-	**Créé par**:
-
-	  - Loi n°72-3 du 3 janvier 1972 - art. 1 () JORF 5 janvier 1972 en vigueur le 1er août 1972
-
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 11 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 12 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 13 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 14 (V)
+	  - SPEC_APPLI: Ordonnance 2005-759 2005-07-04 art. 20 : Spécificité d'application
+
+	**Modifié par**:
+
+	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 3 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
 
 	**Cite**:
 
-	  - Code civil 161 à 164
+	  - Code civil - art. 161 (V)
+	  - Code civil - art. 164 (V)
 
 
 ###### Article 342-8
@@ -15643,16 +14340,13 @@ l'endroit d'un autre que le débiteur.
 
 	  - Loi n°1803-03-14
 
-	**Créé par**:
-
-	  - Loi n°72-3 du 3 janvier 1972 - art. 1 () JORF 5 janvier 1972 en vigueur le 1er août 1972
-
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 11 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 12 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 13 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 14 (V)
+	  - SPEC_APPLI: Ordonnance 2005-759 2005-07-04 art. 20 : Spécificité d'application
+
+	**Modifié par**:
+
+	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 3 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
 
 
 ## Titre VIII : De la filiation adoptive
@@ -16044,9 +14738,8 @@ de l'aide sociale à l'enfance ou à un organisme autorisé pour l'adoption.
 
 ###### Article 348-6
 
-Le tribunal peut prononcer l'adoption s'il estime abusif le refus de consentement opposé par les parents légitimes et
-naturels ou par l'un d'entre eux seulement, lorsqu'ils se sont désintéressés de l'enfant au risque d'en compromettre la santé
-ou la moralité.
+Le tribunal peut prononcer l'adoption s'il estime abusif le refus de consentement opposé par les parents ou par l'un d'entre
+eux seulement, lorsqu'ils se sont désintéressés de l'enfant au risque d'en compromettre la santé ou la moralité.
 
 Il en est de même en cas de refus abusif de consentement du conseil de famille.
 
@@ -16056,16 +14749,13 @@ Il en est de même en cas de refus abusif de consentement du conseil de famille.
 
 	  - Loi n°1803-03-14
 
-	**Créé par**:
-
-	  - Loi n°66-500 du 11 juillet 1966 - art. 1 () JORF 12 juillet 1966 en vigueur le 1er novembre 1966
-
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 11 (V)
-	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 12 (V)
-	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 13 (V)
-	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 7 (V)
+	  - SPEC_APPLI: Ordonnance 2005-759 2005-07-04 art. 20 : Spécificité d'application
+
+	**Modifié par**:
+
+	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 17 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
 
 
 ###### Article 349
@@ -17928,8 +16618,8 @@ qu'il est dit à l'article 390 ci-dessous.
 
 ###### Article 374-1
 
-Le tribunal qui statue sur l'établissement d'une filiation naturelle peut décider de confier provisoirement l'enfant à un
-tiers qui sera chargé de requérir l'organisation de la tutelle.
+Le tribunal qui statue sur l'établissement d'une filiation peut décider de confier provisoirement l'enfant à un tiers qui
+sera chargé de requérir l'organisation de la tutelle.
 
 **Liens relatifs à cet article**
 
@@ -17937,19 +16627,19 @@ tiers qui sera chargé de requérir l'organisation de la tutelle.
 
 	  - Loi n°1803-03-14
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°2002-305 2002-305 2002-03-04 art. I (application à Mayotte)
-
 	**Cité par**:
 
 	  - Loi n°70-459 du 4 juin 1970 - art. 11 (V)
 	  - Loi n°70-459 du 4 juin 1970 - art. 15 (V)
 	  - Loi n°2002-305 du 4 mars 2002 - art. 19 (V)
 
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2005-759 2005-07-04 art. 20 : Spécificité d'application
+
 	**Modifié par**:
 
-	  - Loi n°93-22 du 8 janvier 1993 - art. 45 () JORF 9 janvier 1993
+	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 17 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
 
 
 ###### Article 374-2
@@ -19302,9 +17992,13 @@ La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 La tutelle s'ouvre lorsque le père et la mère sont tous deux décédés ou se trouvent privés de l'exercice de l'autorité
 parentale.
 
-Elle s'ouvre, aussi, à l'égard d'un enfant naturel, s'il n'a ni père ni mère qui l'aient volontairement reconnu.
+Elle s'ouvre, aussi, à l'égard d'un enfant qui n'a ni père ni mère.
 
 Il n'est pas dérogé aux lois particulières qui régissent le service de l'aide sociale à l'enfance.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 
 **Liens relatifs à cet article**
 
@@ -19317,9 +18011,13 @@ Il n'est pas dérogé aux lois particulières qui régissent le service de l'aid
 	  - Code de la famille et de l'aide sociale. - art. 193 (Ab)
 	  - Code de procédure civile - art. 1217 (V)
 
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2005-759 2005-07-04 art. 20 : Spécificité d'application
+
 	**Modifié par**:
 
-	  - Loi n°2002-305 du 4 mars 2002 - art. 8 () JORF 5 mars 2002
+	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 17 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
 
 	**Codifié par**:
 
@@ -19361,19 +18059,18 @@ La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 
 ###### Article 392
 
-Si un enfant naturel vient à être reconnu par l'un de ses deux parents après l'ouverture de la tutelle, le juge des tutelles
-pourra, à la requête de ce parent, décider de substituer à la tutelle l'administration légale dans les termes de l'article
-389-2.
+Si un enfant vient à être reconnu par l'un de ses deux parents après l'ouverture de la tutelle, le juge des tutelles pourra,
+à la requête de ce parent, décider de substituer à la tutelle l'administration légale dans les termes de l'article 389-2.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
-
 	**Cite**:
 
-	  - Code civil - art. 389-2 (M)
+	  - Code civil - art. 389-2 (VT)
 
 	**Cité par**:
 
@@ -19382,6 +18079,14 @@ pourra, à la requête de ce parent, décider de substituer à la tutelle l'admi
 	**Codifié par**:
 
 	  - Loi n°1803-03-14
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2005-759 2005-07-04 art. 20 : Spécificité d'application
+
+	**Modifié par**:
+
+	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 17 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
 
 
 ## Titre X : De la minorité, de la tutelle et de l'émancipation.
@@ -24886,32 +23591,6 @@ suivant les règles qui leur sont particulières.
 	  - Loi n°1804-01-25 promulguée le 4 février 1804
 
 
-###### Article 538
-
-Les chemins, routes et rues à la charge de l'Etat, les fleuves et rivières navigables ou flottables, les rivages, lais et
-relais de la mer, les ports, les havres, les rades, et généralement toutes les portions du territoire français qui ne sont
-pas susceptibles d'une propriété privée, sont considérés comme des dépendances du domaine public.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1804-01-25
-
-	**Créé par**:
-
-	  - Loi n°1804-01-25 promulguée le 4 février 1804
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-	**Cité par**:
-
-	  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V)
-	  - Code civil - art. 644 (V)
-
-
 ###### Article 539
 
 Les biens des personnes qui décèdent sans héritiers ou dont les successions sont abandonnées appartiennent à l'Etat.
@@ -24935,53 +23614,6 @@ Les biens des personnes qui décèdent sans héritiers ou dont les successions s
 	**Codifié par**:
 
 	  - Loi n°1804-01-25
-
-
-###### Article 540
-
-Les portes, murs, fossés, remparts des places de guerre et des forteresses font aussi partie du domaine public.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1804-01-25
-
-	**Créé par**:
-
-	  - Loi n°1804-01-25 promulguée le 4 février 1804
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-	**Cité par**:
-
-	  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V)
-
-
-###### Article 541
-
-Il en est de même des terrains, des fortifications et remparts des places qui ne sont plus places de guerre : ils
-appartiennent à l'Etat s'ils n'ont été valablement aliénés ou si la propriété n'en a pas été prescrite contre lui.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1804-01-25
-
-	**Créé par**:
-
-	  - Loi n°1804-01-25 promulguée le 4 février 1804
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-	**Cité par**:
-
-	  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V)
 
 
 ###### Article 542
@@ -25297,13 +23929,17 @@ plantations, mais il aura le choix de rembourser au tiers l'une ou l'autre des s
 
 ###### Article 556
 
-Les atterrissements et accroissements qui se forment successivement et imperceptiblement aux fonds riverains d'un fleuve ou
-d'une rivière s'appellent "alluvion".
+Les atterrissements et accroissements qui se forment successivement et imperceptiblement aux fonds riverains d'un cours d'eau
+s'appellent "alluvion".
 
-L'alluvion profite au propriétaire riverain, soit qu'il s'agisse d'un fleuve ou d'une rivière navigable, flottable ou non ; à
-la charge, dans le premier cas, de laisser le marchepied ou chemin de halage, conformément aux règlements.
+L'alluvion profite au propriétaire riverain, qu'il s'agisse d'un cours d'eau domanial ou non ; à la charge, dans le premier
+cas, de laisser le marchepied ou chemin de halage, conformément aux règlements.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Ordonnance n°2006-460 du 21 avril 2006 - art. 3 () JORF 22 avril 2006 en vigueur le 1er juillet 2006
 
 	**Cité par**:
 
@@ -25321,10 +23957,6 @@ la charge, dans le premier cas, de laisser le marchepied ou chemin de halage, co
 	**Codifié par**:
 
 	  - Loi n°1804-01-27
-
-	**Créé par**:
-
-	  - Loi n°1804-01-27 promulguée le 6 février 1804
 
 
 ###### Article 557
@@ -25382,12 +24014,16 @@ des crues extraordinaires.
 
 ###### Article 559
 
-Si un fleuve ou une rivière, navigable ou non, enlève par une force subite une partie considérable et reconnaissable d'un
-champ riverain, et la porte vers un champ inférieur ou sur la rive opposée, le propriétaire de la partie enlevée peut
-réclamer sa propriété ; mais il est tenu de former sa demande dans l'année : après ce délai, il n'y sera plus recevable, à
-moins que le propriétaire du champ auquel la partie enlevée a été unie, n'eût pas encore pris possession de celle-ci.
+Si un cours d'eau, domanial ou non, enlève par une force subite une partie considérable et reconnaissable d'un champ
+riverain, et la porte vers un champ inférieur ou sur la rive opposée, le propriétaire de la partie enlevée peut réclamer sa
+propriété ; mais il est tenu de former sa demande dans l'année : après ce délai, il n'y sera plus recevable, à moins que le
+propriétaire du champ auquel la partie enlevée a été unie, n'eût pas encore pris possession de celle-ci.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Ordonnance n°2006-460 du 21 avril 2006 - art. 3 () JORF 22 avril 2006 en vigueur le 1er juillet 2006
 
 	**Cité par**:
 
@@ -25401,15 +24037,11 @@ moins que le propriétaire du champ auquel la partie enlevée a été unie, n'e�
 
 	  - Loi n°1804-01-27
 
-	**Créé par**:
-
-	  - Loi n°1804-01-27 promulguée le 6 février 1804
-
 
 ###### Article 560
 
-Les îles, îlots, atterrissements qui se forment dans le lit des fleuves ou des rivières navigables ou flottables
-appartiennent à l'Etat s'il n'y a titre ou prescription contraire.
+Les îles, îlots, atterrissements, qui se forment dans le lit des cours d'eau domaniaux, appartiennent à la personne publique
+propriétaire du domaine concerné, en l'absence de titre ou de prescription contraire.
 
 **Liens relatifs à cet article**
 
@@ -25423,18 +24055,22 @@ appartiennent à l'Etat s'il n'y a titre ou prescription contraire.
 
 	  - Loi n°1804-01-27
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°1804-01-27 promulguée le 6 février 1804
+	  - Ordonnance n°2006-460 du 21 avril 2006 - art. 3 () JORF 22 avril 2006 en vigueur le 1er juillet 2006
 
 
 ###### Article 561
 
-Les îles et atterrissements qui se forment dans les rivières non navigables et non flottables appartiennent aux propriétaires
-riverains du côté où l'île s'est formée : si l'île n'est pas formée d'un seul côté, elle appartient aux propriétaires
-riverains des deux côtés, à partir de la ligne qu'on suppose tracée au milieu de la rivière.
+Les îles et atterrissements qui se forment dans les cours d'eau non domaniaux, appartiennent aux propriétaires riverains du
+côté où l'île s'est formée : si l'île n'est pas formée d'un seul côté, elle appartient aux propriétaires riverains des deux
+côtés, à partir de la ligne qu'on suppose tracée au milieu du cours d'eau.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Ordonnance n°2006-460 du 21 avril 2006 - art. 3 () JORF 22 avril 2006 en vigueur le 1er juillet 2006
 
 	**Cité par**:
 
@@ -25446,18 +24082,17 @@ riverains des deux côtés, à partir de la ligne qu'on suppose tracée au milie
 
 	  - Loi n°1804-01-27
 
-	**Créé par**:
-
-	  - Loi n°1804-01-27 promulguée le 6 février 1804
-
 
 ###### Article 562
 
-Si une rivière ou un fleuve, en se formant un bras nouveau, coupe et embrasse le champ d'un propriétaire riverain, et en fait
-une île, ce propriétaire conserve la propriété de son champ, encore que l'île se soit formée dans un fleuve ou dans une
-rivière navigable ou flottable.
+Si un cours d'eau, en se formant un bras nouveau, coupe et embrasse le champ d'un propriétaire riverain, et en fait une île,
+ce propriétaire conserve la propriété de son champ, encore que l'île se soit formée dans un cours d'eau domanial.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Ordonnance n°2006-460 du 21 avril 2006 - art. 3 () JORF 22 avril 2006 en vigueur le 1er juillet 2006
 
 	**Cité par**:
 
@@ -25471,26 +24106,26 @@ rivière navigable ou flottable.
 
 	  - Loi n°1804-01-27
 
-	**Créé par**:
-
-	  - Loi n°1804-01-27 promulguée le 6 février 1804
-
 
 ###### Article 563
 
-Si un fleuve ou une rivière navigable ou flottable se forme un nouveau cours en abandonnant son ancien lit, les propriétaires
-riverains peuvent acquérir la propriété de cet ancien lit, chacun en droit soi, jusqu'à une ligne qu'on suppose tracée au
-milieu de la rivière. Le prix de l'ancien lit est fixé par des experts nommés par le président du tribunal de la situation
-des lieux, à la requête du préfet du département.
+Si un cours d'eau domanial forme un nouveau cours en abandonnant son ancien lit, les propriétaires riverains peuvent acquérir
+la propriété de cet ancien lit, chacun en droit soi, jusqu'à une ligne qu'on suppose tracée au milieu du cours d'eau. Le prix
+de l'ancien lit est fixé par des experts nommés par le président du tribunal de la situation des lieux, à la requête de
+l'autorité compétente.
 
-A défaut par les propriétaires riverains de déclarer, dans les trois mois de la notification qui leur sera faite par le
-préfet, l'intention de faire l'acquisition aux prix fixés par les experts, il est procédé à l'aliénation de l'ancien lit
-selon les règles qui président aux aliénations du domaine de l'Etat.
+A défaut par les propriétaires riverains de déclarer, dans les trois mois de la notification qui leur sera faite par
+l'autorité compétente, l'intention de faire l'acquisition aux prix fixés par les experts, il est procédé à l'aliénation de
+l'ancien lit selon les règles qui président aux aliénations du domaine des personnes publiques.
 
-Le prix provenant de la vente est distribué aux propriétaires des fonds occupés par le nouveau cours à titre d'indemnité dans
-la proportion de la valeur du terrain enlevé à chacun d'eux.
+Le prix provenant de la vente est distribué aux propriétaires des fonds occupés par le nouveau cours à titre d'indemnité,
+dans la proportion de la valeur du terrain enlevé à chacun d'eux.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Ordonnance n°2006-460 du 21 avril 2006 - art. 3 () JORF 22 avril 2006 en vigueur le 1er juillet 2006
 
 	**Cité par**:
 
@@ -25501,14 +24136,6 @@ la proportion de la valeur du terrain enlevé à chacun d'eux.
 	**Codifié par**:
 
 	  - Loi n°1804-01-27
-
-	**Créé par**:
-
-	  - Loi n°1804-01-27 promulguée le 6 février 1804
-
-	**Modifié par**:
-
-	  - Loi n°1898-04-08 art. 37 bulletin des lois, 12° 5, B 1970, n°34577
 
 
 ###### Article 564
@@ -27278,8 +25905,8 @@ Les servitudes établies par la loi ont pour objet l'utilité publique ou commun
 
 ###### Article 650
 
-Celles établies pour l'utilité publique ou communale ont pour objet le marchepied le long des rivières navigables ou
-flottables, la construction ou réparation des chemins et autres ouvrages publics ou communaux.
+Celles établies pour l'utilité publique ou communale ont pour objet le marchepied le long des cours d'eau domaniaux, la
+construction ou réparation des chemins et autres ouvrages publics ou communaux.
 
 Tout ce qui concerne cette espèce de servitude est déterminé par des lois ou des règlements particuliers.
 
@@ -27289,9 +25916,9 @@ Tout ce qui concerne cette espèce de servitude est déterminé par des lois ou 
 
 	  - Loi n°1804-01-31
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°1804-01-31 promulguée le 10 février 1804
+	  - Ordonnance n°2006-460 du 21 avril 2006 - art. 3 () JORF 22 avril 2006 en vigueur le 1er juillet 2006
 
 
 ###### Article 651
@@ -29139,7 +27766,7 @@ ayant force de chose jugée.
 
 ###### Article 733
 
-La loi ne distingue pas entre la filiation légitime et la filiation naturelle pour déterminer les parents appelés à succéder.
+La loi ne distingue pas selon les modes d'établissement de la filiation pour déterminer les parents appelés à succéder.
 
 Les droits résultant de la filiation adoptive sont réglés au titre de l'adoption.
 
@@ -29149,9 +27776,13 @@ Les droits résultant de la filiation adoptive sont réglés au titre de l'adopt
 
 	  - Loi n°1803-04-19
 
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2005-759 2005-07-04 art. 20 : Spécificité d'application
+
 	**Modifié par**:
 
-	  - Loi n°2001-1135 du 3 décembre 2001 - art. 1 () JORF 4 décembre 2001 en vigueur le 1er juillet 2002
+	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 17 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
 
 
 ##### Paragraphe 1 : Des ordres d'héritiers.
@@ -34496,6 +33127,34 @@ Seront réputées personnes interposées les père et mère, les enfants et desc
 
 #### Section 1 : De la portion de biens disponible.
 
+###### Article 913
+
+Les libéralités, soit par actes entre vifs, soit par testament, ne pourront excéder la moitié des biens du disposant, s'il ne
+laisse à son décès qu'un enfant ; le tiers, s'il laisse deux enfants ; le quart, s'il en laisse trois ou un plus grand
+nombre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Cité par**:
+
+	  - Loi n°57-298 du 11 mars 1957 - art. 24 (Ab)
+	  - Code civil - art. 913-1 (V)
+	  - Code civil - art. 915-1 (Ab)
+	  - Code de la propriété intellectuelle - art. L123-6 (V)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2005-759 2005-07-04 art. 20 : Spécificité d'application
+
+	**Modifié par**:
+
+	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 17 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
+
+
 ###### Article 913-1
 
 Sont compris dans l'article 913, sous le nom d'enfants, les descendants en quelque degré que ce soit, encore qu'ils ne
@@ -35543,6 +34202,36 @@ Les donations en faveur de mariage ne seront pas révocables pour cause d'ingrat
 	  - Loi n°1803-05-03 promulguée le 13 mai 1803
 
 
+###### Article 960
+
+Toutes donations entre vifs faites par personnes qui n'avaient point d'enfants ou de descendants actuellement vivants dans le
+temps de la donation, de quelque valeur que ces donations puissent être, et à quelque titre qu'elles aient été faites, et
+encore qu'elles fussent mutuelles ou rémunératoires, même celles qui auraient été faites en faveur de mariage par autres que
+par les ascendants aux conjoints, ou par les conjoints l'un à l'autre, demeureront révoquées de plein droit par la survenance
+d'un enfant du donateur, même posthume.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret du 18 novembre 1924 - art. 25 (Ab)
+	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 20 (V)
+	  - Code civil - art. 964 (V)
+	  - Code de commerce - art. A444-163-6 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2005-759 2005-07-04 art. 20 : Spécificité d'application
+
+	**Modifié par**:
+
+	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 17 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
+
+
 ###### Article 961
 
 Cette révocation aura lieu, encore que l'enfant du donateur ou de la donatrice fût conçu au temps de la donation.
@@ -35556,6 +34245,33 @@ Cette révocation aura lieu, encore que l'enfant du donateur ou de la donatrice 
 	**Créé par**:
 
 	  - Loi n°1803-05-03 promulguée le 13 mai 1803
+
+
+###### Article 962
+
+La donation demeurera pareillement révoquée lors même que le donataire serait entré en possession des biens donnés, et qu'il
+y aurait été laissé par le donateur depuis la survenance de l'enfant ; sans néanmoins que le donataire soit tenu de restituer
+les fruits par lui perçus, de quelque nature qu'ils soient, si ce n'est du jour que la naissance de l'enfant lui aura été
+notifiée par exploit ou autre acte en bonne forme ; et ce, quand même la demande pour rentrer dans les biens donnés n'aurait
+été formée que postérieurement à cette notification.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2005-759 2005-07-04 art. 20 : Spécificité d'application
+
+	**Modifié par**:
+
+	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 17 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
+
+	**Cité par**:
+
+	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 20 (V)
 
 
 ###### Article 963
@@ -38456,6 +37172,59 @@ donataire avant l'époux donateur.
 	  - Loi n°1803-05-03 promulguée le 13 mai 1803
 
 
+###### Article 1094
+
+L'époux, soit par contrat de mariage, soit pendant le mariage, pourra, pour le cas où il ne laisserait point d'enfant ni de
+descendant, disposer en faveur de l'autre époux en propriété, de tout ce dont il pourrait disposer en faveur d'un étranger
+et, en outre, de la nue-propriété de la portion réservée aux ascendants par l'article 914 du présent code.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°63-699 du 13 juillet 1963 - art. 4 (Ab)
+	  - Loi n°81-1160 du 30 décembre 1981 - art. 5 (V)
+	  - Code général des impôts, CGI. - art. 885 G (V)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2005-759 2005-07-04 art. 20 : Spécificité d'application
+
+	**Modifié par**:
+
+	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 17 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
+
+	**Cite**:
+
+	  - Code civil - art. 914 (Ab)
+
+
+###### Article 1094-1
+
+Pour le cas où l'époux laisserait des enfants ou descendants, issus ou non du mariage, il pourra disposer en faveur de
+l'autre époux, soit de la propriété de ce dont il pourrait disposer en faveur d'un étranger, soit d'un quart de ses biens en
+propriété et des trois autres quarts en usufruit, soit encore de la totalité de ses biens en usufruit seulement.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2005-759 2005-07-04 art. 20 : Spécificité d'application
+
+	**Modifié par**:
+
+	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 17 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
+
+	**Cité par**:
+
+	  - Code civil - art. 1097 (Ab)
+	  - Code civil - art. 1098 (V)
+	  - Code civil - art. 1527 (V)
+	  - Code civil - art. 758-6 (V)
+	  - Code général des impôts, CGI. - art. 788 bis (V)
+	  - Code général des impôts, CGI. - art. 885 G (V)
+
+
 ###### Article 1094-3
 
 Les enfants ou descendants pourront, nonobstant toute stipulation contraire du disposant, exiger, quant aux biens soumis à
@@ -38607,162 +37376,6 @@ subrogé au bien aliéné, la valeur de ce nouveau bien.
 	**Cité par**:
 
 	  - Loi n°67-1179 du 28 décembre 1967 - art. 2 (V)
-
-
-## Titre II : Des donations entre vifs et des testaments
-
-### Chapitre III : De la portion de biens disponible, et de la réduction
-
-#### Section 1 : De la portion de biens disponible.
-
-###### Article 913
-
-Les libéralités, soit par actes entre vifs, soit par testament, ne pourront excéder la moitié des biens du disposant, s'il ne
-laisse à son décès qu'un enfant ; le tiers, s'il laisse deux enfants ; le quart, s'il en laisse trois ou un plus grand
-nombre ; sans qu'il y ait lieu de distinguer entre les enfants légitimes et les enfants naturels.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-05-03
-
-	**Cité par**:
-
-	  - Loi n°57-298 du 11 mars 1957 - art. 24 (Ab)
-	  - Code civil - art. 913-1 (V)
-	  - Code civil - art. 915-1 (Ab)
-	  - Code de la propriété intellectuelle - art. L123-6 (V)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°2001-1135 2001-12-03 art. 25 I (dérogations à l'entrée en vigueur), II (ouverture des successions)
-	  - TXT_ASSOCIE: Code civil 913-1 (descendants - degré)
-
-	**Modifié par**:
-
-	  - Loi n°2001-1135 du 3 décembre 2001 - art. 16 () JORF 4 décembre 2001
-
-
-### Chapitre IV : Des donations entre vifs
-
-#### Section 2 : Des exceptions à la règle de l'irrévocabilité des donations entre vifs.
-
-###### Article 960
-
-Toutes donations entre vifs faites par personnes qui n'avaient point d'enfants ou de descendants actuellement vivants dans le
-temps de la donation, de quelque valeur que ces donations puissent être, et à quelque titre qu'elles aient été faites, et
-encore qu'elles fussent mutuelles ou rémunératoires, même celles qui auraient été faites en faveur de mariage par autres que
-par les ascendants aux conjoints, ou par les conjoints l'un à l'autre, demeureront révoquées de plein droit par la survenance
-d'un enfant légitime du donateur, même d'un posthume, ou par la légitimation d'un enfant naturel par mariage subséquent, s'il
-est né depuis la donation.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Décret du 18 novembre 1924 - art. 25 (Ab)
-	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 20 (V)
-	  - Code civil - art. 964 (V)
-	  - Code de commerce - art. A444-163-6 (V)
-
-	**Codifié par**:
-
-	  - Loi n°1803-05-03
-
-	**Créé par**:
-
-	  - Loi n°1803-05-03 promulguée le 13 mai 1803
-
-
-###### Article 962
-
-La donation demeurera pareillement révoquée lors même que le donataire serait entré en possession des biens donnés, et qu'il
-y aurait été laissé par le donateur depuis la survenance de l'enfant ; sans néanmoins que le donataire soit tenu de restituer
-les fruits par lui perçus, de quelque nature qu'ils soient, si ce n'est du jour que la naissance de l'enfant ou sa
-légitimation par mariage subséquent lui aura été notifiée par exploit ou autre acte en bonne forme ; et ce, quand même la
-demande pour rentrer dans les biens donnés n'aurait été formée que postérieurement à cette notification.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-05-03
-
-	**Créé par**:
-
-	  - Loi n°1803-05-03 promulguée le 13 mai 1803
-
-	**Cité par**:
-
-	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 20 (V)
-
-
-### Chapitre IX : Des dispositions entre époux, soit par contrat de mariage, soit pendant le mariage.
-
-###### Article 1094
-
-L'époux, soit par contrat de mariage, soit pendant le mariage, pourra, pour le cas où il ne laisserait point d'enfant ni de
-descendant légitime ou naturel, disposer en faveur de l'autre époux en propriété, de tout ce dont il pourrait disposer en
-faveur d'un étranger et, en outre, de la nue-propriété de la portion réservée aux ascendants par l'article 914 du présent
-code.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Loi n°63-699 du 13 juillet 1963 - art. 4 (Ab)
-	  - Loi n°81-1160 du 30 décembre 1981 - art. 5 (V)
-	  - Code général des impôts, CGI. - art. 885 G (V)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 13 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 14 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 15 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 16 (V)
-
-	**Modifié par**:
-
-	  - Loi n°72-3 du 3 janvier 1972 - art. 6 () JORF 5 janvier 1972 en vigueur le 1er août 1972
-
-	**Cite**:
-
-	  - Code civil - art. 914 (Ab)
-
-	**Créé par**:
-
-	  - Loi n°1803-05-03 promulguée le 13 mai 1803
-
-
-###### Article 1094-1
-
-Pour le cas où l'époux laisserait des enfants ou descendants, soit légitimes, issus ou non du mariage, soit naturels, il
-pourra disposer en faveur de l'autre époux, soit de la propriété de ce dont il pourrait disposer en faveur d'un étranger,
-soit d'un quart de ses biens en propriété et des trois autres quarts en usufruit, soit encore de la totalité de ses biens en
-usufruit seulement.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 13 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 14 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 15 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 16 (V)
-
-	**Créé par**:
-
-	  - Loi n°72-3 du 3 janvier 1972 - art. 6 () JORF 5 janvier 1972 en vigueur le 1er août 1972
-
-	**Cité par**:
-
-	  - Code civil - art. 1097 (Ab)
-	  - Code civil - art. 1098 (V)
-	  - Code civil - art. 1527 (V)
-	  - Code civil - art. 758-6 (V)
-	  - Code général des impôts, CGI. - art. 788 bis (V)
-	  - Code général des impôts, CGI. - art. 885 G (V)
 
 
 ## Titre III : Des contrats ou des obligations conventionnelles en général
@@ -69352,59 +67965,6 @@ accédant à l'âge requis pour se marier à compter du 1er janvier 2005.
 	**Anciens textes**:
 
 	  - Code civil - art. 2290-1 (T)
-
-
-###### Article 2497
-
-Les articles 331, 331-2, 332-1, 334-2 et 334-5 sont applicables à Mayotte dans leur rédaction issue de la loi n° 93-22 du 8
-janvier 1993.
-
-Les articles 333-4, 333-6, 334-1 sont applicables à Mayotte dans leur rédaction issue de la loi n° 72-3 du 3 janvier 1972.
-
-L'article 333-5 est applicable à Mayotte dans sa rédaction issue de la loi n° 87-570 du 22 juillet 1987.
-
-Les modifications apportées à ces articles par la loi n° 2002-304 du 4 mars 2002 relative au nom de famille et les articles
-311-21 et 311-22 entreront en vigueur à Mayotte à compter du 1er janvier 2007.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°72-3 1972-01-03
-	  - Loi n°87-570 1987-07-22
-	  - Loi n°93-22 1993-01-08
-	  - Loi n°2002-304 2002-03-04
-	  - Code civil - art. 311-21 (MMN)
-	  - Code civil - art. 311-22 (MMN)
-	  - Code civil - art. 331 (M)
-	  - Code civil - art. 331-2 (M)
-	  - Code civil - art. 332-1 (M)
-	  - Code civil - art. 333-4 (M)
-	  - Code civil - art. 333-5 (M)
-	  - Code civil - art. 333-6 (M)
-	  - Code civil - art. 334-1 (M)
-	  - Code civil - art. 334-2 (M)
-	  - Code civil - art. 334-5 (M)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Ordonnance 2005-759 2005-07-04 art. 20 : Spécificité d'application
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 18 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
-
-	**Créé par**:
-
-	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 1 () JORF 24 mars 2006
-
-	**Anciens textes**:
-
-	  - Code civil - art. 2291 (T)
-
-	**Codifié par**:
-
-	  - Loi n°1804-03-15
 
 
 ###### Article 2498

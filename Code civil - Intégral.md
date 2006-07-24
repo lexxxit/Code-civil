@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 2006-07-01
+Version Consolidée au 2006-07-25
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -1460,14 +1460,18 @@ Le mariage n'exerce de plein droit aucun effet sur la nationalité.
 
 ###### Article 21-2
 
-L'étranger ou apatride qui contracte mariage avec un conjoint de nationalité française peut, après un délai de deux ans à
+L'étranger ou apatride qui contracte mariage avec un conjoint de nationalité française peut, après un délai de quatre ans à
 compter du mariage, acquérir la nationalité française par déclaration à condition qu'à la date de cette déclaration la
-communauté de vie tant affective que matérielle n'ait pas cessé entre les époux et que le conjoint français ait conservé sa
-nationalité. Le conjoint étranger doit en outre justifier d'une connaissance suffisante, selon sa condition, de la langue
-française.
+communauté de vie tant affective que matérielle n'ait pas cessé entre les époux depuis le mariage et que le conjoint français
+ait conservé sa nationalité. 
 
-Le délai de communauté de vie est porté à trois ans lorsque l'étranger, au moment de sa déclaration, ne justifie pas avoir
-résidé de manière ininterrompue pendant au moins un an en France à compter du mariage.
+Le délai de communauté de vie est porté à cinq ans lorsque l'étranger, au moment de la déclaration, soit ne justifie pas
+avoir résidé de manière ininterrompue et régulière pendant au moins trois ans en France à compter du mariage, soit n'est pas
+en mesure d'apporter la preuve que son conjoint français a été inscrit pendant la durée de leur communauté de vie à
+l'étranger au registre des Français établis hors de France. En outre, le mariage célébré à l'étranger doit avoir fait l'objet
+d'une transcription préalable sur les registres de l'état civil français. 
+
+Le conjoint étranger doit en outre justifier d'une connaissance suffisante, selon sa condition, de la langue française. 
 
 La déclaration est faite dans les conditions prévues aux articles 26 et suivants. Par dérogation aux dispositions de
 l'article 26-1, elle est enregistrée par le ministre chargé des naturalisations.
@@ -1499,7 +1503,8 @@ l'article 26-1, elle est enregistrée par le ministre chargé des naturalisation
 
 	**Modifié par**:
 
-	  - Loi n°2003-1119 du 26 novembre 2003 - art. 65 () JORF 27 novembre 2003
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 79 () JORF 25 juillet 2006
+	  - Loi n°2009-526 du 12 mai 2009 - art. 12 (V)
 
 	**Cite**:
 
@@ -1543,31 +1548,20 @@ laquelle la déclaration a été souscrite.
 ###### Article 21-4
 
 Le Gouvernement peut s'opposer par décret en Conseil d'Etat, pour indignité ou défaut d'assimilation, autre que linguistique,
-à l'acquisition de la nationalité française par le conjoint étranger dans un délai d'un an à compter de la date du récépissé
-prévu au deuxième alinéa de l'article 26 ou, si l'enregistrement a été refusé, à compter du jour où la décision judiciaire
-admettant la régularité de la déclaration est passée en force de chose jugée.
+à l'acquisition de la nationalité française par le conjoint étranger dans un délai de deux ans à compter de la date du
+récépissé prévu au deuxième alinéa de l'article 26 ou, si l'enregistrement a été refusé, à compter du jour où la décision
+judiciaire admettant la régularité de la déclaration est passée en force de chose jugée. 
 
-En cas d'opposition du Gouvernement, l'intéressé est réputé n'avoir jamais acquis la nationalité française.
+La situation effective de polygamie du conjoint étranger ou la condamnation prononcée à son encontre au titre de l'infraction
+définie à l'article 222-9 du code pénal, lorsque celle-ci a été commise sur un mineur de quinze ans, sont constitutives du
+défaut d'assimilation. 
+
+En cas d'opposition du Gouvernement, l'intéressé est réputé n'avoir jamais acquis la nationalité française. 
 
 Toutefois, la validité des actes passés entre la déclaration et le décret d'opposition ne pourra être contestée pour le motif
 que l'auteur n'a pu acquérir la nationalité française.
 
 **Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Code civil - art. 21-13-2 (V)
-	  - Code civil - art. 21-3 (V)
-	  - Code civil - art. 26-3 (V)
-
-	**Cite**:
-
-	  - Code civil - art. 26 (M)
-
-	**Anciens textes**:
-
-	  - Code de la nationalité française 39
-	  - Code de la nationalité française. - art. 39 (Ab)
 
 	**Codifié par**:
 
@@ -1575,7 +1569,22 @@ que l'auteur n'a pu acquérir la nationalité française.
 
 	**Modifié par**:
 
-	  - Loi n°2003-1119 du 26 novembre 2003 - art. 66 () JORF 27 novembre 2003
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 80 () JORF 25 juillet 2006
+
+	**Cite**:
+
+	  - Code pénal - art. 222-9 (V)
+	  - Code civil - art. 26 (V)
+
+	**Cité par**:
+
+	  - Code civil - art. 21-13-2 (V)
+	  - Code civil - art. 21-3 (V)
+	  - Code civil - art. 26-3 (V)
+
+	**Anciens textes**:
+
+	  - Code de la nationalité française. - art. 39 (Ab)
 
 
 ###### Article 21-5
@@ -1972,28 +1981,6 @@ mineurs qui, au jour du décès, remplissaient la condition de résidence prévu
 	  - Code civil - art. 22-1 (V)
 
 
-###### Article 21-14-2
-
-Le représentant de l'Etat dans le département et, à Paris, le préfet de police, communique au maire en sa qualité d'officier
-de l'état civil l'adresse des ressortissants étrangers naturalisés par décret résidant dans la commune.
-
-Une cérémonie d'accueil dans la citoyenneté française peut être organisée par le maire à l'intention de ces derniers.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°93-933 1993-07-22
-
-	**Créé par**:
-
-	  - Loi n°2004-809 du 13 août 2004 - art. 146 () JORF 17 août 2004
-
-	**Abrogé par**:
-
-	  - Loi n°2006-911 du 24 juillet 2006 - art. 81 () JORF 25 juillet 2006
-
-
 ###### Article 21-15
 
 Hors le cas prévu à l'article 21-14-1, l'acquisition de la nationalité française par décision de l'autorité publique résulte
@@ -2112,23 +2099,22 @@ université ou un établissement d'enseignement supérieur français ;
 
 ###### Article 21-19
 
-Peut être naturalisé sans condition de stage :
+Peut être naturalisé sans condition de stage : 
 
-1° L'enfant mineur resté étranger bien que l'un de ses parents ait acquis la nationalité française ;
+1° (Alinéa abrogé) ; 
 
-2° Le conjoint et l'enfant majeur d'une personne qui acquiert ou a acquis la nationalité française ;
+2° (Alinéa abrogé) ; 
 
-3° (supprimé) ;
+3° (Alinéa abrogé) ; 
 
-4°  L'étranger qui a effectivement accompli des services militaires dans une unité de l'armée française ou qui, en temps de
-guerre, a contracté un engagement volontaire dans les armées françaises ou alliées ;
+4° L'étranger qui a effectivement accompli des services militaires dans une unité de l'armée française ou qui, en temps de
+guerre, a contracté un engagement volontaire dans les armées françaises ou alliées ; 
 
-5°  Le ressortissant ou ancien ressortissant des territoires et des Etats sur lesquels la France a exercé soit la
-souveraineté, soit un protectorat, un mandat ou une tutelle ;
+5° (Alinéa abrogé) ; 
 
 6° L'étranger qui a rendu des services exceptionnels à la France ou celui dont la naturalisation présente pour la France un
 intérêt exceptionnel. Dans ce cas, le décret de naturalisation ne peut être accordé qu'après avis du Conseil d'Etat sur
-rapport motivé du ministre compétent ;
+rapport motivé du ministre compétent ; 
 
 7° L'étranger qui a obtenu le statut de réfugié en application de la loi n° 52-893 du 25 juillet 1952 portant création d'un
 Office français de protection des réfugiés et apatrides.
@@ -2137,8 +2123,7 @@ Office français de protection des réfugiés et apatrides.
 
 	**Cite**:
 
-	  - Loi n°52-893 1952-07-25
-	  - Code civil - art. 21-7 (M)
+	  - Loi n°52-893 du 25 juillet 1952 (V)
 
 	**Cité par**:
 
@@ -2158,7 +2143,7 @@ Office français de protection des réfugiés et apatrides.
 
 	**Modifié par**:
 
-	  - Loi n°98-170 du 16 mars 1998 - art. 8 () JORF 17 mars 1998 en vigueur le 1er septembre 1998
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 82 () JORF 25 juillet 2006
 
 	**Anciens textes**:
 
@@ -2219,8 +2204,11 @@ prospérité de ses relations économiques internationales.
 
 ###### Article 21-22
 
-A l'exception du mineur pouvant invoquer le bénéfice du deuxième alinéa (1°) de l'article 21-19, nul ne peut être naturalisé
-s'il n'a atteint l'âge de dix-huit ans.
+Nul ne peut être naturalisé s'il n'a atteint l'âge de dix-huit ans.
+
+Toutefois, la naturalisation peut être accordée à l'enfant mineur resté étranger bien que l'un de ses parents ait acquis la
+nationalité française s'il justifie avoir résidé en France avec ce parent durant les cinq années précédant le dépôt de la
+demande.
 
 **Liens relatifs à cet article**
 
@@ -2228,17 +2216,13 @@ s'il n'a atteint l'âge de dix-huit ans.
 
 	  - Loi n°93-933 1993-07-22
 
-	**Créé par**:
-
-	  - Loi n°93-933 du 22 juillet 1993 - art. 50 () JORF 23 juillet 1993
-
 	**Cité par**:
 
 	  - Décret n°93-1362 du 30 décembre 1993 - art. 43 (VD)
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code civil - art. 21-19 (M)
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 83 () JORF 25 juillet 2006
 
 	**Anciens textes**:
 
@@ -2347,10 +2331,13 @@ naturalisation seront fixées par décret.
 ###### Article 21-25-1
 
 La réponse de l'autorité publique à une demande d'acquisition de la nationalité française par naturalisation doit intervenir
-dix-huit mois au plus tard après la date à laquelle a été délivré au demandeur le récépissé constatant la remise de toutes
-les pièces nécessaires à la constitution d'un dossier complet.
+au plus tard dix-huit mois à compter de la remise de toutes les pièces nécessaires à la constitution d'un dossier complet
+contre laquelle un récépissé est délivré immédiatement.
 
-Ce délai peut être prolongé une seule fois de trois mois par décision motivée.
+Le délai visé au premier alinéa est réduit à douze mois lorsque l'étranger en instance de naturalisation justifie avoir en
+France sa résidence habituelle depuis une période d'au moins dix ans au jour de cette remise.
+
+Les délais précités peuvent être prolongés une fois, par décision motivée, pour une période de trois mois.
 
 **Liens relatifs à cet article**
 
@@ -2366,9 +2353,9 @@ Ce délai peut être prolongé une seule fois de trois mois par décision motiv�
 	  - Décret n°93-1362 du 30 décembre 1993 - art. 49 (V)
 	  - Décret n°2009-1671 du 28 décembre 2009 - art. 2 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°98-170 du 16 mars 1998 - art. 15 () JORF 17 mars 1998 en vigueur le 1er septembre 1998
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 84 () JORF 25 juillet 2006
 
 
 ##### Paragraphe 6 : Dispositions communes à certains modes d'acquisition de la nationalité française
@@ -2460,6 +2447,77 @@ code de procédure pénale.
 	**Anciens textes**:
 
 	  - Code de la nationalité française. - art. 79 (Ab)
+
+
+##### Paragraphe 7 : De la cérémonie d'accueil dans la citoyenneté française
+
+###### Article 21-28
+
+Le représentant de l'Etat dans le département ou, à Paris, le préfet de police organise, dans un délai de six mois à compter
+de l'acquisition de la nationalité française, une cérémonie d'accueil dans la citoyenneté française à l'intention des
+personnes résidant dans le département visées aux articles 21-2, 21-11, 21-12, 21-14, 21-14-1, 21-15, 24-1, 24-2 et 32-4 du
+présent code ainsi qu'à l'article 2 de la loi n° 64-1328 du 26 décembre 1964 autorisant l'approbation de la convention du
+Conseil de l'Europe sur la réduction des cas de pluralité de nationalités et sur les obligations militaires en cas de
+pluralité de nationalités, signée à Strasbourg le 6 mai 1963. 
+
+Les députés et les sénateurs élus dans le département sont invités à la cérémonie d'accueil. 
+
+Les personnes ayant acquis de plein droit la nationalité française en application de l'article 21-7 sont invitées à cette
+cérémonie dans un délai de six mois à compter de la délivrance du certificat de nationalité française mentionné à l'article
+31.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°93-933 1993-07-22
+
+	**Créé par**:
+
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 85 () JORF 25 juillet 2006
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 86 () JORF 25 juillet 2006
+
+	**Cite**:
+
+	  - Code civil - art. 21-11 (V)
+	  - Code civil - art. 21-12 (V)
+	  - Code civil - art. 21-14 (V)
+	  - Code civil - art. 21-14-1 (V)
+	  - Code civil - art. 21-15 (V)
+	  - Code civil - art. 21-2 (V)
+	  - Code civil - art. 21-7 (V)
+	  - Code civil - art. 24-1 (V)
+	  - Code civil - art. 24-2 (V)
+	  - Code civil - art. 32-4 (V)
+
+	**Cité par**:
+
+	  - Code civil - art. 33 (V)
+
+
+###### Article 21-29
+
+Le représentant de l'Etat dans le département ou, à Paris, le préfet de police communique au maire, en sa qualité d'officier
+d'état civil, l'identité et l'adresse des personnes résidant dans la commune susceptibles de bénéficier de la cérémonie
+d'accueil dans la citoyenneté française.
+
+Lorsque le maire en fait la demande, il peut l'autoriser à organiser, en sa qualité d'officier d'état civil, la cérémonie
+d'accueil dans la citoyenneté française.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°93-933 1993-07-22
+
+	**Créé par**:
+
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 85 () JORF 25 juillet 2006
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 87 () JORF 25 juillet 2006
+
+	**Cité par**:
+
+	  - Code civil - art. 33 (V)
 
 
 #### Section 2 : Des effets de l'acquisition de la nationalité française
@@ -3227,14 +3285,20 @@ Le délai est porté à un an pour les déclarations souscrites en vertu de l'ar
 ###### Article 26-4
 
 A défaut de refus d'enregistrement dans les délais légaux, copie de la déclaration est remise au déclarant revêtue de la
-mention de l'enregistrement.
+mention de l'enregistrement. 
 
-Dans le délai d'un an suivant la date à laquelle il a été effectué, l'enregistrement peut être contesté par le ministère
+Dans le délai de deux ans suivant la date à laquelle il a été effectué, l'enregistrement peut être contesté par le ministère
 public si les conditions légales ne sont pas satisfaites.
 
 L'enregistrement peut encore être contesté par le ministère public en cas de mensonge ou de fraude dans le délai de deux ans
 à compter de leur découverte. La cessation de la communauté de vie entre les époux dans les douze mois suivant
 l'enregistrement de la déclaration prévue à l'article 21-2 constitue une présomption de fraude.
+
+**Nota:**
+
+Dans sa décision n° 2012-227 QPC du 30 mars 2012 (NOR : CSCX1209514S), le Conseil constitutionnel a déclaré, sous la réserve
+énoncée au considérant 14, l'article 26-4 du code civil, dans sa rédaction issue de la loi du 24 juillet 2006 relative à
+l'immigration et à l'intégration, conforme à la Constitution.
 
 **Liens relatifs à cet article**
 
@@ -3244,11 +3308,11 @@ l'enregistrement de la déclaration prévue à l'article 21-2 constitue une pré
 
 	**Modifié par**:
 
-	  - Loi n°2003-1119 du 26 novembre 2003 - art. 72 () JORF 27 novembre 2003
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 88 () JORF 25 juillet 2006
 
 	**Cite**:
 
-	  - Code civil - art. 21-2 (M)
+	  - Code civil - art. 21-2 (V)
 
 	**Anciens textes**:
 
@@ -3675,11 +3739,14 @@ façon constante de la possession d'état de Français.
 La nationalité française des personnes nées à Mayotte, majeures au 1er janvier 1994, sera subsidiairement tenue pour établie
 si ces personnes ont joui de façon constante de la possession d'état de Français.
 
+Pendant une période de trois ans à compter de la publication de la loi n° 2006-911 du 24 juillet 2006 relative à
+l'immigration et à l'intégration, pour l'application du deuxième alinéa du présent article, les personnes majeures au 1er
+janvier 1994 qui établissent qu'elles sont nées à Mayotte sont réputées avoir joui de façon constante de la possession d'état
+de Français si elles prouvent, en outre, qu'elles ont été inscrites sur une liste électorale à Mayotte au moins dix ans avant
+la publication de la loi n° 2006-911 du 24 juillet 2006 précitée et qu'elles font la preuve d'une résidence habituelle à
+Mayotte.
+
 **Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Code civil - art. 32-2 (V)
 
 	**Anciens textes**:
 
@@ -3690,9 +3757,17 @@ si ces personnes ont joui de façon constante de la possession d'état de Franç
 
 	  - Loi n°93-933 1993-07-22
 
-	**Créé par**:
+	**Cite**:
 
-	  - Loi n°93-933 du 22 juillet 1993 - art. 50 () JORF 23 juillet 1993
+	  - Loi n°2006-911 du 24 juillet 2006 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 110 () JORF 25 juillet 2006
+
+	**Cité par**:
+
+	  - Code civil - art. 32-2 (V)
 
 
 ###### Article 30-3
@@ -5111,7 +5186,7 @@ aura été remise.
 ###### Article 68
 
 En cas d'opposition, l'officier d'état civil ne pourra célébrer le mariage avant qu'on lui en ait remis la mainlevée, sous
-peine de 4,5 euros d'amende et de tous dommages-intérêts.
+peine de 3 000 euros d'amende et de tous dommages-intérêts.
 
 **Liens relatifs à cet article**
 
@@ -5121,7 +5196,7 @@ peine de 4,5 euros d'amende et de tous dommages-intérêts.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 89 () JORF 25 juillet 2006
 
 	**Cité par**:
 
@@ -67829,13 +67904,13 @@ Les articles 1er à 6 sont applicables à Mayotte.
 
 ###### Article 2492
 
-Les articles 7 à 32-5 et 34 à 515-8 sont applicables à Mayotte.
+Les articles 7 à 32-5, 34 à 56, 58 à 61, 62-1, 63 à 315 et 317 à 515-8 sont applicables à Mayotte.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 1 () JORF 24 mars 2006
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 108 () JORF 25 juillet 2006
 
 	**Anciens textes**:
 
@@ -67843,7 +67918,12 @@ Les articles 7 à 32-5 et 34 à 515-8 sont applicables à Mayotte.
 
 	**Cite**:
 
-	  - Code civil 7 à 32-5, 34 à 515-8
+	  - Code civil - art. 317 (V)
+	  - Code civil - art. 34 (V)
+	  - Code civil - art. 58 (V)
+	  - Code civil - art. 62-1 (V)
+	  - Code civil - art. 63 (V)
+	  - Code civil - art. 7 (V)
 
 	**Codifié par**:
 
@@ -67878,35 +67958,6 @@ formes déterminées par décret en Conseil d'Etat. "
 	**Cite**:
 
 	  - Code civil - art. 26
-
-
-###### Article 2494
-
-Pour son application à Mayotte, le premier alinéa de l'article 55 est ainsi rédigé :
-
-"Les déclarations de naissance seront faites dans les quinze jours de l'accouchement à l'officier d'état civil du lieu. "
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 1 () JORF 24 mars 2006
-
-	**Abrogé par**:
-
-	  - Loi n°2006-911 du 24 juillet 2006 - art. 108 () JORF 25 juillet 2006
-
-	**Anciens textes**:
-
-	  - Code civil - art. 2289 (T)
-
-	**Cite**:
-
-	  - Code civil 55 al. 1
-
-	**Codifié par**:
-
-	  - Loi n°1804-03-15
 
 
 ###### Article 2495
@@ -68026,6 +68077,139 @@ mots :
 	**Créé par**:
 
 	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 1 () JORF 24 mars 2006
+
+
+###### Article 2499-1
+
+Les articles 57, 62 et 316 sont applicables à Mayotte sous les réserves prévues aux articles 2499-2 à 2499-5.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 108 () JORF 25 juillet 2006
+
+	**Cite**:
+
+	  - Code civil - art. 2499-2 (V)
+	  - Code civil - art. 316 (V)
+	  - Code civil - art. 57 (V)
+	  - Code civil - art. 62 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-15
+
+
+###### Article 2499-2
+
+Lorsqu'il existe des indices sérieux laissant présumer que la reconnaissance d'un enfant est frauduleuse, l'officier de
+l'état civil saisit le procureur de la République et en informe l'auteur de la reconnaissance.
+
+Le procureur de la République est tenu de décider, dans un délai de quinze jours à compter de sa saisine, soit de laisser
+l'officier de l'état civil enregistrer la reconnaissance ou mentionner celle-ci en marge de l'acte de naissance, soit qu'il y
+est sursis dans l'attente des résultats de l'enquête à laquelle il fait procéder, soit d'y faire opposition.
+
+La durée du sursis ainsi décidé ne peut excéder un mois, renouvelable une fois par décision spécialement motivée. Toutefois,
+lorsque l'enquête est menée, en totalité ou en partie, à l'étranger par l'autorité diplomatique ou consulaire, la durée du
+sursis est portée à deux mois, renouvelable une fois par décision spécialement motivée. Dans tous les cas, la décision de
+sursis et son renouvellement sont notifiés à l'officier de l'état civil et à l'auteur de la reconnaissance.
+
+A l'expiration du sursis, le procureur de la République fait connaître à l'officier de l'état civil et aux intéressés, par
+décision motivée, s'il laisse procéder à l'enregistrement de la reconnaissance ou à sa mention en marge de l'acte de
+naissance de l'enfant.
+
+L'auteur de la reconnaissance peut contester la décision de sursis ou de renouvellement de celui-ci devant le tribunal de
+première instance, qui statue dans un délai de dix jours à compter de sa saisine. En cas d'appel, le tribunal supérieur
+d'appel statue dans le même délai.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code civil - art. 2499-1 (V)
+	  - Ordonnance n°96-1122 du 20 décembre 1996 - art. 20 (VD)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-15
+
+	**Créé par**:
+
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 108 () JORF 25 juillet 2006
+
+
+###### Article 2499-3
+
+Tout acte d'opposition mentionne les prénoms et nom de l'auteur de la reconnaissance, ainsi que les prénoms et nom, date et
+lieu de naissance de l'enfant concerné.
+
+En cas de reconnaissance prénatale, l'acte d'opposition mentionne les prénoms et nom de l'auteur de la reconnaissance, ainsi
+que toute indication communiquée à l'officier de l'état civil relative à l'identification de l'enfant à naître.
+
+A peine de nullité, tout acte d'opposition à l'enregistrement d'une reconnaissance ou à sa mention en marge de l'acte de
+naissance de l'enfant énonce la qualité de l'auteur de l'opposition ainsi que les motifs de celle-ci.
+
+L'acte d'opposition est signé, sur l'original et sur la copie, par l'opposant et notifié à l'officier de l'état civil, qui
+met son visa sur l'original.
+
+L'officier de l'état civil fait, sans délai, une mention sommaire de l'opposition sur le registre d'état civil. Il mentionne
+également, en marge de l'inscription de ladite opposition, les éventuelles décisions de mainlevée dont expédition lui a été
+remise.
+
+En cas d'opposition, il ne peut, sous peine de l'amende prévue à l'article 68, enregistrer la reconnaissance ou la mentionner
+sur l'acte de naissance de l'enfant, sauf si une expédition de la mainlevée de l'opposition lui a été remise.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code civil - art. 68 (M)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-15
+
+	**Créé par**:
+
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 108 () JORF 25 juillet 2006
+
+
+###### Article 2499-4
+
+Le tribunal de première instance se prononce, dans un délai de dix jours à compter de sa saisine, sur la demande de mainlevée
+de l'opposition formée par l'auteur de la reconnaissance, même mineur.
+
+En cas d'appel, le tribunal supérieur d'appel statue dans le même délai.
+
+Le jugement rendu par défaut, rejetant l'opposition à l'enregistrement de la reconnaissance ou à sa mention en marge de
+l'acte de naissance de l'enfant, ne peut être contesté.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-15
+
+	**Créé par**:
+
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 108 () JORF 25 juillet 2006
+
+
+###### Article 2499-5
+
+Lorsque la saisine du procureur de la République concerne une reconnaissance prénatale ou concomitante à la déclaration de
+naissance, l'acte de naissance de l'enfant est dressé sans indication de cette reconnaissance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-15
+
+	**Créé par**:
+
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 108 () JORF 25 juillet 2006
 
 
 ## Titre II : Dispositions relatives au livre II

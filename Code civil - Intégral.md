@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 2007-01-01
+Version Consolidée au 2007-01-12
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -65678,52 +65678,54 @@ Ordonnance 2006-346 du 6 mars 2006 art. 57 : Spécificités d'application.
 
 ###### Article 2374
 
-Les créanciers privilégiés sur les immeubles sont :
+Les créanciers privilégiés sur les immeubles sont : 
 
-1° Le vendeur, sur l'immeuble vendu, pour le paiement du prix ;
+1° Le vendeur, sur l'immeuble vendu, pour le paiement du prix ; 
 
 S'il y a plusieurs ventes successives dont le prix soit dû en tout ou en partie, le premier vendeur est préféré au second, le
-deuxième au troisième, et ainsi de suite ;
+deuxième au troisième, et ainsi de suite ; 
 
 1° bis Conjointement avec le vendeur et, le cas échéant, avec le prêteur de deniers mentionné au 2°, le syndicat des
 copropriétaires, sur le lot vendu, pour le paiement des charges et travaux mentionnés aux articles 10 et 30 de la loi n°
 65-557 du 10 juillet 1965 fixant le statut de la copropriété des immeubles bâtis, relatifs à l'année courante et aux quatre
-dernières années échues.
+dernières années échues. 
 
 Toutefois, le syndicat est préféré au vendeur et au prêteur de deniers pour les créances afférentes aux charges et travaux de
-l'année courante et des deux dernières années échues.
+l'année courante et des deux dernières années échues. 
 
 2° Même en l'absence de subrogation, ceux qui ont fourni les deniers pour l'acquisition d'un immeuble, pourvu qu'il soit
 authentiquement constaté, par l'acte d'emprunt, que la somme était destinée à cet emploi et, par quittance du vendeur, que ce
-paiement a été fait des deniers empruntés ;
+paiement a été fait des deniers empruntés ; 
 
 3° Les cohéritiers, sur les immeubles de la succession, pour la garantie des partages faits entre eux, et des soultes ou
 retours de lots ; pour la garantie des indemnités dues en application de l'article 924, les immeubles donnés ou légués sont
-assimilés aux immeubles de la succession ;
+assimilés aux immeubles de la succession ; 
 
 4° Les architectes, entrepreneurs, maçons et autres ouvriers employés pour édifier, reconstruire ou réparer des bâtiments,
 canaux ou autres ouvrages quelconques, pourvu néanmoins que, par un expert nommé d'office par le tribunal de grande instance
 dans le ressort duquel les bâtiments sont situés, il ait été dressé préalablement un procès-verbal, à l'effet de constater
 l'état des lieux relativement aux ouvrages que le propriétaire déclarera avoir dessein de faire, et que les ouvrages aient
-été, dans les six mois au plus de leur perfection, reçus par un expert également nommé d'office ;
+été, dans les six mois au plus de leur perfection, reçus par un expert également nommé d'office ; 
 
 Mais le montant du privilège ne peut excéder les valeurs constatées par le second procès-verbal, et il se réduit à la plus-
-value existante à l'époque de l'aliénation de l'immeuble et résultant des travaux qui y ont été faits ;
+value existante à l'époque de l'aliénation de l'immeuble et résultant des travaux qui y ont été faits ; 
 
 5° Ceux qui ont prêté les deniers, pour payer ou rembourser les ouvriers, jouissent du même privilège, pourvu que cet emploi
 soit authentiquement constaté par l'acte d'emprunt, et par la quittance des ouvriers, ainsi qu'il a été dit ci-dessus pour
-ceux qui ont prêté les deniers pour l'acquisition d'un immeuble ;
+ceux qui ont prêté les deniers pour l'acquisition d'un immeuble ; 
 
 6° Les créanciers du défunt et les légataires de sommes d'argent sur les immeubles de la succession, ainsi que les créanciers
-personnels de l'héritier sur les immeubles de ce dernier, pour la garantie des droits qu'ils tiennent de l'article 878 ;
+personnels de l'héritier sur les immeubles de ce dernier, pour la garantie des droits qu'ils tiennent de l'article 878 ; 
 
 7° Les accédants à la propriété titulaires d'un contrat de location-accession régi par la loi n° 84-595 du 12 juillet 1984
 définissant la location-accession à la propriété immobilière sur l'immeuble faisant l'objet du contrat, pour la garantie des
-droits qu'ils tiennent de ce contrat.
+droits qu'ils tiennent de ce contrat ; 
 
-**Nota:**
-
-NOTA : Ordonnance 2006-346 du 6 mars 2006 art. 57 : Spécificités d'application.
+8° L'Etat ou la commune, pour la garantie des créances nées de l'application de l'article L. 1331-30 du code de la santé
+publique, de l'article L. 123-3 du code de la construction et de l'habitation lorsqu'elles sont relatives à des mesures
+édictées sous peine d'interdiction d'habiter ou d'utiliser les locaux ou de fermeture définitive de l'établissement, ou des
+articles L. 129-4, 
+L. 511-4 et L. 521-3-2 de ce dernier code.
 
 **Liens relatifs à cet article**
 
@@ -65767,19 +65769,22 @@ NOTA : Ordonnance 2006-346 du 6 mars 2006 art. 57 : Spécificités d'application
 
 	**Cite**:
 
-	  - Loi n°65-557 du 10 juillet 1965 - art. 10 (M)
-	  - Loi n°65-557 du 10 juillet 1965 - art. 30 (V)
-	  - Loi n°84-595 1984-07-12
-	  - Code civil - art. 924 (M)
-
-	**Modifié par**:
-
-	  - Loi n°2006-728 du 23 juin 2006 - art. 29 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+	  - Loi n°65-557 du 10 juillet 1965 (V)
+	  - Loi n°84-595 du 12 juillet 1984 (V)
+	  - Code civil - art. 924 (V)
+	  - Code de la santé publique - art. L1331-30 (V)
+	  - Code de la construction et de l'habitation. - art. L129-4 (V)
+	  - Code de la construction et de l'habitation. - art. L511-4 (V)
+	  - Code de la construction et de l'habitation. - art. L521-3-2 (V)
 
 	**Anciens textes**:
 
 	  - Code civil - art. 2103 (M)
 	  - Code civil - art. 2103 (T)
+
+	**Modifié par**:
+
+	  - Décret n°2007-42 2007-01-11 art. 1 I JORF 12 janvier 2007
 
 	**Codifié par**:
 
@@ -66218,6 +66223,114 @@ Ordonnance 2006-346 du 6 mars 2006 art. 57 : Spécificités d'application.
 
 	  - Code civil - art. 2426 (V)
 	  - Code civil - art. 2428 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-19
+
+
+###### Article 2384-1
+
+Le titulaire de la créance conserve son privilège par la double inscription faite : 
+
+1° Par leur auteur, soit de l'arrêté de police, pris en application de l'article L. 1331-28 du code de la santé publique, de
+l'article L. 123-3 du code de la construction et de l'habitation pour les mesures édictées sous peine d'interdiction
+d'habiter ou d'utiliser les locaux ou de fermeture définitive de l'établissement, ou des articles L. 129-2 ou L. 511-2 de ce
+dernier code, comportant une évaluation sommaire du coût des mesures ou des travaux à exécuter, soit de la mise en demeure
+effectuée en application du II de l'article L. 1331-29 du code de la santé publique, de l'article L. 123-3 du code de la
+construction et de l'habitation pour la mise en oeuvre de mesures édictées sous peine d'interdiction d'habiter ou d'utiliser
+les locaux ou de fermeture définitive de l'établissement, de l'article L. 129-2 ou du IV de l'article L. 511-2 de ce dernier
+code, comportant l'évaluation du coût des mesures ou travaux à exécuter ; 
+
+2° Du titre de recouvrement de la créance par son auteur. 
+
+Le privilège prend rang à concurrence du montant évalué ou de celui du titre de recouvrement, s'il lui est inférieur, à
+compter de la première inscription et à compter de la deuxième inscription pour la fraction du montant du titre de
+recouvrement qui serait supérieure au montant résultant de la première inscription.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Ordonnance n°2007-42 du 11 janvier 2007 - art. 4 (VD)
+	  - Code civil - art. 2384-2 (V)
+	  - Code civil - art. 2384-4 (V)
+	  - Code de la construction et de l'habitation. - art. L441-2-3-3 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L1331-28 (V)
+	  - Code de la santé publique - art. L1331-29 (V)
+	  - Code de la construction et de l'habitation. - art. L123-3 (V)
+	  - Code de la construction et de l'habitation. - art. L129-2 (V)
+	  - Code de la construction et de l'habitation. - art. L511-2 (V)
+
+	**Créé par**:
+
+	  - Décret n°2007-42 2007-01-11 art. 1 II JORF 12 janvier 2007
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-19
+
+
+###### Article 2384-2
+
+Par dérogation à l'article 2384-1, le privilège peut également être conservé par la seule inscription du titre de
+recouvrement. 
+
+Dans ce cas, le privilège prend rang à compter de l'émission du titre s'il est présenté à l'inscription dans un délai de deux
+mois à compter de l'émission.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code civil - art. 2384-1 (V)
+
+	**Créé par**:
+
+	  - Décret n°2007-42 2007-01-11 art. 1 II JORF 12 janvier 2007
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-19
+
+
+###### Article 2384-3
+
+Les frais d'inscription sont à la charge des débiteurs.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2007-42 2007-01-11 art. 1 II JORF 12 janvier 2007
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-19
+
+
+###### Article 2384-4
+
+Lorsque les mesures prescrites par l'arrêté ou la mise en demeure mentionnés au 1° de l'article 2384-1 ont été exécutées par
+le propriétaire ou l'exploitant, la publication à leurs frais d'un arrêté de mainlevée avant l'inscription du titre de
+recouvrement prévue au 2° du même article emporte caducité de la première inscription. Mention est faite de la radiation
+résultant de cette caducité en marge de l'inscription, aux frais du propriétaire ou de l'exploitant. 
+
+La radiation de la seconde inscription ne peut intervenir que conformément aux dispositions des articles 2440 et suivants.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code civil - art. 2384-1 (V)
+	  - Code civil - art. 2440 (V)
+
+	**Créé par**:
+
+	  - Décret n°2007-42 2007-01-11 art. 1 II JORF 12 janvier 2007
 
 	**Codifié par**:
 

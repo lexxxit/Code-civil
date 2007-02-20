@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 2007-02-16
+Version Consolidée au 2007-02-21
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -49611,7 +49611,9 @@ Les mandataires, des biens qu'ils sont chargés de vendre ;
 
 Les administrateurs, de ceux des communes ou des établissements publics confiés à leurs soins ;
 
-Les officiers publics, des biens nationaux dont les ventes se font par leur ministère.
+Les officiers publics, des biens nationaux dont les ventes se font par leur ministère ;
+
+Les fiduciaires, des biens ou droits composant le patrimoine fiduciaire.
 
 **Liens relatifs à cet article**
 
@@ -49623,9 +49625,9 @@ Les officiers publics, des biens nationaux dont les ventes se font par leur mini
 
 	  - Loi n°1804-03-06
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°1804-03-06 promulguée le 16 mars 1804
+	  - Loi n°2007-211 du 19 février 2007 - art. 17 () JORF 21 février 2007
 
 
 ###### Article 1597
@@ -60062,6 +60064,578 @@ circonstances exigent pour l'intérêt de celui-ci.
 	  - Loi n°1804-03-10 promulguée le 20 mars 1804
 
 
+## Titre XIV : De la fiducie
+
+###### Article 2011
+
+La fiducie est l'opération par laquelle un ou plusieurs constituants transfèrent des biens, des droits ou des sûretés, ou un
+ensemble de biens, de droits ou de sûretés, présents ou futurs, à un ou plusieurs fiduciaires qui, les tenant séparés de leur
+patrimoine propre, agissent dans un but déterminé au profit d'un ou plusieurs bénéficiaires.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 18 mars 2002 - art. 1 (V)
+	  - Loi n°2007-211 du 19 février 2007 - art. 12 (VD)
+	  - Loi n°2013-1279 du 29 décembre 2013 - art. 79 (M)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 223 V (T)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 238 quater B (V)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 238 quater N (V)
+	  - Code civil - art. 2372-1 (V)
+	  - Code civil - art. 2488-1 (V)
+	  - Code de commerce. - art. L632-1 (VD)
+	  - Code général des impôts, CGI. - art. 102 ter (V)
+	  - Code général des impôts, CGI. - art. 151 septies (VD)
+	  - Code général des impôts, CGI. - art. 50-0 (V)
+	  - Code général des impôts, CGI. - art. 69 E (V)
+	  - Code général des impôts, CGI. - art. 92 (V)
+	  - Code monétaire et financier - art. L561-3 (VD)
+	  - Code monétaire et financier - art. L562-2-1 (Ab)
+
+	**Créé par**:
+
+	  - Loi n°2007-211 du 19 février 2007 - art. 1 () JORF 21 février 2007
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2288 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-10
+
+
+###### Article 2012
+
+La fiducie est établie par la loi ou par contrat. Elle doit être expresse.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2289 (V)
+
+	**Cité par**:
+
+	  - Code de commerce - art. A444-163-1 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-10
+
+	**Créé par**:
+
+	  - Loi n°2007-211 du 19 février 2007 - art. 1 () JORF 21 février 2007
+
+
+###### Article 2013
+
+Le contrat de fiducie est nul s'il procède d'une intention libérale au profit du bénéficiaire. Cette nullité est d'ordre
+public.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2007-211 du 19 février 2007 - art. 1 () JORF 21 février 2007
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2290 (V)
+
+	**Cité par**:
+
+	  - Livre des procédures fiscales - art. L64 C (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-10
+
+
+###### Article 2014
+
+Seules peuvent être constituants les personnes morales soumises de plein droit ou sur option à l'impôt sur les sociétés. Les
+droits du constituant au titre de la fiducie ne sont ni transmissibles à titre gratuit, ni cessibles à titre onéreux à des
+personnes autres que des personnes morales soumises à l'impôt sur les sociétés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-10
+
+	**Créé par**:
+
+	  - Loi n°2007-211 du 19 février 2007 - art. 1 () JORF 21 février 2007
+
+	**Abrogé par**:
+
+	  - Loi n°2008-776  du 4 août 2008 - art. 18 (V)
+	  - Loi n°2008-776 du 4 août 2008 - art. 18 (V)
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2291 (V)
+
+
+###### Article 2015
+
+Seuls peuvent avoir la qualité de fiduciaires les établissements de crédit mentionnés à l'article L. 511-1 du code monétaire
+et financier, les institutions et services énumérés à l'article L. 518-1 du même code, les entreprises d'investissement
+mentionnées à l'article L. 531-4 du même code ainsi que les entreprises d'assurance régies par l'article L. 310-1 du code des
+assurances.
+
+**Nota:**
+
+Loi 2007-211 du 19 février 2007 art. 12 : les personnes morales mentionnées à l'article 2015 établissent des comptes annuels
+conformément aux dispositions des articles L123-12 à L123-15 du code de commerce.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2007-211 du 19 février 2007 - art. 1 () JORF 21 février 2007
+
+	**Cité par**:
+
+	  - Loi n°2007-211 du 19 février 2007 - art. 12 (VD)
+	  - Décret n°2016-1793 du 21 décembre 2016 - art. 1
+	  - Code monétaire et financier - art. L561-25 (VD)
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2292 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-10
+
+
+###### Article 2016
+
+Le constituant ou le fiduciaire peut être le bénéficiaire ou l'un des bénéficiaires du contrat de fiducie.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2007-211 du 19 février 2007 - art. 1 () JORF 21 février 2007
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2293 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-10
+
+
+###### Article 2017
+
+Sauf stipulation contraire du contrat de fiducie, le constituant peut, à tout moment, désigner un tiers chargé de s'assurer
+de la préservation de ses intérêts dans le cadre de l'exécution du contrat et qui peut disposer des pouvoirs que la loi
+accorde au constituant.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-10
+
+	**Créé par**:
+
+	  - Loi n°2007-211 du 19 février 2007 - art. 1 () JORF 21 février 2007
+
+	**Cité par**:
+
+	  - Code civil - art. 2022 (VD)
+	  - Code civil - art. 2027 (V)
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2294 (V)
+
+
+###### Article 2018
+
+Le contrat de fiducie détermine, à peine de nullité :
+
+1° Les biens, droits ou sûretés transférés. S'ils sont futurs, ils doivent être déterminables ;
+
+2° La durée du transfert, qui ne peut excéder trente-trois ans à compter de la signature du contrat ;
+
+3° L'identité du ou des constituants ;
+
+4° L'identité du ou des fiduciaires ;
+
+5° L'identité du ou des bénéficiaires ou, à défaut, les règles permettant leur désignation ;
+
+6° La mission du ou des fiduciaires et l'étendue de leurs pouvoirs d'administration et de disposition.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2007-211 du 19 février 2007 - art. 1 () JORF 21 février 2007
+
+	**Cité par**:
+
+	  - Code civil - art. 2040 (T)
+	  - Code civil - art. 2372-2 (V)
+	  - Code civil - art. 2488-2 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-10
+
+
+###### Article 2019
+
+A peine de nullité, le contrat de fiducie et ses avenants sont enregistrés dans le délai d'un mois à compter de leur date au
+service des impôts du siège du fiduciaire ou au service des impôts des non-résidents si le fiduciaire n'est pas domicilié en
+France. 
+
+Lorsqu'ils portent sur des immeubles ou des droits réels immobiliers, ils sont, sous la même sanction, publiés dans les
+conditions prévues aux articles 647 et 657 du code général des impôts. 
+
+La transmission des droits résultant du contrat de fiducie et, si le bénéficiaire n'est pas désigné dans le contrat de
+fiducie, sa désignation ultérieure doivent, à peine de nullité, donner lieu à un acte écrit enregistré dans les mêmes
+conditions.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2007-211 du 19 février 2007 - art. 1 () JORF 21 février 2007
+
+	**Cite**:
+
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 647 (V)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 657 (V)
+
+	**Cité par**:
+
+	  - Code civil - art. 2040 (T)
+	  - Code civil - art. 2372-5 (V)
+	  - Code civil - art. 2488-5 (V)
+	  - Code de commerce - art. A444-163-1 (V)
+	  - Code général des impôts, CGI. - art. 635 (VD)
+	  - Livre des procédures fiscales - art. L12 (V)
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2296 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-10
+
+
+###### Article 2020
+
+Un registre national des fiducies est constitué selon des modalités précisées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2007-211 du 19 février 2007 - art. 1 () JORF 21 février 2007
+
+	**Cité par**:
+
+	  - Arrêté du 21 février 2013 - art. (V)
+	  - Arrêté du 24 février 2014 - art. (V)
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2297 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-10
+
+
+###### Article 2021
+
+Lorsque le fiduciaire agit pour le compte de la fiducie, il doit en faire expressément mention.
+
+De même, lorsque le patrimoine fiduciaire comprend des biens ou des droits dont la mutation est soumise à publicité, celle-ci
+doit mentionner le nom du fiduciaire ès qualités.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°55-603 du 20 mai 1955 - art. 6 (Ab)
+	  - Loi n°79-596 du 13 juillet 1979 - art. 9-2 (Ab)
+	  - Arrêté du 21 juillet 1993 - art. ANNEXE , 38 (Ab)
+	  - Arrêté du 23 février 1998 - art. ANNEXE (V)
+	  - Code de commerce. - art. L814-3 (M)
+	  - Code de la consommation - art. L313-8 (M)
+	  - Code de la consommation - art. L341-3 (M)
+	  - Code du travail - art. R124-16 (M)
+	  - Décret n°55-604 du 20 mai 1955 - art. 12 (M)
+	  - Loi n°78-22 du 10 janvier 1978 - art. 7-2 (Ab)
+	  - Loi n°85-99 du 25 janvier 1985 - art. 34 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2298 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-10
+
+	**Créé par**:
+
+	  - Loi n°2007-211 du 19 février 2007 - art. 1 () JORF 21 février 2007
+
+
+###### Article 2022
+
+Le contrat de fiducie définit les conditions dans lesquelles le fiduciaire rend compte de sa mission au constituant. Le
+fiduciaire rend compte de sa mission au bénéficiaire et au tiers désigné en application de l'article 2017, à leur demande,
+selon une périodicité fixée par le contrat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2007-211 du 19 février 2007 - art. 1 () JORF 21 février 2007
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2299 (V)
+
+	**Cité par**:
+
+	  - Code du travail - art. R124-16 (M)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-10
+
+
+###### Article 2023
+
+Dans ses rapports avec les tiers, le fiduciaire est réputé disposer des pouvoirs les plus étendus sur le patrimoine
+fiduciaire, à moins qu'il ne soit démontré que les tiers avaient connaissance de la limitation de ses pouvoirs.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2007-211 du 19 février 2007 - art. 1 () JORF 21 février 2007
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2300 (V)
+
+	**Cité par**:
+
+	  - Code du travail - art. R124-16 (M)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-10
+
+
+###### Article 2024
+
+L'ouverture d'une procédure de sauvegarde, de redressement judiciaire ou de liquidation judiciaire au profit du fiduciaire
+n'affecte pas le patrimoine fiduciaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-10
+
+	**Créé par**:
+
+	  - Loi n°2007-211 du 19 février 2007 - art. 1 () JORF 21 février 2007
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2301 (V)
+
+	**Cité par**:
+
+	  - Code du travail - art. R124-16 (M)
+
+
+###### Article 2025
+
+Sans préjudice des droits des créanciers du constituant titulaires d'un droit de suite attaché à une sûreté publiée
+antérieurement au contrat de fiducie et hors les cas de fraude aux droits des créanciers du constituant, le patrimoine
+fiduciaire ne peut être saisi que par les titulaires de créances nées de la conservation ou de la gestion de ce patrimoine.
+
+En cas d'insuffisance du patrimoine fiduciaire, le patrimoine du constituant constitue le gage commun de ces créanciers, sauf
+stipulation contraire du contrat de fiducie mettant tout ou partie du passif à la charge du fiduciaire.
+
+Le contrat de fiducie peut également limiter l'obligation au passif fiduciaire au seul patrimoine fiduciaire. Une telle
+clause n'est opposable qu'aux créanciers qui l'ont expressément acceptée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2007-211 du 19 février 2007 - art. 1 () JORF 21 février 2007
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2302 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-10
+
+
+###### Article 2026
+
+Le fiduciaire est responsable, sur son patrimoine propre, des fautes qu'il commet dans l'exercice de sa mission.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2303 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-10
+
+	**Créé par**:
+
+	  - Loi n°2007-211 du 19 février 2007 - art. 1 () JORF 21 février 2007
+
+
+###### Article 2027
+
+Si le fiduciaire manque à ses devoirs ou met en péril les intérêts qui lui sont confiés, le constituant, le bénéficiaire ou
+le tiers désigné en application de l'article 2017 peut demander en justice la nomination d'un fiduciaire provisoire ou
+solliciter le remplacement du fiduciaire. La décision judiciaire faisant droit à la demande emporte de plein droit
+dessaisissement du fiduciaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-10
+
+	**Créé par**:
+
+	  - Loi n°2007-211 du 19 février 2007 - art. 1 () JORF 21 février 2007
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2304 (V)
+
+
+###### Article 2028
+
+Le contrat de fiducie peut être révoqué par le constituant tant qu'il n'a pas été accepté par le bénéficiaire.
+
+Après acceptation par le bénéficiaire, le contrat ne peut être modifié ou révoqué qu'avec son accord ou par décision de
+justice.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-10
+
+	**Créé par**:
+
+	  - Loi n°2007-211 du 19 février 2007 - art. 1 () JORF 21 février 2007
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2305 (V)
+
+
+###### Article 2029
+
+Le contrat de fiducie prend fin par la survenance du terme, par la réalisation du but poursuivi quand celle-ci a lieu avant
+le terme ou en cas de révocation par le constituant de l'option pour l'impôt sur les sociétés.
+
+Il prend également fin de plein droit si le contrat le prévoit ou, à défaut, par une décision de justice, si, en l'absence de
+stipulations prévoyant les conditions dans lesquelles le contrat se poursuit, la totalité des bénéficiaires renonce à la
+fiducie. Il en va de même si le fiduciaire fait l'objet d'une liquidation judiciaire ou d'une dissolution, ou disparaît par
+suite d'une cession ou d'une absorption.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°72-678 du 20 juillet 1972 - art. 43 (Ab)
+	  - Décret n°72-678 du 20 juillet 1972 - art. 48-6 (M)
+	  - Décret n°94-490 du 15 juin 1994 - art. 17 (M)
+	  - Code civil - art. 2372-1 (V)
+	  - Code civil - art. 2488-1 (V)
+
+	**Créé par**:
+
+	  - Loi n°2007-211 du 19 février 2007 - art. 1 () JORF 21 février 2007
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2306 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-10
+
+
+###### Article 2030
+
+Lorsque le contrat de fiducie prend fin en l'absence de bénéficiaire, les droits, biens ou sûretés présents dans le
+patrimoine fiduciaire font de plein droit retour au constituant.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2007-211 du 19 février 2007 - art. 1 () JORF 21 février 2007
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-10
+
+
+###### Article 2031
+
+En cas de dissolution du constituant, lorsque les ayants droit ne sont pas des personnes morales soumises à l'impôt sur les
+sociétés, le patrimoine fiduciaire ne peut être attribué à ces ayants droit ès qualités avant la date à laquelle le contrat
+de fiducie prend fin. Dans cette situation, les droits des ayants droit au titre de la fiducie ne sont pas transmissibles à
+titre gratuit entre vifs ni cessibles à titre onéreux.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-10
+
+	**Créé par**:
+
+	  - Loi n°2007-211 du 19 février 2007 - art. 1 () JORF 21 février 2007
+
+	**Abrogé par**:
+
+	  - Loi n°2008-776  du 4 août 2008 - art. 18 (V)
+	  - Loi n°2008-776 du 4 août 2008 - art. 18 (V)
+
+	**Cité par**:
+
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 223 VB (Ab)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 792 ter (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 2308 (V)
+
+
 ## Titre XV : Des transactions
 
 ###### Article 2044
@@ -64536,6 +65110,26 @@ Les privilèges peuvent être sur les meubles ou sur les immeubles.
 	  - Loi n°1804-03-19
 
 
+###### Article 2328-1
+
+Toute sûreté réelle peut être inscrite, gérée et réalisée pour le compte des créanciers de l'obligation garantie par une
+personne qu'ils désignent à cette fin dans l'acte qui constate cette obligation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-19
+
+	**Créé par**:
+
+	  - Loi n°2007-211 du 19 février 2007 - art. 16 () JORF 21 février 2007
+
+	**Cité par**:
+
+	  - Loi n°2016-1691 du 9 décembre 2016 - art. 117 (V)
+
+
 ### Sous-titre II : Des sûretés sur les meubles
 
 ###### Article 2329
@@ -65511,7 +66105,7 @@ Les sommes payées au titre de la créance nantie s'imputent sur la créance gar
 
 Dans le cas contraire, le créancier nanti les conserve à titre de garantie sur un compte ouvert auprès d'un établissement
 habilité à les recevoir à charge pour lui de les restituer si l'obligation garantie est exécutée. En cas de défaillance du
-débiteur de la créance nantie et huit jours après une mise en demeure restée sans effet, le créancier affecte les fonds au
+débiteur de la créance garantie et huit jours après une mise en demeure restée sans effet, le créancier affecte les fonds au
 remboursement de sa créance dans la limite des sommes impayées.
 
 **Liens relatifs à cet article**
@@ -65520,9 +66114,9 @@ remboursement de sa créance dans la limite des sommes impayées.
 
 	  - Loi n°1804-03-19
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 12 () JORF 24 mars 2006
+	  - Loi n°2007-212 du 20 février 2007 - art. 10 (V)
 
 
 ###### Article 2365
@@ -68382,14 +68976,9 @@ Aucune pièce justificative n'est exigée à l'appui de l'expédition de l'acte 
 établissant l'état, la capacité et la qualité des parties, lorsque ces énonciations sont certifiées exactes dans l'acte par
 le notaire ou l'autorité administrative.
 
-Lorsque la radiation porte sur l'inscription d'une hypothèque conventionnelle, elle peut être requise par le dépôt au bureau
-du conservateur d'une copie authentique de l'acte notarié certifiant que le créancier a, à la demande du débiteur, donné son
-accord à cette radiation ; le contrôle du conservateur se limite à la régularité formelle de l'acte à l'exclusion de sa
-validité au fond.
-
-**Nota:**
-
-NOTA : Ordonnance 2006-346 du 6 mars 2006 art. 57 : Spécificités d'application.
+La radiation de l'inscription peut être requise par le dépôt au bureau du conservateur d'une copie authentique de l'acte
+notarié certifiant que le créancier a, à la demande du débiteur, donné son accord à cette radiation ; le contrôle du
+conservateur se limite à la régularité formelle de l'acte à l'exclusion de sa validité au fond.
 
 **Liens relatifs à cet article**
 
@@ -68399,10 +68988,9 @@ NOTA : Ordonnance 2006-346 du 6 mars 2006 art. 57 : Spécificités d'application
 	  - Code général des impôts, CGI. - art. 881 J (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 295 (VT)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
-	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 29 () JORF 24 mars 2006
+	  - Loi n°2007-212 du 20 février 2007 - art. 10 (V)
 
 	**Anciens textes**:
 
@@ -68971,8 +69559,6 @@ de ce certificat.
 
 #### Chapitre V : De l'effet des privilèges et des hypothèques
 
-##### Section 1 : Dispositions particulières aux hypothèques conventionnelles
-
 ###### Article 2458
 
 A moins qu'il ne poursuive la vente du bien hypothéqué selon les modalités prévues par les lois sur les procédures civiles
@@ -68980,15 +69566,11 @@ d'exécution, auxquelles la convention d'hypothèque ne peut déroger, le créan
 que l'immeuble lui demeure en paiement. Cette faculté ne lui est toutefois pas offerte si l'immeuble constitue la résidence
 principale du débiteur.
 
-**Nota:**
-
-NOTA : Ordonnance 2006-346 du 6 mars 2006 art. 57 : Spécificités d'application.
-
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
+	  - Loi n°2007-212 du 20 février 2007 - art. 10 (V) JORF 21 février 2007
 
 	**Cité par**:
 
@@ -69004,20 +69586,15 @@ NOTA : Ordonnance 2006-346 du 6 mars 2006 art. 57 : Spécificités d'application
 Il peut être convenu dans la convention d'hypothèque que le créancier deviendra propriétaire de l'immeuble hypothéqué.
 Toutefois, cette clause est sans effet sur l'immeuble qui constitue la résidence principale du débiteur.
 
-**Nota:**
-
-NOTA : Ordonnance 2006-346 du 6 mars 2006 art. 57 : Spécificités d'application.
-
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Loi n°1804-03-19
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
-	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 30 () JORF 24 mars 2006
+	  - Loi n°2007-212 du 20 février 2007 - art. 10 (V) JORF 21 février 2007
 
 
 ###### Article 2460
@@ -69028,34 +69605,6 @@ judiciairement.
 Si sa valeur excède le montant de la dette garantie, le créancier doit au débiteur une somme égale à la différence ; s'il
 existe d'autres créanciers hypothécaires, il la consigne.
 
-**Nota:**
-
-NOTA : Ordonnance 2006-346 du 6 mars 2006 art. 57 : Spécificités d'application.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1804-03-19
-
-	**Créé par**:
-
-	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
-	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 30 () JORF 24 mars 2006
-
-
-##### Section 2 : Dispositions générales
-
-###### Article 2461
-
-Les créanciers ayant privilège ou hypothèque inscrits sur un immeuble, le suivent en quelques mains qu'il passe, pour être
-payés suivant l'ordre de leurs créances ou inscriptions.
-
-**Nota:**
-
-NOTA : Ordonnance 2006-461 2006-04-21 art. 23 : La présente ordonnance entrera en vigueur à la date de l'entrée en vigueur du
-décret en Conseil d'Etat prévu à l'article 23 et, au plus tard, le 1er janvier 2007.
-
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -69064,11 +69613,27 @@ décret en Conseil d'Etat prévu à l'article 23 et, au plus tard, le 1er janvie
 
 	**Modifié par**:
 
-	  - Ordonnance n°2006-461 du 21 avril 2006 - art. 5 () JORF 22 avril 2006 en vigueur au plus tard le 1er janvier 2007
+	  - Loi n°2007-212 du 20 février 2007 - art. 10 (V) JORF 21 février 2007
+
+
+###### Article 2461
+
+Les créanciers ayant privilège ou hypothèque inscrits sur un immeuble, le suivent en quelques mains qu'il passe, pour être
+payés suivant l'ordre de leurs créances ou inscriptions.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-19
 
 	**Cité par**:
 
 	  - Ordonnance n°2006-461 du 21 avril 2006 - art. 24 (VT)
+
+	**Modifié par**:
+
+	  - Loi n°2007-212 du 20 février 2007 - art. 10 (V) JORF 21 février 2007
 
 	**Anciens textes**:
 
@@ -69081,15 +69646,11 @@ Si le tiers détenteur ne remplit pas les formalités qui seront ci-après étab
 l'effet seul des inscriptions, obligé comme détenteur, à toutes les dettes hypothécaires, et jouit des termes et délais
 accordés au débiteur originaire.
 
-**Nota:**
-
-NOTA : Ordonnance 2006-346 du 6 mars 2006 art. 57 : Spécificités d'application.
-
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
+	  - Loi n°2007-212 du 20 février 2007 - art. 10 (V) JORF 21 février 2007
 
 	**Anciens textes**:
 
@@ -69105,16 +69666,16 @@ NOTA : Ordonnance 2006-346 du 6 mars 2006 art. 57 : Spécificités d'application
 Le tiers détenteur est tenu, dans le même cas, ou de payer tous les intérêts et capitaux exigibles, à quelque somme qu'ils
 puissent monter, ou de délaisser l'immeuble hypothéqué, sans aucune réserve.
 
-**Nota:**
-
-NOTA : Ordonnance 2006-346 du 6 mars 2006 art. 57 : Spécificités d'application.
-
 **Liens relatifs à cet article**
 
 	**Cité par**:
 
 	  - Décret n°2006-936 du 27 juillet 2006 - art. 17 (Ab)
 	  - Code des procédures civiles d'exécution - art. R321-5 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2007-212 du 20 février 2007 - art. 10 (V) JORF 21 février 2007
 
 	**Anciens textes**:
 
@@ -69124,10 +69685,6 @@ NOTA : Ordonnance 2006-346 du 6 mars 2006 art. 57 : Spécificités d'application
 
 	  - Loi n°1804-03-19
 
-	**Créé par**:
-
-	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
-
 
 ###### Article 2464
 
@@ -69136,19 +69693,23 @@ l'immeuble a le droit de poursuivre la saisie et la vente de l'immeuble dans les
 
 **Nota:**
 
-NOTA : Ordonnance 2006-461 2006-04-21 art. 23 : La présente ordonnance entrera en vigueur à la date de l'entrée en vigueur du
-décret en Conseil d'Etat prévu à l'article 23 et, au plus tard, le 1er janvier 2007.
+Ordonnance n° 2011-1895 du 19 décembre 2011, article 4 : Le titre XIX du livre III du code civil est abrogé. Ses dispositions
+sont reprises dans le livre III du code des procédures civiles d'exécution.
 
 **Liens relatifs à cet article**
 
 	**Cité par**:
 
+	  - Loi n°1924-06-01 du 1 juin 1924 - art. 142 (V)
 	  - Décret n°67-167 du 1 mars 1967 - art. 23 (Ab)
+	  - Ordonnance n°2006-461 du 21 avril 2006 - art. 24 (VT)
 	  - Décret n°2006-936 du 27 juillet 2006 - art. 17 (Ab)
 	  - Code de la consommation - art. L313-14-1 (VT)
 	  - Code des procédures civiles d'exécution - art. R321-5 (V)
-	  - Loi n°1924-06-01 du 1 juin 1924 - art. 142 (V)
-	  - Ordonnance n°2006-461 du 21 avril 2006 - art. 24 (VT)
+
+	**Modifié par**:
+
+	  - Loi n°2007-212 du 20 février 2007 - art. 10 (V) JORF 21 février 2007
 
 	**Anciens textes**:
 
@@ -69158,10 +69719,6 @@ décret en Conseil d'Etat prévu à l'article 23 et, au plus tard, le 1er janvie
 
 	  - Loi n°1804-03-19
 
-	**Modifié par**:
-
-	  - Ordonnance n°2006-461 du 21 avril 2006 - art. 6 () JORF 22 avril 2006 en vigueur au plus tard le 1er janvier 2007
-
 
 ###### Article 2465
 
@@ -69170,38 +69727,30 @@ hypothéqué qui lui a été transmis, s'il est demeuré d'autres immeubles hypo
 principal ou des principaux obligés, et en requérir la discussion préalable selon la forme réglée au titre " Du cautionnement
 " ; pendant cette discussion, il est sursis à la vente de l'héritage hypothéqué.
 
-**Nota:**
-
-NOTA : Ordonnance 2006-346 du 6 mars 2006 art. 57 : Spécificités d'application.
-
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
-
-	**Anciens textes**:
-
-	  - Code civil - art. 2170 (T)
 
 	**Codifié par**:
 
 	  - Loi n°1804-03-19
+
+	**Modifié par**:
+
+	  - Loi n°2007-212 du 20 février 2007 - art. 10 (V) JORF 21 février 2007
+
+	**Anciens textes**:
+
+	  - Code civil - art. 2170 (T)
 
 
 ###### Article 2466
 
 L'exception de discussion ne peut être opposée au créancier privilégié ou ayant hypothèque spéciale sur l'immeuble.
 
-**Nota:**
-
-NOTA : Ordonnance 2006-346 du 6 mars 2006 art. 57 : Spécificités d'application.
-
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
+	  - Loi n°2007-212 du 20 février 2007 - art. 10 (V) JORF 21 février 2007
 
 	**Anciens textes**:
 
@@ -69217,23 +69766,19 @@ NOTA : Ordonnance 2006-346 du 6 mars 2006 art. 57 : Spécificités d'application
 Quant au délaissement par hypothèque, il peut être fait par tous les tiers détenteurs qui ne sont pas personnellement obligés
 à la dette, et qui ont la capacité d'aliéner.
 
-**Nota:**
-
-NOTA : Ordonnance 2006-346 du 6 mars 2006 art. 57 : Spécificités d'application.
-
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code civil - art. 2172 (T)
 
 	**Codifié par**:
 
 	  - Loi n°1804-03-19
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
+	  - Loi n°2007-212 du 20 février 2007 - art. 10 (V) JORF 21 février 2007
+
+	**Anciens textes**:
+
+	  - Code civil - art. 2172 (T)
 
 
 ###### Article 2468
@@ -69242,20 +69787,15 @@ Il peut l'être même après que le tiers détenteur a reconnu l'obligation ou s
 délaissement n'empêche pas que jusqu'à la vente forcée, le tiers détenteur ne puisse reprendre l'immeuble en payant toute la
 dette et les frais.
 
-**Nota:**
-
-NOTA : Ordonnance 2006-461 2006-04-21 art. 23 : La présente ordonnance entrera en vigueur à la date de l'entrée en vigueur du
-décret en Conseil d'Etat prévu à l'article 23 et, au plus tard, le 1er janvier 2007.
-
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Ordonnance n°2006-461 du 21 avril 2006 - art. 7 () JORF 22 avril 2006 en vigueur au plus tard le 1er janvier 2007
 
 	**Cité par**:
 
 	  - Ordonnance n°2006-461 du 21 avril 2006 - art. 24 (VT)
+
+	**Modifié par**:
+
+	  - Loi n°2007-212 du 20 février 2007 - art. 10 (V) JORF 21 février 2007
 
 	**Anciens textes**:
 
@@ -69274,17 +69814,16 @@ tribunal.
 Sur la pétition du plus diligent des intéressés, il est créé à l'immeuble délaissé un curateur sur lequel la vente de
 l'immeuble est poursuivie dans les formes prescrites pour la saisie immobilière.
 
-**Nota:**
-
-NOTA : Ordonnance 2006-461 2006-04-21 art. 23 : La présente ordonnance entrera en vigueur à la date de l'entrée en vigueur du
-décret en Conseil d'Etat prévu à l'article 23 et, au plus tard, le 1er janvier 2007.
-
 **Liens relatifs à cet article**
 
 	**Cité par**:
 
 	  - Décret n°55-22 du 4 janvier 1955 - art. 28 (V)
 	  - Ordonnance n°2006-461 du 21 avril 2006 - art. 24 (VT)
+
+	**Modifié par**:
+
+	  - Loi n°2007-212 du 20 février 2007 - art. 10 (V) JORF 21 février 2007
 
 	**Anciens textes**:
 
@@ -69294,10 +69833,6 @@ décret en Conseil d'Etat prévu à l'article 23 et, au plus tard, le 1er janvie
 
 	  - Loi n°1804-03-19
 
-	**Modifié par**:
-
-	  - Ordonnance n°2006-461 du 21 avril 2006 - art. 8 () JORF 22 avril 2006 en vigueur au plus tard le 1er janvier 2007
-
 
 ###### Article 2470
 
@@ -69305,23 +69840,19 @@ Les détériorations qui procèdent du fait ou de la négligence du tiers déten
 privilégiés, donnent lieu contre lui à une action en indemnité ; mais il ne peut répéter ses impenses et améliorations que
 jusqu'à concurrence de la plus-value résultant de l'amélioration.
 
-**Nota:**
-
-NOTA : Ordonnance 2006-346 du 6 mars 2006 art. 57 : Spécificités d'application.
-
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code civil - art. 2175 (T)
 
 	**Codifié par**:
 
 	  - Loi n°1804-03-19
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
+	  - Loi n°2007-212 du 20 février 2007 - art. 10 (V) JORF 21 février 2007
+
+	**Anciens textes**:
+
+	  - Code civil - art. 2175 (T)
 
 
 ###### Article 2471
@@ -69330,19 +69861,15 @@ Les fruits de l'immeuble hypothéqué ne sont dus par le tiers détenteur qu'à 
 délaisser, et, si les poursuites commencées ont été abandonnées pendant trois ans, à compter de la nouvelle sommation qui
 sera faite.
 
-**Nota:**
-
-NOTA : Ordonnance 2006-346 du 6 mars 2006 art. 57 : Spécificités d'application.
-
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Loi n°1804-03-19
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
+	  - Loi n°2007-212 du 20 février 2007 - art. 10 (V) JORF 21 février 2007
 
 	**Anciens textes**:
 
@@ -69357,28 +69884,23 @@ délaissement ou après la vente forcée de l'immeuble.
 Ses créanciers personnels, après tout ceux qui sont inscrits sur les précédents propriétaires, exercent leur hypothèque à
 leur rang, sur le bien délaissé ou vendu.
 
-**Nota:**
-
-NOTA : Ordonnance 2006-461 2006-04-21 art. 23 : La présente ordonnance entrera en vigueur à la date de l'entrée en vigueur du
-décret en Conseil d'Etat prévu à l'article 23 et, au plus tard, le 1er janvier 2007.
-
 **Liens relatifs à cet article**
 
-	**Modifié par**:
+	**Codifié par**:
 
-	  - Ordonnance n°2006-461 du 21 avril 2006 - art. 9 () JORF 22 avril 2006 en vigueur au plus tard le 1er janvier 2007
+	  - Loi n°1804-03-19
 
 	**Cité par**:
 
 	  - Ordonnance n°2006-461 du 21 avril 2006 - art. 24 (VT)
 
+	**Modifié par**:
+
+	  - Loi n°2007-212 du 20 février 2007 - art. 10 (V) JORF 21 février 2007
+
 	**Anciens textes**:
 
 	  - Code civil - art. 2177 (T)
-
-	**Codifié par**:
-
-	  - Loi n°1804-03-19
 
 
 ###### Article 2473
@@ -69386,10 +69908,29 @@ décret en Conseil d'Etat prévu à l'article 23 et, au plus tard, le 1er janvie
 Le tiers détenteur qui a payé la dette hypothécaire, ou délaissé l'immeuble hypothéqué, ou subi la vente forcée de cet
 immeuble, a le recours en garantie, tel que de droit, contre le débiteur principal.
 
-**Nota:**
+**Liens relatifs à cet article**
 
-NOTA : Ordonnance 2006-461 2006-04-21 art. 23 : La présente ordonnance entrera en vigueur à la date de l'entrée en vigueur du
-décret en Conseil d'Etat prévu à l'article 23 et, au plus tard, le 1er janvier 2007.
+	**Cité par**:
+
+	  - Ordonnance n°2006-461 du 21 avril 2006 - art. 24 (VT)
+
+	**Modifié par**:
+
+	  - Loi n°2007-212 du 20 février 2007 - art. 10 (V) JORF 21 février 2007
+
+	**Anciens textes**:
+
+	  - Code civil - art. 2178 (T)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-19
+
+
+###### Article 2474
+
+Le tiers détenteur qui veut purger sa propriété en payant le prix, observe les formalités qui sont établies dans le chapitre
+VI du présent titre.
 
 **Liens relatifs à cet article**
 
@@ -69399,44 +69940,14 @@ décret en Conseil d'Etat prévu à l'article 23 et, au plus tard, le 1er janvie
 
 	**Modifié par**:
 
-	  - Ordonnance n°2006-461 du 21 avril 2006 - art. 10 () JORF 22 avril 2006 en vigueur au plus tard le 1er janvier 2007
-
-	**Cité par**:
-
-	  - Ordonnance n°2006-461 du 21 avril 2006 - art. 24 (VT)
-
-	**Anciens textes**:
-
-	  - Code civil - art. 2178 (T)
-
-
-###### Article 2474
-
-Le tiers détenteur qui veut purger sa propriété en payant le prix, observe les formalités qui sont établies dans le chapitre
-VI du présent titre.
-
-**Nota:**
-
-NOTA : Ordonnance 2006-346 du 6 mars 2006 art. 57 : Spécificités d'application.
-
-**Liens relatifs à cet article**
+	  - Loi n°2007-212 du 20 février 2007 - art. 10 (V) JORF 21 février 2007
 
 	**Anciens textes**:
 
 	  - Code civil - art. 2179 (T)
 
-	**Codifié par**:
-
-	  - Loi n°1804-03-19
-
-	**Créé par**:
-
-	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
-
 
 #### Chapitre VI : De la purge des privilèges et des hypothèques
-
-##### Section 1 : Dispositions particulières aux hypothèques conventionnelles
 
 ###### Article 2475
 
@@ -69448,33 +69959,22 @@ Par l'effet de ce paiement, l'immeuble est purgé du droit de suite attaché à 
 
 A défaut de l'accord prévu au premier alinéa, il est procédé aux formalités de purge conformément aux articles ci-après.
 
-**Nota:**
-
-NOTA : Ordonnance 2006-346 du 6 mars 2006 art. 57 : Spécificités d'application.
-
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Loi n°1804-03-19
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
-	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 31 () JORF 24 mars 2006
+	  - Loi n°2007-212 du 20 février 2007 - art. 10 (V) JORF 21 février 2007
 
-
-##### Section 2 : Dispositions générales
 
 ###### Article 2476
 
 Les contrats translatifs de la propriété d'immeubles ou droits réels immobiliers que les tiers détenteurs voudront purger de
 privilèges et hypothèques, seront publiés au bureau des hypothèques de la situation des biens, conformément aux lois et
 règlements concernant la publicité foncière.
-
-**Nota:**
-
-NOTA : Ordonnance 2006-346 du 6 mars 2006 art. 57 : Spécificités d'application.
 
 **Liens relatifs à cet article**
 
@@ -69486,9 +69986,9 @@ NOTA : Ordonnance 2006-346 du 6 mars 2006 art. 57 : Spécificités d'application
 	  - Code de commerce - art. R626-36 (V)
 	  - Code de commerce - art. R643-4 (VD)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
+	  - Loi n°2007-212 du 20 février 2007 - art. 10 (V) JORF 21 février 2007
 
 	**Anciens textes**:
 
@@ -69507,19 +70007,7 @@ privilèges établis sur l'immeuble.
 Le vendeur ne transmet à l'acquéreur que la propriété et les droits qu'il avait lui-même sur la chose vendue : il les
 transmet sous l'affectation des mêmes privilèges et hypothèques dont la chose vendue était grevée.
 
-**Nota:**
-
-NOTA : Ordonnance 2006-346 du 6 mars 2006 art. 57 : Spécificités d'application.
-
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
-
-	**Cité par**:
-
-	  - Ordonnance n°2013-516 du 20 juin 2013 - art. 1 (VD)
 
 	**Anciens textes**:
 
@@ -69528,6 +70016,14 @@ NOTA : Ordonnance 2006-346 du 6 mars 2006 art. 57 : Spécificités d'application
 	**Codifié par**:
 
 	  - Loi n°1804-03-19
+
+	**Modifié par**:
+
+	  - Loi n°2007-212 du 20 février 2007 - art. 10 (V) JORF 21 février 2007
+
+	**Cité par**:
+
+	  - Ordonnance n°2013-516 du 20 juin 2013 - art. 1 (VD)
 
 
 ###### Article 2478
@@ -69545,32 +70041,27 @@ prix de la vente, ou l'évaluation de la chose si elle a été donnée ;
 
 3° Un état hypothécaire sommaire sur formalités faisant apparaître les charges réelles qui grèvent l'immeuble.
 
-**Nota:**
-
-NOTA : Ordonnance 2006-346 du 6 mars 2006 art. 57 : Spécificités d'application.
-
 **Liens relatifs à cet article**
 
 	**Cité par**:
 
 	  - Décret n°66-270 du 22 avril 1966 - art. 6 (V)
-	  - Loi n°1924-06-01 du 1 juin 1924 - art. 214 (V)
 	  - Code de procédure civile - art. 1281-13 (V)
 	  - Code de procédure civile - art. 748 a (Ab)
 	  - Code de procédure civile - art. 832 (Ab)
+	  - Loi n°1924-06-01 du 1 juin 1924 - art. 214 (V)
+
+	**Anciens textes**:
+
+	  - Code civil - art. 2183 (T)
 
 	**Codifié par**:
 
 	  - Loi n°1804-03-19
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
-	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 32 () JORF 24 mars 2006
-
-	**Anciens textes**:
-
-	  - Code civil - art. 2183 (T)
+	  - Loi n°2007-212 du 20 février 2007 - art. 10 (V) JORF 21 février 2007
 
 
 ###### Article 2479
@@ -69579,11 +70070,15 @@ L'acquéreur ou le donataire déclarera, par le même acte, qu'il est prêt à a
 hypothécaires, jusqu'à concurrence seulement du prix, ou, s'il a reçu l'immeuble par donation, de la valeur qu'il a déclarée
 sans distinction des dettes exigibles ou non exigibles.
 
-**Nota:**
-
-NOTA : Ordonnance 2006-346 du 6 mars 2006 art. 57 : Spécificités d'application.
-
 **Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°1924-06-01 du 1 juin 1924 - art. 214 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2007-212 du 20 février 2007 - art. 10 (V) JORF 21 février 2007
 
 	**Anciens textes**:
 
@@ -69592,15 +70087,6 @@ NOTA : Ordonnance 2006-346 du 6 mars 2006 art. 57 : Spécificités d'application
 	**Codifié par**:
 
 	  - Loi n°1804-03-19
-
-	**Cité par**:
-
-	  - Loi n°1924-06-01 du 1 juin 1924 - art. 214 (V)
-
-	**Créé par**:
-
-	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
-	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 32 () JORF 24 mars 2006
 
 
 ###### Article 2480
@@ -69623,11 +70109,11 @@ expresse, lequel, en ce cas, est tenu de donner copie de sa procuration ;
 
 Le tout à peine de nullité.
 
-**Nota:**
-
-NOTA : Ordonnance 2006-346 du 6 mars 2006 art. 57 : Spécificités d'application.
-
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-19
 
 	**Cité par**:
 
@@ -69636,18 +70122,13 @@ NOTA : Ordonnance 2006-346 du 6 mars 2006 art. 57 : Spécificités d'application
 	  - Code de procédure civile - art. 832 (Ab)
 	  - Nouveau code de procédure civile - art. 1281-14 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
-	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 32 () JORF 24 mars 2006
+	  - Loi n°2007-212 du 20 février 2007 - art. 10 (V) JORF 21 février 2007
 
 	**Anciens textes**:
 
 	  - Code civil - art. 2185 (T)
-
-	**Codifié par**:
-
-	  - Loi n°1804-03-19
 
 
 ###### Article 2481
@@ -69657,15 +70138,11 @@ l'immeuble demeure définitivement fixée au prix stipulé dans le contrat, ou d
 en conséquence, libéré de tout privilège et hypothèque, en payant ledit prix aux créanciers qui seront en ordre de recevoir,
 ou en le consignant.
 
-**Nota:**
-
-NOTA : Ordonnance 2006-346 du 6 mars 2006 art. 57 : Spécificités d'application.
-
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
+	  - Loi n°2007-212 du 20 février 2007 - art. 10 (V) JORF 21 février 2007
 
 	**Anciens textes**:
 
@@ -69684,10 +70161,31 @@ la diligence soit du créancier qui l'aura requise, soit du nouveau propriétair
 Le poursuivant énoncera dans les affiches le prix stipulé dans le contrat, ou déclaré, et la somme en sus à laquelle le
 créancier s'est obligé de la porter ou faire porter.
 
-**Nota:**
+**Liens relatifs à cet article**
 
-NOTA : Ordonnance 2006-461 2006-04-21 art. 23 : La présente ordonnance entrera en vigueur à la date de l'entrée en vigueur du
-décret en Conseil d'Etat prévu à l'article 23 et, au plus tard, le 1er janvier 2007.
+	**Anciens textes**:
+
+	  - Code civil - art. 2187 (T)
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 836 (Ab)
+	  - Ordonnance n°2006-461 du 21 avril 2006 - art. 24 (VT)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-19
+
+	**Modifié par**:
+
+	  - Loi n°2007-212 du 20 février 2007 - art. 10 (V) JORF 21 février 2007
+
+
+###### Article 2483
+
+L'adjudicataire est tenu, au-delà du prix de son adjudication, de restituer à l'acquéreur ou au donataire dépossédé les frais
+et loyaux coûts de son contrat, ceux de la publication au bureau des hypothèques, ceux de notification et ceux faits par lui
+pour parvenir à la revente.
 
 **Liens relatifs à cet article**
 
@@ -69697,41 +70195,11 @@ décret en Conseil d'Etat prévu à l'article 23 et, au plus tard, le 1er janvie
 
 	**Modifié par**:
 
-	  - Ordonnance n°2006-461 du 21 avril 2006 - art. 11 () JORF 22 avril 2006 en vigueur au plus tard le 1er janvier 2007
-
-	**Cité par**:
-
-	  - Ordonnance n°2006-461 du 21 avril 2006 - art. 24 (VT)
-	  - Code de procédure civile - art. 836 (Ab)
-
-	**Anciens textes**:
-
-	  - Code civil - art. 2187 (T)
-
-
-###### Article 2483
-
-L'adjudicataire est tenu, au-delà du prix de son adjudication, de restituer à l'acquéreur ou au donataire dépossédé les frais
-et loyaux coûts de son contrat, ceux de la publication au bureau des hypothèques, ceux de notification et ceux faits par lui
-pour parvenir à la revente.
-
-**Nota:**
-
-NOTA : Ordonnance 2006-346 du 6 mars 2006 art. 57 : Spécificités d'application.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
+	  - Loi n°2007-212 du 20 février 2007 - art. 10 (V) JORF 21 février 2007
 
 	**Anciens textes**:
 
 	  - Code civil - art. 2188 (T)
-
-	**Codifié par**:
-
-	  - Loi n°1804-03-19
 
 
 ###### Article 2484
@@ -69739,19 +70207,15 @@ NOTA : Ordonnance 2006-346 du 6 mars 2006 art. 57 : Spécificités d'application
 L'acquéreur ou le donataire qui conserve l'immeuble mis aux enchères, en se rendant dernier enchérisseur, n'est pas tenu de
 faire publier le jugement d'adjudication.
 
-**Nota:**
-
-NOTA : Ordonnance 2006-346 du 6 mars 2006 art. 57 : Spécificités d'application.
-
 **Liens relatifs à cet article**
 
 	**Cité par**:
 
 	  - Loi n°1924-06-01 du 1 juin 1924 - art. 194 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
+	  - Loi n°2007-212 du 20 février 2007 - art. 10 (V) JORF 21 février 2007
 
 	**Anciens textes**:
 
@@ -69767,33 +70231,25 @@ NOTA : Ordonnance 2006-346 du 6 mars 2006 art. 57 : Spécificités d'application
 Le désistement du créancier requérant la mise aux enchères, ne peut, même quand le créancier paierait le montant de la
 soumission, empêcher l'adjudication publique, si ce n'est du consentement exprès de tous les autres créanciers hypothécaires.
 
-**Nota:**
-
-NOTA : Ordonnance 2006-346 du 6 mars 2006 art. 57 : Spécificités d'application.
-
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
-
-	**Anciens textes**:
-
-	  - Code civil - art. 2190 (T)
 
 	**Codifié par**:
 
 	  - Loi n°1804-03-19
+
+	**Modifié par**:
+
+	  - Loi n°2007-212 du 20 février 2007 - art. 10 (V) JORF 21 février 2007
+
+	**Anciens textes**:
+
+	  - Code civil - art. 2190 (T)
 
 
 ###### Article 2486
 
 L'acquéreur qui se sera rendu adjudicataire aura son recours tel que de droit contre le vendeur, pour le remboursement de ce
 qui excède le prix stipulé par son titre, et pour l'intérêt de cet excédent, à compter du jour de chaque paiement.
-
-**Nota:**
-
-NOTA : Ordonnance 2006-346 du 6 mars 2006 art. 57 : Spécificités d'application.
 
 **Liens relatifs à cet article**
 
@@ -69805,9 +70261,9 @@ NOTA : Ordonnance 2006-346 du 6 mars 2006 art. 57 : Spécificités d'application
 
 	  - Loi n°1804-03-19
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
+	  - Loi n°2007-212 du 20 février 2007 - art. 10 (V) JORF 21 février 2007
 
 
 ###### Article 2487
@@ -69823,19 +70279,15 @@ d'autres immeubles que ceux qui sont hypothéqués à sa créance et situés dan
 nouveau propriétaire contre ses auteurs, pour l'indemnité du dommage qu'il éprouverait, soit de la division des objets de son
 acquisition, soit de celle des exploitations.
 
-**Nota:**
-
-NOTA : Ordonnance 2006-346 du 6 mars 2006 art. 57 : Spécificités d'application.
-
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Loi n°1804-03-19
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
+	  - Loi n°2007-212 du 20 février 2007 - art. 10 (V) JORF 21 février 2007
 
 	**Cité par**:
 

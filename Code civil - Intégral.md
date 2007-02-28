@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 2007-02-22
+Version Consolidée au 2007-03-01
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -5042,18 +5042,39 @@ Avant la célébration du mariage, l'officier de l'état civil fera une publicat
 maison commune. Cette publication énoncera les prénoms, noms, professions, domiciles et résidences des futurs époux, ainsi
 que le lieu où le mariage devra être célébré.
 
-Sans préjudice de l'application des dispositions de l'article 170, l'officier de l'état civil ne pourra procéder à la
-publication prévue au premier alinéa ni, en cas de dispense de publication, à la célébration du mariage, qu'après :
+La publication prévue au premier alinéa ou, en cas de dispense de publication accordée conformément aux dispositions de
+l'article 169, la célébration du mariage est subordonnée :
 
-- la remise, par chacun des futurs époux, d'un certificat médical datant de moins de deux mois, attestant, à l'exclusion de
-toute autre indication, que l'intéressé a été examiné en vue du mariage ;
+1° A la remise, pour chacun des futurs époux, des indications ou pièces suivantes :
 
-- l'audition commune des futurs époux, sauf en cas d'impossibilité ou s'il apparaît, au vu des pièces du dossier, que cette
-audition n'est nécessaire ni au regard de l'article 146, ni au regard de l'article 180. L'officier de l'état civil, s'il
-l'estime nécessaire, peut également demander à s'entretenir séparément avec l'un ou l'autre des futurs époux. Il peut
-déléguer à un ou à plusieurs fonctionnaires titulaires du service de l'état civil de la commune la réalisation de l'audition
-commune ou des entretiens séparés. Si l'un des futurs époux réside dans un pays étranger, l'officier de l'état civil peut
-demander à un agent diplomatique ou consulaire français en poste dans ce pays de procéder à son audition.
+- un certificat médical datant de moins de deux mois attestant, à l'exclusion de toute autre indication, que l'intéressé a
+été examiné en vue du mariage ;
+
+- les pièces exigées par les articles 70 ou 71 ;
+
+- la justification de l'identité au moyen d'une pièce délivrée par une autorité publique ;
+
+- l'indication des prénoms, nom, date et lieu de naissance, profession et domicile des témoins, sauf lorsque le mariage doit
+être célébré par une autorité étrangère ;
+
+2° A l'audition commune des futurs époux, sauf en cas d'impossibilité ou s'il apparaît, au vu des pièces fournies, que cette
+audition n'est pas nécessaire au regard des articles 146 et 180.
+
+L'officier de l'état civil, s'il l'estime nécessaire, demande à s'entretenir séparément avec l'un ou l'autre des futurs
+époux.
+
+L'audition du futur conjoint mineur se fait hors la présence de ses père et mère ou de son représentant légal et de son futur
+conjoint.
+
+L'officier de l'état civil peut déléguer à un ou plusieurs fonctionnaires titulaires du service de l'état civil de la commune
+la réalisation de l'audition commune ou des entretiens séparés. Lorsque l'un des futurs époux réside à l'étranger, l'officier
+de l'état civil peut demander à l'autorité diplomatique ou consulaire territorialement compétente de procéder à son audition.
+
+L'autorité diplomatique ou consulaire peut déléguer à un ou plusieurs fonctionnaires titulaires chargés de l'état civil ou,
+le cas échéant, aux fonctionnaires dirigeant une chancellerie détachée ou aux consuls honoraires de nationalité française
+compétents la réalisation de l'audition commune ou des entretiens séparés. Lorsque l'un des futurs époux réside dans un pays
+autre que celui de la célébration, l'autorité diplomatique ou consulaire peut demander à l'officier de l'état civil
+territorialement compétent de procéder à son audition.
 
 L'officier d'état civil qui ne se conformera pas aux prescriptions des alinéas précédents sera poursuivi devant le tribunal
 de grande instance et puni d'une amende de 3 à 30 euros.
@@ -5086,13 +5107,14 @@ de grande instance et puni d'une amende de 3 à 30 euros.
 
 	**Modifié par**:
 
-	  - Loi n°2006-399 du 4 avril 2006 - art. 3 () JORF 5 avril 2006
-	  - Loi n°2006-399 du 4 avril 2006 - art. 4 () JORF 5 avril 2006
+	  - Loi n°2006-1376 du 14 novembre 2006 - art. 1 () JORF 15 novembre 2006 en vigueur le 1er mars 2007
 
 	**Cite**:
 
 	  - Code civil - art. 146 (V)
 	  - Code civil - art. 180 (M)
+	  - Code civil - art. 70 (M)
+	  - Code civil - art. 71 (V)
 
 	**Codifié par**:
 
@@ -5216,12 +5238,9 @@ celui d'entre eux qui doit célébrer le mariage un certificat constatant qu'il 
 
 ###### Article 70
 
-L'expédition de l'acte de naissance remis par chacun des futurs époux à l'officier de l'état civil qui doit célébrer leur
-mariage est conforme au dernier alinéa de l'article 57 du code civil, avec, s'il y a lieu, l'indication de la qualité d'époux
-de ses père et mère ou, si le futur époux est mineur, l'indication de la reconnaissance dont il a été l'objet.
-
-Cet acte ne devra pas avoir été délivré depuis plus de trois mois, s'il a été délivré en France, et depuis plus de six mois,
-s'il a été délivré dans une colonie ou dans un consulat.
+La copie intégrale de l'acte de naissance remise par chacun des futurs époux à l'officier de l'état civil qui doit célébrer
+leur mariage ne doit pas dater de plus de trois mois si elle a été délivrée en France et de plus de six mois si elle a été
+délivrée dans un consulat.
 
 **Liens relatifs à cet article**
 
@@ -5231,17 +5250,13 @@ s'il a été délivré dans une colonie ou dans un consulat.
 	  - Décret n°53-914 du 26 septembre 1953 - art. 5 (Ab)
 	  - Code civil - art. 63 (V)
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code civil - art. 57 (M)
+	  - Loi n°2006-1376 du 14 novembre 2006 - art. 2 () JORF 15 novembre 2006 en vigueur le 1er mars 2007
 
 	**Codifié par**:
 
 	  - Loi n°1803-03-11
-
-	**Créé par**:
-
-	  - Loi n°1803-03-11 promulguée le 21 mars 1803
 
 
 ###### Article 71
@@ -5355,6 +5370,26 @@ d'habitation continue à la date de la publication prévue par la loi.
 	**Créé par**:
 
 	  - Loi n°1803-03-11 promulguée le 21 mars 1803
+
+
+###### Article 74-1
+
+Avant la célébration du mariage, les futurs époux confirment l'identité des témoins déclarés en application de l'article 63
+ou, le cas échéant, désignent les nouveaux témoins choisis par eux.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code civil - art. 63 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-11
+
+	**Créé par**:
+
+	  - Loi n°2006-1376 du 14 novembre 2006 - art. 1 () JORF 15 novembre 2006 en vigueur le 1er mars 2007
 
 
 ###### Article 75
@@ -7954,7 +7989,7 @@ Le procureur de la République dans l'arrondissement duquel sera célébré le m
 la publication et de tout délai ou de l'affichage de la publication seulement.
 
 Il peut également, dans des cas exceptionnels, dispenser les futurs époux, ou l'un d'eux seulement, de la remise du
-certificat médical exigé par le troisième alinéa de l'article 63.
+certificat médical exigé par l'article 63.
 
 Le certificat médical n'est exigible d'aucun des futurs époux au cas de péril imminent de mort de l'un d'eux, prévu au
 deuxième alinéa de l'article 75 du présent code.
@@ -7963,7 +7998,7 @@ deuxième alinéa de l'article 75 du présent code.
 
 	**Modifié par**:
 
-	  - Loi n°2003-1119 du 26 novembre 2003 - art. 74 () JORF 27 novembre 2003
+	  - Loi n°2006-1376 du 14 novembre 2006 - art. 8 () JORF 15 novembre 2006 en vigueur le 1er mars 2007
 
 	**Cité par**:
 
@@ -7974,94 +8009,6 @@ deuxième alinéa de l'article 75 du présent code.
 	**Cite**:
 
 	  - Code civil - art. 75 (M)
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-
-###### Article 170
-
-Le mariage contracté en pays étranger entre Français et entre Français et étranger sera valable, s'il a été célébré dans les
-formes usitées dans le pays, pourvu qu'il ait été précédé de la publication prescrite par l'article 63, au titre Des actes de
-l'état civil, et que le Français n'ait point contrevenu aux dispositions contenues au chapitre précédent.
-
-Il en sera de même du mariage contracté en pays étranger entre un français et un étranger s'il a été célébré par les agents
-diplomatiques, ou par les consuls de France, conformément aux lois françaises.
-
-Toutefois, les agents diplomatiques ou les consuls ne pourront procéder à la célébration du mariage entre un Français et un
-étranger que dans les pays qui seront désignés par décrets du Président de la République.
-
-Sauf en cas d'impossibilité ou s'il apparaît, au vu des pièces du dossier, que cette audition n'est nécessaire ni au regard
-de l'article 146, ni au regard de l'article 180, les agents diplomatiques et consulaires doivent, pour l'application du
-premier et du deuxième alinéa du présent article, procéder à l'audition commune des futurs époux ou des époux, selon les cas,
-soit lors de la demande de publication prescrite par l'article 63, soit lors de la délivrance du certificat de mariage, soit
-en cas de demande de transcription du mariage par le ressortissant français. Les agents diplomatiques et consulaires peuvent
-demander à s'entretenir, si nécessaire, avec l'un ou l'autre des époux ou futurs époux. Ils peuvent déléguer à un ou à
-plusieurs fonctionnaires titulaires chargés de l'état civil la réalisation de l'audition commune ou des entretiens séparés.
-Si l'un des époux ou des futurs époux réside dans un pays autre que celui de la célébration, ils peuvent demander à
-l'officier de l'état civil territorialement compétent de procéder à l'audition. Ils peuvent également requérir la présence
-des époux ou des futurs époux à l'occasion de chacune des formalités ci-dessus indiquées.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°2006-399 du 4 avril 2006 - art. 3 () JORF 5 avril 2006
-	  - Loi n°2006-399 du 4 avril 2006 - art. 4 () JORF 5 avril 2006
-
-	**Abrogé par**:
-
-	  - Loi n°2006-1376 du 14 novembre 2006 - art. 6 () JORF 15 novembre 2006 en vigueur le 1er mars 2007
-
-	**Cite**:
-
-	  - Code civil - art. 146 (V)
-	  - Code civil - art. 180 (M)
-
-	**Cité par**:
-
-	  - Code civil - art. 63 (M)
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-
-###### Article 170-1
-
-Lorsqu'il existe des indices sérieux laissant présumer qu'un mariage célébré à l'étranger encourt la nullité au titre des
-articles 180, 184 ou 191, l'agent diplomatique ou consulaire chargé de transcrire l'acte en informe immédiatement le
-ministère public et sursoit à la transcription.
-
-Le procureur de la République se prononce sur la transcription. Lorsqu'il demande la nullité du mariage, il ordonne que la
-transcription soit limitée à la seule fin de saisine du juge ; jusqu'à la décision de celui-ci, une expédition de l'acte
-transcrit ne peut être délivrée qu'aux autorités judiciaires ou avec l'autorisation du procureur de la République.
-
-Si le procureur de la République ne s'est pas prononcé dans un délai de six mois à compter de sa saisine, l'agent
-diplomatique ou consulaire transcrit l'acte.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Décret n°2005-170 du 23 février 2005 - art. 6 (Ab)
-	  - Décret n°2007-773 du 10 mai 2007 - art. 18 (V)
-	  - Nouveau code de procédure civile - art. 1056-1 (M)
-
-	**Modifié par**:
-
-	  - Loi n°2006-399 du 4 avril 2006 - art. 3 () JORF 5 avril 2006
-
-	**Abrogé par**:
-
-	  - Loi n°2006-1376 du 14 novembre 2006 - art. 6 () JORF 15 novembre 2006 en vigueur le 1er mars 2007
-
-	**Cite**:
-
-	  - Code civil - art. 180 (M)
-	  - Code civil - art. 184 (M)
-	  - Code civil - art. 191 (V)
 
 	**Codifié par**:
 
@@ -8096,6 +8043,300 @@ matrimonial n'est réputé avoir existé entre les époux.
 	**Modifié par**:
 
 	  - Loi n°59-1583 1959-12-31 art. 23 JORF 8 janvier 1959
+
+
+### Chapitre II bis : Du mariage des Français à l'étranger
+
+#### Section 1 : Dispositions générales
+
+###### Article 171-1
+
+Le mariage contracté en pays étranger entre Français, ou entre un Français et un étranger, est valable s'il a été célébré
+dans les formes usitées dans le pays de célébration et pourvu que le ou les Français n'aient point contrevenu aux
+dispositions contenues au chapitre Ier du présent titre.
+
+Il en est de même du mariage célébré par les autorités diplomatiques ou consulaires françaises, conformément aux lois
+françaises.
+
+Toutefois, ces autorités ne peuvent procéder à la célébration du mariage entre un Français et un étranger que dans les pays
+qui sont désignés par décret.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°2006-1376 du 14 novembre 2006 - art. 3 () JORF 15 novembre 2006 en vigueur le 1er mars 2007
+
+
+#### Section 2 : Des formalités préalables au mariage célébré à l'étranger par une autorité étrangère
+
+###### Article 171-2
+
+Lorsqu'il est célébré par une autorité étrangère, le mariage d'un Français doit être précédé de la délivrance d'un certificat
+de capacité à mariage établi après l'accomplissement, auprès de l'autorité diplomatique ou consulaire compétente au regard du
+lieu de célébration du mariage, des prescriptions prévues à l'article 63. 
+
+Sous réserve des dispenses prévues à l'article 169, la publication prévue à l'article 63 est également faite auprès de
+l'officier de l'état civil ou de l'autorité diplomatique ou consulaire du lieu où le futur époux français a son domicile ou
+sa résidence.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2006-1376 du 14 novembre 2006 - art. 3 () JORF 15 novembre 2006 en vigueur le 1er mars 2007
+
+	**Cité par**:
+
+	  - Décret n°2008-521 du 2 juin 2008 - art. 11 (V)
+	  - Code civil - art. 171-7 (V)
+	  - Code civil - art. 171-8 (V)
+
+	**Cite**:
+
+	  - Code civil - art. 169 (V)
+	  - Code civil - art. 63 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 171-3
+
+A la demande de l'autorité diplomatique ou consulaire compétente au regard du lieu de célébration du mariage, l'audition des
+futurs époux prévue à l'article 63 est réalisée par l'officier de l'état civil du lieu du domicile ou de résidence en France
+du ou des futurs conjoints, ou par l'autorité diplomatique ou consulaire territorialement compétente en cas de domicile ou de
+résidence à l'étranger.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2006-1376 du 14 novembre 2006 - art. 3 () JORF 15 novembre 2006 en vigueur le 1er mars 2007
+
+	**Cité par**:
+
+	  - Décret n°2007-773 du 10 mai 2007 - art. 3 (V)
+	  - Décret n°2008-521 du 2 juin 2008 - art. 3 (V)
+
+	**Cite**:
+
+	  - Code civil - art. 63 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 171-4
+
+Lorsque des indices sérieux laissent présumer que le mariage envisagé encourt la nullité au titre des articles 144, 146,
+146-1, 147, 161, 162, 163, 180 ou 191, l'autorité diplomatique ou consulaire saisit sans délai le procureur de la République
+compétent et en informe les intéressés. 
+
+Le procureur de la République peut, dans le délai de deux mois à compter de la saisine, faire connaître par une décision
+motivée, à l'autorité diplomatique ou consulaire du lieu où la célébration du mariage est envisagée et aux intéressés, qu'il
+s'oppose à cette célébration. 
+
+La mainlevée de l'opposition peut être demandée, à tout moment, devant le tribunal de grande instance conformément aux
+dispositions des articles 177 et 178 par les futurs époux, même mineurs.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2006-1376 du 14 novembre 2006 - art. 3 () JORF 15 novembre 2006 en vigueur le 1er mars 2007
+
+	**Cité par**:
+
+	  - Décret n°2007-773 du 10 mai 2007 - art. 5 (V)
+	  - Décret n°2007-773 du 10 mai 2007 - art. 6 (V)
+	  - Décret n°2008-521 du 2 juin 2008 - art. 11 (V)
+	  - Code civil - art. 176 (V)
+
+	**Cite**:
+
+	  - Code civil - art. 144 (V)
+	  - Code civil - art. 146 (V)
+	  - Code civil - art. 146-1 (V)
+	  - Code civil - art. 147 (V)
+	  - Code civil - art. 161 (V)
+	  - Code civil - art. 162 (V)
+	  - Code civil - art. 163 (V)
+	  - Code civil - art. 177 (V)
+	  - Code civil - art. 180 (V)
+	  - Code civil - art. 191 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+#### Section 3 : De la transcription du mariage célébré à l'étranger par une autorité étrangère
+
+###### Article 171-5
+
+Pour être opposable aux tiers en France, l'acte de mariage d'un Français célébré par une autorité étrangère doit être
+transcrit sur les registres de l'état civil français. En l'absence de transcription, le mariage d'un Français, valablement
+célébré par une autorité étrangère, produit ses effets civils en France à l'égard des époux et des enfants.
+
+Les futurs époux sont informés des règles prévues au premier alinéa à l'occasion de la délivrance du certificat de capacité à
+mariage.
+
+La demande de transcription est faite auprès de l'autorité consulaire ou diplomatique compétente au regard du lieu de
+célébration du mariage.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°2006-1376 du 14 novembre 2006 - art. 3 () JORF 15 novembre 2006 en vigueur le 1er mars 2007
+
+	**Cité par**:
+
+	  - Décret n°2008-521 du 2 juin 2008 - art. 11 (V)
+
+
+###### Article 171-6
+
+Lorsque le mariage a été célébré malgré l'opposition du procureur de la République, l'officier de l'état civil consulaire ne
+peut transcrire l'acte de mariage étranger sur les registres de l'état civil français qu'après remise par les époux d'une
+décision de mainlevée judiciaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°2006-1376 du 14 novembre 2006 - art. 3 () JORF 15 novembre 2006 en vigueur le 1er mars 2007
+
+
+###### Article 171-7
+
+Lorsque le mariage a été célébré en contravention aux dispositions de l'article 171-2, la transcription est précédée de
+l'audition des époux, ensemble ou séparément, par l'autorité diplomatique ou consulaire. Toutefois, si cette dernière dispose
+d'informations établissant que la validité du mariage n'est pas en cause au regard des articles 146 et 180, elle peut, par
+décision motivée, faire procéder à la transcription sans audition préalable des époux.
+
+A la demande de l'autorité diplomatique ou consulaire compétente au regard du lieu de célébration du mariage, l'audition est
+réalisée par l'officier de l'état civil du lieu du domicile ou de résidence en France des époux, ou par l'autorité
+diplomatique ou consulaire territorialement compétente si les époux ont leur domicile ou résidence à l'étranger. La
+réalisation de l'audition peut être déléguée à un ou plusieurs fonctionnaires titulaires chargés de l'état civil ou, le cas
+échéant, aux fonctionnaires dirigeant une chancellerie détachée ou aux consuls honoraires de nationalité française
+compétents. 
+
+Lorsque des indices sérieux laissent présumer que le mariage célébré devant une autorité étrangère encourt la nullité au
+titre des articles 144, 146, 146-1, 147, 161, 162, 163, 180 ou 191, l'autorité diplomatique ou consulaire chargée de
+transcrire l'acte en informe immédiatement le ministère public et sursoit à la transcription. 
+
+Le procureur de la République se prononce sur la transcription dans les six mois à compter de sa saisine.
+
+S'il ne s'est pas prononcé à l'échéance de ce délai ou s'il s'oppose à la transcription, les époux peuvent saisir le tribunal
+de grande instance pour qu'il soit statué sur la transcription du mariage. Le tribunal de grande instance statue dans le
+mois. En cas d'appel, la cour statue dans le même délai. 
+
+Dans le cas où le procureur de la République demande, dans le délai de six mois, la nullité du mariage, il ordonne que la
+transcription soit limitée à la seule fin de saisine du juge. Jusqu'à la décision de celui-ci, une expédition de l'acte
+transcrit ne peut être délivrée qu'aux autorités judiciaires ou avec l'autorisation du procureur de la République.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2006-1376 du 14 novembre 2006 - art. 3 () JORF 15 novembre 2006 en vigueur le 1er mars 2007
+
+	**Cité par**:
+
+	  - Décret n°2007-773 du 10 mai 2007 - art. 10 (V)
+	  - Décret n°2007-773 du 10 mai 2007 - art. 3 (V)
+	  - Décret n°2007-773 du 10 mai 2007 - art. 9 (V)
+	  - Décret n°2008-521 du 2 juin 2008 - art. 3 (V)
+	  - Code civil - art. 171-8 (V)
+
+	**Cite**:
+
+	  - Code civil - art. 144 (V)
+	  - Code civil - art. 146 (V)
+	  - Code civil - art. 146-1 (V)
+	  - Code civil - art. 147 (V)
+	  - Code civil - art. 161 (V)
+	  - Code civil - art. 162 (V)
+	  - Code civil - art. 163 (V)
+	  - Code civil - art. 171-2 (V)
+	  - Code civil - art. 180 (V)
+	  - Code civil - art. 191 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 171-8
+
+Lorsque les formalités prévues à l'article 171-2 ont été respectées et que le mariage a été célébré dans les formes usitées
+dans le pays, il est procédé à sa transcription sur les registres de l'état civil à moins que des éléments nouveaux fondés
+sur des indices sérieux laissent présumer que le mariage encourt la nullité au titre des articles 144, 146, 146-1, 147, 161,
+162, 163, 180 ou 191. 
+
+Dans ce dernier cas, l'autorité diplomatique ou consulaire, après avoir procédé à l'audition des époux, ensemble ou
+séparément, informe immédiatement le ministère public et sursoit à la transcription.
+
+A la demande de l'autorité diplomatique ou consulaire compétente au regard du lieu de célébration du mariage, l'audition est
+réalisée par l'officier de l'état civil du lieu du domicile ou de résidence en France des époux, ou par l'autorité
+diplomatique ou consulaire territorialement compétente si les époux ont leur domicile ou résidence à l'étranger. La
+réalisation de l'audition peut être déléguée à un ou plusieurs fonctionnaires titulaires chargés de l'état civil ou, le cas
+échéant, aux fonctionnaires dirigeant une chancellerie détachée ou aux consuls honoraires de nationalité française
+compétents. 
+
+Le procureur de la République dispose d'un délai de six mois à compter de sa saisine pour demander la nullité du mariage.
+Dans ce cas, les dispositions du dernier alinéa de l'article 171-7 sont applicables. 
+
+Si le procureur de la République ne s'est pas prononcé dans le délai de six mois, l'autorité diplomatique ou consulaire
+transcrit l'acte. La transcription ne fait pas obstacle à la possibilité de poursuivre ultérieurement l'annulation du mariage
+en application des articles 180 et 184.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2006-1376 du 14 novembre 2006 - art. 3 () JORF 15 novembre 2006 en vigueur le 1er mars 2007
+
+	**Cité par**:
+
+	  - Décret n°2007-773 du 10 mai 2007 - art. 10 (V)
+	  - Décret n°2007-773 du 10 mai 2007 - art. 11 (V)
+	  - Décret n°2007-773 du 10 mai 2007 - art. 3 (V)
+
+	**Cite**:
+
+	  - Code civil - art. 144 (V)
+	  - Code civil - art. 146 (V)
+	  - Code civil - art. 146-1 (V)
+	  - Code civil - art. 147 (V)
+	  - Code civil - art. 161 (V)
+	  - Code civil - art. 162 (V)
+	  - Code civil - art. 163 (V)
+	  - Code civil - art. 171-2 (V)
+	  - Code civil - art. 171-7 (V)
+	  - Code civil - art. 180 (V)
+	  - Code civil - art. 184 (V)
+	  - Code civil - art. 191 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
 
 
 ### Chapitre III : Des oppositions au mariage
@@ -8216,13 +8457,11 @@ Le ministère public peut former opposition pour les cas où il pourrait demande
 
 Lorsqu'il existe des indices sérieux laissant présumer, le cas échéant au vu de l'audition prévue par l'article 63, que le
 mariage envisagé est susceptible d'être annulé au titre de l'article 146 ou de l'article 180, l'officier de l'état civil peut
-saisir le procureur de la République. Il en informe les intéressés. (Dispositions déclarées non conformes à la Constitution
-par décision du Conseil constitutionnel n° 2003-484 DC du 20 novembre 2003.)
+saisir sans délai le procureur de la République. Il en informe les intéressés. 
 
 Le procureur de la République est tenu, dans les quinze jours de sa saisine, soit de laisser procéder au mariage, soit de
 faire opposition à celui-ci, soit de décider qu'il sera sursis à sa célébration, dans l'attente des résultats de l'enquête à
-laquelle il fait procéder. Il fait connaître sa décision motivée à l'officier de l'état civil, aux intéressés (Dispositions
-déclarées non conformes à la Constitution par décision du Conseil constitutionnel n° 2003-484 DC du 20 novembre 2003).
+laquelle il fait procéder. Il fait connaître sa décision motivée à l'officier de l'état civil, aux intéressés. 
 
 La durée du sursis décidé par le procureur de la République ne peut excéder un mois renouvelable une fois par décision
 spécialement motivée.
@@ -8238,13 +8477,13 @@ du tribunal de grande instance, qui statue dans les dix jours. La décision du p
 
 	**Modifié par**:
 
-	  - Loi n°2006-399 du 4 avril 2006 - art. 3 () JORF 5 avril 2006
+	  - Loi n°2006-1376 du 14 novembre 2006 - art. 4 () JORF 15 novembre 2006 en vigueur le 1er mars 2007
 
 	**Cite**:
 
 	  - Code civil - art. 146 (V)
-	  - Code civil - art. 180 (M)
-	  - Code civil - art. 63 (M)
+	  - Code civil - art. 180 (V)
+	  - Code civil - art. 63 (V)
 
 	**Codifié par**:
 
@@ -8253,15 +8492,25 @@ du tribunal de grande instance, qui statue dans les dix jours. La décision du p
 
 ###### Article 176
 
-Tout acte d'opposition énoncera la qualité qui donne à l'opposant le droit de la former ; il contiendra élection de domicile
-dans le lieu où le mariage devra être célébré ; il devra également contenir les motifs de l'opposition et reproduire le texte
-de loi sur lequel est fondée l'opposition : le tout à peine de nullité et de l'interdiction de l'officier ministériel qui
-aurait signé l'acte contenant opposition.
+Tout acte d'opposition énonce la qualité qui donne à l'opposant le droit de la former. Il contient également les motifs de
+l'opposition, reproduit le texte de loi sur lequel est fondée l'opposition et contient élection de domicile dans le lieu où
+le mariage doit être célébré. Toutefois, lorsque l'opposition est faite en application de l'article 171-4, le ministère
+public fait élection de domicile au siège de son tribunal. 
+
+Les prescriptions mentionnées au premier alinéa sont prévues à peine de nullité et de l'interdiction de l'officier
+ministériel qui a signé l'acte contenant l'opposition. 
 
 Après une année révolue, l'acte d'opposition cesse de produire effet. Il peut être renouvelé, sauf dans le cas visé par le
-deuxième alinéa de l'article 173 ci-dessus.
+deuxième alinéa de l'article 173. 
+
+Toutefois, lorsque l'opposition est faite par le ministère public, elle ne cesse de produire effet que sur décision
+judiciaire.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2006-1376 du 14 novembre 2006 - art. 5 () JORF 15 novembre 2006 en vigueur le 1er mars 2007
 
 	**Cité par**:
 
@@ -8269,15 +8518,12 @@ deuxième alinéa de l'article 173 ci-dessus.
 
 	**Cite**:
 
+	  - Code civil - art. 171-4 (V)
 	  - Code civil - art. 173 (V)
 
 	**Codifié par**:
 
 	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°1803-03-17 promulguée le 27 mars 1803
 
 
 ###### Article 177

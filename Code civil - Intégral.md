@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 2007-03-01
+Version Consolidée au 2007-03-06
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -15840,30 +15840,28 @@ l'alliance est décédée.
 ###### Article 367
 
 L'adopté doit des aliments à l'adoptant s'il est dans le besoin et, réciproquement, l'adoptant doit des aliments à l'adopté.
-
-L'obligation de se fournir des aliments continue d'exister entre l'adopté et ses père et mère. Cependant les père et mère de
-l'adopté ne sont tenus de lui fournir des aliments que s'il ne peut les obtenir de l'adoptant.
+Les père et mère de l'adopté ne sont tenus de lui fournir des aliments que s'il ne peut les obtenir de
+l'adoptant.L'obligation de fournir des aliments à ses père et mère cesse pour l'adopté dès lors qu'il a été admis en qualité
+de pupille de l'Etat ou pris en charge dans les délais prescrits à l'article L. 132-6 du code de l'action sociale et des
+familles.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°66-500 du 11 juillet 1966 - art. 1 () JORF 12 juillet 1966 en vigueur le 1er novembre 1966
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 11 (V)
-	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 12 (V)
-	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 13 (V)
-	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 7 (V)
+	  - Loi n°2007-293 du 5 mars 2007 - art. 5 () JORF 6 mars 2007
 
 	**Cité par**:
 
 	  - Code général des impôts, CGI. - art. 156 (VD)
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L132-6 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
 
 
 ###### Article 368
@@ -16261,8 +16259,8 @@ de nécessité que détermine la loi.
 
 ###### Article 371-4
 
-L'enfant a le droit d'entretenir des relations personnelles avec ses ascendants. Seuls des motifs graves peuvent faire
-obstacle à ce droit.
+L'enfant a le droit d'entretenir des relations personnelles avec ses ascendants. Seul l'intérêt de l'enfant peut faire
+obstacle à l'exercice de ce droit.
 
 Si tel est l'intérêt de l'enfant, le juge aux affaires familiales fixe les modalités des relations entre l'enfant et un
 tiers, parent ou non.
@@ -16277,13 +16275,9 @@ tiers, parent ou non.
 	  - Code de l'action sociale et des familles - art. R224-23 (V)
 	  - Code de procédure civile - art. 1180 (V)
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°93-22 1993-01-08 art. 63 *Mayotte*, art. 64 *date d'effet*
-
 	**Modifié par**:
 
-	  - Loi n°2002-305 du 4 mars 2002 - art. 4 () JORF 5 mars 2002
+	  - Loi n°2007-293 du 5 mars 2007 - art. 8 () JORF 6 mars 2007
 
 	**Codifié par**:
 
@@ -16458,14 +16452,17 @@ Si l'intérêt de l'enfant le commande, le juge peut confier l'exercice de l'aut
 
 L'exercice du droit de visite et d'hébergement ne peut être refusé à l'autre parent que pour des motifs graves.
 
+Lorsque la continuité et l'effectivité des liens de l'enfant avec ce parent l'exigent, le juge aux affaires familiales peut
+organiser le droit de visite dans un espace de rencontre désigné à cet effet.
+
 Ce parent conserve le droit et le devoir de surveiller l'entretien et l'éducation de l'enfant. Il doit être informé des choix
 importants relatifs à la vie de ce dernier. Il doit respecter l'obligation qui lui incombe en vertu de l'article 371-2.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2002-305 du 4 mars 2002 - art. 6 () JORF 5 mars 2002
+	  - Loi n°2007-293 du 5 mars 2007 - art. 22 () JORF 6 mars 2007
 
 	**Cite**:
 
@@ -16670,7 +16667,15 @@ A la demande de l'un des parents ou en cas de désaccord entre eux sur le mode d
 à titre provisoire une résidence en alternance dont il détermine la durée. Au terme de celle-ci, le juge statue
 définitivement sur la résidence de l'enfant en alternance au domicile de chacun des parents ou au domicile de l'un d'eux.
 
+Lorsque la résidence de l'enfant est fixée au domicile de l'un des parents, le juge aux affaires familiales statue sur les
+modalités du droit de visite de l'autre parent. Ce droit de visite, lorsque l'intérêt de l'enfant le commande, peut être
+exercé dans un espace de rencontre désigné par le juge.
+
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2007-293 du 5 mars 2007 - art. 22 () JORF 6 mars 2007
 
 	**Cite**:
 
@@ -16690,10 +16695,6 @@ définitivement sur la résidence de l'enfant en alternance au domicile de chacu
 	**Codifié par**:
 
 	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°2002-305 du 4 mars 2002 - art. 5 () JORF 5 mars 2002
 
 
 ###### Article 373-2-10
@@ -16971,15 +16972,30 @@ Elle est alors organisée selon les règles prévues au titre X.
 
 ###### Article 375
 
-Si la santé, la sécurité ou la moralité d'un mineur non émancipé sont en danger, ou si les conditions de son éducation sont
-gravement compromises, des mesures d'assistance éducative peuvent être ordonnées par justice à la requête des père et mère
-conjointement, ou de l'un d'eux, de la personne ou du service à qui l'enfant a été confié ou du tuteur, du mineur lui-même ou
-du ministère public. Le juge peut se saisir d'office à titre exceptionnel.
+Si la santé, la sécurité ou la moralité d'un mineur non émancipé sont en danger, ou si les conditions de son éducation ou de
+son développement physique, affectif, intellectuel et social sont gravement compromises, des mesures d'assistance éducative
+peuvent être ordonnées par justice à la requête des père et mère conjointement, ou de l'un d'eux, de la personne ou du
+service à qui l'enfant a été confié ou du tuteur, du mineur lui-même ou du ministère public. Dans les cas où le ministère
+public a été avisé par le président du conseil général, il s'assure que la situation du mineur entre dans le champ
+d'application de l'article L. 226-4 du code de l'action sociale et des familles. Le juge peut se saisir d'office à titre
+exceptionnel. 
 
-Elles peuvent être ordonnées en même temps pour plusieurs enfants relevant de la même autorité parentale.
+Elles peuvent être ordonnées en même temps pour plusieurs enfants relevant de la même autorité parentale. 
 
 La décision fixe la durée de la mesure sans que celle-ci puisse, lorsqu'il s'agit d'une mesure éducative exercée par un
-service ou une institution, excéder deux ans. La mesure peut être renouvelée par décision motivée.
+service ou une institution, excéder deux ans. La mesure peut être renouvelée par décision motivée. 
+
+Cependant, lorsque les parents présentent des difficultés relationnelles et éducatives graves, sévères et chroniques,
+évaluées comme telles dans l'état actuel des connaissances, affectant durablement leurs compétences dans l'exercice de leur
+responsabilité parentale, une mesure d'accueil exercée par un service ou une institution peut être ordonnée pour une durée
+supérieure, afin de permettre à l'enfant de bénéficier d'une continuité relationnelle, affective et géographique dans son
+lieu de vie dès lors qu'il est adapté à ses besoins immédiats et à venir. 
+
+Un rapport concernant la situation de l'enfant doit être transmis annuellement au juge des enfants.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
@@ -17029,12 +17045,7 @@ service ou une institution, excéder deux ans. La mesure peut être renouvelée 
 
 	**Modifié par**:
 
-	  - Loi n°87-570 du 22 juillet 1987 - art. 20 () JORF 24 juillet 1987
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°87-570 du 22 juillet 1987 - art. 29 (V)
-	  - SPEC_APPLI: Loi n°87-570 du 22 juillet 1987 - art. 30 (V)
+	  - Loi n°2007-293 du 5 mars 2007 - art. 14 () JORF 6 mars 2007
 
 	**Codifié par**:
 
@@ -17074,24 +17085,17 @@ personne qualifiée, soit un service d'observation, d'éducation ou de rééduca
 d'apporter aide et conseil à la famille, afin de surmonter les difficultés matérielles ou morales qu'elle rencontre. Cette
 personne ou ce service est chargé de suivre le développement de l'enfant et d'en faire rapport au juge périodiquement.
 
+Lorsqu'il confie un mineur à un service mentionné au premier alinéa, il peut autoriser ce dernier à lui assurer un
+hébergement exceptionnel ou périodique à condition que ce service soit spécifiquement habilité à cet effet. Chaque fois qu'il
+héberge le mineur en vertu de cette autorisation, le service en informe sans délai ses parents ou ses représentants légaux
+ainsi que le juge des enfants et le président du conseil général. Le juge est saisi de tout désaccord concernant cet
+hébergement.
+
 Le juge peut aussi subordonner le maintien de l'enfant dans son milieu à des obligations particulières, telles que celle de
 fréquenter régulièrement un établissement sanitaire ou d'éducation, ordinaire ou spécialisé, ou d'exercer une activité
 professionnelle.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°70-459 du 4 juin 1970 - art. 1 () JORF 5 juin 1970 en vigueur le 1er janvier 1971
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 10 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 11 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 12 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 13 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 9 (V)
-	  - SPEC_APPLI: Loi n°74-631 du 5 juillet 1974 - art. 21 (V)
 
 	**Cité par**:
 
@@ -17110,6 +17114,10 @@ professionnelle.
 	  - Code de procédure civile - art. 1187 (V)
 	  - Code de procédure civile - art. 1199 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2007-293 du 5 mars 2007 - art. 22 () JORF 6 mars 2007
+
 	**Codifié par**:
 
 	  - Loi n°1803-03-14
@@ -17117,21 +17125,26 @@ professionnelle.
 
 ###### Article 375-3
 
-S'il est nécessaire de retirer l'enfant de son milieu actuel, le juge peut décider de le confier :
+Si la protection de l'enfant l'exige, le juge des enfants peut décider de le confier : 
 
-1° A l'autre parent ;
+1° A l'autre parent ; 
 
-2° A un autre membre de la famille ou à un tiers digne de confiance ;
+2° A un autre membre de la famille ou à un tiers digne de confiance ; 
 
-3° A un service ou à un établissement sanitaire ou d'éducation, ordinaire ou spécialisé ;
+3° A un service départemental de l'aide sociale à l'enfance ; 
 
-4° A un service départemental de l'aide sociale à l'enfance.
+4° A un service ou à un établissement habilité pour l'accueil de mineurs à la journée ou suivant toute autre modalité de
+prise en charge ; 
 
-Toutefois, lorsqu'une requête en divorce a été présentée ou un jugement de divorce rendu entre les père et mère, ces mesures
-ne peuvent être prises que si un fait nouveau de nature à entraîner un danger pour le mineur s'est révélé postérieurement à
-la décision statuant sur les modalités de l'exercice de l'autorité parentale ou confiant l'enfant à un tiers. Elles ne
-peuvent faire obstacle à la faculté qu'aura le juge aux affaires familiales de décider, par application de l'article 373-3, à
-qui l'enfant devra être confié. Les mêmes règles sont applicables à la séparation de corps.
+5° A un service ou à un établissement sanitaire ou d'éducation, ordinaire ou spécialisé. 
+
+Toutefois, lorsqu'une requête en divorce a été présentée ou un jugement de divorce rendu entre les père et mère ou lorsqu'une
+requête en vue de statuer sur la résidence et les droits de visite afférents à un enfant a été présentée ou une décision
+rendue entre les père et mère, ces mesures ne peuvent être prises que si un fait nouveau de nature à entraîner un danger pour
+le mineur s'est révélé postérieurement à la décision statuant sur les modalités de l'exercice de l'autorité parentale ou
+confiant l'enfant à un tiers. Elles ne peuvent faire obstacle à la faculté qu'aura le juge aux affaires familiales de
+décider, par application de l'article 373-3, à qui l'enfant devra être confié. Les mêmes règles sont applicables à la
+séparation de corps.
 
 **Liens relatifs à cet article**
 
@@ -17169,17 +17182,14 @@ qui l'enfant devra être confié. Les mêmes règles sont applicables à la sép
 	  - Code de la sécurité sociale. - art. L543-3 (V)
 	  - Code de procédure civile - art. 1198 (V)
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°93-22 1993-01-08 art. 63 *Mayotte*, art. 64 *date d'effet*
-
 	**Modifié par**:
 
-	  - Loi n°2002-305 du 4 mars 2002 - art. 8 () JORF 5 mars 2002
+	  - Loi n°2007-293 du 5 mars 2007 - art. 17 () JORF 6 mars 2007
+	  - Loi n°2007-293 du 5 mars 2007 - art. 22 () JORF 6 mars 2007
 
 	**Cite**:
 
-	  - Code civil - art. 373-3 (M)
+	  - Code civil - art. 373-3 (V)
 
 	**Codifié par**:
 
@@ -17188,23 +17198,14 @@ qui l'enfant devra être confié. Les mêmes règles sont applicables à la sép
 
 ###### Article 375-4
 
-Dans les cas spécifiés aux 1°, 2° et 3° de l'article précédent, le juge peut charger, soit une personne qualifiée, soit un
-service d'observation, d'éducation ou de rééducation en milieu ouvert d'apporter aide et conseil à la personne ou au service
-à qui l'enfant a été confié ainsi qu'à la famille et de suivre le développement de l'enfant.
+Dans les cas spécifiés aux 1°, 2°, 4° et 5° de l'article précédent, le juge peut charger, soit une personne qualifiée, soit
+un service d'observation, d'éducation ou de rééducation en milieu ouvert d'apporter aide et conseil à la personne ou au
+service à qui l'enfant a été confié ainsi qu'à la famille et de suivre le développement de l'enfant. 
 
-Dans tous les cas, le juge peut assortir la remise de l'enfant des mêmes modalités que sous l'article 375-2, deuxième alinéa.
-Il peut aussi décider qu'il lui sera rendu compte périodiquement de la situation de l'enfant.
+Dans tous les cas, le juge peut assortir la remise de l'enfant des mêmes modalités que sous l'article 375-2, troisième
+alinéa. Il peut aussi décider qu'il lui sera rendu compte périodiquement de la situation de l'enfant.
 
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°87-570 du 22 juillet 1987 - art. 22 () JORF 24 juillet 1987
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°87-570 du 22 juillet 1987 - art. 29 (V)
-	  - SPEC_APPLI: Loi n°87-570 du 22 juillet 1987 - art. 30 (V)
 
 	**Cité par**:
 
@@ -17217,9 +17218,14 @@ Il peut aussi décider qu'il lui sera rendu compte périodiquement de la situati
 	  - Code de la famille et de l'aide sociale. - art. 95 (M)
 	  - Code de procédure civile - art. 1187 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2007-293 du 5 mars 2007 - art. 17 () JORF 6 mars 2007
+	  - Loi n°2007-293 du 5 mars 2007 - art. 22 () JORF 6 mars 2007
+
 	**Cite**:
 
-	  - Code civil - art. 375-2 (M)
+	  - Code civil - art. 375-2 (V)
 
 	**Codifié par**:
 
@@ -17229,25 +17235,14 @@ Il peut aussi décider qu'il lui sera rendu compte périodiquement de la situati
 ###### Article 375-5
 
 A titre provisoire mais à charge d'appel, le juge peut, pendant l'instance, soit ordonner la remise provisoire du mineur à un
-centre d'accueil ou d'observation, soit prendre l'une des mesures prévues aux articles 375-3 et 375-4.
+centre d'accueil ou d'observation, soit prendre l'une des mesures prévues aux articles 375-3 et 375-4. 
 
 En cas d'urgence, le procureur de la République du lieu où le mineur a été trouvé a le même pouvoir, à charge de saisir dans
-les huit jours le juge compétent, qui maintiendra, modifiera ou rapportera la mesure.
+les huit jours le juge compétent, qui maintiendra, modifiera ou rapportera la mesure. Si la situation de l'enfant le permet,
+le procureur de la République fixe la nature et la fréquence du droit de correspondance, de visite et d'hébergement des
+parents, sauf à les réserver si l'intérêt de l'enfant l'exige.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°70-459 du 4 juin 1970 - art. 1 () JORF 5 juin 1970 en vigueur le 1er janvier 1971
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 10 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 11 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 12 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 13 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 9 (V)
-	  - SPEC_APPLI: Loi n°74-631 du 5 juillet 1974 - art. 21 (V)
 
 	**Cité par**:
 
@@ -17273,10 +17268,14 @@ les huit jours le juge compétent, qui maintiendra, modifiera ou rapportera la m
 	  - Code de procédure civile - art. 1184 (V)
 	  - Code de procédure pénale - art. 230-19 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2007-293 du 5 mars 2007 - art. 22 () JORF 6 mars 2007
+
 	**Cite**:
 
-	  - Code civil - art. 375-3 (M)
-	  - Code civil - art. 375-4 (M)
+	  - Code civil - art. 375-3 (V)
+	  - Code civil - art. 375-4 (V)
 
 	**Codifié par**:
 
@@ -17312,25 +17311,35 @@ les a rendues soit d'office, soit à la requête des père et mère conjointemen
 
 ###### Article 375-7
 
-Les père et mère dont l'enfant a donné lieu à une mesure d'assistance éducative conservent sur lui leur autorité parentale et
-en exercent tous les attributs qui ne sont pas inconciliables avec l'application de la mesure. Ils ne peuvent émanciper
-l'enfant sans autorisation du juge des enfants, tant que la mesure d'assistance éducative reçoit application.
+Les père et mère de l'enfant bénéficiant d'une mesure d'assistance éducative continuent à exercer tous les attributs de
+l'autorité parentale qui ne sont pas inconciliables avec cette mesure. Ils ne peuvent, pendant la durée de cette mesure,
+émanciper l'enfant sans autorisation du juge des enfants. 
 
-S'il a été nécessaire de placer l'enfant hors de chez ses parents, ceux-ci conservent un droit de correspondance et un droit
-de visite. Le juge en fixe les modalités et peut même, si l'intérêt de l'enfant l'exige, décider que l'exercice de ces
-droits, ou de l'un d'eux, sera provisoirement suspendu. Le juge peut indiquer que le lieu de placement de l'enfant doit être
-recherché afin de faciliter, autant que possible, l'exercice du droit de visite par le ou les parents.
+Sans préjudice de l'article 373-4 et des dispositions particulières autorisant un tiers à accomplir un acte non usuel sans
+l'accord des détenteurs de l'autorité parentale, le juge des enfants peut exceptionnellement, dans tous les cas où l'intérêt
+de l'enfant le justifie, autoriser la personne, le service ou l'établissement à qui est confié l'enfant à exercer un acte
+relevant de l'autorité parentale en cas de refus abusif ou injustifié ou en cas de négligence des détenteurs de l'autorité
+parentale, à charge pour le demandeur de rapporter la preuve de la nécessité de cette mesure. 
+
+Le lieu d'accueil de l'enfant doit être recherché dans l'intérêt de celui-ci et afin de faciliter l'exercice du droit de
+visite et d'hébergement par le ou les parents et le maintien de ses liens avec ses frères et soeurs en application de
+l'article 371-5.
+
+S'il a été nécessaire de confier l'enfant à une personne ou un établissement, ses parents conservent un droit de
+correspondance ainsi qu'un droit de visite et d'hébergement. Le juge en fixe les modalités et peut, si l'intérêt de l'enfant
+l'exige, décider que l'exercice de ces droits, ou de l'un d'eux, est provisoirement suspendu. Il peut également décider que
+le droit de visite du ou des parents ne peut être exercé qu'en présence d'un tiers désigné par l'établissement ou le service
+à qui l'enfant est confié. 
+
+Si la situation de l'enfant le permet, le juge fixe la nature et la fréquence des droits de visite et d'hébergement et peut
+décider que leurs conditions d'exercice sont déterminées conjointement entre les titulaires de l'autorité parentale et la
+personne, le service ou l'établissement à qui l'enfant est confié, dans un document qui lui est alors transmis. Il est saisi
+en cas de désaccord. 
+
+Le juge peut décider des modalités de l'accueil de l'enfant en considération de l'intérêt de celui-ci. Si l'intérêt de
+l'enfant le nécessite ou en cas de danger, le juge décide de l'anonymat du lieu d'accueil.
 
 **Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 10 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 11 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 12 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 13 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 9 (V)
-	  - SPEC_APPLI: Loi n°74-631 du 5 juillet 1974 - art. 21 (V)
 
 	**Cité par**:
 
@@ -17344,7 +17353,12 @@ recherché afin de faciliter, autant que possible, l'exercice du droit de visite
 
 	**Modifié par**:
 
-	  - Loi n°98-657 du 29 juillet 1998 - art. 135 () JORF 31 juillet 1998
+	  - Loi n°2007-293 du 5 mars 2007 - art. 22 () JORF 6 mars 2007
+
+	**Cite**:
+
+	  - Code civil - art. 371-5 (V)
+	  - Code civil - art. 373-4 (V)
 
 	**Codifié par**:
 
@@ -17386,26 +17400,89 @@ en décharger en tout ou en partie.
 
 ###### Article 375-9
 
-La décision confiant le mineur, sur le fondement du 3° de l'article 375-3, à un établissement recevant des personnes
+La décision confiant le mineur, sur le fondement du 5° de l'article 375-3, à un établissement recevant des personnes
 hospitalisées en raison de troubles mentaux, est ordonnée après avis médical circonstancié d'un médecin extérieur à
-l'établissement, pour une durée ne pouvant excéder quinze jours.
+l'établissement, pour une durée ne pouvant excéder quinze jours. 
 
 La mesure peut être renouvelée, après avis médical conforme d'un psychiatre de l'établissement d'accueil, pour une durée d'un
 mois renouvelable.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Loi n°2002-303 du 4 mars 2002 - art. 19 () JORF 5 mars 2002
-
 	**Cité par**:
 
 	  - Loi n°2002-303 du 4 mars 2002 - art. 127 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2007-293 du 5 mars 2007 - art. 17 () JORF 6 mars 2007
+
 	**Cite**:
 
-	  - Code civil - art. 375-3 (M)
+	  - Code civil - art. 375-3 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+#### Section 2-1 : Mesure judiciaire d'aide à la gestion du budget familial
+
+###### Article 375-9-1
+
+Lorsque les prestations familiales ne sont pas employées pour les besoins liés au logement, à l'entretien, à la santé et à
+l'éducation des enfants et que l'accompagnement en économie sociale et familiale prévu à l'article L. 222-3 du code de
+l'action sociale et des familles n'apparaît pas suffisant, le juge des enfants peut ordonner qu'elles soient, en tout ou
+partie, versées à une personne physique ou morale qualifiée, dite "délégué aux prestations familiales".
+
+Ce délégué prend toutes décisions, en s'efforçant de recueillir l'adhésion des bénéficiaires des prestations familiales et de
+répondre aux besoins liés à l'entretien, à la santé et à l'éducation des enfants ; il exerce auprès de la famille une action
+éducative visant à rétablir les conditions d'une gestion autonome des prestations.
+
+La liste des personnes habilitées à saisir le juge aux fins d'ordonner cette mesure d'aide est fixée par décret.
+
+La décision fixe la durée de la mesure. Celle-ci ne peut excéder deux ans. Elle peut être renouvelée par décision motivée.
+
+Les dispositions prévues au présent article ne sont pas applicables à la prime forfaitaire prévue au 8° de l'article L. 511-1
+du code de la sécurité sociale.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2007-293 du 5 mars 2007 - art. 20 () JORF 6 mars 2007
+
+	**Cité par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 44 (V)
+	  - Décret n°2008-1498 du 22 décembre 2008 (V)
+	  - Décret n°2008-1506 du 30 décembre 2008 (V)
+	  - Décret n°2014-1287 du 23 octobre 2014 - art. (V)
+	  - Loi n°2016-297 du 14 mars 2016 - art. 6
+	  - Code civil - art. 375-9-2 (V)
+	  - Code civil - art. 495-5 (VD)
+	  - Code de l'action sociale et des familles - art. L141-1 (VD)
+	  - Code de l'action sociale et des familles - art. L221-4 (VD)
+	  - Code de l'action sociale et des familles - art. L222-4-1 (Ab)
+	  - Code de l'action sociale et des familles - art. L226-3-3 (V)
+	  - Code de l'action sociale et des familles - art. L361-2 (V)
+	  - Code de l'action sociale et des familles - art. L474-1 (V)
+	  - Code de l'action sociale et des familles - art. L474-4 (V)
+	  - Code de l'action sociale et des familles - art. L474-5 (V)
+	  - Code de l'action sociale et des familles - art. L474-8 (V)
+	  - Code de l'action sociale et des familles - art. R271-3 (V)
+	  - Code de l'action sociale et des familles - art. R271-6 (VD)
+	  - Code de l'action sociale et des familles - art. R272-2 (V)
+	  - Code de la sécurité sociale. - art. L434-12 (VD)
+	  - Code de la sécurité sociale. - art. L552-6 (VD)
+	  - Code de la sécurité sociale. - art. L755-4 (V)
+	  - Code de procédure civile - art. 1200-2 (V)
+	  - Code de procédure civile - art. 1200-3 (V)
+
+	**Cite**:
+
+	  - Code de la sécurité sociale. - art. L511-1 (M)
+	  - Code de l'action sociale et des familles - art. L222-3 (M)
 
 	**Codifié par**:
 
@@ -18418,13 +18495,20 @@ La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 ###### Article 388-1
 
 Dans toute procédure le concernant, le mineur capable de discernement peut, sans préjudice des dispositions prévoyant son
-intervention ou son consentement, être entendu par le juge ou la personne désignée par le juge à cet effet.
+intervention ou son consentement, être entendu par le juge ou, lorsque son intérêt le commande, par la personne désignée par
+le juge à cet effet.
 
-Lorsque le mineur en fait la demande, son audition ne peut être écartée que par une décision spécialement motivée. Il peut
-être entendu seul, avec un avocat ou une personne de son choix. Si ce choix n'apparaît pas conforme à l'intérêt du mineur, le
-juge peut procéder à la désignation d'une autre personne.
+Cette audition est de droit lorsque le mineur en fait la demande. Lorsque le mineur refuse d'être entendu, le juge apprécie
+le bien-fondé de ce refus. Il peut être entendu seul, avec un avocat ou une personne de son choix. Si ce choix n'apparaît pas
+conforme à l'intérêt du mineur, le juge peut procéder à la désignation d'une autre personne.
 
 L'audition du mineur ne lui confère pas la qualité de partie à la procédure.
+
+Le juge s'assure que le mineur a été informé de son droit à être entendu et à être assisté par un avocat.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 
 **Liens relatifs à cet article**
 
@@ -18448,17 +18532,13 @@ L'audition du mineur ne lui confère pas la qualité de partie à la procédure.
 	  - Code de procédure pénale - art. R224-2 (V)
 	  - Code de procédure pénale - art. R93 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°93-22 du 8 janvier 1993 - art. 53 () JORF 9 janvier 1993
+	  - Loi n°2007-293 du 5 mars 2007 - art. 9 () JORF 6 mars 2007
 
 	**Codifié par**:
 
 	  - Loi n°1803-03-14
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°2002-305 2002-305 2002-03-04 art. I (application à Mayotte)
 
 
 ###### Article 388-2

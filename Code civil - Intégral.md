@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 2007-03-07
+Version Consolidée au 2007-03-30
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -6020,23 +6020,23 @@ Mention de l'annulation du jugement déclaratif sera faite en marge de sa transc
 ###### Article 93
 
 Les actes de l'état civil concernant les militaires et les marins de l'Etat sont établis comme il est dit aux chapitres
-précédents.
+précédents. 
 
-Toutefois, hors de la France métropolitaine, et en cas de guerre, d'expédition, d'opération de maintien de l'ordre et de
-pacification ou de stationnement des troupes françaises en territoire étranger, en occupation ou en vertu d'accords
-intergouvernementaux, ces actes peuvent être également reçus par les officiers de l'état civil militaires désignés par arrêté
-du ministre des armées. Lesdits officiers de l'état civil sont également compétents à l'égard des non-militaires lorsque les
-dispositions des chapitres précédents sont inapplicables.
+Toutefois, en cas de guerre, d'opérations militaires conduites en dehors du territoire national ou de stationnement des
+forces armées françaises en territoire étranger, en occupation ou en vertu d'accords intergouvernementaux, ces actes peuvent
+être également reçus par les officiers de l'état civil militaires désignés par arrêté du ministre de la défense. Lesdits
+officiers de l'état civil sont également compétents à l'égard des non-militaires lorsque les dispositions des chapitres
+précédents sont inapplicables. 
 
-En France métropolitaine, les officiers de l'état civil ci-dessus visés peuvent recevoir les actes concernant les militaires
-et les non-militaires, dans les parties du territoire où, par suite de mobilisation ou de siège, le service municipal de
-l'état civil n'est plus régulièrement assuré.
+Sur le territoire national, les officiers de l'état civil susmentionnés peuvent recevoir les actes concernant les militaires
+et les non-militaires, dans les parties du territoire où, par suite de mobilisation ou de siège, le service de l'état civil
+n'est plus régulièrement assuré. 
 
-Les déclarations de naissance aux armées sont faites dans les dix jours qui suivent l'accouchement.
+Les déclarations de naissance aux armées sont faites dans les dix jours qui suivent l'accouchement. 
 
-Les actes de décès peuvent être dressés aux armées par dérogation à l'article 77 ci-dessus, bien que l'officier de l'état
-civil n'ait pu se transporter auprès de la personne décédée, et, par dérogation à l'article 78, ils ne peuvent y être dressés
-que sur l'attestation de deux déclarants.
+Les actes de décès peuvent être dressés aux armées, bien que l'officier de l'état civil n'ait pu se transporter auprès de la
+personne décédée. Par dérogation aux dispositions de l'article 78, ils peuvent y être dressés sur l'attestation de deux
+déclarants.
 
 **Liens relatifs à cet article**
 
@@ -6057,34 +6057,27 @@ que sur l'attestation de deux déclarants.
 
 	**Modifié par**:
 
-	  - Loi n°57-1232 du 28 novembre 1957 - art. 1 () JORF 20 novembre 1957
-	  - Ordonnance 58-779 1958-08-23 art. 2 JORF 30 août 1958
+	  - Ordonnance n°2007-465 du 29 mars 2007 - art. 3 () JORF 30 mars 2007
 
 	**Cite**:
 
-	  - Code civil - art. 77 (Ab)
 	  - Code civil - art. 78 (V)
 
 	**Codifié par**:
 
 	  - Loi n°1803-03-11
 
-	**Créé par**:
-
-	  - Loi n°1803-03-11 promulguée le 21 mars 1803
-
 
 ###### Article 95
 
 Dans les cas prévus aux alinéas 2 et 3 de l'article 93, les actes de l'état civil sont dressés sur un registre spécial, dont
-la tenue et la conservation sont réglées par arrêté conjoint du ministre de la défense nationale et des forces armées et du
-ministre des anciens combattants et victimes de guerre.
+la tenue et la conservation sont réglées par arrêté du ministre de la défense.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°57-1232 du 28 novembre 1957 - art. 1 () JORF 29 novembre 1957
+	  - Ordonnance n°2007-465 du 29 mars 2007 - art. 3 () JORF 30 mars 2007
 
 	**Cite**:
 
@@ -6094,23 +6087,60 @@ ministre des anciens combattants et victimes de guerre.
 
 	  - Loi n°1803-03-11
 
-	**Créé par**:
-
-	  - Loi n°1803-03-11 promulguée le 21 mars 1803
-
 
 ###### Article 96
 
 Lorsqu'un mariage est célébré dans l'un des cas prévus aux alinéas 2 et 3 de l'article 93, les publications sont faites, dans
 la mesure où les circonstances le permettent, au lieu du dernier domicile du futur époux ; elles sont en outre assurées, dans
-l'unité à laquelle l'intéressé appartient, dans les conditions fixées par arrêté du ministre de la défense nationale et des
-forces armées.
+l'unité à laquelle l'intéressé appartient, dans les conditions fixées par arrêté du ministre de la défense.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Ordonnance n°2007-465 du 29 mars 2007 - art. 3 () JORF 30 mars 2007
+
 	**Cite**:
 
-	  - Code civil - art. 93 (M)
+	  - Code civil - art. 93 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-11
+
+
+###### Article 96-1
+
+En cas de guerre ou d'opérations militaires conduites en dehors du territoire national, pour causes graves et sur
+autorisation, d'une part, du garde des sceaux, ministre de la justice, et, d'autre part, du ministre de la défense, il peut
+être procédé à la célébration du mariage des militaires sans que le futur époux comparaisse en personne et même si le futur
+époux est décédé, à la condition que le consentement au mariage ait été constaté dans les formes ci-après :
+
+1° Sur le territoire national, le consentement au mariage du futur époux est constaté par un acte dressé par l'officier de
+l'état civil du lieu où la personne se trouve en résidence ;
+
+2° Hors du territoire national ou dans tous les cas où le service de l'état civil ne serait plus assuré dans le lieu où la
+personne se trouve en résidence, l'acte de consentement est dressé par les officiers de l'état civil désignés à l'article
+93 ;
+
+3° Lorsqu'il s'agit de militaires prisonniers de guerre ou internés, ce consentement peut être établi par les agents
+diplomatiques ou consulaires de l'Etat étranger chargé des intérêts français dans les pays où ces militaires sont retenus en
+captivité ou par les autorités diplomatiques ou consulaires françaises accréditées dans les pays où ils sont internés. Il
+peut également être établi soit par deux officiers ou sous-officiers français, soit par un officier ou un sous-officier
+français assisté de deux témoins de même nationalité ;
+
+4° L'acte de consentement est lu par l'officier de l'état civil au moment de la célébration du mariage.
+
+Les actes de procuration et les actes de consentement au mariage de leurs enfants mineurs passés par les personnes
+susmentionnées peuvent être dressés dans les mêmes conditions que l'acte de consentement prévu aux alinéas précédents.
+
+Les modalités d'application du présent article sont fixées par voie réglementaire.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code civil - art. 96-2 (V)
 
 	**Codifié par**:
 
@@ -6118,11 +6148,26 @@ forces armées.
 
 	**Créé par**:
 
-	  - Loi n°1803-03-11 promulguée le 21 mars 1803
+	  - Ordonnance n°2007-465 du 29 mars 2007 - art. 3 () JORF 30 mars 2007
 
-	**Modifié par**:
 
-	  - Loi n°57-1232 du 28 novembre 1957 - art. 1 () JORF 29 novembre 1957
+###### Article 96-2
+
+Les effets du mariage mentionné à l'article 96-1 remontent à la date à laquelle le consentement du futur époux a été reçu.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2007-465 du 29 mars 2007 - art. 3 () JORF 30 mars 2007
+
+	**Cite**:
+
+	  - Code civil - art. 96-1 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-11
 
 
 ###### Article 97

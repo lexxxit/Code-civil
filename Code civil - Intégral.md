@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 2007-11-21
+Version Consolidée au 2007-12-22
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -3495,15 +3495,16 @@ juridictionnelles ayant trait à cette nationalité.
 
 ###### Article 28-1
 
-Les mentions relatives à la nationalité prévues à l'article précédent sont portées sur les copies des actes de naissance ou
-des actes dressés pour en tenir lieu.
+Les mentions relatives à la nationalité prévues à l'article précédent sont portées d'office sur les copies et les extraits
+avec indication de la filiation des actes de naissance ou des actes dressés pour en tenir lieu.
 
-Ces mentions sont également portées sur les extraits des actes de naissance ou sur le livret de famille à la demande des
-intéressés. Toutefois, la mention de la perte, de la déclination, de la déchéance, de l'opposition à l'acquisition de la
-nationalité française, du retrait du décret d'acquisition, de naturalisation ou de réintégration ou de la décision judiciaire
-ayant constaté l'extranéité est portée d'office sur les extraits des actes de naissance et sur le livret de famille
-lorsqu'une personne ayant antérieurement acquis cette nationalité, ou s'étant vu reconnaître judiciairement celle-ci, ou
-délivrer un certificat de nationalité française a demandé qu'il en soit fait mention sur lesdits documents.
+Ces mentions sont également portées sur les extraits sans indication de la filiation des actes de naissance ou sur le livret
+de famille à la demande des intéressés. Toutefois, la mention de la perte, de la déclination, de la déchéance, de
+l'opposition à l'acquisition de la nationalité française, du retrait du décret d'acquisition, de naturalisation ou de
+réintégration ou de la décision judiciaire ayant constaté l'extranéité est portée d'office sur tous les extraits des actes de
+naissance et sur le livret de famille lorsqu'une personne ayant antérieurement acquis cette nationalité, ou s'étant vu
+reconnaître judiciairement celle-ci, ou délivrer un certificat de nationalité française a demandé qu'il en soit fait mention
+sur lesdits documents.
 
 **Liens relatifs à cet article**
 
@@ -3515,13 +3516,9 @@ délivrer un certificat de nationalité française a demandé qu'il en soit fait
 	  - Décret n°2005-1726 du 30 décembre 2005 - art. 5 (V)
 	  - Décret n°2017-890 du 6 mai 2017 - art. 33 (VD)
 
-	**Codifié par**:
-
-	  - Loi n°93-933 1993-07-22
-
 	**Modifié par**:
 
-	  - Loi n°99-1141 du 29 décembre 1999 - art. 3 () JORF 30 décembre 1999
+	  - Loi n°2007-1787 du 20 décembre 2007 - art. 11
 
 	**Anciens textes**:
 
@@ -5043,22 +5040,19 @@ l'acte de naissance de l'enfant.
 
 Avant la célébration du mariage, l'officier de l'état civil fera une publication par voie d'affiche apposée à la porte de la
 maison commune. Cette publication énoncera les prénoms, noms, professions, domiciles et résidences des futurs époux, ainsi
-que le lieu où le mariage devra être célébré.
+que le lieu où le mariage devra être célébré. 
 
 La publication prévue au premier alinéa ou, en cas de dispense de publication accordée conformément aux dispositions de
-l'article 169, la célébration du mariage est subordonnée :
+l'article 169, la célébration du mariage est subordonnée : 
 
 1° A la remise, pour chacun des futurs époux, des indications ou pièces suivantes :
-
-- un certificat médical datant de moins de deux mois attestant, à l'exclusion de toute autre indication, que l'intéressé a
-été examiné en vue du mariage ;
 
 - les pièces exigées par les articles 70 ou 71 ;
 
 - la justification de l'identité au moyen d'une pièce délivrée par une autorité publique ;
 
 - l'indication des prénoms, nom, date et lieu de naissance, profession et domicile des témoins, sauf lorsque le mariage doit
-être célébré par une autorité étrangère ;
+être célébré par une autorité étrangère ; 
 
 2° A l'audition commune des futurs époux, sauf en cas d'impossibilité ou s'il apparaît, au vu des pièces fournies, que cette
 audition n'est pas nécessaire au regard des articles 146 et 180.
@@ -5110,18 +5104,14 @@ de grande instance et puni d'une amende de 3 à 30 euros.
 
 	**Modifié par**:
 
-	  - Loi n°2006-1376 du 14 novembre 2006 - art. 1 () JORF 15 novembre 2006 en vigueur le 1er mars 2007
+	  - Loi n°2007-1787 du 20 décembre 2007 - art. 8
 
 	**Cite**:
 
 	  - Code civil - art. 146 (V)
-	  - Code civil - art. 180 (M)
-	  - Code civil - art. 70 (M)
+	  - Code civil - art. 180 (V)
+	  - Code civil - art. 70 (V)
 	  - Code civil - art. 71 (V)
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-11
 
 
 ###### Article 64
@@ -6726,32 +6716,24 @@ chez laquelle ils travaillent, lorsqu'ils demeureront avec elle dans la même ma
 
 Lorsqu'un acte contiendra, de la part des parties ou de l'une d'elles, élection de domicile pour l'exécution de ce même acte
 dans un autre lieu que celui du domicile réel, les significations, demandes et poursuites relatives à cet acte pourront être
-faites au domicile convenu, et, sous réserve des dispositions de l'article 48 du nouveau code de procédure civile, devant le
-juge de ce domicile.
+faites au domicile convenu, et, sous réserve des dispositions de l'article 48 du code de procédure civile, devant le juge de
+ce domicile.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°75-1122 1975-12-05 art. 1 JORF 9 décembre 1975 en vigueur le 1er janvier 1976
+	  - Loi n°2007-1787 du 20 décembre 2007 - art. 26 (V)
 
 	**Cite**:
 
-	  - Code de procédure civile 48
+	  - Code de procédure civile - art. 48 (V)
 
 	**Cité par**:
 
 	  - Code de la famille et de l'aide sociale. - art. 193 (M)
 	  - Code monétaire et financier - art. R518-38 (V)
 	  - Ordonnance n°1816-07-03 du 3 juillet 1816 - art. 4 (Ab)
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°1803-03-14 promulguée le 24 mars 1803
 
 
 ## Titre IV : Des absents
@@ -8036,31 +8018,17 @@ La publication ordonnée à l'article 63 sera faite à la mairie du lieu du mari
 Le procureur de la République dans l'arrondissement duquel sera célébré le mariage peut dispenser, pour des causes graves, de
 la publication et de tout délai ou de l'affichage de la publication seulement.
 
-Il peut également, dans des cas exceptionnels, dispenser les futurs époux, ou l'un d'eux seulement, de la remise du
-certificat médical exigé par l'article 63.
-
-Le certificat médical n'est exigible d'aucun des futurs époux au cas de péril imminent de mort de l'un d'eux, prévu au
-deuxième alinéa de l'article 75 du présent code.
-
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2006-1376 du 14 novembre 2006 - art. 8 () JORF 15 novembre 2006 en vigueur le 1er mars 2007
+	  - Loi n°2007-1787 du 20 décembre 2007 - art. 8
 
 	**Cité par**:
 
 	  - Code civil - art. 165 (V)
 	  - Code civil - art. 171-2 (V)
 	  - Code civil - art. 63 (V)
-
-	**Cite**:
-
-	  - Code civil - art. 75 (M)
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
 
 
 ###### Article 171
@@ -28174,9 +28142,6 @@ autorités judiciaires ou administratives.
 La preuve de la qualité d'héritier peut résulter d'un acte de notoriété dressé par un notaire, à la demande d'un ou plusieurs
 ayants droit.
 
-A défaut de contrat de mariage ou de disposition de dernière volonté de l'auteur de celui qui requiert l'acte, l'acte de
-notoriété peut également être dressé par le greffier en chef du tribunal d'instance du lieu d'ouverture de la succession.
-
 L'acte de notoriété doit viser l'acte de décès de la personne dont la succession est ouverte et faire mention des pièces
 justificatives qui ont pu être produites, tels les actes de l'état civil et, éventuellement, les documents qui concernent
 l'existence de libéralités à cause de mort pouvant avoir une incidence sur la dévolution successorale.
@@ -28186,19 +28151,17 @@ qu'ils désignent, à recueillir tout ou partie de la succession du défunt.
 
 Toute personne dont les dires paraîtraient utiles peut être appelée à l'acte.
 
+Il est fait mention de l'existence de l'acte de notoriété en marge de l'acte de décès.
+
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2007-1787 du 20 décembre 2007 - art. 9
 
 	**Cité par**:
 
 	  - Décret n°2008-1484 du 22 décembre 2008 - art. Annexe 1 (V)
-
-	**Codifié par**:
-
-	  - Loi n°1803-04-19
-
-	**Créé par**:
-
-	  - Loi n°2001-1135 du 3 décembre 2001 - art. 19 () JORF 4 décembre 2001 en vigueur le 1er juillet 2002
 
 
 ###### Article 730-2
@@ -47013,20 +46976,16 @@ régimes matrimoniaux, faite à La Haye le 14 mars 1978, il est fait application
 Lorsque la désignation de la loi applicable est faite avant le mariage, les futurs époux présentent à l'officier de l'état
 civil soit l'acte par lequel ils ont opéré cette désignation, soit un certificat délivré par la personne compétente pour
 établir cet acte. Le certificat énonce les noms et prénoms des futurs époux, le lieu où ils demeurent, la date de l'acte de
-désignation, ainsi que les nom, qualité et résidence de la personne qui l'a établi.
+désignation, ainsi que les nom, qualité et résidence de la personne qui l'a établi. 
 
 Lorsque la désignation de la loi applicable est faite au cours du mariage, les époux font procéder aux mesures de publicité
-relatives à la désignation de la loi applicable dans les conditions et formes prévues au nouveau code de procédure civile.
-S'ils ont passé un contrat de mariage, mention de la loi applicable ainsi désignée est portée sur la minute de celui-ci.
+relatives à la désignation de la loi applicable dans les conditions et formes prévues au code de procédure civile. S'ils ont
+passé un contrat de mariage, mention de la loi applicable ainsi désignée est portée sur la minute de celui-ci.
 
 A l'occasion de la désignation de la loi applicable, avant le mariage ou au cours de celui-ci, les époux peuvent désigner la
 nature du régime matrimonial choisi par eux.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°65-570 1965-07-13
 
 	**Cité par**:
 
@@ -47045,7 +47004,7 @@ nature du régime matrimonial choisi par eux.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-428 du 6 mai 2005 - art. 9 () JORF 7 mai 2005
+	  - Loi n°2007-1787 du 20 décembre 2007 - art. 26 (V)
 
 
 ###### Article 1397-4
@@ -47079,13 +47038,9 @@ dans les actes passés avec eux, les époux ont déclaré la loi applicable à l
 ###### Article 1397-5
 
 Lorsqu'un changement au régime matrimonial intervient par application d'une loi étrangère régissant les effets de l'union,
-les époux font procéder aux formalités de publicité prévues au nouveau code de procédure civile.
+les époux font procéder aux formalités de publicité prévues au    code de procédure civile.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°65-570 1965-07-13
 
 	**Cité par**:
 
@@ -47096,9 +47051,9 @@ les époux font procéder aux formalités de publicité prévues au nouveau code
 	  - Arrêté du 9 février 1988 - art. Annexe VI (V)
 	  - Code civil - art. 1397-6 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°97-987 du 28 octobre 1997 - art. 4 () JORF 29 octobre 1997
+	  - Loi n°2007-1787 du 20 décembre 2007 - art. 26 (V)
 
 
 ###### Article 1397-6

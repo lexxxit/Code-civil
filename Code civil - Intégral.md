@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 2007-12-22
+Version Consolidée au 2008-01-01
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -70679,9 +70679,7 @@ Le présent code est applicable à Mayotte dans les conditions définies au pré
 
 Pour l'application du présent code à Mayotte, les termes énumérés ci-après sont remplacés comme suit :
 
-1° "Tribunal de grande instance" ou "tribunal d'instance" par :
-
-"tribunal de première instance" ;
+1° "Tribunal de grande instance" ou "tribunal d'instance" par : "tribunal de première instance" ;
 
 2° "Cour" ou "cour d'appel" par : "tribunal supérieur d'appel" ;
 
@@ -70689,26 +70687,33 @@ Pour l'application du présent code à Mayotte, les termes énumérés ci-après
 
 4° "Département" ou "arrondissement" par : "collectivité départementale" ;
 
-5° (Supprimé).
+5° (Supprimé) ;
 
-**Nota:**
+6° "Décret du 4 janvier 1955" par : "dispositions du titre IV du livre IV" ;
 
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2008.
+7° "Bureau des hypothèques" ou "conservation des hypothèques" par : "service de la conservation de la propriété
+immobilière" ;
+
+8° "Conservateur des hypothèques" par : "conservateur de la propriété immobilière" ;
+
+9° "Inscription à la conservation des hypothèques" par : "inscription au livre foncier" ;
+
+10° "Fichier immobilier" par : "livre foncier".
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Codifié par**:
 
-	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 1 () JORF 24 mars 2006
+	  - Loi n°1804-03-15
+
+	**Modifié par**:
+
+	  - Ordonnance n°2005-870 du 28 juillet 2005 - art. 2 () JORF 29 juillet 2005 en vigueur le 1er janvier 2008
 
 	**Anciens textes**:
 
 	  - Code civil - art. 2285 (M)
 	  - Code civil - art. 2285 (T)
-
-	**Codifié par**:
-
-	  - Loi n°1804-03-15
 
 
 ## Titre préliminaire : Dispositions relatives au titre préliminaire
@@ -71051,17 +71056,16 @@ naissance, l'acte de naissance de l'enfant est dressé sans indication de cette 
 
 ###### Article 2500
 
-Les articles 516 à 710 sont applicables à Mayotte sous réserve des adaptations figurant aux articles 2501 et 2502.
+Les articles 516 à 710, à l'exception des articles 642 et 643, sont applicables à Mayotte sous réserve des adaptations
+prévues aux articles 2501 et 2502. 
 
-**Nota:**
-
-NOTA : La présente version de cet article est en vigueur jusqu'au 1er janvier 2008.
+Les dispositions intéressant les immeubles ne s'appliquent que sous réserve des dispositions du titre IV du présent livre.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 1 () JORF 24 mars 2006
+	  - Ordonnance n°2005-870 du 28 juillet 2005 - art. 3 () JORF 29 juillet 2005 en vigueur le 1er janvier 2008
 
 	**Anciens textes**:
 
@@ -71071,7 +71075,9 @@ NOTA : La présente version de cet article est en vigueur jusqu'au 1er janvier 2
 
 	  - Code civil - art. 2501 (V)
 	  - Code civil - art. 2502 (V)
-	  - Code civil 516 à 710, 2501, 2502
+	  - Code civil - art. 516 (V)
+	  - Code civil - art. 642 (V)
+	  - Code civil - art. 643 (V)
 
 	**Codifié par**:
 
@@ -71141,30 +71147,24 @@ par les mots : " pisciculture ou enclos piscicoles ".
 
 ###### Article 2503
 
-Les articles 711 à 832-1 et 833 à 2283 sont applicables à Mayotte sous réserve des adaptations figurant aux articles 2504 à
+Les articles 711 à 832-2, 832-4 à 2283 sont applicables à Mayotte sous réserve des adaptations figurant aux articles 2504 à
 2508.
 
-**Nota:**
-
-NOTA : La présente version de cet article est en vigueur jusqu'au 1er janvier 2008.
+Les dispositions intéressant les immeubles ne s'appliquent que sous réserve des dispositions du titre IV du présent livre.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Ordonnance n°2005-870 du 28 juillet 2005 - art. 4 () JORF 29 juillet 2005 en vigueur le 1er janvier 2008
 
 	**Anciens textes**:
 
 	  - Code civil - art. 2297 (T)
 
-	**Cite**:
-
-	  - Code civil 711 à 832-1, 833 à 2283, 2504 à 2508
-
 	**Codifié par**:
 
 	  - Loi n°1804-03-15
-
-	**Modifié par**:
-
-	  - Loi n°2006-728 du 23 juin 2006 - art. 40 (V) JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 2504
@@ -71258,21 +71258,64 @@ Pour l'application à Mayotte de l'article 1873-13, les mots : " 831 à 832-1, 8
 
 ###### Article 2508
 
-Les dispositions du titre XIX du livre III et du titre II du livre IV sont applicables à Mayotte telles qu'aménagées par les
-dispositions du décret du 4 février 1911 portant réorganisation du régime de la propriété foncière à Madagascar, modifié par
-le décret du 6 mai 1916, et du décret du 9 juin 1931 portant réorganisation du régime de la propriété foncière dans
-l'archipel des Comores et suppression de la conservation des hypothèques de Dzaoudzi.
+Les dispositions du titre XIX du livre III et du titre II du livre IV sont applicables à Mayotte sous réserve des
+dispositions du titre IV du présent livre et des dispositions suivantes : 
 
-**Nota:**
+1° Le 4° de l'article 2331 est applicable à Mayotte dans les conditions suivantes : 
 
-NOTA : La présente version de cet article est en vigueur jusqu'au 1er janvier 2008.
+a) Au premier alinéa, les mots : " articles L. 143-10, L. 143-11, L. 742-6 et L. 751-15 du code du travail " sont remplacés
+par les mots : " articles L. 143-9 et L. 143-10 du code du travail applicable dans la collectivité départementale de Mayotte
+" ; 
+
+b) Le troisième alinéa n'est pas applicable ; 
+
+c) Le quatrième alinéa est remplacé par les dispositions suivantes : 
+
+" La créance du conjoint survivant du chef d'une entreprise artisanale ou commerciale qui justifie par tous moyens avoir
+participé directement et effectivement à l'activité de l'entreprise pendant au moins dix années, sans recevoir de salaire ni
+être associé aux bénéfices et aux pertes de l'entreprise. 
+
+" Les droits de créance précités sont d'un montant égal à trois fois le salaire minimum interprofessionnel garanti annuel en
+vigueur au jour du décès dans la limite de 25 % de l'actif successoral et, le cas échéant, le montant des droits propres du
+conjoint survivant dans les opérations de partage successoral et de liquidation du régime matrimonial est diminué de celui de
+cette créance. Pour la liquidation des droits de succession, cette créance s'ajoute à la part du conjoint survivant " ; 
+
+d) Le cinquième alinéa est remplacé par les dispositions suivantes : 
+
+" Les rémunérations pour les six derniers mois des salariés et apprentis " ; 
+
+e) Le sixième alinéa n'est pas applicable ; 
+
+f) Le septième alinéa est remplacé par les dispositions suivantes : 
+
+" L'indemnité due en raison de l'inobservation du délai-congé prévue à l'article L. 122-21 du code du travail applicable dans
+la collectivité départementale de Mayotte " ; 
+
+g) Au neuvième alinéa, les mots : " des articles L. 122-9, L. 122-32-6, L. 761-5 et L. 761-7 ainsi que l'indemnité prévue à
+l'article L. 321-6 du code du travail pour la totalité de la portion inférieure ou égale au plafond visé à l'article L.
+143-10 du code du travail et pour le quart de la portion supérieure audit plafond " sont remplacés par les mots : " de
+l'article L. 122-22 du code du travail applicable dans la collectivité départementale de Mayotte ou des articles 80 c et 80 d
+de la loi du 29 mars 1935 relative au statut du journaliste " ; 
+
+h) Au dixième alinéa, les mots : " des articles L. 122-3-8, deuxième alinéa, L. 122-14-4, L. 122-14-5, deuxième alinéa, L.
+122-32-7 et L. 122-32-9 du code du travail " sont remplacés par les mots : " des articles L. 122-10 et L. 122-29 du code du
+travail applicable dans la collectivité départementale de Mayotte " ; 
+
+2° A l'article 2332, le 9° n'est pas applicable ; 
+
+3° A l'article 2377, les mots : " par une inscription à la conservation des hypothèques, de la manière déterminée par les
+articles suivants et par les articles 2426 et 2428 " sont remplacés par les mots : " par inscription sur le livre foncier
+tenu par le conservateur de la propriété immobilière, de la manière déterminée par la loi, et à compter de la date de cette
+inscription, sous réserve des exceptions prévues par les articles suivants " ; 
+
+4° Aux articles 2425 et 2431, la référence au registre prévu à l'article 2453 est remplacée par la référence au registre des
+dépôts des actes et documents à inscrire.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 1 () JORF 24 mars 2006
-	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 50 () JORF 24 mars 2006
+	  - Ordonnance n°2005-870 du 28 juillet 2005 - art. 5 () JORF 29 juillet 2005 en vigueur le 1er janvier 2008
 
 	**Anciens textes**:
 
@@ -71280,9 +71323,13 @@ NOTA : La présente version de cet article est en vigueur jusqu'au 1er janvier 2
 
 	**Cite**:
 
-	  - Décret n°1911-02-04
-	  - Décret n°1916-05-06
-	  - Décret n°1931-06-09
+	  - Code civil - art. 2331 (V)
+	  - Code civil - art. 2332 (V)
+	  - Code civil - art. 2377 (V)
+	  - Code civil - art. 2425 (V)
+	  - Code civil - art. 2431 (V)
+	  - Code civil - art. 2453 (V)
+	  - Code du travail - art. L122-21 (Ab)
 
 	**Codifié par**:
 

@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 2008-05-28
+Version Consolidée au 2008-06-19
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -8633,17 +8633,13 @@ du mariage.
 ###### Article 181
 
 Dans le cas de l'article précédent, la demande en nullité n'est plus recevable à l'issue d'un délai de cinq ans à compter du
-mariage ou depuis que l'époux a acquis sa pleine liberté ou que l'erreur a été par lui reconnue.
+mariage.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
 	**Modifié par**:
 
-	  - Loi n°2006-399 du 4 avril 2006 - art. 6 () JORF 5 avril 2006
+	  - Loi n°2008-561 du 17 juin 2008 - art. 7
 
 	**Liens**:
 
@@ -8693,13 +8689,22 @@ l'âge compétent pour consentir par lui-même au mariage.
 ###### Article 184
 
 Tout mariage contracté en contravention aux dispositions contenues aux articles 144, 146, 146-1, 147, 161, 162 et 163 peut
-être attaqué soit par les époux eux-mêmes, soit par tous ceux qui y ont intérêt, soit par le ministère public.
+être attaqué, dans un délai de trente ans à compter de sa célébration, soit par les époux eux-mêmes, soit par tous ceux qui y
+ont intérêt, soit par le ministère public.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°93-1027 du 24 août 1993 - art. 31 () JORF 29 août 1993
+	  - Loi n°2008-561 du 17 juin 2008 - art. 7
+
+	**Cite**:
+
+	  - Code civil - art. 144
+	  - Code civil - art. 146
+	  - Code civil - art. 147
+	  - Code civil - art. 161
+	  - Code civil - art. 162
 
 	**Cité par**:
 
@@ -8707,14 +8712,6 @@ Tout mariage contracté en contravention aux dispositions contenues aux articles
 	  - Code civil - art. 171-8 (V)
 	  - Code civil - art. 187 (V)
 	  - Code civil - art. 190 (V)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code civil - art. 185 (Ab)
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
 
 
 ###### Article 187
@@ -8793,10 +8790,14 @@ mariage, du vivant des deux époux, et les faire condamner à se séparer.
 ###### Article 191
 
 Tout mariage qui n'a point été contracté publiquement, et qui n'a point été célébré devant l'officier public compétent, peut
-être attaqué par les époux eux-mêmes, par les père et mère, par les ascendants et par tous ceux qui y ont un intérêt né et
-actuel, ainsi que par le ministère public.
+être attaqué, dans un délai de trente ans à compter de sa célébration, par les époux eux-mêmes, par les père et mère, par les
+ascendants et par tous ceux qui y ont un intérêt né et actuel, ainsi que par le ministère public.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2008-561 du 17 juin 2008 - art. 7
 
 	**Cité par**:
 
@@ -8804,14 +8805,6 @@ actuel, ainsi que par le ministère public.
 	  - Code civil - art. 171-4 (V)
 	  - Code civil - art. 171-7 (V)
 	  - Code civil - art. 171-8 (V)
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°1803-03-17 promulguée le 27 mars 1803
 
 
 ###### Article 192
@@ -35235,9 +35228,9 @@ ventes partielles, le produit de ces ventes est versé aux cohéritiers et imput
 
 Après discussion préalable des biens du débiteur de l'indemnité en réduction et en cas d'insolvabilité de ce dernier, les
 héritiers réservataires peuvent exercer l'action en réduction ou revendication contre les tiers détenteurs des immeubles
-faisant partie des libéralités et aliénés par le gratifié. L'action est exercée de la même manière que contre les gratifiés
+faisant partie des libéralités et aliénés par le gratifié.L'action est exercée de la même manière que contre les gratifiés
 eux-mêmes et suivant l'ordre des dates des aliénations, en commençant par la plus récente. Elle peut être exercée contre les
-tiers détenteurs de meubles lorsque l'article 2279 ne peut être invoqué.
+tiers détenteurs de meubles lorsque l'article 2276 ne peut être invoqué. 
 
 Lorsque, au jour de la donation ou postérieurement, le donateur et tous les héritiers réservataires présomptifs ont consenti
 à l'aliénation du bien donné, aucun héritier réservataire, même né après que le consentement de tous les héritiers intéressés
@@ -35246,13 +35239,13 @@ a été recueilli, ne peut exercer l'action contre les tiers détenteurs. S'agis
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Loi n°1803-05-03
+	  - Loi n°2008-561 du 17 juin 2008 - art. 3
 
-	**Créé par**:
+	**Cite**:
 
-	  - Loi n°2006-728 du 23 juin 2006 - art. 13 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+	  - Code civil - art. 2276
 
 
 ###### Article 926
@@ -54349,6 +54342,81 @@ distinctif.
 	  - Loi n°1804-03-07
 
 
+###### Article 1792-4-1
+
+Toute personne physique ou morale dont la responsabilité peut être engagée en vertu des articles 1792 à 1792-4 du présent
+code est déchargée des responsabilités et garanties pesant sur elle, en application des articles 1792 à 1792-2, après dix ans
+à compter de la réception des travaux ou, en application de l'article 1792-3, à l'expiration du délai visé à cet article.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°67-223 du 17 mars 1967 - art. 28 (VD)
+	  - Code de la construction et de l'habitation. - art. L111-20 (V)
+	  - Code de la construction et de l'habitation. - art. L111-24 (V)
+	  - Code de la construction et de l'habitation. - art. L111-33 (V)
+	  - Code des assurances - art. L243-2 (V)
+
+	**Créé par**:
+
+	  - Loi n°2008-561 du 17 juin 2008 - art. 1
+
+	**Cite**:
+
+	  - Code civil - art. 1792 (V)
+	  - Code civil - art. 1792-3 (V)
+
+	**Anciens textes**:
+
+	  - Code civil - art. 2270 (M)
+
+
+###### Article 1792-4-2
+
+Les actions en responsabilité dirigées contre un sous-traitant en raison de dommages affectant un ouvrage ou des éléments
+d'équipement d'un ouvrage mentionnés aux articles 1792 et 1792-2 se prescrivent par dix ans à compter de la réception des
+travaux et, pour les dommages affectant ceux des éléments d'équipement de l'ouvrage mentionnés à l'article 1792-3, par deux
+ans à compter de cette même réception.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2008-561 du 17 juin 2008 - art. 1
+
+	**Cite**:
+
+	  - Code civil - art. 1792 (V)
+	  - Code civil - art. 1792-3 (V)
+
+	**Anciens textes**:
+
+	  - Code civil - art. 2270-2 (T)
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. L111-20 (V)
+
+
+###### Article 1792-4-3
+
+En dehors des actions régies par les articles 1792-3, 1792-4-1 et 1792-4-2, les actions en responsabilité dirigées contre les
+constructeurs désignés aux articles 1792 et 1792-1 et leurs sous-traitants se prescrivent par dix ans à compter de la
+réception des travaux.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2008-561 du 17 juin 2008 - art. 1
+
+	**Cite**:
+
+	  - Code civil - art. 1792
+	  - Code civil - art. 1792-3
+
+
 ###### Article 1792-5
 
 Toute clause d'un contrat qui a pour objet, soit d'exclure ou de limiter la responsabilité prévue aux articles 1792, 1792-1
@@ -62457,93 +62525,85 @@ la distribution.
 
 ###### Article 2219
 
-La prescription est un moyen d'acquérir ou de se libérer par un certain laps de temps, et sous les conditions déterminées par
-la loi.
+La prescription extinctive est un mode d'extinction d'un droit résultant de l'inaction de son titulaire pendant un certain
+laps de temps.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Loi n°1804-03-15
-
-	**Créé par**:
-
-	  - Loi n°1804-03-15 promulguée le 25 mars 1804
+	  - Loi n°2008-561 du 17 juin 2008 - art. 1
 
 
 ###### Article 2220
 
-On ne peut, d'avance, renoncer à la prescription : on peut renoncer à la prescription acquise.
+Les délais de forclusion ne sont pas, sauf dispositions contraires prévues par la loi, régis par le présent titre.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Loi n°1804-03-15
-
-	**Créé par**:
-
-	  - Loi n°1804-03-15 promulguée le 25 mars 1804
+	  - Loi n°2008-561 du 17 juin 2008 - art. 1
 
 
 ###### Article 2221
 
-La renonciation à la prescription est expresse ou tacite ; la renonciation tacite résulte d'un fait qui suppose l'abandon du
-droit acquis.
+La prescription extinctive est soumise à la loi régissant le droit qu'elle affecte.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2008-561 du 17 juin 2008 - art. 1
 
 	**Cité par**:
 
 	  - Code civil - art. 2259 (V)
-
-	**Codifié par**:
-
-	  - Loi n°1804-03-15
-
-	**Créé par**:
-
-	  - Loi n°1804-03-15 promulguée le 25 mars 1804
 
 
 ###### Article 2222
 
-Celui qui ne peut aliéner ne peut renoncer à la prescription acquise.
+La loi qui allonge la durée d'une prescription ou d'un délai de forclusion est sans effet sur une prescription ou une
+forclusion acquise. Elle s'applique lorsque le délai de prescription ou le délai de forclusion n'était pas expiré à la date
+de son entrée en vigueur. Il est alors tenu compte du délai déjà écoulé. 
+
+En cas de réduction de la durée du délai de prescription ou du délai de forclusion, ce nouveau délai court à compter du jour
+de l'entrée en vigueur de la loi nouvelle, sans que la durée totale puisse excéder la durée prévue par la loi antérieure.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2008-561 du 17 juin 2008 - art. 1
 
 	**Cité par**:
 
 	  - Code civil - art. 2259 (V)
 
-	**Codifié par**:
-
-	  - Loi n°1804-03-15
-
-	**Créé par**:
-
-	  - Loi n°1804-03-15 promulguée le 25 mars 1804
-
 
 ###### Article 2223
 
-Les juges ne peuvent pas suppléer d'office le moyen résultant de la prescription.
+Les dispositions du présent titre ne font pas obstacle à l'application des règles spéciales prévues par d'autres lois.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Loi n°1804-03-15
+	  - Loi n°2008-561 du 17 juin 2008 - art. 1
 
-	**Créé par**:
 
-	  - Loi n°1804-03-15 promulguée le 25 mars 1804
+## Titre XX : De la prescription extinctive
 
+### Chapitre Ier : Dispositions générales.
+
+### Chapitre II : Des délais et du point de départ de la prescription extinctive.
+
+#### Section 1 : Du délai de droit commun et de son point de départ.
 
 ###### Article 2224
 
-La prescription peut être opposée en tout état de cause, même devant la cour d'appel, à moins que la partie qui n'aurait pas
-opposé le moyen de la prescription ne doive, par les circonstances, être présumée y avoir renoncé.
+Les actions personnelles ou mobilières se prescrivent par cinq ans à compter du jour où le titulaire d'un droit a connu ou
+aurait dû connaître les faits lui permettant de l'exercer.
 
 **Liens relatifs à cet article**
 
@@ -62564,38 +62624,38 @@ opposé le moyen de la prescription ne doive, par les circonstances, être prés
 	  - Code du travail applicable à Mayotte. - art. L143-13 (VD)
 	  - Code du travail applicable à Mayotte. - art. L143-15 (V)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Loi n°1804-03-15
+	  - Loi n°2008-561 du 17 juin 2008 - art. 1
 
-	**Créé par**:
 
-	  - Loi n°1804-03-15 promulguée le 25 mars 1804
-
+#### Section 2 : De quelques délais et points de départ particuliers.
 
 ###### Article 2225
 
-Les créanciers, ou toute autre personne ayant intérêt à ce que la prescription soit acquise, peuvent l'opposer, encore que le
-débiteur ou le propriétaire y renonce.
+L'action en responsabilité dirigée contre les personnes ayant représenté ou assisté les parties en justice, y compris à
+raison de la perte ou de la destruction des pièces qui leur ont été confiées, se prescrit par cinq ans à compter de la fin de
+leur mission.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2008-561 du 17 juin 2008 - art. 1
 
 	**Cité par**:
 
 	  - Loi n°2008-561 du 17 juin 2008 - art. 25 (V)
 
-	**Codifié par**:
-
-	  - Loi n°1804-03-15
-
-	**Créé par**:
-
-	  - Loi n°1804-03-15 promulguée le 25 mars 1804
-
 
 ###### Article 2226
 
-On ne peut prescrire le domaine des choses qui ne sont point dans le commerce.
+L'action en responsabilité née à raison d'un événement ayant entraîné un dommage corporel, engagée par la victime directe ou
+indirecte des préjudices qui en résultent, se prescrit par dix ans à compter de la date de la consolidation du dommage
+initial ou aggravé. 
+
+Toutefois, en cas de préjudice causé par des tortures ou des actes de barbarie, ou par des violences ou des agressions
+sexuelles commises contre un mineur, l'action en responsabilité civile est prescrite par vingt ans.
 
 **Liens relatifs à cet article**
 
@@ -62608,76 +62668,52 @@ On ne peut prescrire le domaine des choses qui ne sont point dans le commerce.
 	  - Code des assurances - art. L211-19 (V)
 	  - Code des assurances - art. L422-3 (V)
 
-	**Transféré par**:
+	**Modifié par**:
 
-	  - Loi n°2008-561 du 17 juin 2008 - art. 2
-
-	**Nouveaux textes**:
-
-	  - Code civil - art. 2260 (V)
+	  - Loi n°2008-561 du 17 juin 2008 - art. 1
 
 
 ###### Article 2227
 
-L'Etat, les établissements publics et les communes sont soumis aux mêmes prescriptions que les particuliers, et peuvent
-également les opposer.
+Le droit de propriété est imprescriptible. Sous cette réserve, les actions réelles immobilières se prescrivent par trente ans
+à compter du jour où le titulaire d'un droit a connu ou aurait dû connaître les faits lui permettant de l'exercer.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2008-561 du 17 juin 2008 - art. 1
 
 	**Cité par**:
 
 	  - Code civil - art. 2232 (V)
 	  - Code de la construction et de l'habitation. - art. L631-7-1 (VT)
 
-	**Codifié par**:
 
-	  - Loi n°1804-03-15
+### Chapitre III : Du cours de la prescription extinctive.
 
-	**Créé par**:
-
-	  - Loi n°1804-03-15 promulguée le 25 mars 1804
-
-
-### Chapitre II : De la possession.
+#### Section 1 : Dispositions générales.
 
 ###### Article 2228
 
-La possession est la détention ou la jouissance d'une chose ou d'un droit que nous tenons ou que nous exerçons par nous-
-mêmes, ou par un autre qui la tient ou qui l'exerce en notre nom.
+La prescription se compte par jours, et non par heures.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Modifié par**:
 
-	  - TRANSFERE: Loi n°2008-561 du 17 juin 2008 - art. 2
-
-	**Nouveaux textes**:
-
-	  - Code civil - art. 2255 (V)
-
-	**Codifié par**:
-
-	  - Loi n°1804-03-15
-
-	**Créé par**:
-
-	  - Loi n°1804-03-15 promulguée le 25 mars 1804
+	  - Loi n°2008-561 du 17 juin 2008 - art. 1
 
 
 ###### Article 2229
 
-Pour pouvoir prescrire, il faut une possession continue et non interrompue, paisible, publique, non équivoque, et à titre de
-propriétaire.
+Elle est acquise lorsque le dernier jour du terme est accompli.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Modifié par**:
 
-	  - TRANSFERE: Loi n°2008-561 du 17 juin 2008 - art. 2
-
-	**Nouveaux textes**:
-
-	  - Code civil - art. 2261 (V)
+	  - Loi n°2008-561 du 17 juin 2008 - art. 1
 
 	**Cité par**:
 
@@ -62685,65 +62721,37 @@ propriétaire.
 	  - Code rural - art. L126-3 (Ab)
 	  - Code rural ancien - art. 52-2 (Ab)
 
-	**Codifié par**:
-
-	  - Loi n°1804-03-15
-
-	**Créé par**:
-
-	  - Loi n°1804-03-15 promulguée le 25 mars 1804
-
 
 ###### Article 2230
 
-On est toujours présumé posséder pour soi, et à titre de propriétaire, s'il n'est prouvé qu'on a commencé à posséder pour un
-autre.
+La suspension de la prescription en arrête temporairement le cours sans effacer le délai déjà couru.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Modifié par**:
 
-	  - TRANSFERE: Loi n°2008-561 du 17 juin 2008 - art. 2
-
-	**Nouveaux textes**:
-
-	  - Code civil - art. 2256 (V)
-
-	**Codifié par**:
-
-	  - Loi n°1804-03-15
-
-	**Créé par**:
-
-	  - Loi n°1804-03-15 promulguée le 25 mars 1804
+	  - Loi n°2008-561 du 17 juin 2008 - art. 1
 
 
 ###### Article 2231
 
-Quand on a commencé à posséder pour autrui, on est toujours présumé posséder au même titre, s'il n'y a preuve du contraire.
+L'interruption efface le délai de prescription acquis. Elle fait courir un nouveau délai de même durée que l'ancien.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Modifié par**:
 
-	  - TRANSFERE: Loi n°2008-561 du 17 juin 2008 - art. 2
-
-	**Nouveaux textes**:
-
-	  - Code civil - art. 2257 (V)
-
-	**Codifié par**:
-
-	  - Loi n°1804-03-15
-
-	**Créé par**:
-
-	  - Loi n°1804-03-15 promulguée le 25 mars 1804
+	  - Loi n°2008-561 du 17 juin 2008 - art. 1
 
 
 ###### Article 2232
 
-Les actes de pure faculté et ceux de simple tolérance ne peuvent fonder ni possession ni prescription.
+Le report du point de départ, la suspension ou l'interruption de la prescription ne peut avoir pour effet de porter le délai
+de la prescription extinctive au-delà de vingt ans à compter du jour de la naissance du droit. 
+
+Le premier alinéa n'est pas applicable dans les cas mentionnés aux articles 2226, 
+2227, 2233 et 2236, au premier alinéa de l'article 2241 et à l'article 2244. Il ne s'applique pas non plus aux actions
+relatives à l'état des personnes.
 
 **Liens relatifs à cet article**
 
@@ -62758,184 +62766,124 @@ Les actes de pure faculté et ceux de simple tolérance ne peuvent fonder ni pos
 	  - Code de la santé publique - art. L1142-28 (M)
 	  - Code des procédures civiles d'exécution - art. L111-4 (VD)
 
-	**Liens**:
+	**Modifié par**:
 
-	  - TRANSFERE: Loi n°2008-561 du 17 juin 2008 - art. 2
+	  - Loi n°2008-561 du 17 juin 2008 - art. 1
 
 	**Cite**:
 
-	  - Code civil - art. 2226
-	  - Code civil - art. 2241
+	  - Code civil - art. 2226 (V)
+	  - Code civil - art. 2227 (V)
+	  - Code civil - art. 2233 (V)
+	  - Code civil - art. 2236 (V)
+	  - Code civil - art. 2241 (V)
+	  - Code civil - art. 2244 (V)
 
-	**Nouveaux textes**:
 
-	  - Code civil - art. 2262 (V)
-
-	**Codifié par**:
-
-	  - Loi n°1804-03-15
-
-	**Créé par**:
-
-	  - Loi n°1804-03-15 promulguée le 25 mars 1804
-
+#### Section 2 : Des causes de report du point de départ ou de suspension de la prescription.
 
 ###### Article 2233
 
-Les actes de violence ne peuvent fonder non plus une possession capable d'opérer la prescription.
+La prescription ne court pas : 
 
-La possession utile ne commence que lorsque la violence a cessé.
+1° A l'égard d'une créance qui dépend d'une condition, jusqu'à ce que la condition arrive ; 
+
+2° A l'égard d'une action en garantie, jusqu'à ce que l'éviction ait lieu ; 
+
+3° A l'égard d'une créance à terme, jusqu'à ce que ce terme soit arrivé.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Modifié par**:
 
-	  - TRANSFERE: Loi n°2008-561 du 17 juin 2008 - art. 2
+	  - Loi n°2008-561 du 17 juin 2008 - art. 1
 
 	**Cité par**:
 
 	  - Code civil - art. 2232 (V)
 
-	**Nouveaux textes**:
-
-	  - Code civil - art. 2263 (V)
-
-	**Codifié par**:
-
-	  - Loi n°1804-03-15
-
-	**Créé par**:
-
-	  - Loi n°1804-03-15 promulguée le 25 mars 1804
-
 
 ###### Article 2234
 
-Le possesseur actuel qui prouve avoir possédé anciennement est présumé avoir possédé dans le temps intermédiaire, sauf la
-preuve contraire.
+La prescription ne court pas ou est suspendue contre celui qui est dans l'impossibilité d'agir par suite d'un empêchement
+résultant de la loi, de la convention ou de la force majeure.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Modifié par**:
 
-	  - TRANSFERE: Loi n°2008-561 du 17 juin 2008 - art. 2
-
-	**Nouveaux textes**:
-
-	  - Code civil - art. 2264 (V)
-
-	**Codifié par**:
-
-	  - Loi n°1804-03-15
-
-	**Créé par**:
-
-	  - Loi n°1804-03-15 promulguée le 25 mars 1804
+	  - Loi n°2008-561 du 17 juin 2008 - art. 1
 
 
 ###### Article 2235
 
-Pour compléter la prescription, on peut joindre à sa possession celle de son auteur, de quelque manière qu'on lui ait
-succédé, soit à titre universel ou particulier, soit à titre lucratif ou onéreux.
+Elle ne court pas ou est suspendue contre les mineurs non émancipés et les majeurs en tutelle, sauf pour les actions en
+paiement ou en répétition des salaires, arrérages de rente, pensions alimentaires, loyers, fermages, charges locatives,
+intérêts des sommes prêtées et, généralement, les actions en paiement de tout ce qui est payable par années ou à des termes
+périodiques plus courts.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Modifié par**:
 
-	  - TRANSFERE: Loi n°2008-561 du 17 juin 2008 - art. 2
+	  - Loi n°2008-561 du 17 juin 2008 - art. 1
 
 	**Cité par**:
 
 	  - Loi n°2008-561 du 17 juin 2008 - art. 25 (V)
 
-	**Nouveaux textes**:
-
-	  - Code civil - art. 2265 (V)
-
-	**Codifié par**:
-
-	  - Loi n°1804-03-15
-
-	**Créé par**:
-
-	  - Loi n°1804-03-15 promulguée le 25 mars 1804
-
-
-### Chapitre III : Des causes qui empêchent la prescription.
 
 ###### Article 2236
 
-Ceux qui possèdent pour autrui ne prescrivent jamais par quelque laps de temps que ce soit.
-
-Ainsi, le fermier, le dépositaire, l'usufruitier, et tous autres qui détiennent précairement la chose du propriétaire ne
-peuvent la prescrire.
+Elle ne court pas ou est suspendue entre époux, ainsi qu'entre partenaires liés par un pacte civil de solidarité.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Modifié par**:
 
-	  - TRANSFERE: Loi n°2008-561 du 17 juin 2008 - art. 2
-	  - TXT_ASSOCIE: Code civil - art. 2237 (V)
-	  - TXT_ASSOCIE: Code civil - art. 2238 (V)
+	  - Loi n°2008-561 du 17 juin 2008 - art. 1
 
 	**Cité par**:
 
 	  - Code civil - art. 2232 (V)
 	  - Code civil - art. 2238 (VD)
 
-	**Nouveaux textes**:
-
-	  - Code civil - art. 2266 (V)
-
-	**Codifié par**:
-
-	  - Loi n°1804-03-15
-
-	**Créé par**:
-
-	  - Loi n°1804-03-15 promulguée le 25 mars 1804
-
 
 ###### Article 2237
 
-Les héritiers de ceux qui tenaient la chose à quelqu'un des titres désignés par l'article précédent ne peuvent non plus
-prescrire.
+Elle ne court pas ou est suspendue contre l'héritier acceptant à concurrence de l'actif net, à l'égard des créances qu'il a
+contre la succession.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Loi n°2008-561 du 17 juin 2008 - art. 1
+
 	**Liens**:
 
-	  - TRANSFERE: Loi n°2008-561 du 17 juin 2008 - art. 2
 	  - TXT_ASSOCIE: Code civil - art. 2236 (V)
 
 	**Cité par**:
 
 	  - Code civil - art. 2238 (T)
 
-	**Nouveaux textes**:
-
-	  - Code civil - art. 2267 (V)
-
-	**Codifié par**:
-
-	  - Loi n°1804-03-15
-
-	**Créé par**:
-
-	  - Loi n°1804-03-15 promulguée le 25 mars 1804
-
 
 ###### Article 2238
 
-Néanmoins, les personnes énoncées dans les articles 2236 et 2237 peuvent prescrire, si le titre de leur possession se trouve
-interverti, soit par une cause venant d'un tiers, soit par la contradiction qu'elles ont opposée au droit du propriétaire.
+La prescription est suspendue à compter du jour où, après la survenance d'un litige, les parties conviennent de recourir à la
+médiation ou à la conciliation ou, à défaut d'accord écrit, à compter du jour de la première réunion de médiation ou de
+conciliation. 
+
+Le délai de prescription recommence à courir, pour une durée qui ne peut être inférieure à six mois, à compter de la date à
+laquelle soit l'une des parties ou les deux, soit le médiateur ou le conciliateur déclarent que la médiation ou la
+conciliation est terminée.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Modifié par**:
 
-	  - TRANSFERE: Loi n°2008-561 du 17 juin 2008 - art. 2
-	  - TXT_ASSOCIE: Code civil - art. 2236 (V)
+	  - Loi n°2008-561 du 17 juin 2008 - art. 1
 
 	**Cité par**:
 
@@ -62946,211 +62894,156 @@ interverti, soit par une cause venant d'un tiers, soit par la contradiction qu'e
 	  - Code monétaire et financier - art. L316-1 (VD)
 	  - Code monétaire et financier - art. L621-19 (V)
 
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code civil - art. 2236 (V)
+
 	**Cite**:
 
-	  - Code civil - art. 2236 (T)
-	  - Code civil - art. 2237 (T)
-
-	**Nouveaux textes**:
-
-	  - Code civil - art. 2268 (V)
-
-	**Codifié par**:
-
-	  - Loi n°1804-03-15
-
-	**Créé par**:
-
-	  - Loi n°1804-03-15 promulguée le 25 mars 1804
+	  - Code civil - art. 2236 (V)
 
 
 ###### Article 2239
 
-Ceux à qui les fermiers, dépositaires et autres détenteurs précaires ont transmis la chose par un titre translatif de
-propriété peuvent la prescrire.
+La prescription est également suspendue lorsque le juge fait droit à une demande de mesure d'instruction présentée avant tout
+procès. 
+
+Le délai de prescription recommence à courir, pour une durée qui ne peut être inférieure à six mois, à compter du jour où la
+mesure a été exécutée.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Modifié par**:
 
-	  - TRANSFERE: Loi n°2008-561 du 17 juin 2008 - art. 2
+	  - Loi n°2008-561 du 17 juin 2008 - art. 1
 
-	**Nouveaux textes**:
 
-	  - Code civil - art. 2269 (V)
-
-	**Codifié par**:
-
-	  - Loi n°1804-03-15
-
-	**Créé par**:
-
-	  - Loi n°1804-03-15 promulguée le 25 mars 1804
-
+#### Section 3 : Des causes d'interruption de la prescription.
 
 ###### Article 2240
 
-On ne peut pas prescrire contre son titre, en ce sens que l'on ne peut point se changer à soi-même la cause et le principe de
-sa possession.
+La reconnaissance par le débiteur du droit de celui contre lequel il prescrivait interrompt le délai de prescription.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Modifié par**:
 
-	  - TRANSFERE: Loi n°2008-561 du 17 juin 2008 - art. 2
-
-	**Nouveaux textes**:
-
-	  - Code civil - art. 2270 (V)
-
-	**Codifié par**:
-
-	  - Loi n°1804-03-15
-
-	**Créé par**:
-
-	  - Loi n°1804-03-15 promulguée le 25 mars 1804
+	  - Loi n°2008-561 du 17 juin 2008 - art. 1
 
 
 ###### Article 2241
 
-On peut prescrire contre son titre, en ce sens que l'on prescrit la libération de l'obligation que l'on a contractée.
+La demande en justice, même en référé, interrompt le délai de prescription ainsi que le délai de forclusion. 
+
+Il en est de même lorsqu'elle est portée devant une juridiction incompétente ou lorsque l'acte de saisine de la juridiction
+est annulé par l'effet d'un vice de procédure.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2008-561 du 17 juin 2008 - art. 1
 
 	**Cité par**:
 
 	  - Code civil - art. 2232 (V)
 	  - Code monétaire et financier - art. L518-24 (VD)
 
-	**Codifié par**:
-
-	  - Loi n°1804-03-15
-
-	**Créé par**:
-
-	  - Loi n°1804-03-15 promulguée le 25 mars 1804
-
-
-### Chapitre IV : Des causes qui interrompent ou qui suspendent le cours de la prescription.
-
-#### Section 1 : Des causes qui interrompent la prescription.
 
 ###### Article 2242
 
-La prescription peut être interrompue ou naturellement ou civilement.
+L'interruption résultant de la demande en justice produit ses effets jusqu'à l'extinction de l'instance.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Loi n°1804-03-15
-
-	**Créé par**:
-
-	  - Loi n°1804-03-15 promulguée le 25 mars 1804
+	  - Loi n°2008-561 du 17 juin 2008 - art. 1
 
 
 ###### Article 2243
 
-Il y a interruption naturelle, lorsque le possesseur est privé pendant plus d'un an de la jouissance de la chose, soit par
-l'ancien propriétaire, soit même par un tiers.
+L'interruption est non avenue si le demandeur se désiste de sa demande ou laisse périmer l'instance, ou si sa demande est
+définitivement rejetée.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Loi n°1804-03-15
-
-	**Créé par**:
-
-	  - Loi n°1804-03-15 promulguée le 25 mars 1804
+	  - Loi n°2008-561 du 17 juin 2008 - art. 1
 
 
 ###### Article 2244
 
-Une citation en justice, même en référé, un commandement ou une saisie, signifiés à celui qu'on veut empêcher de prescrire,
-interrompent la prescription ainsi que les délais pour agir.
+Le délai de prescription ou le délai de forclusion est également interrompu par un acte d'exécution forcée.
 
 **Liens relatifs à cet article**
 
 	**Cité par**:
 
 	  - Décret n°55-22 du 4 janvier 1955 - art. 28 (V)
-	  - Code civil - art. 2232 (V)
-	  - Code monétaire et financier - art. L518-24 (VD)
 	  - Ordonnance n°92-1067 du 1 octobre 1992 - art. 10 (Ab)
 	  - Ordonnance n°92-1067 du 1 octobre 1992 - art. 13 (Ab)
 	  - Ordonnance no 92-1146 du 12 octobre 1992 portant e - art. 9 (V)
 	  - Ordonnance n°92-1146 du 12 octobre 1992 - art. 7 (VD)
-
-	**Codifié par**:
-
-	  - Loi n°1804-03-15
+	  - Code civil - art. 2232 (V)
+	  - Code monétaire et financier - art. L518-24 (VD)
 
 	**Modifié par**:
 
-	  - Loi n°85-677 du 5 juillet 1985 - art. 37 () JORF 6 juillet 1985 en vigueur le 1er janvier 1986
+	  - Loi n°2008-561 du 17 juin 2008 - art. 1
 
 
 ###### Article 2245
 
-La citation en conciliation devant le bureau de paix interrompt la prescription, du jour de sa date, lorsqu'elle est suivie
-d'une assignation en justice donnée dans les délais de droit.
+L'interpellation faite à l'un des débiteurs solidaires par une demande en justice ou par un acte d'exécution forcée ou la
+reconnaissance par le débiteur du droit de celui contre lequel il prescrivait interrompt le délai de prescription contre tous
+les autres, même contre leurs héritiers. 
+
+En revanche, l'interpellation faite à l'un des héritiers d'un débiteur solidaire ou la reconnaissance de cet héritier
+n'interrompt pas le délai de prescription à l'égard des autres cohéritiers, même en cas de créance hypothécaire, si
+l'obligation est divisible. Cette interpellation ou cette reconnaissance n'interrompt le délai de prescription, à l'égard des
+autres codébiteurs, que pour la part dont cet héritier est tenu. 
+
+Pour interrompre le délai de prescription pour le tout, à l'égard des autres codébiteurs, il faut l'interpellation faite à
+tous les héritiers du débiteur décédé ou la reconnaissance de tous ces héritiers.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Loi n°1804-03-15
-
-	**Créé par**:
-
-	  - Loi n°1804-03-15 promulguée le 25 mars 1804
+	  - Loi n°2008-561 du 17 juin 2008 - art. 1
 
 
 ###### Article 2246
 
-La citation en justice, donnée même devant un juge incompétent, interrompt la prescription.
+L'interpellation faite au débiteur principal ou sa reconnaissance interrompt le délai de prescription contre la caution.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Loi n°1804-03-15
+	  - Loi n°2008-561 du 17 juin 2008 - art. 1
 
-	**Créé par**:
 
-	  - Loi n°1804-03-15 promulguée le 25 mars 1804
+### Chapitre IV : Des conditions de la prescription extinctive.
 
+#### Section 1 : De l'invocation de la prescription.
 
 ###### Article 2247
 
-Si l'assignation est nulle par défaut de forme,
-
-Si le demandeur se désiste de sa demande,
-
-S'il laisse périmer l'instance,
-
-Ou si sa demande est rejetée,
-
-L'interruption est regardée comme non avenue.
+Les juges ne peuvent pas suppléer d'office le moyen résultant de la prescription.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Loi n°1804-03-15
-
-	**Créé par**:
-
-	  - Loi n°1804-03-15 promulguée le 25 mars 1804
+	  - Loi n°2008-561 du 17 juin 2008 - art. 1
 
 
 ###### Article 2248
 
-La prescription est interrompue par la reconnaissance que le débiteur ou le possesseur fait du droit de celui contre lequel
-il prescrivait.
+Sauf renonciation, la prescription peut être opposée en tout état de cause, même devant la cour d'appel.
 
 **Liens relatifs à cet article**
 
@@ -63158,113 +63051,96 @@ il prescrivait.
 
 	  - Décret n°55-22 du 4 janvier 1955 - art. 28 (V)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Loi n°1804-03-15
-
-	**Créé par**:
-
-	  - Loi n°1804-03-15 promulguée le 25 mars 1804
+	  - Loi n°2008-561 du 17 juin 2008 - art. 1
 
 
 ###### Article 2249
 
-L'interpellation faite, conformément aux articles ci-dessus, à l'un des débiteurs solidaires, ou sa reconnaissance,
-interrompt la prescription contre tous les autres, même contre leurs héritiers.    L'interpellation faite à l'un des
-héritiers d'un débiteur solidaire, ou la reconnaissance de cet héritier, n'interrompt pas la prescription à l'égard des
-autres cohéritiers, quand même la créance serait hypothécaire, si l'obligation n'est indivisible.
-
-Cette interpellation ou cette reconnaissance n'interrompt la prescription, à l'égard des autres codébiteurs, que pour la part
-dont cet héritier est tenu.
-
-Pour interrompre la prescription pour le tout, à l'égard des autres codébiteurs, il faut l'interpellation faite à tous les
-héritiers du débiteur décédé, ou la reconnaissance de tous ces héritiers.
+Le paiement effectué pour éteindre une dette ne peut être répété au seul motif que le délai de prescription était expiré.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Loi n°1804-03-15
+	  - Loi n°2008-561 du 17 juin 2008 - art. 1
 
-	**Créé par**:
 
-	  - Loi n°1804-03-15 promulguée le 25 mars 1804
-
+#### Section 2 : De la renonciation à la prescription.
 
 ###### Article 2250
 
-L'interpellation faite au débiteur principal, ou sa reconnaissance, interrompt la prescription contre la caution.
+Seule une prescription acquise est susceptible de renonciation.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Loi n°1804-03-15
+	  - Loi n°2008-561 du 17 juin 2008 - art. 1
 
-	**Créé par**:
-
-	  - Loi n°1804-03-15 promulguée le 25 mars 1804
-
-
-#### Section 2 : Des causes qui suspendent le cours de la prescription.
 
 ###### Article 2251
 
-La prescription court contre toutes personnes, à moins qu'elles ne soient dans quelque exception établie par une loi.
+La renonciation à la prescription est expresse ou tacite. 
+
+La renonciation tacite résulte de circonstances établissant sans équivoque la volonté de ne pas se prévaloir de la
+prescription.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Loi n°1804-03-15
-
-	**Créé par**:
-
-	  - Loi n°1804-03-15 promulguée le 25 mars 1804
+	  - Loi n°2008-561 du 17 juin 2008 - art. 1
 
 
 ###### Article 2252
 
-La prescription ne court pas contre les mineurs non émancipés et les majeurs en tutelle, sauf ce qui est dit à l'article 2278
-et à l'exception des autres cas déterminés par la loi.
+Celui qui ne peut exercer par lui-même ses droits ne peut renoncer seul à la prescription acquise.
 
 **Liens relatifs à cet article**
 
 	**Cité par**:
 
-	  - Code civil - art. 464 (V)
 	  - Loi n°74-631 du 5 juillet 1974 - art. 20 (V)
+	  - Code civil - art. 464 (V)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Loi n°1804-03-15
-
-	**Créé par**:
-
-	  - Loi n°1804-03-15 promulguée le 25 mars 1804
+	  - Loi n°2008-561 du 17 juin 2008 - art. 1
 
 
 ###### Article 2253
 
-Elle ne court point entre époux.
+Les créanciers, ou toute autre personne ayant intérêt à ce que la prescription soit acquise, peuvent l'opposer ou l'invoquer
+lors même que le débiteur y renonce.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Loi n°1804-03-15
+	  - Loi n°2008-561 du 17 juin 2008 - art. 1
 
-	**Créé par**:
 
-	  - Loi n°1804-03-15 promulguée le 25 mars 1804
-
+#### Section 3 : De l'aménagement conventionnel de la prescription.
 
 ###### Article 2254
 
-La prescription court contre la femme mariée, encore qu'elle ne soit point séparée par contrat de mariage ou en justice, à
-l'égard des biens dont le mari a l'administration, sauf son recours contre le mari.
+La durée de la prescription peut être abrégée ou allongée par accord des parties. Elle ne peut toutefois être réduite à moins
+d'un an ni étendue à plus de dix ans. 
+
+Les parties peuvent également, d'un commun accord, ajouter aux causes de suspension ou d'interruption de la prescription
+prévues par la loi. 
+
+Les dispositions des deux alinéas précédents ne sont pas applicables aux actions en paiement ou en répétition des salaires,
+arrérages de rente, pensions alimentaires, loyers, fermages, charges locatives, intérêts des sommes prêtées et, généralement,
+aux actions en paiement de tout ce qui est payable par années ou à des termes périodiques plus courts.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2008-561 du 17 juin 2008 - art. 1
 
 	**Cité par**:
 
@@ -63274,113 +63150,137 @@ l'égard des biens dont le mari a l'administration, sauf son recours contre le m
 	  - Code de la sécurité sociale. - art. L932-13-4 (V)
 	  - Code des assurances - art. L114-3 (V)
 
-	**Codifié par**:
 
-	  - Loi n°1804-03-15
+## Titre XXI : De la possession et de la prescription acquisitive
 
-	**Créé par**:
+### Chapitre Ier : Dispositions générales.
 
-	  - Loi n°1804-03-15 promulguée le 25 mars 1804
+###### Article 2255
 
-
-###### Article 2257
-
-La prescription ne court point :
-
-A l'égard d'une créance qui dépend d'une condition, jusqu'à ce que la condition arrive ;
-
-A l'égard d'une action en garantie, jusqu'à ce que l'éviction ait lieu ;
-
-A l'égard d'une créance à jour fixe, jusqu'à ce que ce jour soit arrivé.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1804-03-15
-
-	**Créé par**:
-
-	  - Loi n°1804-03-15 promulguée le 25 mars 1804
-
-
-###### Article 2258
-
-La prescription ne court pas contre l'héritier acceptant à concurrence de l'actif net, à l'égard des créances qu'il a contre
-la succession.
-
-Elle court contre une succession vacante, quoique non pourvue de curateur.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1804-03-15
-
-	**Modifié par**:
-
-	  - Loi n°2006-728 du 23 juin 2006 - art. 29 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
-
-
-###### Article 2259
-
-La prescription court pendant les délais mentionnés aux articles 771, 772 et 790.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1804-03-15
-
-	**Modifié par**:
-
-	  - Loi n°2006-728 du 23 juin 2006 - art. 29 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
-
-
-### Chapitre V : Du temps requis pour prescrire.
-
-#### Section 1 : Dispositions générales.
-
-###### Article 2260
-
-La prescription se compte par jours, et non par heures.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1804-03-15
-
-	**Créé par**:
-
-	  - Loi n°1804-03-15 promulguée le 25 mars 1804
-
-
-###### Article 2261
-
-Elle est acquise lorsque le dernier jour du terme est accompli.
+La possession est la détention ou la jouissance d'une chose ou d'un droit que nous tenons ou que nous exerçons par nous-
+mêmes, ou par un autre qui la tient ou qui l'exerce en notre nom.
 
 **Liens relatifs à cet article**
 
 	**Cité par**:
 
+	  - Loi n°65-570 du 13 juillet 1965 - art. 23 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2008-561 du 17 juin 2008 - art. 2
+
+	**Anciens textes**:
+
+	  - Code civil - art. 2228 (T)
+
+
+###### Article 2256
+
+On est toujours présumé posséder pour soi, et à titre de propriétaire, s'il n'est prouvé qu'on a commencé à posséder pour un
+autre.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°65-570 du 13 juillet 1965 - art. 23 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2008-561 du 17 juin 2008 - art. 2
+
+	**Anciens textes**:
+
+	  - Code civil - art. 2230 (T)
+
+
+###### Article 2257
+
+Quand on a commencé à posséder pour autrui, on est toujours présumé posséder au même titre, s'il n'y a preuve du contraire.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2008-561 du 17 juin 2008 - art. 2
+
+	**Anciens textes**:
+
+	  - Code civil - art. 2231 (T)
+
+
+### Chapitre II : De la prescription acquisitive.
+
+###### Article 2258
+
+La prescription acquisitive est un moyen d'acquérir un bien ou un droit par l'effet de la possession sans que celui qui
+l'allègue soit obligé d'en rapporter un titre ou qu'on puisse lui opposer l'exception déduite de la mauvaise foi.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2008-561 du 17 juin 2008 - art. 2
+
+
+###### Article 2259
+
+Sont applicables à la prescription acquisitive les articles 2221 et 2222, et les chapitres III et IV du titre XX du présent
+livre sous réserve des dispositions du présent chapitre.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2008-561 du 17 juin 2008 - art. 2
+
+	**Cite**:
+
+	  - Code civil - art. 2221
+	  - Code civil - art. 2222 (V)
+
+
+#### Section 1 : Des conditions de la prescription acquisitive.
+
+###### Article 2260
+
+On ne peut prescrire les biens ou les droits qui ne sont point dans le commerce.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2008-561 du 17 juin 2008 - art. 2
+
+	**Anciens textes**:
+
+	  - Code civil - art. 2226 (T)
+
+
+###### Article 2261
+
+Pour pouvoir prescrire, il faut une possession continue et non interrompue, paisible, publique, non équivoque, et à titre de
+propriétaire.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2008-561 du 17 juin 2008 - art. 2
+
+	**Cité par**:
+
 	  - Code forestier (nouveau) - art. L331-7 (VD)
 
-	**Codifié par**:
+	**Anciens textes**:
 
-	  - Loi n°1804-03-15
+	  - Code civil - art. 2229 (T)
 
-	**Créé par**:
-
-	  - Loi n°1804-03-15 promulguée le 25 mars 1804
-
-
-#### Section 2 : De la prescription trentenaire.
 
 ###### Article 2262
 
-Toutes les actions, tant réelles que personnelles, sont prescrites par trente ans, sans que celui qui allègue cette
-prescription soit obligé d'en rapporter un titre ou qu'on puisse lui opposer l'exception déduite de la mauvaise foi.
+Les actes de pure faculté et ceux de simple tolérance ne peuvent fonder ni possession ni prescription.
 
 **Liens relatifs à cet article**
 
@@ -63397,54 +63297,52 @@ prescription soit obligé d'en rapporter un titre ou qu'on puisse lui opposer l'
 	  - Code du travail - art. R442-16 (M)
 	  - Ordonnance n°1829-02-22 du 22 février 1829 - art. 2 (V)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Loi n°1804-03-15
+	  - Loi n°2008-561 du 17 juin 2008 - art. 2
 
-	**Créé par**:
+	**Anciens textes**:
 
-	  - Loi n°1804-03-15 promulguée le 25 mars 1804
+	  - Code civil - art. 2232 (T)
 
 
 ###### Article 2263
 
-Après vingt-huit ans de la date du dernier titre, le débiteur d'une rente peut être contraint à fournir à ses frais un titre
-nouveau à son créancier ou à ses ayants cause.
+Les actes de violence ne peuvent fonder non plus une possession capable d'opérer la prescription.
+
+La possession utile ne commence que lorsque la violence a cessé.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Loi n°1804-03-15
+	  - Loi n°2008-561 du 17 juin 2008 - art. 2
 
-	**Créé par**:
+	**Anciens textes**:
 
-	  - Loi n°1804-03-15 promulguée le 25 mars 1804
+	  - Code civil - art. 2233 (T)
 
 
 ###### Article 2264
 
-Les règles de la prescription sur d'autres objets que ceux mentionnés dans le présent titre sont expliquées dans les titres
-qui leur sont propres.
+Le possesseur actuel qui prouve avoir possédé anciennement est présumé avoir possédé dans le temps intermédiaire, sauf la
+preuve contraire.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Loi n°1804-03-15
+	  - Loi n°2008-561 du 17 juin 2008 - art. 2
 
-	**Créé par**:
+	**Anciens textes**:
 
-	  - Loi n°1804-03-15 promulguée le 25 mars 1804
+	  - Code civil - art. 2234 (T)
 
-
-#### Section 3 : De la prescription par dix et vingt ans.
 
 ###### Article 2265
 
-Celui qui acquiert de bonne foi et par juste titre un immeuble en prescrit la propriété par dix ans si le véritable
-propriétaire habite dans le ressort de la cour d'appel dans l'étendue de laquelle l'immeuble est situé ; et par vingt ans,
-s'il est domicilié hors dudit ressort.
+Pour compléter la prescription, on peut joindre à sa possession celle de son auteur, de quelque manière qu'on lui ait
+succédé, soit à titre universel ou particulier, soit à titre lucratif ou onéreux.
 
 **Liens relatifs à cet article**
 
@@ -63453,114 +63351,98 @@ s'il est domicilié hors dudit ressort.
 	  - Décret n°55-885 du 30 juin 1955 - art. 5 (V)
 	  - Code du domaine de l'Etat - art. L88 (M)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Loi n°1804-03-15
+	  - Loi n°2008-561 du 17 juin 2008 - art. 2
 
-	**Créé par**:
+	**Anciens textes**:
 
-	  - Loi n°1804-03-15 promulguée le 25 mars 1804
+	  - Code civil - art. 2235 (T)
 
 
 ###### Article 2266
 
-Si le véritable propriétaire a eu son domicile en différents temps, dans le ressort et hors du ressort, il faut, pour
-compléter la prescription, ajouter à ce qui manque aux dix ans de présence, un nombre d'années d'absence double de celui qui
-manque, pour compléter les dix ans de présence.
+Ceux qui possèdent pour autrui ne prescrivent jamais par quelque laps de temps que ce soit.
+
+Ainsi, le locataire, le dépositaire, l'usufruitier et tous autres qui détiennent précairement le bien ou le droit du
+propriétaire ne peuvent le prescrire.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2008-561 du 17 juin 2008 - art. 2
+
+	**Anciens textes**:
+
+	  - Code civil - art. 2236 (T)
 
 	**Cité par**:
 
 	  - Code civil - art. 2268 (V)
-
-	**Codifié par**:
-
-	  - Loi n°1804-03-15
-
-	**Créé par**:
-
-	  - Loi n°1804-03-15 promulguée le 25 mars 1804
 
 
 ###### Article 2267
 
-Le titre nul par défaut de forme ne peut servir de base à la prescription de dix et vingt ans.
+Les héritiers de ceux qui tenaient le bien ou le droit à quelqu'un des titres désignés par l'article précédent ne peuvent non
+plus prescrire.
 
 **Liens relatifs à cet article**
 
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Loi n°2008-561 du 17 juin 2008 - art. 2
+
+	**Anciens textes**:
+
+	  - Code civil - art. 2237 (T)
 
 	**Cité par**:
 
 	  - Code civil - art. 2268 (V)
 
-	**Nouveaux textes**:
-
-	  - Code civil - art. 2273 (V)
-
-	**Codifié par**:
-
-	  - Loi n°1804-03-15
-
-	**Créé par**:
-
-	  - Loi n°1804-03-15 promulguée le 25 mars 1804
-
 
 ###### Article 2268
 
-La bonne foi est toujours présumée, et c'est à celui qui allègue la mauvaise foi à la prouver.
+Néanmoins, les personnes énoncées dans les articles 2266 et 2267 peuvent prescrire, si le titre de leur possession se trouve
+interverti, soit par une cause venant d'un tiers, soit par la contradiction qu'elles ont opposée au droit du propriétaire.
 
 **Liens relatifs à cet article**
 
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Loi n°2008-561 du 17 juin 2008 - art. 2
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code civil - art. 2274 (V)
+	  - Code civil - art. 2238 (T)
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Loi n°1804-03-15
-
-	**Créé par**:
-
-	  - Loi n°1804-03-15 promulguée le 25 mars 1804
+	  - Code civil - art. 2266
+	  - Code civil - art. 2267 (V)
 
 
 ###### Article 2269
 
-Il suffit que la bonne foi ait existé au moment de l'acquisition.
+Ceux à qui les locataires, dépositaires, usufruitiers et autres détenteurs précaires ont transmis le bien ou le droit  par un
+titre translatif de propriété peuvent la prescrire.
 
 **Liens relatifs à cet article**
 
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Loi n°2008-561 du 17 juin 2008 - art. 2
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code civil - art. 2275 (V)
-
-	**Codifié par**:
-
-	  - Loi n°1804-03-15
-
-	**Créé par**:
-
-	  - Loi n°1804-03-15 promulguée le 25 mars 1804
+	  - Code civil - art. 2239 (T)
 
 
 ###### Article 2270
 
-Toute personne physique ou morale dont la responsabilité peut être engagée en vertu des articles 1792 à 1792-4 du présent
-code est déchargée des responsabilités et garanties pesant sur elle, en application des articles 1792 à 1792-2, après dix ans
-à compter de la réception des travaux ou, en application de l'article 1792-3, à l'expiration du délai visé à cet article.
+On ne peut pas prescrire contre son titre, en ce sens que l'on ne peut point se changer à soi-même la cause et le principe de
+sa possession.
 
 **Liens relatifs à cet article**
 
@@ -63579,178 +63461,70 @@ code est déchargée des responsabilités et garanties pesant sur elle, en appli
 
 	**Modifié par**:
 
-	  - Loi n°78-12 du 4 janvier 1978 - art. 3 () JORF 5 janvier 1978 en vigueur le 1er janvier 1979
+	  - Loi n°2008-561 du 17 juin 2008 - art. 2
 
-	**Transféré par**:
+	**Anciens textes**:
 
-	  - Loi n°2008-561 du 17 juin 2008 - art. 1
+	  - Code civil - art. 2240 (T)
 
-	**Cite**:
-
-	  - Code civil - art. 1792 (V)
-	  - Code civil - art. 1792-4 (V)
-
-	**Nouveaux textes**:
-
-	  - Code civil - art. 1792-4-1 (V)
-
-	**Codifié par**:
-
-	  - Loi n°1804-03-15
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°78-12 1978-04-01 art. 14 *l'article 2270 du code civil, tel que modifié en 1978, s'applique aux contrats relatifs aux chantiers dont la déclaration réglementaire d'ouverture a été établie postérieurement à la date du 1er janvier 1979*
-
-
-###### Article 2270-1
-
-Les actions en responsabilité civile extracontractuelle se prescrivent par dix ans à compter de la manifestation du dommage
-ou de son aggravation.
-
-Lorsque le dommage est causé par des tortures et des actes de barbarie, des violences ou des agressions sexuelles commises
-contre un mineur, l'action en responsabilité civile est prescrite par vingt ans.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Loi n°2008-561 du 17 juin 2008 - art. 1
-
-	**Cité par**:
-
-	  - Code de la santé publique - art. L209-22 (Ab)
-	  - Code des assurances - art. L422-3 (M)
-	  - Loi n°86-1020 du 9 septembre 1986 - art. 9 (M)
-	  - Ordonnance n°92-1067 du 1 octobre 1992 - art. 10 (Ab)
-	  - Ordonnance n°92-1146 du 12 octobre 1992 - art. 7 (VD)
-
-	**Codifié par**:
-
-	  - Loi n°1804-03-15
-
-	**Modifié par**:
-
-	  - Loi n°98-468 du 17 juin 1998 - art. 43 () JORF 16 juin 1998
-
-
-###### Article 2270-2
-
-Les actions en responsabilité dirigées contre un sous-traitant en raison de dommages affectant un ouvrage ou des éléments
-d'équipement d'un ouvrage mentionnés aux articles 1792 et 1792-2 se prescrivent par dix ans à compter de la réception des
-travaux et, pour les dommages affectant ceux des éléments d'équipement de l'ouvrage mentionnés à l'article 1792-3, par deux
-ans à compter de cette même réception.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - TRANSFERE: Loi n°2008-561 du 17 juin 2008 - art. 1
-
-	**Cite**:
-
-	  - Code civil - art. 1792 (V)
-	  - Code civil - art. 1792-2 (M)
-	  - Code civil - art. 1792-3 (M)
-
-	**Nouveaux textes**:
-
-	  - Code civil - art. 1792-4-2 (V)
-
-	**Codifié par**:
-
-	  - Loi n°1804-03-15
-
-	**Créé par**:
-
-	  - Ordonnance n°2005-658 du 8 juin 2005 - art. 2 () JORF 9 juin 2005
-
-
-#### Section 4 : De quelques prescriptions particulières.
 
 ###### Article 2271
 
-L'action des maîtres et instituteurs des sciences et arts, pour les leçons qu'ils donnent au mois :
-
-Celle des hôteliers et traiteurs à raison du logement et de la nourriture qu'ils fournissent, se prescrivent par six mois.
+La prescription acquisitive est interrompue lorsque le possesseur d'un bien est privé pendant plus d'un an de la jouissance
+de ce bien soit par le propriétaire, soit même par un tiers.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1804-03-15
-
-	**Créé par**:
-
-	  - Loi n°1804-03-15 promulguée le 25 mars 1804
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°96-609 1996-07-05 art. 10 I *champ d'application du code étendu à la Nouvelle-Calédonie, à la Polynésie française*
 
 	**Cité par**:
 
 	  - Loi n°96-609 du 5 juillet 1996 - art. 10 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2008-561 du 17 juin 2008 - art. 2
+
+
+#### Section 2 : De la prescription acquisitive en matière immobilière.
 
 ###### Article 2272
 
-L'action des huissiers, pour le salaire des actes qu'ils signifient et des commissions qu'ils exécutent ;
+Le délai de prescription requis pour acquérir la propriété immobilière est de trente ans. 
 
-Celle des maîtres de pensions, pour le prix de pension de leurs élèves, et des autres maîtres, pour le prix de
-l'apprentissage, se prescrivent par un an.
-
-L'action des médecins, chirurgiens, chirurgiens-dentistes, sages-femmes et pharmaciens, pour leurs visites, opérations et
-médicaments, se prescrit par deux ans.
-
-L'action des marchands, pour les marchandises qu'ils vendent aux particuliers non marchands, se prescrit par deux ans.
+Toutefois, celui qui acquiert de bonne foi et par juste titre un immeuble en prescrit la propriété par dix ans.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1804-03-15
-
-	**Créé par**:
-
-	  - Loi n°1804-03-15 promulguée le 25 mars 1804
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°96-609 1996-07-05 art. 10 I *champ d'application du code étendu à la Nouvelle-Calédonie, à la Polynésie française*
 
 	**Cité par**:
 
 	  - Loi n°96-609 du 5 juillet 1996 - art. 10 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2008-561 du 17 juin 2008 - art. 2
 
 
 ###### Article 2273
 
-L'action des avocats, pour le paiement de leurs frais et salaires, se prescrit par deux ans, à compter du jugement des procès
-ou de la conciliation des parties, ou depuis la révocation desdits avocats. A l'égard des affaires non terminées, ils ne
-peuvent former de demandes pour leur frais et salaires qui remonteraient à plus de cinq ans.
+Le titre nul par défaut de forme ne peut servir de base à la prescription de dix ans.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1804-03-15
-
-	**Créé par**:
-
-	  - Loi n°1804-03-15 promulguée le 25 mars 1804
 
 	**Cité par**:
 
 	  - Loi du 24 décembre 1897 - art. 1 (VD)
 
+	**Modifié par**:
+
+	  - Loi n°2008-561 du 17 juin 2008 - art. 2
+
+	**Anciens textes**:
+
+	  - Code civil - art. 2267 (T)
+
 
 ###### Article 2274
 
-La prescription, dans les cas ci-dessus, a lieu, quoiqu'il y ait eu continuation de fournitures, livraisons, services et
-travaux.
-
-Elle ne cesse de courir que lorsqu'il y a eu compte arrêté, cédule ou obligation, ou citation en justice non périmée.
+La bonne foi est toujours présumée, et c'est à celui qui allègue la mauvaise foi à la prouver.
 
 **Liens relatifs à cet article**
 
@@ -63759,73 +63533,60 @@ Elle ne cesse de courir que lorsqu'il y a eu compte arrêté, cédule ou obligat
 	  - Loi n°52-1322 du 15 décembre 1952 - art. 101 (V)
 	  - Code du travail - art. L143-4 (AbD)
 
-	**Codifié par**:
+	**Anciens textes**:
 
-	  - Loi n°1804-03-15
-
-	**Créé par**:
-
-	  - Loi n°1804-03-15 promulguée le 25 mars 1804
+	  - Code civil - art. 2268 (T)
 
 
 ###### Article 2275
 
-Néanmoins, ceux auxquels ces prescriptions seront opposées peuvent déférer le serment à ceux qui les opposent, sur la
-question de savoir si la chose a été réellement payée.
-
-Le serment pourra être déféré aux veuves et héritiers, ou aux tuteurs de ces derniers, s'ils sont mineurs, pour qu'ils aient
-à déclarer s'ils ne savent pas que la chose soit due.
+Il suffit que la bonne foi ait existé au moment de l'acquisition.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Loi n°1804-03-15
+	  - Loi n°2008-561 du 17 juin 2008 - art. 2
 
-	**Créé par**:
+	**Anciens textes**:
 
-	  - Loi n°1804-03-15 promulguée le 25 mars 1804
+	  - Code civil - art. 2269 (T)
 
+
+#### Section 3 : De la prescription acquisitive en matière mobilière.
 
 ###### Article 2276
 
-Les juges ainsi que les personnes qui ont représenté ou assisté les parties sont déchargés des pièces cinq ans après le
-jugement ou la cessation de leur concours.
+En fait de meubles, la possession vaut titre.
 
-Les huissiers de justice, après deux ans depuis l'exécution de la commission ou la signification des actes dont ils étaient
-chargés, en sont pareillement déchargés.
+Néanmoins, celui qui a perdu ou auquel il a été volé une chose peut la revendiquer pendant trois ans à compter du jour de la
+perte ou du vol, contre celui dans les mains duquel il la trouve ; sauf à celui-ci son recours contre celui duquel il la
+tient.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2008-561 du 17 juin 2008 - art. 2
+
+	**Anciens textes**:
+
+	  - Code civil - art. 2279 (M)
 
 	**Cité par**:
 
 	  - Code civil - art. 2337 (V)
 	  - Code civil - art. 924-4 (V)
 
-	**Codifié par**:
-
-	  - Loi n°1804-03-15
-
-	**Créé par**:
-
-	  - Loi n°1804-03-15 promulguée le 25 mars 1804
-
 
 ###### Article 2277
 
-Se prescrivent par cinq ans les actions en paiement :
+Si le possesseur actuel de la chose volée ou perdue l'a achetée dans une foire ou dans un marché, ou dans une vente publique,
+ou d'un marchand vendant des choses pareilles, le propriétaire originaire ne peut se la faire rendre qu'en remboursant au
+possesseur le prix qu'elle lui a coûté. 
 
-Des salaires ;
-
-Des arrérages des rentes perpétuelles et viagères et de ceux des pensions alimentaires ;
-
-Des loyers, des fermages et des charges locatives ;
-
-Des intérêts des sommes prêtées,
-
-et généralement de tout ce qui est payable par année ou à des termes périodiques plus courts.
-
-Se prescrivent également par cinq ans les actions en répétition des loyers, des fermages et des charges locatives.
+Le bailleur qui revendique, en vertu de l'article 2332, les meubles déplacés sans son consentement et qui ont été achetés
+dans les mêmes conditions doit également rembourser à l'acheteur le prix qu'ils lui ont coûté.
 
 **Liens relatifs à cet article**
 
@@ -63842,154 +63603,22 @@ Se prescrivent également par cinq ans les actions en répétition des loyers, d
 	  - Code du domaine de l'Etat et des collectivités pub - art. L231-1 (Ab)
 	  - Code du travail - art. L143-14 (AbD)
 
-	**Codifié par**:
-
-	  - Loi n°1804-03-15
-
 	**Modifié par**:
-
-	  - Loi n°2005-32 du 18 janvier 2005 - art. 113 () JORF 19 janvier 2005
-
-
-###### Article 2277-1
-
-L'action dirigée contre les personnes légalement habilitées à représenter ou à assister les parties en justice à raison de la
-responsabilité qu'elles encourent de ce fait se prescrit par dix ans à compter de la fin de leur mission.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Loi n°2008-561 du 17 juin 2008 - art. 1
-
-	**Codifié par**:
-
-	  - Loi n°1804-03-15
-
-	**Créé par**:
-
-	  - Loi n°89-906 du 19 décembre 1989 - art. 6 () JORF 20 décembre 1989
-
-
-###### Article 2278
-
-Les prescriptions dont il s'agit dans les articles de la présente section courent contre les mineurs et les majeurs en
-tutelle ; sauf leur recours contre leurs tuteurs.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1804-03-15
-
-	**Créé par**:
-
-	  - Loi n°1804-03-15 promulguée le 25 mars 1804
-
-
-###### Article 2279
-
-En fait de meubles, la possession vaut titre.
-
-Néanmoins, celui qui a perdu ou auquel il a été volé une chose peut la revendiquer pendant trois ans à compter du jour de la
-perte ou du vol, contre celui dans les mains duquel il la trouve ; sauf à celui-ci son recours contre celui duquel il la
-tient.
-
-**Liens relatifs à cet article**
-
-	**Transféré par**:
 
 	  - Loi n°2008-561 du 17 juin 2008 - art. 2
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code civil - art. 2276 (V)
-
-	**Cité par**:
-
-	  - Décret n°56-27 du 11 janvier 1956 - art. 12 (Ab)
-
-	**Codifié par**:
-
-	  - Loi n°1804-03-15
-
-	**Créé par**:
-
-	  - Loi n°1804-03-15 promulguée le 25 mars 1804
-
-
-###### Article 2280
-
-Si le possesseur actuel de la chose volée ou perdue l'a achetée dans une foire ou dans un marché, ou dans une vente publique,
-ou d'un marchand vendant des choses pareilles, le propriétaire originaire ne peut se la faire rendre qu'en remboursant au
-possesseur le prix qu'elle lui a coûté.
-
-Le bailleur qui revendique, en vertu de l'article 2332, les meubles déplacés sans son consentement et qui ont été achetés
-dans les mêmes conditions doit également rembourser à l'acheteur le prix qu'ils lui ont coûté.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 54 (V) JORF 24 mars 2006
-
-	**Liens**:
-
-	  - TRANSFERE: Loi n°2008-561 du 17 juin 2008 - art. 2
-
-	**Nouveaux textes**:
-
-	  - Code civil - art. 2277 (V)
+	  - Code civil - art. 2280 (T)
 
 	**Cite**:
 
-	  - Code civil - art. 2332
-
-	**Cité par**:
-
-	  - Code rural ancien - art. 672 (Ab)
-	  - Décret n°56-27 du 11 janvier 1956 - art. 11 (Ab)
-	  - Décret n°56-27 du 11 janvier 1956 - art. 12 (Ab)
-	  - Décret n°56-27 du 11 janvier 1956 - art. 18 (V)
-	  - Décret n°56-27 du 11 janvier 1956 - art. 20 (V)
-	  - Décret n°56-27 du 11 janvier 1956 - art. 28 (T)
-	  - Décret n°56-27 du 11 janvier 1956 - art. 30 (Ab)
-	  - Décret n°56-27 du 11 janvier 1956 - art. 5 (V)
-
-	**Codifié par**:
-
-	  - Loi n°1804-03-15
+	  - Code civil - art. 2332 (V)
 
 
-###### Article 2281
+### Chapitre III : De la protection possessoire.
 
-Les prescriptions commencées à l'époque de la publication du présent titre seront réglées conformément aux lois anciennes.
-
-Néanmoins, les prescriptions alors commencées, et pour lesquelles il faudrait encore, suivant les anciennes lois, plus de
-trente ans à compter de la même époque, seront accomplies par ce laps de trente ans.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Loi n°2008-561 du 17 juin 2008 - art. 1
-
-	**Cité par**:
-
-	  - Décret du 30 octobre 1935 - art. 16 (VD)
-
-	**Codifié par**:
-
-	  - Loi n°1804-03-15
-
-	**Créé par**:
-
-	  - Loi n°1804-03-15 promulguée le 25 mars 1804
-
-
-### Chapitre VI : De la protection possessoire.
-
-###### Article 2282
+###### Article 2278
 
 La possession est protégée, sans avoir égard au fond du droit, contre le trouble qui l'affecte ou la menace.
 
@@ -63997,37 +63626,37 @@ La protection possessoire est pareillement accordée au détenteur contre tout a
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Modifié par**:
 
-	  - TRANSFERE: Loi n°2008-561 du 17 juin 2008 - art. 2
+	  - Loi n°2008-561 du 17 juin 2008 - art. 2
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code civil - art. 2278 (V)
-
-	**Codifié par**:
-
-	  - Loi n°1804-03-15
+	  - Code civil - art. 2282 (T)
 
 
-###### Article 2283
+###### Article 2279
 
 Les actions possessoires sont ouvertes dans les conditions prévues par le code de procédure civile à ceux qui possèdent ou
 détiennent paisiblement.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Modifié par**:
 
-	  - TRANSFERE: Loi n°2008-561 du 17 juin 2008 - art. 2
+	  - Loi n°2008-561 du 17 juin 2008 - art. 2
 
-	**Nouveaux textes**:
+	**Abrogé par**:
 
-	  - Code civil - art. 2279 (Ab)
+	  - Loi n°2015-177 du 16 février 2015 - art. 9
 
-	**Codifié par**:
+	**Anciens textes**:
 
-	  - Loi n°1804-03-15
+	  - Code civil - art. 2283 (T)
+
+	**Cité par**:
+
+	  - Décret n°56-27 du 11 janvier 1956 - art. 12 (Ab)
 
 
 # Livre IV : Des sûretés
@@ -65888,26 +65517,26 @@ donnés en gage ainsi que leur espèce ou leur nature.
 
 ###### Article 2337
 
-Le gage est opposable aux tiers par la publicité qui en est faite.
+Le gage est opposable aux tiers par la publicité qui en est faite. 
 
-Il l'est également par la dépossession entre les mains du créancier ou d'un tiers convenu du bien qui en fait l'objet.
+Il l'est également par la dépossession entre les mains du créancier ou d'un tiers convenu du bien qui en fait l'objet. 
 
 Lorsque le gage a été régulièrement publié, les ayants cause à titre particulier du constituant ne peuvent se prévaloir de
-l'article 2279.
+l'article 2276.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2008-561 du 17 juin 2008 - art. 3
+
+	**Cite**:
+
+	  - Code civil - art. 2276
 
 	**Cité par**:
 
 	  - Code de commerce - art. L527-1 (V)
-
-	**Codifié par**:
-
-	  - Loi n°1804-03-19
-
-	**Créé par**:
-
-	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 11 () JORF 24 mars 2006
 
 
 ###### Article 2338
@@ -71148,8 +70777,8 @@ par les mots : " pisciculture ou enclos piscicoles ".
 
 ###### Article 2503
 
-Les articles 711 à 832-2, 832-4 à 2283 sont applicables à Mayotte sous réserve des adaptations figurant aux articles 2504 à
-2508.
+Les articles 711 à 832-2, 832-4 à 2279 sont applicables à Mayotte sous réserve des adaptations figurant aux articles 2504 à
+2508. 
 
 Les dispositions intéressant les immeubles ne s'appliquent que sous réserve des dispositions du titre IV du présent livre.
 
@@ -71157,15 +70786,17 @@ Les dispositions intéressant les immeubles ne s'appliquent que sous réserve de
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-870 du 28 juillet 2005 - art. 4 () JORF 29 juillet 2005 en vigueur le 1er janvier 2008
+	  - Loi n°2008-561 du 17 juin 2008 - art. 24
 
 	**Anciens textes**:
 
 	  - Code civil - art. 2297 (T)
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Loi n°1804-03-15
+	  - Code civil - art. 2504
+	  - Code civil - art. 711
+	  - Code civil - art. 832-4
 
 
 ###### Article 2504

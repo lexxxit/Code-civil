@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 2008-06-19
+Version Consolidée au 2008-07-01
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -62519,7 +62519,7 @@ la distribution.
 	  - Code des procédures civiles d'exécution - art. L334-1 (VD)
 
 
-## Titre XX : De la prescription et de la possession.
+## Titre XX : De la prescription extinctive
 
 ### Chapitre Ier : Dispositions générales.
 
@@ -62591,10 +62591,6 @@ Les dispositions du présent titre ne font pas obstacle à l'application des rè
 
 	  - Loi n°2008-561 du 17 juin 2008 - art. 1
 
-
-## Titre XX : De la prescription extinctive
-
-### Chapitre Ier : Dispositions générales.
 
 ### Chapitre II : Des délais et du point de départ de la prescription extinctive.
 
@@ -65834,6 +65830,71 @@ conservatoire, emporte affectation spéciale et droit de préférence au sens de
 	**Cite**:
 
 	  - Code civil - art. 2333 (V)
+
+
+##### Section 2 : Du gage portant sur un véhicule automobile.
+
+###### Article 2351
+
+Lorsqu'il porte sur un véhicule terrestre à moteur ou une remorque immatriculés, le gage est opposable aux tiers par la
+déclaration qui en est faite à l'autorité administrative dans les conditions fixées par décret en Conseil d'Etat.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-19
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 11 () JORF 24 mars 2006 en vigueur le 1er juillet 2008 au plus tard
+
+
+###### Article 2352
+
+Par la délivrance du reçu de la déclaration, le créancier gagiste sera réputé avoir conservé le bien remis en gage en sa
+possession.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-19
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 11 () JORF 24 mars 2006 en vigueur le 1er juillet 2008 au plus tard
+
+
+###### Article 2353
+
+La réalisation du gage est soumise, quelle que soit la qualité du débiteur, aux règles prévues aux articles 2346 à 2348.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-19
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 11 () JORF 24 mars 2006 en vigueur le 1er juillet 2008 au plus tard
+
+	**Cite**:
+
+	  - Code civil - art. 2346 (V)
 
 
 ##### Section 3 : Dispositions communes.

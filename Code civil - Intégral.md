@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 2008-07-01
+Version Consolidée au 2008-08-06
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -60632,25 +60632,25 @@ accorde au constituant.
 
 ###### Article 2018
 
-Le contrat de fiducie détermine, à peine de nullité :
+Le contrat de fiducie détermine, à peine de nullité : 
 
-1° Les biens, droits ou sûretés transférés. S'ils sont futurs, ils doivent être déterminables ;
+1° Les biens, droits ou sûretés transférés. S'ils sont futurs, ils doivent être déterminables ; 
 
-2° La durée du transfert, qui ne peut excéder trente-trois ans à compter de la signature du contrat ;
+2° La durée du transfert, qui ne peut excéder quatre-vingt-dix-neuf ans à compter de la signature du contrat ; 
 
-3° L'identité du ou des constituants ;
+3° L'identité du ou des constituants ; 
 
-4° L'identité du ou des fiduciaires ;
+4° L'identité du ou des fiduciaires ; 
 
-5° L'identité du ou des bénéficiaires ou, à défaut, les règles permettant leur désignation ;
+5° L'identité du ou des bénéficiaires ou, à défaut, les règles permettant leur désignation ; 
 
 6° La mission du ou des fiduciaires et l'étendue de leurs pouvoirs d'administration et de disposition.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2007-211 du 19 février 2007 - art. 1 () JORF 21 février 2007
+	  - Loi n°2008-776 du 4 août 2008 - art. 18 (V)
 
 	**Cité par**:
 
@@ -60658,9 +60658,35 @@ Le contrat de fiducie détermine, à peine de nullité :
 	  - Code civil - art. 2372-2 (V)
 	  - Code civil - art. 2488-2 (V)
 
-	**Codifié par**:
 
-	  - Loi n°1804-03-10
+###### Article 2018-1
+
+Lorsque le contrat de fiducie prévoit que le constituant conserve l'usage ou la jouissance d'un fonds de commerce ou d'un
+immeuble à usage professionnel transféré dans le patrimoine fiduciaire, la convention conclue à cette fin n'est pas soumise
+aux chapitres IV et V du titre IV du livre Ier du code de commerce, sauf stipulation contraire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2008-776 du 4 août 2008 - art. 18 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2008-776 du 4 août 2008 - art. 18 (V)
+
+
+###### Article 2018-2
+
+La cession de créances réalisée dans le cadre d'une fiducie est opposable aux tiers à la date du contrat de fiducie ou de
+l'avenant qui la constate. Elle ne devient opposable au débiteur de la créance cédée que par la notification qui lui en est
+faite par le cédant ou le fiduciaire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2008-776 du 4 août 2008 - art. 18 (V)
 
 
 ###### Article 2019
@@ -60886,20 +60912,22 @@ Le fiduciaire est responsable, sur son patrimoine propre, des fautes qu'il comme
 
 ###### Article 2027
 
-Si le fiduciaire manque à ses devoirs ou met en péril les intérêts qui lui sont confiés, le constituant, le bénéficiaire ou
-le tiers désigné en application de l'article 2017 peut demander en justice la nomination d'un fiduciaire provisoire ou
-solliciter le remplacement du fiduciaire. La décision judiciaire faisant droit à la demande emporte de plein droit
-dessaisissement du fiduciaire.
+En l'absence de stipulations contractuelles prévoyant les conditions de son remplacement, si le fiduciaire manque à ses
+devoirs ou met en péril les intérêts qui lui sont confiés ou encore s'il fait l'objet d'une procédure de sauvegarde ou de
+redressement judiciaire, le constituant, le bénéficiaire ou le tiers désigné en application de l'article 2017 peut demander
+en justice la nomination d'un fiduciaire provisoire ou solliciter le remplacement du fiduciaire. La décision judiciaire
+faisant droit à la demande emporte de plein droit dessaisissement du fiduciaire originaire et transfert du patrimoine
+fiduciaire en faveur de son remplaçant.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Loi n°1804-03-10
+	  - Loi n°2008-776 du 4 août 2008 - art. 18 (V)
 
-	**Créé par**:
+	**Cite**:
 
-	  - Loi n°2007-211 du 19 février 2007 - art. 1 () JORF 21 février 2007
+	  - Code civil - art. 2017
 
 	**Nouveaux textes**:
 
@@ -63728,24 +63756,21 @@ qu'il n'y ait entre les créanciers des causes légitimes de préférence.
 
 Peut se prévaloir d'un droit de rétention sur la chose :
 
-1°  Celui à qui la chose a été remise jusqu'au paiement de sa créance ;
+1° Celui à qui la chose a été remise jusqu'au paiement de sa créance ;
 
-2°  Celui dont la créance impayée résulte du contrat qui l'oblige à la livrer ;
+2° Celui dont la créance impayée résulte du contrat qui l'oblige à la livrer ;
 
-3°  Celui dont la créance impayée est née à l'occasion de la détention de la chose.
+3° Celui dont la créance impayée est née à l'occasion de la détention de la chose ;
+
+4° Celui qui bénéficie d'un gage sans dépossession.
 
 Le droit de rétention se perd par le dessaisissement volontaire.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Loi n°1804-03-19
-
 	**Modifié par**:
 
-	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 2 () JORF 24 mars 2006
-	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 3 () JORF 24 mars 2006
+	  - Loi n°2008-776 du 4 août 2008 - art. 79
 
 	**Nouveaux textes**:
 
@@ -65042,22 +65067,22 @@ Les privilèges peuvent être sur les meubles ou sur les immeubles.
 
 ###### Article 2328-1
 
-Toute sûreté réelle peut être inscrite, gérée et réalisée pour le compte des créanciers de l'obligation garantie par une
-personne qu'ils désignent à cette fin dans l'acte qui constate cette obligation.
+Toute sûreté réelle peut être constituée, inscrite, gérée et réalisée pour le compte des créanciers de l'obligation garantie
+par une personne qu'ils désignent à cette fin dans l'acte qui constate cette obligation.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Loi n°1804-03-19
-
-	**Créé par**:
-
-	  - Loi n°2007-211 du 19 février 2007 - art. 16 () JORF 21 février 2007
+	  - Loi n°2008-776 du 4 août 2008 - art. 80
 
 	**Cité par**:
 
 	  - Loi n°2016-1691 du 9 décembre 2016 - art. 117 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2017-748 du 4 mai 2017 - art. 2
 
 
 ### Sous-titre II : Des sûretés sur les meubles

@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 2008-08-06
+Version Consolidée au 2008-12-21
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -418,24 +418,30 @@ Le corps humain, ses éléments et ses produits ne peuvent faire l'objet d'un dr
 	  - Loi n°1803-03-08
 
 
-###### Article 16-2
+###### Article 16-1-1
 
-Le juge peut prescrire toutes mesures propres à empêcher ou faire cesser une atteinte illicite au corps humain ou des
-agissements illicites portant sur des éléments ou des produits de celui-ci.
+Le respect dû au corps humain ne cesse pas avec la mort. 
+
+Les restes des personnes décédées, y compris les cendres de celles dont le corps a donné lieu à crémation, doivent être
+traités avec respect, dignité et décence.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Loi n°1803-03-08
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°94-653 1994-07-29 art. 11 *champ d'application*
-
 	**Créé par**:
 
-	  - Loi n°94-653 du 29 juillet 1994 - art. 3 () JORF 30 juillet 1994
+	  - Loi n°2008-1350 du 19 décembre 2008 - art. 11
+
+
+###### Article 16-2
+
+Le juge peut prescrire toutes mesures propres à empêcher ou faire cesser une atteinte illicite au corps humain ou des
+agissements illicites portant sur des éléments ou des produits de celui-ci, y compris après la mort.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2008-1350 du 19 décembre 2008 - art. 12
 
 
 ###### Article 16-3

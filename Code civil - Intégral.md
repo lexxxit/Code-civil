@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 2008-12-21
+Version Consolidée au 2009-01-01
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -4793,14 +4793,10 @@ la suite du rôle d'équipage.
 ###### Article 60
 
 Toute personne qui justifie d'un intérêt légitime peut demander à changer de prénom. La demande est portée devant le juge aux
-affaires familiales à la requête de l'intéressé ou, s'il s'agit d'un incapable, à la requête de son représentant légal.
-L'adjonction ou la suppression de prénoms peut pareillement être décidée.
+affaires familiales à la requête de l'intéressé ou, s'il s'agit d'un mineur ou d'un majeur en tutelle, à la requête de son
+représentant légal. L'adjonction ou la suppression de prénoms peut pareillement être décidée.
 
 Si l'enfant est âgé de plus de treize ans, son consentement personnel est requis.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 
 **Liens relatifs à cet article**
 
@@ -4818,13 +4814,9 @@ La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 
 	  - Loi n°1803-03-11
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°93-22 du 8 janvier 1993 - art. 4 () JORF 9 janvier 1993
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°2002-304 2002-03-04 art. 24 (Mayotte)
+	  - Loi n°2007-308 du 5 mars 2007 - art. 3 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
 
 
 ###### Article 61
@@ -10478,16 +10470,10 @@ Les débats sur la cause, les conséquences du divorce et les mesures provisoire
 ###### Article 249
 
 Si une demande en divorce doit être formée au nom d'un majeur en tutelle, elle est présentée par le tuteur, avec
-l'autorisation du conseil de famille s'il a été institué ou du juge des tutelles. Elle est formée après avis du médecin
-traitant et, dans la mesure du possible, après audition de l'intéressé, selon le cas, par le conseil de famille ou le juge.
+l'autorisation du conseil de famille s'il a été institué ou du juge des tutelles. Elle est formée après avis médical et, dans
+la mesure du possible, après audition de l'intéressé, selon le cas, par le conseil de famille ou le juge.
 
 Le majeur en curatelle exerce l'action lui-même avec l'assistance du curateur.
-
-**Nota:**
-
-La loi 2004-439 du 26 mai 2004 entrera en vigueur le 1er janvier 2005 sauf pour les exceptions citées par l'article 33 II.
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 
 **Liens relatifs à cet article**
 
@@ -10502,7 +10488,7 @@ La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 
 	**Modifié par**:
 
-	  - Loi n°2004-439 du 26 mai 2004 - art. 8 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
+	  - Loi n°2007-308 du 5 mars 2007 - art. 10
 
 
 ###### Article 249-1
@@ -10528,11 +10514,8 @@ il se défend lui-même, avec l'assistance du curateur.
 
 ###### Article 249-2
 
-Un tuteur ou un curateur spécial est nommé lorsque la tutelle ou la curatelle avait été confiée au conjoint de l'incapable.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+Un tuteur ou un curateur ad hoc est nommé lorsque la tutelle ou la curatelle avait été confiée au conjoint de la personne
+protégée.
 
 **Liens relatifs à cet article**
 
@@ -10540,14 +10523,9 @@ La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 
 	  - Loi n°1803-03-14
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+	  - Loi n°2007-308 du 5 mars 2007 - art. 10
 
 
 ###### Article 249-3
@@ -10583,21 +10561,15 @@ organisation de la tutelle ou de la curatelle. Toutefois, le juge peut prendre l
 
 ###### Article 249-4
 
-Lorsque l'un des époux se trouve placé sous l'un des régimes de protection prévus à l'article 490 ci-dessous, aucune demande
-en divorce par consentement mutuel ou pour acceptation du principe de la rupture du mariage ne peut être présentée.
-
-**Nota:**
-
-La loi 2004-439 du 26 mai 2004 entrera en vigueur le 1er janvier 2005 sauf pour les exceptions citées par l'article 33 II.
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+Lorsque l'un des époux se trouve placé sous l'un des régimes de protection prévus au chapitre II du titre XI du présent
+livre, aucune demande en divorce par consentement mutuel ou pour acceptation du principe de la rupture du mariage ne peut
+être présentée.
 
 **Liens relatifs à cet article**
 
 	**Liens**:
 
 	  - TXT_SOURCE: Directive 2003-87 CE 2003-10-13 (Parlement et Conseil)
-	  - SPEC_APPLI: Loi n°2004-439 2004-05-26 art. 32 I : Champ d'application
 
 	**Codifié par**:
 
@@ -10605,11 +10577,7 @@ La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 
 	**Modifié par**:
 
-	  - Loi n°2004-439 du 26 mai 2004 - art. 8 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
-
-	**Cite**:
-
-	  - Code civil - art. 490 (VD)
+	  - Loi n°2007-308 du 5 mars 2007 - art. 10
 
 
 #### Section 2 : De la procédure applicable au divorce par consentement mutuel
@@ -18100,368 +18068,19 @@ légués sous la condition expresse que les père et mère n'en jouiront pas.
 
 ### Chapitre Ier : De la minorité
 
-#### Section 1 : De l'administration légale
-
-###### Article 389
-
-Si l'autorité parentale est exercée en commun par les deux parents, ceux-ci sont administrateurs légaux. Dans les autres cas,
-l'administration légale appartient à celui des parents qui exerce l'autorité parentale.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Loi n°64-1230 du 14 décembre 1964 - art. 10 (V)
-	  - Loi n°64-1230 du 14 décembre 1964 - art. 9 (V)
-	  - Code civil - art. 2143 (T)
-	  - Code civil - art. 2409 (VT)
-	  - Code civil - art. 288 (Ab)
-
-	**Modifié par**:
-
-	  - Loi n°85-1372 du 23 décembre 1985 - art. 40 () JORF 26 décembre 1985 en vigueur le 1er janvier 1986
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°85-1372 du 23 décembre 1985 - art. 55 (V)
-	  - SPEC_APPLI: Loi n°2002-305 2002-305 2002-03-04 art. I (application à Mayotte)
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-
-###### Article 389-1
-
-L'administration légale est pure et simple quand les deux parents exercent en commun l'autorité parentale.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°85-1372 du 23 décembre 1985 - art. 40 () JORF 26 décembre 1985 en vigueur le 1er juillet 1986
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°85-1372 du 23 décembre 1985 - art. 55 (V)
-	  - SPEC_APPLI: Loi n°2002-305 2002-305 2002-03-04 art. I (application à Mayotte)
-
-	**Cité par**:
-
-	  - Code civil - art. 383 (M)
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-
-###### Article 389-2
-
-L'administration légale est placée sous le contrôle du juge des tutelles lorsque l'un ou l'autre des deux parents est décédé
-ou se trouve privé de l'exercice de l'autorité parentale ; elle l'est également, en cas d'exercice unilatéral de l'autorité
-parentale.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°85-1372 du 23 décembre 1985 - art. 55 (V)
-	  - SPEC_APPLI: Loi n°2002-305 2002-03-04 art. 19 I (application à Mayotte)
-
-	**Modifié par**:
-
-	  - Loi n°2002-305 du 4 mars 2002 - art. 8 () JORF 5 mars 2002
-
-	**Cité par**:
-
-	  - Code civil - art. 392 (V)
-
-
-###### Article 389-3
-
-L'administrateur légal représentera le mineur dans tous les actes civils, sauf les cas dans lesquels la loi ou l'usage
-autorise les mineurs à agir eux-mêmes.
-
-Quand ses intérêts sont en opposition avec ceux du mineur, il doit faire nommer un administrateur ad hoc par le juge des
-tutelles. A défaut de diligence de l'administrateur légal, le juge peut procéder à cette nomination à la demande du ministère
-public, du mineur lui-même ou d'office.
-
-Ne sont pas soumis à l'administration légale les biens qui auraient été donnés ou légués au mineur sous la condition qu'ils
-seraient administrés par un tiers. Ce tiers administrateur aura les pouvoirs qui lui auront été conférés par la donation ou
-le testament ; à défaut, ceux d'un administrateur légal sous contrôle judiciaire.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°2002-305 2002-305 2002-03-04 art. I (application à Mayotte)
-
-	**Modifié par**:
-
-	  - Loi n°93-22 du 8 janvier 1993 - art. 58 () JORF 9 janvier 1993
-
-	**Cité par**:
-
-	  - Décret n°2000-35 du 17 janvier 2000 - art. 1 (Ab)
-	  - Code civil - art. 317 (M)
-	  - Code civil - art. 388-2 (V)
-	  - Code de procédure civile - art. 1210-1 (M)
-	  - Code de procédure pénale - art. R93 (V)
-
-
-###### Article 389-4
-
-Dans l'administration légale pure et simple, chacun des parents est réputé, à l'égard des tiers, avoir reçu de l'autre le
-pouvoir de faire seul les actes pour lesquels un tuteur n'aurait besoin d'aucune autorisation.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°2002-305 2002-305 2002-03-04 art. I (application à Mayotte)
-	  - SPEC_APPLI: Loi n°85-1372 du 23 décembre 1985 - art. 55 (V)
-
-	**Modifié par**:
-
-	  - Loi n°85-1372 du 23 décembre 1985 - art. 41 () JORF 26 décembre 1985 en vigueur le 1er juillet 1986
-
-
-###### Article 389-5
-
-Dans l'administration légale pure et simple, les parents accomplissent ensemble les actes qu'un tuteur ne pourrait faire
-qu'avec l'autorisation du conseil de famille.
-
-A défaut d'accord entre les parents, l'acte doit être autorisé par le juge des tutelles.
-
-Même d'un commun accord, les parents ne peuvent ni vendre de gré à gré, ni apporter en société un immeuble ou un fonds de
-commerce appartenant au mineur, ni contracter d'emprunt en son nom, ni renoncer pour lui à un droit, sans l'autorisation du
-juge des tutelles. La même autorisation est requise pour le partage amiable, et l'état liquidatif doit être approuvé par le
-juge des tutelles.
-
-Si l'acte cause un préjudice au mineur, les parents en sont responsables solidairement.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°2006-728 du 23 juin 2006 - art. 29 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
-
-	**Cité par**:
-
-	  - Code de procédure civile - art. 1230 (M)
-	  - Code de procédure civile - art. 1239-1 (M)
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-
-###### Article 389-6
-
-Dans l'administration légale sous contrôle judiciaire, l'administrateur doit se pourvoir d'une autorisation du juge des
-tutelles pour accomplir les actes qu'un tuteur ne pourrait faire qu'avec une autorisation.
-
-Il peut faire seul les autres actes.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
-
-	**Modifié par**:
-
-	  - Loi n°75-617 1975-07-11 art. 4 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
-
-
-###### Article 389-7
-
-Les règles de la tutelle sont, pour le surplus, applicables à l'administration légale, avec les modalités résultant de ce que
-celle-ci ne comporte ni conseil de famille ni subrogé tuteur, et sans préjudicier, d'autre part, aux droits que les père et
-mère tiennent du titre "De l'autorité parentale", notamment quant à l'éducation de l'enfant et à l'usufruit de ses biens.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
-
-
-#### Section 2 : De la tutelle
-
-##### Sous-section 1 : Des cas d'ouverture et de fin de la tutelle
-
-###### Article 390
-
-La tutelle s'ouvre lorsque le père et la mère sont tous deux décédés ou se trouvent privés de l'exercice de l'autorité
-parentale.
-
-Elle s'ouvre, aussi, à l'égard d'un enfant qui n'a ni père ni mère.
-
-Il n'est pas dérogé aux lois particulières qui régissent le service de l'aide sociale à l'enfance.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Loi n°64-1230 du 14 décembre 1964 - art. 9 (V)
-	  - Code civil - art. 373-4 (M)
-	  - Code civil - art. 373-5 (V)
-	  - Code de l'action sociale et des familles - art. L122-2 (V)
-	  - Code de la famille et de l'aide sociale. - art. 193 (Ab)
-	  - Code de procédure civile - art. 1217 (V)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Ordonnance 2005-759 2005-07-04 art. 20 : Spécificité d'application
-
-	**Modifié par**:
-
-	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 17 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-
-###### Article 391
-
-Dans le cas de l'administration légale sous contrôle judiciaire, le juge des tutelles peut, à tout moment, soit d'office,
-soit à la requête de parents ou alliés ou du ministère public, décider d'ouvrir la tutelle après avoir entendu ou appelé,
-sauf urgence, l'administrateur légal. Celui-ci ne peut faire, à partir de la demande et jusqu'au jugement définitif, sauf le
-cas d'urgence, aucun acte qui requerrait l'autorisation du conseil de famille si la tutelle était ouverte.
-
-Le juge des tutelles peut aussi décider, mais seulement pour cause grave, d'ouvrir la tutelle dans le cas d'administration
-légale pure et simple.
-
-Dans l'un et l'autre cas, si la tutelle est ouverte, le juge des tutelles convoque le conseil de famille qui pourra soit
-nommer tuteur l'administrateur légal, soit désigner un autre tuteur.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Code civil - art. 428 (VT)
-	  - Code de procédure civile - art. 1217 (V)
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
-
-
-###### Article 392
-
-Si un enfant vient à être reconnu par l'un de ses deux parents après l'ouverture de la tutelle, le juge des tutelles pourra,
-à la requête de ce parent, décider de substituer à la tutelle l'administration légale dans les termes de l'article 389-2.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code civil - art. 389-2 (VT)
-
-	**Cité par**:
-
-	  - Code civil - art. 393 (M)
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Liens**:
-
-	  - SPEC_APPLI: Ordonnance 2005-759 2005-07-04 art. 20 : Spécificité d'application
-
-	**Modifié par**:
-
-	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 17 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
-
-
-## Titre X : De la minorité, de la tutelle et de l'émancipation.
-
-### Chapitre Ier : De la minorité.
-
 ###### Article 388
 
 Le mineur est l'individu de l'un ou l'autre sexe qui n'a point encore l'âge de dix-huit ans accomplis.
 
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
-
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
 
 	**Modifié par**:
 
-	  - Loi n°74-631 du 5 juillet 1974 - art. 1 () JORF 7 juillet 1974
+	  - Loi n°2007-308 du 5 mars 2007 - art. 2 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
 
 	**Cité par**:
 
@@ -18469,14 +18088,6 @@ La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 	  - Arrêté du 17 novembre 2016 (V)
 	  - Arrêté du 17 novembre 2016 - art. 8 (V)
 	  - Code de l'action sociale et des familles - art. R221-11 (V)
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°1803-03-26 promulguée le 5 avril 1803
 
 
 ###### Article 388-1
@@ -18492,10 +18103,6 @@ conforme à l'intérêt du mineur, le juge peut procéder à la désignation d'u
 L'audition du mineur ne lui confère pas la qualité de partie à la procédure.
 
 Le juge s'assure que le mineur a été informé de son droit à être entendu et à être assisté par un avocat.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 
 **Liens relatifs à cet article**
 
@@ -18521,7 +18128,7 @@ La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 
 	**Modifié par**:
 
-	  - Loi n°2007-293 du 5 mars 2007 - art. 9 () JORF 6 mars 2007
+	  - Loi n°2007-308 du 5 mars 2007 - art. 2 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
 
 	**Codifié par**:
 
@@ -18534,15 +18141,7 @@ Lorsque, dans une procédure, les intérêts d'un mineur apparaissent en opposit
 juge des tutelles dans les conditions prévues à l'article 389-3 ou, à défaut, le juge saisi de l'instance lui désigne un
 administrateur ad hoc chargé de le représenter.
 
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
-
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°93-22 du 8 janvier 1993 - art. 56 () JORF 9 janvier 1993
 
 	**Cité par**:
 
@@ -18550,39 +18149,361 @@ La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 	  - Code de procédure civile - art. 1210-1 (V)
 	  - Code de procédure pénale - art. R93 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 2 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+
 	**Cite**:
 
-	  - Code civil - art. 389-3 (VT)
+	  - Code civil - art. 389-3 (V)
 
 	**Codifié par**:
 
 	  - Loi n°1803-03-14
 
-	**Liens**:
 
-	  - SPEC_APPLI: Loi n°2002-305 2002-305 2002-03-04 art. I (application à Mayotte)
+###### Article 388-3
 
+Le juge des tutelles et le procureur de la République exercent une surveillance générale des administrations légales et des
+tutelles de leur ressort.
 
-### Chapitre II : De la tutelle.
+Les administrateurs légaux, tuteurs et autres organes tutélaires sont tenus de déférer à leur convocation et de leur
+communiquer toute information qu'ils requièrent.
 
-#### Section 2 : De l'organisation de la tutelle.
-
-##### Paragraphe 1 : Du juge des tutelles.
-
-###### Article 393
-
-Les fonctions de juge des tutelles sont exercées par un juge appartenant au tribunal d'instance dans le ressort duquel le
-mineur a son domicile.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+Le juge peut prononcer contre eux des injonctions et condamner à l'amende civile prévue par le code de procédure civile ceux
+qui n'y ont pas déféré.
 
 **Liens relatifs à cet article**
 
+	**Cité par**:
+
+	  - Code de procédure civile - art. 1216 (M)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
 	**Créé par**:
 
-	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+	  - Loi n°2007-308 du 5 mars 2007 - art. 4 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2015-1288 du 15 octobre 2015 - art. 5
+
+
+#### Section 1 : De l'administration légale
+
+###### Article 389
+
+Si l'autorité parentale est exercée en commun par les deux parents, ceux-ci sont administrateurs légaux. Dans les autres cas,
+l'administration légale appartient à celui des parents qui exerce l'autorité parentale.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°64-1230 du 14 décembre 1964 - art. 10 (V)
+	  - Loi n°64-1230 du 14 décembre 1964 - art. 9 (V)
+	  - Code civil - art. 2143 (T)
+	  - Code civil - art. 2409 (VT)
+	  - Code civil - art. 288 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 2 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2015-1288 du 15 octobre 2015 - art. 4
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 389-1
+
+L'administration légale est pure et simple quand les deux parents exercent en commun l'autorité parentale.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code civil - art. 383 (M)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Modifié par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 2 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2015-1288 du 15 octobre 2015 - art. 4
+
+
+###### Article 389-2
+
+L'administration légale est placée sous le contrôle du juge des tutelles lorsque l'un ou l'autre des deux parents est décédé
+ou se trouve privé de l'exercice de l'autorité parentale ; elle l'est également, en cas d'exercice unilatéral de l'autorité
+parentale.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code civil - art. 392 (VD)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Modifié par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 2 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2015-1288 du 15 octobre 2015 - art. 4
+
+
+###### Article 389-3
+
+L'administrateur légal représentera le mineur dans tous les actes civils, sauf les cas dans lesquels la loi ou l'usage
+autorise les mineurs à agir eux-mêmes.
+
+Quand ses intérêts sont en opposition avec ceux du mineur, il doit faire nommer un administrateur ad hoc par le juge des
+tutelles. A défaut de diligence de l'administrateur légal, le juge peut procéder à cette nomination à la demande du ministère
+public, du mineur lui-même ou d'office.
+
+Ne sont pas soumis à l'administration légale les biens qui auraient été donnés ou légués au mineur sous la condition qu'ils
+seraient administrés par un tiers. Ce tiers administrateur aura les pouvoirs qui lui auront été conférés par la donation ou
+le testament ; à défaut, ceux d'un administrateur légal sous contrôle judiciaire.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°2000-35 du 17 janvier 2000 - art. 1 (Ab)
+	  - Code civil - art. 317 (M)
+	  - Code civil - art. 388-2 (V)
+	  - Code de procédure civile - art. 1210-1 (M)
+	  - Code de procédure pénale - art. R93 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Modifié par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 2 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2015-1288 du 15 octobre 2015 - art. 4
+
+
+###### Article 389-4
+
+Dans l'administration légale pure et simple, chacun des parents est réputé, à l'égard des tiers, avoir reçu de l'autre le
+pouvoir de faire seul les actes pour lesquels un tuteur n'aurait besoin d'aucune autorisation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Modifié par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 2 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2015-1288 du 15 octobre 2015 - art. 4
+
+
+###### Article 389-5
+
+Dans l'administration légale pure et simple, les parents accomplissent ensemble les actes qu'un tuteur ne pourrait faire
+qu'avec l'autorisation du conseil de famille.
+
+A défaut d'accord entre les parents, l'acte doit être autorisé par le juge des tutelles.
+
+Même d'un commun accord, les parents ne peuvent ni vendre de gré à gré, ni apporter en société un immeuble ou un fonds de
+commerce appartenant au mineur, ni contracter d'emprunt en son nom, ni renoncer pour lui à un droit, sans l'autorisation du
+juge des tutelles. La même autorisation est requise pour le partage amiable, et l'état liquidatif doit être approuvé par le
+juge des tutelles.
+
+Si l'acte cause un préjudice au mineur, les parents en sont responsables solidairement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Modifié par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 2 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2015-1288 du 15 octobre 2015 - art. 4
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 1230 (M)
+	  - Code de procédure civile - art. 1239-1 (M)
+
+
+###### Article 389-6
+
+Dans l'administration légale sous contrôle judiciaire, l'administrateur doit se pourvoir d'une autorisation du juge des
+tutelles pour accomplir les actes qu'un tuteur ne pourrait faire qu'avec une autorisation.
+
+Il peut faire seul les autres actes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Modifié par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 2 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2015-1288 du 15 octobre 2015 - art. 4
+
+
+###### Article 389-7
+
+Les règles de la tutelle sont, pour le surplus, applicables à l'administration légale, avec les modalités résultant de ce que
+celle-ci ne comporte ni conseil de famille ni subrogé tuteur, et sans préjudicier, d'autre part, aux droits que les père et
+mère tiennent du titre "De l'autorité parentale", notamment quant à l'éducation de l'enfant et à l'usufruit de ses biens.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Modifié par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 2 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2015-1288 du 15 octobre 2015 - art. 4
+
+
+#### Section 2 : De la tutelle
+
+##### Sous-section 1 : Des cas d'ouverture et de fin de la tutelle
+
+###### Article 390
+
+La tutelle s'ouvre lorsque le père et la mère sont tous deux décédés ou se trouvent privés de l'exercice de l'autorité
+parentale.
+
+Elle s'ouvre, aussi, à l'égard d'un enfant qui n'a ni père ni mère.
+
+Il n'est pas dérogé aux lois particulières qui régissent le service de l'aide sociale à l'enfance.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°64-1230 du 14 décembre 1964 - art. 9 (V)
+	  - Code civil - art. 373-4 (M)
+	  - Code civil - art. 373-5 (V)
+	  - Code de l'action sociale et des familles - art. L122-2 (V)
+	  - Code de la famille et de l'aide sociale. - art. 193 (Ab)
+	  - Code de procédure civile - art. 1217 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 2 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 391
+
+Dans le cas de l'administration légale sous contrôle judiciaire, le juge des tutelles peut, à tout moment, soit d'office,
+soit à la requête de parents ou alliés ou du ministère public, décider d'ouvrir la tutelle après avoir entendu ou appelé,
+sauf urgence, l'administrateur légal. Celui-ci ne peut faire, à partir de la demande et jusqu'au jugement définitif, sauf le
+cas d'urgence, aucun acte qui requerrait l'autorisation du conseil de famille si la tutelle était ouverte.
+
+Le juge des tutelles peut aussi décider, mais seulement pour cause grave, d'ouvrir la tutelle dans le cas d'administration
+légale pure et simple.
+
+Dans l'un et l'autre cas, si la tutelle est ouverte, le juge des tutelles convoque le conseil de famille qui pourra soit
+nommer tuteur l'administrateur légal, soit désigner un autre tuteur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Modifié par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 2 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+
+	**Cité par**:
+
+	  - Code civil - art. 428 (VT)
+	  - Code de procédure civile - art. 1217 (V)
+
+
+###### Article 392
+
+Si un enfant vient à être reconnu par l'un de ses deux parents après l'ouverture de la tutelle, le juge des tutelles pourra,
+à la requête de ce parent, décider de substituer à la tutelle l'administration légale dans les termes de l'article 389-2.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 2 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+
+	**Cite**:
+
+	  - Code civil - art. 389-2 (V)
+
+	**Cité par**:
+
+	  - Code civil - art. 393 (M)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 393
+
+Sans préjudice des dispositions de l'article 392, la tutelle prend fin à l'émancipation du mineur ou à sa majorité. Elle
+prend également fin en cas de jugement de mainlevée passé en force de chose jugée ou en cas de décès de l'intéressé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Modifié par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 2 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+	  - Loi n°2007-308 du 5 mars 2007 - art. 5 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
 
 	**Nouveaux textes**:
 
@@ -18592,20 +18513,19 @@ La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L322-1 (Ab)
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Loi n°1803-03-14
+	  - Code civil - art. 392 (V)
 
+
+##### Sous-section 2 : De l'organisation et du fonctionnement de la tutelle
+
+##### Paragraphe 1 : Des charges tutélaires
 
 ###### Article 394
 
-Si le domicile du pupille est transporté dans un autre lieu, le tuteur en donne aussitôt avis au juge des tutelles
-antérieurement saisi. Celui-ci transmet le dossier de la tutelle au juge des tutelles du nouveau domicile. Mention de cette
-transmission sera conservée au greffe du tribunal d'instance.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+La tutelle, protection due à l'enfant, est une charge publique. Elle est un devoir des familles et de la collectivité
+publique.
 
 **Liens relatifs à cet article**
 
@@ -18613,34 +18533,29 @@ La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 
 	  - Loi n°1803-03-14
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+	  - Loi n°2007-308 du 5 mars 2007 - art. 2 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+	  - Loi n°2007-308 du 5 mars 2007 - art. 6 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
 
 
 ###### Article 395
 
-Le juge des tutelles exerce une surveillance générale sur les administrations légales et les tutelles de son ressort.
+Ne peuvent exercer les différentes charges de la tutelle : 
 
-Il peut convoquer les administrateurs légaux, tuteurs et autres organes tutélaires, leur réclamer des éclaircissements, leur
-adresser des observations, prononcer contre eux des injonctions.
+1° Les mineurs non émancipés, sauf s'ils sont le père ou la mère du mineur en tutelle ; 
 
-Il peut condamner à l'amende prévue au code de procédure civile ceux qui, sans excuse légitime, n'auront pas déféré à ses
-injonctions.
+2° Les majeurs qui bénéficient d'une mesure de protection juridique prévue par le présent code ; 
 
-**Nota:**
+3° Les personnes à qui l'autorité parentale a été retirée ; 
 
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+4° Les personnes à qui l'exercice des charges tutélaires a été interdit en application de l'article 131-26 du code pénal.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Cite**:
 
-	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de procédure civile 1230
+	  - Code pénal - art. 131-26 (V)
 
 	**Cité par**:
 
@@ -18653,20 +18568,31 @@ La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 
 	  - Loi n°1803-03-14
 
+	**Modifié par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 2 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+	  - Loi n°2007-308 du 5 mars 2007 - art. 6 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+
 
 ###### Article 396
 
-Les formes de procéder devant le juge des tutelles seront réglées par le code de procédure civile.
+Toute charge tutélaire peut être retirée en raison de l'inaptitude, de la négligence, de l'inconduite ou de la fraude de
+celui à qui elle a été confiée. Il en est de même lorsqu'un litige ou une contradiction d'intérêts empêche le titulaire de la
+charge de l'exercer dans l'intérêt du mineur.
 
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+Il peut être procédé au remplacement de toute personne à qui une charge tutélaire a été confiée en cas de changement
+important dans sa situation.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Codifié par**:
 
-	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+	  - Loi n°1803-03-14
+
+	**Modifié par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 2 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+	  - Loi n°2007-308 du 5 mars 2007 - art. 6 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
 
 	**Cité par**:
 
@@ -18674,27 +18600,24 @@ La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 	  - Code de procédure civile - art. 1234-4 (V)
 	  - Code des pensions militaires d'invalidité et de... - art. L422-2 (VD)
 
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-
-##### Paragraphe 2 : Du tuteur.
 
 ###### Article 397
 
-Le droit individuel de choisir un tuteur, parent ou non, n'appartient qu'au dernier mourant des père et mère, s'il a
-conservé, au jour de sa mort, l'exercice de l'administration légale ou de la tutelle.
+Le conseil de famille statue sur les empêchements, les retraits et les remplacements qui intéressent le tuteur et le subrogé
+tuteur.
 
-**Nota:**
+Le juge des tutelles statue sur ceux qui intéressent les autres membres du conseil de famille.
 
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+Une charge tutélaire ne peut être retirée, par celui qui l'a confiée, qu'après que son titulaire a été entendu ou appelé.
+
+Le juge peut, s'il estime qu'il y a urgence, prescrire des mesures provisoires dans l'intérêt du mineur.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+	  - Loi n°2007-308 du 5 mars 2007 - art. 2 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+	  - Loi n°2007-308 du 5 mars 2007 - art. 6 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
 
 	**Cité par**:
 
@@ -18706,19 +18629,49 @@ La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 	  - Loi n°1803-03-14
 
 
+##### Paragraphe 2 : Du conseil de famille
+
 ###### Article 398
 
-Cette nomination ne peut être faite que dans la forme d'un testament ou d'une déclaration spéciale devant notaire.
+Même en présence d'un tuteur testamentaire et sauf vacance, la tutelle est organisée avec un conseil de famille.
 
-**Nota:**
+**Liens relatifs à cet article**
 
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Modifié par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 2 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+	  - Loi n°2007-308 du 5 mars 2007 - art. 6 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+
+	**Cité par**:
+
+	  - Code civil - art. 456 (V)
+
+
+###### Article 399
+
+Le juge des tutelles désigne les membres du conseil de famille pour la durée de la tutelle.
+
+Le conseil de famille est composé d'au moins quatre membres, y compris le tuteur et le subrogé tuteur, mais non le juge.
+
+Peuvent être membres du conseil de famille les parents et alliés des père et mère du mineur ainsi que toute personne,
+résidant en France ou à l'étranger, qui manifeste un intérêt pour lui.
+
+Les membres du conseil de famille sont choisis en considération de l'intérêt du mineur et en fonction de leur aptitude, des
+relations habituelles qu'ils entretenaient avec le père ou la mère de celui-ci, des liens affectifs qu'ils ont avec lui ainsi
+que de la disponibilité qu'ils présentent.
+
+Le juge doit éviter, dans la mesure du possible, de laisser l'une des deux branches, paternelle ou maternelle, sans
+représentation.
 
 **Liens relatifs à cet article**
 
 	**Créé par**:
 
-	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+	  - Loi n°2007-308 du 5 mars 2007 - art. 6 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
 
 	**Cité par**:
 
@@ -18729,14 +18682,13 @@ La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 	  - Loi n°1803-03-14
 
 
-###### Article 401
+###### Article 400
 
-Le tuteur élu par le père ou la mère n'est pas tenu d'accepter la tutelle s'il n'est d'ailleurs dans la classe des personnes
-qu'à défaut de cette élection spéciale le conseil de famille eût pu en charger.
+Le conseil de famille est présidé par le juge des tutelles. Ses délibérations sont adoptées par vote de ses membres.
 
-**Nota:**
+Toutefois, le tuteur ou le subrogé tuteur, dans le cas où il remplace le tuteur, ne vote pas.
 
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+En cas de partage des voix, celle du juge est prépondérante.
 
 **Liens relatifs à cet article**
 
@@ -18746,7 +18698,29 @@ La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 
 	**Créé par**:
 
-	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+	  - Loi n°2007-308 du 5 mars 2007 - art. 6 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+
+
+###### Article 401
+
+Le conseil de famille règle les conditions générales de l'entretien et de l'éducation du mineur en ayant égard à la volonté
+que les père et mère avaient pu exprimer.
+
+Il apprécie les indemnités qui peuvent être allouées au tuteur.
+
+Il prend les décisions et donne au tuteur les autorisations nécessaires pour la gestion des biens du mineur conformément aux
+dispositions du titre XII.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Modifié par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 2 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+	  - Loi n°2007-308 du 5 mars 2007 - art. 6 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
 
 	**Cité par**:
 
@@ -18755,18 +18729,29 @@ La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 
 ###### Article 402
 
-Lorsqu'il n'a pas été choisi de tuteur par le dernier mourant des père et mère, la tutelle de l'enfant est déférée à celui
-des ascendants qui est du degré le plus rapproché.
+Les délibérations du conseil de famille sont nulles lorsqu'elles ont été surprises par dol ou fraude ou que des formalités
+substantielles ont été omises. 
 
-**Nota:**
+La nullité est couverte par une nouvelle délibération valant confirmation selon l'article 1338. 
 
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+L'action en nullité peut être exercée par le tuteur, le subrogé tuteur, les autres membres du conseil de famille et le
+procureur de la République dans les deux années de la délibération ainsi que par le mineur devenu majeur ou émancipé dans les
+deux années de sa majorité ou de son émancipation. La prescription ne court pas s'il y a eu dol ou fraude tant que le fait
+qui en est à l'origine n'est pas découvert. 
+
+Les actes accomplis en vertu d'une délibération annulée sont annulables de la même manière. Le délai court toutefois de
+l'acte et non de la délibération.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2002-305 du 4 mars 2002 - art. 10 () JORF 5 mars 2002
+	  - Loi n°2007-308 du 5 mars 2007 - art. 2 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+	  - Loi n°2007-308 du 5 mars 2007 - art. 6 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+
+	**Cite**:
+
+	  - Code civil - art. 1338 (V)
 
 	**Cité par**:
 
@@ -18777,19 +18762,20 @@ La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 	  - Loi n°1803-03-14
 
 
+##### Paragraphe 3 : Du tuteur
+
 ###### Article 403
 
-En cas de concours entre ascendants du même degré, le conseil de famille désigne celui d'entre eux qui sera tuteur.
+Le droit individuel de choisir un tuteur, qu'il soit ou non parent du mineur, n'appartient qu'au dernier vivant des père et
+mère s'il a conservé, au jour de son décès, l'exercice de l'autorité parentale.
 
-**Nota:**
+Cette désignation ne peut être faite que dans la forme d'un testament ou d'une déclaration spéciale devant notaire.
 
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+Elle s'impose au conseil de famille à moins que l'intérêt du mineur commande de l'écarter.
+
+Le tuteur désigné par le père ou la mère n'est pas tenu d'accepter la tutelle.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
 
 	**Cité par**:
 
@@ -18799,15 +18785,16 @@ La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 
 	  - Loi n°1803-03-14
 
+	**Modifié par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 2 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+	  - Loi n°2007-308 du 5 mars 2007 - art. 6 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+
 
 ###### Article 404
 
-S'il n'y a ni tuteur testamentaire ni ascendant tuteur ou si celui qui avait été désigné en cette qualité vient à cesser ses
-fonctions, un tuteur sera donné au mineur par le conseil de famille.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+S'il n'y a pas de tuteur testamentaire ou si celui qui a été désigné en cette qualité vient à cesser ses fonctions, le
+conseil de famille désigne un tuteur au mineur.
 
 **Liens relatifs à cet article**
 
@@ -18815,20 +18802,25 @@ La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 
 	  - Loi n°1803-03-14
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+	  - Loi n°2007-308 du 5 mars 2007 - art. 2 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+	  - Loi n°2007-308 du 5 mars 2007 - art. 6 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
 
 
 ###### Article 405
 
-Ce conseil sera convoqué par le juge des tutelles, soit d'office, soit sur la réquisition que lui en feront des parents ou
-alliés des père et mère, des créanciers ou autres parties intéressées, ou le ministère public. Toute personne pourra dénoncer
-au juge le fait qui donnera lieu à la nomination d'un tuteur.
+Le conseil de famille peut, en considération de la situation du mineur, des aptitudes des intéressés et de la consistance du
+patrimoine à administrer, désigner plusieurs tuteurs pour exercer en commun la mesure de protection. Chaque tuteur est
+réputé, à l'égard des tiers, avoir reçu des autres le pouvoir de faire seul les actes pour lesquels un tuteur n'aurait besoin
+d'aucune autorisation.
 
-**Nota:**
+Le conseil de famille peut décider que l'exercice de la tutelle sera divisé entre un tuteur chargé de la personne du mineur
+et un tuteur chargé de la gestion de ses biens ou que la gestion de certains biens particuliers sera confiée à un tuteur
+adjoint.
 
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+A moins qu'il en ait été autrement décidé par le conseil de famille, les tuteurs désignés en application du deuxième alinéa
+sont indépendants et ne sont pas responsables l'un envers l'autre. Ils s'informent toutefois des décisions qu'ils prennent.
 
 **Liens relatifs à cet article**
 
@@ -18836,61 +18828,39 @@ La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 
 	  - Loi n°1803-03-14
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+	  - Loi n°2007-308 du 5 mars 2007 - art. 2 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+	  - Loi n°2007-308 du 5 mars 2007 - art. 6 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
 
 
 ###### Article 406
 
 Le tuteur est désigné pour la durée de la tutelle.
 
-Le conseil de famille peut néanmoins pourvoir à son remplacement en cours de tutelle, si des circonstances graves le
-requièrent, sans préjudice des cas d'excuse, d'incapacité ou de destitution.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
-
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
 
 	**Cité par**:
 
 	  - Décret du 26 mars 1910 - art. 11 (Ab)
 
+	**Codifié par**:
 
-##### Paragraphe 3 : Du conseil de famille.
+	  - Loi n°1803-03-14
+
+	**Modifié par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 2 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+	  - Loi n°2007-308 du 5 mars 2007 - art. 6 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+
 
 ###### Article 407
 
-Le conseil de famille est composé de quatre à six membres, y compté le subrogé tuteur, mais non le tuteur ni le juge des
-tutelles. 
+La tutelle est une charge personnelle.
 
-Le juge les désigne pour la durée de la tutelle. Il peut, néanmoins, sans préjudice des articles 428 et suivants, pourvoir
-d'office au remplacement d'un ou plusieurs membres en cours de tutelle afin de répondre à des changements qui auraient pu
-survenir dans la situation des parties.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+Elle ne se transmet pas aux héritiers du tuteur.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
-
-	**Cite**:
-
-	  - Code civil - art. 428 (VT)
 
 	**Cité par**:
 
@@ -18900,20 +18870,22 @@ La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 
 	  - Loi n°1803-03-14
 
+	**Modifié par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 2 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+	  - Loi n°2007-308 du 5 mars 2007 - art. 6 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+
 
 ###### Article 408
 
-Le juge des tutelles choisit les membres du conseil de famille parmi les parents ou alliés des père et mère du mineur, en
-appréciant toutes les circonstances du cas : la proximité du degré, le lieu de la résidence, l'âge et les aptitudes des
-intéressés.
+Le tuteur prend soin de la personne du mineur et le représente dans tous les actes de la vie civile, sauf les cas dans
+lesquels la loi ou l'usage autorise le mineur à agir lui-même.
 
-Il doit éviter, autant que possible, de laisser l'une des deux lignes sans représentation. Mais il a égard, avant tout, aux
-relations habituelles que le père et la mère avaient avec leurs différents parents ou alliés, ainsi qu'à l'intérêt que ces
-parents ou alliés ont porté ou paraissent pouvoir porter à la personne de l'enfant.
+Il représente le mineur en justice. Toutefois, il ne peut agir, en demande ou en défense, pour faire valoir les droits
+extrapatrimoniaux qu'après autorisation ou sur injonction du conseil de famille. Celui-ci peut également enjoindre au tuteur
+de se désister de l'instance ou de l'action, ou de transiger.
 
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+Le tuteur gère les biens du mineur et rend compte de sa gestion conformément aux dispositions du titre XII.
 
 **Liens relatifs à cet article**
 
@@ -18921,19 +18893,22 @@ La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 
 	  - Loi n°1803-03-14
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+	  - Loi n°2007-308 du 5 mars 2007 - art. 2 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+	  - Loi n°2007-308 du 5 mars 2007 - art. 6 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
 
+
+##### Paragraphe 4 : Du subrogé tuteur
 
 ###### Article 409
 
-Le juge des tutelles peut aussi appeler pour faire partie du conseil de famille, des amis, des voisins ou toutes autres
-personnes qui lui semblent pouvoir s'intéresser à l'enfant.
+La tutelle comporte un subrogé tuteur nommé par le conseil de famille parmi ses membres.
 
-**Nota:**
+Si le tuteur est parent ou allié du mineur dans une branche, le subrogé tuteur est choisi, dans la mesure du possible, dans
+l'autre branche.
 
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+La charge du subrogé tuteur cesse à la même date que celle du tuteur.
 
 **Liens relatifs à cet article**
 
@@ -18941,28 +18916,31 @@ La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 
 	  - Loi n°1803-03-14
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+	  - Loi n°2007-308 du 5 mars 2007 - art. 2 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+	  - Loi n°2007-308 du 5 mars 2007 - art. 6 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
 
 
 ###### Article 410
 
-Le conseil de famille est convoqué par le juge des tutelles. Il doit l'être si la convocation est requise, soit par deux de
-ses membres, soit par le tuteur ou le subrogé tuteur, soit par le mineur lui-même pourvu qu'il ait seize ans révolus.
+Le subrogé tuteur surveille l'exercice de la mission tutélaire et représente le mineur lorsque les intérêts de celui-ci sont
+en opposition avec ceux du tuteur.
 
-Le conseil de famille est également convoqué à la demande du mineur âgé de moins de seize ans et capable de discernement,
-sauf décision contraire spécialement motivée du juge.
+Le subrogé tuteur est informé et consulté avant tout acte important accompli par le tuteur.
 
-**Nota:**
+A peine d'engager sa responsabilité à l'égard du mineur, il surveille les actes passés par le tuteur en cette qualité et
+informe sans délai le juge des tutelles s'il constate des fautes dans l'exercice de la mission tutélaire.
 
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+Il ne remplace pas de plein droit le tuteur en cas de cessation des fonctions de celui-ci ; mais il est tenu, sous la même
+responsabilité, de provoquer la nomination d'un nouveau tuteur.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°98-381 du 14 mai 1998 - art. 1 () JORF 19 mai 1998
+	  - Loi n°2007-308 du 5 mars 2007 - art. 2 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+	  - Loi n°2007-308 du 5 mars 2007 - art. 6 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
 
 	**Cité par**:
 
@@ -18973,26 +18951,24 @@ La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 	  - Loi n°1803-03-14
 
 
+##### Paragraphe 5 : De la vacance de la tutelle
+
 ###### Article 411
 
-La convocation doit être faite huit jours au moins avant la réunion. 
+Si la tutelle reste vacante, le juge des tutelles la défère à la collectivité publique compétente en matière d'aide sociale à
+l'enfance.
 
-Préalablement à cette réunion, le juge procède à l'audition du mineur capable de discernement dans les conditions prévues à
-l'article 388-1.
+En ce cas, la tutelle ne comporte ni conseil de famille ni subrogé tuteur.
 
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+La personne désignée pour exercer cette tutelle a, sur les biens du mineur, les pouvoirs d'un administrateur légal sous
+contrôle judiciaire.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°98-381 du 14 mai 1998 - art. 2 () JORF 19 mai 1998
-
-	**Cite**:
-
-	  - Code civil - art. 388-1 (VT)
+	  - Loi n°2007-308 du 5 mars 2007 - art. 2 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+	  - Loi n°2007-308 du 5 mars 2007 - art. 6 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
 
 	**Cité par**:
 
@@ -19005,24 +18981,23 @@ La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 	  - Loi n°1803-03-14
 
 
+##### Paragraphe 6 : De la responsabilité
+
 ###### Article 412
 
-Les membres du conseil de famille sont tenus de se rendre en personne à la réunion. Chacun peut, toutefois, se faire
-représenter par un parent ou allié des père et mère du mineur, si ce parent ou allié n'est pas déjà, en son propre nom,
-membre du conseil de famille. Le mari peut représenter la femme ou réciproquement.
+Tous les organes de la tutelle sont responsables du dommage résultant d'une faute quelconque qu'ils commettent dans
+l'exercice de leur fonction.
 
-Les membres du conseil de famille qui, sans excuse légitime, ne seront ni présents ni valablement représentés, encourront
-l'amende prévue au code de procédure civile.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+Lorsque la faute à l'origine du dommage a été commise dans l'organisation et le fonctionnement de la tutelle par le juge des
+tutelles, le greffier en chef du tribunal d'instance ou le greffier, l'action en responsabilité est dirigée contre l'Etat qui
+dispose d'une action récursoire.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+	  - Loi n°2007-308 du 5 mars 2007 - art. 2 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+	  - Loi n°2007-308 du 5 mars 2007 - art. 6 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
 
 	**Cité par**:
 
@@ -19032,10 +19007,6 @@ La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 	  - Décret du 26 mars 1910 - art. 12 (Ab)
 	  - Nouveau code de procédure civile - art. 1230 (V)
 
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de procédure civile 1230
-
 	**Codifié par**:
 
 	  - Loi n°1803-03-14
@@ -19043,29 +19014,19 @@ La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 
 ###### Article 413
 
-Si le juge des tutelles estime que la décision peut être prise sans que la tenue d'une séance soit nécessaire, il communique
-à chacun des membres du conseil le texte de la décision à prendre en y joignant les éclaircissements utiles.
-
-Chacun des membres émettra son vote par lettre missive dans le délai que le juge lui aura imparti ; faute de quoi, il
-encourra l'amende prévue au code de procédure civile.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+L'action en responsabilité se prescrit par cinq ans à compter de la majorité de l'intéressé, alors même que la gestion aurait
+continué au-delà, ou de la fin de la mesure si elle cesse avant.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de procédure civile 1230
 
 	**Codifié par**:
 
 	  - Loi n°1803-03-14
+
+	**Modifié par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 2 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+	  - Loi n°2007-308 du 5 mars 2007 - art. 6 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
 
 	**Cité par**:
 
@@ -19073,20 +19034,200 @@ La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 	  - Nouveau code de procédure civile - art. 1230 (V)
 
 
-###### Article 414
+### Chapitre II : De l'émancipation
 
-Le conseil de famille ne peut délibérer que si la moitié au moins de ses membres sont présents ou représentés. Si ce nombre
-n'est pas réuni, le juge peut soit ajourner la séance, soit, en cas d'urgence, prendre lui-même la décision.
+###### Article 413-1
 
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+Le mineur est émancipé de plein droit par le mariage.
 
 **Liens relatifs à cet article**
 
 	**Créé par**:
 
-	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+	  - Loi n°2007-308 du 5 mars 2007 - art. 1 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+
+	**Anciens textes**:
+
+	  - Code civil - art. 476 (AbD)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 413-2
+
+Le mineur, même non marié, pourra être émancipé lorsqu'il aura atteint l'âge de seize ans révolus.
+
+Après audition du mineur, cette émancipation sera prononcée, s'il y a de justes motifs, par le juge des tutelles, à la
+demande des père et mère ou de l'un d'eux.
+
+Lorsque la demande sera présentée par un seul des parents, le juge décidera, après avoir entendu l'autre, à moins que ce
+dernier soit dans l'impossibilité de manifester sa volonté.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 1 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+
+	**Anciens textes**:
+
+	  - Code civil - art. 477 (AbD)
+	  - Code civil - art. 477 (M)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 413-3
+
+Le mineur resté sans père ni mère pourra de la même manière être émancipé à la demande du conseil de famille.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 1 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+
+	**Anciens textes**:
+
+	  - Code civil - art. 478 (AbD)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 413-4
+
+Lorsque, dans le cas de l'article précédent, aucune diligence n'ayant été faite par le tuteur, un membre du conseil de
+famille estimera que le mineur est capable d'être émancipé, il pourra requérir le juge des tutelles de convoquer le conseil
+pour délibérer à ce sujet. Le mineur lui-même pourra demander cette convocation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 1 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+
+	**Cite**:
+
+	  - Code civil - art. 478 (AbD)
+
+	**Anciens textes**:
+
+	  - Code civil - art. 479 (AbD)
+
+
+###### Article 413-5
+
+Le compte de l'administration ou de la tutelle, selon les cas, est rendu au mineur émancipé dans les conditions prévues par
+l'article 514.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 1 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+
+	**Anciens textes**:
+
+	  - Code civil - art. 480 (AbD)
+
+	**Cite**:
+
+	  - Code civil - art. 514 (VT)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 413-6
+
+Le mineur émancipé est capable, comme un majeur, de tous les actes de la vie civile.
+
+Il doit néanmoins, pour se marier ou se donner en adoption, observer les mêmes règles que s'il n'était point émancipé.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 1 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+
+	**Anciens textes**:
+
+	  - Code civil - art. 481 (AbD)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 413-7
+
+Le mineur émancipé cesse d'être sous l'autorité de ses père et mère.
+
+Ceux-ci ne sont pas responsables de plein droit, en leur seule qualité de père ou de mère, du dommage qu'il pourra causer à
+autrui postérieurement à son émancipation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 1 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+
+	**Anciens textes**:
+
+	  - Code civil - art. 482 (AbD)
+
+
+###### Article 413-8
+
+Le mineur émancipé ne peut être commerçant.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 1 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+
+	**Cité par**:
+
+	  - Ordonnance n°2012-1222 du 2 novembre 2012 - art. 4 (V)
+
+	**Anciens textes**:
+
+	  - Code civil - art. 487 (AbD)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+## Titre XI : De la majorité et des majeurs protégés par la loi
+
+### Chapitre Ier : Des dispositions générales
+
+###### Article 414
+
+La majorité est fixée à dix-huit ans accomplis ; à cet âge, chacun est capable d'exercer les droits dont il a la jouissance.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
 
 	**Cité par**:
 
@@ -19098,27 +19239,109 @@ La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 	  - Loi n°1803-03-14
 
 
+#### Section 1 : Des dispositions indépendantes des mesures de protection
+
+###### Article 414-1
+
+Pour faire un acte valable, il faut être sain d'esprit. C'est à ceux qui agissent en nullité pour cette cause de prouver
+l'existence d'un trouble mental au moment de l'acte.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 23 décembre 2009 - art. Annexe (V)
+	  - Code civil - art. 1129 (V)
+	  - Code civil - art. 435 (VD)
+	  - Code civil - art. 466 (V)
+	  - Code civil - art. 488 (VD)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+
+
+###### Article 414-2
+
+De son vivant, l'action en nullité n'appartient qu'à l'intéressé. 
+
+Après sa mort, les actes faits par lui, autres que la donation entre vifs et le testament, ne peuvent être attaqués par ses
+héritiers, pour insanité d'esprit, que dans les cas suivants : 
+
+1° Si l'acte porte en lui-même la preuve d'un trouble mental ; 
+
+2° S'il a été fait alors que l'intéressé était placé sous sauvegarde de justice ; 
+
+3° Si une action a été introduite avant son décès aux fins d'ouverture d'une curatelle ou d'une tutelle ou si effet a été
+donné au mandat de protection future.
+
+L'action en nullité s'éteint par le délai de cinq ans prévu à l'article 1304.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+
+	**Cité par**:
+
+	  - Décret n°2008-1484 du 22 décembre 2008 - art. Annexe 1 (V)
+
+	**Cite**:
+
+	  - Code civil - art. 1304 (VT)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 414-3
+
+Celui qui a causé un dommage à autrui alors qu'il était sous l'empire d'un trouble mental n'en est pas moins obligé à
+réparation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+
+	**Cité par**:
+
+	  - Loi n°2008-174 du 25 février 2008 - art. 11 (V)
+	  - Code de procédure pénale - art. 706-125 (M)
+	  - Code de procédure pénale - art. 706-131 (V)
+	  - Code de procédure pénale - art. 706-133 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+#### Section 2 : Des dispositions communes aux majeurs protégés
+
 ###### Article 415
 
-Le conseil de famille est présidé par le juge des tutelles, qui aura voix délibérative et prépondérante en cas de partage.
+Les personnes majeures reçoivent la protection de leur personne et de leurs biens que leur état ou leur situation rend
+nécessaire selon les modalités prévues au présent titre.
 
-Le tuteur doit assister à la séance ; il y est entendu mais ne vote pas, non plus que le subrogé tuteur dans le cas où il
-remplace le tuteur.
+Cette protection est instaurée et assurée dans le respect des libertés individuelles, des droits fondamentaux et de la
+dignité de la personne.
 
-Le mineur capable de discernement peut, si le juge ne l'estime pas contraire à son intérêt, assister à la séance à titre
-consultatif. Le mineur de seize ans révolus est obligatoirement convoqué quand le conseil a été réuni à sa réquisition.
+Elle a pour finalité l'intérêt de la personne protégée. Elle favorise, dans la mesure du possible, l'autonomie de celle-ci.
 
-En aucun cas, son assentiment à un acte ne décharge le tuteur et les autres organes de la tutelle de leurs responsabilités.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+Elle est un devoir des familles et de la collectivité publique.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°98-381 du 14 mai 1998 - art. 3 () JORF 19 mai 1998
+	  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
 
 	**Cité par**:
 
@@ -19131,36 +19354,16 @@ La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 
 ###### Article 416
 
-Les délibérations du conseil de famille sont nulles lorsqu'elles ont été surprises par dol ou fraude, ou que des formalités
-substantielles ont été omises. 
+Le juge des tutelles et le procureur de la République exercent une surveillance générale des mesures de protection dans leur
+ressort.
 
-La nullité est couverte par une nouvelle délibération valant confirmation selon l'article 1338.
+Ils peuvent visiter ou faire visiter les personnes protégées et celles qui font l'objet d'une demande de protection, quelle
+que soit la mesure prononcée ou sollicitée.
 
-L'action en nullité peut être exercée par le tuteur, le subrogé tuteur, les membres du conseil de famille ou par le ministère
-public, dans les deux années de la délibération, ainsi que par le pupille devenu majeur ou émancipé, dans les deux années de
-sa majorité ou de son émancipation. La prescription ne court pas s'il y a eu dol ou fraude, jusqu'à ce que le fait ait été
-découvert. 
-
-Les actes accomplis en vertu d'une délibération annulée sont eux-mêmes annulables de la même manière. Le délai courra,
-toutefois, de l'acte et non de la délibération.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+Les personnes chargées de la protection sont tenues de déférer à leur convocation et de leur communiquer toute information
+qu'ils requièrent.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
-
-	**Cite**:
-
-	  - Code civil - art. 1338 (V)
 
 	**Cité par**:
 
@@ -19171,48 +19374,50 @@ La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 	  - Code de l'action sociale et des familles - art. L574-6 (V)
 	  - Code de procédure civile - art. 1212 (V)
 
-
-##### Paragraphe 4 : Des autres organes de la tutelle.
-
-###### Article 417
-
-Le conseil de famille peut, en considérant les aptitudes des intéressés et la consistance du patrimoine à administrer,
-décider que la tutelle sera divisée entre un tuteur à la personne et un tuteur aux biens, ou que la gestion de certains biens
-particuliers sera confiée à un tuteur adjoint.
-
-Les tuteurs ainsi nommés seront indépendants, et non responsables l'un envers l'autre, dans leurs fonctions respectives, à
-moins qu'il n'en ait été autrement ordonné par le conseil de famille.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
-
-**Liens relatifs à cet article**
-
 	**Codifié par**:
 
 	  - Loi n°1803-03-14
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+	  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+
+
+###### Article 417
+
+Le juge des tutelles peut prononcer des injonctions contre les personnes chargées de la protection et condamner à l'amende
+civile prévue par le code de procédure civile celles qui n'y ont pas déféré.
+
+Il peut les dessaisir de leur mission en cas de manquement caractérisé dans l'exercice de celle-ci, après les avoir entendues
+ou appelées.
+
+Il peut, dans les mêmes conditions, demander au procureur de la République de solliciter la radiation d'un mandataire
+judiciaire à la protection des majeurs de la liste prévue à l'article L. 471-2 du code de l'action sociale et des familles.
+
+**Liens relatifs à cet article**
 
 	**Cité par**:
 
 	  - Code de procédure civile - art. 1213 (V)
 	  - Code de procédure civile - art. 1216 (V)
 
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L471-2 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Modifié par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+
 
 ###### Article 418
 
-La tutelle est une charge personnelle.
-
-Elle ne se communique point au conjoint du tuteur. Si, pourtant, ce conjoint s'immisce dans la gestion du patrimoine
-pupillaire, il devient responsable solidairement avec le tuteur de toute la gestion postérieure à son immixtion.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+Sans préjudice de l'application des règles de la gestion d'affaires, le décès de la personne protégée met fin à la mission de
+la personne chargée de la protection.
 
 **Liens relatifs à cet article**
 
@@ -19220,25 +19425,40 @@ La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 
 	  - Loi n°1803-03-14
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+	  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
 
 
 ###### Article 419
 
-La tutelle ne passe point aux héritiers du tuteur. Ceux-ci seront seulement responsables de la gestion de leur auteur ; et,
-s'ils sont majeurs, ils seront tenus à la continuer jusqu'à la nomination d'un nouveau tuteur.
+Les personnes autres que le mandataire judiciaire à la protection des majeurs exercent à titre gratuit les mesures
+judiciaires de protection. Toutefois, le juge des tutelles ou le conseil de famille s'il a été constitué peut autoriser,
+selon l'importance des biens gérés ou la difficulté d'exercer la mesure, le versement d'une indemnité à la personne chargée
+de la protection. Il en fixe le montant. Cette indemnité est à la charge de la personne protégée.
 
-**Nota:**
+Si la mesure judiciaire de protection est exercée par un mandataire judiciaire à la protection des majeurs, son financement
+est à la charge totale ou partielle de la personne protégée en fonction de ses ressources et selon les modalités prévues par
+le code de l'action sociale et des familles.
 
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+Lorsque le financement de la mesure ne peut être intégralement assuré par la personne protégée, il est pris en charge par la
+collectivité publique, selon des modalités de calcul communes à tous les mandataires judiciaires à la protection des majeurs
+et tenant compte des conditions de mise en oeuvre de la mesure, quelles que soient les sources de financement. Ces modalités
+sont fixées par décret.
+
+A titre exceptionnel, le juge ou le conseil de famille s'il a été constitué peut, après avoir recueilli l'avis du procureur
+de la République, allouer au mandataire judiciaire à la protection des majeurs, pour l'accomplissement d'un acte ou d'une
+série d'actes requis par la mesure de protection et impliquant des diligences particulièrement longues ou complexes, une
+indemnité en complément des sommes perçues au titre des deux alinéas précédents lorsqu'elles s'avèrent manifestement
+insuffisantes. Cette indemnité est à la charge de la personne protégée.
+
+Le mandat de protection future s'exerce à titre gratuit sauf stipulations contraires.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+	  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
 
 	**Cité par**:
 
@@ -19251,17 +19471,13 @@ La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 
 ###### Article 420
 
-Dans toute tutelle, il y aura un subrogé tuteur, nommé par le conseil de famille parmi ses membres.
+Sous réserve des aides ou subventions accordées par les collectivités publiques aux personnes morales pour leur
+fonctionnement général, les mandataires judiciaires à la protection des majeurs ne peuvent, à quelque titre et sous quelque
+forme que ce soit, percevoir aucune autre somme ou bénéficier d'aucun avantage financier en relation directe ou indirecte
+avec les missions dont ils ont la charge.
 
-Les fonctions du subrogé tuteur consisteront à surveiller la gestion tutélaire et à représenter le mineur lorsque ses
-intérêts seront en opposition avec ceux du tuteur.
-
-S'il constate des fautes dans la gestion du tuteur, il doit, à peine d'engager sa responsabilité personnelle, en informer
-immédiatement le juge des tutelles.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+Ils ne peuvent délivrer un mandat de recherche des héritiers de la personne protégée qu'après autorisation du juge des
+tutelles.
 
 **Liens relatifs à cet article**
 
@@ -19269,19 +19485,36 @@ La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 
 	  - Loi n°1803-03-14
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+	  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
 
 
 ###### Article 421
 
-Si le tuteur s'est ingéré dans la gestion avant la nomination du subrogé tuteur, il pourra, s'il y a eu fraude de sa part,
-être destitué de la tutelle, sans préjudice des indemnités dues au mineur.
+Tous les organes de la mesure de protection judiciaire sont responsables du dommage résultant d'une faute quelconque qu'ils
+commettent dans l'exercice de leur fonction. Toutefois, sauf cas de curatelle renforcée, le curateur et le subrogé curateur
+n'engagent leur responsabilité, du fait des actes accomplis avec leur assistance, qu'en cas de dol ou de faute lourde.
 
-**Nota:**
+**Liens relatifs à cet article**
 
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Modifié par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+
+
+###### Article 422
+
+Lorsque la faute à l'origine du dommage a été commise dans l'organisation et le fonctionnement de la mesure de protection par
+le juge des tutelles, le greffier en chef du tribunal d'instance ou le greffier, l'action en responsabilité diligentée par la
+personne protégée ou ayant été protégée ou par ses héritiers est dirigée contre l'Etat qui dispose d'une action récursoire.
+
+Lorsque la faute à l'origine du dommage a été commise par le mandataire judiciaire à la protection des majeurs, l'action en
+responsabilité peut être dirigée contre celui-ci ou contre l'Etat qui dispose d'une action récursoire.
 
 **Liens relatifs à cet article**
 
@@ -19291,17 +19524,18 @@ La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 
 	**Créé par**:
 
-	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+	  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+
+	**Cité par**:
+
+	  - Ordonnance n°2012-1222 du 2 novembre 2012 - art. 4 (V)
 
 
 ###### Article 423
 
-Si le tuteur n'est parent ou allié du mineur que dans une ligne, le subrogé tuteur est pris, autant que possible, dans
-l'autre ligne.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+L'action en responsabilité se prescrit par cinq ans à compter de la fin de la mesure de protection alors même que la gestion
+aurait continué au-delà. Toutefois, lorsque la curatelle a cessé par l'ouverture d'une mesure de tutelle, le délai ne court
+qu'à compter de l'expiration de cette dernière.
 
 **Liens relatifs à cet article**
 
@@ -19309,20 +19543,15 @@ La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 
 	  - Loi n°1803-03-14
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+	  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
 
 
 ###### Article 424
 
-Le subrogé tuteur ne remplace pas de plein droit le tuteur qui est mort ou est devenu incapable, ou qui abandonne la
-tutelle ; mais il doit alors, sous peine des dommages-intérêts qui pourraient en résulter pour le mineur, provoquer la
-nomination d'un nouveau tuteur.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+Le mandataire de protection future engage sa responsabilité pour l'exercice de son mandat dans les conditions prévues à
+l'article 1992.
 
 **Liens relatifs à cet article**
 
@@ -19330,24 +19559,33 @@ La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 
 	  - Loi n°1803-03-14
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+	  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
 
+	**Cite**:
+
+	  - Code civil - art. 1992 (V)
+
+
+### Chapitre II : Des mesures de protection juridique des majeurs
+
+#### Section 1 : Des dispositions générales
 
 ###### Article 425
 
-La charge du subrogé tuteur cessera à la même époque que celle du tuteur.
+Toute personne dans l'impossibilité de pourvoir seule à ses intérêts en raison d'une altération, médicalement constatée, soit
+de ses facultés mentales, soit de ses facultés corporelles de nature à empêcher l'expression de sa volonté peut bénéficier
+d'une mesure de protection juridique prévue au présent chapitre.
 
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+S'il n'en est disposé autrement, la mesure est destinée à la protection tant de la personne que des intérêts patrimoniaux de
+celle-ci. Elle peut toutefois être limitée expressément à l'une de ces deux missions.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+	  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
 
 	**Cité par**:
 
@@ -19380,18 +19618,25 @@ La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 
 ###### Article 426
 
-Le tuteur ne pourra provoquer la destitution du subrogé tuteur ni voter dans les conseils de famille qui seront convoqués
-pour cet objet.
+Le logement de la personne protégée et les meubles dont il est garni, qu'il s'agisse d'une résidence principale ou
+secondaire, sont conservés à la disposition de celle-ci aussi longtemps qu'il est possible. 
 
-**Nota:**
+Le pouvoir d'administrer les biens mentionnés au premier alinéa ne permet que des conventions de jouissance précaire qui
+cessent, malgré toutes dispositions ou stipulations contraires, dès le retour de la personne protégée dans son logement. 
 
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+S'il devient nécessaire ou s'il est de l'intérêt de la personne protégée qu'il soit disposé des droits relatifs à son
+logement ou à son mobilier par l'aliénation, la résiliation ou la conclusion d'un bail, l'acte est autorisé par le juge ou
+par le conseil de famille s'il a été constitué, sans préjudice des formalités que peut requérir la nature des biens. L'avis
+préalable d'un médecin inscrit sur la liste prévue à l'article 431 est requis si l'acte a pour finalité l'accueil de
+l'intéressé dans un établissement. Dans tous les cas, les souvenirs, les objets à caractère personnel, ceux indispensables
+aux personnes handicapées ou destinés aux soins des personnes malades sont gardés à la disposition de l'intéressé, le cas
+échéant par les soins de l'établissement dans lequel celui-ci est hébergé.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+	  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
 
 	**Cité par**:
 
@@ -19402,26 +19647,47 @@ La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 	  - Code de procédure civile - art. 1256 (V)
 	  - Code de procédure pénale - art. R217-1 (V)
 
+	**Cite**:
+
+	  - Code civil - art. 431 (V)
+
 	**Codifié par**:
 
 	  - Loi n°1803-03-14
 
 
-##### Paragraphe 5 : Des charges tutélaires.
-
 ###### Article 427
 
-La tutelle, protection due à l'enfant, est une charge publique.
+La personne chargée de la mesure de protection ne peut procéder ni à la modification des comptes ou livrets ouverts au nom de
+la personne protégée, ni à l'ouverture d'un autre compte ou livret auprès d'un établissement habilité à recevoir des fonds du
+public.
 
-**Nota:**
+Le juge des tutelles ou le conseil de famille s'il a été constitué peut toutefois l'y autoriser si l'intérêt de la personne
+protégée le commande.
 
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+Un compte est ouvert au nom de la personne protégée auprès de la Caisse des dépôts et consignations par la personne chargée
+de la protection si le juge ou le conseil de famille s'il a été constitué l'estime nécessaire.
+
+Lorsque la personne protégée n'est titulaire d'aucun compte ou livret, la personne chargée de la mesure de protection lui en
+ouvre un.
+
+Les opérations bancaires d'encaissement, de paiement et de gestion patrimoniale effectuées au nom et pour le compte de la
+personne protégée sont réalisées exclusivement au moyen des comptes ouverts au nom de celle-ci, sous réserve des dispositions
+applicables aux mesures de protection confiées aux personnes ou services préposés des établissements de santé et des
+établissements sociaux ou médico-sociaux soumis aux règles de la comptabilité publique.
+
+Les fruits, produits et plus-values générés par les fonds et les valeurs appartenant à la personne protégée lui reviennent
+exclusivement.
+
+Si la personne protégée a fait l'objet d'une interdiction d'émettre des chèques, la personne chargée de la mesure de
+protection peut néanmoins, avec l'autorisation du juge ou du conseil de famille s'il a été constitué, faire fonctionner sous
+sa signature les comptes dont la personne protégée est titulaire et disposer de tous les moyens de paiement habituels.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+	  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
 
 	**Cité par**:
 
@@ -19436,21 +19702,23 @@ La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 	  - Loi n°1803-03-14
 
 
+#### Section 2 : Des dispositions communes aux mesures judiciaires
+
 ###### Article 428
 
-Peuvent être dispensés de la tutelle, excepté les père et mère dans le cas de l'article 391, ceux à qui l'âge, la maladie,
-l'éloignement, des occupations professionnelles ou familiales exceptionnellement absorbantes ou une tutelle antérieure
-rendraient particulièrement lourde cette nouvelle charge.
+La mesure de protection ne peut être ordonnée par le juge qu'en cas de nécessité et lorsqu'il ne peut être suffisamment
+pourvu aux intérêts de la personne par l'application des règles du droit commun de la représentation, de celles relatives aux
+droits et devoirs respectifs des époux et des règles des régimes matrimoniaux, en particulier celles prévues aux articles
+217,219,1426 et 1429, par une autre mesure de protection judiciaire moins contraignante ou par le mandat de protection future
+conclu par l'intéressé. 
 
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+La mesure est proportionnée et individualisée en fonction du degré d'altération des facultés personnelles de l'intéressé.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+	  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
 
 	**Cité par**:
 
@@ -19462,7 +19730,10 @@ La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 
 	**Cite**:
 
-	  - Code civil - art. 391 (VT)
+	  - Code civil - art. 1426 (V)
+	  - Code civil - art. 1429 (V)
+	  - Code civil - art. 217 (V)
+	  - Code civil - art. 219 (V)
 
 	**Codifié par**:
 
@@ -19471,22 +19742,16 @@ La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 
 ###### Article 429
 
-Hormis les père et mère, peuvent être déchargés de la tutelle ceux qui ne peuvent continuer à s'en acquitter en raison de
-l'une des causes prévues par l'article précédent, si elle est survenue depuis la nomination.
+La mesure de protection judiciaire peut être ouverte pour un mineur émancipé comme pour un majeur.
 
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+Pour un mineur non émancipé, la demande peut être introduite et jugée dans la dernière année de sa minorité. La mesure de
+protection judiciaire ne prend toutefois effet que du jour de sa majorité.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
-
-	**Cite**:
-
-	  - Code civil - art. 428 (AbD)
+	  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
 
 	**Cité par**:
 
@@ -19497,19 +19762,113 @@ La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 	  - Loi n°1803-03-14
 
 
-###### Article 432
+###### Article 430
 
-Celui qui n'était ni parent ni allié des père et mère du mineur ne peut être forcé d'accepter la tutelle.
+La demande d'ouverture de la mesure peut être présentée au juge par la personne qu'il y a lieu de protéger ou, selon le cas,
+par son conjoint, le partenaire avec qui elle a conclu un pacte civil de solidarité ou son concubin, à moins que la vie
+commune ait cessé entre eux, ou par un parent ou un allié, une personne entretenant avec le majeur des liens étroits et
+stables, ou la personne qui exerce à son égard une mesure de protection juridique.
 
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+Elle peut être également présentée par le procureur de la République soit d'office, soit à la demande d'un tiers.
 
 **Liens relatifs à cet article**
 
 	**Créé par**:
 
-	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+	  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+
+	**Cité par**:
+
+	  - Code civil - art. 442 (V)
+	  - Code de procédure civile - art. 1218-1 (V)
+	  - Code de procédure civile - art. 1220-4 (V)
+	  - Code de procédure civile - art. 1222 (V)
+	  - Code de procédure civile - art. 1239 (V)
+	  - Code de procédure civile - art. 1251-1 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 431
+
+La demande est accompagnée, à peine d'irrecevabilité, d'un certificat circonstancié rédigé par un médecin choisi sur une
+liste établie par le procureur de la République.
+
+Le coût de ce certificat est fixé par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+
+	**Cité par**:
+
+	  - Arrêté du 23 décembre 2009 - art. Annexe (V)
+	  - Code civil - art. 426 (M)
+	  - Code civil - art. 431-1 (Ab)
+	  - Code civil - art. 432 (V)
+	  - Code civil - art. 441 (V)
+	  - Code civil - art. 442 (V)
+	  - Code civil - art. 481 (V)
+	  - Code civil - art. 494-4 (VD)
+	  - Code civil - art. 494-6 (V)
+	  - Code de procédure civile - art. 1218 (V)
+	  - Code de procédure civile - art. 1219 (V)
+	  - Code de procédure civile - art. 1256 (V)
+	  - Code de procédure civile - art. 1258 (V)
+	  - Code de procédure civile - art. 1258-1 (V)
+	  - Code de procédure civile - art. 1259 (V)
+	  - Code de procédure civile - art. 1260-3 (V)
+	  - Code de procédure pénale - art. D47-24 (V)
+	  - Code de procédure pénale - art. R217-1 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 431-1
+
+Pour l'application du dernier alinéa de l'article 426 et de l'article 431, le médecin inscrit sur la liste mentionnée à
+l'article 431 peut solliciter l'avis du médecin traitant de la personne qu'il y a lieu de protéger.
+
+**Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Loi n°2015-177 du 16 février 2015 - art. 1 (V)
+
+	**Cite**:
+
+	  - Code civil - art. 426
+	  - Code civil - art. 431
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+
+
+###### Article 432
+
+Le juge statue, la personne entendue ou appelée. L'intéressé peut être accompagné par un avocat ou, sous réserve de l'accord
+du juge, par toute autre personne de son choix. 
+
+Le juge peut toutefois, par décision spécialement motivée et sur avis du médecin mentionné à l'article 431, décider qu'il n'y
+a pas lieu de procéder à l'audition de l'intéressé si celle-ci est de nature à porter atteinte à sa santé ou s'il est hors
+d'état d'exprimer sa volonté.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
 
 	**Cité par**:
 
@@ -19525,19 +19884,28 @@ La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 	  - Code de procédure civile - art. 1260-5 (V)
 	  - Code de procédure pénale - art. R217-1 (V)
 
+	**Cite**:
+
+	  - Code civil - art. 431 (V)
+
 	**Codifié par**:
 
 	  - Loi n°1803-03-14
 
 
+#### Section 3 : De la sauvegarde de justice
+
 ###### Article 433
 
-Si la tutelle reste vacante, le juge des tutelles la défère à l'Etat s'il s'agit d'un majeur, et au service de l'aide sociale
-à l'enfance s'il s'agit d'un mineur.
+Le juge peut placer sous sauvegarde de justice la personne qui, pour l'une des causes prévues à l'article 425, a besoin d'une
+protection juridique temporaire ou d'être représentée pour l'accomplissement de certains actes déterminés. 
 
-**Nota:**
+Cette mesure peut aussi être prononcée par le juge, saisi d'une procédure de curatelle ou de tutelle, pour la durée de
+l'instance. 
 
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+Par dérogation à l'article 432, le juge peut, en cas d'urgence, statuer sans avoir procédé à l'audition de la personne. En ce
+cas, il entend celle-ci dans les meilleurs délais, sauf si, sur avis médical, son audition est de nature à porter préjudice à
+sa santé ou si elle est hors d'état d'exprimer sa volonté.
 
 **Liens relatifs à cet article**
 
@@ -19599,7 +19967,12 @@ La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 
 	**Modifié par**:
 
-	  - Loi n°89-487 1989-07-10 art. 12 JORF 14 Juillet 1989
+	  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+
+	**Cite**:
+
+	  - Code civil - art. 425 (V)
+	  - Code civil - art. 432 (V)
 
 	**Codifié par**:
 
@@ -19608,42 +19981,104 @@ La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 
 ###### Article 434
 
-Les excuses qui dispensent ou déchargent de la tutelle peuvent être étendues au subrogé tuteur, et même aux membres du
-conseil de famille, mais seulement suivant la gravité de la cause.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+La sauvegarde de justice peut également résulter d'une déclaration faite au procureur de la République dans les conditions
+prévues par l'article L. 3211-6 du code de la santé publique.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+	  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
 
 	**Cité par**:
 
 	  - Code civil - art. 439 (V)
 
+	**Cite**:
 
-###### Article 437
+	  - Code de la santé publique - art. L3211-6 (M)
 
-Le conseil de famille statue sur les excuses du tuteur et du subrogé tuteur ; le juge des tutelles, sur les excuses proposées
-par les membres du conseil de famille.
+	**Codifié par**:
 
-**Nota:**
+	  - Loi n°1803-03-14
 
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+
+###### Article 435
+
+La personne placée sous sauvegarde de justice conserve l'exercice de ses droits. Toutefois, elle ne peut, à peine de nullité,
+faire un acte pour lequel un mandataire spécial a été désigné en application de l'article 437. 
+
+Les actes qu'elle a passés et les engagements qu'elle a contractés pendant la durée de la mesure peuvent être rescindés pour
+simple lésion ou réduits en cas d'excès alors même qu'ils pourraient être annulés en vertu de l'article 414-1. Les tribunaux
+prennent notamment en considération l'utilité ou l'inutilité de l'opération, l'importance ou la consistance du patrimoine de
+la personne protégée et la bonne ou mauvaise foi de ceux avec qui elle a contracté. 
+
+L'action en nullité, en rescision ou en réduction n'appartient qu'à la personne protégée et, après sa mort, à ses héritiers.
+Elle s'éteint par le délai de cinq ans prévu à l'article 1304.
 
 **Liens relatifs à cet article**
 
 	**Créé par**:
 
-	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+	  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+
+	**Cité par**:
+
+	  - Code civil - art. 1150 (V)
+	  - Code civil - art. 437 (V)
+	  - Code civil - art. 465 (V)
+
+	**Cite**:
+
+	  - Code civil - art. 1304 (V)
+	  - Code civil - art. 414-1 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 436
+
+Le mandat par lequel la personne protégée a chargé une autre personne de l'administration de ses biens continue à produire
+ses effets pendant la sauvegarde de justice à moins qu'il ne soit révoqué ou suspendu par le juge des tutelles, le mandataire
+étant entendu ou appelé.
+
+En l'absence de mandat, les règles de la gestion d'affaires sont applicables.
+
+Ceux qui ont qualité pour demander l'ouverture d'une curatelle ou d'une tutelle sont tenus d'accomplir les actes
+conservatoires indispensables à la préservation du patrimoine de la personne protégée dès lors qu'ils ont connaissance tant
+de leur urgence que de l'ouverture de la mesure de sauvegarde. Les mêmes dispositions sont applicables à la personne ou à
+l'établissement qui héberge la personne placée sous sauvegarde.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+
+	**Cité par**:
+
+	  - Code civil - art. 437 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 437
+
+S'il y a lieu d'agir en dehors des cas définis à l'article 436, tout intéressé peut en donner avis au juge. 
+
+Le juge peut désigner un mandataire spécial, dans les conditions et selon les modalités prévues aux articles 445 et 448 à
+451, à l'effet d'accomplir un ou plusieurs actes déterminés, même de disposition, rendus nécessaires par la gestion du
+patrimoine de la personne protégée. Le mandataire peut, notamment, recevoir mission d'exercer les actions prévues à l'article
+435. 
+
+Le mandataire spécial est tenu de rendre compte de l'exécution de son mandat à la personne protégée et au juge dans les
+conditions prévues aux articles 510 à 515.
+
+**Liens relatifs à cet article**
 
 	**Cité par**:
 
@@ -19652,6 +20087,17 @@ La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 	  - Code de l'action sociale et des familles - art. R472-8 (V)
 	  - Code de procédure civile - art. 1250 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+
+	**Cite**:
+
+	  - Code civil - art. 436 (V)
+	  - Code civil - art. 445 (V)
+	  - Code civil - art. 448 (V)
+	  - Code civil - art. 510 (V)
+
 	**Codifié par**:
 
 	  - Loi n°1803-03-14
@@ -19659,67 +20105,78 @@ La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 
 ###### Article 438
 
-Si le tuteur nommé est présent à la délibération qui lui défère la tutelle, il devra sur-le-champ, et sous peine d'être
-déclaré non recevable dans toutes réclamations ultérieures, proposer ses excuses sur lesquelles le conseil de famille
-délibérera.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+Le mandataire spécial peut également se voir confier une mission de protection de la personne dans le respect des articles
+457-1 à 463.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+
+	**Cite**:
+
+	  - Code civil - art. 457-1 (V)
 
 	**Codifié par**:
 
 	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code civil - art. 439 (AbD)
 
 
 ###### Article 439
 
-S'il n'était pas présent, il devra, dans les huit jours de la notification qu'il aura reçue de sa nomination, faire convoquer
-le conseil de famille pour délibérer sur ses excuses.
+Sous peine de caducité, la mesure de sauvegarde de justice ne peut excéder un an, renouvelable une fois dans les conditions
+fixées au quatrième alinéa de l'article 442. 
 
-**Nota:**
+Lorsque la sauvegarde de justice a été prononcée en application de l'article 433, le juge peut, à tout moment, en ordonner la
+mainlevée si le besoin de protection temporaire cesse. 
 
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+Lorsque la sauvegarde de justice a été ouverte en application de l'article 434, elle peut prendre fin par déclaration faite
+au procureur de la République si le besoin de protection temporaire cesse ou par radiation de la déclaration médicale sur
+décision du procureur de la République. 
+
+Dans tous les cas, à défaut de mainlevée, de déclaration de cessation ou de radiation de la déclaration médicale, la
+sauvegarde de justice prend fin à l'expiration du délai ou après l'accomplissement des actes pour lesquels elle a été
+ordonnée. Elle prend également fin par l'ouverture d'une mesure de curatelle ou de tutelle à partir du jour où la nouvelle
+mesure de protection juridique prend effet.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Loi n°1803-03-14
+	  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
 
-	**Créé par**:
+	**Cite**:
 
-	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+	  - Code civil - art. 433 (V)
+	  - Code civil - art. 434 (V)
+	  - Code civil - art. 442 (V)
 
 	**Liens**:
 
 	  - TXT_ASSOCIE: Code civil - art. 438 (AbD)
 
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+#### Section 4 : De la curatelle et de la tutelle
 
 ###### Article 440
 
-Si ses excuses sont rejetées, il pourra se pourvoir devant le tribunal de grande instance pour les faire admettre ; mais il
-sera, pendant le litige, tenu d'administrer provisoirement.
+La personne qui, sans être hors d'état d'agir elle-même, a besoin, pour l'une des causes prévues à l'article 425, d'être
+assistée ou contrôlée d'une manière continue dans les actes importants de la vie civile peut être placée en curatelle. 
 
-**Nota:**
+La curatelle n'est prononcée que s'il est établi que la sauvegarde de justice ne peut assurer une protection suffisante. 
 
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+La personne qui, pour l'une des causes prévues à l'article 425, doit être représentée d'une manière continue dans les actes
+de la vie civile, peut être placée en tutelle. 
+
+La tutelle n'est prononcée que s'il est établi que ni la sauvegarde de justice, ni la curatelle ne peuvent assurer une
+protection suffisante.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
 
 	**Cité par**:
 
@@ -19740,79 +20197,24 @@ La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 	  - Code de la défense. - art. R2332-6 (V)
 	  - Code de la santé publique - art. L3211-8 (VD)
 
+	**Modifié par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+
+	**Cite**:
+
+	  - Code civil - art. 425 (V)
+
 	**Codifié par**:
 
 	  - Loi n°1803-03-14
 
+
+##### Sous-section 1 : De la durée de la mesure
 
 ###### Article 441
 
-Les différentes charges de la tutelle peuvent être remplies par toutes personnes, sans distinction de sexe, mais sous réserve
-des causes d'incapacité, exclusion, destitution ou récusation exprimées ci-dessous.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
-
-	**Cité par**:
-
-	  - Loi n°2007-308 du 5 mars 2007 - art. 45 (V)
-
-
-###### Article 442
-
-Sont incapables des différentes charges de la tutelle :
-
-1° Les mineurs, excepté le père ou la mère ;
-
-2° Les majeurs en tutelle, les aliénés et les majeurs en curatelle.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
-
-	**Cité par**:
-
-	  - Loi n°2007-308 du 5 mars 2007 - art. 45 (VD)
-	  - Code civil - art. 439 (V)
-	  - Code de procédure civile - art. 1217 (V)
-	  - Code de procédure civile - art. 1228 (V)
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-
-###### Article 443
-
-Sont exclus ou destitués de plein droit des différentes charges de la tutelle : 
-
-1° Ceux qui ont été condamnés à une peine afflictive ou infamante ou à qui l'exercice des charges tutélaires a été interdit
-par application de l'article 131-26 du code pénal.
-
-Ils pourront, toutefois, être admis à la tutelle de leurs propres enfants, sur avis conforme du conseil de famille. 
-
-2° Ceux qui ont été déchus de l'autorité parentale.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+Le juge fixe la durée de la mesure sans que celle-ci puisse excéder cinq ans.
 
 **Liens relatifs à cet article**
 
@@ -19822,27 +20224,92 @@ La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 
 	**Modifié par**:
 
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 330 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
 
-	**Cite**:
+	**Cité par**:
 
-	  - Code pénal - art. 131-26 (V)
+	  - Loi n°2007-308 du 5 mars 2007 - art. 45 (V)
 
 
-###### Article 444
+###### Article 442
 
-Peuvent être exclus ou destitués des différentes charges de la tutelle les gens d'une inconduite notoire et ceux dont
-l'improbité, la négligence habituelle ou l'inaptitude aux affaires aurait été constatée.
+Le juge peut renouveler la mesure pour une même durée. 
 
-**Nota:**
+Toutefois, lorsque l'altération des facultés personnelles de l'intéressé décrite à l'article 425 n'apparaît manifestement pas
+susceptible de connaître une amélioration selon les données acquises de la science, le juge peut, par décision spécialement
+motivée et sur avis conforme du médecin mentionné à l'article 431, renouveler la mesure pour une durée plus longue qu'il
+détermine. 
 
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+Le juge peut, à tout moment, mettre fin à la mesure, la modifier ou lui substituer une autre mesure prévue au présent titre,
+après avoir recueilli l'avis de la personne chargée de la mesure de protection. 
+
+Il statue d'office ou à la requête d'une des personnes mentionnées à l'article 430, au vu d'un certificat médical et dans les
+conditions prévues à l'article 432. Il ne peut toutefois renforcer le régime de protection de l'intéressé que s'il est saisi
+d'une requête en ce sens satisfaisant aux articles 430 et 431.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
+	  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+
+	**Cité par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 45 (VD)
+	  - Code civil - art. 439 (V)
+	  - Code de procédure civile - art. 1217 (V)
+	  - Code de procédure civile - art. 1228 (V)
+
+	**Cite**:
+
+	  - Code civil - art. 425 (V)
+	  - Code civil - art. 430 (V)
+	  - Code civil - art. 431 (V)
+	  - Code civil - art. 432 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 443
+
+La mesure prend fin, en l'absence de renouvellement, à l'expiration du délai fixé, en cas de jugement de mainlevée passé en
+force de chose jugée ou en cas de décès de l'intéressé. 
+
+Sans préjudice des articles 3 et 15, le juge peut également y mettre fin lorsque la personne protégée réside hors du
+territoire national, si cet éloignement empêche le suivi et le contrôle de la mesure.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code civil - art. 3 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Modifié par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+
+
+##### Sous-section 2 : De la publicité de la mesure
+
+###### Article 444
+
+Les jugements portant ouverture, modification ou mainlevée de la curatelle ou de la tutelle ne sont opposables aux tiers que
+deux mois après que la mention en a été portée en marge de l'acte de naissance de la personne protégée selon les modalités
+prévues par le code de procédure civile.
+
+Toutefois, même en l'absence de cette mention, ils sont opposables aux tiers qui en ont personnellement connaissance.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
 
 	**Cité par**:
 
@@ -19852,1225 +20319,6 @@ La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 
 	  - Loi n°1803-03-14
 
-
-###### Article 446
-
-Si un membre du conseil de famille est passible d'exclusion, de destitution ou de récusation, le juge des tutelles prononcera
-lui-même, soit d'office, soit à la réquisition du tuteur, du subrogé tuteur, ou du ministère public.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Code civil - art. 456 (V)
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
-
-
-###### Article 447
-
-Si la cause d'exclusion, de destitution ou récusation concerne le tuteur ou le subrogé tuteur, le conseil de famille
-prononcera. Il sera convoqué par le juge des tutelles soit d'office, soit sur la réquisition qu'en feront les personnes
-mentionnées à l'article 410 ou le ministère public.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
-
-	**Cité par**:
-
-	  - Décret n°67-223 du 17 mars 1967 - art. 32 (V)
-
-	**Cite**:
-
-	  - Code civil - art. 410 (VT)
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-
-###### Article 448
-
-Le tuteur ou le subrogé tuteur ne pourra être exclu, destitué ou récusé qu'après avoir été entendu ou appelé.
-
-S'il adhère à la délibération, mention en sera faite, et le nouveau tuteur ou subrogé tuteur entrera aussitôt en fonctions.
-
-S'il n'y adhère pas, il lui sera loisible de faire opposition suivant les règles fixées par le code de procédure civile ;
-mais le juge des tutelles pourra, s'il estime qu'il y a urgence, prescrire séance tenante des mesures provisoires dans
-l'intérêt du mineur.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
-
-	**Cité par**:
-
-	  - Code civil - art. 437 (V)
-	  - Code civil - art. 449 (V)
-	  - Code de procédure civile - art. 1255 (V)
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-
-#### Section 3 : Du fonctionnement de la tutelle.
-
-###### Article 449
-
-Le conseil de famille règle les conditions générales de l'entretien et de l'éducation de l'enfant, en ayant égard à la
-volonté que les père et mère avaient pu exprimer à ce sujet.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
-
-	**Cité par**:
-
-	  - Décret n°2008-1507 du 30 décembre 2008 (V)
-	  - Arrêté du 22 février 2011 - art. 1 (V)
-	  - Code de l'action sociale et des familles - art. L215-4 (V)
-	  - Code de l'action sociale et des familles - art. R215-14 (V)
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-
-###### Article 450
-
-Le tuteur prendra soin de la personne du mineur et le représentera dans tous les actes civils, sauf les cas dans lesquels la
-loi ou l'usage autorise les mineurs à agir eux-mêmes.
-
-Il administrera ses biens en bon père de famille et répondra des dommages et intérêts qui pourraient résulter d'une mauvaise
-gestion.
-
-Il ne peut ni acheter les biens du mineur, ni les prendre à loyer ou à ferme, à moins que le conseil de famille n'ait
-autorisé le subrogé tuteur à lui en passer bail, ni accepter la cession d'aucun droit ou créance contre son pupille.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
-
-	**Cité par**:
-
-	  - Décret n°2008-1512 du 30 décembre 2008 (V)
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-
-###### Article 451
-
-Le tuteur administre et agit en cette qualité, du jour de sa nomination, si elle a été faite en sa présence ; sinon, du jour
-qu'elle lui a été notifiée.
-
-Dans les dix jours qui suivront, il requerra la levée des scellés, s'ils ont été apposés, et fera procéder immédiatement à
-l'inventaire des biens du mineur, en présence du subrogé tuteur. Expédition de cet inventaire sera transmise au juge des
-tutelles.
-
-A défaut d'inventaire dans le délai prescrit, le subrogé tuteur saisira le juge des tutelles à l'effet d'y faire procéder, à
-peine d'être solidairement responsable avec le tuteur de toutes les condamnations qui pourraient être prononcées au profit du
-pupille. Le défaut d'inventaire autorisera le pupille à faire la preuve de la valeur et de la consistance de ses biens par
-tous les moyens, même la commune renommée.
-
-Si le mineur doit quelque chose au tuteur, celui-ci devra le déclarer dans l'inventaire, à peine de déchéance, et ce sur la
-réquisition que l'officier public sera tenu de lui en faire, et dont mention sera portée au procès-verbal.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
-
-	**Cité par**:
-
-	  - Décret n°2008-1505 du 30 décembre 2008 (V)
-	  - Code civil - art. 459-1 (V)
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-
-###### Article 452
-
-Dans les trois mois qui suivent l'ouverture de la tutelle, le tuteur devra convertir en titres nominatifs ou déposer, à un
-compte ouvert au nom du mineur et portant mention de sa minorité, chez un dépositaire agréé par le gouvernement pour recevoir
-les fonds et valeurs pupillaires, tous les titres au porteur appartenant au mineur, à moins qu'il ne soit autorisé à les
-aliéner conformément aux articles 457 et 468. 
-
-Il devra pareillement, et sous la même réserve, convertir en titres nominatifs ou déposer chez un dépositaire agréé les
-titres au porteur qui adviendront par la suite au mineur, de quelque manière que ce soit, et ce dans le même délai de trois
-mois à partir de l'entrée en possession. 
-
-Il ne pourra retirer des titres au porteur qui auraient été déposés conformément aux précédents alinéas, ni convertir en
-titres au porteur des titres nominatifs, à moins que la conversion ne soit opérée par l'intermédiaire d'un dépositaire agréé
-par le gouvernement. 
-
-Le conseil de famille pourra, s'il est nécessaire, fixer un terme plus long pour l'accomplissement de ces opérations.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Ordonnance n°45-1483 du 30 juin 1945 - art. 53 (Ab)
-	  - Décret n°65-961 du 5 novembre 1965 - art. 1 (V)
-	  - Décret n°65-961 du 5 novembre 1965 - art. 2 (V)
-	  - Décret n°2008-1484 du 22 décembre 2008 (V)
-	  - Décret n°2009-1628 du 23 décembre 2009 (V)
-	  - Décret n°2015-1669 du 14 décembre 2015 (V)
-
-	**Créé par**:
-
-	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
-
-	**Liens**:
-
-	  - TXT_SOURCE: Décret n°65-961 du 5 novembre 1965
-	  - TXT_SOURCE: Décret n°65-961 du 5 novembre 1965 - art. 1 (V)
-	  - TXT_SOURCE: Décret n°65-961 du 5 novembre 1965 - art. 2 (V)
-
-	**Cite**:
-
-	  - Code civil - art. 457 (VT)
-	  - Code civil - art. 468 (VT)
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-
-###### Article 453
-
-Le tuteur ne peut donner quittance des capitaux qu'il reçoit pour le compte du pupille qu'avec le contreseing du subrogé
-tuteur.
-
-Ces capitaux seront déposés par lui à un compte ouvert au nom du mineur et portant mention de sa minorité, chez un
-dépositaire agréé par le gouvernement pour recevoir les fonds et valeurs pupillaires.    Le dépôt doit être fait dans le
-délai d'un mois à dater de la réception des capitaux ; ce délai passé, le tuteur est de plein droit débiteur des intérêts.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
-
-	**Liens**:
-
-	  - TXT_SOURCE: Décret n°65-961 du 5 novembre 1965
-	  - TXT_SOURCE: Décret n°65-961 du 5 novembre 1965 - art. 1 (V)
-	  - TXT_SOURCE: Décret n°65-961 du 5 novembre 1965 - art. 3 (V)
-
-	**Cité par**:
-
-	  - Décret n°65-961 du 5 novembre 1965 - art. 1 (V)
-	  - Décret n°65-961 du 5 novembre 1965 - art. 3 (V)
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-
-###### Article 454
-
-Lors de l'entrée en exercice de toute tutelle, le conseil de famille réglera par aperçu, et selon l'importance des biens
-régis, la somme annuellement disponible pour l'entretien et l'éducation du pupille, les dépenses d'administration de ses
-biens, ainsi qu'éventuellement les indemnités qui pourront être allouées au tuteur.
-
-La même délibération spécifiera si le tuteur est autorisé à porter en compte les salaires des administrateurs particuliers ou
-agents dont il peut demander le concours, sous sa propre responsabilité.
-
-Le conseil de famille pourra aussi autoriser le tuteur à passer un contrat pour la gestion des valeurs mobilières du pupille.
-La délibération désigne le tiers contractant en considérant sa solvabilité et son expérience professionnelle, et spécifie les
-clauses du contrat. Malgré toute stipulation contraire, la convention peut, à tout moment, être résiliée au nom du pupille.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
-
-	**Cité par**:
-
-	  - Code de l'action sociale et des familles - art. R472-8 (V)
-
-
-###### Article 455
-
-Le conseil de famille détermine la somme à laquelle commencera, pour le tuteur, l'obligation d'employer les capitaux liquides
-du mineur, ainsi que l'excédent de ses revenus. Cet emploi devra être fait dans le délai de six mois, sauf prorogation par le
-conseil de famille. Passé ce délai, le tuteur est de plein droit comptable des intérêts.
-
-La nature des biens qui peuvent être acquis en emploi est déterminée par le conseil de famille, soit d'avance, soit à
-l'occasion de chaque opération.
-
-En aucun cas, les tiers ne seront garants de l'emploi.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
-
-
-###### Article 456
-
-Le tuteur accomplit seul, comme représentant du mineur, tous les actes d'administration.
-
-Il peut ainsi aliéner, à titre onéreux, les meubles d'usage courant et les biens ayant le caractère de fruits.
-
-Les baux consentis par le tuteur ne confèrent au preneur, à l'encontre du mineur devenu majeur ou émancipé, aucun droit de
-renouvellement et aucun droit à se maintenir dans les lieux à l'expiration du bail, nonobstant toutes dispositions légales
-contraires. Ces dispositions ne sont toutefois pas applicables aux baux consentis avant l'ouverture de la tutelle et
-renouvelés par le tuteur.
-
-Les actes qui, pour la gestion des valeurs mobilières du pupille, doivent être regardés comme des actes d'administration
-entrant dans les obligations et les pouvoirs, soit des administrateurs légaux et tuteurs, soit des dépositaires agréés, sont
-déterminés par décret en Conseil d'Etat.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
-
-	**Cité par**:
-
-	  - Loi n°65-570 du 13 juillet 1965 - art. 22 (V)
-	  - Décret n°65-961 du 5 novembre 1965 - art. 4 (Ab)
-	  - Décret n°65-961 du 5 novembre 1965 - art. 7 (Ab)
-	  - Code civil - art. 1873-7 (V)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Décret n°65-961 du 5 novembre 1965
-	  - TXT_SOURCE: Décret n°65-961 du 5 novembre 1965 - art. 4 (V)
-	  - TXT_SOURCE: Décret n°65-961 du 5 novembre 1965 - art. 5 (V)
-	  - TXT_SOURCE: Décret n°65-961 du 5 novembre 1965 - art. 6 (V)
-	  - TXT_SOURCE: Décret n°65-961 du 5 novembre 1965 - art. 7 (V)
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-
-###### Article 457
-
-Le tuteur ne peut, sans y être autorisé par le conseil de famille, faire des actes de disposition au nom du mineur.
-
-Sans cette autorisation, il ne peut, notamment, emprunter pour le pupille, ni aliéner ou grever de droits réels les
-immeubles, les fonds de commerce, les valeurs mobilières et autres droits incorporels, non plus que les meubles précieux ou
-qui constitueraient une part importante du patrimoine pupillaire.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
-
-	**Cité par**:
-
-	  - Code civil - art. 452 (VT)
-	  - Code civil - art. 511 (V)
-	  - Code de procédure civile - art. 1237 (V)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code civil - art. 460 (AbD)
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-
-###### Article 458
-
-Le conseil de famille, en donnant son autorisation, pourra prescrire toutes les mesures qu'il jugera utiles, en particulier
-quant au remploi des fonds.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Décret n°2008-1556 du 31 décembre 2008 (V)
-	  - Arrêté du 2 janvier 2009 - art. (V)
-	  - Code civil - art. 459 (V)
-	  - Code de l'action sociale et des familles - art. Annexe 4-3 (V)
-	  - Code de l'action sociale et des familles - art. D471-7 (V)
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
-
-
-###### Article 459
-
-La vente des immeubles et des fonds de commerce appartenant à un mineur se fera publiquement aux enchères, en présence du
-subrogé tuteur, dans les conditions prévues aux articles 953 et suivants du code de procédure civile. 
-
-Le conseil de famille peut, toutefois, autoriser la vente à l'amiable soit par adjudication sur la mise à prix qu'il fixe,
-soit de gré à gré, aux prix et stipulations qu'il détermine. En cas d'adjudication amiable, il peut toujours être fait
-surenchère, dans les conditions prévues au code de procédure civile.
-
-L'apport en société d'un immeuble ou d'un fonds de commerce a lieu à l'amiable. Il est autorisé par le conseil de famille sur
-le rapport d'un expert que désigne le juge des tutelles. 
-
-Les valeurs mobilières qui sont inscrites à une cote officielle sont vendues par le ministère d'un prestataire de services
-d'investissement. 
-
-Les autres valeurs mobilières sont vendues aux enchères par le ministère d'un prestataire de services d'investissement ou
-d'un notaire désigné dans la délibération qui autorise la vente. Le conseil de famille pourra néanmoins, sur le rapport d'un
-expert désigné par le juge des tutelles, en autoriser la vente de gré à gré aux prix et stipulations qu'il détermine.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°96-597 du 2 juillet 1996 - art. 94 (V) JORF 4 juillet 1996
-
-	**Cité par**:
-
-	  - Loi n°2015-1776 du 28 décembre 2015 - art. 27
-	  - Loi n°2016-41 du 26 janvier 2016 - art. 189
-	  - Code civil - art. 459-1 (V)
-	  - Code de l'action sociale et des familles - art. Annexe 4-3 (V)
-	  - Code de l'action sociale et des familles - art. L311-5-1 (V)
-	  - Code de la santé publique - art. L1111-7 (V)
-	  - Code de la sécurité intérieure - art. R321-28 (VD)
-	  - Code de procédure civile - art. 1213 (V)
-	  - Code de procédure civile - art. 1276 (V)
-	  - Code de procédure civile - art. 1280 (V)
-
-	**Cite**:
-
-	  - Code de procédure civile - art. 953 (V)
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-
-###### Article 460
-
-L'autorisation exigée par l'article 457 pour l'aliénation des biens du mineur ne s'applique point au cas où un jugement
-aurait ordonné la licitation à la demande d'un copropriétaire par indivis.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code civil - art. 457 (AbD)
-
-	**Cite**:
-
-	  - Code civil - art. 953 (V)
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
-
-
-###### Article 461
-
-Par dérogation à l'article 768, le tuteur ne peut accepter une succession échue au mineur qu'à concurrence de l'actif net.
-Toutefois, le conseil de famille pourra, par une délibération spéciale, l'autoriser à accepter purement et simplement, si
-l'actif dépasse manifestement le passif. 
-
-Le tuteur ne peut renoncer à une succession échue au mineur sans une autorisation du conseil de famille.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°2006-728 du 23 juin 2006 - art. 29 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
-
-	**Cité par**:
-
-	  - Décret n°2006-1806 du 23 décembre 2006 - art. 1 (VD)
-	  - Ordonnance n°2012-1222 du 2 novembre 2012 - art. 4 (V)
-
-	**Cite**:
-
-	  - Code civil - art. 768 (V)
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-
-###### Article 462
-
-Dans le cas où la succession à laquelle il a été renoncé au nom du mineur n'a pas été acceptée par un autre héritier et tant
-que l'Etat n'a pas déjà été envoyé en possession, cette renonciation peut être révoquée, soit par le tuteur autorisé à cet
-effet par une nouvelle délibération du conseil de famille, soit par le mineur devenu majeur. Le deuxième alinéa de l'article
-807 est applicable.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Modifié par**:
-
-	  - Loi n°2006-728 du 23 juin 2006 - art. 29 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
-
-	**Cité par**:
-
-	  - Décret n°2006-1806 du 23 décembre 2006 - art. 1 (VD)
-	  - Ordonnance n°2012-1222 du 2 novembre 2012 - art. 4 (V)
-
-	**Cite**:
-
-	  - Code civil - art. 807 (V)
-
-
-###### Article 463
-
-Le tuteur peut accepter sans autorisation les donations et legs particuliers advenus au pupille, à moins qu'ils ne soient
-grevés de charges.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
-
-	**Cité par**:
-
-	  - Code civil - art. 935 (V)
-
-
-###### Article 464
-
-Le tuteur peut, sans autorisation, introduire en justice une action relative aux droits patrimoniaux du mineur. Il peut de
-même se désister de cette instance. Le conseil de famille peut lui enjoindre d'introduire une action, de s'en désister ou de
-faire des offres aux fins de désistement, à peine d'engager sa responsabilité.
-
-Le tuteur peut défendre seul à une action introduite contre le mineur, mais il ne peut y acquiescer qu'avec l'autorisation du
-conseil de famille.
-
-L'autorisation du conseil de famille est toujours requise pour les actions relatives à des droits qui ne sont point
-patrimoniaux.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
-
-	**Cité par**:
-
-	  - Code civil - art. 328 (V)
-	  - Code civil - art. 340-2 (Ab)
-	  - Code civil - art. 466 (V)
-	  - Code civil - art. 494-9 (V)
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-
-###### Article 465
-
-Le tuteur ne peut, sans l'autorisation du conseil de famille, introduire une demande de partage au nom du mineur ; mais il
-pourra, sans cette autorisation, répondre à une demande en partage dirigée contre le mineur, ou s'adjoindre à la requête
-collective à fin de partage, présentée par tous les intéressés.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Loi n°1924-06-01 du 1 juin 1924 - art. 221 (V)
-	  - Décret n°2008-1484 du 22 décembre 2008 - art. Annexe 1 (V)
-	  - Code civil - art. 1150 (V)
-
-	**Modifié par**:
-
-	  - Loi n°2006-728 du 23 juin 2006 - art. 29 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-
-###### Article 466
-
-Le partage à l'égard d'un mineur peut être fait à l'amiable. 
-
-En ce cas, le conseil de famille autorise le partage, même partiel, et désigne s'il y a lieu un notaire pour y
-procéder.L'état liquidatif est soumis à l'approbation du conseil de famille. 
-
-Le partage peut également être fait en justice conformément aux dispositions des articles 840 à 842. 
-
-Tout autre partage est considéré comme provisionnel.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Modifié par**:
-
-	  - Loi n°2006-728 du 23 juin 2006 - art. 29 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
-
-	**Cité par**:
-
-	  - Loi n°2006-728 du 23 juin 2006 - art. 47 (V)
-	  - Code civil - art. 389-5 (M)
-	  - Code civil - art. 838 (M)
-	  - Code de procédure civile - art. 975 (Ab)
-	  - Nouveau code de procédure civile - art. 1231 (V)
-
-	**Cite**:
-
-	  - Code civil - art. 840 (V)
-
-
-###### Article 467
-
-Le tuteur ne pourra transiger au nom du mineur qu'après avoir fait approuver par le conseil de famille les clauses de la
-transaction.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
-
-	**Cité par**:
-
-	  - Code civil - art. 2045 (V)
-	  - Code civil - art. 471 (V)
-	  - Code de l'action sociale et des familles - art. R472-8 (V)
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-
-#### Section 4 : Des comptes de la tutelle et des responsabilités.
-
-###### Article 469
-
-Tout tuteur est comptable de sa gestion lorsqu'elle finit.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
-
-	**Cité par**:
-
-	  - Code de procédure civile - art. 1213 (V)
-
-
-###### Article 470
-
-Dès avant la fin de la tutelle, le tuteur est tenu de remettre chaque année au subrogé tuteur un compte de gestion. Ce compte
-sera rédigé et remis, sans frais, sur papier non timbré.
-
-Le subrogé tuteur transmet le compte avec ses observations au greffier en chef du tribunal d'instance, lequel peut lui
-demander toutes informations. En cas de difficulté, le greffier en chef en réfère au juge des tutelles, qui peut convoquer le
-conseil de famille, sans préjudice de la faculté pour le juge d'obtenir la communication du compte et à tout moment de le
-contrôler.
-
-Si le mineur a atteint l'âge de seize ans révolus, le juge des tutelles peut décider que le compte lui sera communiqué.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°95-125 1995-02-08 art. 19 *date d'effet*
-
-	**Modifié par**:
-
-	  - Loi n°95-125 du 8 février 1995 - art. 11 () JORF 9 février 1995 en vigueur le 9 mai 1995
-
-	**Cité par**:
-
-	  - Décret n°2008-1484 du 22 décembre 2008 - art. Annexe 1 (V)
-
-
-###### Article 471
-
-Dans les trois mois qui suivront la fin de la tutelle, le compte définitif sera rendu soit au mineur lui-même, devenu majeur
-ou émancipé, soit à ses héritiers. Le tuteur en avancera les frais ; la charge en incombera au pupille.
-
-On y allouera au tuteur toutes dépenses suffisamment justifiées et dont l'objet sera utile.
-
-Si le tuteur vient à cesser ses fonctions avant la fin de la tutelle, il rendra un compte récapitulatif de sa gestion au
-nouveau tuteur, qui ne pourra l'accepter qu'avec l'autorisation du conseil de famille, sur les observations du subrogé
-tuteur.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Code civil - art. 480 (VT)
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
-
-
-###### Article 472
-
-Le mineur devenu majeur ou émancipé ne peut approuver le compte de tutelle qu'un mois après que le tuteur le lui aura remis,
-contre récépissé, avec les pièces justificatives. Toute approbation est nulle si elle est donnée avant la fin du délai.
-
-Est de même nulle toute convention passée entre le pupille, devenu majeur ou émancipé, et celui qui a été son tuteur si elle
-a pour effet de soustraire celui-ci en tout ou en partie, à son obligation de rendre compte.
-
-Si le compte donne lieu à des contestations, elles seront poursuivies et jugées conformément au titre du code de procédure
-civile Des redditions de comptes.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
-
-	**Cité par**:
-
-	  - Code civil - art. 2045 (V)
-	  - Code civil - art. 495-7 (VD)
-	  - Code de l'action sociale et des familles - art. R472-8 (V)
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-
-###### Article 473
-
-L'approbation du compte ne préjudicie point aux actions en responsabilité qui peuvent appartenir au pupille contre le tuteur
-et les autres organes de la tutelle.
-
-L'Etat est seul responsable à l'égard du pupille, sauf son recours s'il y a lieu, du dommage résultant d'une faute quelconque
-qui aurait été commise dans le fonctionnement de la tutelle, soit par le juge des tutelles ou son greffier, soit par le
-greffier en chef du tribunal d'instance, soit par l'administrateur public chargé d'une tutelle vacante en vertu de l'article
-433.
-
-L'action en responsabilité exercée par le pupille contre l'Etat est portée, dans tous les cas, devant le tribunal de grande
-instance.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Cité par**:
-
-	  - Loi n°64-1230 du 14 décembre 1964 - art. 13 (V)
-	  - Loi n°64-1230 du 14 décembre 1964 - art. 15 (V)
-	  - Code civil - art. 504 (V)
-	  - Code civil - art. 511 (M)
-	  - Code de l'action sociale et des familles - art. R472-8 (V)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°95-125 1995-02-08 art. 19 *date d'effet*
-
-	**Modifié par**:
-
-	  - Loi n°95-125 du 8 février 1995 - art. 12 () JORF 9 février 1995 en vigueur le 9 mai 1995
-
-	**Cite**:
-
-	  - Code civil - art. 433 (VT)
-
-
-###### Article 474
-
-La somme à laquelle s'élèvera le reliquat dû par le tuteur portera intérêt de plein droit à compter de l'approbation du
-compte et, au plus tard, trois mois après la cessation de la tutelle.
-
-Les intérêts de ce qui sera dû au tuteur par le mineur ne courront que du jour de la sommation de payer qui aura suivi
-l'approbation du compte.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
-
-
-###### Article 475
-
-Toute action du mineur contre le tuteur, les organes tutélaires ou l'Etat relativement aux faits de la tutelle se prescrit
-par cinq ans, à compter de la majorité, lors même qu'il y aurait eu émancipation.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
-
-	**Cité par**:
-
-	  - Décret n°2008-1484 du 22 décembre 2008 - art. Annexe 1 (V)
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-
-### Chapitre III : De l'émancipation.
-
-###### Article 476
-
-Le mineur est émancipé de plein droit par le mariage.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
-
-**Liens relatifs à cet article**
-
-	**Nouveaux textes**:
-
-	  - Code civil - art. 413-1 (VD)
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
-
-	**Modifié par**:
-
-	  - Loi n°74-631 du 5 juillet 1974 - art. 4 () JORF 7 juillet 1974
-
-	**Transféré par**:
-
-	  - Loi n°2007-308 du 5 mars 2007 - art. 1 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
-
-
-###### Article 477
-
-Le mineur, même non marié, pourra être émancipé lorsqu'il aura atteint l'âge de seize ans révolus.
-
-Après audition du mineur, cette émancipation sera prononcée, s'il y a de justes motifs, par le juge des tutelles, à la
-demande des père et mère ou de l'un d'eux.
-
-Lorsque la demande sera présentée par un seul des parents, le juge décidera, après avoir entendu l'autre, à moins que ce
-dernier soit dans l'impossibilité de manifester sa volonté.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Décret n°67-223 du 17 mars 1967 - art. 32 (V)
-	  - Arrêté du 23 décembre 2009 - art. Annexe (V)
-	  - Arrêté du 28 octobre 2016 - art. 3
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L322-2 (Ab)
-	  - Code de commerce - art. A444-79-1 (V)
-	  - Code de procédure civile - art. 1258 (V)
-	  - Code de procédure civile - art. 1258-1 (V)
-
-	**Modifié par**:
-
-	  - Loi n°93-22 du 8 janvier 1993 - art. 61 () JORF 9 janvier 1993
-
-	**Transféré par**:
-
-	  - Loi n°2007-308 du 5 mars 2007 - art. 1 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
-
-	**Nouveaux textes**:
-
-	  - Code civil - art. 413-2 (VD)
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-
-###### Article 478
-
-Le mineur resté sans père ni mère pourra de la même manière être émancipé à la demande du conseil de famille.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
-
-	**Modifié par**:
-
-	  - Loi n°74-631 du 5 juillet 1974 - art. 4 () JORF 7 juillet 1974
-
-	**Transféré par**:
-
-	  - Loi n°2007-308 du 5 mars 2007 - art. 1 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
-
-	**Nouveaux textes**:
-
-	  - Code civil - art. 413-3 (VD)
-
-	**Cité par**:
-
-	  - Code civil - art. 413-4 (VD)
-	  - Code civil - art. 479 (AbD)
-
-
-###### Article 479
-
-Lorsque, dans le cas de l'article précédent, aucune diligence n'ayant été faite par le tuteur, un membre du conseil de
-famille estimera que le mineur est capable d'être émancipé, il pourra requérir le juge des tutelles de convoquer le conseil
-pour délibérer à ce sujet. Le mineur lui-même pourra demander cette convocation.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
-
-	**Transféré par**:
-
-	  - Loi n°2007-308 du 5 mars 2007 - art. 1 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
-
-	**Nouveaux textes**:
-
-	  - Code civil - art. 413-4 (VD)
-
-	**Cite**:
-
-	  - Code civil - art. 478 (AbD)
-
-	**Cité par**:
-
-	  - Code de procédure civile - art. 1259-3 (V)
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-
-###### Article 480
-
-Le compte de l'administration ou de la tutelle, selon les cas, est rendu au mineur émancipé dans les conditions prévues par
-l'article 471.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
-
-	**Transféré par**:
-
-	  - Loi n°2007-308 du 5 mars 2007 - art. 1 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
-
-	**Nouveaux textes**:
-
-	  - Code civil - art. 413-5 (VD)
-
-	**Cite**:
-
-	  - Code civil - art. 471 (VT)
-
-	**Cité par**:
-
-	  - Code de procédure civile - art. 1259-3 (V)
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-
-###### Article 481
-
-Le mineur émancipé est capable, comme un majeur, de tous les actes de la vie civile.
-
-Il doit néanmoins, pour se marier ou se donner en adoption, observer les mêmes règles que s'il n'était point émancipé.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Décret n°2007-1702 du 30 novembre 2007 - art. 2 (V)
-	  - Loi n°64-1230 du 14 décembre 1964 - art. 14 (V)
-	  - Ordonnance n°2012-1222 du 2 novembre 2012 - art. 4 (V)
-	  - Code civil - art. 483 (V)
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
-
-	**Transféré par**:
-
-	  - Loi n°2007-308 du 5 mars 2007 - art. 1 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
-
-	**Nouveaux textes**:
-
-	  - Code civil - art. 413-6 (VD)
-
-
-###### Article 482
-
-Le mineur émancipé cesse d'être sous l'autorité de ses père et mère.
-
-Ceux-ci ne sont pas responsables de plein droit, en leur seule qualité de père ou de mère, du dommage qu'il pourra causer à
-autrui postérieurement à son émancipation.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
-
-	**Transféré par**:
-
-	  - Loi n°2007-308 du 5 mars 2007 - art. 1 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
-
-	**Nouveaux textes**:
-
-	  - Code civil - art. 413-7 (VD)
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-
-###### Article 487
-
-Le mineur émancipé ne peut être commerçant.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
-
-	**Transféré par**:
-
-	  - Loi n°2007-308 du 5 mars 2007 - art. 1 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
-
-	**Nouveaux textes**:
-
-	  - Code civil - art. 413-8 (VD)
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-
-## Titre XI : De la majorité et des majeurs protégés par la loi
-
-### Chapitre II : Des mesures de protection juridique des majeurs
-
-#### Section 4 : De la curatelle et de la tutelle
 
 ##### Sous-section 3 : Des organes de protection
 
@@ -21099,17 +20347,827 @@ La présente version de cet article est en vigueur jusqu'au 1er février 2009.
 	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
 
 
+##### Paragraphe 1 : Du curateur et du tuteur
+
+###### Article 446
+
+Un curateur ou un tuteur est désigné pour la personne protégée dans les conditions prévues au présent paragraphe et sous
+réserve des pouvoirs conférés au conseil de famille s'il a été constitué.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code civil - art. 456 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Modifié par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+
+
+###### Article 447
+
+Le curateur ou le tuteur est désigné par le juge.
+
+Celui-ci peut, en considération de la situation de la personne protégée, des aptitudes des intéressés et de la consistance du
+patrimoine à administrer, désigner plusieurs curateurs ou plusieurs tuteurs pour exercer en commun la mesure de protection.
+Chaque curateur ou tuteur est réputé, à l'égard des tiers, avoir reçu des autres le pouvoir de faire seul les actes pour
+lesquels un tuteur n'aurait besoin d'aucune autorisation.
+
+Le juge peut diviser la mesure de protection entre un curateur ou un tuteur chargé de la protection de la personne et un
+curateur ou un tuteur chargé de la gestion patrimoniale. Il peut confier la gestion de certains biens à un curateur ou à un
+tuteur adjoint.
+
+A moins que le juge en ait décidé autrement, les personnes désignées en application de l'alinéa précédent sont indépendantes
+et ne sont pas responsables l'une envers l'autre. Elles s'informent toutefois des décisions qu'elles prennent.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°67-223 du 17 mars 1967 - art. 32 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Modifié par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+
+
+###### Article 448
+
+La désignation par une personne d'une ou plusieurs personnes chargées d'exercer les fonctions de curateur ou de tuteur pour
+le cas où elle serait placée en curatelle ou en tutelle s'impose au juge, sauf si la personne désignée refuse la mission ou
+est dans l'impossibilité de l'exercer ou si l'intérêt de la personne protégée commande de l'écarter. En cas de difficulté, le
+juge statue.
+
+Il en est de même lorsque les parents ou le dernier vivant des père et mère, ne faisant pas l'objet d'une mesure de curatelle
+ou de tutelle, qui exercent l'autorité parentale sur leur enfant mineur ou assument la charge matérielle et affective de leur
+enfant majeur désignent une ou plusieurs personnes chargées d'exercer les fonctions de curateur ou de tuteur à compter du
+jour où eux-mêmes décéderont ou ne pourront plus continuer à prendre soin de l'intéressé.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+
+	**Cité par**:
+
+	  - Code civil - art. 437 (V)
+	  - Code civil - art. 449 (V)
+	  - Code de procédure civile - art. 1255 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 449
+
+A défaut de désignation faite en application de l'article 448, le juge nomme, comme curateur ou tuteur, le conjoint de la
+personne protégée, le partenaire avec qui elle a conclu un pacte civil de solidarité ou son concubin, à moins que la vie
+commune ait cessé entre eux ou qu'une autre cause empêche de lui confier la mesure.
+
+A défaut de nomination faite en application de l'alinéa précédent et sous la dernière réserve qui y est mentionnée, le juge
+désigne un parent, un allié ou une personne résidant avec le majeur protégé et entretenant avec lui des liens étroits et
+stables.
+
+Le juge prend en considération les sentiments exprimés par celui-ci, ses relations habituelles, l'intérêt porté à son égard
+et les recommandations éventuelles de ses parents et alliés ainsi que de son entourage.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°2008-1507 du 30 décembre 2008 (V)
+	  - Arrêté du 22 février 2011 - art. 1 (V)
+	  - Code de l'action sociale et des familles - art. L215-4 (V)
+	  - Code de l'action sociale et des familles - art. R215-14 (V)
+
+	**Cite**:
+
+	  - Code civil - art. 448 (AbD)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Modifié par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+
+
+###### Article 450
+
+Lorsqu'aucun membre de la famille ou aucun proche ne peut assumer la curatelle ou la tutelle, le juge désigne un mandataire
+judiciaire à la protection des majeurs inscrit sur la liste prévue à l'article L. 471-2 du code de l'action sociale et des
+familles. Ce mandataire ne peut refuser d'accomplir les actes urgents que commande l'intérêt de la personne protégée,
+notamment les actes conservatoires indispensables à la préservation de son patrimoine.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Modifié par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+
+	**Cité par**:
+
+	  - Décret n°2008-1512 du 30 décembre 2008 (V)
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L471-2 (V)
+
+
+###### Article 451
+
+Si l'intérêt de la personne hébergée ou soignée dans un établissement de santé ou dans un établissement social ou médico-
+social le justifie, le juge peut désigner, en qualité de curateur ou de tuteur, une personne ou un service préposé de
+l'établissement inscrit sur la liste des mandataires judiciaires à la protection des majeurs au titre du 1° ou du 3° de
+l'article L. 471-2 du code de l'action sociale et des familles, qui exerce ses fonctions dans les conditions fixées par
+décret en Conseil d'Etat.
+
+La mission confiée au mandataire s'étend à la protection de la personne, sauf décision contraire du juge.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+
+	**Cité par**:
+
+	  - Décret n°2008-1505 du 30 décembre 2008 (V)
+	  - Code civil - art. 459-1 (V)
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L471-2 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 452
+
+La curatelle et la tutelle sont des charges personnelles.
+
+Le curateur et le tuteur peuvent toutefois s'adjoindre, sous leur propre responsabilité, le concours de tiers majeurs ne
+faisant pas l'objet d'une mesure de protection juridique pour l'accomplissement de certains actes dont la liste est fixée par
+décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Ordonnance n°45-1483 du 30 juin 1945 - art. 53 (Ab)
+	  - Décret n°65-961 du 5 novembre 1965 - art. 1 (V)
+	  - Décret n°65-961 du 5 novembre 1965 - art. 2 (V)
+	  - Décret n°2008-1484 du 22 décembre 2008 (V)
+	  - Décret n°2009-1628 du 23 décembre 2009 (V)
+	  - Décret n°2015-1669 du 14 décembre 2015 (V)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°65-961 du 5 novembre 1965
+	  - TXT_SOURCE: Décret n°65-961 du 5 novembre 1965 - art. 1 (V)
+	  - TXT_SOURCE: Décret n°65-961 du 5 novembre 1965 - art. 2 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 453
+
+Nul n'est tenu de conserver la curatelle ou la tutelle d'une personne au-delà de cinq ans, à l'exception du conjoint, du
+partenaire du pacte civil de solidarité et des enfants de l'intéressé ainsi que des mandataires judiciaires à la protection
+des majeurs.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°65-961 du 5 novembre 1965
+	  - TXT_SOURCE: Décret n°65-961 du 5 novembre 1965 - art. 1 (V)
+	  - TXT_SOURCE: Décret n°65-961 du 5 novembre 1965 - art. 3 (V)
+
+	**Cité par**:
+
+	  - Décret n°65-961 du 5 novembre 1965 - art. 1 (V)
+	  - Décret n°65-961 du 5 novembre 1965 - art. 3 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Modifié par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+
+
+##### Paragraphe 2 : Du subrogé curateur et du subrogé tuteur
+
+###### Article 454
+
+Le juge peut, s'il l'estime nécessaire et sous réserve des pouvoirs du conseil de famille s'il a été constitué, désigner un
+subrogé curateur ou un subrogé tuteur.
+
+Si le curateur ou le tuteur est parent ou allié de la personne protégée dans une branche, le subrogé curateur ou le subrogé
+tuteur est choisi, dans la mesure du possible, dans l'autre branche.
+
+Lorsqu'aucun membre de la famille ou aucun proche ne peut assumer les fonctions de subrogé curateur ou de subrogé tuteur, un
+mandataire judiciaire à la protection des majeurs inscrit sur la liste prévue à l'article L. 471-2 du code de l'action
+sociale et des familles peut être désigné.
+
+A peine d'engager sa responsabilité à l'égard de la personne protégée, le subrogé curateur ou le subrogé tuteur surveille les
+actes passés par le curateur ou par le tuteur en cette qualité et informe sans délai le juge s'il constate des fautes dans
+l'exercice de sa mission.
+
+Le subrogé curateur ou le subrogé tuteur assiste ou représente, selon le cas, la personne protégée lorsque les intérêts de
+celle-ci sont en opposition avec ceux du curateur ou du tuteur ou lorsque l'un ou l'autre ne peut lui apporter son assistance
+ou agir pour son compte en raison des limitations de sa mission.
+
+Il est informé et consulté par le curateur ou le tuteur avant tout acte grave accompli par celui-ci.
+
+La charge du subrogé curateur ou du subrogé tuteur cesse en même temps que celle du curateur ou du tuteur. Le subrogé
+curateur ou le subrogé tuteur est toutefois tenu de provoquer le remplacement du curateur ou du tuteur en cas de cessation
+des fonctions de celui-ci sous peine d'engager sa responsabilité à l'égard de la personne protégée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Modifié par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. R472-8 (V)
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L471-2 (V)
+
+
+##### Paragraphe 3 : Du curateur ad hoc et du tuteur ad hoc
+
+###### Article 455
+
+En l'absence de subrogé curateur ou de subrogé tuteur, le curateur ou le tuteur dont les intérêts sont, à l'occasion d'un
+acte ou d'une série d'actes, en opposition avec ceux de la personne protégée ou qui ne peut lui apporter son assistance ou
+agir pour son compte en raison des limitations de sa mission fait nommer par le juge ou par le conseil de famille s'il a été
+constitué un curateur ou un tuteur ad hoc.
+
+Cette nomination peut également être faite à la demande du procureur de la République, de tout intéressé ou d'office.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Modifié par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+
+
+##### Paragraphe 4 : Du conseil de famille des majeurs en tutelle
+
+###### Article 456
+
+Le juge peut organiser la tutelle avec un conseil de famille si les nécessités de la protection de la personne ou la
+consistance de son patrimoine le justifient et si la composition de sa famille et de son entourage le permet. 
+
+Le juge désigne les membres du conseil de famille en considération des sentiments exprimés par la personne protégée, de ses
+relations habituelles, de l'intérêt porté à son égard et des recommandations éventuelles de ses parents et alliés ainsi que
+de son entourage. 
+
+Le conseil de famille désigne le tuteur, le subrogé tuteur et, le cas échéant, le tuteur ad hoc conformément aux articles 446
+à 455. 
+
+Il est fait application des règles prescrites pour le conseil de famille des mineurs, à l'exclusion de celles prévues à
+l'article 398, au quatrième alinéa de l'article 399 et au premier alinéa de l'article 401. Pour l'application du troisième
+alinéa de l'article 402, le délai court, lorsque l'action est exercée par le majeur protégé, à compter du jour où la mesure
+de protection prend fin.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°65-570 du 13 juillet 1965 - art. 22 (V)
+	  - Décret n°65-961 du 5 novembre 1965 - art. 4 (Ab)
+	  - Décret n°65-961 du 5 novembre 1965 - art. 7 (Ab)
+	  - Code civil - art. 1873-7 (V)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°65-961 du 5 novembre 1965
+	  - TXT_SOURCE: Décret n°65-961 du 5 novembre 1965 - art. 4 (V)
+	  - TXT_SOURCE: Décret n°65-961 du 5 novembre 1965 - art. 5 (V)
+	  - TXT_SOURCE: Décret n°65-961 du 5 novembre 1965 - art. 6 (V)
+	  - TXT_SOURCE: Décret n°65-961 du 5 novembre 1965 - art. 7 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+
+	**Cite**:
+
+	  - Code civil - art. 398 (V)
+	  - Code civil - art. 399 (V)
+	  - Code civil - art. 401 (V)
+	  - Code civil - art. 402 (V)
+	  - Code civil - art. 446 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 457
+
+Le juge peut autoriser le conseil de famille à se réunir et délibérer hors de sa présence lorsque ce dernier a désigné un
+mandataire judiciaire à la protection des majeurs comme tuteur ou subrogé tuteur. Le conseil de famille désigne alors un
+président et un secrétaire parmi ses membres, à l'exclusion du tuteur et du subrogé tuteur.
+
+Le président du conseil de famille transmet préalablement au juge l'ordre du jour de chaque réunion.
+
+Les décisions prises par le conseil de famille ne prennent effet qu'à défaut d'opposition formée par le juge, dans les
+conditions fixées par le code de procédure civile.
+
+Le président exerce les missions dévolues au juge pour la convocation, la réunion et la délibération du conseil de famille.
+Le juge peut toutefois, à tout moment, convoquer une réunion du conseil de famille sous sa présidence.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code civil - art. 452 (VT)
+	  - Code civil - art. 511 (V)
+	  - Code de procédure civile - art. 1237 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Modifié par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+
+
+##### Sous-section 4 : Des effets de la curatelle et de la tutelle quant à la protection de la personne
+
+###### Article 457-1
+
+La personne protégée reçoit de la personne chargée de sa protection, selon des modalités adaptées à son état et sans
+préjudice des informations que les tiers sont tenus de lui dispenser en vertu de la loi, toutes informations sur sa situation
+personnelle, les actes concernés, leur utilité, leur degré d'urgence, leurs effets et les conséquences d'un refus de sa part.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+
+	**Cité par**:
+
+	  - Arrêté du 23 décembre 2009 - art. Annexe (V)
+	  - Code civil - art. 438 (V)
+	  - Code civil - art. 479 (V)
+	  - Code civil - art. 494-6 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 458
+
+Sous réserve des dispositions particulières prévues par la loi, l'accomplissement des actes dont la nature implique un
+consentement strictement personnel ne peut jamais donner lieu à assistance ou représentation de la personne protégée.
+
+Sont réputés strictement personnels la déclaration de naissance d'un enfant, sa reconnaissance, les actes de l'autorité
+parentale relatifs à la personne d'un enfant, la déclaration du choix ou du changement du nom d'un enfant et le consentement
+donné à sa propre adoption ou à celle de son enfant.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+
+	**Cité par**:
+
+	  - Décret n°2008-1556 du 31 décembre 2008 (V)
+	  - Arrêté du 2 janvier 2009 - art. (V)
+	  - Code civil - art. 459 (V)
+	  - Code de l'action sociale et des familles - art. Annexe 4-3 (V)
+	  - Code de l'action sociale et des familles - art. D471-7 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 459
+
+Hors les cas prévus à l'article 458, la personne protégée prend seule les décisions relatives à sa personne dans la mesure où
+son état le permet.
+
+Lorsque l'état de la personne protégée ne lui permet pas de prendre seule une décision personnelle éclairée, le juge ou le
+conseil de famille s'il a été constitué peut prévoir qu'elle bénéficiera, pour l'ensemble des actes relatifs à sa personne ou
+ceux d'entre eux qu'il énumère, de l'assistance de la personne chargée de sa protection. Au cas où cette assistance ne
+suffirait pas, il peut, le cas échéant après l'ouverture d'une mesure de tutelle, autoriser le tuteur à représenter
+l'intéressé.
+
+La personne chargée de la protection du majeur peut prendre à l'égard de celui-ci les mesures de protection strictement
+nécessaires pour mettre fin au danger que, du fait de son comportement, l'intéressé ferait courir à lui-même. Elle en informe
+sans délai le juge ou le conseil de famille s'il a été constitué.
+
+Toutefois, sauf urgence, la personne chargée de la protection du majeur ne peut, sans l'autorisation du juge ou du conseil de
+famille s'il a été constitué, prendre une décision ayant pour effet de porter gravement atteinte à l'intégrité corporelle de
+la personne protégée ou à l'intimité de sa vie privée.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°2015-1776 du 28 décembre 2015 - art. 27
+	  - Loi n°2016-41 du 26 janvier 2016 - art. 189
+	  - Code civil - art. 459-1 (V)
+	  - Code de l'action sociale et des familles - art. Annexe 4-3 (V)
+	  - Code de l'action sociale et des familles - art. L311-5-1 (V)
+	  - Code de la santé publique - art. L1111-7 (V)
+	  - Code de la sécurité intérieure - art. R321-28 (VD)
+	  - Code de procédure civile - art. 1213 (V)
+	  - Code de procédure civile - art. 1276 (V)
+	  - Code de procédure civile - art. 1280 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Modifié par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+
+
+###### Article 459-1
+
+L'application de la présente sous-section ne peut avoir pour effet de déroger aux dispositions particulières prévues par le
+code de la santé publique et le code de l'action sociale et des familles prévoyant l'intervention d'un représentant légal. 
+
+Toutefois, lorsque la mesure de protection a été confiée à une personne ou un service préposé d'un établissement de santé ou
+d'un établissement social ou médico-social dans les conditions prévues à l'article 451, l'accomplissement des diligences et
+actes graves prévus par le code de la santé publique qui touchent à la personne et dont la liste est fixée par décret en
+Conseil d'Etat est subordonné à une autorisation spéciale du juge. Celui-ci peut décider, notamment s'il estime qu'il existe
+un conflit d'intérêts, d'en confier la charge au subrogé curateur ou au subrogé tuteur, s'il a été nommé, et, à défaut, à un
+curateur ou à un tuteur ad hoc.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+
+	**Cite**:
+
+	  - Code civil - art. 451 (VD)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 459-2
+
+La personne protégée choisit le lieu de sa résidence.
+
+Elle entretient librement des relations personnelles avec tout tiers, parent ou non. Elle a le droit d'être visitée et, le
+cas échéant, hébergée par ceux-ci.
+
+En cas de difficulté, le juge ou le conseil de famille s'il a été constitué statue.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+
+	**Cité par**:
+
+	  - Code civil - art. 472 (V)
+	  - Code de l'action sociale et des familles - art. Annexe 4-3 (V)
+	  - Code de l'action sociale et des familles - art. L311-4 (V)
+	  - Code de procédure civile - art. 1213 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 460
+
+Le mariage d'une personne en curatelle n'est permis qu'avec l'autorisation du curateur ou, à défaut, celle du juge.
+
+Le mariage d'une personne en tutelle n'est permis qu'avec l'autorisation du juge ou du conseil de famille s'il a été
+constitué et après audition des futurs conjoints et recueil, le cas échéant, de l'avis des parents et de l'entourage.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code civil - art. 457 (AbD)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Modifié par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+
+
+###### Article 461
+
+La personne en curatelle ne peut, sans l'assistance du curateur, signer la convention par laquelle elle conclut un pacte
+civil de solidarité. Aucune assistance n'est requise lors de la déclaration conjointe au greffe du tribunal d'instance prévue
+au premier alinéa de l'article 515-3.
+
+Les dispositions de l'alinéa précédent sont applicables en cas de modification de la convention.
+
+La personne en curatelle peut rompre le pacte civil de solidarité par déclaration conjointe ou par décision unilatérale.
+L'assistance de son curateur n'est requise que pour procéder à la signification prévue au cinquième alinéa de l'article
+515-7.
+
+La personne en curatelle est assistée de son curateur dans les opérations prévues aux dixième et onzième alinéas de l'article
+515-7.
+
+Pour l'application du présent article, le curateur est réputé en opposition d'intérêts avec la personne protégée lorsque la
+curatelle est confiée à son partenaire.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°2006-1806 du 23 décembre 2006 - art. 1 (VD)
+	  - Ordonnance n°2012-1222 du 2 novembre 2012 - art. 4 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+
+	**Cite**:
+
+	  - Code civil - art. 515-3 (M)
+	  - Code civil - art. 515-7 (M)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 462
+
+La conclusion d'un pacte civil de solidarité par une personne en tutelle est soumise à l'autorisation du juge ou du conseil
+de famille s'il a été constitué, après audition des futurs partenaires et recueil, le cas échéant, de l'avis des parents et
+de l'entourage.
+
+L'intéressé est assisté de son tuteur lors de la signature de la convention. Aucune assistance ni représentation ne sont
+requises lors de la déclaration conjointe au greffe du tribunal d'instance prévue au premier alinéa de l'article 515-3.
+
+Les dispositions des alinéas précédents sont applicables en cas de modification de la convention.
+
+La personne en tutelle peut rompre le pacte civil de solidarité par déclaration conjointe ou par décision unilatérale. La
+formalité de signification prévue au cinquième alinéa de l'article 515-7 est opérée à la diligence du tuteur. Lorsque
+l'initiative de la rupture émane de l'autre partenaire, cette signification est faite à la personne du tuteur.
+
+La rupture unilatérale du pacte civil de solidarité peut également intervenir sur l'initiative du tuteur, autorisé par le
+juge ou le conseil de famille s'il a été constitué, après audition de l'intéressé et recueil, le cas échéant, de l'avis des
+parents et de l'entourage.
+
+Aucune assistance ni représentation ne sont requises pour l'accomplissement des formalités relatives à la rupture par
+déclaration conjointe.
+
+La personne en tutelle est représentée par son tuteur dans les opérations prévues aux dixième et onzième alinéas de l'article
+515-7.
+
+Pour l'application du présent article, le tuteur est réputé en opposition d'intérêts avec la personne protégée lorsque la
+tutelle est confiée à son partenaire.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°2006-1806 du 23 décembre 2006 - art. 1 (VD)
+	  - Ordonnance n°2012-1222 du 2 novembre 2012 - art. 4 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Modifié par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+
+	**Cite**:
+
+	  - Code civil - art. 515-3 (M)
+	  - Code civil - art. 515-7 (M)
+
+
+###### Article 463
+
+A l'ouverture de la mesure ou, à défaut, ultérieurement, le juge ou le conseil de famille s'il a été constitué décide des
+conditions dans lesquelles le curateur ou le tuteur chargé d'une mission de protection de la personne rend compte des
+diligences qu'il accomplit à ce titre.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+
+	**Cité par**:
+
+	  - Code civil - art. 935 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+##### Sous-section 5 : De la régularité des actes
+
+###### Article 464
+
+Les obligations résultant des actes accomplis par la personne protégée moins de deux ans avant la publicité du jugement
+d'ouverture de la mesure de protection peuvent être réduites sur la seule preuve que son inaptitude à défendre ses intérêts,
+par suite de l'altération de ses facultés personnelles, était notoire ou connue du cocontractant à l'époque où les actes ont
+été passés. 
+
+Ces actes peuvent, dans les mêmes conditions, être annulés s'il est justifié d'un préjudice subi par la personne protégée. 
+
+Par dérogation à l'article 2252, l'action doit être introduite dans les cinq ans de la date du jugement d'ouverture de la
+mesure.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+
+	**Cite**:
+
+	  - Code civil - art. 2252 (V)
+
+	**Cité par**:
+
+	  - Code civil - art. 328 (V)
+	  - Code civil - art. 340-2 (Ab)
+	  - Code civil - art. 466 (V)
+	  - Code civil - art. 494-9 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 465
+
+A compter de la publicité du jugement d'ouverture, l'irrégularité des actes accomplis par la personne protégée ou par la
+personne chargée de la protection est sanctionnée dans les conditions suivantes : 
+
+1° Si la personne protégée a accompli seule un acte qu'elle pouvait faire sans l'assistance ou la représentation de la
+personne chargée de sa protection, l'acte reste sujet aux actions en rescision ou en réduction prévues à l'article 435 comme
+s'il avait été accompli par une personne placée sous sauvegarde de justice, à moins qu'il ait été expressément autorisé par
+le juge ou par le conseil de famille s'il a été constitué ; 
+
+2° Si la personne protégée a accompli seule un acte pour lequel elle aurait dû être assistée, l'acte ne peut être annulé que
+s'il est établi que la personne protégée a subi un préjudice ; 
+
+3° Si la personne protégée a accompli seule un acte pour lequel elle aurait dû être représentée, l'acte est nul de plein
+droit sans qu'il soit nécessaire de justifier d'un préjudice ; 
+
+4° Si le tuteur ou le curateur a accompli seul un acte qui aurait dû être fait par la personne protégée soit seule, soit avec
+son assistance ou qui ne pouvait être accompli qu'avec l'autorisation du juge ou du conseil de famille s'il a été constitué,
+l'acte est nul de plein droit sans qu'il soit nécessaire de justifier d'un préjudice. 
+
+Le curateur ou le tuteur peut, avec l'autorisation du juge ou du conseil de famille s'il a été constitué, engager seul
+l'action en nullité, en rescision ou en réduction des actes prévus aux 1°, 2° et 3°. 
+
+Dans tous les cas, l'action s'éteint par le délai de cinq ans prévu à l'article 1304. 
+
+Pendant ce délai et tant que la mesure de protection est ouverte, l'acte prévu au 4° peut être confirmé avec l'autorisation
+du juge ou du conseil de famille s'il a été constitué.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°1924-06-01 du 1 juin 1924 - art. 221 (V)
+	  - Décret n°2008-1484 du 22 décembre 2008 - art. Annexe 1 (V)
+	  - Code civil - art. 1150 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+
+	**Cite**:
+
+	  - Code civil - art. 1304 (V)
+	  - Code civil - art. 435 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 466
+
+Les articles 464 et 465 ne font pas obstacle à l'application des articles 414-1 et 414-2.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°2006-728 du 23 juin 2006 - art. 47 (V)
+	  - Code civil - art. 389-5 (M)
+	  - Code civil - art. 838 (M)
+	  - Code de procédure civile - art. 975 (Ab)
+	  - Nouveau code de procédure civile - art. 1231 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+
+	**Cite**:
+
+	  - Code civil - art. 414-1 (V)
+	  - Code civil - art. 464 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
 ##### Sous-section 6 : Des actes faits dans la curatelle
+
+###### Article 467
+
+La personne en curatelle ne peut, sans l'assistance du curateur, faire aucun acte qui, en cas de tutelle, requerrait une
+autorisation du juge ou du conseil de famille.
+
+Lors de la conclusion d'un acte écrit, l'assistance du curateur se manifeste par l'apposition de sa signature à côté de celle
+de la personne protégée.
+
+A peine de nullité, toute signification faite à cette dernière l'est également au curateur.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+
+	**Cité par**:
+
+	  - Code civil - art. 2045 (V)
+	  - Code civil - art. 471 (V)
+	  - Code de l'action sociale et des familles - art. R472-8 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
 
 ###### Article 468
 
-Dans tous les cas où l'autorisation du conseil de famille est requise pour la validité d'un acte du tuteur, elle peut être
-suppléée par celle du juge des tutelles, si l'acte qu'il s'agit de passer porte sur les biens dont la valeur en capital
-n'excède pas une somme qui est fixée par décret.
+Les capitaux revenant à la personne en curatelle sont versés directement sur un compte ouvert à son seul nom et mentionnant
+son régime de protection, auprès d'un établissement habilité à recevoir des fonds du public.
 
-Le juge des tutelles peut aussi, à la requête du tuteur, autoriser une vente de valeur mobilière au lieu et place du conseil
-de famille, s'il lui apparaît qu'il y aurait péril en la demeure, mais à charge qu'il en soit rendu compte dans le plus bref
-délai au conseil qui décidera du remploi.
+La personne en curatelle ne peut, sans l'assistance du curateur, faire emploi de ses capitaux.
+
+Cette assistance est également requise pour introduire une action en justice ou y défendre.
 
 **Liens relatifs à cet article**
 
@@ -21120,13 +21178,8 @@ délai au conseil qui décidera du remploi.
 	  - Décret n°2008-1484 du 22 décembre 2008 - art. Annexe 1 (V)
 	  - Code civil - art. 452 (VT)
 
-	**Créé par**:
-
-	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
-
 	**Liens**:
 
-	  - TXT_ASSOCIE: Décret n°65-961 du 5 novembre 1965 - art. 8 (M)
 	  - TXT_SOURCE: Décret n°65-961 du 5 novembre 1965
 	  - TXT_SOURCE: Décret n°65-961 du 5 novembre 1965 - art. 8 (V)
 
@@ -21134,24 +21187,579 @@ délai au conseil qui décidera du remploi.
 
 	  - Loi n°1803-03-14
 
+	**Modifié par**:
 
-## Titre XI : De la majorité et des majeurs qui sont protégés par la loi.
+	  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
 
-### Chapitre Ier : Dispositions générales.
+
+###### Article 469
+
+Le curateur ne peut se substituer à la personne en curatelle pour agir en son nom.
+
+Toutefois, le curateur peut, s'il constate que la personne en curatelle compromet gravement ses intérêts, saisir le juge pour
+être autorisé à accomplir seul un acte déterminé ou provoquer l'ouverture de la tutelle.
+
+Si le curateur refuse son assistance à un acte pour lequel son concours est requis, la personne en curatelle peut demander au
+juge l'autorisation de l'accomplir seule.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 1213 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Modifié par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+
+
+###### Article 470
+
+La personne en curatelle peut librement tester sous réserve des dispositions de l'article 901. 
+
+Elle ne peut faire de donation qu'avec l'assistance du curateur. 
+
+Le curateur est réputé en opposition d'intérêts avec la personne protégée lorsqu'il est bénéficiaire de la donation.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+
+	**Cité par**:
+
+	  - Décret n°2008-1484 du 22 décembre 2008 - art. Annexe 1 (V)
+
+	**Cite**:
+
+	  - Code civil - art. 901 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 471
+
+A tout moment, le juge peut, par dérogation à l'article 467, énumérer certains actes que la personne en curatelle a la
+capacité de faire seule ou, à l'inverse, ajouter d'autres actes à ceux pour lesquels l'assistance du curateur est exigée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Modifié par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+
+	**Cite**:
+
+	  - Code civil - art. 467 (V)
+
+	**Cité par**:
+
+	  - Code civil - art. 480 (VT)
+
+
+###### Article 472
+
+Le juge peut également, à tout moment, ordonner une curatelle renforcée. Dans ce cas, le curateur perçoit seul les revenus de
+la personne en curatelle sur un compte ouvert au nom de cette dernière. Il assure lui-même le règlement des dépenses auprès
+des tiers et dépose l'excédent sur un compte laissé à la disposition de l'intéressé ou le verse entre ses mains. 
+
+Sans préjudice des dispositions de l'article 459-2, le juge peut autoriser le curateur à conclure seul un bail d'habitation
+ou une convention d'hébergement assurant le logement de la personne protégée. 
+
+La curatelle renforcée est soumise aux dispositions des articles 503 et 510 à 515.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+
+	**Cité par**:
+
+	  - Code civil - art. 2045 (V)
+	  - Code civil - art. 495-7 (VD)
+	  - Code de l'action sociale et des familles - art. R472-8 (V)
+
+	**Cite**:
+
+	  - Code civil - art. 459-2 (V)
+	  - Code civil - art. 503 (V)
+	  - Code civil - art. 510 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+##### Sous-section 7 : Des actes faits dans la tutelle
+
+###### Article 473
+
+Sous réserve des cas où la loi ou l'usage autorise la personne en tutelle à agir elle-même, le tuteur la représente dans tous
+les actes de la vie civile.
+
+Toutefois, le juge peut, dans le jugement d'ouverture ou ultérieurement, énumérer certains actes que la personne en tutelle
+aura la capacité de faire seule ou avec l'assistance du tuteur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Cité par**:
+
+	  - Loi n°64-1230 du 14 décembre 1964 - art. 13 (V)
+	  - Loi n°64-1230 du 14 décembre 1964 - art. 15 (V)
+	  - Code civil - art. 504 (V)
+	  - Code civil - art. 511 (M)
+	  - Code de l'action sociale et des familles - art. R472-8 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+
+
+###### Article 474
+
+La personne en tutelle est représentée dans les actes nécessaires à la gestion de son patrimoine dans les conditions et selon
+les modalités prévues au titre XII.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Modifié par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+
+
+###### Article 475
+
+La personne en tutelle est représentée en justice par le tuteur.
+
+Celui-ci ne peut agir, en demande ou en défense, pour faire valoir les droits extra-patrimoniaux de la personne protégée
+qu'après autorisation ou sur injonction du juge ou du conseil de famille s'il a été constitué. Le juge ou le conseil de
+famille peut enjoindre également au tuteur de se désister de l'instance ou de l'action ou de transiger.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Modifié par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+
+	**Cité par**:
+
+	  - Décret n°2008-1484 du 22 décembre 2008 - art. Annexe 1 (V)
+
+
+###### Article 476
+
+La personne en tutelle peut, avec l'autorisation du juge ou du conseil de famille s'il a été constitué, être assistée ou au
+besoin représentée par le tuteur pour faire des donations.
+
+Elle ne peut faire seule son testament après l'ouverture de la tutelle qu'avec l'autorisation du juge ou du conseil de
+famille s'il a été constitué, à peine de nullité de l'acte. Le tuteur ne peut ni l'assister ni la représenter à cette
+occasion.
+
+Toutefois, elle peut seule révoquer le testament fait avant ou après l'ouverture de la tutelle.
+
+Le testament fait antérieurement à l'ouverture de la tutelle reste valable à moins qu'il ne soit établi que, depuis cette
+ouverture, la cause qui avait déterminé le testateur à disposer a disparu.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 413-1 (VD)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+#### Section 5 : Du mandat de protection future
+
+##### Sous-section 1 : Des dispositions communes
+
+###### Article 477
+
+Toute personne majeure ou mineure émancipée ne faisant pas l'objet d'une mesure de tutelle peut charger une ou plusieurs
+personnes, par un même mandat, de la représenter pour le cas où, pour l'une des causes prévues à l'article 425, elle ne
+pourrait plus pourvoir seule à ses intérêts. 
+
+La personne en curatelle ne peut conclure un mandat de protection future qu'avec l'assistance de son curateur. 
+
+Les parents ou le dernier vivant des père et mère, ne faisant pas l'objet d'une mesure de curatelle ou de tutelle, qui
+exercent l'autorité parentale sur leur enfant mineur ou assument la charge matérielle et affective de leur enfant majeur
+peuvent, pour le cas où cet enfant ne pourrait plus pourvoir seul à ses intérêts pour l'une des causes prévues à l'article
+425, désigner un ou plusieurs mandataires chargés de le représenter. Cette désignation prend effet à compter du jour où le
+mandant décède ou ne peut plus prendre soin de l'intéressé. 
+
+Le mandat est conclu par acte notarié ou par acte sous seing privé. Toutefois, le mandat prévu au troisième alinéa ne peut
+être conclu que par acte notarié.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°67-223 du 17 mars 1967 - art. 32 (V)
+	  - Arrêté du 23 décembre 2009 - art. Annexe (V)
+	  - Arrêté du 28 octobre 2016 - art. 3
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L322-2 (Ab)
+	  - Code de commerce - art. A444-79-1 (V)
+	  - Code de procédure civile - art. 1258 (V)
+	  - Code de procédure civile - art. 1258-1 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 413-2 (VD)
+
+	**Cite**:
+
+	  - Code civil - art. 425 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 478
+
+Le mandat de protection future est soumis aux dispositions des articles 1984 à 2010 qui ne sont pas incompatibles avec celles
+de la présente section.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+
+	**Cite**:
+
+	  - Code civil - art. 1984 (V)
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 413-3 (VD)
+
+	**Cité par**:
+
+	  - Code civil - art. 413-4 (VD)
+	  - Code civil - art. 479 (AbD)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 479
+
+Lorsque le mandat s'étend à la protection de la personne, les droits et obligations du mandataire sont définis par les
+articles 457-1 à 459-2. Toute stipulation contraire est réputée non écrite. 
+
+Le mandat peut prévoir que le mandataire exercera les missions que le code de la santé publique et le code de l'action
+sociale et des familles confient au représentant de la personne en tutelle ou à la personne de confiance. 
+
+Le mandat fixe les modalités de contrôle de son exécution.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 413-4 (VD)
+
+	**Cite**:
+
+	  - Code civil - art. 457-1 (V)
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 1259-3 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 480
+
+Le mandataire peut être toute personne physique choisie par le mandant ou une personne morale inscrite sur la liste des
+mandataires judiciaires à la protection des majeurs prévue à l'article L. 471-2 du code de l'action sociale et des familles.
+
+Le mandataire doit, pendant toute l'exécution du mandat, jouir de la capacité civile et remplir les conditions prévues pour
+les charges tutélaires par l'article 395 et le dernier alinéa de l'article 445 du présent code.
+
+Il ne peut, pendant cette exécution, être déchargé de ses fonctions qu'avec l'autorisation du juge des tutelles.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+
+	**Cite**:
+
+	  - Code civil - art. 395 (AbD)
+	  - Code civil - art. 445 (AbD)
+	  - Code de l'action sociale et des familles - art. L471-2 (VD)
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 413-5 (VD)
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 1259-3 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 481
+
+Le mandat prend effet lorsqu'il est établi que le mandant ne peut plus pourvoir seul à ses intérêts. Celui-ci en reçoit
+notification dans les conditions prévues par le code de procédure civile. 
+
+A cette fin, le mandataire produit au greffe du tribunal d'instance le mandat et un certificat médical émanant d'un médecin
+choisi sur la liste mentionnée à l'article 431 établissant que le mandant se trouve dans l'une des situations prévues à
+l'article 425. Le greffier vise le mandat et date sa prise d'effet, puis le restitue au mandataire.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°64-1230 du 14 décembre 1964 - art. 14 (V)
+	  - Décret n°2007-1702 du 30 novembre 2007 - art. 2 (V)
+	  - Ordonnance n°2012-1222 du 2 novembre 2012 - art. 4 (V)
+	  - Code civil - art. 483 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 413-6 (VD)
+
+	**Cite**:
+
+	  - Code civil - art. 425 (V)
+	  - Code civil - art. 431 (V)
+
+
+###### Article 482
+
+Le mandataire exécute personnellement le mandat. Toutefois, il peut se substituer un tiers pour les actes de gestion du
+patrimoine mais seulement à titre spécial. 
+
+Le mandataire répond de la personne qu'il s'est substituée dans les conditions de l'article 1994.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Modifié par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+
+	**Cite**:
+
+	  - Code civil - art. 1994 (V)
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 413-7 (VD)
+
+
+###### Article 483
+
+Le mandat mis à exécution prend fin par : 
+
+1° Le rétablissement des facultés personnelles de l'intéressé constaté à la demande du mandant ou du mandataire, dans les
+formes prévues à l'article 481 ; 
+
+2° Le décès de la personne protégée ou son placement en curatelle ou en tutelle, sauf décision contraire du juge qui ouvre la
+mesure ; 
+
+3° Le décès du mandataire, son placement sous une mesure de protection ou sa déconfiture ; 
+
+4° Sa révocation prononcée par le juge des tutelles à la demande de tout intéressé, lorsqu'il s'avère que les conditions
+prévues par l'article 425 ne sont pas réunies, lorsque les règles du droit commun de la représentation ou celles relatives
+aux droits et devoirs respectifs des époux et aux régimes matrimoniaux apparaissent suffisantes pour qu'il soit pourvu aux
+intérêts de la personne par son conjoint avec qui la communauté de vie n'a pas cessé ou lorsque l'exécution du mandat est de
+nature à porter atteinte aux intérêts du mandant. 
+
+Le juge peut également suspendre les effets du mandat pour le temps d'une mesure de sauvegarde de justice.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+
+	**Cite**:
+
+	  - Code civil - art. 425 (V)
+	  - Code civil - art. 481 (V)
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 1213 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 484
+
+Tout intéressé peut saisir le juge des tutelles aux fins de contester la mise en oeuvre du mandat ou de voir statuer sur les
+conditions et modalités de son exécution.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 1213 (V)
+	  - Code de procédure civile - art. 1259-3 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 485
+
+Le juge qui met fin au mandat peut ouvrir une mesure de protection juridique dans les conditions et selon les modalités
+prévues aux sections 1 à 4 du présent chapitre.
+
+Lorsque la mise en oeuvre du mandat ne permet pas, en raison de son champ d'application, de protéger suffisamment les
+intérêts personnels ou patrimoniaux de la personne, le juge peut ouvrir une mesure de protection juridique complémentaire
+confiée, le cas échéant, au mandataire de protection future. Il peut aussi autoriser ce dernier ou un mandataire ad hoc à
+accomplir un ou plusieurs actes déterminés non couverts par le mandat.
+
+Le mandataire de protection future et les personnes désignées par le juge sont indépendants et ne sont pas responsables l'un
+envers l'autre ; ils s'informent toutefois des décisions qu'ils prennent.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°67-223 du 17 mars 1967 - art. 32 (V)
+	  - Code de procédure civile - art. 1217 (V)
+	  - Code de procédure civile - art. 1259-5 (V)
+
+	**Créé par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 486
+
+Le mandataire chargé de l'administration des biens de la personne protégée fait procéder à leur inventaire lors de
+l'ouverture de la mesure. Il assure son actualisation au cours du mandat afin de maintenir à jour l'état du patrimoine. 
+
+Il établit annuellement le compte de sa gestion qui est vérifié selon les modalités définies par le mandat et que le juge
+peut en tout état de cause faire vérifier selon les modalités prévues à l'article 511.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+
+	**Cité par**:
+
+	  - Arrêté du 23 décembre 2009 - art. Annexe (V)
+	  - Code civil - art. 491 (VD)
+	  - Code civil - art. 494 (V)
+
+	**Cite**:
+
+	  - Code civil - art. 511 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 487
+
+A l'expiration du mandat et dans les cinq ans qui suivent, le mandataire tient à la disposition de la personne qui est amenée
+à poursuivre la gestion, de la personne protégée si elle a recouvré ses facultés ou de ses héritiers l'inventaire des biens
+et les actualisations auxquelles il a donné lieu ainsi que les cinq derniers comptes de gestion et les pièces nécessaires
+pour continuer celle-ci ou assurer la liquidation de la succession de la personne protégée.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 413-8 (VD)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Modifié par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+
 
 ###### Article 488
 
-La majorité est fixée à dix-huit ans accomplis ; à cet âge, on est capable de tous les actes de la vie civile.
+Les actes passés et les engagements contractés par une personne faisant l'objet d'un mandat de protection future mis à
+exécution, pendant la durée du mandat, peuvent être rescindés pour simple lésion ou réduits en cas d'excès alors même qu'ils
+pourraient être annulés en vertu de l'article 414-1. Les tribunaux prennent notamment en considération l'utilité ou
+l'inutilité de l'opération, l'importance ou la consistance du patrimoine de la personne protégée et la bonne ou mauvaise foi
+de ceux avec qui elle a contracté. 
 
-Est néanmoins protégé par la loi, soit à l'occasion d'un acte particulier, soit d'une manière continue, le majeur qu'une
-altération de ses facultés personnelles met dans l'impossibilité de pourvoir seul à ses intérêts.
-
-Peut pareillement être protégé le majeur qui, par sa prodigalité, son intempérance ou son oisiveté, s'expose à tomber dans le
-besoin ou compromet l'exécution de ses obligations familiales.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+L'action n'appartient qu'à la personne protégée et, après sa mort, à ses héritiers. Elle s'éteint par le délai de cinq ans
+prévu à l'article 1304.
 
 **Liens relatifs à cet article**
 
@@ -21162,181 +21770,56 @@ La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 	  - Code civil - art. 1124 (M)
 	  - Code civil - art. 508-1 (VT)
 
+	**Modifié par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+
+	**Cite**:
+
+	  - Code civil - art. 1304 (V)
+	  - Code civil - art. 414-1 (V)
+
 	**Codifié par**:
 
 	  - Loi n°1803-03-14
 
-	**Créé par**:
 
-	  - Loi n°68-5 du 3 janvier 1968 - art. 1 () JORF 4 janvier 1968 en vigueur le 1er novembre 1968
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 14 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 15 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 16 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 17 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 21 (V)
-	  - SPEC_APPLI: Loi n°68-696 1968-07-31 art. 14
-
-	**Modifié par**:
-
-	  - Loi n°74-631 du 5 juillet 1974 - art. 1 () JORF 7 juillet 1974
-
+##### Sous-section 2 : Du mandat notarié
 
 ###### Article 489
 
-Pour faire un acte valable, il faut être sain d'esprit. Mais c'est à ceux qui agissent en nullité pour cette cause de prouver
-l'existence d'un trouble mental au moment de l'acte. 
+Lorsque le mandat est établi par acte authentique, il est reçu par un notaire choisi par le mandant. L'acceptation du
+mandataire est faite dans les mêmes formes.
 
-Du vivant de l'individu, l'action en nullité ne peut être exercée que par lui, ou par son tuteur ou curateur, s'il lui en a
-été ensuite nommé un. Elle s'éteint par le délai prévu à l'article 1304.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+Tant que le mandat n'a pas pris effet, le mandant peut le modifier dans les mêmes formes ou le révoquer en notifiant sa
+révocation au mandataire et au notaire et le mandataire peut y renoncer en notifiant sa renonciation au mandant et au
+notaire.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Codifié par**:
 
-	  - Loi n°68-5 du 3 janvier 1968 - art. 1 () JORF 4 janvier 1968 en vigueur le 1er novembre 1968
+	  - Loi n°1803-03-14
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 14 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 15 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 16 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 17 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 21 (V)
-	  - SPEC_APPLI: Loi n°68-696 1968-07-31 art. 14
-	  - TXT_ASSOCIE: Code civil - art. 489-1 (AbD)
-
-	**Cite**:
-
-	  - Code civil - art. 1304 (VD)
+	  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
 
 	**Cité par**:
 
 	  - Code civil - art. 489-1 (AbD)
 	  - Code civil - art. 491-2 (VT)
 
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-
-###### Article 489-1
-
-Après sa mort, les actes faits par un individu, autres que la donation entre vifs ou le testament, ne pourront être attaqués
-pour la cause prévue à l'article précédent que dans les cas ci-dessous énumérés :
-
-1° Si l'acte porte en lui-même la preuve d'un trouble mental ;
-
-2° S'il a été fait dans un temps où l'individu était placé sous la sauvegarde de justice ;
-
-3° Si une action avait été introduite avant le décès aux fins de faire ouvrir la tutelle ou la curatelle.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°68-5 du 3 janvier 1968 - art. 1 () JORF 4 janvier 1968 en vigueur le 1er novembre 1968
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 14 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 15 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 16 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 17 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 21 (V)
-	  - SPEC_APPLI: Loi n°68-696 1968-07-31 art. 14
-	  - TXT_ASSOCIE: Code civil - art. 489 (AbD)
-
-	**Abrogé par**:
-
-	  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
-
-	**Cite**:
-
-	  - Code civil - art. 489 (AbD)
-
-
-###### Article 489-2
-
-Celui qui a causé un dommage à autrui alors qu'il était sous l'empire d'un trouble mental n'en est pas moins obligé à
-réparation.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°68-5 du 3 janvier 1968 - art. 1 () JORF 4 janvier 1968 en vigueur le 1er novembre 1968
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 14 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 15 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 16 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 17 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 21 (V)
-	  - SPEC_APPLI: Loi n°68-696 1968-07-31 art. 14
-
-	**Abrogé par**:
-
-	  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
-
-	**Cité par**:
-
-	  - Loi n°2008-174 du 25 février 2008 - art. 11 (V)
-	  - CODE DE PROCEDURE PENALE - art. 706-125 (M)
-	  - CODE DE PROCEDURE PENALE - art. 706-131 (M)
-
 
 ###### Article 490
 
-Lorsque les facultés mentales sont altérées par une maladie, une infirmité ou un affaiblissement dû à l'âge, il est pourvu
-aux intérêts de la personne par l'un des régimes de protection prévus aux chapitres suivants.
+Par dérogation à l'article 1988, le mandat, même conçu en termes généraux, inclut tous les actes patrimoniaux que le tuteur a
+le pouvoir d'accomplir seul ou avec une autorisation. 
 
-Les mêmes régimes de protection sont applicables à l'altération des facultés corporelles, si elle empêche l'expression de la
-volonté.
-
-L'altération des facultés mentales ou corporelles doit être médicalement établie.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+Toutefois, le mandataire ne peut accomplir un acte de disposition à titre gratuit qu'avec l'autorisation du juge des
+tutelles.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°68-5 du 3 janvier 1968 - art. 1 () JORF 4 janvier 1968 en vigueur le 1er novembre 1968
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 14 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 15 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 16 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 17 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 21 (V)
-	  - SPEC_APPLI: Loi n°68-696 1968-07-31 art. 14
 
 	**Cité par**:
 
@@ -21359,159 +21842,29 @@ La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 	  - Code de la santé publique - art. L326-1 (M)
 	  - Code de la santé publique - art. L327 (Ab)
 
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-
-###### Article 490-1
-
-Les modalités du traitement médical, notamment quant au choix entre l'hospitalisation et les soins à domicile, sont
-indépendantes du régime de protection appliqué aux intérêts civils.
-
-Réciproquement, le régime applicable aux intérêts civils est indépendant du traitement médical.
-
-Néanmoins, les décisions par lesquelles le juge des tutelles organise la protection des intérêts civils sont précédées de
-l'avis du médecin traitant.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°68-5 du 3 janvier 1968 - art. 1 () JORF 4 janvier 1968 en vigueur le 1er novembre 1968
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 14 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 15 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 16 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 17 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 21 (V)
-	  - SPEC_APPLI: Loi n°68-696 1968-07-31 art. 14
-
-	**Abrogé par**:
+	**Modifié par**:
 
 	  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
 
+	**Cite**:
 
-###### Article 490-2
-
-Quel que soit le régime de protection applicable, le logement de la personne protégée et les meubles meublants dont il est
-garni doivent être conservés à sa disposition aussi longtemps qu'il est possible.
-
-Le pouvoir d'administrer, en ce qui touche ces biens, ne permet que des conventions de jouissance précaire, lesquelles
-devront cesser, malgré toutes dispositions ou stipulations contraires, dès le retour de la personne protégée.
-
-S'il devient nécessaire ou s'il est de l'intérêt de la personne protégée qu'il soit disposé des droits relatifs à
-l'habitation ou que le mobilier soit aliéné, l'acte devra être autorisé par le juge des tutelles, après avis du médecin
-traitant, sans préjudice des autres formalités que peut requérir la nature des biens. Les souvenirs et autres objets de
-caractère personnel seront toujours exceptés de l'aliénation et devront être gardés à la disposition de la personne protégée,
-le cas échéant, par les soins de l'établissement de traitement.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
-
-**Liens relatifs à cet article**
+	  - Code civil - art. 1988 (V)
 
 	**Codifié par**:
 
 	  - Loi n°1803-03-14
 
-	**Créé par**:
-
-	  - Loi n°68-5 du 3 janvier 1968 - art. 1 () JORF 4 janvier 1968 en vigueur le 1er novembre 1968
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 14 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 15 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 16 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 17 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 18, v. init.
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 21 (V)
-	  - SPEC_APPLI: Loi n°68-696 1968-07-31 art. 14
-
-	**Cité par**:
-
-	  - Loi n°68-5 du 3 janvier 1968 - art. 18 (V)
-
-	**Abrogé par**:
-
-	  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
-
-
-###### Article 490-3
-
-Le procureur de la République du lieu de traitement et le juge des tutelles peuvent visiter ou faire visiter les majeurs
-protégés par la loi, quel que soit le régime de protection qui leur est applicable.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°68-5 du 3 janvier 1968 - art. 1 () JORF 4 janvier 1968 en vigueur le 1er novembre 1968
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 14 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 15 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 16 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 17 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 21 (V)
-	  - SPEC_APPLI: Loi n°68-696 1968-07-31 art. 14
-
-	**Abrogé par**:
-
-	  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
-
-	**Cité par**:
-
-	  - CODE DE PROCEDURE PENALE - art. R200 (M)
-	  - Nouveau code de procédure civile - art. 1232 (V)
-
-
-### Chapitre II : Des majeurs sous la sauvegarde de justice.
 
 ###### Article 491
 
-Peut être placé sous la sauvegarde de justice le majeur qui, pour l'une des causes prévues à l'article 490, a besoin d'être
-protégé dans les actes de la vie civile.
+Pour l'application du second alinéa de l'article 486, le mandataire rend compte au notaire qui a établi le mandat en lui
+adressant ses comptes, auxquels sont annexées toutes pièces justificatives utiles. Celui-ci en assure la conservation ainsi
+que celle de l'inventaire des biens et de ses actualisations.
 
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+Le notaire saisit le juge des tutelles de tout mouvement de fonds et de tout acte non justifiés ou n'apparaissant pas
+conformes aux stipulations du mandat.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°68-5 du 3 janvier 1968 - art. 1 () JORF 4 janvier 1968 en vigueur le 1er novembre 1968
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 14 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 15 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 16 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 17 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 21 (V)
-	  - SPEC_APPLI: Loi n°68-696 1968-07-31 art. 14
 
 	**Cité par**:
 
@@ -21520,283 +21873,30 @@ La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 	  - Décret n°2007-1905 du 26 décembre 2007 (V)
 	  - Décret n°2016-230 du 26 février 2016 - art.
 
-	**Cite**:
-
-	  - Code civil - art. 490 (VT)
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-
-###### Article 491-1
-
-La sauvegarde de justice résulte d'une déclaration faite au procureur de la République dans les conditions prévues par le
-code de la santé publique.
-
-Le juge des tutelles, saisi d'une procédure de tutelle ou curatelle, peut placer la personne qu'il y a lieu de protéger sous
-la sauvegarde de justice, pour la durée de l'instance, par une décision provisoire transmise au procureur de la République.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°68-5 du 3 janvier 1968 - art. 1 () JORF 4 janvier 1968 en vigueur le 1er novembre 1968
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 14 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 15 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 16 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 17 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 21 (V)
-	  - SPEC_APPLI: Loi n°68-696 1968-07-31 art. 14
-
-	**Abrogé par**:
-
-	  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
-
-	**Cité par**:
-
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L322-2 (Ab)
-	  - Nouveau code de procédure civile - art. 1238 (V)
-	  - Nouveau code de procédure civile - art. 1239 (V)
-
-
-###### Article 491-2
-
-Le majeur placé sous la sauvegarde de justice conserve l'exercice de ses droits. 
-
-Toutefois, les actes qu'il a passés et les engagements qu'il a contractés pourront être rescindés pour simple lésion ou
-réduits en cas d'excès lors même qu'ils ne pourraient être annulés en vertu de l'article 489. 
-
-Les tribunaux prendront, à ce sujet, en considération, la fortune de la personne protégée, la bonne ou mauvaise foi de ceux
-qui auront traité avec elle, l'utilité ou l'inutilité de l'opération.
-
-L'action en rescision ou en réduction peut être exercée, du vivant de la personne, par tous ceux qui auraient qualité pour
-demander l'ouverture d'une tutelle, et après sa mort, par ses héritiers. Elle s'éteint par le délai prévu à l'article 1304.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°68-5 du 3 janvier 1968 - art. 1 () JORF 4 janvier 1968 en vigueur le 1er novembre 1968
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 14 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 15 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 16 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 17 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 21 (V)
-	  - SPEC_APPLI: Loi n°68-696 1968-07-31 art. 14
-
-	**Abrogé par**:
-
-	  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
-
-	**Cite**:
-
-	  - Code civil - art. 1304 (VD)
-	  - Code civil - art. 489 (VD)
-
-	**Cité par**:
-
-	  - Code civil - art. 510-3 (VT)
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-
-###### Article 491-3
-
-Lorsqu'une personne, soit avant, soit après avoir été placée sous la sauvegarde de justice, a constitué un mandataire à
-l'effet d'administrer ses biens, ce mandat reçoit exécution.
-
-Toutefois, si la procuration mentionne expressément qu'elle a été donnée en considération de la période de sauvegarde, elle
-ne peut, pendant cette période, être révoquée par le mandant qu'avec l'autorisation du juge des tutelles.
-
-Dans tous les cas, le juge, soit d'office, soit à la requête de l'une des personnes qui aurait qualité pour demander
-l'ouverture d'une tutelle, peut prononcer la révocation du mandat.
-
-Il peut aussi, même d'office, ordonner que les comptes seront soumis au greffier en chef du tribunal d'instance pour
-approbation, sans préjudice de la faculté pour le juge d'exercer lui-même ce contrôle.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°95-125 1995-02-08 art. 19 *date d'effet*
-
 	**Modifié par**:
 
-	  - Loi n°95-125 du 8 février 1995 - art. 13 () JORF 9 février 1995 en vigueur le 9 mai 1995
-
-	**Abrogé par**:
-
-	  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
-
-
-###### Article 491-4
-
-En l'absence de mandat, on suit les règles de la gestion d'affaires.
-
-Toutefois, ceux qui auraient qualité pour demander l'ouverture d'une tutelle ont l'obligation de faire les actes
-conservatoires que nécessite la gestion du patrimoine de la personne protégée quand ils ont eu connaissance tant de leur
-urgence que de la déclaration aux fins de sauvegarde. La même obligation incombe sous les mêmes conditions au directeur de
-l'établissement de traitement ou, éventuellement, à celui qui héberge à son domicile la personne sous sauvegarde.
-
-L'obligation de faire les actes conservatoires emporte, à l'égard des tiers, le pouvoir correspondant.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°68-5 du 3 janvier 1968 - art. 1 () JORF 4 janvier 1968 en vigueur le 1er novembre 1968
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 14 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 15 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 16 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 17 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 21 (V)
-	  - SPEC_APPLI: Loi n°68-696 1968-07-31 art. 14
-
-	**Cité par**:
-
-	  - Décret n°74-27 du 14 janvier 1974 - art. 30 (Ab)
-	  - Code civil - art. 491-5 (AbD)
-	  - Code de la santé publique - art. R1112-37 (V)
-
-	**Abrogé par**:
-
-	  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-
-###### Article 491-5
-
-S'il y a lieu d'agir en dehors des cas définis à l'article précédent, tout intéressé peut en donner avis au juge des
-tutelles.
-
-Le juge pourra soit désigner un mandataire spécial à l'effet de faire un acte déterminé ou une série d'actes de même nature,
-dans les limites de ce qu'un tuteur pourrait faire sans l'autorisation du conseil de famille, soit décider d'office d'ouvrir
-une tutelle ou une curatelle, soit renvoyer l'intéressé à en provoquer lui-même l'ouverture, s'il est de ceux qui ont qualité
-pour la demander.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°68-5 du 3 janvier 1968 - art. 1 () JORF 4 janvier 1968 en vigueur le 1er novembre 1968
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 14 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 15 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 16 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 17 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 21 (V)
-	  - SPEC_APPLI: Loi n°68-696 1968-07-31 art. 14
-
-	**Cité par**:
-
-	  - Arrêté du 4 mars 1970 - art. 3 (V)
-	  - Nouveau code de procédure civile - art. 1241 (V)
-
-	**Abrogé par**:
-
 	  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
 
 	**Cite**:
 
-	  - Code civil - art. 491-4 (AbD)
-
-
-###### Article 491-6
-
-La sauvegarde de justice prend fin par une nouvelle déclaration attestant que la situation antérieure a cessé, par la
-péremption de la déclaration selon les délais du code de procédure civile ou par sa radiation sur décision du procureur de la
-République.
-
-Elle cesse également par l'ouverture d'une tutelle ou d'une curatelle à partir du jour où prend effet le nouveau régime de
-protection.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
-
-**Liens relatifs à cet article**
+	  - Code civil - art. 486 (Ab)
 
 	**Codifié par**:
 
 	  - Loi n°1803-03-14
 
-	**Créé par**:
 
-	  - Loi n°68-5 du 3 janvier 1968 - art. 1 () JORF 4 janvier 1968 en vigueur le 1er novembre 1968
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 14 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 15 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 16 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 17 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 21 (V)
-	  - SPEC_APPLI: Loi n°68-696 1968-07-31 art. 14
-
-	**Abrogé par**:
-
-	  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
-
-
-### Chapitre III : Des majeurs en tutelle.
+##### Sous-section 3 : Du mandat sous seing privé
 
 ###### Article 492
 
-Une tutelle est ouverte quand un majeur, pour l'une des causes prévues à l'article 490, a besoin d'être représenté d'une
-manière continue dans les actes de la vie civile.
+Le mandat établi sous seing privé est daté et signé de la main du mandant. Il est soit contresigné par un avocat, soit établi
+selon un modèle défini par décret en Conseil d'Etat.
 
-**Nota:**
+Le mandataire accepte le mandat en y apposant sa signature.
 
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+Tant que le mandat n'a pas reçu exécution, le mandant peut le modifier ou le révoquer dans les mêmes formes et le mandataire
+peut y renoncer en notifiant sa renonciation au mandant.
 
 **Liens relatifs à cet article**
 
@@ -21818,62 +21918,42 @@ La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 	  - Code de la santé publique - art. L352-1 (Ab)
 	  - Code de procédure civile - art. 1258-2 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°68-5 du 3 janvier 1968 - art. 1 () JORF 4 janvier 1968 en vigueur le 1er novembre 1968
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 14 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 15 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 16 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 17 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 21 (V)
-	  - SPEC_APPLI: Loi n°68-696 1968-07-31 art. 14
+	  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
 
 	**Codifié par**:
 
 	  - Loi n°1803-03-14
 
+
+###### Article 492-1
+
+Le mandat n'acquiert date certaine que dans les conditions de l'article 1328.
+
+**Liens relatifs à cet article**
+
 	**Cite**:
 
-	  - Code civil - art. 490 (VD)
+	  - Code civil - art. 1328 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
 
 
 ###### Article 493
 
-L'ouverture de la tutelle est prononcée par le juge des tutelles à la requête de la personne qu'il y a lieu de protéger, de
-son conjoint, à moins que la communauté de vie n'ait cessé entre eux, de ses ascendants, de ses descendants, de ses frères et
-soeurs, du curateur ainsi que du ministère public ; elle peut être aussi ouverte d'office par le juge.
+Le mandat est limité, quant à la gestion du patrimoine, aux actes qu'un tuteur peut faire sans autorisation.
 
-Les autres parents, les alliés, les amis peuvent seulement donner au juge avis de la cause qui justifierait l'ouverture de la
-tutelle. Il en est de même du médecin traitant et du directeur de l'établissement.
-
-Les personnes visées aux deux alinéas précédents pourront, même si elles ne sont pas intervenues à l'instance, former un
-recours devant le tribunal de grande instance contre le jugement qui a ouvert la tutelle.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+Si l'accomplissement d'un acte qui est soumis à autorisation ou qui n'est pas prévu par le mandat s'avère nécessaire dans
+l'intérêt du mandant, le mandataire saisit le juge des tutelles pour le voir ordonner.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°68-5 du 3 janvier 1968 - art. 1 () JORF 4 janvier 1968 en vigueur le 1er novembre 1968
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 14 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 15 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 16 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 17 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 21 (V)
-	  - SPEC_APPLI: Loi n°68-696 1968-07-31 art. 14
 
 	**Cité par**:
 
@@ -21885,178 +21965,292 @@ La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 	  - Code de procédure civile - art. 1259-5 (V)
 	  - Nouveau code de procédure civile - art. 1256 (V)
 
-
-###### Article 493-1
-
-Le juge ne peut prononcer l'ouverture d'une tutelle que si l'altération des facultés mentales ou corporelles du malade a été
-constatée par un médecin spécialiste choisi sur une liste établie par le procureur de la République.
-
-L'ouverture de la tutelle sera prononcée dans les conditions prévues par le code de procédure civile.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°68-5 du 3 janvier 1968 - art. 1 () JORF 4 janvier 1968 en vigueur le 1er novembre 1968
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 14 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 15 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 16 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 17 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 21 (V)
-	  - SPEC_APPLI: Loi n°68-696 1968-07-31 art. 14
-
-	**Abrogé par**:
+	**Modifié par**:
 
 	  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
-
-	**Cité par**:
-
-	  - CODE DE PROCEDURE PENALE - art. D47-24 (VT)
-	  - Code de procédure civile - art. 1244 (VD)
 
 	**Codifié par**:
 
 	  - Loi n°1803-03-14
-
-
-###### Article 493-2
-
-Les jugements portant ouverture, modification ou mainlevée de la tutelle ne sont opposables aux tiers que deux mois après que
-mention en aura été portée en marge de l'acte de naissance de la personne protégée, selon les modalités prévues par le code
-de procédure civile.
-
-Toutefois, en l'absence même de cette mention, ils n'en seront pas moins opposables aux tiers qui en auraient eu
-personnellement connaissance.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°68-5 du 3 janvier 1968 - art. 1 () JORF 4 janvier 1968 en vigueur le 1er novembre 1968
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 14 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 15 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 16 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 17 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 21 (V)
-	  - SPEC_APPLI: Loi n°68-696 1968-07-31 art. 14
-
-	**Abrogé par**:
-
-	  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
-
-	**Cité par**:
-
-	  - Code civil - art. 502 (VT)
 
 
 ###### Article 494
 
-La tutelle peut être ouverte pour un mineur émancipé comme pour un majeur.
+Pour l'application du dernier alinéa de l'article 486, le mandataire conserve l'inventaire des biens et ses actualisations,
+les cinq derniers comptes de gestion, les pièces justificatives ainsi que celles nécessaires à la continuation de celle-ci. 
 
-La demande peut même être introduite et jugée, pour un mineur non émancipé, dans la dernière année de sa minorité ; mais la
-tutelle ne prendra effet que du jour où il sera devenu majeur.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+Il est tenu de les présenter au juge des tutelles ou au procureur de la République dans les conditions prévues à l'article
+416.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+
+	**Cite**:
+
+	  - Code civil - art. 416 (V)
+	  - Code civil - art. 486 (V)
 
 	**Codifié par**:
 
 	  - Loi n°1803-03-14
 
-	**Créé par**:
 
-	  - Loi n°68-5 du 3 janvier 1968 - art. 1 () JORF 4 janvier 1968 en vigueur le 1er novembre 1968
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 14 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 15 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 16 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 17 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 21 (V)
-	  - SPEC_APPLI: Loi n°68-696 1968-07-31 art. 14
-
+### Chapitre III : De la mesure d'accompagnement judiciaire
 
 ###### Article 495
 
-Sont aussi applicables dans la tutelle des majeurs les règles prescrites par les sections 2, 3 et 4 du chapitre II, au titre
-dixième du présent livre, pour la tutelle des mineurs, à l'exception toutefois de celles qui concernent l'éducation de
-l'enfant et, en outre, sous les modifications qui suivent.
+Lorsque les mesures mises en oeuvre en application des articles L. 271-1 à L. 271-5 du code de l'action sociale et des
+familles au profit d'une personne majeure n'ont pas permis une gestion satisfaisante par celle-ci de ses prestations sociales
+et que sa santé ou sa sécurité en est compromise, le juge des tutelles peut ordonner une mesure d'accompagnement judiciaire
+destinée à rétablir l'autonomie de l'intéressé dans la gestion de ses ressources. 
 
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+Il n'y a pas lieu de prononcer cette mesure à l'égard d'une personne mariée lorsque l'application des règles relatives aux
+droits et devoirs respectifs des époux et aux régimes matrimoniaux permet une gestion satisfaisante des prestations sociales
+de l'intéressé par son conjoint.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°68-5 du 3 janvier 1968 - art. 1 () JORF 4 janvier 1968 en vigueur le 1er novembre 1968
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 14 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 15 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 16 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 17 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 21 (V)
-	  - SPEC_APPLI: Loi n°68-696 1968-07-31 art. 14
+	  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
 
 	**Cité par**:
 
 	  - Loi n°2007-308 du 5 mars 2007 - art. 45 (V)
 
+	**Cite**:
 
-###### Article 496
+	  - Code de l'action sociale et des familles - art. L271-1 (VT)
 
-L'époux est tuteur de son conjoint, à moins que la communauté de vie n'ait cessé entre eux ou que le juge n'estime qu'une
-autre cause interdit de lui confier la tutelle. Tous autres tuteurs sont datifs.
+	**Codifié par**:
 
-La tutelle d'un majeur peut être déférée à une personne morale.
+	  - Loi n°1803-03-14
 
-**Nota:**
 
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+###### Article 495-1
+
+La mesure d'accompagnement judiciaire ne peut être prononcée si la personne bénéficie d'une mesure de protection juridique
+prévue au chapitre II du présent titre.
+
+Le prononcé d'une mesure de protection juridique met fin de plein droit à la mesure d'accompagnement judiciaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+
+
+###### Article 495-2
+
+La mesure d'accompagnement judiciaire ne peut être prononcée qu'à la demande du procureur de la République qui en apprécie
+l'opportunité au vu du rapport des services sociaux prévu à l'article L. 271-6 du code de l'action sociale et des familles. 
+
+Le juge statue, la personne entendue ou appelée.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L271-6 (VD)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+
+
+###### Article 495-3
+
+Sous réserve des dispositions de l'article 495-7, la mesure d'accompagnement judiciaire n'entraîne aucune incapacité.
 
 **Liens relatifs à cet article**
 
 	**Créé par**:
 
-	  - Loi n°68-5 du 3 janvier 1968 - art. 1 () JORF 4 janvier 1968 en vigueur le 1er novembre 1968
+	  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
 
-	**Liens**:
+	**Cite**:
 
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 14 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 15 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 16 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 17 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 21 (V)
-	  - SPEC_APPLI: Loi n°68-696 1968-07-31 art. 14
+	  - Code civil - art. 495-7 (VD)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 495-4
+
+La mesure d'accompagnement judiciaire porte sur la gestion des prestations sociales choisies par le juge, lors du prononcé de
+celle-ci, dans une liste fixée par décret.
+
+Le juge statue sur les difficultés qui pourraient survenir dans la mise en oeuvre de la mesure. A tout moment, il peut,
+d'office ou à la demande de la personne protégée, du mandataire judiciaire à la protection des majeurs ou du procureur de la
+République, en modifier l'étendue ou y mettre fin, après avoir entendu ou appelé la personne.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+
+	**Cité par**:
+
+	  - Décret n°2008-1498 du 22 décembre 2008 (V)
+	  - Décret n°2008-1506 du 30 décembre 2008 (V)
+	  - Code de l'action sociale et des familles - art. D272-1 (V)
+	  - Code de l'action sociale et des familles - art. R272-2 (V)
+	  - Code de procédure civile - art. 1262-6 (VD)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 495-5
+
+Les prestations familiales pour lesquelles le juge des enfants a ordonné la mesure prévue à l'article 375-9-1 sont exclues de
+plein droit de la mesure d'accompagnement judiciaire. 
+
+Les personnes chargées respectivement de l'exécution d'une mesure prévue à l'article 375-9-1 et d'une mesure d'accompagnement
+judiciaire pour un même foyer s'informent mutuellement des décisions qu'elles prennent.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+
+	**Cite**:
+
+	  - Code civil - art. 375-9-1 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 495-6
+
+Seul un mandataire judiciaire à la protection des majeurs inscrit sur la liste prévue à l'article L. 471-2 du code de
+l'action sociale et des familles peut être désigné par le juge pour exercer la mesure d'accompagnement judiciaire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L471-2 (VD)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 495-7
+
+Le mandataire judiciaire à la protection des majeurs perçoit les prestations incluses dans la mesure d'accompagnement
+judiciaire sur un compte ouvert au nom de la personne auprès d'un établissement habilité à recevoir des fonds du public, dans
+les conditions prévues au premier alinéa de l'article 472, sous réserve des dispositions applicables aux mesures de
+protection confiées aux personnes ou services préposés des établissements de santé et des établissements sociaux ou médico-
+sociaux soumis aux règles de la comptabilité publique. 
+
+Il gère ces prestations dans l'intérêt de la personne en tenant compte de son avis et de sa situation familiale. 
+
+Il exerce auprès de celle-ci une action éducative tendant à rétablir les conditions d'une gestion autonome des prestations
+sociales.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+
+	**Cite**:
+
+	  - Code civil - art. 472 (VD)
+
+	**Cité par**:
+
+	  - Code civil - art. 495-3 (VD)
+	  - Code civil - art. 495-9 (VD)
+	  - Code de l'action sociale et des familles - art. R472-8 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 495-8
+
+Le juge fixe la durée de la mesure qui ne peut excéder deux ans. Il peut, à la demande de la personne protégée, du mandataire
+ou du procureur de la République, la renouveler par décision spécialement motivée sans que la durée totale puisse excéder
+quatre ans.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+
+
+###### Article 495-9
+
+Les dispositions du titre XII relatives à l'établissement, la vérification et l'approbation des comptes et à la prescription
+qui ne sont pas incompatibles avec celles du présent chapitre sont applicables à la gestion des prestations sociales prévues
+à l'article 495-7.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code civil - art. 495-7 (VD)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Créé par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+
+
+## Titre XII : De la gestion du patrimoine des mineurs et majeurs en tutelle
+
+### Chapitre Ier : Des modalités de la gestion
+
+###### Article 496
+
+Le tuteur représente la personne protégée dans les actes nécessaires à la gestion de son patrimoine.
+
+Il est tenu d'apporter, dans celle-ci, des soins prudents, diligents et avisés, dans le seul intérêt de la personne protégée.
+
+La liste des actes qui sont regardés, pour l'application du présent titre, comme des actes d'administration relatifs à la
+gestion courante du patrimoine et comme des actes de disposition qui engagent celui-ci de manière durable et substantielle
+est fixée par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 8 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
 
 	**Cité par**:
 
@@ -22070,183 +22264,65 @@ La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 	  - Loi n°1803-03-14
 
 
-###### Article 496-1
-
-Nul, à l'exception de l'époux, des descendants et des personnes morales, ne sera tenu de conserver la tutelle d'un majeur au-
-delà de cinq ans. A l'expiration de ce délai, le tuteur pourra demander et devra obtenir son remplacement.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°68-5 du 3 janvier 1968 - art. 1 () JORF 4 janvier 1968 en vigueur le 1er novembre 1968
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 14 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 15 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 16 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 17 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 20 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 21 (V)
-	  - SPEC_APPLI: Loi n°68-696 1968-07-31 art. 14
-
-	**Cité par**:
-
-	  - Loi n°68-5 du 3 janvier 1968 - art. 20 (V)
-
-	**Abrogé par**:
-
-	  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
-
-
-###### Article 496-2
-
-Le médecin traitant ne peut être tuteur ni subrogé tuteur du malade. Mais il est toujours loisible au juge des tutelles de
-l'appeler à participer au conseil de famille à titre consultatif. 
-
-La tutelle ne peut être déférée à l'établissement de traitement, ni à aucune personne y occupant un emploi rémunéré à moins
-qu'elle ne soit de celles qui avaient qualité pour demander l'ouverture de la tutelle. Un préposé de l'établissement peut,
-toutefois, être désigné comme gérant de la tutelle dans le cas prévu à l'article 499.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°68-5 du 3 janvier 1968 - art. 1 () JORF 4 janvier 1968 en vigueur le 1er novembre 1968
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 14 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 15 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 16 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 17 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 21 (V)
-	  - SPEC_APPLI: Loi n°68-696 1968-07-31 art. 14
-
-	**Abrogé par**:
-
-	  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
-
-	**Cite**:
-
-	  - Code civil - art. 499 (VD)
-
-
 ###### Article 497
 
-S'il y a un parent ou allié, apte à gérer les biens, le juge des tutelles peut décider qu'il les gérera en qualité
-d'administrateur légal, sans subrogé tuteur ni conseil de famille, suivant les règles applicables, pour les biens des
-mineurs, à l'administration légale sous contrôle judiciaire.
+Lorsqu'un subrogé tuteur a été nommé, celui-ci atteste auprès du juge du bon déroulement des opérations que le tuteur a
+l'obligation d'accomplir.
 
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+Il en est notamment ainsi de l'emploi ou du remploi des capitaux opéré conformément aux prescriptions du conseil de famille
+ou, à défaut, du juge.
 
 **Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code civil - art. 506 (VT)
+	  - Loi n°68-5 du 3 janvier 1968 - art. 19 (V)
 
 	**Codifié par**:
 
 	  - Loi n°1803-03-14
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 14 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 15 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 16 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 17 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 19 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 21 (V)
-	  - SPEC_APPLI: Loi n°68-696 1968-07-31 art. 14
-
-	**Cité par**:
-
-	  - Loi n°68-5 du 3 janvier 1968 - art. 19 (V)
-	  - Code civil - art. 506 (VT)
 
 	**Modifié par**:
 
-	  - Loi n°96-452 du 28 mai 1996 - art. 60 () JORF 29 mai 1996
+	  - Loi n°2007-308 du 5 mars 2007 - art. 8 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
 
 
 ###### Article 498
 
-Il n'y a pas lieu d'ouvrir une tutelle qui devrait être dévolue au conjoint, si, par l'application du régime matrimonial, et
-notamment par les règles des articles 217 et 219, 1426 et 1429, il peut être suffisamment pourvu aux intérêts de la personne
-protégée.
+Les capitaux revenant à la personne protégée sont versés directement sur un compte ouvert à son seul nom et mentionnant la
+mesure de tutelle, auprès d'un établissement habilité à recevoir des fonds du public.
 
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+Lorsque la mesure de tutelle est confiée aux personnes ou services préposés des établissements de santé et des établissements
+sociaux ou médico-sociaux soumis aux règles de la comptabilité publique, cette obligation de versement est réalisée dans des
+conditions fixées par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°68-5 du 3 janvier 1968 - art. 1 () JORF 4 janvier 1968 en vigueur le 1er novembre 1968
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 14 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 15 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 16 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 17 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 21 (V)
-	  - SPEC_APPLI: Loi n°68-696 1968-07-31 art. 14
-
-	**Cite**:
-
-	  - Code civil - art. 1426 (V)
-	  - Code civil - art. 1429 (V)
-	  - Code civil - art. 217 (V)
-	  - Code civil - art. 219 (V)
 
 	**Codifié par**:
 
 	  - Loi n°1803-03-14
 
+	**Modifié par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 8 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+
 
 ###### Article 499
 
-Si, eu égard à la consistance des biens à gérer, le juge des tutelles constate l'inutilité de la constitution complète d'une
-tutelle, il peut se borner à désigner comme gérant de la tutelle, sans subrogé tuteur ni conseil de famille, soit un préposé
-appartenant au personnel administratif de l'établissement de traitement, soit un administrateur spécial, choisis dans les
-conditions fixées par un décret en Conseil d'Etat.
+Les tiers peuvent informer le juge des actes ou omissions du tuteur qui leur paraissent de nature à porter préjudice aux
+intérêts de la personne protégée.
 
-**Nota:**
+Ils ne sont pas garants de l'emploi des capitaux. Toutefois, si à l'occasion de cet emploi ils ont connaissance d'actes ou
+omissions qui compromettent manifestement l'intérêt de la personne protégée, ils en avisent le juge.
 
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+La tierce opposition contre les autorisations du conseil de famille ou du juge ne peut être exercée que par les créanciers de
+la personne protégée et en cas de fraude à leurs droits.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Loi n°68-5 du 3 janvier 1968 - art. 1 () JORF 4 janvier 1968 en vigueur le 1er novembre 1968
-
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 14 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 15 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 16 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 17 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 21 (V)
-	  - SPEC_APPLI: Loi n°68-696 1968-07-31 art. 14
 	  - TXT_SOURCE: Décret n°69-195 du 15 février 1969
 	  - TXT_SOURCE: Décret n°69-195 du 15 février 1969 - art. 1 (V)
 	  - TXT_SOURCE: Décret n°69-195 du 15 février 1969 - art. 2 (V)
@@ -22272,21 +22348,26 @@ La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 
 	  - Loi n°1803-03-14
 
+	**Modifié par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 8 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+
+
+#### Section 1 : Des décisions du conseil de famille ou du juge
 
 ###### Article 500
 
-Le gérant de la tutelle perçoit les revenus de la personne protégée et les applique à l'entretien et au traitement de celle-
-ci, ainsi qu'à l'acquittement des obligations alimentaires dont elle pourrait être tenue. S'il y a un excédent, il le verse à
-un compte qu'il doit faire ouvrir chez un dépositaire agréé. Chaque année, il rend compte de sa gestion directement au
-greffier en chef du tribunal d'instance, sans préjudice de la faculté pour le juge de demander à tout moment au greffier en
-chef que le compte de gestion lui soit communiqué et que la reddition de celui-ci lui soit directement adressée.
+Sur proposition du tuteur, le conseil de famille ou, à défaut, le juge arrête le budget de la tutelle en déterminant, en
+fonction de l'importance des biens de la personne protégée et des opérations qu'implique leur gestion, les sommes
+annuellement nécessaires à l'entretien de celle-ci et au remboursement des frais d'administration de ses biens.
 
-Si d'autres actes deviennent nécessaires, il saisit le juge, qui pourra, soit l'autoriser à les faire, soit décider de
-constituer la tutelle complètement.
+Le conseil de famille ou, à défaut, le juge peut autoriser le tuteur à inclure dans les frais de gestion la rémunération des
+administrateurs particuliers dont il demande le concours sous sa propre responsabilité.
 
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+Le conseil de famille ou, à défaut, le juge peut autoriser le tuteur à conclure un contrat pour la gestion des valeurs
+mobilières et instruments financiers de la personne protégée. Il choisit le tiers contractant en considération de son
+expérience professionnelle et de sa solvabilité. Le contrat peut, à tout moment et nonobstant toute stipulation contraire,
+être résilié au nom de la personne protégée.
 
 **Liens relatifs à cet article**
 
@@ -22307,7 +22388,6 @@ La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 	  - TXT_SOURCE: Arrêté du 4 mars 1970 - art. 2 (V)
 	  - TXT_SOURCE: Arrêté du 4 mars 1970 - art. 3 (V)
 	  - TXT_SOURCE: Arrêté du 4 mars 1970 - art. 4 (V)
-	  - SPEC_APPLI: Loi n°95-125 1995-02-08 art. 19 *date d'effet*
 
 	**Codifié par**:
 
@@ -22315,38 +22395,25 @@ La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 
 	**Modifié par**:
 
-	  - Loi n°95-125 du 8 février 1995 - art. 14 () JORF 9 février 1995 en vigueur le 9 mai 1995
+	  - Loi n°2007-308 du 5 mars 2007 - art. 8 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
 
 
 ###### Article 501
 
-En ouvrant la tutelle ou dans un jugement postérieur, le juge, sur l'avis du médecin traitant, peut énumérer certains actes
-que la personne en tutelle aura la capacité de faire elle-même, soit seule, soit avec l'assistance du tuteur ou de la
-personne qui en tient lieu.
+Le conseil de famille ou, à défaut, le juge détermine la somme à partir de laquelle commence, pour le tuteur, l'obligation
+d'employer les capitaux liquides et l'excédent des revenus.
 
-**Nota:**
+Le conseil de famille ou, à défaut, le juge prescrit toutes les mesures qu'il juge utiles quant à l'emploi ou au remploi des
+fonds soit par avance, soit à l'occasion de chaque opération. L'emploi ou le remploi est réalisé par le tuteur dans le délai
+fixé par la décision qui l'ordonne et de la manière qu'elle prescrit. Passé ce délai, le tuteur peut être déclaré débiteur
+des intérêts.
 
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+Le conseil de famille ou, à défaut, le juge peut ordonner que certains fonds soient déposés sur un compte indisponible.
+
+Les comptes de gestion du patrimoine de la personne protégée sont exclusivement ouverts, si le conseil de famille ou, à
+défaut, le juge l'estime nécessaire compte tenu de la situation de celle-ci, auprès de la Caisse des dépôts et consignations.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°68-5 du 3 janvier 1968 - art. 1 () JORF 4 janvier 1968 en vigueur le 1er novembre 1968
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 14 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 15 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 16 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 17 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 21 (V)
-	  - SPEC_APPLI: Loi n°68-696 1968-07-31 art. 14
-	  - TXT_SOURCE: Arrêté du 4 mars 1970
-	  - TXT_SOURCE: Arrêté du 4 mars 1970 - art. 1 (V)
-	  - TXT_SOURCE: Arrêté du 4 mars 1970 - art. 2 (V)
-	  - TXT_SOURCE: Arrêté du 4 mars 1970 - art. 3 (V)
-	  - TXT_SOURCE: Arrêté du 4 mars 1970 - art. 4 (V)
 
 	**Cité par**:
 
@@ -22356,19 +22423,30 @@ La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 	  - Décret n°2008-1484 du 22 décembre 2008 - art. Annexe 1 (V)
 	  - Code de l'action sociale et des familles - art. L443-7 (V)
 
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 4 mars 1970
+	  - TXT_SOURCE: Arrêté du 4 mars 1970 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 4 mars 1970 - art. 2 (V)
+	  - TXT_SOURCE: Arrêté du 4 mars 1970 - art. 3 (V)
+	  - TXT_SOURCE: Arrêté du 4 mars 1970 - art. 4 (V)
+
 	**Codifié par**:
 
 	  - Loi n°1803-03-14
 
+	**Modifié par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 8 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+
 
 ###### Article 502
 
-Tous les actes passés, postérieurement au jugement d'ouverture de la tutelle, par la personne protégée, seront nuls de droit,
-sous réserve des dispositions de l'article 493-2.
+Le conseil de famille ou, à défaut, le juge statue sur les autorisations que le tuteur sollicite pour les actes qu'il ne peut
+accomplir seul.
 
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+Toutefois, les autorisations du conseil de famille peuvent être suppléées par celles du juge si les actes portent sur des
+biens dont la valeur en capital n'excède pas une somme fixée par décret.
 
 **Liens relatifs à cet article**
 
@@ -22382,51 +22460,31 @@ La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 
 	  - Loi n°1803-03-14
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°68-5 du 3 janvier 1968 - art. 1 () JORF 4 janvier 1968 en vigueur le 1er novembre 1968
+	  - Loi n°2007-308 du 5 mars 2007 - art. 8 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
 
-	**Liens**:
 
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 14 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 15 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 16 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 17 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 21 (V)
-	  - SPEC_APPLI: Loi n°68-696 1968-07-31 art. 14
+#### Section 2 : Des actes du tuteur
 
-	**Cite**:
-
-	  - Code civil - art. 493-2 (VT)
-
+##### Paragraphe 1 : Des actes que le tuteur accomplit sans autorisation
 
 ###### Article 503
 
-Les actes antérieurs pourront être annulés si la cause qui a déterminé l'ouverture de la tutelle existait notoirement à
-l'époque où ils ont été faits.
+Dans les trois mois de l'ouverture de la tutelle, le tuteur fait procéder, en présence du subrogé tuteur s'il a été désigné,
+à un inventaire des biens de la personne protégée et le transmet au juge. Il en assure l'actualisation au cours de la mesure.
 
-**Nota:**
+Il peut obtenir communication de tous renseignements et documents nécessaires à l'établissement de l'inventaire auprès de
+toute personne publique ou privée, sans que puisse lui être opposé le secret professionnel ou le secret bancaire.
 
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+Si l'inventaire n'a pas été établi ou se révèle incomplet ou inexact, la personne protégée et, après son décès, ses héritiers
+peuvent faire la preuve de la valeur et de la consistance de ses biens par tous moyens.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°68-5 du 3 janvier 1968 - art. 1 () JORF 4 janvier 1968 en vigueur le 1er novembre 1968
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 14 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 15 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 16 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 17 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 21 (V)
-	  - SPEC_APPLI: Loi n°68-696 1968-07-31 art. 14
+	  - Loi n°2007-308 du 5 mars 2007 - art. 8 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
 
 	**Cité par**:
 
@@ -22435,179 +22493,113 @@ La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 	  - Code de l'action sociale et des familles - art. Annexe 4-6 (V)
 	  - Code de procédure civile - art. 1253 (V)
 
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
 
 ###### Article 504
 
-Le testament fait par le majeur après l'ouverture de la tutelle est nul de droit, à moins que le conseil de famille n'ait
-autorisé préalablement le majeur à tester avec l'assistance du tuteur. Toutefois, le majeur en tutelle peut seul révoquer le
-testament fait avant comme après l'ouverture de la tutelle.
+Le tuteur accomplit seul les actes conservatoires et, sous réserve des dispositions du second alinéa de l'article 473, les
+actes d'administration nécessaires à la gestion du patrimoine de la personne protégée. 
 
-Le tuteur ne peut représenter le majeur pour faire son testament, même avec l'autorisation du conseil de famille ou du juge.
+Il agit seul en justice pour faire valoir les droits patrimoniaux de la personne protégée. 
 
-Le testament fait antérieurement reste valable, à moins qu'il ne soit établi que, depuis l'ouverture de la tutelle, la cause
-qui avait déterminé le testateur à disposer a disparu.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+Les baux consentis par le tuteur ne confèrent au preneur, à l'encontre de la personne protégée devenue capable, aucun droit
+de renouvellement et aucun droit à se maintenir dans les lieux à l'expiration du bail, quand bien même il existerait des
+dispositions légales contraires. Ces dispositions ne sont toutefois pas applicables aux baux consentis avant l'ouverture de
+la tutelle et renouvelés par le tuteur.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2006-728 du 23 juin 2006 - art. 29 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+	  - Loi n°2007-308 du 5 mars 2007 - art. 8 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
 
 	**Cité par**:
 
 	  - Décret n°2008-1484 du 22 décembre 2008 - art. Annexe 1 (V)
 
+	**Cite**:
+
+	  - Code civil - art. 473 (V)
+
 	**Codifié par**:
 
 	  - Loi n°1803-03-14
 
+
+##### Paragraphe 2 : Des actes que le tuteur accomplit avec une autorisation
 
 ###### Article 505
 
-Avec l'autorisation du conseil de famille, des donations peuvent être faites au nom du majeur en tutelle en faveur :
+Le tuteur ne peut, sans y être autorisé par le conseil de famille ou, à défaut, le juge, faire des actes de disposition au
+nom de la personne protégée.
 
-- de ses descendants, en avancement de part successorale ;
+L'autorisation détermine les stipulations et, le cas échéant, le prix ou la mise à prix pour lequel l'acte est passé.
+L'autorisation n'est pas exigée en cas de vente forcée sur décision judiciaire ou en cas de vente amiable sur autorisation du
+juge.
 
-- de ses frères ou soeurs ou de leurs descendants ;
+L'autorisation de vendre ou d'apporter en société un immeuble, un fonds de commerce ou des instruments financiers non admis à
+la négociation sur un marché réglementé ne peut être donnée qu'après la réalisation d'une mesure d'instruction exécutée par
+un technicien ou le recueil de l'avis d'au moins deux professionnels qualifiés.
 
-- de son conjoint.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+En cas d'urgence, le juge peut, par décision spécialement motivée prise à la requête du tuteur, autoriser, en lieu et place
+du conseil de famille, la vente d'instruments financiers à charge qu'il en soit rendu compte sans délai au conseil qui décide
+du remploi.
 
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°2006-728 du 23 juin 2006 - art. 29 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
-
-	**Cité par**:
-
-	  - Décret n°2008-1484 du 22 décembre 2008 - art. Annexe 1 (V)
 
 	**Codifié par**:
 
 	  - Loi n°1803-03-14
+
+	**Modifié par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 8 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+
+	**Cité par**:
+
+	  - Décret n°2008-1484 du 22 décembre 2008 - art. Annexe 1 (V)
 
 
 ###### Article 506
 
-Même dans le cas des articles 497 et 499, le mariage d'un majeur en tutelle n'est permis qu'avec le consentement d'un conseil
-de famille spécialement convoqué pour en délibérer. Le conseil ne peut statuer qu'après audition des futurs conjoints. 
-
-Il n'y a pas lieu à la réunion d'un conseil de famille si les père et mère donnent l'un et l'autre leur consentement au
-mariage. 
-
-Dans tous les cas, l'avis du médecin traitant doit être requis.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+Le tuteur ne peut transiger ou compromettre au nom de la personne protégée qu'après avoir fait approuver par le conseil de
+famille ou, à défaut, par le juge les clauses de la transaction ou du compromis et, le cas échéant, la clause compromissoire.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°68-5 du 3 janvier 1968 - art. 1 () JORF 4 janvier 1968 en vigueur le 1er novembre 1968
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 14 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 15 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 16 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 17 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 21 (V)
-	  - SPEC_APPLI: Loi n°68-696 1968-07-31 art. 14
 
 	**Cité par**:
 
 	  - Loi n°68-5 du 3 janvier 1968 - art. 5 (V)
 	  - Décret n°2008-1484 du 22 décembre 2008 - art. Annexe 1 (V)
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code civil - art. 497 (VD)
-	  - Code civil - art. 499 (VD)
-
-
-###### Article 506-1
-
-Les majeurs placés sous tutelle ne peuvent conclure un pacte civil de solidarité. 
-
-Lorsque au cours d'un pacte civil de solidarité l'un des partenaires est placé sous tutelle, le tuteur autorisé par le
-conseil de famille ou, à défaut, le juge des tutelles peut mettre fin au pacte selon les modalités prévues au premier ou au
-deuxième alinéa de l'article 515-7. 
-
-Lorsque l'initiative de rompre le pacte est prise par l'autre partenaire, la signification mentionnée aux deuxième et
-troisième alinéas du même article est adressée au tuteur.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°99-944 du 15 novembre 1999 - art. 2 () JORF 16 novembre 1999
-
-	**Cité par**:
-
-	  - Décret n°2006-1806 du 23 décembre 2006 - art. 1 (V)
-
-	**Abrogé par**:
-
-	  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
-
-	**Cite**:
-
-	  - Code civil - art. 515-7 (VD)
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
+	  - Loi n°2007-308 du 5 mars 2007 - art. 8 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
 
 
 ###### Article 507
 
-La tutelle cesse avec les causes qui l'ont déterminée ; néanmoins, la mainlevée n'en sera prononcée qu'en observant les
-formalités prescrites pour parvenir à son ouverture, et la personne en tutelle ne pourra reprendre l'exercice de ses droits
-qu'après le jugement de mainlevée. 
+Le partage à l'égard d'une personne protégée peut être fait à l'amiable sur autorisation du conseil de famille ou, à défaut,
+du juge, qui désigne, s'il y a lieu, un notaire pour y procéder. Il peut n'être que partiel.
 
-Les recours prévus par l'article 493, alinéa 3, ne peuvent être exercés que contre les jugements qui refusent de donner
-mainlevée de la tutelle.
+L'état liquidatif est soumis à l'approbation du conseil de famille ou, à défaut, du juge.
 
-**Nota:**
+Le partage peut également être fait en justice conformément aux articles 840 et 842.
 
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+Tout autre partage est considéré comme provisionnel.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°68-5 du 3 janvier 1968 - art. 1 () JORF 4 janvier 1968 en vigueur le 1er novembre 1968
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 14 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 15 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 16 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 17 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 21 (V)
-	  - SPEC_APPLI: Loi n°68-696 1968-07-31 art. 14
+	  - Loi n°2007-308 du 5 mars 2007 - art. 8 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
 
 	**Cité par**:
 
@@ -22616,19 +22608,75 @@ La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 
 	**Cite**:
 
-	  - Code civil - art. 493 (VD)
+	  - Code civil - art. 840 (M)
+	  - Code civil - art. 842 (M)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
 
 
-### Chapitre IV : Des majeurs en curatelle.
+###### Article 507-1
+
+Par dérogation à l'article 768, le tuteur ne peut accepter une succession échue à la personne protégée qu'à concurrence de
+l'actif net. Toutefois, le conseil de famille ou, à défaut, le juge peut, par une délibération ou une décision spéciale,
+l'autoriser à accepter purement et simplement si l'actif dépasse manifestement le passif. 
+
+Le tuteur ne peut renoncer à une succession échue à la personne protégée sans une autorisation du conseil de famille ou, à
+défaut, du juge.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 8 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+
+	**Cité par**:
+
+	  - Décret n°2008-1484 du 22 décembre 2008 - art. Annexe 1 (V)
+
+	**Cite**:
+
+	  - Code civil - art. 768 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 507-2
+
+Dans le cas où la succession à laquelle il a été renoncé au nom de la personne protégée n'a pas été acceptée par un autre
+héritier et tant que l'Etat n'a pas été envoyé en possession, la renonciation peut être révoquée soit par le tuteur autorisé
+à cet effet par une nouvelle délibération du conseil de famille ou, à défaut, une nouvelle décision du juge, soit par la
+personne protégée devenue capable. Le second alinéa de l'article 807 est applicable.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 8 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+
+	**Cité par**:
+
+	  - Décret n°2008-1484 du 22 décembre 2008 - art. Annexe 1 (V)
+
+	**Cite**:
+
+	  - Code civil - art. 807 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
 
 ###### Article 508
 
-Lorsqu'un majeur, pour l'une des causes prévues à l'article 490, sans être hors d'état d'agir lui-même, a besoin d'être
-conseillé ou contrôlé dans les actes de la vie civile, il peut être placé sous un régime de curatelle.
+A titre exceptionnel et dans l'intérêt de la personne protégée, le tuteur qui n'est pas mandataire judiciaire à la protection
+des majeurs peut, sur autorisation du conseil de famille ou, à défaut, du juge, acheter les biens de celle-ci ou les prendre
+à bail ou à ferme.
 
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+Pour la conclusion de l'acte, le tuteur est réputé être en opposition d'intérêts avec la personne protégée.
 
 **Liens relatifs à cet article**
 
@@ -22647,447 +22695,14 @@ La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 	  - Code de la santé publique - art. L352-1 (Ab)
 	  - Loi n°2004-1 du 2 janvier 2004 - art. 17 (V)
 
-	**Créé par**:
-
-	  - Loi n°68-5 du 3 janvier 1968 - art. 1 () JORF 4 janvier 1968 en vigueur le 1er novembre 1968
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 14 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 15 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 16 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 17 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 21 (V)
-	  - SPEC_APPLI: Loi n°68-696 1968-07-31 art. 14
-
-	**Cite**:
-
-	  - Code civil - art. 490 (VD)
-
 	**Codifié par**:
 
 	  - Loi n°1803-03-14
-
-
-###### Article 508-1
-
-Peut pareillement être placé sous le régime de la curatelle le majeur visé à l'alinéa 3 de l'article 488.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°68-5 du 3 janvier 1968 - art. 1 () JORF 4 janvier 1968 en vigueur le 1er novembre 1968
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 14 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 15 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 16 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 17 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 21 (V)
-	  - SPEC_APPLI: Loi n°68-696 1968-07-31 art. 14
-
-	**Cité par**:
-
-	  - Décret n°84-406 du 30 mai 1984 - art. 12 (Ab)
-	  - Décret n°84-406 du 30 mai 1984 - art. 12-1 (Ab)
-	  - Décret n°84-406 du 30 mai 1984 - art. 23 (Ab)
-	  - Code de commerce. - art. R123-46 (M)
-	  - Code de commerce. - art. R123-69 (AbD)
-
-	**Abrogé par**:
-
-	  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
-
-	**Cite**:
-
-	  - Code civil - art. 488 (VD)
-
-
-###### Article 509-1
-
-Il n'y a dans la curatelle d'autre organe que le curateur.
-
-L'époux est curateur de son conjoint à moins que la communauté de vie n'ait cessé entre eux ou que le juge n'estime qu'une
-autre cause interdit de lui confier la curatelle. Tous autres curateurs sont nommés par le juge des tutelles.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°68-5 du 3 janvier 1968 - art. 1 () JORF 4 janvier 1968 en vigueur le 1er novembre 1968
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 14 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 15 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 16 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 17 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 21 (V)
-	  - SPEC_APPLI: Loi n°68-696 1968-07-31 art. 14
-
-	**Cité par**:
-
-	  - Décret n°2000-35 du 17 janvier 2000 - art. 1 (M)
-
-	**Abrogé par**:
-
-	  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
-
-
-###### Article 509-2
-
-Sont applicables à la charge de curateur les dispositions relatives aux charges tutélaires, sous les modifications qu'elles
-comportent dans la tutelle des majeurs.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°68-5 du 3 janvier 1968 - art. 1 () JORF 4 janvier 1968 en vigueur le 1er novembre 1968
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 14 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 15 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 16 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 17 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 21 (V)
-	  - SPEC_APPLI: Loi n°68-696 1968-07-31 art. 14
-
-	**Abrogé par**:
-
-	  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
-
-
-###### Article 510
-
-Le majeur en curatelle ne peut, sans l'assistance de son curateur, faire aucun acte qui, sous le régime de la tutelle des
-majeurs, requerrait une autorisation du conseil de famille. Il ne peut non plus, sans cette assistance, recevoir des capitaux
-ni en faire emploi.
-
-Si le curateur refuse son assistance à un acte, la personne en curatelle peut demander au juge des tutelles une autorisation
-supplétive.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°68-5 du 3 janvier 1968 - art. 1 () JORF 4 janvier 1968 en vigueur le 1er novembre 1968
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 14 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 15 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 16 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 17 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 21 (V)
-	  - SPEC_APPLI: Loi n°68-696 1968-07-31 art. 14
-
-	**Cité par**:
-
-	  - Décret n°2012-663 du 4 mai 2012 - art. 6 (V)
-	  - Code civil - art. 437 (V)
-	  - Code civil - art. 472 (V)
-	  - Code civil - art. 511 (V)
-	  - Code civil - art. 512 (V)
-	  - Code de procédure civile - art. 1223-1 (V)
-
-
-###### Article 510-1
-
-Si le majeur en curatelle a fait seul un acte pour lequel l'assistance du curateur était requise, lui-même ou le curateur
-peuvent en demander l'annulation.
-
-L'action en nullité s'éteint par le délai prévu à l'article 1304 ou même, avant l'expiration de ce délai, par l'approbation
-que le curateur a pu donner à l'acte.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°68-5 du 3 janvier 1968 - art. 1 () JORF 4 janvier 1968 en vigueur le 1er novembre 1968
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 14 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 15 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 16 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 17 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 21 (V)
-	  - SPEC_APPLI: Loi n°68-696 1968-07-31 art. 14
-
-	**Abrogé par**:
-
-	  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
-
-	**Cite**:
-
-	  - Code civil - art. 1304 (VD)
-
-
-###### Article 510-2
-
-Toute signification faite au majeur en curatelle doit l'être aussi à son curateur, à peine de nullité.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°68-5 du 3 janvier 1968 - art. 1 () JORF 4 janvier 1968 en vigueur le 1er novembre 1968
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 14 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 15 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 16 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 17 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 21 (V)
-	  - SPEC_APPLI: Loi n°68-696 1968-07-31 art. 14
-
-	**Abrogé par**:
-
-	  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
-
-
-###### Article 510-3
-
-Dans les cas où l'assistance du curateur n'était pas requise par la loi, les actes que le majeur en curatelle a pu faire seul
-restent néanmoins sujets aux actions en rescision ou réduction réglées à l'article 491-2, comme s'ils avaient été faits par
-une personne sous la sauvegarde de justice.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°68-5 du 3 janvier 1968 - art. 1 () JORF 4 janvier 1968 en vigueur le 1er novembre 1968
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 14 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 15 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 16 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 17 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 21 (V)
-	  - SPEC_APPLI: Loi n°68-696 1968-07-31 art. 14
-
-	**Abrogé par**:
-
-	  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
-
-	**Cite**:
-
-	  - Code civil - art. 491-2 (VT)
-
-
-###### Article 511
-
-En ouvrant la curatelle ou dans un jugement postérieur, le juge, sur l'avis du médecin traitant, peut énumérer certains actes
-que la personne en curatelle aura la capacité de faire seule par dérogation à l'article 510 ou, à l'inverse, ajouter d'autres
-actes à ceux pour lesquels cet article exige l'assistance du curateur.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Arrêté du 23 décembre 2009 - art. Annexe (V)
-	  - Décret n°2011-1470 du 8 novembre 2011 (V)
-	  - Code civil - art. 486 (V)
-	  - Code civil - art. 514 (V)
-	  - Code de procédure civile - art. 1254-1 (V)
-	  - Ordonnance n°2012-1222 du 2 novembre 2012 - art. 4 (V)
-
-	**Cite**:
-
-	  - Code civil - art. 510 (VD)
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°68-5 du 3 janvier 1968 - art. 1 () JORF 4 janvier 1968 en vigueur le 1er novembre 1968
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 14 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 15 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 16 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 17 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 21 (V)
-	  - SPEC_APPLI: Loi n°68-696 1968-07-31 art. 14
-
-
-###### Article 512
-
-En nommant le curateur, le juge peut ordonner qu'il percevra seul les revenus de la personne en curatelle, assurera lui-même,
-à l'égard des tiers, le règlement des dépenses et versera l'excédent, s'il y a lieu, à un compte ouvert chez un dépositaire
-agréé.
-
-Le curateur nommé avec cette mission rend compte de sa gestion chaque année au greffier en chef du tribunal d'instance, sans
-préjudice de la faculté pour le juge de demander à tout moment au greffier en chef que le compte de gestion lui soit
-communiqué et que la reddition de celui-ci lui soit directement adressée.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°95-125 1995-02-08 art. 19 *date d'effet*
 
 	**Modifié par**:
 
-	  - Loi n°95-125 du 8 février 1995 - art. 14 () JORF 9 février 1995 en vigueur le 9 mai 1995
+	  - Loi n°2007-308 du 5 mars 2007 - art. 8 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
 
-	**Cité par**:
-
-	  - Code civil - art. 514 (V)
-
-
-###### Article 513
-
-La personne en curatelle peut librement tester, sauf application de l'article 901 s'il y a lieu. 
-
-Elle ne peut faire de donation qu'avec l'assistance de son curateur.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°68-5 du 3 janvier 1968 - art. 1 () JORF 4 janvier 1968 en vigueur le 1er novembre 1968
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 14 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 15 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 16 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 17 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 21 (V)
-	  - SPEC_APPLI: Loi n°68-696 1968-07-31 art. 14
-
-	**Cité par**:
-
-	  - Code civil - art. 514 (V)
-
-	**Cite**:
-
-	  - Code civil - art. 901 (V)
-
-
-###### Article 514
-
-Pour le mariage du majeur en curatelle, le consentement du curateur est requis ; à défaut, celui du juge des tutelles.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°68-5 du 3 janvier 1968 - art. 1 () JORF 4 janvier 1968 en vigueur le 1er novembre 1968
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 14 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 15 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 16 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 17 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 21 (V)
-	  - SPEC_APPLI: Loi n°68-696 1968-07-31 art. 14
-
-	**Cité par**:
-
-	  - Code civil - art. 413-5 (VD)
-
-
-## Titre XII : De la gestion du patrimoine des mineurs et majeurs en tutelle
-
-### Chapitre Ier : Des modalités de la gestion
-
-#### Section 2 : Des actes du tuteur
 
 ##### Paragraphe 3 : Des actes que le tuteur ne peut accomplir
 
@@ -23125,18 +22740,202 @@ La présente version de cet article est en vigueur jusqu'au 1er février 2009.
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L322-2 (Ab)
 
 
-## Titre XII : Du pacte civil de solidarité et du concubinage.
+### Chapitre II : De l'établissement, de la vérification et de l'approbation des comptes
 
-### Chapitre Ier : Du pacte civil de solidarité.
+###### Article 510
+
+Le tuteur établit chaque année un compte de sa gestion auquel sont annexées toutes les pièces justificatives utiles.
+
+A cette fin, il sollicite des établissements auprès desquels un ou plusieurs comptes sont ouverts au nom de la personne
+protégée un relevé annuel de ceux-ci, sans que puisse lui être opposé le secret professionnel ou le secret bancaire.
+
+Le tuteur est tenu d'assurer la confidentialité du compte de gestion. Toutefois, une copie du compte et des pièces
+justificatives est remise chaque année par le tuteur à la personne protégée lorsqu'elle est âgée d'au moins seize ans, ainsi
+qu'au subrogé tuteur s'il a été nommé et, si le tuteur l'estime utile, aux autres personnes chargées de la protection de
+l'intéressé.
+
+En outre, le juge peut, après avoir entendu la personne protégée et recueilli son accord, si elle a atteint l'âge précité et
+si son état le permet, autoriser le conjoint, le partenaire du pacte civil de solidarité qu'elle a conclu, un parent, un
+allié de celle-ci ou un de ses proches, s'ils justifient d'un intérêt légitime, à se faire communiquer à leur charge par le
+tuteur une copie du compte et des pièces justificatives ou une partie de ces documents.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 8 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+
+	**Cité par**:
+
+	  - Décret n°2012-663 du 4 mai 2012 - art. 6 (V)
+	  - Code civil - art. 437 (V)
+	  - Code civil - art. 472 (V)
+	  - Code civil - art. 511 (V)
+	  - Code civil - art. 512 (V)
+	  - Code de procédure civile - art. 1223-1 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 511
+
+Le tuteur soumet chaque année le compte de gestion, accompagné des pièces justificatives, au greffier en chef du tribunal
+d'instance en vue de sa vérification. 
+
+Lorsqu'un subrogé tuteur a été nommé, il vérifie le compte avant de le transmettre avec ses observations au greffier en
+chef. 
+
+Pour la vérification du compte, le greffier en chef peut faire usage du droit de communication prévu au deuxième alinéa de
+l'article 510. Il peut être assisté dans sa mission de contrôle des comptes dans les conditions fixées par le code de
+procédure civile.
+
+S'il refuse d'approuver le compte, le greffier en chef dresse un rapport des difficultés rencontrées qu'il transmet au juge.
+Celui-ci statue sur la conformité du compte. 
+
+Le juge peut décider que la mission de vérification et d'approbation des comptes dévolue au greffier en chef sera exercée par
+le subrogé tuteur s'il en a été nommé un. 
+
+Lorsqu'il est fait application de l'article 457, le juge peut décider que le conseil de famille vérifiera et approuvera les
+comptes en lieu et place du greffier en chef.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 8 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+
+	**Cité par**:
+
+	  - Arrêté du 23 décembre 2009 - art. Annexe (V)
+	  - Décret n°2011-1470 du 8 novembre 2011 (V)
+	  - Ordonnance n°2012-1222 du 2 novembre 2012 - art. 4 (V)
+	  - Code civil - art. 486 (V)
+	  - Code civil - art. 514 (V)
+	  - Code de procédure civile - art. 1254-1 (V)
+
+	**Cite**:
+
+	  - Code civil - art. 457 (V)
+	  - Code civil - art. 510 (AbD)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 512
+
+Lorsque la tutelle n'a pas été confiée à un mandataire judiciaire à la protection des majeurs, le juge peut, par dérogation
+aux articles 510 et 511 et en considération de la modicité des revenus et du patrimoine de la personne protégée, dispenser le
+tuteur d'établir le compte de gestion et de soumettre celui-ci à l'approbation du greffier en chef.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code civil - art. 510 (V)
+
+	**Cité par**:
+
+	  - Code civil - art. 514 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Modifié par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 8 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+
+
+###### Article 513
+
+Si les ressources de la personne protégée le permettent et si l'importance et la composition de son patrimoine le justifient,
+le juge peut décider, en considération de l'intérêt patrimonial en cause, que la mission de vérification et d'approbation du
+compte de gestion sera exercée, aux frais de l'intéressée et selon les modalités qu'il fixe, par un technicien.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Modifié par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 8 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+
+	**Cité par**:
+
+	  - Code civil - art. 514 (V)
+
+
+###### Article 514
+
+Lorsque sa mission prend fin pour quelque cause que ce soit, le tuteur établit un compte de gestion des opérations
+intervenues depuis l'établissement du dernier compte annuel et le soumet à la vérification et à l'approbation prévues aux
+articles 511 et 513. 
+
+En outre, dans les trois mois qui suivent la fin de sa mission, le tuteur ou ses héritiers s'il est décédé remettent une
+copie des cinq derniers comptes de gestion et du compte mentionné au premier alinéa du présent article, selon le cas, à la
+personne devenue capable si elle n'en a pas déjà été destinataire, à la personne nouvellement chargée de la mesure de gestion
+ou aux héritiers de la personne protégée. 
+
+Les alinéas précédents ne sont pas applicables dans le cas prévu à l'article 512. 
+
+Dans tous les cas, le tuteur remet aux personnes mentionnées au deuxième alinéa du présent article les pièces nécessaires
+pour continuer la gestion ou assurer la liquidation de la succession, ainsi que l'inventaire initial et les actualisations
+auxquelles il a donné lieu.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 8 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+
+	**Cité par**:
+
+	  - Code civil - art. 413-5 (VD)
+
+	**Cite**:
+
+	  - Code civil - art. 511 (V)
+	  - Code civil - art. 512 (V)
+	  - Code civil - art. 513 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+### Chapitre III : De la prescription
+
+###### Article 515
+
+L'action en reddition de comptes, en revendication ou en paiement diligentée par la personne protégée ou ayant été protégée
+ou par ses héritiers relativement aux faits de la tutelle se prescrit par cinq ans à compter de la fin de la mesure, alors
+même que la gestion aurait continué au-delà.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 8 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+## Titre XIII : Du pacte civil de solidarité et du concubinage
+
+### Chapitre Ier : Du pacte civil de solidarité
 
 ###### Article 515-1
 
 Un pacte civil de solidarité est un contrat conclu par deux personnes physiques majeures, de sexe différent ou de même sexe,
 pour organiser leur vie commune.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 
 **Liens relatifs à cet article**
 
@@ -23169,9 +22968,9 @@ La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 	  - Code général des impôts, CGI. - art. 885 A (V)
 	  - Code général des impôts, CGI. - art. 885 W (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°99-944 du 15 novembre 1999 - art. 1 () JORF 16 novembre 1999
+	  - Loi n°2007-308 2007-03-05 art. 1 3° JORF 7 mars 2007 en vigueur le 1er janvier 2009
 
 	**Codifié par**:
 
@@ -23189,21 +22988,17 @@ degré inclus ;
 
 3° Entre deux personnes dont l'une au moins est déjà liée par un pacte civil de solidarité.
 
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
-
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°99-944 du 15 novembre 1999 - art. 1 () JORF 16 novembre 1999
 
 	**Cité par**:
 
 	  - Décret n°99-1089 du 21 décembre 1999 - art. 1 (V)
 	  - Décret n°2006-1806 du 23 décembre 2006 - art. 1 (VD)
 	  - Code civil - art. 515-3 (M)
+
+	**Modifié par**:
+
+	  - Loi n°2007-308 2007-03-05 art. 1 3° JORF 7 mars 2007 en vigueur le 1er janvier 2009
 
 	**Codifié par**:
 
@@ -23226,10 +23021,6 @@ tribunal qui a reçu l'acte initial afin d'y être enregistrée.
 A l'étranger, l'enregistrement de la déclaration conjointe d'un pacte liant deux partenaires dont l'un au moins est de
 nationalité française et les formalités prévues aux deuxième et quatrième alinéas sont assurés par les agents diplomatiques
 et consulaires français ainsi que celles requises en cas de modification du pacte.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 
 **Liens relatifs à cet article**
 
@@ -23255,7 +23046,7 @@ La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 
 	**Modifié par**:
 
-	  - Loi n°2006-728 du 23 juin 2006 - art. 26 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+	  - Loi n°2007-308 2007-03-05 art. 1 3° JORF 7 mars 2007 en vigueur le 1er janvier 2009
 
 	**Codifié par**:
 
@@ -23273,10 +23064,6 @@ Le pacte civil de solidarité ne prend effet entre les parties qu'à compter de 
 certaine. Il n'est opposable aux tiers qu'à compter du jour où les formalités de publicité sont accomplies. Il en va de même
 des conventions modificatives.
 
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
-
 **Liens relatifs à cet article**
 
 	**Cité par**:
@@ -23288,9 +23075,9 @@ La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 	  - Décret n°2012-966 du 20 août 2012 - art. 14 (VD)
 	  - Décret n°2012-966 du 20 août 2012 - art. 6 (VD)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2006-728 du 23 juin 2006 - art. 26 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+	  - Loi n°2007-308 2007-03-05 art. 1 3° JORF 7 mars 2007 en vigueur le 1er janvier 2009
 
 	**Codifié par**:
 
@@ -23306,10 +23093,6 @@ respectives.
 Les partenaires sont tenus solidairement à l'égard des tiers des dettes contractées par l'un d'eux pour les besoins de la vie
 courante. Toutefois, cette solidarité n'a pas lieu pour les dépenses manifestement excessives.
 
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
-
 **Liens relatifs à cet article**
 
 	**Cité par**:
@@ -23320,7 +23103,7 @@ La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 
 	**Modifié par**:
 
-	  - Loi n°2006-728 du 23 juin 2006 - art. 27 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+	  - Loi n°2007-308 2007-03-05 art. 1 3° JORF 7 mars 2007 en vigueur le 1er janvier 2009
 
 	**Codifié par**:
 
@@ -23331,29 +23114,25 @@ La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 
 Sauf dispositions contraires de la convention visée au deuxième alinéa de l'article 515-3, chacun des partenaires conserve
 l'administration, la jouissance et la libre disposition de ses biens personnels. Chacun d'eux reste seul tenu des dettes
-personnelles nées avant ou pendant le pacte, hors le cas du dernier alinéa de l'article 515-4. 
+personnelles nées avant ou pendant le pacte, hors le cas du dernier alinéa de l'article 515-4.
 
 Chacun des partenaires peut prouver par tous les moyens, tant à l'égard de son partenaire que des tiers, qu'il a la propriété
 exclusive d'un bien. Les biens sur lesquels aucun des partenaires ne peut justifier d'une propriété exclusive sont réputés
-leur appartenir indivisément, à chacun pour moitié. 
+leur appartenir indivisément, à chacun pour moitié.
 
 Le partenaire qui détient individuellement un bien meuble est réputé, à l'égard des tiers de bonne foi, avoir le pouvoir de
 faire seul sur ce bien tout acte d'administration, de jouissance ou de disposition.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2006-728 du 23 juin 2006 - art. 27 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+	  - Loi n°2007-308 2007-03-05 art. 1 3° JORF 7 mars 2007 en vigueur le 1er janvier 2009
 
 	**Cite**:
 
-	  - Code civil - art. 515-3 (VD)
-	  - Code civil - art. 515-4 (VD)
+	  - Code civil - art. 515-3 (M)
+	  - Code civil - art. 515-4 (M)
 
 	**Codifié par**:
 
@@ -23367,19 +23146,15 @@ l'indivision les biens qu'ils acquièrent, ensemble ou séparément, à compter 
 sont alors réputés indivis par moitié, sans recours de l'un des partenaires contre l'autre au titre d'une contribution
 inégale.
 
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
-
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°2006-728 du 23 juin 2006 - art. 27 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 	**Codifié par**:
 
 	  - Loi n°1803-03-14
+
+	**Modifié par**:
+
+	  - Loi n°2007-308 2007-03-05 art. 1 3° JORF 7 mars 2007 en vigueur le 1er janvier 2009
 
 
 ###### Article 515-5-2
@@ -23404,73 +23179,29 @@ propriétaire au sein d'une indivision successorale ou par suite d'une donation.
 L'emploi de deniers tels que définis aux 4° et 5° fait l'objet d'une mention dans l'acte d'acquisition. A défaut, le bien est
 réputé indivis par moitié et ne donne lieu qu'à une créance entre partenaires.
 
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
-
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2007-308 2007-03-05 art. 1 3° JORF 7 mars 2007 en vigueur le 1er janvier 2009
 
 	**Codifié par**:
 
 	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°2006-728 du 23 juin 2006 - art. 27 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 515-5-3
 
 A défaut de dispositions contraires dans la convention, chaque partenaire est gérant de l'indivision et peut exercer les
-pouvoirs reconnus par les articles 1873-6 à 1873-8. 
+pouvoirs reconnus par les articles 1873-6 à 1873-8.
 
 Pour l'administration des biens indivis, les partenaires peuvent conclure une convention relative à l'exercice de leurs
-droits indivis dans les conditions énoncées aux articles 1873-1 à 1873-15.A peine d'inopposabilité, cette convention est, à
-l'occasion de chaque acte d'acquisition d'un bien soumis à publicité foncière, publiée à la conservation des hypothèques. 
+droits indivis dans les conditions énoncées aux articles 1873-1 à 1873-15. A peine d'inopposabilité, cette convention est, à
+l'occasion de chaque acte d'acquisition d'un bien soumis à publicité foncière, publiée à la conservation des hypothèques.
 
 Par dérogation à l'article 1873-3, la convention d'indivision est réputée conclue pour la durée du pacte civil de solidarité.
 Toutefois, lors de la dissolution du pacte, les partenaires peuvent décider qu'elle continue de produire ses effets. Cette
 décision est soumise aux dispositions des articles 1873-1 à 1873-15.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°2006-728 du 23 juin 2006 - art. 27 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
-
-	**Cité par**:
-
-	  - Ordonnance n°2013-516 du 20 juin 2013 - art. 2 (V)
-
-	**Cite**:
-
-	  - Code civil - art. 1873-1 (V)
-	  - Code civil - art. 1873-3 (V)
-	  - Code civil - art. 1873-6 (V)
-
-
-###### Article 515-6
-
-Les dispositions des articles 831, 831-2, 832-3 et 832-4 sont applicables entre partenaires d'un pacte civil de solidarité en
-cas de dissolution de celui-ci. 
-
-Les dispositions du premier alinéa de l'article 831-3 sont applicables au partenaire survivant lorsque le défunt l'a
-expressément prévu par testament. 
-
-Lorsque le pacte civil de solidarité prend fin par le décès d'un des partenaires, le survivant peut se prévaloir des
-dispositions des deux premiers alinéas de l'article 763.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 
 **Liens relatifs à cet article**
 
@@ -23480,7 +23211,30 @@ La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 
 	**Modifié par**:
 
-	  - Loi n°2006-728 du 23 juin 2006 - art. 29 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+	  - Loi n°2007-308 2007-03-05 art. 1 3° JORF 7 mars 2007 en vigueur le 1er janvier 2009
+
+	**Cité par**:
+
+	  - Ordonnance n°2013-516 du 20 juin 2013 - art. 2 (V)
+
+	**Cite**:
+
+	  - Code civil - art. 1873-3 (V)
+	  - Code civil 1873-6 à 1873-8, 1873-1 à 1873-15, 1873-3
+
+
+###### Article 515-6
+
+Les dispositions des articles 831,
+831-2, 832-3 et 832-4 sont applicables entre partenaires d'un pacte civil de solidarité en cas de dissolution de celui-ci. 
+
+Les dispositions du premier alinéa de l'article 831-3 sont applicables au partenaire survivant lorsque le défunt l'a
+expressément prévu par testament. 
+
+Lorsque le pacte civil de solidarité prend fin par le décès d'un des partenaires, le survivant peut se prévaloir des
+dispositions des deux premiers alinéas de l'article 763.
+
+**Liens relatifs à cet article**
 
 	**Cité par**:
 
@@ -23489,55 +23243,57 @@ La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 	  - Code de la construction et de l'habitation. - art. L254-7 (V)
 	  - Code général des impôts, CGI. - art. 775 quater (V)
 
+	**Modifié par**:
+
+	  - Loi n°2007-308 2007-03-05 art. 1 3° JORF 7 mars 2007 en vigueur le 1er janvier 2009
+
 	**Cite**:
 
 	  - Code civil - art. 763 (V)
 	  - Code civil - art. 831 (V)
 	  - Code civil - art. 831-2 (V)
 	  - Code civil - art. 831-3 (V)
-	  - Code civil - art. 832-3 (V)
-	  - Code civil - art. 832-4 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
 
 
 ###### Article 515-7
 
 Le pacte civil de solidarité se dissout par la mort de l'un des partenaires ou par le mariage des partenaires ou de l'un
-d'eux. En ce cas, la dissolution prend effet à la date de l'événement. 
+d'eux. En ce cas, la dissolution prend effet à la date de l'événement.
 
 Le greffier du tribunal d'instance du lieu d'enregistrement du pacte civil de solidarité, informé du mariage ou du décès par
-l'officier de l'état civil compétent, enregistre la dissolution et fait procéder aux formalités de publicité. 
+l'officier de l'état civil compétent, enregistre la dissolution et fait procéder aux formalités de publicité.
 
 Le pacte civil de solidarité se dissout également par déclaration conjointe des partenaires ou décision unilatérale de l'un
-d'eux. 
+d'eux.
 
 Les partenaires qui décident de mettre fin d'un commun accord au pacte civil de solidarité remettent ou adressent au greffe
-du tribunal d'instance du lieu de son enregistrement une déclaration conjointe à cette fin. 
+du tribunal d'instance du lieu de son enregistrement une déclaration conjointe à cette fin.
 
 Le partenaire qui décide de mettre fin au pacte civil de solidarité le fait signifier à l'autre. Une copie de cette
-signification est remise ou adressée au greffe du tribunal d'instance du lieu de son enregistrement. 
+signification est remise ou adressée au greffe du tribunal d'instance du lieu de son enregistrement.
 
-Le greffier enregistre la dissolution et fait procéder aux formalités de publicité. 
+Le greffier enregistre la dissolution et fait procéder aux formalités de publicité.
 
 La dissolution du pacte civil de solidarité prend effet, dans les rapports entre les partenaires, à la date de son
-enregistrement au greffe. 
+enregistrement au greffe.
 
 Elle est opposable aux tiers à partir du jour où les formalités de publicité ont été accomplies.
 
 A l'étranger, les fonctions confiées par le présent article au greffier du tribunal d'instance sont assurées par les agents
-diplomatiques et consulaires français, qui procèdent ou font procéder également aux formalités prévues au sixième alinéa. 
+diplomatiques et consulaires français, qui procèdent ou font procéder également aux formalités prévues au sixième alinéa.
 
 Les partenaires procèdent eux-mêmes à la liquidation des droits et obligations résultant pour eux du pacte civil de
-solidarité.A défaut d'accord, le juge statue sur les conséquences patrimoniales de la rupture, sans préjudice de la
-réparation du dommage éventuellement subi. 
+solidarité. A défaut d'accord, le juge statue sur les conséquences patrimoniales de la rupture, sans préjudice de la
+réparation du dommage éventuellement subi.
 
 Sauf convention contraire, les créances dont les partenaires sont titulaires l'un envers l'autre sont évaluées selon les
 règles prévues à l'article 1469. Ces créances peuvent être compensées avec les avantages que leur titulaire a pu retirer de
 la vie commune, notamment en ne contribuant pas à hauteur de ses facultés aux dettes contractées pour les besoins de la vie
 courante.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 
 **Liens relatifs à cet article**
 
@@ -23575,27 +23331,23 @@ La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 
 	**Modifié par**:
 
-	  - Loi n°2006-728 du 23 juin 2006 - art. 26 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+	  - Loi n°2007-308 2007-03-05 art. 1 3° JORF 7 mars 2007 en vigueur le 1er janvier 2009
 
 	**Cite**:
 
-	  - Code civil - art. 1469 (V)
+	  - Code civil - art. 1469 (M)
 
 	**Codifié par**:
 
 	  - Loi n°1803-03-14
 
 
-### Chapitre II : Du concubinage.
+### Chapitre II : Du concubinage
 
 ###### Article 515-8
 
 Le concubinage est une union de fait, caractérisée par une vie commune présentant un caractère de stabilité et de continuité,
 entre deux personnes, de sexe différent ou de même sexe, qui vivent en couple.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 
 **Liens relatifs à cet article**
 
@@ -23616,9 +23368,9 @@ La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 	  - Code de l'éducation - art. R212-17 (V)
 	  - Code de la construction et de l'habitation. - art. R*321-12 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°99-944 du 15 novembre 1999 - art. 3 () JORF 16 novembre 1999
+	  - Loi n°2007-308 2007-03-05 art. 1 3° JORF 7 mars 2007 en vigueur le 1er janvier 2009
 
 	**Codifié par**:
 
@@ -34660,9 +34412,13 @@ contraire ne résulte de l'acte ou des circonstances.
 
 ###### Article 909
 
-Les docteurs en médecine ou en chirurgie, les officiers de santé et les pharmaciens qui auront traité une personne pendant la
-maladie dont elle meurt, ne pourront profiter des dispositions entre vifs ou testamentaires qu'elle aurait faites en leur
-faveur pendant le cours de cette maladie.
+Les membres des professions médicales et de la pharmacie, ainsi que les auxiliaires médicaux qui ont prodigué des soins à une
+personne pendant la maladie dont elle meurt ne peuvent profiter des dispositions entre vifs ou testamentaires qu'elle aurait
+faites en leur faveur pendant le cours de celle-ci.
+
+Les mandataires judiciaires à la protection des majeurs et les personnes morales au nom desquelles ils exercent leurs
+fonctions ne peuvent pareillement profiter des dispositions entre vifs ou testamentaires que les personnes dont ils assurent
+la protection auraient faites en leur faveur quelle que soit la date de la libéralité.
 
 Sont exceptées :
 
@@ -34673,10 +34429,6 @@ décédé n'ait pas d'héritiers en ligne directe ; à moins que celui au profit
 même du nombre de ces héritiers.
 
 Les mêmes règles seront observées à l'égard du ministre du culte.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 
 **Liens relatifs à cet article**
 
@@ -34692,7 +34444,7 @@ La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 
 	**Modifié par**:
 
-	  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+	  - Loi n°2007-308 du 5 mars 2007 - art. 9 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
 
 	**Codifié par**:
 
@@ -43577,11 +43329,8 @@ Ce temps ne court dans le cas de violence que du jour où elle a cessé ; dans l
 
 Le temps ne court, à l'égard des actes faits par un mineur, que du jour de la majorité ou de l'émancipation ; et à l'égard
 des actes faits par un majeur protégé, que du jour où il en a eu connaissance, alors qu'il était en situation de les refaire
-valablement. Il ne court contre les héritiers de l'incapable que du jour du décès, s'il n'a commencé à courir auparavant.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+valablement. Il ne court contre les héritiers de la personne en tutelle ou en curatelle que du jour du décès, s'il n'a
+commencé à courir auparavant.
 
 **Liens relatifs à cet article**
 
@@ -43599,13 +43348,13 @@ La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
 	  - Code de procédure civile - art. 1200-2 (V)
 	  - Code général des impôts, CGI. - art. 1961 (VD)
 
+	**Modifié par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 10
+
 	**Codifié par**:
 
 	  - Loi n°1804-02-07
-
-	**Créé par**:
-
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
 
 
 ###### Article 1305
@@ -47098,21 +46847,21 @@ accomplie.
 
 ###### Article 1399
 
-Le majeur en tutelle ou en curatelle ne peut passer de conventions matrimoniales sans être assisté, dans le contrat, de ceux
-qui doivent consentir à son mariage.
+Le majeur en tutelle ou en curatelle ne peut passer de conventions matrimoniales sans être assisté, dans le contrat, par son
+tuteur ou son curateur.
 
-A défaut de cette assistance, l'annulation des conventions peut être poursuivie dans l'année du mariage, soit par l'incapable
-lui-même, soit par ceux dont le consentement était requis, soit par le tuteur ou le curateur.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er janvier 2009.
+A défaut de cette assistance, l'annulation des conventions peut être poursuivie dans l'année du mariage, soit par la personne
+protégée elle-même, soit par ceux dont le consentement était requis, soit par le tuteur ou le curateur.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Loi n°65-570 1965-07-13
+
+	**Modifié par**:
+
+	  - Loi n°2007-308 du 5 mars 2007 - art. 10
 
 
 ### Chapitre II : Du régime en communauté
@@ -67731,51 +67480,38 @@ par un décret.
 
 ###### Article 2409
 
-A l'ouverture de toute tutelle, le conseil de famille, après avoir entendu le tuteur, décide si une inscription doit être
-requise sur les immeubles du tuteur. Dans l'affirmative, il fixe la somme pour laquelle il sera pris inscription et désigne
-les immeubles qui en seront grevés. Dans la négative, il peut, toutefois, décider que l'inscription de l'hypothèque sera
-remplacée par la constitution d'un gage, dont il détermine lui-même les conditions. 
+A l'ouverture de toute tutelle, le conseil de famille ou, à défaut le juge, après avoir entendu le tuteur, décide si une
+inscription doit être requise sur les immeubles du tuteur. Dans l'affirmative, il fixe la somme pour laquelle il sera pris
+inscription et désigne les immeubles qui en seront grevés. Dans la négative, il peut, toutefois, décider que l'inscription de
+l'hypothèque sera remplacée par la constitution d'un gage, dont il détermine lui-même les conditions.
 
-Au cours de la tutelle, le conseil de famille peut toujours ordonner, lorsque les intérêts du mineur ou du majeur en tutelle
-paraissent l'exiger, qu'il sera pris, soit une première inscription, soit des inscriptions complémentaires, ou qu'un gage
-sera constitué. 
-
-Dans les cas où il y a lieu à l'administration légale selon l'article 389, le juge des tutelles, statuant soit d'office, soit
-à la requête d'un parent ou allié ou du ministère public, peut pareillement décider qu'une inscription sera prise sur les
-immeubles de l'administrateur légal, ou que celui-ci devra constituer un gage. 
+Au cours de la tutelle, le conseil de famille ou, à défaut, le juge peut toujours ordonner, lorsque les intérêts du mineur ou
+du majeur en tutelle paraissent l'exiger, qu'il sera pris, soit une première inscription, soit des inscriptions
+complémentaires, ou qu'un gage sera constitué.
 
 Les inscriptions prévues par le présent article sont prises à la requête du greffier du juge des tutelles, et les frais en
 sont imputés au compte de la tutelle.
-
-**Nota:**
-
-Ordonnance 2006-346 du 6 mars 2006 art. 57 : Spécificités d'application.  La présente version de cet article est en vigueur
-jusqu'au 1er janvier 2009.
 
 **Liens relatifs à cet article**
 
 	**Cité par**:
 
 	  - Décret n°55-1350 du 14 octobre 1955 - art. 87 (V)
+	  - Loi n°2002-306 du 4 mars 2002 - art. 7 (V)
 	  - Code civil - art. 2411 (V)
 	  - Code civil - art. 2447 (V)
-	  - Loi n°2002-306 du 4 mars 2002 - art. 7 (V)
-
-	**Anciens textes**:
-
-	  - Code civil - art. 2143 (T)
-
-	**Cite**:
-
-	  - Code civil - art. 389 (VT)
 
 	**Codifié par**:
 
 	  - Loi n°1804-03-19
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
+	  - Loi n°2007-308 du 5 mars 2007 - art. 10
+
+	**Anciens textes**:
+
+	  - Code civil - art. 2143 (T)
 
 
 ###### Article 2410
@@ -67784,12 +67520,7 @@ Le pupille, après sa majorité ou son émancipation, ou le majeur en tutelle, a
 peut requérir, dans le délai d'un an, l'inscription de son hypothèque légale ou une inscription complémentaire.
 
 Ce droit peut, en outre, être exercé par les héritiers du pupille ou du majeur en tutelle dans le même délai, et, au cas de
-décès de l'incapable avant cessation de la tutelle ou mainlevée de la tutelle des majeurs, dans l'année du décès.
-
-**Nota:**
-
-Ordonnance 2006-346 du 6 mars 2006 art. 57 : Spécificités d'application.  La présente version de cet article est en vigueur
-jusqu'au 1er janvier 2009.
+décès de la personne protégée avant cessation de la tutelle ou mainlevée de la tutelle des majeurs, dans l'année du décès.
 
 **Liens relatifs à cet article**
 
@@ -67797,9 +67528,9 @@ jusqu'au 1er janvier 2009.
 
 	  - Loi n°2002-306 du 4 mars 2002 - art. 7 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
+	  - Loi n°2007-308 2007-03-05 art. 10 7° JORF 7 mars 2007 en vigueur le 1er janvier 2009
 
 	**Anciens textes**:
 

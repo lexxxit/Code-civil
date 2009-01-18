@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 2009-01-01
+Version Consolidée au 2009-01-19
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -4969,7 +4969,7 @@ L'acte de reconnaissance énonce les prénoms, nom, date de naissance ou, à dé
 l'auteur de la reconnaissance. 
 
 Il indique les date et lieu de naissance, le sexe et les prénoms de l'enfant ou, à défaut, tous renseignements utiles sur la
-naissance, sous réserve des dispositions de l'article 341-1.
+naissance, sous réserve des dispositions de l'article 326.
 
 L'acte de reconnaissance est inscrit à sa date sur les registres de l'état civil. 
 
@@ -4993,18 +4993,14 @@ Lors de l'établissement de l'acte de reconnaissance, il est fait lecture à son
 
 	**Modifié par**:
 
-	  - Loi n°2006-728 du 23 juin 2006 - art. 29 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+	  - Loi n°2009-61 du 16 janvier 2009 - art. 1
 
 	**Cite**:
 
-	  - Code civil - art. 341-1 (T)
-	  - Code civil - art. 371-1 (V)
-	  - Code civil - art. 371-2 (V)
-	  - Code civil - art. 59 (V)
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-11
+	  - Code civil - art. 326
+	  - Code civil - art. 371-1
+	  - Code civil - art. 371-2
+	  - Code civil - art. 59
 
 
 ###### Article 62-1
@@ -13273,30 +13269,6 @@ personnelle de son auteur, soit de la loi personnelle de l'enfant.
 	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 3 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
 
 
-###### Article 311-18
-
-L'action à fins de subsides est régie, au choix de l'enfant, soit par la loi de sa résidence habituelle, soit par la loi de
-la résidence habituelle du débiteur.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Liens**:
-
-	  - SPEC_APPLI: Ordonnance 2005-759 2005-07-04 art. 20 : Spécificité d'application
-
-	**Modifié par**:
-
-	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 3 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
-
-	**Abrogé par**:
-
-	  - Loi n°2009-61 du 16 janvier 2009 - art. 2
-
-
 #### Section 3 : De l'assistance médicale à la procréation
 
 ###### Article 311-19
@@ -13468,10 +13440,9 @@ l'article 22-1, dans les conditions fixées par un décret pris en Conseil d'Eta
 
 ###### Article 311-23
 
-Lorsque la filiation n'est établie qu'à l'égard d'un parent à la date de la déclaration de naissance, l'enfant prend le nom
-de ce parent. 
+Lorsque la filiation n'est établie qu'à l'égard d'un parent, l'enfant prend le nom de ce parent. 
 
-Lors de l'établissement du second lien de filiation et durant la minorité de l'enfant, les parents peuvent, par déclaration
+Lors de l'établissement du second lien de filiation puis durant la minorité de l'enfant, les parents peuvent, par déclaration
 conjointe devant l'officier de l'état civil, choisir soit de lui substituer le nom de famille du parent à l'égard duquel la
 filiation a été établie en second lieu, soit d'accoler leurs deux noms, dans l'ordre choisi par eux, dans la limite d'un nom
 de famille pour chacun d'eux. Le changement de nom est mentionné en marge de l'acte de naissance. 
@@ -13498,16 +13469,11 @@ Si l'enfant a plus de treize ans, son consentement personnel est nécessaire.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 3 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
-	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 8 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
+	  - Loi n°2009-61 du 16 janvier 2009 - art. 1
 
 	**Nouveaux textes**:
 
 	  - Code civil - art. 311-24 (V)
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
 
 
 ###### Article 311-24
@@ -13597,28 +13563,21 @@ L'enfant conçu ou né pendant le mariage a pour père le mari.
 
 ###### Article 313
 
-En cas de demande en divorce ou en séparation de corps, la présomption de paternité est écartée lorsque l'enfant est né plus
-de trois cents jours après la date soit de l'homologation de la convention réglant l'ensemble des conséquences du divorce ou
-des mesures provisoires prises en application de l'article 250-2, soit de l'ordonnance de non-conciliation, et moins de cent
-quatre-vingts jours depuis le rejet définitif de la demande ou la réconciliation. 
-
-Néanmoins, la présomption de paternité se trouve rétablie de plein droit si l'enfant a la possession d'état à l'égard de
-chacun des époux et s'il n'a pas une filiation paternelle déjà établie à l'égard d'un tiers.
+La présomption de paternité est écartée lorsque l'acte de naissance de l'enfant ne désigne pas le mari en qualité de père.
+Elle est encore écartée, en cas de demande en divorce ou en séparation de corps, lorsque l'enfant est né plus de trois cents
+jours après la date soit de l'homologation de la convention réglant l'ensemble des conséquences du divorce ou des mesures
+provisoires prises en application de l'article 250-2, soit de l'ordonnance de non-conciliation, et moins de cent quatre-
+vingts jours depuis le rejet définitif de la demande ou la réconciliation.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
-
-	  - SPEC_APPLI: Ordonnance 2005-759 2005-07-04 art. 20 : Spécificité d'application
-
 	**Modifié par**:
 
-	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 10 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
-	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 3 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
+	  - Loi n°2009-61 du 16 janvier 2009 - art. 1
 
 	**Cite**:
 
-	  - Code civil - art. 250-2 (V)
+	  - Code civil - art. 250-2
 
 	**Cité par**:
 
@@ -13627,66 +13586,46 @@ chacun des époux et s'il n'a pas une filiation paternelle déjà établie à l'
 	  - Code civil - art. 315 (V)
 	  - Code civil - art. 329 (V)
 
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
 
 ###### Article 314
 
-La présomption de paternité est écartée lorsque l'acte de naissance de l'enfant ne désigne pas le mari en qualité de père et
-que l'enfant n'a pas de possession d'état à son égard.
+Si elle a été écartée en application de l'article 313, la présomption de paternité se trouve rétablie de plein droit si
+l'enfant a la possession d'état à l'égard du mari et s'il n'a pas une filiation paternelle déjà établie à l'égard d'un tiers.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
-
-	  - SPEC_APPLI: Ordonnance 2005-759 2005-07-04 art. 20 : Spécificité d'application
-
 	**Modifié par**:
 
-	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 10 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
-	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 3 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
+	  - Loi n°2009-61 du 16 janvier 2009 - art. 1
 
 	**Cite**:
 
-	  - Code civil - art. 312 (M)
+	  - Code civil - art. 313
 
 	**Cité par**:
 
 	  - Code civil - art. 315 (V)
 	  - Code civil - art. 329 (V)
 
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
 
 ###### Article 315
 
-Lorsque la présomption de paternité est écartée dans les conditions prévues aux articles 313 et 314, ses effets peuvent être
-rétablis en justice dans les conditions prévues à l'article 329.
+Lorsque la présomption de paternité est écartée dans les conditions prévues à l'article 313, ses effets peuvent être rétablis
+en justice dans les conditions prévues à l'article 329. Le mari a également la possibilité de reconnaître l'enfant dans les
+conditions prévues aux articles 316 et 320.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
-
-	  - SPEC_APPLI: Ordonnance 2005-759 2005-07-04 art. 20 : Spécificité d'application
-
 	**Modifié par**:
 
-	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 10 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
-	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 3 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
+	  - Loi n°2009-61 du 16 janvier 2009 - art. 1
 
 	**Cite**:
 
-	  - Code civil - art. 313 (V)
-	  - Code civil - art. 314 (V)
-	  - Code civil - art. 329 (V)
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
+	  - Code civil - art. 313
+	  - Code civil - art. 316
+	  - Code civil - art. 320
+	  - Code civil - art. 329
 
 
 #### Section 2 : De l'établissement de la filiation par la reconnaissance
@@ -13739,25 +13678,16 @@ Quand le parent prétendu est décédé avant la déclaration de naissance de l'
 prouvant une réunion suffisante de faits au sens de l'article 311-1. 
 
 La délivrance de l'acte de notoriété ne peut être demandée que dans un délai de cinq ans à compter de la cessation de la
-possession d'état alléguée. 
+possession d'état alléguée ou à compter du décès du parent prétendu. 
 
 La filiation établie par la possession d'état constatée dans l'acte de notoriété est mentionnée en marge de l'acte de
 naissance de l'enfant.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Liens**:
-
-	  - SPEC_APPLI: Ordonnance 2005-759 2005-07-04 art. 20 : Spécificité d'application
-
 	**Modifié par**:
 
-	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 12 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
-	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 3 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
+	  - Loi n°2009-61 du 16 janvier 2009 - art. 1
 
 	**Cité par**:
 
@@ -13765,9 +13695,9 @@ naissance de l'enfant.
 
 	**Cite**:
 
-	  - Code civil - art. 311-1 (V)
-	  - Code civil - art. 71 (V)
-	  - Code civil - art. 72 (V)
+	  - Code civil - art. 311-1
+	  - Code civil - art. 71
+	  - Code civil - art. 72
 
 
 ### Chapitre III : Des actions relatives à la filiation
@@ -14006,29 +13936,15 @@ Les juges peuvent d'office ordonner que soient mis en cause tous les intéressé
 
 ###### Article 325
 
-A défaut de titre et de possession d'état, la recherche de maternité est admise sous réserve de l'application de l'article
-326.
+A défaut de titre et de possession d'état, la recherche de maternité est admise.
 
 L'action est réservée à l'enfant qui est tenu de prouver qu'il est celui dont la mère prétendue a accouché.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Liens**:
-
-	  - SPEC_APPLI: Ordonnance 2005-759 2005-07-04 art. 20 : Spécificité d'application
-
 	**Modifié par**:
 
-	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 14 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
-	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 3 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
-
-	**Cite**:
-
-	  - Code civil - art. 326 (M)
+	  - Loi n°2009-61 du 16 janvier 2009 - art. 1
 
 
 ###### Article 326
@@ -14164,27 +14080,14 @@ l'enfant pendant les dix années qui suivent sa majorité.
 
 ###### Article 330
 
-La possession d'état peut être constatée à la demande de toute personne qui y a intérêt dans le délai mentionné à l'article
-321.
+La possession d'état peut être constatée, à la demande de toute personne qui y a intérêt, dans le délai de dix ans à compter
+de sa cessation ou du décès du parent prétendu.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Liens**:
-
-	  - SPEC_APPLI: Ordonnance 2005-759 2005-07-04 art. 20 : Spécificité d'application
-
 	**Modifié par**:
 
-	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 14 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
-	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 3 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
-
-	**Cite**:
-
-	  - Code civil - art. 321 (V)
+	  - Loi n°2009-61 du 16 janvier 2009 - art. 1
 
 
 ###### Article 331
@@ -14247,25 +14150,17 @@ La paternité peut être contestée en rapportant la preuve que le mari ou l'aut
 ###### Article 333
 
 Lorsque la possession d'état est conforme au titre, seuls peuvent agir l'enfant, l'un de ses père et mère ou celui qui se
-prétend le parent véritable. L'action se prescrit par cinq ans à compter du jour où la possession d'état a cessé.
+prétend le parent véritable. L'action se prescrit par cinq ans à compter du jour où la possession d'état a cessé ou du décès
+du parent dont le lien de filiation est contesté. 
 
-Nul ne peut contester la filiation lorsque la possession d'état conforme au titre a duré au moins cinq ans depuis la
-naissance ou la reconnaissance, si elle a été faite ultérieurement.
+Nul, à l'exception du ministère public, ne peut contester la filiation lorsque la possession d'état conforme au titre a duré
+au moins cinq ans depuis la naissance ou la reconnaissance, si elle a été faite ultérieurement.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Liens**:
-
-	  - SPEC_APPLI: Ordonnance 2005-759 2005-07-04 art. 20 : Spécificité d'application
-
 	**Modifié par**:
 
-	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 15 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
-	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 3 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
+	  - Loi n°2009-61 du 16 janvier 2009 - art. 1
 
 
 ###### Article 334
@@ -14303,22 +14198,13 @@ intérêt dans le délai prévu à l'article 321.
 ###### Article 335
 
 La filiation établie par la possession d'état constatée par un acte de notoriété peut être contestée par toute personne qui y
-a intérêt en rapportant la preuve contraire, dans le délai de cinq ans à compter de la délivrance de l'acte.
+a intérêt en rapportant la preuve contraire, dans le délai de dix ans à compter de la délivrance de l'acte.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Liens**:
-
-	  - SPEC_APPLI: Ordonnance 2005-759 2005-07-04 art. 20 : Spécificité d'application
-
 	**Modifié par**:
 
-	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 15 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
-	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 3 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
+	  - Loi n°2009-61 du 16 janvier 2009 - art. 1
 
 	**Cité par**:
 
@@ -14348,6 +14234,25 @@ rendent invraisemblable ou en cas de fraude à la loi.
 	**Cité par**:
 
 	  - Code civil - art. 336-1 (V)
+
+
+###### Article 336-1
+
+Lorsqu'il détient une reconnaissance paternelle prénatale dont les énonciations relatives à son auteur sont contredites par
+les informations concernant le père que lui communique le déclarant, l'officier de l'état civil compétent en application de
+l'article 55 établit l'acte de naissance au vu des informations communiquées par le déclarant. Il en avise sans délai le
+procureur de la République qui élève le conflit de paternité sur le fondement de l'article 336.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2009-61 du 16 janvier 2009 - art. 1
+
+	**Cite**:
+
+	  - Code civil - art. 336
+	  - Code civil - art. 55
 
 
 ###### Article 337
@@ -14386,7 +14291,7 @@ de celui-ci avec la personne qui l'élevait.
 Tout enfant dont la filiation paternelle n'est pas légalement établie, peut réclamer des subsides à celui qui a eu des
 relations avec sa mère pendant la période légale de la conception.
 
-L'action peut être exercée pendant toute la minorité de l'enfant ; celui-ci peut encore l'exercer dans les deux années qui
+L'action peut être exercée pendant toute la minorité de l'enfant ; celui-ci peut encore l'exercer dans les dix années qui
 suivent sa majorité si elle ne l'a pas été pendant sa minorité.
 
 L'action est recevable même si le père ou la mère était au temps de la conception, engagé dans les liens du mariage avec une
@@ -14414,23 +14319,14 @@ autre personne, ou s'il existait entre eux un des empêchements à mariage régl
 	  - Code des procédures civiles d'exécution - art. L213-1 (VD)
 	  - Nouveau code de procédure civile - art. 465-1 (V)
 
-	**Liens**:
-
-	  - SPEC_APPLI: Ordonnance 2005-759 2005-07-04 art. 20 : Spécificité d'application
-
 	**Modifié par**:
 
-	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 16 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
-	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 3 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
+	  - Loi n°2009-61 du 16 janvier 2009 - art. 1
 
 	**Cite**:
 
-	  - Code civil - art. 161 (V)
-	  - Code civil - art. 164 (V)
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
+	  - Code civil - art. 161
+	  - Code civil - art. 164
 
 
 ###### Article 342-2
@@ -18412,7 +18308,7 @@ mère tiennent du titre "De l'autorité parentale", notamment quant à l'éducat
 La tutelle s'ouvre lorsque le père et la mère sont tous deux décédés ou se trouvent privés de l'exercice de l'autorité
 parentale.
 
-Elle s'ouvre, aussi, à l'égard d'un enfant qui n'a ni père ni mère.
+Elle s'ouvre, aussi, à l'égard d'un enfant dont la filiation n'est pas légalement établie.
 
 Il n'est pas dérogé aux lois particulières qui régissent le service de l'aide sociale à l'enfance.
 
@@ -18429,11 +18325,7 @@ Il n'est pas dérogé aux lois particulières qui régissent le service de l'aid
 
 	**Modifié par**:
 
-	  - Loi n°2007-308 du 5 mars 2007 - art. 2 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
+	  - Loi n°2009-61 du 16 janvier 2009 - art. 1
 
 
 ###### Article 391
@@ -34379,35 +34271,6 @@ Sont exceptés, dans les deux cas ci-dessus, les ascendants des mineurs, qui son
 	**Modifié par**:
 
 	  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
-
-
-###### Article 908-2
-
-Dans les dispositions entre vifs ou testamentaires, les expressions "fils et petits-fils, enfants et petits-enfants", sans
-autre addition ni désignation, doivent s'entendre de la descendance naturelle aussi bien que légitime, à moins que le
-contraire ne résulte de l'acte ou des circonstances.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-05-03
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 11 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 12 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 13 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 14 (V)
-	  - SPEC_APPLI: Loi n°72-3 du 3 janvier 1972 - art. 15 (V)
-
-	**Modifié par**:
-
-	  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
-
-	**Abrogé par**:
-
-	  - Loi n°2009-61 du 16 janvier 2009 - art. 1
 
 
 ###### Article 909

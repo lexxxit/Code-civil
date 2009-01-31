@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 2009-01-19
+Version Consolidée au 2009-02-01
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -18791,6 +18791,17 @@ Le tuteur gère les biens du mineur et rend compte de sa gestion conformément a
 	  - Loi n°2007-308 du 5 mars 2007 - art. 6 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
 
 
+###### Article 408-1
+
+Les biens ou droits d'un mineur ne peuvent être transférés dans un patrimoine fiduciaire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2008-776 du 4 août 2008 - art. 18 (V)
+
+
 ##### Paragraphe 4 : Du subrogé tuteur
 
 ###### Article 409
@@ -20216,27 +20227,30 @@ Toutefois, même en l'absence de cette mention, ils sont opposables aux tiers qu
 
 ###### Article 445
 
-Ceux qui ont, ou dont les père et mère ont avec le mineur un litige mettant en cause l'état de celui-ci ou une partie notable
-de ses biens doivent se récuser, et peuvent être récusés, des différentes charges tutélaires.
+Les charges curatélaires et tutélaires sont soumises aux conditions prévues pour les charges tutélaires des mineurs par les
+articles 395 à 397. Toutefois, les pouvoirs dévolus par l'article 397 au conseil de famille sont exercés par le juge en
+l'absence de constitution de cet organe. 
 
-**Nota:**
+Les membres des professions médicales et de la pharmacie, ainsi que les auxiliaires médicaux ne peuvent exercer une charge
+curatélaire ou tutélaire à l'égard de leurs patients. 
 
-La présente version de cet article est en vigueur jusqu'au 1er février 2009.
+Le fiduciaire désigné par le contrat de fiducie ne peut exercer une charge curatélaire ou tutélaire à l'égard du constituant.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2008-776 du 4 août 2008 - art. 18 (V)
+
+	**Cite**:
+
+	  - Code civil - art. 395 (V)
+	  - Code civil - art. 397 (V)
 
 	**Cité par**:
 
 	  - Code civil - art. 437 (V)
 	  - Code civil - art. 480 (V)
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°64-1230 du 14 décembre 1964 - art. 1 () JORF 15 décembre 1964 en vigueur le 15 juin 1965
 
 
 ##### Paragraphe 1 : Du curateur et du tuteur
@@ -21055,9 +21069,10 @@ A peine de nullité, toute signification faite à cette dernière l'est égaleme
 ###### Article 468
 
 Les capitaux revenant à la personne en curatelle sont versés directement sur un compte ouvert à son seul nom et mentionnant
-son régime de protection, auprès d'un établissement habilité à recevoir des fonds du public.
+son régime de protection, auprès d'un établissement habilité à recevoir des fonds du public. 
 
-La personne en curatelle ne peut, sans l'assistance du curateur, faire emploi de ses capitaux.
+La personne en curatelle ne peut, sans l'assistance du curateur conclure un contrat de fiducie ni faire emploi de ses
+capitaux. 
 
 Cette assistance est également requise pour introduire une action en justice ou y défendre.
 
@@ -21075,13 +21090,9 @@ Cette assistance est également requise pour introduire une action en justice ou
 	  - TXT_SOURCE: Décret n°65-961 du 5 novembre 1965
 	  - TXT_SOURCE: Décret n°65-961 du 5 novembre 1965 - art. 8 (V)
 
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
 	**Modifié par**:
 
-	  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+	  - Loi n°2008-776 du 4 août 2008 - art. 18 (V)
 
 
 ###### Article 469
@@ -22600,36 +22611,35 @@ Pour la conclusion de l'acte, le tuteur est réputé être en opposition d'inté
 
 ###### Article 509
 
-La curatelle est ouverte et prend fin de la même manière que la tutelle des majeurs.
+Le tuteur ne peut, même avec une autorisation : 
 
-Elle est soumise à la même publicité.
+1° Accomplir des actes qui emportent une aliénation gratuite des biens ou des droits de la personne protégée sauf ce qui est
+dit à propos des donations, tels que la remise de dette, la renonciation gratuite à un droit acquis, la renonciation
+anticipée à l'action en réduction visée aux articles 929 à 930-5, la mainlevée d'hypothèque ou de sûreté sans paiement ou la
+constitution gratuite d'une servitude ou d'une sûreté pour garantir la dette d'un tiers ; 
 
-**Nota:**
+2° Acquérir d'un tiers un droit ou une créance que ce dernier détient contre la personne protégée ; 
 
-La présente version de cet article est en vigueur jusqu'au 1er février 2009.
+3° Exercer le commerce ou une profession libérale au nom de la personne protégée ; 
+
+4° Acheter les biens de la personne protégée ainsi que les prendre à bail ou à ferme, sous réserve des dispositions de
+l'article 508 ; 
+
+5° Transférer dans un patrimoine fiduciaire les biens ou droits d'un majeur protégé.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°68-5 du 3 janvier 1968 - art. 1 () JORF 4 janvier 1968 en vigueur le 1er novembre 1968
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 14 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 15 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 16 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 17 (V)
-	  - SPEC_APPLI: Loi n°68-5 du 3 janvier 1968 - art. 21 (V)
-	  - SPEC_APPLI: Loi n°68-696 1968-07-31 art. 14
+	  - Loi n°2008-776 du 4 août 2008 - art. 18 (V)
 
 	**Cité par**:
 
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L322-2 (Ab)
+
+	**Cite**:
+
+	  - Code civil - art. 929
 
 
 ### Chapitre II : De l'établissement, de la vérification et de l'approbation des comptes
@@ -47205,15 +47215,13 @@ Les époux ne peuvent, l'un sans l'autre, aliéner ou grever de droits réels le
 dépendant de la communauté, non plus que les droits sociaux non négociables et les meubles corporels dont l'aliénation est
 soumise à publicité. Ils ne peuvent, sans leur conjoint, percevoir les capitaux provenant de telles opérations.
 
+De même, ils ne peuvent, l'un sans l'autre, transférer un bien de la communauté dans un patrimoine fiduciaire.
+
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°65-570 1965-07-13
 
 	**Modifié par**:
 
-	  - Loi n°85-1372 du 23 décembre 1985 - art. 13 () JORF 26 décembre 1985 en vigueur le 1er juillet 1986
+	  - Loi n°2008-776 du 4 août 2008 - art. 18 (V)
 
 
 ###### Article 1425
@@ -60101,7 +60109,14 @@ patrimoine propre, agissent dans un but déterminé au profit d'un ou plusieurs 
 
 La fiducie est établie par la loi ou par contrat. Elle doit être expresse.
 
+Si les biens, droits ou sûretés transférés dans le patrimoine fiduciaire dépendent de la communauté existant entre les époux
+ou d'une indivision, le contrat de fiducie est établi par acte notarié à peine de nullité.
+
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Ordonnance n°2009-112 du 30 janvier 2009 - art. 1
 
 	**Nouveaux textes**:
 
@@ -60110,14 +60125,6 @@ La fiducie est établie par la loi ou par contrat. Elle doit être expresse.
 	**Cité par**:
 
 	  - Code de commerce - art. A444-163-1 (V)
-
-	**Codifié par**:
-
-	  - Loi n°1804-03-10
-
-	**Créé par**:
-
-	  - Loi n°2007-211 du 19 février 2007 - art. 1 () JORF 21 février 2007
 
 
 ###### Article 2013
@@ -60144,49 +60151,16 @@ public.
 	  - Loi n°1804-03-10
 
 
-###### Article 2014
-
-Seules peuvent être constituants les personnes morales soumises de plein droit ou sur option à l'impôt sur les sociétés. Les
-droits du constituant au titre de la fiducie ne sont ni transmissibles à titre gratuit, ni cessibles à titre onéreux à des
-personnes autres que des personnes morales soumises à l'impôt sur les sociétés.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1804-03-10
-
-	**Créé par**:
-
-	  - Loi n°2007-211 du 19 février 2007 - art. 1 () JORF 21 février 2007
-
-	**Abrogé par**:
-
-	  - Loi n°2008-776  du 4 août 2008 - art. 18 (V)
-	  - Loi n°2008-776 du 4 août 2008 - art. 18 (V)
-
-	**Nouveaux textes**:
-
-	  - Code civil - art. 2291 (V)
-
-
 ###### Article 2015
 
 Seuls peuvent avoir la qualité de fiduciaires les établissements de crédit mentionnés à l'article L. 511-1 du code monétaire
 et financier, les institutions et services énumérés à l'article L. 518-1 du même code, les entreprises d'investissement
 mentionnées à l'article L. 531-4 du même code ainsi que les entreprises d'assurance régies par l'article L. 310-1 du code des
-assurances.
+assurances. 
 
-**Nota:**
-
-Loi 2007-211 du 19 février 2007 art. 12 : les personnes morales mentionnées à l'article 2015 établissent des comptes annuels
-conformément aux dispositions des articles L123-12 à L123-15 du code de commerce.
+Les membres de la profession d'avocat peuvent également avoir la qualité de fiduciaire.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°2007-211 du 19 février 2007 - art. 1 () JORF 21 février 2007
 
 	**Cité par**:
 
@@ -60194,13 +60168,20 @@ conformément aux dispositions des articles L123-12 à L123-15 du code de commer
 	  - Décret n°2016-1793 du 21 décembre 2016 - art. 1
 	  - Code monétaire et financier - art. L561-25 (VD)
 
+	**Modifié par**:
+
+	  - Loi n°2008-776 du 4 août 2008 - art. 18 (V)
+
 	**Nouveaux textes**:
 
 	  - Code civil - art. 2292 (V)
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Loi n°1804-03-10
+	  - Code monétaire et financier - art. L511-1
+	  - Code monétaire et financier - art. L518-1
+	  - Code monétaire et financier - art. L531-4
+	  - Code des assurances - art. L310-1
 
 
 ###### Article 2016
@@ -60228,15 +60209,13 @@ Sauf stipulation contraire du contrat de fiducie, le constituant peut, à tout m
 de la préservation de ses intérêts dans le cadre de l'exécution du contrat et qui peut disposer des pouvoirs que la loi
 accorde au constituant.
 
+Lorsque le constituant est une personne physique, il ne peut renoncer à cette faculté.
+
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Loi n°1804-03-10
-
-	**Créé par**:
-
-	  - Loi n°2007-211 du 19 février 2007 - art. 1 () JORF 21 février 2007
+	  - Ordonnance n°2009-112 du 30 janvier 2009 - art. 2
 
 	**Cité par**:
 
@@ -60411,15 +60390,25 @@ doit mentionner le nom du fiduciaire ès qualités.
 
 ###### Article 2022
 
-Le contrat de fiducie définit les conditions dans lesquelles le fiduciaire rend compte de sa mission au constituant. Le
-fiduciaire rend compte de sa mission au bénéficiaire et au tiers désigné en application de l'article 2017, à leur demande,
-selon une périodicité fixée par le contrat.
+Le contrat de fiducie définit les conditions dans lesquelles le fiduciaire rend compte de sa mission au constituant. 
+
+Toutefois, lorsque pendant l'exécution du contrat le constituant fait l'objet d'une mesure de tutelle, le fiduciaire rend
+compte de sa mission au tuteur à la demande de ce dernier au moins une fois par an, sans préjudice de la périodicité fixée
+par le contrat. Lorsque pendant l'exécution du contrat le constituant fait l'objet d'une mesure de curatelle, le fiduciaire
+rend compte de sa mission, dans les mêmes conditions, au constituant et à son curateur. 
+
+Le fiduciaire rend compte de sa mission au bénéficiaire et au tiers désigné en application de l'article 2017, à leur demande,
+selon la périodicité fixée par le contrat.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2007-211 du 19 février 2007 - art. 1 () JORF 21 février 2007
+	  - Loi n°2008-776 du 4 août 2008 - art. 18 (V)
+
+	**Cite**:
+
+	  - Code civil - art. 2017
 
 	**Nouveaux textes**:
 
@@ -60428,10 +60417,6 @@ selon une périodicité fixée par le contrat.
 	**Cité par**:
 
 	  - Code du travail - art. R124-16 (M)
-
-	**Codifié par**:
-
-	  - Loi n°1804-03-10
 
 
 ###### Article 2023
@@ -60576,13 +60561,13 @@ justice.
 
 ###### Article 2029
 
-Le contrat de fiducie prend fin par la survenance du terme, par la réalisation du but poursuivi quand celle-ci a lieu avant
-le terme ou en cas de révocation par le constituant de l'option pour l'impôt sur les sociétés.
+Le contrat de fiducie prend fin par le décès du constituant personne physique, par la survenance du terme ou par la
+réalisation du but poursuivi quand celle-ci a lieu avant le terme. 
 
-Il prend également fin de plein droit si le contrat le prévoit ou, à défaut, par une décision de justice, si, en l'absence de
-stipulations prévoyant les conditions dans lesquelles le contrat se poursuit, la totalité des bénéficiaires renonce à la
-fiducie. Il en va de même si le fiduciaire fait l'objet d'une liquidation judiciaire ou d'une dissolution, ou disparaît par
-suite d'une cession ou d'une absorption.
+Lorsque la totalité des bénéficiaires renonce à la fiducie, il prend également fin de plein droit, sauf stipulations du
+contrat prévoyant les conditions dans lesquelles il se poursuit. Sous la même réserve, il prend fin lorsque le fiduciaire
+fait l'objet d'une liquidation judiciaire ou d'une dissolution ou disparaît par suite d'une cession ou d'une absorption et,
+s'il est avocat, en cas d'interdiction temporaire, de radiation ou d'omission du tableau.
 
 **Liens relatifs à cet article**
 
@@ -60594,17 +60579,13 @@ suite d'une cession ou d'une absorption.
 	  - Code civil - art. 2372-1 (V)
 	  - Code civil - art. 2488-1 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2007-211 du 19 février 2007 - art. 1 () JORF 21 février 2007
+	  - Loi n°2008-776 du 4 août 2008 - art. 18 (V)
 
 	**Nouveaux textes**:
 
 	  - Code civil - art. 2306 (V)
-
-	**Codifié par**:
-
-	  - Loi n°1804-03-10
 
 
 ###### Article 2030
@@ -60612,47 +60593,13 @@ suite d'une cession ou d'une absorption.
 Lorsque le contrat de fiducie prend fin en l'absence de bénéficiaire, les droits, biens ou sûretés présents dans le
 patrimoine fiduciaire font de plein droit retour au constituant.
 
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°2007-211 du 19 février 2007 - art. 1 () JORF 21 février 2007
-
-	**Codifié par**:
-
-	  - Loi n°1804-03-10
-
-
-###### Article 2031
-
-En cas de dissolution du constituant, lorsque les ayants droit ne sont pas des personnes morales soumises à l'impôt sur les
-sociétés, le patrimoine fiduciaire ne peut être attribué à ces ayants droit ès qualités avant la date à laquelle le contrat
-de fiducie prend fin. Dans cette situation, les droits des ayants droit au titre de la fiducie ne sont pas transmissibles à
-titre gratuit entre vifs ni cessibles à titre onéreux.
+Lorsqu'il prend fin par le décès du constituant, le patrimoine fiduciaire fait de plein droit retour à la succession.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Loi n°1804-03-10
-
-	**Créé par**:
-
-	  - Loi n°2007-211 du 19 février 2007 - art. 1 () JORF 21 février 2007
-
-	**Abrogé par**:
-
-	  - Loi n°2008-776  du 4 août 2008 - art. 18 (V)
 	  - Loi n°2008-776 du 4 août 2008 - art. 18 (V)
-
-	**Cité par**:
-
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 223 VB (Ab)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 792 ter (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code civil - art. 2308 (V)
 
 
 ## Titre XV : Des transactions
@@ -64707,26 +64654,21 @@ par une personne qu'ils désignent à cette fin dans l'acte qui constate cette o
 
 ###### Article 2329
 
-Les sûretés sur les meubles sont :
+Les sûretés sur les meubles sont : 
 
-1° Les privilèges mobiliers ;
+1° Les privilèges mobiliers ; 
 
-2° Le gage de meubles corporels ;
+2° Le gage de meubles corporels ; 
 
-3° Le nantissement de meubles incorporels ;
+3° Le nantissement de meubles incorporels ; 
 
-4° La propriété retenue à titre de garantie.
+4° La propriété retenue ou cédée à titre de garantie.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Loi n°1804-03-19
-
-	**Créé par**:
-
-	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 10 () JORF 24 mars 2006
-	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 9 () JORF 24 mars 2006
+	  - Ordonnance n°2009-112 du 30 janvier 2009 - art. 3
 
 
 #### Chapitre Ier : Des privilèges mobiliers
@@ -65790,7 +65732,9 @@ S'il a été payé au créancier nanti une somme supérieure à la dette garanti
 	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 12 () JORF 24 mars 2006
 
 
-#### Chapitre IV : De la propriété retenue à titre de garantie
+#### Chapitre IV : De la propriété retenue ou cédée à titre de garantie.
+
+##### Section 1 : De la propriété retenue à titre de garantie.
 
 ###### Article 2367
 
@@ -65801,13 +65745,9 @@ La propriété ainsi réservée est l'accessoire de la créance dont elle garant
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Liens**:
 
-	  - Loi n°1804-03-19
-
-	**Créé par**:
-
-	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 13 () JORF 24 mars 2006
+	  - DEPLACE: Ordonnance n°2009-112 du 30 janvier 2009 - art. 5
 
 
 ###### Article 2368
@@ -65816,13 +65756,9 @@ La réserve de propriété est convenue par écrit.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Liens**:
 
-	  - Loi n°1804-03-19
-
-	**Créé par**:
-
-	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 13 () JORF 24 mars 2006
+	  - DEPLACE: Ordonnance n°2009-112 du 30 janvier 2009 - art. 5
 
 
 ###### Article 2369
@@ -65832,13 +65768,9 @@ nature et de même qualité détenus par le débiteur ou pour son compte.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Liens**:
 
-	  - Loi n°1804-03-19
-
-	**Créé par**:
-
-	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 13 () JORF 24 mars 2006
+	  - DEPLACE: Ordonnance n°2009-112 du 30 janvier 2009 - art. 5
 
 
 ###### Article 2370
@@ -65848,13 +65780,9 @@ créancier lorsque ces biens peuvent être séparés sans subir de dommage.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Liens**:
 
-	  - Loi n°1804-03-19
-
-	**Créé par**:
-
-	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 13 () JORF 24 mars 2006
+	  - DEPLACE: Ordonnance n°2009-112 du 30 janvier 2009 - art. 5
 
 
 ###### Article 2371
@@ -65869,13 +65797,9 @@ somme égale à la différence.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Liens**:
 
-	  - Loi n°1804-03-19
-
-	**Créé par**:
-
-	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 13 () JORF 24 mars 2006
+	  - DEPLACE: Ordonnance n°2009-112 du 30 janvier 2009 - art. 5
 
 
 ###### Article 2372
@@ -65885,37 +65809,153 @@ subrogée au bien.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Liens**:
 
-	  - Loi n°1804-03-19
+	  - DEPLACE: Ordonnance n°2009-112 du 30 janvier 2009 - art. 5
+
+
+##### Section 2 : De la propriété cédée à titre de garantie.
+
+###### Article 2372-1
+
+La propriété d'un bien mobilier ou d'un droit peut être cédée à titre de garantie d'une obligation en vertu d'un contrat de
+fiducie conclu en application des articles 2011 à 2030 du code civil.
+
+**Liens relatifs à cet article**
 
 	**Créé par**:
 
-	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 13 () JORF 24 mars 2006
+	  - Ordonnance n°2009-112 du 30 janvier 2009 - art. 5
+
+	**Cite**:
+
+	  - Code civil - art. 2011
+
+	**Cité par**:
+
+	  - Code civil - art. 2372-5 (V)
+
+
+###### Article 2372-2
+
+En cas de fiducie conclue à titre de garantie, le contrat mentionne à peine de nullité, outre les dispositions prévues à
+l'article 2018, la dette garantie et la valeur estimée du bien ou du droit transféré dans le patrimoine fiduciaire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-112 du 30 janvier 2009 - art. 5
+
+	**Cite**:
+
+	  - Code civil - art. 2018
+
+	**Cité par**:
+
+	  - Code civil - art. 2372-5 (V)
+
+
+###### Article 2372-3
+
+A défaut de paiement de la dette garantie et sauf stipulation contraire du contrat de fiducie, le fiduciaire, lorsqu'il est
+le créancier, acquiert la libre disposition du bien ou du droit cédé à titre de garantie. 
+
+Lorsque le fiduciaire n'est pas le créancier, ce dernier peut exiger de lui la remise du bien, dont il peut alors librement
+disposer, ou, si le contrat de fiducie le prévoit, la vente du bien ou du droit cédé et la remise de tout ou partie du prix. 
+
+La valeur du bien ou du droit cédé est déterminée par un expert désigné à l'amiable ou judiciairement, sauf si elle résulte
+d'une cotation officielle sur un marché organisé au sens du code monétaire et financier ou si le bien est une somme d'argent.
+Toute clause contraire est réputée non écrite.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-112 du 30 janvier 2009 - art. 5
+
+	**Cité par**:
+
+	  - Code civil - art. 2372-4 (V)
+
+
+###### Article 2372-4
+
+Si le bénéficiaire de la fiducie a acquis la libre disposition du bien ou du droit cédé en application de l'article 2372-3,
+il verse au constituant, lorsque la valeur mentionnée au dernier alinéa de cet article excède le montant de la dette
+garantie, une somme égale à la différence entre cette valeur et le montant de la dette, sous réserve du paiement préalable
+des dettes nées de la conservation ou de la gestion du patrimoine fiduciaire. 
+
+Sous la même réserve, si le fiduciaire procède à la vente du bien ou du droit cédé en application du contrat de fiducie, il
+restitue au constituant la part du produit de cette vente excédant, le cas échéant, la valeur de la dette garantie.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-112 du 30 janvier 2009 - art. 5
+
+	**Cite**:
+
+	  - Code civil - art. 2372-3
+
+
+###### Article 2372-5
+
+La propriété cédée en application de l'article 2372-1 peut être ultérieurement affectée à la garantie de dettes autres que
+celles mentionnées par l'acte constitutif pourvu que celui-ci le prévoie expressément. 
+
+Le constituant peut alors l'offrir en garantie, non seulement au créancier originaire, mais aussi à un nouveau créancier,
+encore que le premier n'ait pas été payé. Cette propriété ne peut être alors affectée en garantie d'une nouvelle dette que
+dans la limite de sa valeur estimée au jour de la recharge.
+
+A peine de nullité, la convention de rechargement établie selon les dispositions de l'article 2372-2 est enregistrée sous la
+forme prévue à l'article 2019. La date d'enregistrement détermine, entre eux, le rang des créanciers. 
+
+Les dispositions du présent article sont d'ordre public et toute clause contraire à celles-ci est réputée non écrite.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-112 du 30 janvier 2009 - art. 5
+
+	**Cite**:
+
+	  - Code civil - art. 2019
+	  - Code civil - art. 2372-1
+	  - Code civil - art. 2372-2
+
+
+###### Article 2372-6
+
+Les dispositions de la présente section ne sont pas applicables aux fiducies constituées à titre de garantie par les
+personnes morales.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-112 du 30 janvier 2009 - art. 5
+
+	**Abrogé par**:
+
+	  - Loi n°2009-526 du 12 mai 2009 - art. 138 (V)
 
 
 ### Sous-titre III : Des sûretés sur les immeubles
 
 ###### Article 2373
 
-Les sûretés sur les immeubles sont les privilèges, l'antichrèse et les hypothèques.
+Les sûretés sur les immeubles sont les privilèges, l'antichrèse et les hypothèques. 
 
-La propriété de l'immeuble peut également être retenue en garantie.
-
-**Nota:**
-
-Ordonnance 2006-346 du 6 mars 2006 art. 57 : Spécificités d'application.
+La propriété de l'immeuble peut également être retenue ou cédée en garantie.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Loi n°1804-03-19
-
-	**Créé par**:
-
-	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
-	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 15 () JORF 24 mars 2006
+	  - Ordonnance n°2009-112 du 30 janvier 2009 - art. 6
 
 
 #### Chapitre Ier : Des privilèges immobiliers
@@ -69967,6 +70007,138 @@ débiteur ou du tiers détenteur.
 
 	  - Code civil - art. 2422 (V)
 	  - Code civil - art. 2423 (V)
+
+
+#### Chapitre VIII : De la propriété cédée à titre de garantie 
+
+
+
+
+
+
+###### Article 2488-1
+
+La propriété d'un bien immobilier peut être cédée à titre de garantie d'une obligation en vertu d'un contrat de fiducie
+conclu en application des articles 2011 à 2030 du code civil.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-112 du 30 janvier 2009 - art. 7
+
+	**Cite**:
+
+	  - Code civil - art. 2011
+
+	**Cité par**:
+
+	  - Code civil - art. 2488-5 (V)
+
+
+###### Article 2488-2
+
+En cas de fiducie conclue à titre de garantie, le contrat mentionne à peine de nullité, outre les dispositions prévues à
+l'article 2018, la dette garantie et la valeur estimée de l'immeuble transféré dans le patrimoine fiduciaire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-112 du 30 janvier 2009 - art. 7
+
+	**Cite**:
+
+	  - Code civil - art. 2018
+
+	**Cité par**:
+
+	  - Code civil - art. 2488-5 (V)
+
+
+###### Article 2488-3
+
+A défaut de paiement de la dette garantie et sauf stipulation contraire du contrat de fiducie, le fiduciaire, lorsqu'il est
+le créancier, acquiert la libre disposition du bien cédé à titre de garantie. 
+
+Lorsque le fiduciaire n'est pas le créancier, ce dernier peut exiger de lui la remise du bien, dont il peut alors librement
+disposer, ou, si la convention le prévoit, la vente du bien et la remise de tout ou partie du prix. 
+
+La valeur du bien est déterminée par un expert désigné à l'amiable ou judiciairement. Toute clause contraire est réputée non
+écrite.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-112 du 30 janvier 2009 - art. 7
+
+	**Cité par**:
+
+	  - Code civil - art. 2488-4 (V)
+
+
+###### Article 2488-4
+
+Si le bénéficiaire de la fiducie a acquis la libre disposition du bien en application de l'article 2488-3, il verse au
+constituant, lorsque la valeur mentionnée au dernier alinéa de cet article excède le montant de la dette garantie, une somme
+égale à la différence entre cette valeur et le montant de la dette, sous réserve du paiement préalable des dettes nées de la
+conservation ou de la gestion du patrimoine fiduciaire. 
+
+Sous la même réserve, si le fiduciaire procède à la vente du bien en application du contrat de fiducie, il restitue au
+constituant la part du produit de cette vente excédant, le cas échéant, la valeur de la dette garantie.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-112 du 30 janvier 2009 - art. 7
+
+	**Cite**:
+
+	  - Code civil - art. 2488-3
+
+
+###### Article 2488-5
+
+La propriété cédée en application de l'article 2488-1 peut être ultérieurement affectée à la garantie de dettes autres que
+celles mentionnées par l'acte constitutif pourvu que celui-ci le prévoie expressément. 
+
+Le constituant peut alors l'offrir en garantie non seulement au créancier originaire, mais aussi à un nouveau créancier,
+encore que le premier n'ait pas été payé. Cette propriété ne peut être alors affectée en garantie d'une nouvelle dette que
+dans la limite de sa valeur estimée au jour de la recharge.
+
+A peine de nullité, la convention de rechargement établie selon les dispositions de l'article 2488-2 est publiée sous la
+forme prévue à l'article 2019. La date de publication détermine, entre eux, le rang des créanciers. 
+
+Les dispositions du présent article sont d'ordre public et toute clause contraire à celles-ci est réputée non écrite.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-112 du 30 janvier 2009 - art. 7
+
+	**Cite**:
+
+	  - Code civil - art. 2019
+	  - Code civil - art. 2488-1
+
+
+###### Article 2488-6
+
+Les dispositions du présent chapitre ne sont pas applicables aux fiducies constituées à titre de garantie par les personnes
+morales.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-112 du 30 janvier 2009 - art. 7
+
+	**Abrogé par**:
+
+	  - Loi n°2009-526 du 12 mai 2009 - art. 138 (V)
 
 
 # Livre V : Dispositions applicables à Mayotte

@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 2009-02-01
+Version Consolidée au 2009-03-28
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -50518,19 +50518,12 @@ Le vendeur n'est pas tenu des vices apparents et dont l'acheteur a pu se convain
 ###### Article 1642-1
 
 Le vendeur d'un immeuble à construire ne peut être déchargé, ni avant la réception des travaux, ni avant l'expiration d'un
-délai d'un mois après la prise de possession par l'acquéreur, des vices de construction alors apparents.
+délai d'un mois après la prise de possession par l'acquéreur, des vices de construction ou des défauts de conformité alors
+apparents. 
 
-Il n'y aura pas lieu à résolution du contrat ou à diminution du prix si le vendeur s'oblige à réparer le vice.
+Il n'y aura pas lieu à résolution du contrat ou à diminution du prix si le vendeur s'oblige à réparer.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1804-03-06
-
-	**Créé par**:
-
-	  - Loi n°67-3 du 3 janvier 1967 - art. 2 () JORF 4 janvier 1967 en vigueur le 1er janvier 1967
 
 	**Cité par**:
 
@@ -50548,9 +50541,12 @@ Il n'y aura pas lieu à résolution du contrat ou à diminution du prix si le ve
 	  - Code de la construction et de l'habitation. - art. R*261-1 (V)
 	  - Code de la construction et de l'habitation. - art. R*261-8 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2009-323 du 25 mars 2009 - art. 109
+
 	**Liens**:
 
-	  - SPEC_APPLI: Ordonnance 98-774 1998-09-02 art. 1 II (champ d'application territoriale Polynésie française)
 	  - PILOTE_SUIVEUR: Code de la construction et de l'habitation. - art. L261-5 (V)
 
 
@@ -50749,12 +50745,7 @@ L'action résultant des vices rédhibitoires doit être intentée par l'acquére
 découverte du vice. 
 
 Dans le cas prévu par l'article 1642-1, l'action doit être introduite, à peine de forclusion, dans l'année qui suit la date à
-laquelle le vendeur peut être déchargé des vices apparents.
-
-**Nota:**
-
-Ordonnance 2005-136 2005-02-17 art. 5 : Les dispositions de la présente ordonnance s'appliquent aux contrats conclus
-postérieurement à son entrée en vigueur.
+laquelle le vendeur peut être déchargé des vices ou des défauts de conformité apparents.
 
 **Liens relatifs à cet article**
 
@@ -50770,19 +50761,15 @@ postérieurement à son entrée en vigueur.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-136 du 17 février 2005 - art. 3 () JORF 18 février 2005
+	  - Loi n°2009-323 du 25 mars 2009 - art. 109
 
 	**Cite**:
 
-	  - Code civil - art. 1642-1 (V)
+	  - Code civil - art. 1642-1
 
 	**Liens**:
 
 	  - PILOTE_SUIVEUR: Code de la construction et de l'habitation. - art. L261-7 (V)
-
-	**Codifié par**:
-
-	  - Loi n°1804-03-06
 
 
 ###### Article 1649
@@ -52160,7 +52147,9 @@ applicables aux baux passés par le tuteur sans l'autorisation du conseil de fam
 
 Le bailleur est obligé, par la nature du contrat, et sans qu'il soit besoin d'aucune stipulation particulière :
 
-1° De délivrer au preneur la chose louée et, s'il s'agit de son habitation principale, un logement décent ;
+1° De délivrer au preneur la chose louée et, s'il s'agit de son habitation principale, un logement décent. Lorsque des locaux
+loués à usage d'habitation sont impropres à cet usage, le bailleur ne peut se prévaloir de la nullité du bail ou de sa
+résiliation pour demander l'expulsion de l'occupant ;
 
 2° D'entretenir cette chose en état de servir à l'usage pour lequel elle a été louée ;
 
@@ -52170,6 +52159,10 @@ Le bailleur est obligé, par la nature du contrat, et sans qu'il soit besoin d'a
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Loi n°2009-323 du 25 mars 2009 - art. 58
+
 	**Cité par**:
 
 	  - Code de la construction et de l'habitation. - art. Annexe 1 au III art R353-159 (V)
@@ -52177,14 +52170,6 @@ Le bailleur est obligé, par la nature du contrat, et sans qu'il soit besoin d'a
 	  - Code de la construction et de l'habitation. - art. R353-165-4 (Ab)
 	  - Code rural - art. L415-8 (V)
 	  - Code rural - art. L415-9 (Ab)
-
-	**Codifié par**:
-
-	  - Loi n°1804-03-07
-
-	**Modifié par**:
-
-	  - Loi n°2000-1208 du 13 décembre 2000 - art. 187 () JORF 14 décembre 2000
 
 
 ###### Article 1720
@@ -66521,18 +66506,24 @@ Le titulaire de la créance conserve son privilège par la double inscription fa
 
 1° Par leur auteur, soit de l'arrêté de police, pris en application de l'article L. 1331-28 du code de la santé publique, de
 l'article L. 123-3 du code de la construction et de l'habitation pour les mesures édictées sous peine d'interdiction
-d'habiter ou d'utiliser les locaux ou de fermeture définitive de l'établissement, ou des articles L. 129-2 ou L. 511-2 de ce
-dernier code, comportant une évaluation sommaire du coût des mesures ou des travaux à exécuter, soit de la mise en demeure
-effectuée en application du II de l'article L. 1331-29 du code de la santé publique, de l'article L. 123-3 du code de la
-construction et de l'habitation pour la mise en oeuvre de mesures édictées sous peine d'interdiction d'habiter ou d'utiliser
-les locaux ou de fermeture définitive de l'établissement, de l'article L. 129-2 ou du IV de l'article L. 511-2 de ce dernier
-code, comportant l'évaluation du coût des mesures ou travaux à exécuter ; 
+d'habiter ou d'utiliser les locaux ou de fermeture définitive de l'établissement, ou des articles L. 129-2, L. 129-3, L.
+511-2 ou L. 511-3 de ce dernier code, comportant une évaluation sommaire du coût des mesures ou des travaux à exécuter, soit
+de la mise en demeure effectuée en application de l'article L. 1331-26-1 ou du II de l'article L. 1331-29 du code de la santé
+publique, de l'article L. 123-3 du code de la construction et de l'habitation pour la mise en oeuvre de mesures édictées sous
+peine d'interdiction d'habiter ou d'utiliser les locaux ou de fermeture définitive de l'établissement, de l'article L. 129-2
+ou du IV de l'article L. 511-2 de ce dernier code, comportant l'évaluation du coût des mesures ou travaux à exécuter ; 
 
 2° Du titre de recouvrement de la créance par son auteur. 
 
-Le privilège prend rang à concurrence du montant évalué ou de celui du titre de recouvrement, s'il lui est inférieur, à
-compter de la première inscription et à compter de la deuxième inscription pour la fraction du montant du titre de
-recouvrement qui serait supérieure au montant résultant de la première inscription.
+Pour les créances nées de l'application de l'article L. 521-3-2 du code de la construction et de l'habitation, du I de
+l'article L. 511-2 du même code ou du I de l'article L. 1331-28 du code de la santé publique lorsque la démolition du
+bâtiment déclaré insalubre ou menaçant ruine a été ordonnée, le privilège prend rang à concurrence du montant évalué ou de
+celui du titre de recouvrement, s'il lui est inférieur, à compter de la première inscription et à compter de la deuxième
+inscription pour la fraction du montant du titre de recouvrement qui serait supérieure au montant résultant de la première
+inscription. 
+
+Pour les autres créances, le privilège est conservé à concurrence du montant évalué ou de celui du titre de recouvrement,
+s'il lui est inférieur.
 
 **Liens relatifs à cet article**
 
@@ -66543,44 +66534,40 @@ recouvrement qui serait supérieure au montant résultant de la première inscri
 	  - Code civil - art. 2384-4 (V)
 	  - Code de la construction et de l'habitation. - art. L441-2-3-3 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2009-323 du 25 mars 2009 - art. 89 (V)
+
 	**Cite**:
 
-	  - Code de la santé publique - art. L1331-28 (V)
-	  - Code de la santé publique - art. L1331-29 (V)
+	  - Code de la santé publique - art. L1331-26-1 (V)
+	  - Code de la santé publique - art. L1331-28
+	  - Code de la santé publique - art. L1331-29
 	  - Code de la construction et de l'habitation. - art. L123-3 (V)
-	  - Code de la construction et de l'habitation. - art. L129-2 (V)
-	  - Code de la construction et de l'habitation. - art. L511-2 (V)
-
-	**Créé par**:
-
-	  - Décret n°2007-42 2007-01-11 art. 1 II JORF 12 janvier 2007
-
-	**Codifié par**:
-
-	  - Loi n°1804-03-19
+	  - Code de la construction et de l'habitation. - art. L129-2 (VT)
+	  - Code de la construction et de l'habitation. - art. L511-2 (VT)
+	  - Code de la construction et de l'habitation. - art. L511-3 (V)
 
 
 ###### Article 2384-2
 
 Par dérogation à l'article 2384-1, le privilège peut également être conservé par la seule inscription du titre de
-recouvrement. 
+recouvrement, à concurrence de sa valeur. 
 
-Dans ce cas, le privilège prend rang à compter de l'émission du titre s'il est présenté à l'inscription dans un délai de deux
-mois à compter de l'émission.
+Dans ce cas pour les créances nées de l'application de l'article L. 521-3-2 du code de la construction et de l'habitation, du
+I de l'article L. 511-2 du même code ou du I de l'article L. 1331-28 du code de la santé publique lorsque la démolition du
+bâtiment déclaré insalubre ou menaçant ruine a été ordonnée, le privilège prend rang à compter de l'émission du titre s'il
+est présenté à l'inscription dans un délai de deux mois à compter de l'émission.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Loi n°2009-323 du 25 mars 2009 - art. 89 (V)
+
 	**Cite**:
 
-	  - Code civil - art. 2384-1 (V)
-
-	**Créé par**:
-
-	  - Décret n°2007-42 2007-01-11 art. 1 II JORF 12 janvier 2007
-
-	**Codifié par**:
-
-	  - Loi n°1804-03-19
+	  - Code civil - art. 2384-1
 
 
 ###### Article 2384-3

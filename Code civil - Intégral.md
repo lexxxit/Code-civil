@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 2009-03-28
+Version Consolidée au 2009-04-01
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -55315,18 +55315,14 @@ l'article 1839 aura été accomplie.
 
 ###### Article 1841
 
-Il est interdit aux sociétés n'y ayant pas été autorisées par la loi de faire publiquement appel à l'épargne ou d'émettre des
-titres négociables, à peine de nullité des contrats conclus ou des titres émis.
+Il est interdit aux sociétés n'y ayant pas été autorisées par la loi de      procéder à une offre au public des titres
+financiers ou d'émettre des titres négociables, à peine de nullité des contrats conclus ou des titres émis.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Loi n°78-9 1978-01-04
-
-	**Créé par**:
-
-	  - Loi n°78-9 1978-01-04 JORF 5 janvier 1978 rectificatif JORF 15 janvier, 12 mai 1978 en vigueur le 1er juillet 1978
+	  - Ordonnance n°2009-80 du 22 janvier 2009 - art. 15
 
 	**Cité par**:
 

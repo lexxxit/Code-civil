@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 2009-05-14
+Version Consolidée au 2009-05-29
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -31343,6 +31343,25 @@ l'usage personnel à l'un ou à l'autre des ayants droit, à charge pour ceux-ci
 	  - Loi n°2006-728 du 23 juin 2006 - art. 2 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
+###### Article 815-7-1
+
+En Guadeloupe, en Guyane, en Martinique, à La Réunion et à Saint-Martin, lorsqu'un immeuble indivis à usage d'habitation ou à
+usage mixte d'habitation et professionnel est vacant ou n'a pas fait l'objet d'une occupation effective depuis plus de deux
+années civiles, un indivisaire peut être autorisé en justice, dans les conditions prévues aux articles 813-1 à 813-9, à
+exécuter les travaux d'amélioration, de réhabilitation et de restauration de l'immeuble ainsi qu'à accomplir les actes
+d'administration et formalités de publicité, ayant pour seul objet de le donner à bail à titre d'habitation principale.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2009-594 du 27 mai 2009 - art. 34
+
+	**Cite**:
+
+	  - Code civil - art. 813-1 (V)
+
+
 #### Section 2 : Des droits et des obligations des indivisaires.
 
 ###### Article 815-8
@@ -53316,8 +53335,6 @@ Il y a trois espèces principales de louage d'ouvrage et d'industrie :
 	  - Loi n°2009-526 du 12 mai 2009 - art. 10
 
 
-#### Section 1 : Du louage des domestiques et ouvriers.
-
 #### Section 1 : Du louage de service.
 
 ###### Article 1780
@@ -54516,7 +54533,7 @@ Toutes les autres règles du cheptel simple s'appliquent au cheptel à moitié.
 	  - Loi n°1804-03-07 promulguée le 17 mars 1804
 
 
-#### Section 4 : Du cheptel donné par le propriétaire à son fermier ou colon partiaire
+#### Section 4 : Du cheptel donné par le propriétaire à son fermier ou métayer.
 
 ##### Paragraphe 1 : Du cheptel donné au fermier.
 
@@ -54621,12 +54638,6 @@ bétail d'une valeur égale au prix de l'estimation de celui qu'il a reçu est n
 
 	  - Loi n°1804-03-07 promulguée le 17 mars 1804
 
-
-##### Paragraphe 2 : Du cheptel donné au colon partiaire.
-
-#### Section 4 : Du cheptel donné par le propriétaire à son fermier ou métayer.
-
-##### Paragraphe 1 : Du cheptel donné au fermier.
 
 ##### Paragraphe 2 : Du cheptel donné au métayer.
 
@@ -63337,21 +63348,17 @@ que la caution y fût obligée.
 
 ###### Article 2295
 
-Le débiteur obligé à fournir une caution doit en présenter une qui ait la capacité de contracter, qui ait un bien suffisant
-pour répondre de l'objet de l'obligation, et dont le domicile soit dans le ressort de la cour royale (la cour d'appel) où
-elle doit être donnée.
+Le débiteur obligé à fournir une caution doit en présenter une qui ait la capacité de contracter et qui ait un bien suffisant
+pour répondre de l'objet de l'obligation.
+
+Le créancier ne peut refuser la caution présentée par un débiteur au motif qu'elle ne réside pas dans le ressort de la cour
+d'appel dans lequel elle est demandée.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Loi n°1804-02-14
-
 	**Modifié par**:
 
-	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 2 () JORF 24 mars 2006
-	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 4 () JORF 24 mars 2006
-	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 5 () JORF 24 mars 2006
+	  - Loi n°2009-594 du 27 mai 2009 - art. 55 (V)
 
 	**Anciens textes**:
 
@@ -66420,8 +66427,6 @@ Ordonnance 2006-346 du 6 mars 2006 art. 57 : Spécificités d'application.
 
 	  - Loi n°1804-03-19
 
-
-#### Chapitre II : De l'antichrèse
 
 #### Chapitre II : Du gage immobilier.
 

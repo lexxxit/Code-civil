@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 2009-05-29
+Version Consolidée au 2009-06-01
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -17187,24 +17187,22 @@ mois renouvelable.
 
 ###### Article 375-9-1
 
-Lorsque les prestations familiales ne sont pas employées pour les besoins liés au logement, à l'entretien, à la santé et à
-l'éducation des enfants et que l'accompagnement en économie sociale et familiale prévu à l'article L. 222-3 du code de
-l'action sociale et des familles n'apparaît pas suffisant, le juge des enfants peut ordonner qu'elles soient, en tout ou
-partie, versées à une personne physique ou morale qualifiée, dite " délégué aux prestations familiales ". 
+Lorsque les prestations familiales ou le revenu de solidarité active servi aux personnes isolées mentionnées à l'article L.
+262-9 du code de l'action sociale et des familles ne sont pas employés pour les besoins liés au logement, à l'entretien, à la
+santé et à l'éducation des enfants et que l'accompagnement en économie sociale et familiale prévu à l'article L. 222-3 du
+code de l'action sociale et des familles n'apparaît pas suffisant, le juge des enfants peut ordonner qu'ils soient, en tout
+ou partie, versés à une personne physique ou morale qualifiée, dite " délégué aux prestations familiales ". 
 
-Ce délégué prend toutes décisions, en s'efforçant de recueillir l'adhésion des bénéficiaires des prestations familiales et de
-répondre aux besoins liés à l'entretien, à la santé et à l'éducation des enfants ; il exerce auprès de la famille une action
-éducative visant à rétablir les conditions d'une gestion autonome des prestations. 
+Ce délégué prend toutes décisions, en s'efforçant de recueillir l'adhésion des bénéficiaires des prestations familiales ou de
+l'allocation mentionnée au premier alinéa et de répondre aux besoins liés à l'entretien, à la santé et à l'éducation des
+enfants ; il exerce auprès de la famille une action éducative visant à rétablir les conditions d'une gestion autonome des
+prestations. 
 
 La liste des personnes habilitées à saisir le juge aux fins d'ordonner cette mesure d'aide est fixée par décret. 
 
 La décision fixe la durée de la mesure. Celle-ci ne peut excéder deux ans. Elle peut être renouvelée par décision motivée.
 
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°2007-308 du 5 mars 2007 - art. 31 () JORF 7 mars 2007
 
 	**Cité par**:
 
@@ -17233,13 +17231,14 @@ La décision fixe la durée de la mesure. Celle-ci ne peut excéder deux ans. El
 	  - Code de procédure civile - art. 1200-2 (V)
 	  - Code de procédure civile - art. 1200-3 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2008-1249 du 1er décembre 2008 - art. 14
+
 	**Cite**:
 
-	  - Code de l'action sociale et des familles - art. L222-3 (V)
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
+	  - Code de l'action sociale et des familles - art. L222-3
+	  - Code de l'action sociale et des familles - art. L262-9
 
 
 ###### Article 375-9-2
@@ -21952,25 +21951,21 @@ République, en modifier l'étendue ou y mettre fin, après avoir entendu ou app
 
 ###### Article 495-5
 
-Les prestations familiales pour lesquelles le juge des enfants a ordonné la mesure prévue à l'article 375-9-1 sont exclues de
-plein droit de la mesure d'accompagnement judiciaire. 
+Les prestations pour lesquelles le juge des enfants a ordonné la mesure prévue à l'article 375-9-1 sont exclues de plein
+droit de la mesure d'accompagnement judiciaire. 
 
 Les personnes chargées respectivement de l'exécution d'une mesure prévue à l'article 375-9-1 et d'une mesure d'accompagnement
 judiciaire pour un même foyer s'informent mutuellement des décisions qu'elles prennent.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+	  - Loi n°2008-1249 du 1er décembre 2008 - art. 14
 
 	**Cite**:
 
 	  - Code civil - art. 375-9-1 (V)
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
 
 
 ###### Article 495-6

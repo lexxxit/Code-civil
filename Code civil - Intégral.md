@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 2009-06-01
+Version Consolidée au 2009-11-26
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -22835,18 +22835,22 @@ degré inclus ;
 ###### Article 515-3
 
 Les personnes qui concluent un pacte civil de solidarité en font la déclaration conjointe au greffe du tribunal d'instance
-dans le ressort duquel elles fixent leur résidence commune.
+dans le ressort duquel elles fixent leur résidence commune ou, en cas d'empêchement grave à la fixation de celle-ci, dans le
+ressort duquel se trouve la résidence de l'une des parties. 
 
-A peine d'irrecevabilité, elles produisent au greffier la convention passée entre elles par acte authentique ou par acte sous
-seing privé.
+En cas d'empêchement grave, le procureur de la République requiert le greffier du tribunal d'instance de se transporter au
+domicile ou à la résidence de l'une des parties pour enregistrer le pacte civil de solidarité.
 
-Le greffier enregistre la déclaration et fait procéder aux formalités de publicité.
+A peine d'irrecevabilité, les personnes qui concluent un pacte civil de solidarité produisent au greffier la convention
+passée entre elles par acte authentique ou par acte sous seing privé. 
+
+Le greffier enregistre la déclaration et fait procéder aux formalités de publicité. 
 
 La convention par laquelle les partenaires modifient le pacte civil de solidarité est remise ou adressée au greffe du
 tribunal qui a reçu l'acte initial afin d'y être enregistrée.
 
 A l'étranger, l'enregistrement de la déclaration conjointe d'un pacte liant deux partenaires dont l'un au moins est de
-nationalité française et les formalités prévues aux deuxième et quatrième alinéas sont assurés par les agents diplomatiques
+nationalité française et les formalités prévues aux troisième et cinquième alinéas sont assurés par les agents diplomatiques
 et consulaires français ainsi que celles requises en cas de modification du pacte.
 
 **Liens relatifs à cet article**
@@ -22873,11 +22877,7 @@ et consulaires français ainsi que celles requises en cas de modification du pac
 
 	**Modifié par**:
 
-	  - Loi n°2007-308 2007-03-05 art. 1 3° JORF 7 mars 2007 en vigueur le 1er janvier 2009
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
+	  - Loi n°2009-1436 du 24 novembre 2009 - art. 37
 
 
 ###### Article 515-3-1
@@ -22939,13 +22939,13 @@ courante. Toutefois, cette solidarité n'a pas lieu pour les dépenses manifeste
 
 ###### Article 515-5
 
-Sauf dispositions contraires de la convention visée au deuxième alinéa de l'article 515-3, chacun des partenaires conserve
+Sauf dispositions contraires de la convention visée au troisième alinéa de l'article 515-3, chacun des partenaires conserve
 l'administration, la jouissance et la libre disposition de ses biens personnels. Chacun d'eux reste seul tenu des dettes
 personnelles nées avant ou pendant le pacte, hors le cas du dernier alinéa de l'article 515-4.
 
 Chacun des partenaires peut prouver par tous les moyens, tant à l'égard de son partenaire que des tiers, qu'il a la propriété
 exclusive d'un bien. Les biens sur lesquels aucun des partenaires ne peut justifier d'une propriété exclusive sont réputés
-leur appartenir indivisément, à chacun pour moitié.
+leur appartenir indivisément, à chacun pour moitié. 
 
 Le partenaire qui détient individuellement un bien meuble est réputé, à l'égard des tiers de bonne foi, avoir le pouvoir de
 faire seul sur ce bien tout acte d'administration, de jouissance ou de disposition.
@@ -22954,16 +22954,12 @@ faire seul sur ce bien tout acte d'administration, de jouissance ou de dispositi
 
 	**Modifié par**:
 
-	  - Loi n°2007-308 2007-03-05 art. 1 3° JORF 7 mars 2007 en vigueur le 1er janvier 2009
+	  - Loi n°2009-1436 du 24 novembre 2009 - art. 37
 
 	**Cite**:
 
-	  - Code civil - art. 515-3 (M)
-	  - Code civil - art. 515-4 (M)
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
+	  - Code civil - art. 515-3
+	  - Code civil - art. 515-4
 
 
 ###### Article 515-5-1
@@ -70104,15 +70100,25 @@ vigueur à Mayotte à compter du 1er janvier 2007.
 
 ###### Article 2499
 
-Pour l'application à Mayotte des articles 515-3 et 515-7, les mots : " greffe du tribunal d'instance " sont remplacés par les
-mots : " greffe du tribunal de première instance " et les mots : " greffiers du tribunal d'instance " sont remplacés par les
-mots : " greffiers du tribunal de première instance ".
+Pour l'application à Mayotte des articles 515-3 et 515-7, les mots : "greffe du tribunal d'instance" sont remplacés par les
+mots : "greffe du tribunal de première instance", et les mots : "greffiers du tribunal d'instance" sont remplacés par les
+mots : "greffiers du tribunal de première instance".
+
+**Nota:**
+
+La loi n° 2009-1436 du 24 novembre 2009, article 37 III modifie l'article 2499 du code civil en insérant les mots : "Les mots
+" greffier du tribunal d'instance " sont remplacés par les mots : " greffier du tribunal de première instance " termes déjà
+présents dans la rédaction de l'article.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2006-728 du 23 juin 2006 - art. 40 (V) JORF 24 juin 2006 en vigueur le 1er janvier 2007
+	  - Loi n°2009-1436 du 24 novembre 2009 - art. 37
+
+	**Abrogé par**:
+
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 48 (V)
 
 	**Anciens textes**:
 
@@ -70120,12 +70126,8 @@ mots : " greffiers du tribunal de première instance ".
 
 	**Cite**:
 
-	  - Code civil - art. 515-3 (VT)
-	  - Code civil - art. 515-7 (VT)
-
-	**Codifié par**:
-
-	  - Loi n°1804-03-15
+	  - Code civil - art. 515-3
+	  - Code civil - art. 515-7
 
 
 ###### Article 2499-1

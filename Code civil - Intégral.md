@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 2010-02-26
+Version Consolidée au 2010-05-08
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -32077,31 +32077,26 @@ plusieurs héritiers.
 Au cas où ni le conjoint survivant, ni aucun héritier copropriétaire ne demande l'application des dispositions prévues à
 l'article 831 ou de celles des articles 832 ou 832-1, l'attribution préférentielle prévue en matière agricole peut être
 accordée à tout copartageant sous la condition qu'il s'oblige à donner à bail dans un délai de six mois le bien considéré
-dans les conditions fixées au chapitre VI du titre Ier du livre IV du code rural à un ou plusieurs des cohéritiers
-remplissant les conditions personnelles prévues à l'article 831 ou à un ou plusieurs descendants de ces cohéritiers
-remplissant ces mêmes conditions.
+dans les conditions fixées au chapitre VI du titre Ier du livre IV du code rural et de la pêche maritime à un ou plusieurs
+des cohéritiers remplissant les conditions personnelles prévues à l'article 831 ou à un ou plusieurs descendants de ces
+cohéritiers remplissant ces mêmes conditions.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°2006-728 du 23 juin 2006 - art. 3 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
-	  - Loi n°2006-728 du 23 juin 2006 - art. 4 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 	**Cité par**:
 
 	  - Loi n°2006-728 du 23 juin 2006 - art. 40 (V)
 	  - Code civil - art. 2504 (Ab)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
+
 	**Cite**:
 
 	  - Code civil - art. 831 (V)
 	  - Code civil - art. 832 (V)
 	  - Code civil - art. 832-1 (V)
-
-	**Codifié par**:
-
-	  - Loi n°1803-04-19
 
 
 ###### Article 831-2
@@ -32228,8 +32223,8 @@ foncier agricole.
 
 Cette attribution est de droit si le conjoint survivant ou un ou plusieurs des cohéritiers remplissant les conditions
 personnelles prévues à l'article 831, ou leurs descendants participant effectivement à l'exploitation, exigent que leur soit
-donné à bail, dans les conditions fixées au chapitre VI du titre Ier du livre IV du code rural, tout ou partie des biens du
-groupement. 
+donné à bail, dans les conditions fixées au chapitre VI du titre Ier du livre IV du code rural et de la pêche maritime, tout
+ou partie des biens du groupement. 
 
 En cas de pluralité de demandes, les biens du groupement peuvent, si leur consistance le permet, faire l'objet de plusieurs
 baux bénéficiant à des cohéritiers différents. 
@@ -32281,16 +32276,11 @@ des baux à long terme.
 
 	**Modifié par**:
 
-	  - Loi n°2006-728 du 23 juin 2006 - art. 3 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
-	  - Loi n°2006-728 du 23 juin 2006 - art. 4 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
 
 	**Cite**:
 
 	  - Code civil - art. 831 (V)
-
-	**Codifié par**:
-
-	  - Loi n°1803-04-19
 
 
 ###### Article 832-2
@@ -32311,18 +32301,14 @@ déjà propriétaire ou copropriétaire avant le décès.
 Il est tenu compte, s'il y a lieu, de la dépréciation due à l'existence du bail dans l'évaluation des terres incluses dans
 les différents lots. 
 
-Les articles L. 412-14 et L. 412-15 du code rural déterminent les règles spécifiques au bail mentionné au premier alinéa du
-présent article. 
+Les articles L. 412-14 et L. 412-15 du code rural et de la pêche maritime déterminent les règles spécifiques au bail
+mentionné au premier alinéa du présent article. 
 
 Si, en raison de l'inaptitude manifeste du ou des demandeurs à gérer tout ou partie de l'exploitation, les intérêts des
 cohéritiers risquent d'être compromis, le tribunal peut décider qu'il n'y a pas lieu d'appliquer les trois premiers alinéas
 du présent article.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-04-19
 
 	**Cité par**:
 
@@ -32341,8 +32327,7 @@ du présent article.
 
 	**Modifié par**:
 
-	  - Loi n°2006-728 du 23 juin 2006 - art. 3 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
-	  - Loi n°2006-728 du 23 juin 2006 - art. 4 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
 
 	**Cite**:
 
@@ -64419,23 +64404,23 @@ dus ;
 4° Sans préjudice de l'application éventuelle des dispositions des articles L. 143-10, L. 143-11, L. 742-6 et L. 751-15 du
 code du travail : 
 
-Les rémunérations des gens de service pour l'année échue et l'année courante : 
+Les rémunérations des gens de service pour l'année échue et l'année courante ; 
 
 Le salaire différé résultant du contrat de travail institué par l'article 63 du décret du 29 juillet 1939 relatif à la
-famille et à la natalité françaises, pour l'année échue et l'année courante : 
+famille et à la natalité françaises, pour l'année échue et l'année courante ; 
 
 La créance du conjoint survivant instituée par l'article 14 de la loi n° 89-1008 du 31 décembre 1989 relative au
 développement des entreprises commerciales et artisanales et à l'amélioration de leur environnement économique, juridique et
-social et la créance du conjoint survivant instituée par l'article L. 321-21-1 du code rural. 
+social et la créance du conjoint survivant instituée par l'article L. 321-21-1 du code rural et de la pêche maritime ; 
 
 Les rémunérations pour les six derniers mois des salariés, apprentis et l'indemnité due par l'employeur aux jeunes en stage
 d'initiation à la vie professionnelle, telle que prévue à l'article L. 980-11-1 du code du travail ; 
 
 L'indemnité de fin de contrat prévue à l'article L. 122-3-4 du code du travail et l'indemnité de précarité d'emploi prévue à
-l'article L. 124-4-4 du même code.
+l'article L. 124-4-4 du même code ;
 
 L'indemnité due en raison de l'inobservation du délai-congé prévue à l'article L. 122-8 du code du travail et l'indemnité
-compensatrice prévue à l'article L. 122-32-6 du même code. 
+compensatrice prévue à l'article L. 122-32-6 du même code ; 
 
 Les indemnités dues pour les congés payés ; 
 
@@ -64445,11 +64430,11 @@ d'établissement, des règlements de travail, des usages, des dispositions des a
 travail et pour le quart de la portion supérieure audit plafond ; 
 
 Les indemnités dues, le cas échéant, aux salariés, en application des articles L. 122-3-8, deuxième alinéa, L. 122-14-4, L.
-122-14-5, deuxième alinéa, L. 122-32-7 et L. 122-32-9 du code du travail. 
+122-14-5, deuxième alinéa, L. 122-32-7 et L. 122-32-9 du code du travail ; 
 
 5° Les fournitures de subsistances faites au débiteur et à sa famille pendant la dernière année et, pendant le même délai,
 les produits livrés par un producteur agricole dans le cadre d'un accord interprofessionnel à long terme homologué, ainsi que
-les sommes dues par tout contractant d'un exploitant agricole en application d'un contrat type homologué. 
+les sommes dues par tout contractant d'un exploitant agricole en application d'un contrat type homologué ; 
 
 6° La créance de la victime de l'accident ou de ses ayants droit relative aux frais médicaux, pharmaceutiques et funéraires,
 ainsi qu'aux indemnités allouées à la suite de l'incapacité temporaire de travail ; 
@@ -64515,13 +64500,12 @@ familiales et de la péréquation des charges résultant du versement desdites p
 	  - Loi n°1807-09-05 du 5 septembre 1807 - art. 2 (V)
 	  - Loi n°1895-12-27 du 27 décembre 1895 - art. 4 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 9 () JORF 24 mars 2006
+	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
 
 	**Anciens textes**:
 
-	  - Code civil - art. 2101 (M)
 	  - Code civil - art. 2101 (T)
 
 	**Liens**:
@@ -64547,10 +64531,6 @@ familiales et de la péréquation des charges résultant du versement desdites p
 	  - Code du travail - art. L761-5 (Ab)
 	  - Code du travail - art. L761-7 (Ab)
 	  - Code du travail - art. L980-11-1 (Ab)
-
-	**Codifié par**:
-
-	  - Loi n°1804-03-19
 
 
 ##### Section 2 : Des privilèges spéciaux
@@ -65794,23 +65774,23 @@ famille et à la natalité françaises, pour l'année échue et l'année courant
 
 La créance du conjoint survivant instituée par l'article 14 de la loi n° 89-1008 du 31 décembre 1989 relative au
 développement des entreprises commerciales et artisanales et à l'amélioration de leur environnement économique, juridique et
-social et la créance du conjoint survivant instituée par l'article L. 321-21-1 du code rural. 
+social et la créance du conjoint survivant instituée par l'article L. 321-21-1 du code rural et de la pêche maritime ; 
 
 Les rémunérations pour les six derniers mois des salariés, apprentis et l'indemnité due par l'employeur aux jeunes en stage
 d'initiation à la vie professionnelle, telle que prévue à l'article L. 980-11-1 du code du travail ; 
 
 L'indemnité de fin de contrat prévue à l'article L. 122-3-4 du code du travail et l'indemnité de précarité d'emploi prévue à
-l'article L. 124-4-4 du même code.
+l'article L. 124-4-4 du même code ;
 
 L'indemnité due en raison de l'inobservation du délai-congé prévue à l'article L. 122-8 du code du travail et l'indemnité
-compensatrice prévue à l'article L. 122-32-6 du même code. 
+compensatrice prévue à l'article L. 122-32-6 du même code ; 
 
 Les indemnités dues pour les congés payés ; 
 
 Les indemnités de licenciement dues en application des conventions collectives de travail, des accords collectifs
 d'établissement, des règlements de travail, des usages, des dispositions des articles L. 122-9, L. 122-32-6, L. 761-5 et L.
 761-7 ainsi que l'indemnité prévue à l'article L. 321-6 du code du travail pour la totalité de la portion inférieure ou égale
-au plafond visé à l'article L. 143-10 du code du travail et pour le quart de la portion supérieure audit plafond. 
+au plafond visé à l'article L. 143-10 du code du travail et pour le quart de la portion supérieure audit plafond ; 
 
 Les indemnités dues, le cas échéant, aux salariés en application des articles L. 122-3-8, deuxième alinéa, L. 122-14-4, L.
 122-14-5, deuxième alinéa, L. 122-32-7 et L. 122-32-9 du code du travail.
@@ -65849,13 +65829,12 @@ Ordonnance 2006-346 du 6 mars 2006 art. 57 : Spécificités d'application.
 	  - Code rural - art. L321-21 (V)
 	  - Code rural - art. L321-21-1 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
+	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
 
 	**Anciens textes**:
 
-	  - Code civil - art. 2104 (M)
 	  - Code civil - art. 2104 (T)
 
 	**Cite**:
@@ -65878,10 +65857,6 @@ Ordonnance 2006-346 du 6 mars 2006 art. 57 : Spécificités d'application.
 	  - Code du travail - art. L761-5 (Ab)
 	  - Code du travail - art. L761-7 (Ab)
 	  - Code du travail - art. L980-11-1 (Ab)
-
-	**Codifié par**:
-
-	  - Loi n°1804-03-19
 
 
 ###### Article 2376
@@ -70861,7 +70836,7 @@ b) L'usufruit de la même propriété établi par la volonté de l'homme ;
 
 c) L'usage et l'habitation ; 
 
-d) L'emphytéose, régie par les dispositions des articles L. 451-1 à L. 451-12 du code rural ; 
+d) L'emphytéose, régie par les dispositions des articles L. 451-1 à L. 451-12 du code rural et de la pêche maritime ; 
 
 e) La superficie ; 
 
@@ -70920,7 +70895,7 @@ publicité.
 
 	**Modifié par**:
 
-	  - Loi n°2009-526 du 12 mai 2009 - art. 10
+	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
 
 	**Anciens textes**:
 
@@ -70928,7 +70903,7 @@ publicité.
 
 	**Cite**:
 
-	  - Code rural - art. L451-1
+	  - Code rural - art. L451-1 (V)
 
 
 ###### Article 2522

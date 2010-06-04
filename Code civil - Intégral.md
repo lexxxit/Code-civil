@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 2010-05-08
+Version Consolidée au 2010-06-05
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -69982,30 +69982,6 @@ vigueur à Mayotte à compter du 1er janvier 2007.
 	**Créé par**:
 
 	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 1 () JORF 24 mars 2006
-
-
-###### Article 2496
-
-Les dispositions du titre VI du livre Ier sont applicables à Mayotte aux personnes relevant du statut civil de droit local
-accédant à l'âge requis pour se marier à compter du 1er janvier 2005.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1804-03-15
-
-	**Créé par**:
-
-	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 1 () JORF 24 mars 2006
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2010-590 du 3 juin 2010 - art. 16 (V)
-
-	**Anciens textes**:
-
-	  - Code civil - art. 2290-1 (T)
 
 
 ###### Article 2498

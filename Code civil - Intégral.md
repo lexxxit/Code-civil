@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 2010-06-05
+Version Consolidée au 2010-06-17
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -18209,6 +18209,28 @@ mère tiennent du titre "De l'autorité parentale", notamment quant à l'éducat
 	  - ORDONNANCE n°2015-1288 du 15 octobre 2015 - art. 4
 
 
+###### Article 389-8
+
+Un mineur peut être autorisé, par ses deux parents qui exercent en commun l'autorité parentale ou par son administrateur
+légal sous contrôle judiciaire avec l'autorisation du juge des tutelles, à accomplir seul les actes d'administration
+nécessaires pour les besoins de la création et de la gestion d'une entreprise individuelle à responsabilité limitée ou d'une
+société unipersonnelle. Les actes de disposition ne peuvent être effectués que par ses deux parents ou, à défaut, par son
+administrateur légal sous contrôle judiciaire avec l'autorisation du juge des tutelles.
+
+L'autorisation visée au premier alinéa revêt la forme d'un acte sous seing privé ou d'un acte notarié et comporte la liste
+des actes d'administration pouvant être accomplis par le mineur.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-658 du 15 juin 2010 - art. 2
+
+	**Cité par**:
+
+	  - Code de commerce - art. R526-3 (V)
+
+
 #### Section 2 : De la tutelle
 
 ##### Sous-section 1 : Des cas d'ouverture et de fin de la tutelle
@@ -18513,16 +18535,17 @@ Il apprécie les indemnités qui peuvent être allouées au tuteur.
 Il prend les décisions et donne au tuteur les autorisations nécessaires pour la gestion des biens du mineur conformément aux
 dispositions du titre XII.
 
+Le conseil de famille autorise le mineur à accomplir seul les actes d'administration nécessaires pour les besoins de la
+création et de la gestion d'une entreprise individuelle à responsabilité limitée ou d'une société unipersonnelle.
+
+L'autorisation visée à l'alinéa précédent revêt la forme d'un acte sous seing privé ou d'un acte notarié et comporte la liste
+des actes d'administration pouvant être accomplis par le mineur.
+
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
 
 	**Modifié par**:
 
-	  - Loi n°2007-308 du 5 mars 2007 - art. 2 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
-	  - Loi n°2007-308 du 5 mars 2007 - art. 6 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+	  - Loi n°2010-658 du 15 juin 2010 - art. 2
 
 	**Cité par**:
 
@@ -18689,16 +18712,14 @@ de se désister de l'instance ou de l'action, ou de transiger.
 
 Le tuteur gère les biens du mineur et rend compte de sa gestion conformément aux dispositions du titre XII.
 
+Le tuteur, après autorisation du conseil de famille, effectue les actes de disposition nécessaires pour les besoins de la
+création et de la gestion d'une entreprise individuelle à responsabilité limitée ou d'une société unipersonnelle.
+
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
 
 	**Modifié par**:
 
-	  - Loi n°2007-308 du 5 mars 2007 - art. 2 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
-	  - Loi n°2007-308 du 5 mars 2007 - art. 6 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+	  - Loi n°2010-658 du 15 juin 2010 - art. 2
 
 
 ###### Article 408-1
@@ -19002,13 +19023,14 @@ autrui postérieurement à son émancipation.
 
 ###### Article 413-8
 
-Le mineur émancipé ne peut être commerçant.
+Le mineur émancipé peut être commerçant sur autorisation du juge des tutelles au moment de la décision d'émancipation et du
+président du tribunal de grande instance s'il formule cette demande après avoir été émancipé.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2007-308 du 5 mars 2007 - art. 1 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+	  - Loi n°2010-658 du 15 juin 2010 - art. 2
 
 	**Cité par**:
 
@@ -19017,10 +19039,6 @@ Le mineur émancipé ne peut être commerçant.
 	**Anciens textes**:
 
 	  - Code civil - art. 487 (AbD)
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
 
 
 ## Titre XI : De la majorité et des majeurs protégés par la loi

@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 2010-07-11
+Version Consolidée au 2010-10-01
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -9625,55 +9625,37 @@ emprunts à moins que ces derniers ne portent sur des sommes modestes nécessair
 ###### Article 220-1
 
 Si l'un des époux manque gravement à ses devoirs et met ainsi en péril les intérêts de la famille, le juge aux affaires
-familiales peut prescrire toutes les mesures urgentes que requièrent ces intérêts.
+familiales peut prescrire toutes les mesures urgentes que requièrent ces intérêts. 
 
 Il peut notamment interdire à cet époux de faire, sans le consentement de l'autre, des actes de disposition sur ses propres
 biens ou sur ceux de la communauté, meubles ou immeubles. Il peut aussi interdire le déplacement des meubles, sauf à
-spécifier ceux dont il attribue l'usage personnel à l'un ou à l'autre des conjoints.
+spécifier ceux dont il attribue l'usage personnel à l'un ou à l'autre des conjoints. 
 
-Lorsque les violences exercées par l'un des époux mettent en danger son conjoint, un ou plusieurs enfants, le juge peut
-statuer sur la résidence séparée des époux en précisant lequel des deux continuera à résider dans le logement conjugal. Sauf
-circonstances particulières, la jouissance de ce logement est attribuée au conjoint qui n'est pas l'auteur des violences. Le
-juge se prononce, s'il y a lieu, sur les modalités d'exercice de l'autorité parentale et sur la contribution aux charges du
-mariage. Les mesures prises sont caduques si, à l'expiration d'un délai de quatre mois à compter de leur prononcé, aucune
-requête en divorce ou en séparation de corps n'a été déposée.
-
-La durée des autres mesures prises en application du présent article doit être déterminée par le juge et ne saurait,
-prolongation éventuellement comprise, dépasser trois ans.
+La durée des mesures prises en application du présent article doit être déterminée par le juge et ne saurait, prolongation
+éventuellement comprise, dépasser trois ans.
 
 **Liens relatifs à cet article**
 
 	**Cité par**:
 
-	  - Arrêté du 29 juillet 1987 - art. 4 (M)
-	  - Arrêté du 9 février 1988 - art. Annexe I (V)
-	  - Arrêté du 9 février 1988 - art. Annexe II (V)
-	  - Arrêté du 9 février 1988 - art. Annexe III (V)
-	  - Arrêté du 9 février 1988 - art. Annexe VI (V)
-	  - Code civil - art. 257 (V)
-	  - Code de la construction et de l'habitation. - art. L441-1 (V)
-	  - Code de procédure civile - art. 1290 (V)
 	  - Loi n°1924-06-01 du 1 juin 1924 - art. 30 (Ab)
 	  - Loi n°65-570 du 13 juillet 1965 - art. 6 (V)
 	  - Décret n°67-237 du 23 mars 1967 - art. 30 (Ab)
 	  - Décret n°67-237 du 23 mars 1967 - art. 9 (Ab)
 	  - Décret n°84-406 du 30 mai 1984 - art. 8 (M)
+	  - Arrêté du 29 juillet 1987 - art. 4 (M)
+	  - Arrêté du 9 février 1988 - art. Annexe I (V)
+	  - Arrêté du 9 février 1988 - art. Annexe II (V)
+	  - Arrêté du 9 février 1988 - art. Annexe III (V)
+	  - Arrêté du 9 février 1988 - art. Annexe VI (V)
 	  - Loi n°91-650 du 9 juillet 1991 - art. 66-1 (V)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code civil - art. 220-2 (V)
-	  - TXT_ASSOCIE: Code civil - art. 220-3 (V)
-	  - TXT_SOURCE: Directive 2003-87 CE 2003-10-13 (Parlement et Conseil)
-	  - SPEC_APPLI: Loi n°2004-439 2004-05-26 art. 32 I : Champ d'application
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
+	  - Code civil - art. 257 (V)
+	  - Code de la construction et de l'habitation. - art. L441-1 (V)
+	  - Code de procédure civile - art. 1290 (V)
 
 	**Modifié par**:
 
-	  - Loi n°2004-439 du 26 mai 2004 - art. 22 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
+	  - Loi n°2010-769 du 9 juillet 2010 - art. 1
 
 
 ###### Article 220-2
@@ -11038,8 +11020,8 @@ Le juge peut prendre, dès la requête initiale, des mesures d'urgence.
 Il peut, à ce titre, autoriser l'époux demandeur à résider séparément, s'il y a lieu avec ses enfants mineurs. 
 
 Il peut aussi, pour la garantie des droits d'un époux, ordonner toutes mesures conservatoires telles que l'apposition de
-scellés sur les biens communs. Les dispositions de l'article 220-1 et les autres sauvegardes instituées par le régime
-matrimonial demeurent cependant applicables.
+scellés sur les biens communs. Les dispositions de l'article 220-1 et du titre XIV du présent livre et les autres sauvegardes
+instituées par le régime matrimonial demeurent cependant applicables.
 
 **Nota:**
 
@@ -11056,22 +11038,13 @@ matrimonial demeurent cependant applicables.
 	  - Code de procédure civile - art. 1107 (V)
 	  - Code de procédure civile - art. 1121-1 (V)
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°2004-439 2004-05-26 art. 32 I : Champ d'application
-
 	**Modifié par**:
 
-	  - Loi n°2004-439 du 26 mai 2004 - art. 10 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
-	  - Loi n°2004-439 du 26 mai 2004 - art. 12 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
+	  - Loi n°2010-769 du 9 juillet 2010 - art. 1
 
 	**Cite**:
 
 	  - Code civil - art. 220-1 (V)
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
 
 
 ##### Paragraphe 4 : De l'introduction de l'instance en divorce.
@@ -23188,6 +23161,186 @@ entre deux personnes, de sexe différent ou de même sexe, qui vivent en couple.
 	**Codifié par**:
 
 	  - Loi n°1803-03-14
+
+
+## Titre : XIV : Des mesures de protection des victimes de violences 
+
+
+
+###### Article 515-9
+
+Lorsque les violences exercées au sein du couple ou par un ancien conjoint, un ancien partenaire lié par un pacte civil de
+solidarité ou un ancien concubin mettent en danger la personne qui en est victime, un ou plusieurs enfants, le juge aux
+affaires familiales peut délivrer en urgence à cette dernière une ordonnance de protection.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°91-647 du 10 juillet 1991 - art. 3 (V)
+	  - Ordonnance n°2000-373 du 26 avril 2000 - art. 16-2 (VT)
+	  - Ordonnance n°2000-373 du 26 avril 2000 - art. 16-3 (VT)
+	  - Ordonnance n°2000-373 du 26 avril 2000 - art. 42 (VT)
+	  - Ordonnance n°2000-371 du 26 avril 2000 - art. 16-2 (V)
+	  - Ordonnance n°2000-371 du 26 avril 2000 - art. 16-3 (V)
+	  - Ordonnance n°2000-371 du 26 avril 2000 - art. 42 (V)
+	  - Ordonnance n°2000-372 du 26 avril 2000 - art. 17-2 (V)
+	  - Ordonnance n°2000-372 du 26 avril 2000 - art. 17-3 (V)
+	  - Ordonnance n°2000-372 du 26 avril 2000 - art. 44 (V)
+	  - Ordonnance n°2002-388 du 20 mars 2002 - art. 17-2 (V)
+	  - Ordonnance n°2002-388 du 20 mars 2002 - art. 17-3 (V)
+	  - Ordonnance n°2002-388 du 20 mars 2002 - art. 44 (V)
+	  - Loi n°2011-672 du 16 juin 2011 - art. 21
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L313-12 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L316-3 (VD)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L431-2 (V)
+	  - Code de l'éducation - art. L822-1 (V)
+	  - Code de procédure civile - art. 1136-3 (V)
+	  - Code de procédure pénale - art. 41-1 (V)
+	  - Code de procédure pénale - art. 53-1 (Ab)
+	  - Code de procédure pénale - art. 75 (V)
+	  - Code des procédures civiles d'exécution - art. L412-8 (VD)
+	  - Code des procédures civiles d'exécution - art. L433-3.  (VD)
+	  - Code général des impôts, CGI. - art. 1635 bis Q (Ab)
+	  - Code pénal - art. 227-4-2 (VD)
+	  - Code pénal - art. 227-4-3 (VD)
+
+	**Créé par**:
+
+	  - Loi n°2010-769 du 9 juillet 2010 - art. 1
+
+
+###### Article 515-10
+
+L'ordonnance de protection est délivrée par le juge, saisi par la personne en danger, si besoin assistée, ou, avec l'accord
+de celle-ci, par le ministère public. 
+
+Dès la réception de la demande d'ordonnance de protection, le juge convoque, par tous moyens adaptés, pour une audition, la
+partie demanderesse et la partie défenderesse, assistées, le cas échéant, d'un avocat, ainsi que le ministère public. Ces
+auditions peuvent avoir lieu séparément. Elles peuvent se tenir en chambre du conseil.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-769 du 9 juillet 2010 - art. 1
+
+	**Cité par**:
+
+	  - Code civil - art. 515-13 (V)
+
+
+###### Article 515-11
+
+L'ordonnance de protection est délivrée par le juge aux affaires familiales, s'il estime, au vu des éléments produits devant
+lui et contradictoirement débattus, qu'il existe des raisons sérieuses de considérer comme vraisemblables la commission des
+faits de violence allégués et le danger auquel la victime est exposée. A l'occasion de sa délivrance, le juge aux affaires
+familiales est compétent pour : 
+
+1° Interdire à la partie défenderesse de recevoir ou de rencontrer certaines personnes spécialement désignées par le juge aux
+affaires familiales, ainsi que d'entrer en relation avec elles, de quelque façon que ce soit ; 
+
+2° Interdire à la partie défenderesse de détenir ou de porter une arme et, le cas échéant, lui ordonner de remettre au greffe
+contre récépissé les armes dont elle est détentrice ; 
+
+3° Statuer sur la résidence séparée des époux en précisant lequel des deux continuera à résider dans le logement conjugal et
+sur les modalités de prise en charge des frais afférents à ce logement. Sauf circonstances particulières, la jouissance de ce
+logement est attribuée au conjoint qui n'est pas l'auteur des violences ; 
+
+4° Attribuer la jouissance du logement ou de la résidence du couple au partenaire ou au concubin qui n'est pas l'auteur des
+violences et préciser les modalités de prise en charge des frais afférents à ce logement ; 
+
+5° Se prononcer sur les modalités d'exercice de l'autorité parentale et, le cas échéant, sur la contribution aux charges du
+mariage pour les couples mariés, sur l'aide matérielle au sens de l'article 515-4 pour les partenaires d'un pacte civil de
+solidarité et sur la contribution à l'entretien et à l'éducation des enfants ; 
+
+6° Autoriser la partie demanderesse à dissimuler son domicile ou sa résidence et à élire domicile chez l'avocat qui l'assiste
+ou la représente ou auprès du procureur de la République près le tribunal de grande instance pour toutes les instances
+civiles dans lesquelles elle est également partie. Si, pour les besoins de l'exécution d'une décision de justice, l'huissier
+chargé de cette exécution doit avoir connaissance de l'adresse de cette personne, celle-ci lui est communiquée, sans qu'il
+puisse la révéler à son mandant ; 
+
+7° Prononcer l'admission provisoire à l'aide juridictionnelle de la partie demanderesse en application du premier alinéa de
+l'article 20 de la loi n° 91-647 du 10 juillet 1991 relative à l'aide juridique. 
+
+Le cas échéant, le juge présente à la partie demanderesse une liste des personnes morales qualifiées susceptibles de
+l'accompagner pendant toute la durée de l'ordonnance de protection. Il peut, avec son accord, transmettre à la personne
+morale qualifiée les coordonnées de la partie demanderesse, afin qu'elle la contacte.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°91-647 du 10 juillet 1991 - art. 20
+
+	**Créé par**:
+
+	  - Loi n°2010-769 du 9 juillet 2010 - art. 1
+
+	**Cité par**:
+
+	  - Décret n°2015-282 du 11 mars 2015 (V)
+	  - Code civil - art. 515-12 (V)
+	  - Code civil - art. 515-13 (VD)
+	  - Code de procédure civile - art. 1136-13 (V)
+	  - Code de procédure civile - art. 1136-14 (V)
+	  - Code de procédure civile - art. 1136-5 (V)
+	  - Code de procédure civile - art. 1136-7 (V)
+	  - Code de procédure civile - art. 1136-8 (V)
+
+
+###### Article 515-12
+
+Les mesures mentionnées à l'article 515-11 sont prises pour une durée maximale de quatre mois. Elles peuvent être prolongées
+au-delà si, durant ce délai, une requête en divorce ou en séparation de corps a été déposée. Le juge aux affaires familiales
+peut, à tout moment, à la demande du ministère public ou de l'une ou l'autre des parties, ou après avoir fait procéder à
+toute mesure d'instruction utile, et après avoir invité chacune d'entre elles à s'exprimer, supprimer ou modifier tout ou
+partie des mesures énoncées dans l'ordonnance de protection, en décider de nouvelles, accorder à la personne défenderesse une
+dispense temporaire d'observer certaines des obligations qui lui ont été imposées ou rapporter l'ordonnance de protection.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-769 du 9 juillet 2010 - art. 1
+
+	**Cité par**:
+
+	  - Décret n°2015-282 du 11 mars 2015 (V)
+	  - Code civil - art. 515-13 (VD)
+
+	**Cite**:
+
+	  - Code civil - art. 515-11
+
+
+###### Article 515-13
+
+Une ordonnance de protection peut également être délivrée par le juge à la personne majeure menacée de mariage forcé, dans
+les conditions fixées à l'article 515-10. 
+
+Le juge est compétent pour prendre les mesures mentionnées aux 1°, 2°, 6° et 7° de l'article 515-11. Il peut également
+ordonner, à sa demande, l'interdiction temporaire de sortie du territoire de la personne menacée. Cette interdiction de
+sortie du territoire est inscrite au fichier des personnes recherchées par le procureur de la République. L'article 515-12
+est applicable aux mesures prises sur le fondement du présent article.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-769 du 9 juillet 2010 - art. 1
+
+	**Cité par**:
+
+	  - Loi n°2016-274 du 7 mars 2016 - art. 25
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L316-3 (V)
+	  - Code de procédure pénale - art. 230-19 (V)
+
+	**Cite**:
+
+	  - Code civil - art. 515-10
+	  - Code civil - art. 515-11
+	  - Code civil - art. 515-12
 
 
 # Livre II : Des biens et des différentes modifications de la propriété

@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 2010-10-01
+Version Consolidée au 2010-11-11
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -11706,7 +11706,9 @@ du temps qu'il faudra encore y consacrer ou pour favoriser la carrière de son c
 
 - leurs droits existants et prévisibles ;
 
-- leur situation respective en matière de pensions de retraite.
+- leur situation respective en matière de pensions de retraite en ayant estimé, autant qu'il est possible, la diminution des
+droits à retraite qui aura pu être causée, pour l'époux créancier de la prestation compensatoire, par les circonstances
+visées au sixième alinéa.
 
 **Nota:**
 
@@ -11714,21 +11716,15 @@ du temps qu'il faudra encore y consacrer ou pour favoriser la carrière de son c
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Loi n°2010-1330 du 9 novembre 2010 - art. 101
+
 	**Cité par**:
 
 	  - Code civil - art. 270 (V)
 	  - Code civil - art. 276 (V)
 	  - Nouveau code de procédure civile - art. 1075-1 (M)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Directive 2003-87 CE 2003-10-13 (Parlement et Conseil)
-	  - SPEC_APPLI: Loi n°2004-439 2004-05-26 art. 32 I : Champ d'application
-
-	**Modifié par**:
-
-	  - Loi n°2004-439 du 26 mai 2004 - art. 18 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
-	  - Loi n°2004-439 du 26 mai 2004 - art. 6 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
 
 	**Codifié par**:
 

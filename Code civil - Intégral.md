@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 2010-11-11
+Version Consolidée au 2010-12-24
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -14458,14 +14458,15 @@ celles que prévoit l'alinéa précédent.
 ###### Article 345
 
 L'adoption n'est permise qu'en faveur des enfants âgés de moins de quinze ans, accueillis au foyer du ou des adoptants depuis
-au moins six mois.
+au moins six mois. 
 
 Toutefois, si l'enfant a plus de quinze ans et a été accueilli avant d'avoir atteint cet âge par des personnes qui ne
 remplissaient pas les conditions légales pour adopter ou s'il a fait l'objet d'une adoption simple avant d'avoir atteint cet
 âge, l'adoption plénière pourra être demandée, si les conditions en sont remplies, pendant la minorité de l'enfant et dans
 les deux ans suivant sa majorité.
 
-S'il a plus de treize ans, l'adopté doit consentir personnellement à son adoption plénière.
+S'il a plus de treize ans, l'adopté doit consentir personnellement à son adoption plénière. Ce consentement est donné selon
+les formes prévues au premier alinéa de l'article 348-3. Il peut être rétracté à tout moment jusqu'au prononcé de l'adoption.
 
 **Liens relatifs à cet article**
 
@@ -14482,7 +14483,11 @@ S'il a plus de treize ans, l'adopté doit consentir personnellement à son adopt
 
 	**Modifié par**:
 
-	  - Loi n°96-604 du 5 juillet 1996 - art. 3 () JORF 6 juillet 1996
+	  - Loi n°2010-1609 du 22 décembre 2010 - art. 28
+
+	**Cite**:
+
+	  - Code civil - art. 348-3
 
 
 ###### Article 345-1
@@ -14659,9 +14664,9 @@ Il en est de même lorsque la filiation de l'enfant n'est pas établie.
 
 ###### Article 348-3
 
-Le consentement à l'adoption est donné devant le greffier en chef du tribunal d'instance du domicile ou de la résidence de la
-personne qui consent, ou devant un notaire français ou étranger, ou devant les agents diplomatiques ou consulaires français.
-Il peut également être reçu par le service de l'aide sociale à l'enfance lorsque l'enfant lui a été remis.
+Le consentement à l'adoption est donné devant un notaire français ou étranger, ou devant les agents diplomatiques ou
+consulaires français. Il peut également être reçu par le service de l'aide sociale à l'enfance lorsque l'enfant lui a été
+remis.
 
 Le consentement à l'adoption peut être rétracté pendant deux mois. La rétractation doit être faite par lettre recommandée
 avec demande d'avis de réception adressée à la personne ou au service qui a reçu le consentement à l'adoption. La remise de
@@ -14690,7 +14695,7 @@ d'en ordonner la restitution. La restitution rend caduc le consentement à l'ado
 
 	**Modifié par**:
 
-	  - Loi n°96-604 du 5 juillet 1996 - art. 5 () JORF 6 juillet 1996
+	  - Loi n°2010-1609 du 22 décembre 2010 - art. 28
 
 	**Codifié par**:
 
@@ -15296,31 +15301,10 @@ Si l'adopté est âgé de plus de treize ans, il doit consentir personnellement 
 
 ###### Article 361
 
-Les dispositions des articles 343 à 344, 346 à 350, 353, 353-1, 353-2, 355 et des deux derniers alinéas de l'article 357 sont
-applicables à l'adoption simple.
-
-**Nota:**
-
-L'article 13 de la loi n° 2003-516 a reporté au 1er janvier 2005 la date initiale du 1er septembre 2003, prévue par l'article
-25 de la loi n° 2002-304.
+Les dispositions des articles 343 à 344, du dernier alinéa de l'article 345, des articles 346 à 350, 353, 353-1, 353-2, 355
+et des deux derniers alinéas de l'article 357 sont applicables à l'adoption simple.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 11 (V)
-	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 12 (V)
-	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 13 (V)
-	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 7 (V)
-	  - SPEC_APPLI: Loi n°2002-304 2002-03-04 art. 24 et art. 25 (date d'effet à Mayotte)
-
-	**Modifié par**:
-
-	  - Loi n°2002-304 du 4 mars 2002 - art. 17 () JORF 5 mars 2002 en vigueur le 1er janvier 2005
 
 	**Cité par**:
 
@@ -15328,10 +15312,24 @@ L'article 13 de la loi n° 2003-516 a reporté au 1er janvier 2005 la date initi
 	  - Code civil - art. 2292 (T)
 	  - Code civil - art. 2498 (VT)
 
+	**Modifié par**:
+
+	  - Loi n°2010-1609 du 22 décembre 2010 - art. 28
+
 	**Cite**:
 
 	  - Code civil - art. 343 (V)
-	  - Code civil - art. 357 (V)
+	  - Code civil - art. 345 (V)
+	  - Code civil - art. 346 (V)
+	  - Code civil - art. 353 (V)
+	  - Code civil - art. 353-1 (V)
+	  - Code civil - art. 353-2 (V)
+	  - Code civil - art. 355 (V)
+	  - Code civil - art. 357
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
 
 
 ###### Article 362
@@ -61494,7 +61492,8 @@ les immeubles de son débiteur en dehors des formes prescrites pour la saisie im
 
 ###### Article 2202
 
-La vente amiable sur autorisation judiciaire produit les effets d'une vente volontaire.
+La vente amiable sur autorisation judiciaire produit les effets d'une vente volontaire. Elle ne peut pas donner lieu à
+rescision pour lésion.
 
 **Nota:**
 
@@ -61504,15 +61503,20 @@ La vente amiable sur autorisation judiciaire produit les effets d'une vente volo
 
 	**Codifié par**:
 
-	  - Loi n°72-626 1972-07-05
+	  - Loi n°72-626 du 5 juillet 1972
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2006-461 du 21 avril 2006 - art. 2 () JORF 22 avril 2006 en vigueur au plus tard le 1er janvier 2007
+	  - Loi n°2010-1609 du 22 décembre 2010 - art. 6 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2011-1895 du 19 décembre 2011 - art. 4 (V)
 
 	**Nouveaux textes**:
 
 	  - Code civil - art. 2455 (V)
+	  - Code des procédures civiles d'exécution - art. L322-3 (VD)
 
 	**Cité par**:
 
@@ -61843,7 +61847,7 @@ moindre. Il ne peut prétendre à la répétition des sommes qu'il a acquittées
 ###### Article 2213
 
 La consignation du prix et le paiement des frais de la vente purgent de plein droit l'immeuble de toute hypothèque et de tout
-privilège du chef du débiteur.
+privilège du chef du débiteur à compter de la publication du titre de vente.
 
 **Nota:**
 
@@ -61851,13 +61855,21 @@ privilège du chef du débiteur.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Loi n°2010-1609 du 22 décembre 2010 - art. 6 (V)
+
+	**Nouveaux textes**:
+
+	  - Code des procédures civiles d'exécution - art. L322-14 (VD)
+
 	**Codifié par**:
 
 	  - Loi n°1804-03-19
 
-	**Modifié par**:
+	**Abrogé par**:
 
-	  - Ordonnance n°2006-461 du 21 avril 2006 - art. 2 () JORF 22 avril 2006 en vigueur au plus tard le 1er janvier 2007
+	  - Ordonnance n°2011-1895 du 19 décembre 2011 - art. 4 (V)
 
 
 ### Chapitre II : De la distribution du prix.

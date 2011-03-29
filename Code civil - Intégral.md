@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 2011-03-16
+Version Consolidée au 2011-03-30
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -20710,17 +20710,17 @@ constitué et après audition des futurs conjoints et recueil, le cas échéant,
 ###### Article 461
 
 La personne en curatelle ne peut, sans l'assistance du curateur, signer la convention par laquelle elle conclut un pacte
-civil de solidarité. Aucune assistance n'est requise lors de la déclaration conjointe au greffe du tribunal d'instance prévue
-au premier alinéa de l'article 515-3.
+civil de solidarité. Aucune assistance n'est requise lors de la déclaration conjointe au greffe du tribunal d'instance ou
+devant le notaire instrumentaire prévue au premier alinéa de l'article 515-3. 
 
-Les dispositions de l'alinéa précédent sont applicables en cas de modification de la convention.
+Les dispositions de l'alinéa précédent sont applicables en cas de modification de la convention. 
 
 La personne en curatelle peut rompre le pacte civil de solidarité par déclaration conjointe ou par décision unilatérale.
 L'assistance de son curateur n'est requise que pour procéder à la signification prévue au cinquième alinéa de l'article
-515-7.
+515-7. 
 
 La personne en curatelle est assistée de son curateur dans les opérations prévues aux dixième et onzième alinéas de l'article
-515-7.
+515-7. 
 
 Pour l'application du présent article, le curateur est réputé en opposition d'intérêts avec la personne protégée lorsque la
 curatelle est confiée à son partenaire.
@@ -20734,12 +20734,12 @@ curatelle est confiée à son partenaire.
 
 	**Modifié par**:
 
-	  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+	  - Loi n°2011-331 du 28 mars 2011 - art. 12
 
 	**Cite**:
 
-	  - Code civil - art. 515-3 (M)
-	  - Code civil - art. 515-7 (M)
+	  - Code civil - art. 515-3
+	  - Code civil - art. 515-7
 
 	**Codifié par**:
 
@@ -20753,23 +20753,24 @@ de famille s'il a été constitué, après audition des futurs partenaires et re
 de l'entourage.
 
 L'intéressé est assisté de son tuteur lors de la signature de la convention. Aucune assistance ni représentation ne sont
-requises lors de la déclaration conjointe au greffe du tribunal d'instance prévue au premier alinéa de l'article 515-3.
+requises lors de la déclaration conjointe au greffe du tribunal d'instance ou devant le notaire instrumentaire prévue au
+premier alinéa de l'article 515-3. 
 
-Les dispositions des alinéas précédents sont applicables en cas de modification de la convention.
+Les dispositions des alinéas précédents sont applicables en cas de modification de la convention. 
 
 La personne en tutelle peut rompre le pacte civil de solidarité par déclaration conjointe ou par décision unilatérale. La
 formalité de signification prévue au cinquième alinéa de l'article 515-7 est opérée à la diligence du tuteur. Lorsque
-l'initiative de la rupture émane de l'autre partenaire, cette signification est faite à la personne du tuteur.
+l'initiative de la rupture émane de l'autre partenaire, cette signification est faite à la personne du tuteur. 
 
 La rupture unilatérale du pacte civil de solidarité peut également intervenir sur l'initiative du tuteur, autorisé par le
 juge ou le conseil de famille s'il a été constitué, après audition de l'intéressé et recueil, le cas échéant, de l'avis des
-parents et de l'entourage.
+parents et de l'entourage. 
 
 Aucune assistance ni représentation ne sont requises pour l'accomplissement des formalités relatives à la rupture par
-déclaration conjointe.
+déclaration conjointe. 
 
 La personne en tutelle est représentée par son tuteur dans les opérations prévues aux dixième et onzième alinéas de l'article
-515-7.
+515-7. 
 
 Pour l'application du présent article, le tuteur est réputé en opposition d'intérêts avec la personne protégée lorsque la
 tutelle est confiée à son partenaire.
@@ -20781,18 +20782,18 @@ tutelle est confiée à son partenaire.
 	  - Décret n°2006-1806 du 23 décembre 2006 - art. 1 (VD)
 	  - Ordonnance n°2012-1222 du 2 novembre 2012 - art. 4 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2011-331 du 28 mars 2011 - art. 12
+
 	**Codifié par**:
 
 	  - Loi n°1803-03-14
 
-	**Modifié par**:
-
-	  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
-
 	**Cite**:
 
-	  - Code civil - art. 515-3 (M)
-	  - Code civil - art. 515-7 (M)
+	  - Code civil - art. 515-3
+	  - Code civil - art. 515-7
 
 
 ###### Article 463
@@ -22802,16 +22803,20 @@ Les personnes qui concluent un pacte civil de solidarité en font la déclaratio
 dans le ressort duquel elles fixent leur résidence commune ou, en cas d'empêchement grave à la fixation de celle-ci, dans le
 ressort duquel se trouve la résidence de l'une des parties. 
 
-En cas d'empêchement grave, le procureur de la République requiert le greffier du tribunal d'instance de se transporter au
-domicile ou à la résidence de l'une des parties pour enregistrer le pacte civil de solidarité.
+En cas d'empêchement grave, le greffier du tribunal d'instance se transporte au domicile ou à la résidence de l'une des
+parties pour enregistrer le pacte civil de solidarité.
 
 A peine d'irrecevabilité, les personnes qui concluent un pacte civil de solidarité produisent au greffier la convention
-passée entre elles par acte authentique ou par acte sous seing privé. 
+passée entre elles. 
 
 Le greffier enregistre la déclaration et fait procéder aux formalités de publicité. 
 
+Lorsque la convention de pacte civil de solidarité est passée par acte notarié, le notaire instrumentaire recueille la
+déclaration conjointe, procède à l'enregistrement du pacte et fait procéder aux formalités de publicité prévues à l'alinéa
+précédent. 
+
 La convention par laquelle les partenaires modifient le pacte civil de solidarité est remise ou adressée au greffe du
-tribunal qui a reçu l'acte initial afin d'y être enregistrée.
+tribunal ou au notaire qui a reçu l'acte initial afin d'y être enregistrée.
 
 A l'étranger, l'enregistrement de la déclaration conjointe d'un pacte liant deux partenaires dont l'un au moins est de
 nationalité française et les formalités prévues aux troisième et cinquième alinéas sont assurés par les agents diplomatiques
@@ -22841,7 +22846,7 @@ et consulaires français ainsi que celles requises en cas de modification du pac
 
 	**Modifié par**:
 
-	  - Loi n°2009-1436 du 24 novembre 2009 - art. 37
+	  - Loi n°2011-331 du 28 mars 2011 - art. 12
 
 
 ###### Article 515-3-1
@@ -23049,33 +23054,36 @@ dispositions des deux premiers alinéas de l'article 763.
 ###### Article 515-7
 
 Le pacte civil de solidarité se dissout par la mort de l'un des partenaires ou par le mariage des partenaires ou de l'un
-d'eux. En ce cas, la dissolution prend effet à la date de l'événement.
+d'eux. En ce cas, la dissolution prend effet à la date de l'événement. 
 
-Le greffier du tribunal d'instance du lieu d'enregistrement du pacte civil de solidarité, informé du mariage ou du décès par
-l'officier de l'état civil compétent, enregistre la dissolution et fait procéder aux formalités de publicité.
+Le greffier du tribunal d'instance du lieu d'enregistrement du pacte civil de solidarité ou le notaire instrumentaire qui a
+procédé à l'enregistrement du pacte, informé du mariage ou du décès par l'officier de l'état civil compétent, enregistre la
+dissolution et fait procéder aux formalités de publicité. 
 
 Le pacte civil de solidarité se dissout également par déclaration conjointe des partenaires ou décision unilatérale de l'un
-d'eux.
+d'eux. 
 
 Les partenaires qui décident de mettre fin d'un commun accord au pacte civil de solidarité remettent ou adressent au greffe
-du tribunal d'instance du lieu de son enregistrement une déclaration conjointe à cette fin.
+du tribunal d'instance du lieu de son enregistrement ou au notaire instrumentaire qui a procédé à l'enregistrement du pacte
+une déclaration conjointe à cette fin. 
 
 Le partenaire qui décide de mettre fin au pacte civil de solidarité le fait signifier à l'autre. Une copie de cette
-signification est remise ou adressée au greffe du tribunal d'instance du lieu de son enregistrement.
+signification est remise ou adressée au greffe du tribunal d'instance du lieu de son enregistrement ou au notaire
+instrumentaire qui a procédé à l'enregistrement du pacte. 
 
-Le greffier enregistre la dissolution et fait procéder aux formalités de publicité.
+Le greffier ou le notaire enregistre la dissolution et fait procéder aux formalités de publicité. 
 
 La dissolution du pacte civil de solidarité prend effet, dans les rapports entre les partenaires, à la date de son
-enregistrement au greffe.
+enregistrement. 
 
 Elle est opposable aux tiers à partir du jour où les formalités de publicité ont été accomplies.
 
 A l'étranger, les fonctions confiées par le présent article au greffier du tribunal d'instance sont assurées par les agents
-diplomatiques et consulaires français, qui procèdent ou font procéder également aux formalités prévues au sixième alinéa.
+diplomatiques et consulaires français, qui procèdent ou font procéder également aux formalités prévues au sixième alinéa. 
 
 Les partenaires procèdent eux-mêmes à la liquidation des droits et obligations résultant pour eux du pacte civil de
 solidarité. A défaut d'accord, le juge statue sur les conséquences patrimoniales de la rupture, sans préjudice de la
-réparation du dommage éventuellement subi.
+réparation du dommage éventuellement subi. 
 
 Sauf convention contraire, les créances dont les partenaires sont titulaires l'un envers l'autre sont évaluées selon les
 règles prévues à l'article 1469. Ces créances peuvent être compensées avec les avantages que leur titulaire a pu retirer de
@@ -23118,11 +23126,11 @@ courante.
 
 	**Modifié par**:
 
-	  - Loi n°2007-308 2007-03-05 art. 1 3° JORF 7 mars 2007 en vigueur le 1er janvier 2009
+	  - Loi n°2011-331 du 28 mars 2011 - art. 12
 
 	**Cite**:
 
-	  - Code civil - art. 1469 (M)
+	  - Code civil - art. 1469
 
 	**Codifié par**:
 
@@ -27390,6 +27398,38 @@ conservé le droit de tous les autres.
 	**Créé par**:
 
 	  - Loi n°1804-01-31 promulguée le 10 février 1804
+
+
+## Titre V : De la publicité foncière
+
+### Chapitre unique : De la forme authentique des actes 
+
+
+
+
+###### Article 710-1
+
+Tout acte ou droit doit, pour donner lieu aux formalités de publicité foncière, résulter d'un acte reçu en la forme
+authentique par un notaire exerçant en France, d'une décision juridictionnelle ou d'un acte authentique émanant d'une
+autorité administrative. 
+
+Le dépôt au rang des minutes d'un notaire d'un acte sous seing privé, contresigné ou non, même avec reconnaissance d'écriture
+et de signature, ne peut donner lieu aux formalités de publicité foncière. Toutefois, même lorsqu'ils ne sont pas dressés en
+la forme authentique, les procès-verbaux des délibérations des assemblées générales préalables ou consécutives à l'apport de
+biens ou droits immobiliers à une société ou par une société ainsi que les procès-verbaux d'abornement peuvent être publiés
+au bureau des hypothèques à la condition d'être annexés à un acte qui en constate le dépôt au rang des minutes d'un notaire. 
+
+Le premier alinéa n'est pas applicable aux formalités de publicité foncière des assignations en justice, des commandements
+valant saisie, des différents actes de procédure qui s'y rattachent et des jugements d'adjudication, des documents portant
+limitation administrative au droit de propriété ou portant servitude administrative, des procès-verbaux établis par le
+service du cadastre, des documents d'arpentage établis par un géomètre et des modifications provenant de décisions
+administratives ou d'événements naturels.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-331 du 28 mars 2011 - art. 9
 
 
 # Livre III : Des différentes manières dont on acquiert la propriété
@@ -43785,6 +43825,22 @@ d'Etat.
 	**Codifié par**:
 
 	  - Loi n°1804-02-07
+
+
+###### Article 1317-1
+
+L'acte reçu en la forme authentique par un notaire est, sauf disposition dérogeant expressément au présent article, dispensé
+de toute mention manuscrite exigée par la loi.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-331 du 28 mars 2011 - art. 11
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
 
 
 ###### Article 1318

@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 2011-03-31
+Version Consolidée au 2011-04-01
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -70070,30 +70070,40 @@ Le présent code est applicable à Mayotte dans les conditions définies au pré
 
 ###### Article 2490
 
-Pour l'application du présent code à Mayotte, les termes énumérés ci-après sont remplacés comme suit :
+Pour l'application du présent code à Mayotte, les termes énumérés ci-après sont remplacés comme suit : 
 
-1° "Tribunal de grande instance" ou "tribunal d'instance" par : "tribunal de première instance" ;
+1° " Tribunal de grande instance " ou " tribunal d'instance " par : " tribunal de première instance " ; 
 
-2° "Cour" ou "cour d'appel" par : "tribunal supérieur d'appel" ;
+2° " Cour " ou " cour d'appel " par : "chambre d'appel de Mamoudzou" ; 
 
-3° "Juge d'instance" par : "président du tribunal de première instance ou son délégué" ;
+3° " Juge d'instance " par : " président du tribunal de première instance ou son délégué " ; 
 
-4° "Département" ou "arrondissement" par : "collectivité départementale" ;
+4° " Département " ou " arrondissement " par : " collectivité départementale " ; 
 
 5° (Supprimé) ;
 
-6° "Décret du 4 janvier 1955" par : "dispositions du titre IV du livre IV" ;
+6° " Décret du 4 janvier 1955 " par : " dispositions du titre IV du livre IV " ; 
 
-7° "Bureau des hypothèques" ou "conservation des hypothèques" par : "service de la conservation de la propriété
-immobilière" ;
+7° " Bureau des hypothèques " ou " conservation des hypothèques " par : " service de la conservation de la propriété
+immobilière " ; 
 
-8° "Conservateur des hypothèques" par : "conservateur de la propriété immobilière" ;
+8° " Conservateur des hypothèques " par : " conservateur de la propriété immobilière " ; 
 
-9° "Inscription à la conservation des hypothèques" par : "inscription au livre foncier" ;
+9° " Inscription à la conservation des hypothèques " par : " inscription au livre foncier " ; 
 
-10° "Fichier immobilier" par : "livre foncier".
+10° " Fichier immobilier " par : " livre foncier ".
+
+**Nota:**
+
+Aux termes de l'alinéa 6 de l'article 12 de l'ordonnance n° 2011-337 du 29 mars 2011, la référence au tribunal de première
+instance est remplacée par celle au tribunal de grande instance ou au tribunal d'instance conformément à la répartition des
+compétences fixées entre ces juridictions par le code de l'organisation judiciaire.
 
 **Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code civil - art. 2285 (T)
 
 	**Codifié par**:
 
@@ -70101,12 +70111,7 @@ immobilière" ;
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-870 du 28 juillet 2005 - art. 2 () JORF 29 juillet 2005 en vigueur le 1er janvier 2008
-
-	**Anciens textes**:
-
-	  - Code civil - art. 2285 (M)
-	  - Code civil - art. 2285 (T)
+	  - Ordonnance n°2011-337 du 29 mars 2011 - art. 12 (V)
 
 
 ## Titre préliminaire : Dispositions relatives au titre préliminaire
@@ -70162,36 +70167,6 @@ Le livre Ier est applicable à Mayotte sous réserve des dispositions ci-après.
 	**Codifié par**:
 
 	  - Loi n°1804-03-15
-
-
-###### Article 2493
-
-Pour son application à Mayotte, le premier alinéa de l'article 26 est ainsi rédigé : 
-
-" Les déclarations de nationalité sont reçues par le président du tribunal de première instance ou son délégué suivant les
-formes déterminées par décret en Conseil d'Etat. "
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1804-03-15
-
-	**Créé par**:
-
-	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 1 () JORF 24 mars 2006
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2011-337 du 29 mars 2011 - art. 2
-
-	**Anciens textes**:
-
-	  - Code civil - art. 2288 (T)
-
-	**Cite**:
-
-	  - Code civil - art. 26
 
 
 ###### Article 2499
@@ -70251,11 +70226,11 @@ Les articles 57, 62 et 316 sont applicables à Mayotte sous les réserves prévu
 ###### Article 2499-2
 
 Lorsqu'il existe des indices sérieux laissant présumer que la reconnaissance d'un enfant est frauduleuse, l'officier de
-l'état civil saisit le procureur de la République et en informe l'auteur de la reconnaissance.
+l'état civil saisit le procureur de la République et en informe l'auteur de la reconnaissance. 
 
 Le procureur de la République est tenu de décider, dans un délai de quinze jours à compter de sa saisine, soit de laisser
 l'officier de l'état civil enregistrer la reconnaissance ou mentionner celle-ci en marge de l'acte de naissance, soit qu'il y
-est sursis dans l'attente des résultats de l'enquête à laquelle il fait procéder, soit d'y faire opposition.
+est sursis dans l'attente des résultats de l'enquête à laquelle il fait procéder, soit d'y faire opposition. 
 
 La durée du sursis ainsi décidé ne peut excéder un mois, renouvelable une fois par décision spécialement motivée. Toutefois,
 lorsque l'enquête est menée, en totalité ou en partie, à l'étranger par l'autorité diplomatique ou consulaire, la durée du
@@ -70267,23 +70242,23 @@ décision motivée, s'il laisse procéder à l'enregistrement de la reconnaissan
 naissance de l'enfant.
 
 L'auteur de la reconnaissance peut contester la décision de sursis ou de renouvellement de celui-ci devant le tribunal de
-première instance, qui statue dans un délai de dix jours à compter de sa saisine. En cas d'appel, le tribunal supérieur
-d'appel statue dans le même délai.
+première instance, qui statue dans un délai de dix jours à compter de sa saisine. En cas d'appel,     la chambre d'appel de
+Mamoudzou statue dans le même délai.
 
 **Liens relatifs à cet article**
 
 	**Cité par**:
 
-	  - Code civil - art. 2499-1 (V)
 	  - Ordonnance n°96-1122 du 20 décembre 1996 - art. 20 (VD)
+	  - Code civil - art. 2499-1 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2011-337 du 29 mars 2011 - art. 12 (V)
 
 	**Codifié par**:
 
 	  - Loi n°1804-03-15
-
-	**Créé par**:
-
-	  - Loi n°2006-911 du 24 juillet 2006 - art. 108 () JORF 25 juillet 2006
 
 
 ###### Article 2499-3
@@ -70325,9 +70300,9 @@ sur l'acte de naissance de l'enfant, sauf si une expédition de la mainlevée de
 ###### Article 2499-4
 
 Le tribunal de première instance se prononce, dans un délai de dix jours à compter de sa saisine, sur la demande de mainlevée
-de l'opposition formée par l'auteur de la reconnaissance, même mineur.
+de l'opposition formée par l'auteur de la reconnaissance, même mineur. 
 
-En cas d'appel, le tribunal supérieur d'appel statue dans le même délai.
+En cas d'appel,     la chambre d'appel de Mamoudzou statue dans le même délai. 
 
 Le jugement rendu par défaut, rejetant l'opposition à l'enregistrement de la reconnaissance ou à sa mention en marge de
 l'acte de naissance de l'enfant, ne peut être contesté.
@@ -70338,9 +70313,9 @@ l'acte de naissance de l'enfant, ne peut être contesté.
 
 	  - Loi n°1804-03-15
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2006-911 du 24 juillet 2006 - art. 108 () JORF 25 juillet 2006
+	  - Ordonnance n°2011-337 du 29 mars 2011 - art. 12 (V)
 
 
 ###### Article 2499-5

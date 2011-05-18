@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 2011-05-01
+Version Consolidée au 2011-05-19
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -3163,10 +3163,10 @@ portés à quinze ans.
 
 ###### Article 26
 
-La déclaration de nationalité souscrite en raison du mariage avec un conjoint français est reçue par le représentant de
-l'État dans le département ou par le consul. Les autres déclarations de nationalité sont reçues par le greffier en chef du
-tribunal d'instance ou par le consul. Les formes suivant lesquelles ces déclarations sont reçues sont déterminées par décret
-en Conseil d'Etat.
+La  déclaration de nationalité souscrite en raison du mariage avec un  conjoint français est reçue par le représentant de
+l'Etat dans le  département ou, à Paris, le préfet de police, ou par le consul. Les autres déclarations de nationalité sont
+reçues par le greffier en chef du tribunal d'instance ou par le consul. Les formes suivant lesquelles ces déclarations sont
+reçues sont déterminées par décret en Conseil d'Etat.
 
 Il en est délivré récépissé après remise des pièces nécessaires à la preuve de leur recevabilité.
 
@@ -3198,7 +3198,7 @@ Il en est délivré récépissé après remise des pièces nécessaires à la pr
 
 	**Modifié par**:
 
-	  - Loi n°2009-526 du 12 mai 2009 - art. 12 (V)
+	  - Loi n°2011-525 du 17 mai 2011 - art. 18
 
 	**Anciens textes**:
 
@@ -4791,7 +4791,7 @@ la suite du rôle d'équipage.
 
 Toute personne qui justifie d'un intérêt légitime peut demander à changer de prénom. La demande est portée devant le juge aux
 affaires familiales à la requête de l'intéressé ou, s'il s'agit d'un mineur ou d'un majeur en tutelle, à la requête de son
-représentant légal. L'adjonction ou la suppression de prénoms peut pareillement être décidée.
+représentant légal. L'adjonction, la suppression ou la modification de l'ordre des prénoms peut pareillement être décidée. 
 
 Si l'enfant est âgé de plus de treize ans, son consentement personnel est requis.
 
@@ -4807,13 +4807,13 @@ Si l'enfant est âgé de plus de treize ans, son consentement personnel est requ
 	  - Code de procédure civile - art. 1055-2 (V)
 	  - Code de procédure civile - art. 1055-3 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2011-525 du 17 mai 2011 - art. 51
+
 	**Codifié par**:
 
 	  - Loi n°1803-03-11
-
-	**Modifié par**:
-
-	  - Loi n°2007-308 du 5 mars 2007 - art. 3 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
 
 
 ###### Article 61
@@ -5496,6 +5496,8 @@ L'acte de décès énoncera :
 
 4° Les prénoms et nom de l'autre époux, si la personne décédée était mariée, veuve ou divorcée ;
 
+4° bis Les prénoms et nom de l'autre partenaire, si la personne décédée était liée par un pacte civil de solidarité ;
+
 5° Les prénoms, nom, âge, profession et domicile du déclarant et, s'il y a lieu, son degré de parenté avec la personne
 décédée.
 
@@ -5521,13 +5523,13 @@ Il sera fait mention du décès en marge de l'acte de naissance de la personne d
 	  - Décret n°41-5050 du 31 décembre 1941 - art. 4-1 (Ab)
 	  - Loi n°41-1814 du 24 avril 1941 - art. 2 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2011-525 du 17 mai 2011 - art. 1
+
 	**Codifié par**:
 
 	  - Loi n°1803-03-11
-
-	**Créé par**:
-
-	  - Loi n°1803-03-11 promulguée le 21 mars 1803
 
 
 ###### Article 79-1
@@ -5646,35 +5648,6 @@ expédition sera inscrite sur les registres.
 	  - Loi n°1803-03-11 promulguée le 21 mars 1803
 
 
-###### Article 83
-
-Les greffiers criminels seront tenus d'envoyer, dans les vingt-quatre heures de l'exécution des jugements portant peine de
-mort, à l'officier de l'état civil du lieu où le condamné aura été exécuté, tous les renseignements énoncés en l'article 79,
-d'après lesquels l'acte de décès sera rédigé.
-
-**Nota:**
-
-La loi 81-908 du 9 octobre 1981 a aboli la peine de mort.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Loi n°2011-525 du 17 mai 2011 - art. 158
-
-	**Cite**:
-
-	  - Code civil - art. 79
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-11
-
-	**Créé par**:
-
-	  - Loi n°1803-03-11 promulguée le 21 mars 1803
-
-
 ###### Article 84
 
 En cas de décès dans les prisons ou maisons de réclusion ou de détention, il en sera donné avis sur-le-champ, par les
@@ -5702,23 +5675,23 @@ l'acte de décès.
 
 ###### Article 85
 
-Dans tous les cas de mort violente, ou dans les prisons et maisons de réclusion, ou d'exécution à mort, il ne sera fait sur
-les registres aucune mention de ces circonstances, et les actes de décès seront simplement rédigés dans les formes prescrites
-par l'article 79.
+Dans tous les cas de mort violente               ou survenue dans un établissement pénitentiaire, il ne sera fait sur les
+registres aucune mention de ces circonstances, et les actes de décès seront simplement rédigés dans les formes prescrites par
+l'article 79.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Loi n°2011-525 du 17 mai 2011 - art. 158
+
 	**Cite**:
 
-	  - Code civil - art. 79 (V)
+	  - Code civil - art. 79
 
 	**Codifié par**:
 
 	  - Loi n°1803-03-11
-
-	**Créé par**:
-
-	  - Loi n°1803-03-11 promulguée le 21 mars 1803
 
 
 ###### Article 86
@@ -5834,15 +5807,14 @@ du disparu ou, à défaut, au tribunal du lieu du port d'attache de l'aéronef o
 tout autre, le tribunal de grande instance de Paris est compétent.
 
 Si plusieurs personnes ont disparu au cours du même événement, une requête collective peut être présentée au tribunal du lieu
-de la disparition, à celui du port d'attache du bâtiment ou de l'aéronef ou, à défaut, au tribunal de grande instance de
-Paris.
+de la disparition, à celui du port d'attache du bâtiment ou de l'aéronef, au tribunal de grande instance de Paris ou à tout
+autre tribunal de grande instance que l'intérêt de la cause justifie.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Ordonnance 58-779 1958-08-23 art. 1 JORF 30 août 1958
-	  - Ordonnance 1945-10-30 art. 1
+	  - Loi n°2011-525 du 17 mai 2011 - art. 87
 
 	**Cité par**:
 
@@ -5852,10 +5824,6 @@ Paris.
 	**Codifié par**:
 
 	  - Loi n°1803-03-11
-
-	**Créé par**:
-
-	  - Loi n°1803-03-11 promulguée le 21 mars 1803
 
 
 ###### Article 90
@@ -7577,36 +7545,6 @@ dans les cas prévus aux articles 149, 150, 158 et 159 du présent code.
 	  - Loi n°1803-03-17 promulguée le 27 mars 1803
 
 
-###### Article 153
-
-Sera assimilé à l'ascendant dans l'impossibilité de manifester sa volonté l'ascendant subissant la peine de la relégation ou
-maintenu aux colonies en conformité de l'article 6 de la loi du 30 mai 1854 sur l'exécution de la peine des travaux forcés.
-Toutefois, les futurs époux auront toujours le droit de solliciter et de produire à l'officier de l'état civil le
-consentement donné par cet ascendant.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Loi n°2011-525 du 17 mai 2011 - art. 158
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°1803-03-17 promulguée le 27 mars 1803
-
-	**Cite**:
-
-	  - Loi n°1854-05-30 art. 6
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°70-643 1970-07-17
-
-
 ###### Article 154
 
 Le dissentiment entre le père et la mère, entre l'aïeul et l'aïeule de la même ligne, ou entre aïeuls des deux lignes peut
@@ -7981,8 +7919,8 @@ la publication et de tout délai ou de l'affichage de la publication seulement.
 
 ###### Article 171
 
-Le Président de la République peut, pour des motifs graves, autoriser la célébration du mariage si l'un des futurs époux est
-décédé après l'accomplissement de formalités officielles marquant sans équivoque son consentement.
+Le Président de la République peut, pour des motifs graves, autoriser la célébration du mariage en cas de décès de l'un des
+futurs époux, dès lors qu'une réunion suffisante de faits établit sans équivoque son consentement.
 
 Dans ce cas, les effets du mariage remontent à la date du jour précédant celui du décès de l'époux.
 
@@ -7990,6 +7928,10 @@ Toutefois, ce mariage n'entraîne aucun droit de succession ab intestat au profi
 matrimonial n'est réputé avoir existé entre les époux.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2011-525 du 17 mai 2011 - art. 19
 
 	**Cité par**:
 
@@ -7999,14 +7941,6 @@ matrimonial n'est réputé avoir existé entre les époux.
 	**Codifié par**:
 
 	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°1803-03-17 promulguée le 27 mars 1803
-
-	**Modifié par**:
-
-	  - Loi n°59-1583 1959-12-31 art. 23 JORF 8 janvier 1959
 
 
 ### Chapitre II bis : Du mariage des Français à l'étranger
@@ -13879,13 +13813,17 @@ Le parent, même mineur, à l'égard duquel la filiation est établie a, pendant
 exercer l'action en recherche de maternité ou de paternité. 
 
 Si aucun lien de filiation n'est établi ou si ce parent est décédé ou dans l'impossibilité de manifester sa volonté, l'action
-est intentée conformément aux dispositions de l'article 464, alinéa 3.
+est intentée par le tuteur conformément aux dispositions du deuxième alinéa de l'article 408.
 
 L'action est exercée contre le parent prétendu ou ses héritiers. A défaut d'héritiers ou si ceux-ci ont renoncé à la
 succession, elle est dirigée contre l'Etat. Les héritiers renonçants sont appelés à la procédure pour y faire valoir leurs
 droits.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2011-525 du 17 mai 2011 - art. 195
 
 	**Cité par**:
 
@@ -13894,33 +13832,20 @@ droits.
 
 	**Cite**:
 
-	  - Code civil - art. 464 (VD)
+	  - Code civil - art. 464
 
 	**Codifié par**:
 
 	  - Loi n°1803-03-14
-
-	**Liens**:
-
-	  - SPEC_APPLI: Ordonnance 2005-759 2005-07-04 art. 20 : Spécificité d'application
-
-	**Modifié par**:
-
-	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 14 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
-	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 3 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
 
 
 ###### Article 329
 
-Lorsque la présomption de paternité a été écartée en application des articles 313 ou 314, chacun des époux peut demander,
-durant la minorité de l'enfant, que ses effets soient rétablis en prouvant que le mari est le père. L'action est ouverte à
-l'enfant pendant les dix années qui suivent sa majorité.
+Lorsque la présomption de paternité a été écartée en application de l'article 313, chacun des époux peut demander, durant la
+minorité de l'enfant, que ses effets soient rétablis en prouvant que le mari est le père. L'action est ouverte à l'enfant
+pendant les dix années qui suivent sa majorité.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
 
 	**Cité par**:
 
@@ -13928,19 +13853,17 @@ l'enfant pendant les dix années qui suivent sa majorité.
 	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 20 (V)
 	  - Code civil - art. 315 (V)
 
-	**Liens**:
-
-	  - SPEC_APPLI: Ordonnance 2005-759 2005-07-04 art. 20 : Spécificité d'application
-
 	**Modifié par**:
 
-	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 14 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
-	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 3 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
+	  - Loi n°2011-525 du 17 mai 2011 - art. 195
 
 	**Cite**:
 
 	  - Code civil - art. 313 (V)
-	  - Code civil - art. 314 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
 
 
 ###### Article 330
@@ -21277,10 +21200,10 @@ Le mandat fixe les modalités de contrôle de son exécution.
 ###### Article 480
 
 Le mandataire peut être toute personne physique choisie par le mandant ou une personne morale inscrite sur la liste des
-mandataires judiciaires à la protection des majeurs prévue à l'article L. 471-2 du code de l'action sociale et des familles.
+mandataires judiciaires à la protection des majeurs prévue à l'article L. 471-2 du code de l'action sociale et des familles. 
 
 Le mandataire doit, pendant toute l'exécution du mandat, jouir de la capacité civile et remplir les conditions prévues pour
-les charges tutélaires par l'article 395 et le dernier alinéa de l'article 445 du présent code.
+les charges tutélaires par l'article 395 et les deux derniers alinéas de l'article 445 du présent code. 
 
 Il ne peut, pendant cette exécution, être déchargé de ses fonctions qu'avec l'autorisation du juge des tutelles.
 
@@ -21288,17 +21211,16 @@ Il ne peut, pendant cette exécution, être déchargé de ses fonctions qu'avec 
 
 	**Modifié par**:
 
-	  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
-
-	**Cite**:
-
-	  - Code civil - art. 395 (AbD)
-	  - Code civil - art. 445 (AbD)
-	  - Code de l'action sociale et des familles - art. L471-2 (VD)
+	  - Loi n°2011-525 du 17 mai 2011 - art. 195
 
 	**Nouveaux textes**:
 
 	  - Code civil - art. 413-5 (VD)
+
+	**Cite**:
+
+	  - Code civil - art. 445 (V)
+	  - Code de l'action sociale et des familles - art. L471-2 (V)
 
 	**Cité par**:
 
@@ -23225,8 +23147,8 @@ familiales est compétent pour :
 1° Interdire à la partie défenderesse de recevoir ou de rencontrer certaines personnes spécialement désignées par le juge aux
 affaires familiales, ainsi que d'entrer en relation avec elles, de quelque façon que ce soit ; 
 
-2° Interdire à la partie défenderesse de détenir ou de porter une arme et, le cas échéant, lui ordonner de remettre au greffe
-contre récépissé les armes dont elle est détentrice ; 
+2° Interdire à la partie défenderesse de détenir ou de porter une arme et, le cas échéant, lui ordonner de remettre au
+service de police ou de gendarmerie qu'il désigne les armes dont elle est détentrice en vue de leur dépôt au greffe ; 
 
 3° Statuer sur la résidence séparée des époux en précisant lequel des deux continuera à résider dans le logement conjugal et
 sur les modalités de prise en charge des frais afférents à ce logement. Sauf circonstances particulières, la jouissance de ce
@@ -23258,9 +23180,9 @@ morale qualifiée les coordonnées de la partie demanderesse, afin qu'elle la co
 
 	  - Loi n°91-647 du 10 juillet 1991 - art. 20
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2010-769 du 9 juillet 2010 - art. 1
+	  - Loi n°2011-525 du 17 mai 2011 - art. 20
 
 	**Cité par**:
 
@@ -34395,19 +34317,25 @@ Les mêmes règles seront observées à l'égard du ministre du culte.
 
 ###### Article 910
 
-Les dispositions entre vifs ou par testament au profit             d'établissements d'utilité publique n'ont leur effet
-qu'autant qu'elles sont autorisées par arrêté du représentant de l'Etat dans le département. 
+Les dispositions entre vifs ou par testament au profit             des établissements de santé, des établissements sociaux et
+médico-sociaux ou d'établissements d'utilité publique n'ont leur effet qu'autant qu'elles sont autorisées par arrêté du
+représentant de l'Etat dans le département. 
 
 Toutefois, les dispositions entre vifs ou par testament au profit des fondations, des congrégations et des associations ayant
-la capacité à recevoir des libéralités, à l'exception des associations ou fondations dont les activités ou celles de leurs
-dirigeants sont visées à l'article 1er de la loi n° 2001-504 du 12 juin 2001 tendant à renforcer la prévention et la
-répression des mouvements sectaires portant atteinte aux droits de l'homme et aux libertés fondamentales, sont acceptées
-librement par celles-ci. 
+la capacité à recevoir des libéralités et,  dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle, des
+établissements publics du culte et des associations inscrites de droit  local, à l'exception des associations ou fondations
+dont les activités ou celles de leurs dirigeants sont visées à l'article 1er de la loi n° 2001-504 du 12 juin 2001 tendant à
+renforcer la prévention et la répression des mouvements sectaires portant atteinte aux droits de l'homme et aux libertés
+fondamentales, sont acceptées librement par celles-ci. 
 
 Si le représentant de l'Etat dans le département constate que l'organisme légataire ou donataire ne satisfait pas aux
 conditions légales exigées pour avoir la capacité juridique à recevoir des libéralités ou qu'il n'est pas apte à utiliser la
 libéralité conformément à son objet statutaire, il peut former opposition à la libéralité, dans des conditions précisées par
 décret, la privant ainsi d'effet.
+
+Les  libéralités consenties à des Etats étrangers ou à des établissements  étrangers habilités par leur droit national à
+recevoir des libéralités  sont acceptées librement par ces Etats ou par ces établissements, sauf  opposition formée par
+l'autorité compétente, dans des conditions fixées  par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
@@ -34441,7 +34369,8 @@ décret, la privant ainsi d'effet.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2010-177 du 23 février 2010 - art. 27
+	  - Loi n°2009-526 du 12 mai 2009 - art. 111 (V)
+	  - Loi n°2011-525 du 17 mai 2011 - art. 21
 
 	**Liens**:
 
@@ -60581,7 +60510,7 @@ Le tuteur ne peut transiger pour le mineur ou le majeur en tutelle que conformé
 minorité, de la tutelle et de l'émancipation " ; et il ne peut transiger avec le mineur devenu majeur, sur le compte de
 tutelle, que conformément à l'article 472 au même titre. 
 
-Les communes et établissements publics ne peuvent transiger qu'avec l'autorisation expresse du roi (du Premier ministre).
+Les établissements publics de l'Etat ne peuvent transiger qu'avec l'autorisation expresse du Premier ministre.
 
 **Liens relatifs à cet article**
 
@@ -60596,18 +60525,18 @@ Les communes et établissements publics ne peuvent transiger qu'avec l'autorisat
 	  - Décret n°2009-1199 du 8 octobre 2009 (V)
 	  - Décret n°2015-281 du 11 mars 2015 - art. (V)
 
+	**Modifié par**:
+
+	  - Loi n°2011-525 du 17 mai 2011 - art. 158
+
 	**Cite**:
 
-	  - Code civil - art. 467 (VT)
-	  - Code civil - art. 472 (VT)
+	  - Code civil - art. 467
+	  - Code civil - art. 472
 
 	**Codifié par**:
 
 	  - Loi n°1804-03-20
-
-	**Créé par**:
-
-	  - Loi n°1804-03-20 promulguée le 30 mars 1804
 
 
 ###### Article 2046
@@ -63474,29 +63403,25 @@ montant de la créance garantie et de ces accessoires au moins annuellement à l
 
 ###### Article 2294
 
-Les engagements des cautions passent à leurs héritiers, à l'exception de la contrainte judiciaire, si l'engagement était tel
-que la caution y fût obligée.
+Les engagements des cautions passent à leurs héritiers          si l'engagement était tel que la caution y fût obligée.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Loi n°1804-02-14
-
 	**Modifié par**:
 
-	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 2 () JORF 24 mars 2006
-	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 4 () JORF 24 mars 2006
-	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 5 () JORF 24 mars 2006
+	  - Loi n°2011-525 du 17 mai 2011 - art. 158
 
 	**Anciens textes**:
 
-	  - Code civil - art. 2017 (M)
 	  - Code civil - art. 2017 (T)
 
 	**Nouveaux textes**:
 
 	  - Code civil - art. 2500 (VD)
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-14
 
 
 ###### Article 2295
@@ -64195,27 +64120,22 @@ ce cas, poursuivre le débiteur pour le forcer au paiement.
 ###### Article 2317
 
 Toutes les fois qu'une personne est obligée, par la loi ou par une condamnation, à fournir une caution, la caution offerte
-doit remplir les conditions prescrites par les articles 2295 et 2296. 
-
-Lorsqu'il s'agit d'un cautionnement judiciaire, la caution doit, en outre, être susceptible de contrainte judiciaire.
+doit remplir les conditions prescrites par les articles 2295 et 2296.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 2 () JORF 24 mars 2006
-	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 4 () JORF 24 mars 2006
-	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 5 () JORF 24 mars 2006
+	  - Loi n°2011-525 du 17 mai 2011 - art. 158
 
 	**Anciens textes**:
 
-	  - Code civil - art. 2040 (M)
 	  - Code civil - art. 2040 (T)
 
 	**Cite**:
 
-	  - Code civil - art. 2295 (V)
-	  - Code civil - art. 2296 (V)
+	  - Code civil - art. 2295
+	  - Code civil - art. 2296
 
 	**Nouveaux textes**:
 

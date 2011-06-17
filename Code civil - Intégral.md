@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 2011-05-19
+Version Consolidée au 2011-06-18
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -1500,7 +1500,8 @@ en mesure d'apporter la preuve que son conjoint français a été inscrit pendan
 l'étranger au registre des Français établis hors de France. En outre, le mariage célébré à l'étranger doit avoir fait l'objet
 d'une transcription préalable sur les registres de l'état civil français. 
 
-Le conjoint étranger doit en outre justifier d'une connaissance suffisante, selon sa condition, de la langue française.
+Le conjoint étranger doit également justifier d'une connaissance suffisante, selon sa condition, de la langue française, dont
+le niveau et les modalités d'évaluation sont fixés par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
@@ -1522,6 +1523,10 @@ Le conjoint étranger doit en outre justifier d'une connaissance suffisante, sel
 	  - Code civil - art. 26 (V)
 	  - Code civil - art. 26-3 (V)
 	  - Code civil - art. 26-4 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2011-672 du 16 juin 2011 - art. 3
 
 	**Cite**:
 
@@ -2090,14 +2095,12 @@ Le stage mentionné à l'article 21-17 est réduit à deux ans :
 1° Pour l'étranger qui a accompli avec succès deux années d'études supérieures en vue d'acquérir un diplôme délivré par une
 université ou un établissement d'enseignement supérieur français ; 
 
-2° Pour celui qui a rendu ou qui peut rendre par ses capacités et ses talents des services importants à la France.
+2° Pour celui qui a rendu ou qui peut rendre par ses capacités et ses talents des services importants à la France ;
+
+3° Pour l'étranger qui présente un parcours exceptionnel d'intégration, apprécié au regard des activités menées ou des
+actions accomplies dans les domaines civique, scientifique, économique, culturel ou sportif.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code de la nationalité française 63
-	  - Code de la nationalité française. - art. 63 (Ab)
 
 	**Cité par**:
 
@@ -2109,11 +2112,15 @@ université ou un établissement d'enseignement supérieur français ;
 
 	**Codifié par**:
 
-	  - Loi n°93-933 1993-07-22
+	  - Loi n°93-933 du 22 juillet 1993
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°93-933 du 22 juillet 1993 - art. 50 () JORF 23 juillet 1993
+	  - Loi n°2011-672 du 16 juin 2011 - art. 1
+
+	**Anciens textes**:
+
+	  - Code de la nationalité française. - art. 63 (Ab)
 
 
 ###### Article 21-19
@@ -2278,13 +2285,19 @@ prononçant la naturalisation ne pourra être pris qu'après avis conforme du Co
 ###### Article 21-24
 
 Nul ne peut être naturalisé s'il ne justifie de son assimilation à la communauté française, notamment par une connaissance
-suffisante, selon sa condition, de la langue française et des droits et devoirs conférés par la nationalité française.
+suffisante, selon sa condition, de la langue, de l'histoire, de la culture et de la société françaises, dont le niveau et les
+modalités d'évaluation sont fixés par décret en Conseil d'Etat, et des droits et devoirs conférés par la nationalité
+française ainsi que par l'adhésion aux principes et aux valeurs essentiels de la République.
+
+A l'issue du contrôle de son assimilation, l'intéressé signe la charte des droits et devoirs du citoyen français. Cette
+charte, approuvée par décret en Conseil d'Etat, rappelle les principes, valeurs et symboles essentiels de la République
+française.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Loi n°93-933 1993-07-22
+	  - Loi n°93-933 du 22 juillet 1993
 
 	**Cité par**:
 
@@ -2298,7 +2311,7 @@ suffisante, selon sa condition, de la langue française et des droits et devoirs
 
 	**Modifié par**:
 
-	  - Loi n°2003-1119 du 26 novembre 2003 - art. 68 () JORF 27 novembre 2003
+	  - Loi n°2011-672 du 16 juin 2011 - art. 2
 
 	**Anciens textes**:
 
@@ -2468,46 +2481,63 @@ code de procédure pénale.
 	  - Code de la nationalité française. - art. 79 (Ab)
 
 
+###### Article 21-27-1
+
+Lors de son acquisition de la nationalité française par décision de l'autorité publique ou par déclaration, l'intéressé
+indique à l'autorité compétente la ou les nationalités qu'il possède déjà, la ou les nationalités qu'il conserve en plus de
+la nationalité française ainsi que la ou les nationalités auxquelles il entend renoncer.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-672 du 16 juin 2011 - art. 4
+
+
 ##### Paragraphe 7 : De la cérémonie d'accueil dans la citoyenneté française
 
 ###### Article 21-28
 
 Le représentant de l'Etat dans le département ou, à Paris, le préfet de police organise, dans un délai de six mois à compter
 de l'acquisition de la nationalité française, une cérémonie d'accueil dans la citoyenneté française à l'intention des
-personnes résidant dans le département visées aux articles 21-2, 21-11, 21-12, 21-14, 21-14-1, 21-15, 24-1, 24-2 et 32-4 du
-présent code ainsi qu'à l'article 2 de la loi n° 64-1328 du 26 décembre 1964 autorisant l'approbation de la convention du
-Conseil de l'Europe sur la réduction des cas de pluralité de nationalités et sur les obligations militaires en cas de
-pluralité de nationalités, signée à Strasbourg le 6 mai 1963. 
+personnes résidant dans le département visées aux articles 21-2,21-11,21-12,21-14,21-14-1,21-15,24-1,24-2 et 32-4 du présent
+code ainsi qu'à l'article 2 de la loi n° 64-1328 du 26 décembre 1964 autorisant l'approbation de la convention du Conseil de
+l'Europe sur la réduction des cas de pluralité de nationalités et sur les obligations militaires en cas de pluralité de
+nationalités, signée à Strasbourg le 6 mai 1963. 
 
 Les députés et les sénateurs élus dans le département sont invités à la cérémonie d'accueil. 
 
 Les personnes ayant acquis de plein droit la nationalité française en application de l'article 21-7 sont invitées à cette
 cérémonie dans un délai de six mois à compter de la délivrance du certificat de nationalité française mentionné à l'article
-31.
+31. 
+
+Au cours de la cérémonie d'accueil, la charte des droits et devoirs du citoyen français mentionnée à l'article 21-24 est
+remise aux personnes ayant acquis la nationalité française visées aux premier et troisième alinéas.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Loi n°93-933 1993-07-22
-
-	**Créé par**:
-
-	  - Loi n°2006-911 du 24 juillet 2006 - art. 85 () JORF 25 juillet 2006
-	  - Loi n°2006-911 du 24 juillet 2006 - art. 86 () JORF 25 juillet 2006
-
 	**Cite**:
 
-	  - Code civil - art. 21-11 (V)
-	  - Code civil - art. 21-12 (V)
-	  - Code civil - art. 21-14 (V)
-	  - Code civil - art. 21-14-1 (V)
-	  - Code civil - art. 21-15 (V)
-	  - Code civil - art. 21-2 (V)
-	  - Code civil - art. 21-7 (V)
-	  - Code civil - art. 24-1 (V)
-	  - Code civil - art. 24-2 (V)
-	  - Code civil - art. 32-4 (V)
+	  - Loi n°64-1328 du 26 décembre 1964, v. init.
+	  - Code civil - art. 21-11
+	  - Code civil - art. 21-12
+	  - Code civil - art. 21-14
+	  - Code civil - art. 21-14-1
+	  - Code civil - art. 21-15
+	  - Code civil - art. 21-2
+	  - Code civil - art. 21-24
+	  - Code civil - art. 21-7
+	  - Code civil - art. 24-1
+	  - Code civil - art. 24-2
+	  - Code civil - art. 32-4
+
+	**Codifié par**:
+
+	  - Loi n°93-933 du 22 juillet 1993
+
+	**Modifié par**:
+
+	  - Loi n°2011-672 du 16 juin 2011 - art. 5
 
 	**Cité par**:
 
@@ -3266,12 +3296,13 @@ Le ministre ou le greffier en chef du tribunal d'instance refuse d'enregistrer l
 conditions légales. 
 
 Sa décision motivée est notifiée au déclarant qui peut la contester devant le tribunal de grande instance durant un délai de
-six mois.L'action peut être exercée personnellement par le mineur dès l'âge de seize ans. 
+six mois. L'action peut être exercée personnellement par le mineur dès l'âge de seize ans. 
 
 La décision de refus d'enregistrement doit intervenir six mois au plus après la date à laquelle a été délivré au déclarant le
 récépissé constatant la remise de toutes les pièces nécessaires à la preuve de recevabilité de la déclaration. 
 
-Le délai est porté à un an pour les déclarations souscrites en vertu de l'article 21-2.
+Le délai est porté à un an pour les déclarations souscrites en vertu de l'article 21-2. Dans le cas où une procédure
+d'opposition est engagée par le Gouvernement en application de l'article 21-4, ce délai est porté à deux ans.
 
 **Liens relatifs à cet article**
 
@@ -3282,11 +3313,12 @@ Le délai est porté à un an pour les déclarations souscrites en vertu de l'ar
 
 	**Modifié par**:
 
-	  - Loi n°2009-526 du 12 mai 2009 - art. 12 (V)
+	  - Loi n°2011-672 du 16 juin 2011 - art. 7
 
 	**Cite**:
 
 	  - Code civil - art. 21-2
+	  - Code civil - art. 21-4
 
 	**Anciens textes**:
 
@@ -3411,20 +3443,15 @@ déchéance de cette nationalité, sont pris et publiés dans des formes fixées
 ###### Article 27-2
 
 Les décrets portant acquisition, naturalisation ou réintégration peuvent être rapportés sur avis conforme du Conseil d'Etat
-dans le délai d'un an à compter de leur publication au Journal officiel si le requérant ne satisfait pas aux conditions
+dans le délai   de deux ans à compter de leur publication au Journal officiel si le requérant ne satisfait pas aux conditions
 légales ; si la décision a été obtenue par mensonge ou fraude, ces décrets peuvent être rapportés dans le délai de deux ans à
 partir de la découverte de la fraude.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Code de la nationalité française 112
-	  - Code de la nationalité française. - art. 112 (Ab)
-
 	**Codifié par**:
 
-	  - Loi n°93-933 1993-07-22
+	  - Loi n°93-933 du 22 juillet 1993
 
 	**Cité par**:
 
@@ -3432,7 +3459,11 @@ partir de la découverte de la fraude.
 
 	**Modifié par**:
 
-	  - Loi n°99-1141 du 29 décembre 1999 - art. 3 () JORF 30 décembre 1999
+	  - Loi n°2011-672 du 16 juin 2011 - art. 6
+
+	**Anciens textes**:
+
+	  - Code de la nationalité française. - art. 112 (Ab)
 
 
 ###### Article 27-3

@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 2011-07-09
+Version Consolidée au 2011-09-01
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -60901,34 +60901,62 @@ raison d'une activité professionnelle.
 	  - Loi n°2001-420 du 15 mai 2001 - art. 126 () JORF 16 mai 2001
 
 
+## Titre XVII : De la convention de procédure participative
+
 ###### Article 2062
 
-(article abrogé).
+La convention de procédure participative est une convention par laquelle les parties à un différend qui n'a pas encore donné
+lieu à la saisine d'un juge ou d'un arbitre s'engagent à œuvrer conjointement et de bonne foi à la résolution amiable de leur
+différend.
+
+Cette convention est conclue pour une durée déterminée.
+
+**Nota:**
+
+LOI n° 2010-1609 du 22 décembre 2010 art 43 : les dispositions de l'article 2062 du code civil entrent en vigueur dans les
+conditions fixées par le décret modifiant le code de procédure civile nécessaire à leur application et au plus tard le 1er
+septembre 2011.
 
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°72-626 du 5 juillet 1972
+
+	**Modifié par**:
+
+	  - Loi n°2010-1609 du 22 décembre 2010 - art. 37
 
 	**Cité par**:
 
 	  - Code de procédure civile - art. 1542 (V)
 
-	**Créé par**:
-
-	  - Loi n°1804-03-16 promulguée le 26 mars 1804
-
-	**Codifié par**:
-
-	  - Loi n°72-626 1972-07-05
-
 
 ###### Article 2063
 
-(article abrogé).
+La convention de procédure participative est, à peine de nullité, contenue dans un écrit qui précise :
+
+1° Son terme ;
+
+2° L'objet du différend ;
+
+3° Les pièces et informations nécessaires à la résolution du différend et les modalités de leur échange.
+
+**Nota:**
+
+LOI n° 2010-1609 du 22 décembre 2010 art 43 : les dispositions de l'article 2063 du code civil entrent en vigueur dans les
+conditions fixées par le décret modifiant le code de procédure civile nécessaire à leur application et au plus tard le 1er
+septembre 2011.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Loi n°72-626 1972-07-05
+	  - Loi n°72-626 du 5 juillet 1972
+
+	**Modifié par**:
+
+	  - Loi n°2010-1609 du 22 décembre 2010 - art. 37
 
 	**Cité par**:
 
@@ -60937,58 +60965,94 @@ raison d'une activité professionnelle.
 	  - Code de procédure civile - art. 1560 (V)
 	  - Code de procédure civile - art. 1564-1 (V)
 
-	**Créé par**:
-
-	  - Loi n°1804-03-16 promulguée le 26 mars 1804
-
 
 ###### Article 2064
 
-(article abrogé).
+Toute personne, assistée de son avocat, peut conclure une convention de procédure participative sur les droits dont elle a la
+libre disposition, sous réserve des dispositions de l'article 2067. 
+
+Toutefois, aucune convention ne peut être conclue à l'effet de résoudre les différends qui s'élèvent à l'occasion de tout
+contrat de travail soumis aux dispositions du code du travail entre les employeurs, ou leurs représentants, et les salariés
+qu'ils emploient.
+
+**Nota:**
+
+LOI n° 2010-1609 du 22 décembre 2010 art 43 : les dispositions de l'article 2064 du code civil entrent en vigueur dans les
+conditions fixées par le décret modifiant le code de procédure civile nécessaire à leur application et au plus tard le 1er
+septembre 2011.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Loi n°72-626 1972-07-05
+	  - Loi n°72-626 du 5 juillet 1972
+
+	**Modifié par**:
+
+	  - Loi n°2010-1609 du 22 décembre 2010 - art. 37
+
+	**Cite**:
+
+	  - Code civil - art. 2067
 
 	**Cité par**:
 
 	  - Code de procédure civile - art. 1529 (M)
 
-	**Créé par**:
-
-	  - Loi n°1804-03-16 promulguée le 26 mars 1804
-
 
 ###### Article 2065
 
-(article abrogé).
+Tant qu'elle est en cours, la convention de procédure participative rend irrecevable tout recours au juge pour qu'il statue
+sur le litige. Toutefois, l'inexécution de la convention par l'une des parties autorise une autre partie à saisir le juge
+pour qu'il statue sur le litige.
+
+En cas d'urgence, la convention ne fait pas obstacle à ce que des mesures provisoires ou conservatoires soient demandées par
+les parties.
+
+**Nota:**
+
+LOI n° 2010-1609 du 22 décembre 2010 art 43 : les dispositions de l'article 2065 du code civil entrent en vigueur dans les
+conditions fixées par le décret modifiant le code de procédure civile nécessaire à leur application et au plus tard le 1er
+septembre 2011.
 
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°72-626 du 5 juillet 1972
+
+	**Modifié par**:
+
+	  - Loi n°2010-1609 du 22 décembre 2010 - art. 37
 
 	**Cité par**:
 
 	  - Code de procédure civile - art. 1556 (V)
 
-	**Créé par**:
-
-	  - Loi n°1804-03-16 promulguée le 26 mars 1804
-
-	**Codifié par**:
-
-	  - Loi n°72-626 1972-07-05
-
 
 ###### Article 2066
 
-(article abrogé).
+Les parties qui, au terme de la convention de procédure participative, parviennent à un accord réglant en tout ou partie leur
+différend peuvent soumettre cet accord à l'homologation du juge.
+
+Lorsque, faute de parvenir à un accord au terme de la convention, les parties soumettent leur litige au juge, elles sont
+dispensées de la conciliation ou de la médiation préalable le cas échéant prévue.
+
+**Nota:**
+
+LOI n° 2010-1609 du 22 décembre 2010 art 43 : les dispositions de l'article 2066 du code civil entrent en vigueur dans les
+conditions fixées par le décret modifiant le code de procédure civile nécessaire à leur application et au plus tard le 1er
+septembre 2011.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Loi n°72-626 1972-07-05
+	  - Loi n°72-626 du 5 juillet 1972
+
+	**Modifié par**:
+
+	  - Loi n°2010-1609 du 22 décembre 2010 - art. 37
 
 	**Cité par**:
 
@@ -60997,43 +61061,56 @@ raison d'une activité professionnelle.
 	  - Code de procédure civile - art. 1529 (V)
 	  - Code de procédure civile - art. 1558 (V)
 
-	**Créé par**:
-
-	  - Loi n°1804-03-16 promulguée le 26 mars 1804
-
 
 ###### Article 2067
 
-(article abrogé).
+Une convention de procédure participative peut être conclue par des époux en vue de rechercher une solution consensuelle en
+matière de divorce ou de séparation de corps.
+
+L'article 2066 n'est pas applicable en la matière. La demande en divorce ou en séparation de corps présentée à la suite d'une
+convention de procédure participative est formée et jugée suivant les règles prévues au titre VI du livre Ier relatif au
+divorce.
+
+**Nota:**
+
+LOI n° 2010-1609 du 22 décembre 2010 art 43 : les dispositions de l'article 2067 du code civil entrent en vigueur dans les
+conditions fixées par le décret modifiant le code de procédure civile nécessaire à leur application et au plus tard le 1er
+septembre 2011.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Loi n°72-626 1972-07-05
+	  - Loi n°72-626 du 5 juillet 1972
+
+	**Modifié par**:
+
+	  - Loi n°2010-1609 du 22 décembre 2010 - art. 37
 
 	**Cité par**:
 
 	  - Code civil - art. 2064 (V)
 
-	**Créé par**:
-
-	  - Loi n°1804-03-16 promulguée le 26 mars 1804
-
 
 ###### Article 2068
 
-(article abrogé).
+La procédure participative est régie par le code de procédure civile.
+
+**Nota:**
+
+LOI n° 2010-1609 du 22 décembre 2010 art 43 : les dispositions de l'article 2068 du code civil entrent en vigueur dans les
+conditions fixées par le décret modifiant le code de procédure civile nécessaire à leur application et au plus tard le 1er
+septembre 2011.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Loi n°1804-03-16 promulguée le 26 mars 1804
-
 	**Codifié par**:
 
-	  - Loi n°72-626 1972-07-05
+	  - Loi n°72-626 du 5 juillet 1972
+
+	**Modifié par**:
+
+	  - Loi n°2010-1609 du 22 décembre 2010 - art. 37
 
 
 ## Titre XIX : De la saisie et de la distribution du prix de vente de l'immeuble
@@ -62346,17 +62423,20 @@ contre la succession.
 
 La prescription est suspendue à compter du jour où, après la survenance d'un litige, les parties conviennent de recourir à la
 médiation ou à la conciliation ou, à défaut d'accord écrit, à compter du jour de la première réunion de médiation ou de
-conciliation. 
+conciliation. La prescription est également suspendue à compter de la conclusion d'une convention de procédure participative.
 
 Le délai de prescription recommence à courir, pour une durée qui ne peut être inférieure à six mois, à compter de la date à
 laquelle soit l'une des parties ou les deux, soit le médiateur ou le conciliateur déclarent que la médiation ou la
-conciliation est terminée.
+conciliation est terminée. En cas de convention de procédure participative, le délai de prescription recommence à courir à
+compter du terme de la convention, pour une durée qui ne peut être inférieure à six mois.
+
+**Nota:**
+
+LOI n° 2010-1609 du 22 décembre 2010 art 43 : l'article 2238 du code civil, dans sa rédaction issue de la présente loi, entre
+en vigueur dans les conditions fixées par le décret modifiant le code de procédure civile nécessaire à son application et au
+plus tard le 1er septembre 2011.
 
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°2008-561 du 17 juin 2008 - art. 1
 
 	**Cité par**:
 
@@ -62367,13 +62447,17 @@ conciliation est terminée.
 	  - Code monétaire et financier - art. L316-1 (VD)
 	  - Code monétaire et financier - art. L621-19 (V)
 
-	**Liens**:
+	**Modifié par**:
 
-	  - TXT_ASSOCIE: Code civil - art. 2236 (V)
+	  - Loi n°2010-1609 du 22 décembre 2010 - art. 37
 
 	**Cite**:
 
-	  - Code civil - art. 2236 (V)
+	  - Code civil - art. 2236
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code civil - art. 2236 (V)
 
 
 ###### Article 2239

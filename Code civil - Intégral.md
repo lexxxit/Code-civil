@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 2011-09-01
+Version Consolidée au 2011-12-15
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -4584,12 +4584,13 @@ pourront se pourvoir contre le jugement.
 
 ###### Article 55
 
-Les déclarations de naissance sont faites dans les trois jours de l'accouchement, à l'officier de l'état civil du lieu.
+Les déclarations de naissance sont faites dans les trois jours de l'accouchement, à l'officier de l'état civil du lieu. 
 
 Lorsqu'une naissance n'a pas été déclarée dans le délai légal, l'officier de l'état civil ne peut la relater sur ses
 registres qu'en vertu d'un jugement rendu par le tribunal de l'arrondissement dans lequel est né l'enfant, et mention
 sommaire en est faite en marge à la date de la naissance. Si le lieu de la naissance est inconnu, le tribunal compétent est
-celui du domicile du requérant.
+celui du domicile du requérant. Le nom de l'enfant est déterminé en application des règles énoncées aux articles 311-21 et
+311-23. 
 
 En pays étranger, les déclarations aux agents diplomatiques ou consulaires sont faites dans les quinze jours de
 l'accouchement. Toutefois, ce délai peut être prolongé par décret dans certaines circonscriptions consulaires.
@@ -4619,7 +4620,12 @@ l'accouchement. Toutefois, ce délai peut être prolongé par décret dans certa
 
 	**Modifié par**:
 
-	  - Loi n°2006-728 du 23 juin 2006 - art. 29 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+	  - Loi n°2011-1862 du 13 décembre 2011 - art. 16
+
+	**Cite**:
+
+	  - Code civil - art. 311-21
+	  - Code civil - art. 311-23
 
 	**Codifié par**:
 
@@ -13516,8 +13522,8 @@ caractère divisible du lien de filiation ainsi établi.
 
 ###### Article 317
 
-Chacun des parents ou l'enfant peut demander au juge que lui soit délivré un acte de notoriété qui fera foi de la possession
-d'état jusqu'à preuve contraire.
+Chacun des parents ou l'enfant peut demander au juge du tribunal d'instance du lieu de naissance ou de leur domicile que lui
+soit délivré un acte de notoriété qui fera foi de la possession d'état jusqu'à preuve contraire.
 
 L'acte de notoriété est établi sur la foi des déclarations d'au moins trois témoins et, si le juge l'estime nécessaire, de
 tout autre document produit qui attestent une réunion suffisante de faits au sens de l'article 311-1. 
@@ -13535,7 +13541,7 @@ Ni l'acte de notoriété, ni le refus de le délivrer ne sont sujets à recours.
 
 	**Modifié par**:
 
-	  - Loi n°2011-331 du 28 mars 2011 - art. 13
+	  - Loi n°2011-1862 du 13 décembre 2011 - art. 19
 
 	**Cité par**:
 
@@ -15256,8 +15262,8 @@ Si l'adopté est âgé de plus de treize ans, il doit consentir personnellement 
 
 ###### Article 361
 
-Les dispositions des articles 343 à 344, du dernier alinéa de l'article 345, des articles 346 à 350, 353, 353-1, 353-2, 355
-et des deux derniers alinéas de l'article 357 sont applicables à l'adoption simple.
+Les dispositions des articles 343 à 344, du dernier alinéa de l'article 345, des articles 346 à 350,353,353-1,353-2,355 et
+des trois derniers alinéas de l'article 357 sont applicables à l'adoption simple.
 
 **Liens relatifs à cet article**
 
@@ -15269,17 +15275,17 @@ et des deux derniers alinéas de l'article 357 sont applicables à l'adoption si
 
 	**Modifié par**:
 
-	  - Loi n°2010-1609 du 22 décembre 2010 - art. 28
+	  - Loi n°2011-1862 du 13 décembre 2011 - art. 20
 
 	**Cite**:
 
-	  - Code civil - art. 343 (V)
-	  - Code civil - art. 345 (V)
+	  - Code civil - art. 343
+	  - Code civil - art. 345
 	  - Code civil - art. 346 (V)
-	  - Code civil - art. 353 (V)
-	  - Code civil - art. 353-1 (V)
-	  - Code civil - art. 353-2 (V)
-	  - Code civil - art. 355 (V)
+	  - Code civil - art. 353
+	  - Code civil - art. 353-1
+	  - Code civil - art. 353-2
+	  - Code civil - art. 355
 	  - Code civil - art. 357
 
 	**Codifié par**:
@@ -15426,8 +15432,8 @@ d'origine.
 L'adoptant est seul investi à l'égard de l'adopté de tous les droits d'autorité parentale, inclus celui de consentir au
 mariage de l'adopté, à moins qu'il ne soit le conjoint du père ou de la mère de l'adopté ; dans ce cas, l'adoptant a
 l'autorité parentale concurremment avec son conjoint, lequel en conserve seul l'exercice, sous réserve d'une déclaration
-conjointe avec l'adoptant devant le greffier en chef du tribunal de grande instance aux fins d'un exercice en commun de cette
-autorité.
+conjointe avec l'adoptant adressée au greffier en chef du tribunal de grande instance aux fins d'un exercice en commun de
+cette autorité.
 
 Les droits d'autorité parentale sont exercés par le ou les adoptants dans les conditions prévues par le chapitre Ier du titre
 IX du présent livre.
@@ -15436,24 +15442,17 @@ Les règles de l'administration légale et de la tutelle des mineurs s'appliquen
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 11 (V)
-	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 12 (V)
-	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 13 (V)
-	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 7 (V)
-
 	**Modifié par**:
 
-	  - Loi n°2002-305 du 4 mars 2002 - art. 5 () JORF 5 mars 2002
+	  - Loi n°2011-1862 du 13 décembre 2011 - art. 21
 
 	**Cité par**:
 
 	  - Code de procédure civile - art. 1180-1 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
 
 
 ###### Article 366
@@ -15646,24 +15645,17 @@ conditions prévues à l'article 362.
 
 ###### Article 370-2
 
-La révocation fait cesser pour l'avenir tous les effets de l'adoption.
+La révocation fait cesser pour l'avenir tous les effets de l'adoption, à l'exception de la modification des prénoms.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2011-1862 du 13 décembre 2011 - art. 20
 
 	**Codifié par**:
 
 	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°66-500 du 11 juillet 1966 - art. 1 () JORF 12 juillet 1966 en vigueur le 1er novembre 1966
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 11 (V)
-	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 12 (V)
-	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 13 (V)
-	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 7 (V)
 
 
 ### Chapitre III : Du conflit des lois relatives à la filiation adoptive et de l'effet en France des adoptions prononcées à l'étranger
@@ -15966,15 +15958,10 @@ Toutefois, lorsque la filiation est établie à l'égard de l'un d'entre eux plu
 filiation est déjà établie à l'égard de l'autre, celui-ci reste seul investi de l'exercice de l'autorité parentale. Il en est
 de même lorsque la filiation est judiciairement déclarée à l'égard du second parent de l'enfant.
 
-L'autorité parentale pourra néanmoins être exercée en commun en cas de déclaration conjointe des père et mère devant le
+L'autorité parentale pourra néanmoins être exercée en commun en cas de déclaration conjointe des père et mère adressée au
 greffier en chef du tribunal de grande instance ou sur décision du juge aux affaires familiales.
 
 **Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°93-22 1993-01-08 art. 46 *dérogations*
-	  - SPEC_APPLI: Loi n°2002-305 2002-03-04 art. 11 II (dispositions transitoires - enfants nés avant le 5 mars 2002), art. 19 I (application à Mayotte)
 
 	**Cité par**:
 
@@ -15987,7 +15974,7 @@ greffier en chef du tribunal de grande instance ou sur décision du juge aux aff
 
 	**Modifié par**:
 
-	  - Loi n°2002-305 du 4 mars 2002 - art. 5 () JORF 5 mars 2002
+	  - Loi n°2011-1862 du 13 décembre 2011 - art. 21
 
 	**Codifié par**:
 

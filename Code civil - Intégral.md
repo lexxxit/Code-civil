@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 2012-06-01
+Version Consolidée au 2012-06-02
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -69501,39 +69501,6 @@ Les dispositions intéressant les immeubles ne s'appliquent que sous réserve de
 	  - Code civil - art. 2504
 	  - Code civil - art. 711
 	  - Code civil - art. 832-4
-
-
-###### Article 2504
-
-Ne sont pas applicables à Mayotte les dispositions de l'article 831-1 et celles des deuxième, troisième, quatrième et dernier
-alinéas de l'article 832-1.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°2006-728 du 23 juin 2006 - art. 40 (V) JORF 24 juin 2006 en vigueur le 1er janvier 2007
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2012-789 du 31 mai 2012 - art. 18
-
-	**Anciens textes**:
-
-	  - Code civil - art. 2298 (T)
-
-	**Cité par**:
-
-	  - Code civil - art. 2503 (V)
-
-	**Cite**:
-
-	  - Code civil - art. 831-1
-	  - Code civil - art. 832-1
-
-	**Codifié par**:
-
-	  - Loi n°1804-03-15
 
 
 ###### Article 2505

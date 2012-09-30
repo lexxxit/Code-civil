@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 2012-06-02
+Version Consolidée au 2012-10-01
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -69567,7 +69567,7 @@ dispositions du titre IV du présent livre et des dispositions suivantes :
 1° Le 4° de l'article 2331 est applicable à Mayotte dans les conditions suivantes : 
 
 a) Au premier alinéa, les mots : " articles L. 143-10, L. 143-11, L. 742-6 et L. 751-15 du code du travail " sont remplacés
-par les mots : " articles L. 143-9 et L. 143-10 du code du travail applicable dans la collectivité départementale de Mayotte
+par les mots : " articles L. 143-17 et L. 143-18 du code du travail applicable dans la collectivité départementale de Mayotte
 " ; 
 
 b) Le troisième alinéa n'est pas applicable ; 
@@ -69618,7 +69618,7 @@ dépôts des actes et documents à inscrire.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-870 du 28 juillet 2005 - art. 5 () JORF 29 juillet 2005 en vigueur le 1er janvier 2008
+	  - Ordonnance n°2012-792 du 7 juin 2012 - art. 8 (V)
 
 	**Anciens textes**:
 
@@ -69626,13 +69626,13 @@ dépôts des actes et documents à inscrire.
 
 	**Cite**:
 
-	  - Code civil - art. 2331 (V)
-	  - Code civil - art. 2332 (V)
-	  - Code civil - art. 2377 (V)
-	  - Code civil - art. 2425 (V)
-	  - Code civil - art. 2431 (V)
-	  - Code civil - art. 2453 (V)
-	  - Code du travail - art. L122-21 (Ab)
+	  - Code civil - art. 2331
+	  - Code civil - art. 2332
+	  - Code civil - art. 2377
+	  - Code civil - art. 2425
+	  - Code civil - art. 2431
+	  - Code civil - art. 2453
+	  - Code du travail - art. L122-21
 
 	**Codifié par**:
 

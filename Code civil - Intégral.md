@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 2013-01-01
+Version Consolidée au 2013-05-19
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -126,6 +126,18 @@ On ne peut déroger, par des conventions particulières, aux lois qui intéresse
 	**Créé par**:
 
 	  - Loi n°1803-03-05 promulguée le 15 mars 1803
+
+
+###### Article 6-1
+
+Le mariage et la filiation adoptive emportent les mêmes effets, droits et obligations reconnus par les lois, à l'exclusion de
+ceux prévus au titre VII du livre Ier du présent code, que les époux ou les parents soient de sexe différent ou de même sexe.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-404 du 17 mai 2013 - art. 13
 
 
 # Livre Ier : Des personnes
@@ -4248,7 +4260,7 @@ l'état civil, les prénoms, noms, professions et domiciles de tous ceux qui y s
 
 Les dates et lieux de naissance :
 
-a) Des père et mère dans les actes de naissance et de reconnaissance ;
+a) Des parents dans les actes de naissance et de reconnaissance ;
 
 b) De l'enfant dans les actes de reconnaissance ;
 
@@ -4268,13 +4280,25 @@ seule indiquée.
 	  - Code civil - art. 2492 (VD)
 	  - Code civil - art. 58 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2013-404 du 17 mai 2013 - art. 13
+
 	**Codifié par**:
 
 	  - Loi n°1803-03-11
 
+
+###### Article 34-1
+
+Les actes de l'état civil sont établis par les officiers de l'état civil. Ces derniers exercent leurs fonctions sous le
+contrôle du procureur de la République.
+
+**Liens relatifs à cet article**
+
 	**Créé par**:
 
-	  - Loi n°1803-03-11 promulguée le 21 mars 1803
+	  - Loi n°2013-404 du 17 mai 2013 - art. 2
 
 
 ###### Article 35
@@ -5362,8 +5386,8 @@ internationales contraires, que lorsqu'il y a lieu de le produire devant les aut
 
 ###### Article 74
 
-Le mariage sera célébré dans la commune où l'un des deux époux aura son domicile ou sa résidence établie par un mois au moins
-d'habitation continue à la date de la publication prévue par la loi.
+Le mariage sera célébré, au choix des époux, dans la commune où l'un d'eux, ou l'un de leurs parents, aura son domicile ou sa
+résidence établie par un mois au moins d'habitation continue à la date de la publication prévue par la loi.
 
 **Liens relatifs à cet article**
 
@@ -5372,13 +5396,13 @@ d'habitation continue à la date de la publication prévue par la loi.
 	  - Loi n°2009-594 du 27 mai 2009 - art. 58 (V)
 	  - Code civil - art. 171-9 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2013-404 du 17 mai 2013 - art. 3
+
 	**Codifié par**:
 
 	  - Loi n°1803-03-11
-
-	**Créé par**:
-
-	  - Loi n°1803-03-11 promulguée le 21 mars 1803
 
 
 ###### Article 74-1
@@ -5404,9 +5428,8 @@ ou, le cas échéant, désignent les nouveaux témoins choisis par eux.
 ###### Article 75
 
 Le jour désigné par les parties, après le délai de publication, l'officier de l'état civil, à la mairie, en présence d'au
-moins deux témoins, ou de quatre au plus, parents ou non des parties, fera lecture aux futurs époux des articles 212, 213
-(alinéas 1er et 2), 214 (alinéa 1er), 215 (alinéa 1er) et 220 du présent code. Il sera également fait lecture de l'article
-371-1. 
+moins deux témoins, ou de quatre au plus, parents ou non des parties, fera lecture aux futurs époux des articles 212 et 213,
+du premier alinéa des articles 214 et 215, et de l'article 371-1 du présent code. 
 
 Toutefois, en cas d'empêchement grave, le procureur de la République du lieu du mariage pourra requérir l'officier de l'état
 civil de se transporter au domicile ou à la résidence de l'une des parties pour célébrer le mariage. En cas de péril imminent
@@ -5414,7 +5437,7 @@ de mort de l'un des futurs époux, l'officier de l'état civil pourra s'y transp
 du procureur de la République, auquel il devra ensuite, dans le plus bref délai, faire part de la nécessité de cette
 célébration hors de la maison commune. 
 
-Mention en sera faite dans l'acte de mariage.
+Mention en sera faite dans l'acte de mariage. 
 
 L'officier de l'état civil interpellera les futurs époux, et, s'ils sont mineurs, leurs ascendants présents à la célébration
 et autorisant le mariage, d'avoir à déclarer s'il a été fait un contrat de mariage et, dans le cas de l'affirmative, la date
@@ -5424,8 +5447,8 @@ Si les pièces produites par l'un des futurs époux ne concordent point entre el
 des noms, il interpellera celui qu'elles concernent, et s'il est mineur, ses plus proches ascendants présents à la
 célébration, d'avoir à déclarer que le défaut de concordance résulte d'une omission ou d'une erreur. 
 
-Il recevra de chaque partie, l'une après l'autre, la déclaration qu'elles veulent se prendre pour mari et femme : il
-prononcera, au nom de la loi, qu'elles sont unies par le mariage, et il en dressera acte sur-le-champ.
+Il recevra de chaque partie, l'une après l'autre, la déclaration qu'elles veulent se prendre pour époux : il prononcera, au
+nom de la loi, qu'elles sont unies par le mariage, et il en dressera acte sur-le-champ.
 
 **Liens relatifs à cet article**
 
@@ -5440,14 +5463,14 @@ prononcera, au nom de la loi, qu'elles sont unies par le mariage, et il en dress
 
 	**Modifié par**:
 
-	  - Loi n°2010-737 du 1er juillet 2010 - art. 8
+	  - Loi n°2013-404 du 17 mai 2013 - art. 13
+	  - Loi n°2013-404 du 17 mai 2013 - art. 4
 
 	**Cite**:
 
 	  - Code civil - art. 212
 	  - Code civil - art. 213
 	  - Code civil - art. 214
-	  - Code civil - art. 215
 	  - Code civil - art. 371-1
 
 
@@ -7379,15 +7402,26 @@ Le mariage de l'absent reste dissous, même si le jugement déclaratif d'absence
 
 ### Chapitre Ier : Des qualités et conditions requises pour pouvoir contracter mariage
 
-###### Article 144
+###### Article 143
 
-L'homme et la femme ne peuvent contracter mariage avant dix-huit ans révolus.
+Le mariage est contracté par deux personnes de sexe différent ou de même sexe.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2006-399 du 4 avril 2006 - art. 1 () JORF 5 avril 2006
+	  - Loi n°2013-404 du 17 mai 2013 - art. 1
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 144
+
+Le mariage ne peut être contracté avant dix-huit ans révolus.
+
+**Liens relatifs à cet article**
 
 	**Cité par**:
 
@@ -7397,6 +7431,10 @@ L'homme et la femme ne peuvent contracter mariage avant dix-huit ans révolus.
 	  - Code civil - art. 171-7 (V)
 	  - Code civil - art. 171-8 (V)
 	  - Code civil - art. 184 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2013-404 du 17 mai 2013 - art. 1
 
 	**Codifié par**:
 
@@ -7806,17 +7844,13 @@ En ligne directe, le mariage est prohibé entre tous les ascendants et descendan
 
 ###### Article 162
 
-En ligne collatérale, le mariage est prohibé, entre le frère et la soeur.
+En ligne collatérale, le mariage est prohibé, entre le frère et la soeur, entre frères et entre sœurs.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
-
-	  - SPEC_APPLI: Ordonnance 2005-759 2005-07-04 art. 20 : Spécificité d'application
-
 	**Modifié par**:
 
-	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 17 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
+	  - Loi n°2013-404 du 17 mai 2013 - art. 1
 
 	**Cité par**:
 
@@ -7834,17 +7868,13 @@ En ligne collatérale, le mariage est prohibé, entre le frère et la soeur.
 
 ###### Article 163
 
-Le mariage est encore prohibé entre l'oncle et la nièce, la tante et le neveu.
+Le mariage est prohibé entre l'oncle et la nièce ou le neveu, et entre la tante et le neveu ou la nièce.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
-
-	  - SPEC_APPLI: Ordonnance 2005-759 2005-07-04 art. 20 : Spécificité d'application
-
 	**Modifié par**:
 
-	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 17 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
+	  - Loi n°2013-404 du 17 mai 2013 - art. 1
 
 	**Cité par**:
 
@@ -7867,13 +7897,13 @@ Néanmoins, il est loisible au Président de la République de lever, pour des c
 
 2° (Abrogé) ; 
 
-3° Par l'article 163 aux mariages entre l'oncle et la nièce, la tante et le neveu.
+3° Par l'article 163.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°75-617 1975-07-11 art. 9 JORF 12 juillet 1975 en vigueur le 1er juillet 1976
+	  - Loi n°2013-404 du 17 mai 2013 - art. 1
 
 	**Cité par**:
 
@@ -7886,25 +7916,21 @@ Néanmoins, il est loisible au Président de la République de lever, pour des c
 
 	**Cite**:
 
-	  - Code civil - art. 161 (V)
-	  - Code civil - art. 163 (V)
+	  - Code civil - art. 161
+	  - Code civil - art. 163
 
 	**Codifié par**:
 
 	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°1803-03-17 promulguée le 27 mars 1803
 
 
 ### Chapitre II : Des formalités relatives à la célébration du mariage
 
 ###### Article 165
 
-Le mariage sera célébré publiquement devant l'officier de l'état civil de la commune où l'un des époux aura son domicile ou
-sa résidence à la date de la publication prévue par l'article 63, et, en cas de dispense de publication, à la date de la
-dispense prévue à l'article 169 ci-après.
+Le mariage sera célébré publiquement lors d'une cérémonie républicaine par  l'officier de l'état civil de la commune dans
+laquelle l'un des époux, ou l'un de leurs parents, aura son domicile ou sa résidence à la date de la publication prévue par
+l'article 63, et, en cas de dispense de publication, à la date de la dispense prévue à l'article 169 ci-après.
 
 **Liens relatifs à cet article**
 
@@ -7914,18 +7940,19 @@ dispense prévue à l'article 169 ci-après.
 	  - Code civil - art. 171-9 (V)
 	  - Code civil - art. 193 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2013-404 du 17 mai 2013 - art. 3
+	  - Loi n°2013-404 du 17 mai 2013 - art. 5
+
 	**Cite**:
 
-	  - Code civil - art. 169 (V)
-	  - Code civil - art. 63 (V)
+	  - Code civil - art. 169
+	  - Code civil - art. 63
 
 	**Codifié par**:
 
 	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°1803-03-17 promulguée le 27 mars 1803
 
 
 ###### Article 166
@@ -8288,6 +8315,35 @@ en application des articles 180 et 184.
 	**Codifié par**:
 
 	  - Loi n°1803-03-14
+
+
+#### Section 4 : De l'impossibilité pour les Français établis hors de France de célébrer leur mariage à l'étranger
+
+###### Article 171-9
+
+Par dérogation aux articles 74 et 165, lorsque les futurs époux de même sexe, dont l'un au moins a la nationalité française,
+ont leur domicile ou leur résidence dans un pays qui n'autorise pas le mariage entre deux personnes de même sexe et dans
+lequel les autorités diplomatiques et consulaires françaises ne peuvent procéder à sa célébration, le mariage est célébré
+publiquement par l'officier de l'état civil de la commune de naissance ou de dernière résidence de l'un des époux ou de la
+commune dans laquelle l'un de leurs parents a son domicile ou sa résidence établie dans les conditions prévues à l'article
+74. A défaut, le mariage est célébré par l'officier de l'état civil de la commune de leur choix. 
+
+La compétence territoriale de l'officier de l'état civil de la commune choisie par les futurs époux résulte du dépôt par
+ceux-ci d'un dossier constitué à cette fin au moins un mois avant la publication prévue à l'article 63. L'officier de l'état
+civil peut demander à l'autorité diplomatique ou consulaire territorialement compétente de procéder à l'audition prévue à ce
+même article 63.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-404 du 17 mai 2013 - art. 6
+
+	**Cite**:
+
+	  - Code civil - art. 165
+	  - Code civil - art. 63
+	  - Code civil - art. 74
 
 
 ### Chapitre III : Des oppositions au mariage
@@ -8969,6 +9025,35 @@ Le juge statue sur les modalités de l'exercice de l'autorité parentale comme e
 	**Modifié par**:
 
 	  - Loi n°93-22 du 8 janvier 1993 - art. 34 () JORF 9 janvier 1993
+
+
+### Chapitre IV bis : Des règles de conflit de lois
+
+###### Article 202-1
+
+Les qualités et conditions requises pour pouvoir contracter mariage sont régies, pour chacun des époux, par sa loi
+personnelle. 
+
+Toutefois, deux personnes de même sexe peuvent contracter mariage lorsque, pour au moins l'une d'elles, soit sa loi
+personnelle, soit la loi de l'Etat sur le territoire duquel elle a son domicile ou sa résidence le permet.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-404 du 17 mai 2013 - art. 1
+
+
+###### Article 202-2
+
+Le mariage est valablement célébré s'il l'a été conformément aux formalités prévues par la loi de l'Etat sur le territoire
+duquel la célébration a eu lieu.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-404 du 17 mai 2013 - art. 1
 
 
 ### Chapitre V : Des obligations qui naissent du mariage
@@ -9774,6 +9859,18 @@ Chacun des époux administre, oblige et aliène seul ses biens personnels.
 	**Cité par**:
 
 	  - Ordonnance n°2002-1476 du 19 décembre 2002 - art. 10 (VD)
+
+
+###### Article 225-1
+
+Chacun des époux peut porter, à titre d'usage, le nom de l'autre époux, par substitution ou adjonction à son propre nom dans
+l'ordre qu'il choisit.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-404 du 17 mai 2013 - art. 10
 
 
 ###### Article 226
@@ -13207,14 +13304,17 @@ naissance ou par la suite mais simultanément, ces derniers choisissent le nom d
 père, soit le nom de la mère, soit leurs deux noms accolés dans l'ordre choisi par eux dans la limite d'un nom de famille
 pour chacun d'eux. En l'absence de déclaration conjointe à l'officier de l'état civil mentionnant le choix du nom de
 l'enfant, celui-ci prend le nom de celui de ses parents à l'égard duquel sa filiation est établie en premier lieu et le nom
-de son père si sa filiation est établie simultanément à l'égard de l'un et de l'autre. 
+de son père si sa filiation est établie simultanément à l'égard de l'un et de l'autre. En cas de désaccord entre les parents,
+signalé par l'un d'eux à l'officier de l'état civil, au plus tard au jour de la déclaration de naissance ou après la
+naissance, lors de l'établissement simultané de la filiation, l'enfant prend leurs deux noms, dans la limite du premier nom
+de famille pour chacun d'eux, accolés selon l'ordre alphabétique. 
 
 En cas de naissance à l'étranger d'un enfant dont l'un au moins des parents est français, les parents qui n'ont pas usé de la
 faculté de choix du nom dans les conditions du précédent alinéa peuvent effectuer une telle déclaration lors de la demande de
 transcription de l'acte, au plus tard dans les trois ans de la naissance de l'enfant. 
 
-Lorsqu'il a déjà été fait application du présent article ou du deuxième alinéa de l'article 311-23 à l'égard d'un enfant
-commun, le nom précédemment dévolu ou choisi vaut pour les autres enfants communs. 
+Lorsqu'il a déjà été fait application du présent article, du deuxième alinéa de l'article 311-23 ou de l'article 357 à
+l'égard d'un enfant commun, le nom précédemment dévolu ou choisi vaut pour les autres enfants communs. 
 
 Lorsque les parents ou l'un d'entre eux portent un double nom de famille, ils peuvent, par une déclaration écrite conjointe,
 ne transmettre qu'un seul nom à leurs enfants.
@@ -13245,14 +13345,9 @@ ne transmettre qu'un seul nom à leurs enfants.
 	  - Code civil - art. 357-1 (V)
 	  - Code civil - art. 55 (V)
 
-	**Liens**:
-
-	  - SPEC_APPLI: Ordonnance 2005-759 2005-07-04 art. 20 : Spécificité d'application
-
 	**Modifié par**:
 
-	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 3 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
-	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 8 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
+	  - Loi n°2013-404 du 17 mai 2013 - art. 11
 
 	**Codifié par**:
 
@@ -13298,9 +13393,9 @@ conjointe devant l'officier de l'état civil, choisir soit de lui substituer le 
 filiation a été établie en second lieu, soit d'accoler leurs deux noms, dans l'ordre choisi par eux, dans la limite d'un nom
 de famille pour chacun d'eux. Le changement de nom est mentionné en marge de l'acte de naissance. 
 
-Toutefois, lorsqu'il a déjà été fait application de l'article 311-21 ou du deuxième alinéa du présent article à l'égard d'un
-autre enfant commun, la déclaration de changement de nom ne peut avoir d'autre effet que de donner le nom précédemment dévolu
-ou choisi. 
+Toutefois, lorsqu'il a déjà été fait application de l'article 311-21, du deuxième alinéa du présent article ou de l'article
+357 à l'égard d'un autre enfant commun, la déclaration de changement de nom ne peut avoir d'autre effet que de donner le nom
+précédemment dévolu ou choisi. 
 
 Si l'enfant a plus de treize ans, son consentement personnel est nécessaire.
 
@@ -13320,7 +13415,7 @@ Si l'enfant a plus de treize ans, son consentement personnel est nécessaire.
 
 	**Modifié par**:
 
-	  - Loi n°2009-61 du 16 janvier 2009 - art. 1
+	  - Loi n°2013-404 du 17 mai 2013 - art. 11
 
 	**Nouveaux textes**:
 
@@ -14457,6 +14552,9 @@ L'adoption plénière de l'enfant du conjoint est permise :
 
 1° Lorsque l'enfant n'a de filiation légalement établie qu'à l'égard de ce conjoint ;
 
+1° bis Lorsque l'enfant a fait l'objet d'une adoption plénière par ce seul conjoint et n'a de filiation établie qu'à son
+égard ;
+
 2° Lorsque l'autre parent que le conjoint s'est vu retirer totalement l'autorité parentale ;
 
 3° Lorsque l'autre parent que le conjoint est décédé et n'a pas laissé d'ascendants au premier degré ou lorsque ceux-ci se
@@ -14466,7 +14564,7 @@ sont manifestement désintéressés de l'enfant.
 
 	**Modifié par**:
 
-	  - Loi n°96-604 du 5 juillet 1996 - art. 4 () JORF 6 juillet 1996
+	  - Loi n°2013-404 du 17 mai 2013 - art. 7
 
 	**Codifié par**:
 
@@ -14946,21 +15044,24 @@ que les requérants sont aptes à accueillir l'enfant et que celle-ci est confor
 ###### Article 353-2
 
 La tierce opposition à l'encontre du jugement d'adoption n'est recevable qu'en cas de dol ou de fraude imputable aux
-adoptants.
+adoptants. 
+
+Constitue un dol au sens du premier alinéa la dissimulation au tribunal du maintien des liens entre l'enfant adopté et un
+tiers, décidé par le juge aux affaires familiales sur le fondement de l'article 371-4.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-604 du 5 juillet 1996 - art. 11 () JORF 6 juillet 1996
+	  - Loi n°2013-404 du 17 mai 2013 - art. 9
 
 	**Cité par**:
 
 	  - Code civil - art. 361 (V)
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - Code civil 353-1 (1ère version)
+	  - Code civil - art. 371-4
 
 	**Codifié par**:
 
@@ -15096,23 +15197,23 @@ famille. Elle produit, pour le surplus, les effets d'une adoption par deux épou
 
 L'adoption confère à l'enfant le nom de l'adoptant. 
 
-En cas d'adoption par deux époux, le nom conféré à l'enfant est déterminé en application des règles énoncées à l'article
-311-21.
+En cas d'adoption de l'enfant du conjoint ou d'adoption d'un enfant par deux époux, l'adoptant et son conjoint ou les
+adoptants choisissent, par déclaration conjointe, le nom de famille dévolu à l'enfant : soit le nom de l'un d'eux, soit leurs
+deux noms accolés dans l'ordre choisi par eux, dans la limite d'un nom de famille pour chacun d'eux. 
 
-Sur la demande du ou des adoptants, le tribunal peut modifier les prénoms de l'enfant. 
+Cette faculté de choix ne peut être exercée qu'une seule fois. 
 
-Si l'adoptant est une femme mariée ou un homme marié, le tribunal peut, dans le jugement d'adoption, décider, à la demande de
-l'adoptant, que le nom de son conjoint, sous réserve du consentement de celui-ci, sera conféré à l'enfant. Le tribunal peut
-également, à la demande de l'adoptant et sous réserve du consentement de son conjoint, conférer à l'enfant les noms accolés
-des époux dans l'ordre choisi par eux et dans la limite d'un nom de famille pour chacun d'eux. 
+En l'absence de déclaration conjointe mentionnant le choix de nom de l'enfant, celui-ci prend le nom de l'adoptant et de son
+conjoint ou de chacun des deux adoptants, dans la limite du premier nom de famille pour chacun d'eux, accolés selon l'ordre
+alphabétique. 
 
-Si le mari ou la femme de l'adoptant est décédé ou dans l'impossibilité de manifester sa volonté, le tribunal apprécie
-souverainement après avoir consulté les héritiers du défunt ou ses successibles les plus proches.
+Lorsqu'il a été fait application de l'article 311-21, du deuxième alinéa de l'article 311-23 ou du présent article à l'égard
+d'un enfant commun, le nom précédemment dévolu ou choisi vaut pour l'adopté. 
 
-**Nota:**
+Lorsque les adoptants ou l'un d'entre eux portent un double nom de famille, ils peuvent, par une déclaration écrite
+conjointe, ne transmettre qu'un seul nom à l'adopté. 
 
-L'article 13 de la loi n° 2003-516 a reporté au 1er janvier 2005 la date initiale du 1er septembre 2003, prévue par l'article
-25 de la loi n° 2002-304.
+Sur la demande du ou des adoptants, le tribunal peut modifier les prénoms de l'enfant.
 
 **Liens relatifs à cet article**
 
@@ -15126,16 +15227,9 @@ L'article 13 de la loi n° 2003-516 a reporté au 1er janvier 2005 la date initi
 	  - Code civil - art. 357-1 (V)
 	  - Code civil - art. 361 (V)
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 11 (V)
-	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 12 (V)
-	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 13 (V)
-	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 7 (V)
-
 	**Modifié par**:
 
-	  - Loi n°2002-304 du 4 mars 2002 - art. 15 () JORF 5 mars 2002 en vigueur le 1er janvier 2005
+	  - Loi n°2013-404 du 17 mai 2013 - art. 11
 
 	**Codifié par**:
 
@@ -15144,8 +15238,8 @@ L'article 13 de la loi n° 2003-516 a reporté au 1er janvier 2005 la date initi
 
 ###### Article 357-1
 
-Les dispositions de l'article 311-21 sont applicables à l'enfant qui a fait l'objet d'une adoption régulièrement prononcée à
-l'étranger ayant en France les effets de l'adoption plénière. 
+A l'exception de son dernier alinéa, l'article 357 est applicable à l'enfant qui a fait l'objet d'une adoption régulièrement
+prononcée à l'étranger ayant en France les effets de l'adoption plénière. 
 
 Les adoptants exercent l'option qui leur est ouverte par cet article lors de la demande de transcription du jugement
 d'adoption, par déclaration adressée au procureur de la République du lieu où cette transcription doit être opérée. 
@@ -15155,24 +15249,19 @@ demande. Mention de cette déclaration est portée dans la décision.
 
 La mention du nom choisi est opérée à la diligence du procureur de la République, dans l'acte de naissance de l'enfant.
 
-**Nota:**
-
-L'article 13 de la loi n° 2003-516 a reporté au 1er janvier 2005 la date initiale du 1er septembre 2003, prévue par l'article
-25 de la loi n° 2002-304.
-
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°2002-304 du 4 mars 2002 - art. 15 () JORF 5 mars 2002 en vigueur le 1er janvier 2005
 
 	**Cité par**:
 
 	  - Décret n°2004-1159 du 29 octobre 2004 - art. 4-1 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2013-404 du 17 mai 2013 - art. 11
+
 	**Cite**:
 
-	  - Code civil - art. 311-21 (V)
+	  - Code civil - art. 357
 
 	**Codifié par**:
 
@@ -15243,13 +15332,12 @@ L'adoption simple est permise quel que soit l'âge de l'adopté.
 
 S'il est justifié de motifs graves, l'adoption simple d'un enfant ayant fait l'objet d'une adoption plénière est permise.
 
+L'enfant précédemment adopté par une seule personne, en la forme simple ou plénière, peut l'être une seconde fois, par le
+conjoint de cette dernière, en la forme simple. 
+
 Si l'adopté est âgé de plus de treize ans, il doit consentir personnellement à l'adoption.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
 
 	**Cité par**:
 
@@ -15257,13 +15345,17 @@ Si l'adopté est âgé de plus de treize ans, il doit consentir personnellement 
 
 	**Modifié par**:
 
-	  - Loi n°96-604 du 5 juillet 1996 - art. 13 () JORF 6 juillet 1996
+	  - Loi n°2013-404 du 17 mai 2013 - art. 8
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
 
 
 ###### Article 361
 
-Les dispositions des articles 343 à 344, du dernier alinéa de l'article 345, des articles 346 à 350,353,353-1,353-2,355 et
-des trois derniers alinéas de l'article 357 sont applicables à l'adoption simple.
+Les dispositions des articles 343 à 344, du dernier alinéa de l'article 345, des articles 346 à 350, 353, 353-1, 353-2, 355
+et du dernier alinéa de l'article 357 sont applicables à l'adoption simple.
 
 **Liens relatifs à cet article**
 
@@ -15275,13 +15367,13 @@ des trois derniers alinéas de l'article 357 sont applicables à l'adoption simp
 
 	**Modifié par**:
 
-	  - Loi n°2011-1862 du 13 décembre 2011 - art. 20
+	  - Loi n°2013-404 du 17 mai 2013 - art. 12
 
 	**Cite**:
 
 	  - Code civil - art. 343
 	  - Code civil - art. 345
-	  - Code civil - art. 346 (V)
+	  - Code civil - art. 346
 	  - Code civil - art. 353
 	  - Code civil - art. 353-1
 	  - Code civil - art. 353-2
@@ -15324,30 +15416,29 @@ est mentionnée ou transcrite sur les registres de l'état civil à la requête 
 
 ###### Article 363
 
-L'adoption simple confère le nom de l'adoptant à l'adopté en l'ajoutant au nom de ce dernier.
+L'adoption simple confère le nom de l'adoptant à l'adopté en l'ajoutant au nom de ce dernier. Toutefois, si l'adopté est
+majeur, il doit consentir à cette adjonction. 
 
-Lorsque l'adopté et l'adoptant, ou l'un d'entre eux, portent un double nom de famille, le nom conféré à l'adopté résulte de
-l'adjonction du nom de l'adoptant à son propre nom, dans la limite d'un nom pour chacun d'eux. Le choix appartient à
-l'adoptant, qui doit recueillir le consentement de l'adopté âgé de plus de treize ans. En cas de désaccord ou à défaut de
-choix, le nom conféré à l'adopté résulte de l'adjonction du premier nom de l'adoptant au premier nom de l'adopté.
+Lorsque l'adopté et l'adoptant, ou l'un d'eux, portent un double nom de famille, le nom conféré à l'adopté résulte de
+l'adjonction du nom de l'adoptant à son propre nom, dans la limite d'un seul nom pour chacun d'eux. Le choix du nom adjoint
+ainsi que l'ordre des deux noms appartient à l'adoptant, qui doit recueillir le consentement personnel de l'adopté âgé de
+plus de treize ans. En cas de désaccord ou à défaut de choix, le nom conféré à l'adopté résulte de l'adjonction en seconde
+position du premier nom de l'adoptant au premier nom de l'adopté. 
 
-En cas d'adoption par deux époux, le nom ajouté au nom de l'adopté est, à la demande des adoptants, soit celui du mari, soit
-celui de la femme, dans la limite d'un nom pour chacun d'eux et, à défaut d'accord entre eux, le premier nom du mari. Si
-l'adopté porte un double nom de famille, le choix du nom conservé appartient aux adoptants, qui doivent recueillir le
-consentement de l'adopté âgé de plus de treize ans. En cas de désaccord ou à défaut de choix, le nom des adoptants retenu est
-ajouté au premier nom de l'adopté.
+En cas d'adoption par deux époux, le nom ajouté à celui de l'adopté est, à la demande des adoptants, celui de l'un d'eux,
+dans la limite d'un nom. Si l'adopté porte un double nom de famille, le choix du nom conservé et l'ordre des noms adjoints
+appartient aux adoptants, qui doivent recueillir le consentement personnel de l'adopté âgé de plus de treize ans. En cas de
+désaccord ou à défaut de choix, le nom conféré à l'adopté résulte de l'adjonction en seconde position du premier nom des
+adoptants selon l'ordre alphabétique, au premier nom de l'adopté. 
 
-Le tribunal peut, toutefois, à la demande de l'adoptant, décider que l'adopté ne portera que le nom de l'adoptant. En cas
-d'adoption par deux époux, le nom de famille substitué à celui de l'adopté peut, au choix des adoptants, être soit celui du
-mari, soit celui de la femme, soit les noms accolés des époux dans l'ordre choisi par eux et dans la limite d'un seul nom
-pour chacun d'eux. Cette demande peut également être formée postérieurement à l'adoption. Si l'adopté est âgé de plus de
-treize ans, son consentement personnel à cette substitution du nom de famille est nécessaire.
+Le tribunal peut, toutefois, à la demande de l'adoptant, décider que l'adopté ne portera que le nom de l'adoptant ou, en cas
+d'adoption de l'enfant du conjoint, que l'adopté conservera son nom d'origine. En cas d'adoption par deux époux, le nom de
+famille substitué à celui de l'adopté peut, au choix des adoptants, être soit celui de l'un d'eux, soit leurs deux noms
+accolés dans l'ordre choisi par eux et dans la limite d'un seul nom pour chacun d'eux. Cette demande peut également être
+formée postérieurement à l'adoption. Si l'adopté est âgé de plus de treize ans, son consentement personnel à cette
+substitution du nom de famille est nécessaire.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
 
 	**Cité par**:
 
@@ -15356,14 +15447,13 @@ treize ans, son consentement personnel à cette substitution du nom de famille e
 	  - Code civil - art. 2498 (VT)
 	  - Code civil - art. 363-1 (V)
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°2003-516 2003-06-18 art. 12, art. 13 (date d'effet à Mayotte)
-	  - SPEC_APPLI: Code civil 363-1 (champ d'application)
-
 	**Modifié par**:
 
-	  - Loi n°2003-516 du 18 juin 2003 - art. 10 () JORF 19 juin 2003 en vigueur le 1er janvier 2005
+	  - Loi n°2013-404 du 17 mai 2013 - art. 12
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
 
 
 ###### Article 363-1
@@ -15758,26 +15848,12 @@ L'enfant, à tout âge, doit honneur et respect à ses père et mère.
 
 L'autorité parentale est un ensemble de droits et de devoirs ayant pour finalité l'intérêt de l'enfant.
 
-Elle appartient aux père et mère jusqu'à la majorité ou l'émancipation de l'enfant pour le protéger dans sa sécurité, sa
-santé et sa moralité, pour assurer son éducation et permettre son développement, dans le respect dû à sa personne.
+Elle appartient aux parents jusqu'à la majorité ou l'émancipation de l'enfant pour le protéger dans sa sécurité, sa santé et
+sa moralité, pour assurer son éducation et permettre son développement, dans le respect dû à sa personne.
 
 Les parents associent l'enfant aux décisions qui le concernent, selon son âge et son degré de maturité.
 
 **Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 10 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 11 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 12 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 13 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 14 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 15 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 9 (V)
-
-	**Modifié par**:
-
-	  - Loi n°2002-305 du 4 mars 2002 - art. 2 () JORF 5 mars 2002
 
 	**Cité par**:
 
@@ -15792,6 +15868,10 @@ Les parents associent l'enfant aux décisions qui le concernent, selon son âge 
 	  - Code de la santé publique - art. L1111-5-1 (V)
 	  - Code de la santé publique - art. L6211-3-1 (V)
 	  - Code de la santé publique - art. R1111-26 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2013-404 du 17 mai 2013 - art. 13
 
 	**Codifié par**:
 
@@ -15905,7 +15985,8 @@ L'enfant a le droit d'entretenir des relations personnelles avec ses ascendants.
 obstacle à l'exercice de ce droit.
 
 Si tel est l'intérêt de l'enfant, le juge aux affaires familiales fixe les modalités des relations entre l'enfant et un
-tiers, parent ou non.
+tiers, parent ou non, en particulier lorsque ce tiers a résidé de manière stable avec lui et l'un de ses parents, a pourvu à
+son éducation, à son entretien ou à son installation, et a noué avec lui des liens affectifs durables.
 
 **Liens relatifs à cet article**
 
@@ -15919,7 +16000,7 @@ tiers, parent ou non.
 
 	**Modifié par**:
 
-	  - Loi n°2007-293 du 5 mars 2007 - art. 8 () JORF 6 mars 2007
+	  - Loi n°2013-404 du 17 mai 2013 - art. 9
 
 	**Codifié par**:
 
@@ -67798,8 +67879,6 @@ Ordonnance 2006-346 du 6 mars 2006 art. 57 : Spécificités d'application.
 
 	  - Code civil - art. 2165 (T)
 
-
-##### Section 3 : De la publicité des registres et de la responsabilité des conservateurs
 
 ##### Section 3 : De la publicité des registres et de la responsabilité en matière de publicité foncière
 

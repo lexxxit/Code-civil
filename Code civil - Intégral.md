@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 2013-05-19
+Version Consolidée au 2013-09-01
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -3221,10 +3221,9 @@ portés à quinze ans.
 
 ###### Article 26
 
-La  déclaration de nationalité souscrite en raison du mariage avec un  conjoint français est reçue par le représentant de
-l'Etat dans le  département ou, à Paris, le préfet de police, ou par le consul. Les autres déclarations de nationalité sont
-reçues par le greffier en chef du tribunal d'instance ou par le consul. Les formes suivant lesquelles ces déclarations sont
-reçues sont déterminées par décret en Conseil d'Etat.
+La déclaration de nationalité souscrite en raison du mariage avec un conjoint français est reçue par
+l'autorité administrative. Les autres déclarations de nationalité sont reçues par le greffier en chef du tribunal d'instance
+ou par le consul. Les formes suivant lesquelles ces déclarations sont reçues sont déterminées par décret en Conseil d'Etat. 
 
 Il en est délivré récépissé après remise des pièces nécessaires à la preuve de leur recevabilité.
 
@@ -3256,7 +3255,7 @@ Il en est délivré récépissé après remise des pièces nécessaires à la pr
 
 	**Modifié par**:
 
-	  - Loi n°2011-525 du 17 mai 2011 - art. 18
+	  - Décret n°2013-795 du 30 août 2013 - art. 1
 
 	**Anciens textes**:
 

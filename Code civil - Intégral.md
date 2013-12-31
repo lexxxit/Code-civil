@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 2013-09-01
+Version Consolidée au 2014-01-01
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -54299,10 +54299,10 @@ effet.
 
 Lorsque le maître de l'ouvrage ne recourt pas à un crédit spécifique ou lorsqu'il y recourt partiellement, et à défaut de
 garantie résultant d'une stipulation particulière, le paiement est garanti par un cautionnement solidaire consenti par un
-établissement de crédit, une entreprise d'assurance ou un organisme de garantie collective, selon des modalités fixées par
-décret en Conseil d'Etat. Tant qu'aucune garantie n'a été fournie et que l'entrepreneur demeure impayé des travaux exécutés,
-celui-ci peut surseoir à l'exécution du contrat après mise en demeure restée sans effet à l'issue d'un délai de quinze
-jours. 
+établissement de crédit, une société de financement, une entreprise d'assurance ou un organisme de garantie collective, selon
+des modalités fixées par décret en Conseil d'Etat. Tant qu'aucune garantie n'a été fournie et que l'entrepreneur demeure
+impayé des travaux exécutés, celui-ci peut surseoir à l'exécution du contrat après mise en demeure restée sans effet à
+l'issue d'un délai de quinze jours. 
 
 Les dispositions de l'alinéa précédent ne s'appliquent pas lorsque le maître de l'ouvrage conclut un marché de travaux pour
 son propre compte et pour la satisfaction de besoins ne ressortissant pas à une activité professionnelle en rapport avec ce
@@ -54328,18 +54328,17 @@ l'Etat et réalisés par cet organisme ou cette société.
 
 	  - TXT_SOURCE: Décret n°94-999 du 18 novembre 1994
 	  - TXT_SOURCE: Décret n°94-999 du 18 novembre 1994 - art. 1 (An)
-	  - SPEC_APPLI: Décret n°99-658 1999-07-30 art. 1 (fixation du seuil)
 	  - TXT_SOURCE: Décret n°99-658 du 30 juillet 1999
 	  - TXT_SOURCE: Décret n°99-658 du 30 juillet 1999 - art. 1 (M)
 
 	**Modifié par**:
 
-	  - Loi n°95-96 du 1 février 1995 - art. 12 () JORF 2 février 1995
+	  - Ordonnance n°2013-544 du 27 juin 2013 - art. 18
 
 	**Cite**:
 
-	  - Code civil - art. 1779 (V)
-	  - Code de la construction et de l'habitation. - art. L411-2 (V)
+	  - Code civil - art. 1779
+	  - Code de la construction et de l'habitation. - art. L411-2
 
 	**Codifié par**:
 
@@ -60084,10 +60083,10 @@ public.
 
 ###### Article 2015
 
-Seuls peuvent avoir la qualité de fiduciaires les établissements de crédit mentionnés à l'article L. 511-1 du code monétaire
-et financier, les institutions et services énumérés à l'article L. 518-1 du même code, les entreprises d'investissement
-mentionnées à l'article L. 531-4 du même code ainsi que les entreprises d'assurance régies par l'article L. 310-1 du code des
-assurances. 
+Seuls peuvent avoir la qualité de fiduciaires les établissements de crédit mentionnés au I de l'article L. 511-1 du code
+monétaire et financier, les institutions et services énumérés à l'article L. 518-1 du même code, les entreprises
+d'investissement mentionnées à l'article L. 531-4 du même code ainsi que les entreprises d'assurance régies par l'article L.
+310-1 du code des assurances. 
 
 Les membres de la profession d'avocat peuvent également avoir la qualité de fiduciaire.
 
@@ -60101,7 +60100,7 @@ Les membres de la profession d'avocat peuvent également avoir la qualité de fi
 
 	**Modifié par**:
 
-	  - Loi n°2008-776 du 4 août 2008 - art. 18 (V)
+	  - Ordonnance n°2013-544 du 27 juin 2013 - art. 18
 
 	**Nouveaux textes**:
 

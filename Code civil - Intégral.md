@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 2014-06-05
+Version Consolidée au 2014-07-01
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -55925,7 +55925,7 @@ société ;
 
 6° Par la dissolution anticipée prononcée par le tribunal dans le cas prévu à l'article 1844-5 ; 
 
-7° Par l'effet d'un jugement ordonnant la liquidation judiciaire ; 
+7° Par l'effet d'un jugement ordonnant  la clôture de la liquidation judiciaire pour insuffisance d'actif ; 
 
 8° Pour toute autre cause prévue par les statuts.
 
@@ -55955,16 +55955,16 @@ société ;
 
 	**Codifié par**:
 
-	  - Loi n°78-9 1978-01-04
+	  - Loi n°78-9 du 4 janvier 1978
 
 	**Modifié par**:
 
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 189 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Ordonnance n°2014-326 du 12 mars 2014 - art. 100
 
 	**Cite**:
 
-	  - Code civil - art. 1844-5 (V)
-	  - Code civil - art. 1844-6 (V)
+	  - Code civil - art. 1844-5
+	  - Code civil - art. 1844-6
 
 
 ###### Article 1844-8
@@ -66824,61 +66824,6 @@ Ordonnance 2006-346 du 6 mars 2006 art. 57 : Spécificités d'application.
 	**Codifié par**:
 
 	  - Loi n°1804-03-19
-
-
-###### Article 2422
-
-L'hypothèque peut être ultérieurement affectée à la garantie de créances autres que celles mentionnées par l'acte constitutif
-pourvu que celui-ci le prévoie expressément. 
-
-Le constituant peut alors l'offrir en garantie, dans la limite de la somme prévue dans l'acte constitutif et mentionnée à
-l'article 2423, non seulement au créancier originaire, mais aussi à un nouveau créancier encore que le premier n'ait pas été
-payé. 
-
-La convention de rechargement qu'il passe, soit avec le créancier originaire, soit avec le nouveau créancier, revêt la forme
-notariée. 
-
-Elle est publiée, sous la forme prévue à l'article 2430, à peine d'inopposabilité aux tiers. 
-
-Sa publication détermine, entre eux, le rang des créanciers inscrits sur l'hypothèque rechargeable. 
-
-Les dispositions du présent article sont d'ordre public et toute clause contraire à celles-ci est réputée non écrite.
-
-**Nota:**
-
-Ordonnance 2006-346 du 6 mars 2006 art. 57 : Spécificités d'application.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Code civil - art. 2440 (V)
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 294 (VT)
-	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 59 (V)
-	  - Loi n°2007-212 du 20 février 2007 - art. 10 (V)
-	  - Code civil - art. 2428 (M)
-	  - Code civil - art. 2430 (VD)
-	  - Code civil - art. 2434 (V)
-	  - Code civil - art. 2488 (VD)
-	  - Code de la consommation - art. L313-14 (VT)
-	  - Code général des impôts, CGI. - art. 881 I (V)
-
-	**Codifié par**:
-
-	  - Loi n°1804-03-19
-
-	**Créé par**:
-
-	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
-	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 20 () JORF 24 mars 2006
-
-	**Abrogé par**:
-
-	  - Loi n°2014-344 du 17 mars 2014 - art. 46 (V)
-
-	**Cite**:
-
-	  - Code civil - art. 2423
 
 
 ###### Article 2423

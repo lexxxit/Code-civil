@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 2014-07-01
+Version Consolidée au 2014-07-12
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -4825,15 +4825,15 @@ intéressées.
 ###### Article 59
 
 En cas de naissance pendant un voyage maritime, il en sera dressé acte dans les trois jours de l'accouchement sur la
-déclaration du père, s'il est à bord.
+déclaration du père, s'il est à bord. 
 
 Si la naissance a lieu pendant un arrêt dans un port, l'acte sera dressé dans les mêmes conditions, lorsqu'il y aura
 impossibilité de communiquer avec la terre, ou lorsqu'il n'existera pas dans le port, si l'on est à l'étranger, d'agent
-diplomatique ou consulaire français investi des fonctions d'officier de l'état civil.
+diplomatique ou consulaire français investi des fonctions d'officier de l'état civil. 
 
-Cet acte sera rédigé, savoir : sur les bâtiments de l'Etat, par l'officier du commissariat de la marine ou, à son défaut, par
-le commandant ou celui qui en remplit les fonctions ; et sur les autres bâtiments, par le capitaine, maître ou patron, ou par
-celui qui en remplit les fonctions.
+Cet acte sera rédigé, savoir : sur les bâtiments de l'Etat, par       le commissaire des armées du bâtiment ou, à son défaut,
+par le commandant ou celui qui en remplit les fonctions ; et sur les autres bâtiments, par le capitaine, maître ou patron, ou
+par celui qui en remplit les fonctions. 
 
 Il y sera fait mention de celle des circonstances ci-dessus prévues, dans laquelle l'acte a été dressé. L'acte sera inscrit à
 la suite du rôle d'équipage.
@@ -4848,17 +4848,13 @@ la suite du rôle d'équipage.
 	  - Code civil - art. 86 (V)
 	  - Code disciplinaire et pénal de la marine marchande - art. 43 (VT)
 
+	**Modifié par**:
+
+	  - ORDONNANCE n°2014-792 du 10 juillet 2014 - art. 3
+
 	**Codifié par**:
 
 	  - Loi n°1803-03-11
-
-	**Créé par**:
-
-	  - Loi n°1803-03-11 promulguée le 21 mars 1803
-
-	**Modifié par**:
-
-	  - Loi n°93-22 du 8 janvier 1993 - art. 3 () JORF 9 janvier 1993
 
 
 #### Section 2 : Des changements de prénoms et de nom.
@@ -36241,11 +36237,10 @@ pourront être témoins dans le même acte.
 ###### Article 981
 
 Les testaments des militaires, des marins de l'Etat et des personnes employées à la suite des armées pourront être reçus dans
-les cas et conditions prévus à l'article 93, soit par un officier supérieur ou médecin militaire d'un grade correspondant, en
-présence de deux témoins ; soit par deux fonctionnaires de l'intendance ou officiers du commissariat ; soit par un de ces
-fonctionnaires ou officiers en présence de deux témoins ; soit enfin, dans un détachement isolé, par l'officier commandant ce
-détachement, assisté de deux témoins, s'il n'existe pas dans le détachement d'officier supérieur ou médecin militaire d'un
-grade correspondant, de fonctionnaire de l'intendance ou d'officier du commissariat. 
+les cas et conditions prévus à l'article 93 soit par un officier supérieur en présence de deux témoins ; soit par deux
+commissaires des armées ; soit par un commissaire des armées en présence de deux témoins ; soit enfin, dans un détachement
+isolé, par l'officier commandant ce détachement, assisté de deux témoins, s'il n'existe pas dans le détachement d'officier
+supérieur ou de commissaire des armées.  
 
 Le testament de l'officier commandant un détachement isolé pourra être reçu par l'officier qui vient après lui dans l'ordre
 du service. 
@@ -36254,22 +36249,22 @@ La faculté de tester dans les conditions prévues au présent article s'étendr
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Loi n°1803-05-03
+
 	**Modifié par**:
 
-	  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+	  - ORDONNANCE n°2014-792 du 10 juillet 2014 - art. 3
 
 	**Cite**:
 
-	  - Code civil - art. 93 (V)
+	  - Code civil - art. 93
 
 	**Cité par**:
 
 	  - Code civil - art. 983 (V)
 	  - Code de la défense. - art. L4121-8 (V)
-
-	**Codifié par**:
-
-	  - Loi n°1803-05-03
 
 
 ###### Article 982

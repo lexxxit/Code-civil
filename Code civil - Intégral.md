@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 2014-07-12
+Version Consolidée au 2014-08-03
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -55496,9 +55496,20 @@ l'activité faisant l'objet de son apport.
 
 ###### Article 1843-4
 
-Dans tous les cas où sont prévus la cession des droits sociaux d'un associé, ou le rachat de ceux-ci par la société, la
-valeur de ces droits est déterminée, en cas de contestation, par un expert désigné, soit par les parties, soit à défaut
-d'accord entre elles, par ordonnance du président du tribunal statuant en la forme des référés et sans recours possible.
+I. - Dans les cas où la loi renvoie au présent article pour fixer les conditions de prix d'une cession des droits sociaux
+d'un associé, ou le rachat de ceux-ci par la société, la valeur de ces droits est déterminée, en cas de contestation, par un
+expert désigné, soit par les parties, soit à défaut d'accord entre elles, par ordonnance du président du tribunal statuant en
+la forme des référés et sans recours possible.
+
+L'expert ainsi désigné est tenu d'appliquer, lorsqu'elles existent, les règles et modalités de détermination de la valeur
+prévues par les statuts de la société ou par toute convention liant les parties. 
+
+II.-Dans les cas où les statuts prévoient la cession des droits sociaux d'un associé ou le rachat de ces droits par la
+société sans que leur valeur soit ni déterminée ni déterminable, celle-ci est déterminée, en cas de contestation, par un
+expert désigné dans les conditions du premier alinéa. 
+
+L'expert ainsi désigné est tenu d'appliquer, lorsqu'elles existent, les règles et modalités de détermination de la valeur
+prévues par toute convention liant les parties.
 
 **Liens relatifs à cet article**
 
@@ -55611,15 +55622,11 @@ d'accord entre elles, par ordonnance du président du tribunal statuant en la fo
 
 	**Codifié par**:
 
-	  - Loi n°78-9 1978-01-04
+	  - Loi n°78-9 du 4 janvier 1978
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°78-9 1978-01-04 JORF 5 janvier 1978 rectificatif JORF 15 janvier, 12 mai 1978 en vigueur le 1er juillet 1978
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Décret n°78-704 du 3 juillet 1978 - art. 17 (V)
+	  - ORDONNANCE n°2014-863 du 31 juillet 2014 - art. 37
 
 
 ###### Article 1843-5

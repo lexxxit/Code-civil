@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 2014-08-03
+Version Consolidée au 2014-08-06
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -9034,16 +9034,22 @@ Le juge statue sur les modalités de l'exercice de l'autorité parentale comme e
 ###### Article 202-1
 
 Les qualités et conditions requises pour pouvoir contracter mariage sont régies, pour chacun des époux, par sa loi
-personnelle. 
+personnelle. Quelle que soit la loi personnelle applicable, le mariage requiert le consentement des époux, au sens de
+l'article 146 et du premier alinéa de l'article 180. 
 
-Toutefois, deux personnes de même sexe peuvent contracter mariage lorsque, pour au moins l'une d'elles, soit sa loi
-personnelle, soit la loi de l'Etat sur le territoire duquel elle a son domicile ou sa résidence le permet.
+Deux personnes de même sexe peuvent contracter mariage lorsque, pour au moins l'une d'elles, soit sa loi personnelle, soit la
+loi de l'Etat sur le territoire duquel elle a son domicile ou sa résidence le permet.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2013-404 du 17 mai 2013 - art. 1
+	  - Loi n°2014-873 du 4 août 2014 - art. 55
+
+	**Cite**:
+
+	  - Code civil - art. 146
+	  - Code civil - art. 180
 
 
 ###### Article 202-2
@@ -16208,7 +16214,8 @@ prend la forme d'une pension alimentaire versée, selon le cas, par l'un des par
 l'enfant a été confié. 
 
 Les modalités et les garanties de cette pension alimentaire sont fixées par la convention homologuée visée à l'article
-373-2-7 ou, à défaut, par le juge. 
+373-2-7 ou, à défaut, par le juge. Cette convention ou, à défaut, le juge peut prévoir le versement de la pension alimentaire
+par virement bancaire ou par tout autre moyen de paiement. 
 
 Cette pension peut en tout ou partie prendre la forme d'une prise en charge directe de frais exposés au profit de l'enfant. 
 
@@ -16216,9 +16223,9 @@ Elle peut être en tout ou partie servie sous forme d'un droit d'usage et d'habi
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2002-305 du 4 mars 2002 - art. 6 () JORF 5 mars 2002
+	  - Loi n°2014-873 du 4 août 2014 - art. 28
 
 	**Cité par**:
 
@@ -16230,7 +16237,7 @@ Elle peut être en tout ou partie servie sous forme d'un droit d'usage et d'habi
 
 	**Cite**:
 
-	  - Code civil - art. 373-2-7 (V)
+	  - Code civil - art. 373-2-7
 
 	**Codifié par**:
 
@@ -23259,10 +23266,10 @@ auditions peuvent avoir lieu séparément. Elles peuvent se tenir en chambre du 
 
 ###### Article 515-11
 
-L'ordonnance de protection est délivrée par le juge aux affaires familiales, s'il estime, au vu des éléments produits devant
-lui et contradictoirement débattus, qu'il existe des raisons sérieuses de considérer comme vraisemblables la commission des
-faits de violence allégués et le danger auquel la victime est exposée. A l'occasion de sa délivrance, le juge aux affaires
-familiales est compétent pour : 
+L'ordonnance de protection est délivrée, dans les meilleurs délais, par le juge aux affaires familiales, s'il estime, au vu
+des éléments produits devant lui et contradictoirement débattus, qu'il existe des raisons sérieuses de considérer comme
+vraisemblables la commission des faits de violence allégués et le danger auquel la victime ou un ou plusieurs enfants sont
+exposés. A l'occasion de sa délivrance, le juge aux affaires familiales est compétent pour : 
 
 1° Interdire à la partie défenderesse de recevoir ou de rencontrer certaines personnes spécialement désignées par le juge aux
 affaires familiales, ainsi que d'entrer en relation avec elles, de quelque façon que ce soit ; 
@@ -23272,10 +23279,12 @@ service de police ou de gendarmerie qu'il désigne les armes dont elle est déte
 
 3° Statuer sur la résidence séparée des époux en précisant lequel des deux continuera à résider dans le logement conjugal et
 sur les modalités de prise en charge des frais afférents à ce logement. Sauf circonstances particulières, la jouissance de ce
-logement est attribuée au conjoint qui n'est pas l'auteur des violences ; 
+logement est attribuée au conjoint qui n'est pas l'auteur des violences, même s'il a bénéficié d'un hébergement d'urgence ; 
 
-4° Attribuer la jouissance du logement ou de la résidence du couple au partenaire ou au concubin qui n'est pas l'auteur des
-violences et préciser les modalités de prise en charge des frais afférents à ce logement ; 
+4° Préciser lequel des partenaires liés par un pacte civil de solidarité ou des concubins continuera à résider dans le
+logement commun et statuer sur les modalités de prise en charge des frais afférents à ce logement. Sauf circonstances
+particulières, la jouissance de ce logement est attribuée au partenaire lié par un pacte civil de solidarité ou au concubin
+qui n'est pas l'auteur des violences, même s'il a bénéficié d'un hébergement d'urgence ; 
 
 5° Se prononcer sur les modalités d'exercice de l'autorité parentale et, le cas échéant, sur la contribution aux charges du
 mariage pour les couples mariés, sur l'aide matérielle au sens de l'article 515-4 pour les partenaires d'un pacte civil de
@@ -23287,28 +23296,35 @@ civiles dans lesquelles elle est également partie. Si, pour les besoins de l'ex
 chargé de cette exécution doit avoir connaissance de l'adresse de cette personne, celle-ci lui est communiquée, sans qu'il
 puisse la révéler à son mandant ; 
 
+6° bis Autoriser la partie demanderesse à dissimuler son domicile ou sa résidence et à élire domicile pour les besoins de la
+vie courante chez une personne morale qualifiée ; 
+
 7° Prononcer l'admission provisoire à l'aide juridictionnelle de la partie demanderesse en application du premier alinéa de
 l'article 20 de la loi n° 91-647 du 10 juillet 1991 relative à l'aide juridique. 
 
 Le cas échéant, le juge présente à la partie demanderesse une liste des personnes morales qualifiées susceptibles de
 l'accompagner pendant toute la durée de l'ordonnance de protection. Il peut, avec son accord, transmettre à la personne
-morale qualifiée les coordonnées de la partie demanderesse, afin qu'elle la contacte.
+morale qualifiée les coordonnées de la partie demanderesse, afin qu'elle la contacte. 
+
+Lorsque le juge délivre une ordonnance de protection en raison de violences susceptibles de mettre en danger un ou plusieurs
+enfants, il en informe sans délai le procureur de la République.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - Loi n°91-647 du 10 juillet 1991 - art. 20
+	  - Code civil - art. 515-4 (V)
 
 	**Modifié par**:
 
-	  - Loi n°2011-525 du 17 mai 2011 - art. 20
+	  - Loi n°2014-873 du 4 août 2014 - art. 32
 
 	**Cité par**:
 
 	  - Décret n°2015-282 du 11 mars 2015 (V)
 	  - Code civil - art. 515-12 (V)
-	  - Code civil - art. 515-13 (VD)
+	  - Code civil - art. 515-13 (V)
 	  - Code de procédure civile - art. 1136-13 (V)
 	  - Code de procédure civile - art. 1136-14 (V)
 	  - Code de procédure civile - art. 1136-5 (V)
@@ -23318,23 +23334,25 @@ morale qualifiée les coordonnées de la partie demanderesse, afin qu'elle la co
 
 ###### Article 515-12
 
-Les mesures mentionnées à l'article 515-11 sont prises pour une durée maximale de quatre mois. Elles peuvent être prolongées
-au-delà si, durant ce délai, une requête en divorce ou en séparation de corps a été déposée. Le juge aux affaires familiales
-peut, à tout moment, à la demande du ministère public ou de l'une ou l'autre des parties, ou après avoir fait procéder à
-toute mesure d'instruction utile, et après avoir invité chacune d'entre elles à s'exprimer, supprimer ou modifier tout ou
-partie des mesures énoncées dans l'ordonnance de protection, en décider de nouvelles, accorder à la personne défenderesse une
-dispense temporaire d'observer certaines des obligations qui lui ont été imposées ou rapporter l'ordonnance de protection.
+Les mesures mentionnées à l'article 515-11 sont prises pour une durée maximale de six mois à compter de la notification de
+l'ordonnance. Elles peuvent être prolongées au-delà si, durant ce délai, une requête en divorce ou en séparation de corps a
+été déposée ou si le juge aux affaires familiales a été saisi d'une requête relative à l'exercice de l'autorité parentale. Le
+juge aux affaires familiales peut, à tout moment, à la demande du ministère public ou de l'une ou l'autre des parties, ou
+après avoir fait procéder à toute mesure d'instruction utile, et après avoir invité chacune d'entre elles à s'exprimer,
+supprimer ou modifier tout ou partie des mesures énoncées dans l'ordonnance de protection, en décider de nouvelles, accorder
+à la personne défenderesse une dispense temporaire d'observer certaines des obligations qui lui ont été imposées ou rapporter
+l'ordonnance de protection.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2010-769 du 9 juillet 2010 - art. 1
+	  - Loi n°2014-873 du 4 août 2014 - art. 32
 
 	**Cité par**:
 
 	  - Décret n°2015-282 du 11 mars 2015 (V)
-	  - Code civil - art. 515-13 (VD)
+	  - Code civil - art. 515-13 (V)
 
 	**Cite**:
 
@@ -23343,8 +23361,8 @@ dispense temporaire d'observer certaines des obligations qui lui ont été impos
 
 ###### Article 515-13
 
-Une ordonnance de protection peut également être délivrée par le juge à la personne majeure menacée de mariage forcé, dans
-les conditions fixées à l'article 515-10. 
+Une ordonnance de protection peut également être délivrée en urgence par le juge à la personne majeure menacée de mariage
+forcé, dans les conditions fixées à l'article 515-10. 
 
 Le juge est compétent pour prendre les mesures mentionnées aux 1°, 2°, 6° et 7° de l'article 515-11. Il peut également
 ordonner, à sa demande, l'interdiction temporaire de sortie du territoire de la personne menacée. Cette interdiction de
@@ -23353,9 +23371,9 @@ est applicable aux mesures prises sur le fondement du présent article.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2010-769 du 9 juillet 2010 - art. 1
+	  - Loi n°2014-873 du 4 août 2014 - art. 32
 
 	**Cité par**:
 
@@ -23366,8 +23384,8 @@ est applicable aux mesures prises sur le fondement du présent article.
 	**Cite**:
 
 	  - Code civil - art. 515-10
-	  - Code civil - art. 515-11
-	  - Code civil - art. 515-12
+	  - Code civil - art. 515-11 (V)
+	  - Code civil - art. 515-12 (V)
 
 
 # Livre II : Des biens et des différentes modifications de la propriété
@@ -25135,19 +25153,19 @@ en présence du propriétaire, ou lui dûment appelé, un inventaire des meubles
 
 ###### Article 601
 
-Il donne caution de jouir en bon père de famille, s'il n'en est dispensé par l'acte constitutif de l'usufruit ; cependant les
+Il donne caution de jouir    raisonnablement, s'il n'en est dispensé par l'acte constitutif de l'usufruit ; cependant les
 père et mère ayant l'usufruit légal du bien de leurs enfants, le vendeur ou le donateur, sous réserve d'usufruit, ne sont pas
 tenus de donner caution.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Loi n°2014-873 du 4 août 2014 - art. 26
+
 	**Codifié par**:
 
 	  - Loi n°1804-01-30
-
-	**Créé par**:
-
-	  - Loi n°1804-01-30 promulguée le 9 février 1804
 
 
 ###### Article 602
@@ -25644,9 +25662,13 @@ inventaires.
 
 ###### Article 627
 
-L'usager, et celui qui a un droit d'habitation, doivent jouir en bons pères de famille.
+L'usager, et celui qui a un droit d'habitation, doivent jouir    raisonnablement.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2014-873 du 4 août 2014 - art. 26
 
 	**Cité par**:
 
@@ -25655,10 +25677,6 @@ L'usager, et celui qui a un droit d'habitation, doivent jouir en bons pères de 
 	**Codifié par**:
 
 	  - Loi n°1804-01-30
-
-	**Créé par**:
-
-	  - Loi n°1804-01-30 promulguée le 9 février 1804
 
 
 ###### Article 628
@@ -39712,13 +39730,17 @@ intérêts envers le créancier.
 ###### Article 1137
 
 L'obligation de veiller à la conservation de la chose, soit que la convention n'ait pour objet que l'utilité de l'une des
-parties, soit qu'elle ait pour objet leur utilité commune, soumet celui qui en est chargé à y apporter tous les soins d'un
-bon père de famille.
+parties, soit qu'elle ait pour objet leur utilité commune, soumet celui qui en est chargé à y apporter tous les soins
+raisonnables. 
 
 Cette obligation est plus ou moins étendue relativement à certains contrats, dont les effets, à cet égard, sont expliqués
 sous les titres qui les concernent.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2014-873 du 4 août 2014 - art. 26
 
 	**Cité par**:
 
@@ -39728,10 +39750,6 @@ sous les titres qui les concernent.
 	**Codifié par**:
 
 	  - Loi n°1804-02-07
-
-	**Créé par**:
-
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
 
 
 ###### Article 1138
@@ -45518,20 +45536,20 @@ que l'héritier ait pu en prendre la direction.
 
 ###### Article 1374
 
-Il est tenu d'apporter à la gestion de l'affaire tous les soins d'un bon père de famille.
+Il est tenu d'apporter à la gestion de l'affaire tous les soins      raisonnables. 
 
 Néanmoins les circonstances qui l'ont conduit à se charger de l'affaire peuvent autoriser le juge à modérer les dommages et
 intérêts qui résulteraient des fautes ou de la négligence du gérant.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Loi n°2014-873 du 4 août 2014 - art. 26
+
 	**Codifié par**:
 
 	  - Loi n°1804-02-09
-
-	**Créé par**:
-
-	  - Loi n°1804-02-09 promulguée le 19 février 1804
 
 
 ###### Article 1375
@@ -52409,14 +52427,18 @@ bailleur pour lequel il possède.
 
 ###### Article 1728
 
-Le preneur est tenu de deux obligations principales :
+Le preneur est tenu de deux obligations principales : 
 
-1° D'user de la chose louée en bon père de famille, et suivant la destination qui lui a été donnée par le bail, ou suivant
-celle présumée d'après les circonstances, à défaut de convention ;
+1° D'user de la chose louée    raisonnablement, et suivant la destination qui lui a été donnée par le bail, ou suivant celle
+présumée d'après les circonstances, à défaut de convention ; 
 
 2° De payer le prix du bail aux termes convenus.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2014-873 du 4 août 2014 - art. 26
 
 	**Cité par**:
 
@@ -52435,26 +52457,22 @@ celle présumée d'après les circonstances, à défaut de convention ;
 
 	  - Loi n°1804-03-07
 
-	**Créé par**:
-
-	  - Loi n°1804-03-07 promulguée le 17 mars 1804
-
 
 ###### Article 1729
 
-Si le preneur n'use pas de la chose louée en bon père de famille ou emploie la chose louée à un autre usage que celui auquel
-elle a été destinée, ou dont il puisse résulter un dommage pour le bailleur, celui-ci peut, suivant les circonstances, faire
+Si le preneur n'use pas de la chose louée    raisonnablement ou emploie la chose louée à un autre usage que celui auquel elle
+a été destinée, ou dont il puisse résulter un dommage pour le bailleur, celui-ci peut, suivant les circonstances, faire
 résilier le bail.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Loi n°2014-873 du 4 août 2014 - art. 26
+
 	**Codifié par**:
 
 	  - Loi n°1804-03-07
-
-	**Modifié par**:
-
-	  - Loi n°2007-297 du 5 mars 2007 - art. 18 () JORF 7 mars 2007
 
 
 ###### Article 1730
@@ -53201,9 +53219,9 @@ vente".
 ###### Article 1766
 
 Si le preneur d'un héritage rural ne le garnit pas des bestiaux et des ustensiles nécessaires à son exploitation, s'il
-abandonne la culture, s'il ne cultive pas en bon père de famille, s'il emploie la chose louée à un autre usage que celui
-auquel elle a été destinée, ou, en général, s'il n'exécute pas les clauses du bail, et qu'il en résulte un dommage pour le
-bailleur, celui-ci peut, suivant les circonstances, faire résilier le bail. 
+abandonne la culture, s'il ne cultive pas    raisonnablement, s'il emploie la chose louée à un autre usage que celui auquel
+elle a été destinée, ou, en général, s'il n'exécute pas les clauses du bail, et qu'il en résulte un dommage pour le bailleur,
+celui-ci peut, suivant les circonstances, faire résilier le bail. 
 
 En cas de résiliation provenant du fait du preneur, celui-ci est tenu des dommages et intérêts, ainsi qu'il est dit en
 l'article 1764.
@@ -53217,17 +53235,17 @@ l'article 1764.
 	  - Code rural et de la pêche maritime - art. L411-27 (V)
 	  - Décret n°1928-04-07 du 7 avril 1928 - art. 11 (Ab)
 
+	**Modifié par**:
+
+	  - Loi n°2014-873 du 4 août 2014 - art. 26
+
 	**Cite**:
 
-	  - Code civil - art. 1764 (V)
+	  - Code civil - art. 1764
 
 	**Codifié par**:
 
 	  - Loi n°1804-03-07
-
-	**Créé par**:
-
-	  - Loi n°1804-03-07 promulguée le 17 mars 1804
 
 
 ###### Article 1767
@@ -54474,17 +54492,17 @@ Il n'a d'autre objet que de servir de base au règlement à intervenir au jour o
 
 ###### Article 1806
 
-Le preneur doit les soins d'un bon père de famille à la conservation du cheptel.
+Le preneur doit les soins      raisonnables à la conservation du cheptel.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2014-873 du 4 août 2014 - art. 26
 
 	**Codifié par**:
 
 	  - Loi n°1804-03-07
-
-	**Créé par**:
-
-	  - Loi n°1804-03-07 promulguée le 17 mars 1804
 
 
 ###### Article 1807
@@ -57845,14 +57863,14 @@ continuer de jouir de la chose prêtée.
 
 ###### Article 1880
 
-L'emprunteur est tenu de veiller, en bon père de famille, à la garde et à la conservation de la chose prêtée. Il ne peut s'en
+L'emprunteur est tenu de veiller      raisonnablement à la garde et à la conservation de la chose prêtée. Il ne peut s'en
 servir qu'à l'usage déterminé par sa nature ou par la convention ; le tout à peine de dommages-intérêts, s'il y a lieu.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°1804-03-09 promulguée le 19 mars 1804
+	  - Loi n°2014-873 du 4 août 2014 - art. 26
 
 
 ###### Article 1881
@@ -59111,22 +59129,22 @@ personnes ;
 ###### Article 1962
 
 L'établissement d'un gardien judiciaire produit, entre le saisissant et le gardien, des obligations réciproques. Le gardien
-doit apporter, pour la conservation des effets saisis, les soins d'un bon père de famille.
+doit apporter, pour la conservation des effets saisis, les soins      raisonnables. 
 
 Il doit les représenter soit à la décharge du saisissant pour la vente, soit à la partie contre laquelle les exécutions ont
-été faites, en cas de mainlevée de la saisie.
+été faites, en cas de mainlevée de la saisie. 
 
 L'obligation du saisissant consiste à payer au gardien le salaire fixé par la loi.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Loi n°2014-873 du 4 août 2014 - art. 26
+
 	**Codifié par**:
 
 	  - Loi n°1804-03-14
-
-	**Créé par**:
-
-	  - Loi n°1804-03-14 promulguée le 24 mars 1804
 
 
 ###### Article 1963

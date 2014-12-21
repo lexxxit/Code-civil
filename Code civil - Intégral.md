@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 2014-08-06
+Version Consolidée au 2014-12-22
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -66840,6 +66840,55 @@ Ordonnance 2006-346 du 6 mars 2006 art. 57 : Spécificités d'application.
 	**Cité par**:
 
 	  - Code civil - art. 2388 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-19
+
+
+###### Article 2422
+
+L'hypothèque constituée à des fins professionnelles par une personne physique ou morale peut être ultérieurement affectée à
+la garantie de créances professionnelles autres que celles mentionnées dans l'acte constitutif pourvu que celui-ci le prévoie
+expressément. 
+
+Le constituant peut alors l'offrir en garantie, dans la limite de la somme prévue dans l'acte constitutif et mentionnée à
+l'article 2423, non seulement au créancier originaire, mais aussi à un nouveau créancier encore que le premier n'ait pas été
+payé. 
+
+La convention de rechargement qu'il passe soit avec le créancier originaire, soit avec le nouveau créancier revêt la forme
+notariée. 
+
+Elle est publiée, sous la forme prévue à l'article 2430, à peine d'inopposabilité aux tiers. 
+
+Sa publication détermine le rang des créanciers bénéficiaires de la même hypothèque. 
+
+Sans préjudice du second alinéa de l'article 2424, le présent article est d'ordre public et toute clause contraire à celui-ci
+est réputée non écrite.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 59 (V)
+	  - Loi n°2007-212 du 20 février 2007 - art. 10 (V)
+	  - Code civil - art. 2428 (M)
+	  - Code civil - art. 2430 (VD)
+	  - Code civil - art. 2434 (V)
+	  - Code civil - art. 2440 (V)
+	  - Code civil - art. 2488 (VD)
+	  - Code de la consommation - art. L313-14 (VT)
+	  - Code général des impôts, CGI. - art. 881 I (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 294 (VT)
+
+	**Modifié par**:
+
+	  - Loi n°2014-1545 du 20 décembre 2014 - art. 48
+
+	**Cite**:
+
+	  - Code civil - art. 2423 (V)
+	  - Code civil - art. 2424 (V)
 
 	**Codifié par**:
 

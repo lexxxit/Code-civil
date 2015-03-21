@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 2015-02-18
+Version Consolidée au 2015-03-22
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -16703,7 +16703,7 @@ Si la santé, la sécurité ou la moralité d'un mineur non émancipé sont en d
 son développement physique, affectif, intellectuel et social sont gravement compromises, des mesures d'assistance éducative
 peuvent être ordonnées par justice à la requête des père et mère conjointement, ou de l'un d'eux, de la personne ou du
 service à qui l'enfant a été confié ou du tuteur, du mineur lui-même ou du ministère public. Dans les cas où le ministère
-public a été avisé par le président du conseil général, il s'assure que la situation du mineur entre dans le champ
+public a été avisé par le président du conseil départemental, il s'assure que la situation du mineur entre dans le champ
 d'application de l'article L. 226-4 du code de l'action sociale et des familles. Le juge peut se saisir d'office à titre
 exceptionnel. 
 
@@ -16772,7 +16772,7 @@ Un rapport concernant la situation de l'enfant doit être transmis annuellement 
 
 	**Modifié par**:
 
-	  - Loi n°2007-293 du 5 mars 2007 - art. 14 () JORF 6 mars 2007
+	  - Loi n°2013-403 du 17 mai 2013 - art. 1 (V)
 
 	**Codifié par**:
 
@@ -16810,13 +16810,13 @@ considération de l'intérêt de l'enfant.
 Chaque fois qu'il est possible, le mineur doit être maintenu dans son milieu actuel. Dans ce cas, le juge désigne, soit une
 personne qualifiée, soit un service d'observation, d'éducation ou de rééducation en milieu ouvert, en lui donnant mission
 d'apporter aide et conseil à la famille, afin de surmonter les difficultés matérielles ou morales qu'elle rencontre. Cette
-personne ou ce service est chargé de suivre le développement de l'enfant et d'en faire rapport au juge périodiquement.
+personne ou ce service est chargé de suivre le développement de l'enfant et d'en faire rapport au juge périodiquement. 
 
 Lorsqu'il confie un mineur à un service mentionné au premier alinéa, il peut autoriser ce dernier à lui assurer un
 hébergement exceptionnel ou périodique à condition que ce service soit spécifiquement habilité à cet effet. Chaque fois qu'il
 héberge le mineur en vertu de cette autorisation, le service en informe sans délai ses parents ou ses représentants légaux
-ainsi que le juge des enfants et le président du conseil général. Le juge est saisi de tout désaccord concernant cet
-hébergement.
+ainsi que le juge des enfants et le président du conseil départemental. Le juge est saisi de tout désaccord concernant cet
+hébergement. 
 
 Le juge peut aussi subordonner le maintien de l'enfant dans son milieu à des obligations particulières, telles que celle de
 fréquenter régulièrement un établissement sanitaire ou d'éducation, ordinaire ou spécialisé, le cas échéant sous régime de
@@ -16847,7 +16847,7 @@ l'internat ou d'exercer une activité professionnelle.
 
 	**Modifié par**:
 
-	  - Loi n°2007-297 du 5 mars 2007 - art. 67 () JORF 7 mars 2007
+	  - Loi n°2013-403 du 17 mai 2013 - art. 1 (V)
 
 	**Codifié par**:
 

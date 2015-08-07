@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 2015-08-07
+Version Consolidée au 2015-08-08
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -42139,6 +42139,42 @@ Toute stipulation contraire aux dispositions des articles 1244-1 et 1244-2 est r
 	  - Code civil - art. 1244-2 (Ab)
 
 
+###### Article 1244-4
+
+Une procédure simplifiée de recouvrement des petites créances peut être mise en œuvre par un huissier de justice à la demande
+du créancier pour le paiement d'une créance ayant une cause contractuelle ou résultant d'une obligation de caractère
+statutaire et inférieure à un montant défini par décret en Conseil d'Etat.
+
+Cette procédure se déroule dans un délai d'un mois à compter de l'envoi par l'huissier d'une lettre recommandée avec demande
+d'avis de réception invitant le débiteur à participer à cette procédure. L'accord du débiteur, constaté par l'huissier,
+suspend la prescription.
+
+L'huissier qui a reçu l'accord du créancier et du débiteur sur le montant et les modalités du paiement délivre, sans autre
+formalité, un titre exécutoire.
+
+Les frais de toute nature qu'occasionne la procédure sont à la charge exclusive du créancier.
+
+Un décret en Conseil d'Etat fixe les modalités d'application du présent article, notamment les règles de prévention des
+conflits d'intérêts lors de la délivrance par l'huissier de justice d'un titre exécutoire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-990 du 6 août 2015 - art. 208
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
+
+	**Cité par**:
+
+	  - Décret n°2016-230 du 26 février 2016 - art.
+	  - Décret n°2016-285 du 9 mars 2016 (V)
+	  - Code de commerce - art. A444-28 (M)
+	  - Code de commerce - art. A444-47 (M)
+
+
 ###### Article 1245
 
 Le débiteur d'un corps certain et déterminé est libéré par la remise de la chose en l'état où elle se trouve lors de la
@@ -61570,18 +61606,16 @@ contre la succession.
 
 La prescription est suspendue à compter du jour où, après la survenance d'un litige, les parties conviennent de recourir à la
 médiation ou à la conciliation ou, à défaut d'accord écrit, à compter du jour de la première réunion de médiation ou de
-conciliation. La prescription est également suspendue à compter de la conclusion d'une convention de procédure participative.
+conciliation. La prescription est également suspendue à compter de la conclusion d'une convention de procédure participative
+ou à compter de l'accord du débiteur constaté par l'huissier de justice pour participer à la procédure prévue à l'article
+1244-4.
 
 Le délai de prescription recommence à courir, pour une durée qui ne peut être inférieure à six mois, à compter de la date à
 laquelle soit l'une des parties ou les deux, soit le médiateur ou le conciliateur déclarent que la médiation ou la
 conciliation est terminée. En cas de convention de procédure participative, le délai de prescription recommence à courir à
-compter du terme de la convention, pour une durée qui ne peut être inférieure à six mois.
-
-**Nota:**
-
-LOI n° 2010-1609 du 22 décembre 2010 art 43 : l'article 2238 du code civil, dans sa rédaction issue de la présente loi, entre
-en vigueur dans les conditions fixées par le décret modifiant le code de procédure civile nécessaire à son application et au
-plus tard le 1er septembre 2011.
+compter du terme de la convention, pour une durée qui ne peut être inférieure à six mois. En cas d'échec de la procédure
+prévue au même article 1244-4, le délai de prescription recommence à courir à compter de la date du refus du débiteur,
+constaté par l'huissier, pour une durée qui ne peut être inférieure à six mois.
 
 **Liens relatifs à cet article**
 
@@ -61596,11 +61630,7 @@ plus tard le 1er septembre 2011.
 
 	**Modifié par**:
 
-	  - Loi n°2010-1609 du 22 décembre 2010 - art. 37
-
-	**Cite**:
-
-	  - Code civil - art. 2236
+	  - Loi n°2015-990 du 6 août 2015 - art. 208 (V)
 
 	**Liens**:
 

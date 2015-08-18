@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 2015-08-08
+Version Consolidée au 2015-08-19
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -67334,30 +67334,25 @@ inscriptions particulières à prendre, portant hypothèque à compter de leur d
 ceux conservés par l'inscription primitive. 
 
 Toutefois, le créancier a le droit d'être colloqué pour la totalité des intérêts, au même rang que le principal, lorsque
-l'hypothèque a été consentie en garantie du prêt viager défini à l'article L. 314-1 du code de la consommation.
-
-**Nota:**
-
-Ordonnance 2006-346 du 6 mars 2006 art. 57 : Spécificités d'application.
+l'hypothèque a été consentie en garantie du prêt viager défini au I de l'article L. 314-1 du code de la consommation.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Loi n°1804-03-19
-
-	**Créé par**:
-
-	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
-	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 25 () JORF 24 mars 2006
+	  - Loi n°2015-992 du 17 août 2015 - art. 25
 
 	**Cite**:
 
-	  - Code de la consommation - art. L314-1 (V)
+	  - Code de la consommation - art. L314-1
 
 	**Anciens textes**:
 
 	  - Code civil - art. 2151 (T)
+
+	**Codifié par**:
+
+	  - Loi n°1804-03-19
 
 
 ###### Article 2433

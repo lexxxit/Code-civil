@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 2015-10-17
+Version Consolidée au 2015-12-30
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -1957,6 +1957,40 @@ française, cette validité ne peut être contestée pour le seul motif que le d
 	  - Code civil - art. 26 (V)
 
 
+###### Article 21-13-1
+
+Peuvent réclamer la nationalité française, par déclaration souscrite en application des articles 26 à 26-5, les personnes
+qui, âgées de soixante-cinq ans au moins, résident régulièrement et habituellement en France depuis au moins vingt-cinq ans
+et sont les ascendants directs d'un ressortissant français. 
+
+Les conditions fixées au premier alinéa du présent article s'apprécient à la date de la souscription de la déclaration
+mentionnée au même premier alinéa. 
+
+Le Gouvernement peut s'opposer, dans les conditions définies à l'article 21-4, à l'acquisition de la nationalité française
+par le déclarant qui se prévaut des dispositions du présent article.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°93-1362 du 30 décembre 1993 - art. 10 (V)
+	  - Décret n°93-1362 du 30 décembre 1993 - art. 17-1 (V)
+	  - Décret n°93-1362 du 30 décembre 1993 - art. 17-2 (V)
+	  - Décret n°2016-872 du 29 juin 2016 (V)
+	  - Décret n°2016-872 du 29 juin 2016 - art. 6
+	  - Décret n°2016-872 du 29 juin 2016 - art. 7
+	  - Décret n°2016-872 du 29 juin 2016 - art. 8
+	  - Décret n°2016-872 du 29 juin 2016 - art. 9 (V)
+	  - Code civil - art. 21-28 (VD)
+	  - Code civil - art. 26 (V)
+	  - Code civil - art. 26-1 (V)
+	  - Code civil - art. 26-3 (V)
+
+	**Créé par**:
+
+	  - Loi n°2015-1776 du 28 décembre 2015 - art. 38
+
+
 ###### Article 21-14
 
 Les personnes qui ont perdu la nationalité française en application de l'article 23-6 ou à qui a été opposée la fin de non-
@@ -2528,10 +2562,10 @@ la nationalité française ainsi que la ou les nationalités auxquelles il enten
 
 Le représentant de l'Etat dans le département ou, à Paris, le préfet de police organise, dans un délai de six mois à compter
 de l'acquisition de la nationalité française, une cérémonie d'accueil dans la citoyenneté française à l'intention des
-personnes résidant dans le département visées aux articles 21-2,21-11,21-12,21-14,21-14-1,21-15,24-1,24-2 et 32-4 du présent
-code ainsi qu'à l'article 2 de la loi n° 64-1328 du 26 décembre 1964 autorisant l'approbation de la convention du Conseil de
-l'Europe sur la réduction des cas de pluralité de nationalités et sur les obligations militaires en cas de pluralité de
-nationalités, signée à Strasbourg le 6 mai 1963. 
+personnes résidant dans le département visées aux articles 21-2, 21-11, 21-12, 21-13-1, 21-14, 21-14-1, 21-15, 24-1, 24-2 et
+32-4 du présent code ainsi qu'à l'article 2 de la loi n° 64-1328 du 26 décembre 1964 autorisant l'approbation de la
+convention du Conseil de l'Europe sur la réduction des cas de pluralité de nationalités et sur les obligations militaires en
+cas de pluralité de nationalités, signée à Strasbourg le 6 mai 1963. 
 
 Les députés et les sénateurs élus dans le département sont invités à la cérémonie d'accueil. 
 
@@ -2546,9 +2580,10 @@ remise aux personnes ayant acquis la nationalité française visées aux premier
 
 	**Cite**:
 
-	  - Loi n°64-1328 du 26 décembre 1964, v. init.
+	  - Loi n°64-1328 du 26 décembre 1964
 	  - Code civil - art. 21-11
 	  - Code civil - art. 21-12
+	  - Code civil - art. 21-13-1 (V)
 	  - Code civil - art. 21-14
 	  - Code civil - art. 21-14-1
 	  - Code civil - art. 21-15
@@ -2565,7 +2600,7 @@ remise aux personnes ayant acquis la nationalité française visées aux premier
 
 	**Modifié par**:
 
-	  - Loi n°2011-672 du 16 juin 2011 - art. 5
+	  - Loi n°2015-1776 du 28 décembre 2015 - art. 38
 
 	**Cité par**:
 
@@ -3221,9 +3256,10 @@ portés à quinze ans.
 
 ###### Article 26
 
-La déclaration de nationalité souscrite en raison du mariage avec un conjoint français est reçue par
-l'autorité administrative. Les autres déclarations de nationalité sont reçues par le greffier en chef du tribunal d'instance
-ou par le consul. Les formes suivant lesquelles ces déclarations sont reçues sont déterminées par décret en Conseil d'Etat. 
+Les déclarations de nationalité souscrites en raison soit du mariage avec un conjoint français, en application de l'article
+21-2, soit de la qualité d'ascendant de Français, en application de l'article 21-13-1, sont reçues par l'autorité
+administrative. Les autres déclarations de nationalité sont reçues par le greffier en chef du tribunal d'instance ou par le
+consul. Les formes suivant lesquelles ces déclarations sont reçues sont déterminées par décret en Conseil d'Etat. 
 
 Il en est délivré récépissé après remise des pièces nécessaires à la preuve de leur recevabilité.
 
@@ -3255,7 +3291,7 @@ Il en est délivré récépissé après remise des pièces nécessaires à la pr
 
 	**Modifié par**:
 
-	  - Décret n°2013-795 du 30 août 2013 - art. 1
+	  - Loi n°2015-1776 du 28 décembre 2015 - art. 38
 
 	**Anciens textes**:
 
@@ -3266,14 +3302,15 @@ Il en est délivré récépissé après remise des pièces nécessaires à la pr
 
 Toute déclaration de nationalité doit, à peine de nullité, être enregistrée soit par le greffier en chef du tribunal
 d'instance, pour les déclarations souscrites en France, soit par le ministre de la justice, pour les déclarations souscrites
-à l'étranger, à l'exception des déclarations souscrites en raison du mariage avec un conjoint français, qui sont enregistrées
-par le ministre chargé des naturalisations.
+à l'étranger, à l'exception des déclarations souscrites en raison du mariage avec un conjoint français, d'une part, et de
+celles souscrites en application de l'article 21-13-1 à raison de la qualité d'ascendant de Français, d'autre part, qui sont
+enregistrées par le ministre chargé des naturalisations.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2009-526 du 12 mai 2009 - art. 12 (V)
+	  - Loi n°2015-1776 du 28 décembre 2015 - art. 38
 
 	**Cité par**:
 
@@ -3328,8 +3365,9 @@ six mois. L'action peut être exercée personnellement par le mineur dès l'âge
 La décision de refus d'enregistrement doit intervenir six mois au plus après la date à laquelle a été délivré au déclarant le
 récépissé constatant la remise de toutes les pièces nécessaires à la preuve de recevabilité de la déclaration. 
 
-Le délai est porté à un an pour les déclarations souscrites en vertu de l'article 21-2. Dans le cas où une procédure
-d'opposition est engagée par le Gouvernement en application de l'article 21-4, ce délai est porté à deux ans.
+Le délai est porté à un an pour les déclarations souscrites en vertu des articles 21-2 et 21-13-1. Dans le cas où une
+procédure d'opposition est engagée par le Gouvernement en application des articles 21-4 ou 21-13-1, ce délai est porté à deux
+ans.
 
 **Liens relatifs à cet article**
 
@@ -3340,12 +3378,13 @@ d'opposition est engagée par le Gouvernement en application de l'article 21-4, 
 
 	**Modifié par**:
 
-	  - Loi n°2011-672 du 16 juin 2011 - art. 7
+	  - Loi n°2015-1776 du 28 décembre 2015 - art. 38
 
 	**Cite**:
 
-	  - Code civil - art. 21-2
-	  - Code civil - art. 21-4
+	  - Code civil - art. 21-13-1 (V)
+	  - Code civil - art. 21-2 (V)
+	  - Code civil - art. 21-4 (V)
 
 	**Anciens textes**:
 
@@ -21238,6 +21277,18 @@ Le mandat est conclu par acte notarié ou par acte sous seing privé. Toutefois,
 	  - Loi n°1803-03-14
 
 
+###### Article 477-1
+
+Le mandat de protection future est publié par une inscription sur un registre spécial dont les modalités et l'accès sont
+réglés par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-1776 du 28 décembre 2015 - art. 35
+
+
 ###### Article 478
 
 Le mandat de protection future est soumis aux dispositions des articles 1984 à 2010 qui ne sont pas incompatibles avec celles
@@ -34517,8 +34568,9 @@ l'autorité compétente, dans des conditions fixées par décret en Conseil d'Et
 
 ###### Article 911
 
-Toute libéralité au profit d'une personne physique, frappée d'une incapacité de recevoir à titre gratuit, est nulle, qu'elle
-soit déguisée sous la forme d'un contrat onéreux ou faite sous le nom de personnes interposées, physiques ou morales.
+Toute libéralité au profit d'une personne physique ou d'une personne morale, frappée d'une incapacité de recevoir à titre
+gratuit, est nulle, qu'elle soit déguisée sous la forme d'un contrat onéreux ou faite sous le nom de personnes interposées,
+physiques ou morales.
 
 Sont présumés personnes interposées, jusqu'à preuve contraire, les père et mère, les enfants et descendants, ainsi que
 l'époux de la personne incapable.
@@ -34530,7 +34582,7 @@ l'époux de la personne incapable.
 	  - Loi n°89-475 du 10 juillet 1989 - art. 13 (Ab)
 	  - Code de l'action sociale et des familles - art. L116-4 (V)
 	  - Code de l'action sociale et des familles - art. L331-4 (M)
-	  - Code de l'action sociale et des familles - art. L443-6 (M)
+	  - Code de l'action sociale et des familles - art. L443-6 (Ab)
 	  - Code de la famille et de l'aide sociale. - art. 209 bis (Ab)
 	  - Code général des impôts, CGI. - art. 751 (V)
 	  - Code général des impôts, CGI. - art. 752 (V)
@@ -34538,8 +34590,7 @@ l'époux de la personne incapable.
 
 	**Modifié par**:
 
-	  - Loi n°2006-728 du 23 juin 2006 - art. 10 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
-	  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+	  - Loi n°2015-1776 du 28 décembre 2015 - art. 29
 
 	**Codifié par**:
 

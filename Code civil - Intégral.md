@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 2015-12-30
+Version Consolidée au 2016-01-01
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -857,18 +857,24 @@ seize ans.
 Le mineur âgé de moins de seize ans doit être représenté par celui ou ceux qui exercent à son égard l'autorité parentale.
 
 Doit être pareillement représenté tout mineur dont l'altération des facultés mentales ou corporelles empêche l'expression de
-la volonté. L'empêchement est constaté par le juge des tutelles d'office, à la requête d'un membre de la famille du mineur ou
-du ministère public, au vu d'un certificat délivré par un médecin spécialiste choisi sur une liste établie par le procureur
-de la République.
+la volonté. L'empêchement est constaté par un certificat délivré par un médecin spécialiste choisi sur une liste établie par
+le procureur de la République. Ce certificat est joint à la demande.
 
 Lorsque le mineur mentionné à l'alinéa précédent est placé sous tutelle, sa représentation est assurée par le tuteur autorisé
 à cet effet par le conseil de famille.
+
+**Nota:**
+
+Conformément à l'article 17 de l'ordonnance n° 2015-1288 du 15 octobre 2015, le présent article entre en vigueur le 1er
+janvier 2016.
+
+Toutefois il est applicable aux administrations légales en cours au jour de son entrée en vigueur.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2007-1631 du 20 novembre 2007 - art. 39 () JORF 21 novembre 2007
+	  - ORDONNANCE n°2015-1288 du 15 octobre 2015 - art. 8
 
 	**Cité par**:
 
@@ -6818,26 +6824,17 @@ d'absence.
 Le juge peut désigner un ou plusieurs parents ou alliés, ou, le cas échéant, toutes autres personnes pour représenter la
 personne présumée absente dans l'exercice de ses droits ou dans tout acte auquel elle serait intéressée, ainsi que pour
 administrer tout ou partie de ses biens ; la représentation du présumé absent et l'administration de ses biens sont alors
-soumises aux règles applicables à l'administration légale sous contrôle judiciaire telle qu'elle est prévue pour les mineurs,
-et en outre sous les modifications qui suivent.
+soumises aux règles applicables                à la tutelle des majeurs sans conseil de famille, et en outre sous les
+modifications qui suivent.
+
+**Nota:**
+
+Conformément à l'article 17 de l'ordonnance n° 2015-1288 du 15 octobre 2015, le présent article entre en vigueur le 1er
+janvier 2016.
+
+Il est applicable aux administrations légales en cours au jour de son entrée en vigueur.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°77-1447 du 28 décembre 1977 - art. 1 () JORF 29 décembre 1977 en vigueur le 31 mars 1978
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°77-1447 du 28 décembre 1977 - art. 10 (V)
-	  - SPEC_APPLI: Loi n°77-1447 du 28 décembre 1977 - art. 7 (V)
-	  - SPEC_APPLI: Loi n°77-1447 du 28 décembre 1977 - art. 8 (V)
-	  - SPEC_APPLI: Loi n°77-1447 du 28 décembre 1977 - art. 9 (V)
-	  - SPEC_APPLI: Loi n°2001-1135 2001-12-03 art. 26 I (application à Mayotte)
 
 	**Cité par**:
 
@@ -6846,6 +6843,14 @@ et en outre sous les modifications qui suivent.
 	  - Code de commerce - art. A444-180 (V)
 	  - Code de la construction et de l'habitation. - art. R443-39 (Ab)
 	  - Décret du 26 mars 1910 - art. 12 (Ab)
+
+	**Modifié par**:
+
+	  - ORDONNANCE n°2015-1288 du 15 octobre 2015 - art. 9
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
 
 
 ###### Article 114
@@ -11656,38 +11661,37 @@ Cette demande ne peut être formée qu'à l'occasion de l'action en divorce.
 
 ###### Article 267
 
-A défaut d'un règlement conventionnel par les époux, le juge, en prononçant le divorce, ordonne la liquidation et le partage
-de leurs intérêts patrimoniaux. 
+A défaut d'un règlement conventionnel par les époux, le juge statue sur leurs demandes de maintien dans l'indivision,
+d'attribution préférentielle et d'avance sur part de communauté ou de biens indivis. 
 
-Il statue sur les demandes de maintien dans l'indivision ou d'attribution préférentielle. 
+Il statue sur les demandes de liquidation et de partage des intérêts patrimoniaux, dans les conditions fixées aux articles
+1361 à 1378 du code de procédure civile, s'il est justifié par tous moyens des désaccords subsistant entre les parties,
+notamment en produisant :
 
-Il peut aussi accorder à l'un des époux ou aux deux une avance sur sa part de communauté ou de biens indivis. 
+- une déclaration commune d'acceptation d'un partage judiciaire, indiquant les points de désaccord entre les époux ;
 
-Si le projet de liquidation du régime matrimonial établi par le notaire désigné sur le fondement du 10° de l'article 255
-contient des informations suffisantes, le juge, à la demande de l'un ou l'autre des époux, statue sur les désaccords
-persistant entre eux.
+- le projet établi par le notaire désigné sur le fondement du 10° de l'article 255. 
+
+Il peut, même d'office, statuer sur la détermination du régime matrimonial applicable aux époux.
 
 **Nota:**
 
+Conformément à l'article 17 II de l'ordonnance n° 2015-1288 du 15 octobre 2015, le présent article entre en vigueur le 1er
+janvier 2016.
 
+Toutefois il est applicable aux requêtes en divorce introduites avant son entrée en vigueur qui, au jour de celle-ci, n'ont
+pas donné lieu à une demande introductive d'instance.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°2004-439 2004-05-26 art. 32 I : Champ d'application
-
 	**Modifié par**:
 
-	  - Loi n°2004-439 du 26 mai 2004 - art. 17 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
+	  - ORDONNANCE n°2015-1288 du 15 octobre 2015 - art. 2
 
 	**Cite**:
 
-	  - Code civil - art. 255 (V)
+	  - Code de procédure civile - art. 1361
+	  - Code civil - art. 255
 
 	**Cité par**:
 
@@ -11695,31 +11699,9 @@ persistant entre eux.
 	  - Code de procédure civile - art. 1136-2 (V)
 	  - Code de procédure civile - art. 1136-3 (Ab)
 
+	**Codifié par**:
 
-###### Article 267-1
-
-Les opérations de liquidation et de partage des intérêts patrimoniaux des époux se déroulent suivant les règles fixées par le
-code de procédure civile.
-
-**Nota:**
-
-Loi n° 2009-526 du 12 mai 2009 art 14 IV : l'article 267-1 du code civil, dans sa rédaction issue de l'article 14 II de  la
-présente loi, est applicable aux demandes en justice formées à compter du 1er janvier 2010.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Loi n°2004-439 du 26 mai 2004 - art. 31 (V)
-	  - Code de procédure civile - art. 1136-3 (Ab)
-
-	**Modifié par**:
-
-	  - Loi n°2009-526 du 12 mai 2009 - art. 14 (V)
-
-	**Abrogé par**:
-
-	  - ORDONNANCE n°2015-1288 du 15 octobre 2015 - art. 2
+	  - Loi n°1803-03-14
 
 
 ###### Article 268
@@ -17714,9 +17696,21 @@ Si la restitution est accordée, le ministère public requerra, le cas échéant
 
 ### Chapitre II : De l'autorité parentale relativement aux biens de l'enfant
 
+#### Section 1 : De l'administration légale
+
+
 ###### Article 382
 
-Les père et mère ont, sous les distinctions qui suivent, l'administration et la jouissance des biens de leur enfant.
+L'administration légale appartient aux parents. Si l'autorité parentale est exercée en commun par les deux parents, chacun
+d'entre eux est administrateur légal. Dans les autres cas, l'administration légale appartient à celui des parents qui exerce
+l'autorité parentale.
+
+**Nota:**
+
+Conformément à l'article 17 de l'ordonnance n° 2015-1288 du 15 octobre 2015, le présent article entre en vigueur le 1er
+janvier 2016.
+
+Il est applicable aux administrations légales en cours au jour de son entrée en vigueur.
 
 **Liens relatifs à cet article**
 
@@ -17726,33 +17720,56 @@ Les père et mère ont, sous les distinctions qui suivent, l'administration et l
 	  - Décret n°59-1095 du 21 septembre 1959 - art. 5 (Ab)
 	  - Décret n°59-1095 du 21 septembre 1959 - art. 6 (Ab)
 
+	**Modifié par**:
+
+	  - ORDONNANCE n°2015-1288 du 15 octobre 2015 - art. 3
+
 	**Codifié par**:
 
 	  - Loi n°1803-03-14
 
+
+###### Article 382-1
+
+Lorsque l'administration légale est exercée en commun par les deux parents, chacun d'eux est réputé, à l'égard des tiers,
+avoir reçu de l'autre le pouvoir de faire seul les actes d'administration portant sur les biens du mineur. 
+
+La liste des actes qui sont regardés comme des actes d'administration est définie dans les conditions de l'article 496.
+
+**Nota:**
+
+Conformément à l'article 17 de l'ordonnance n° 2015-1288 du 15 octobre 2015, le présent article entre en vigueur le 1er
+janvier 2016.
+
+Il est applicable aux administrations légales en cours au jour de son entrée en vigueur.
+
+**Liens relatifs à cet article**
+
 	**Créé par**:
 
-	  - Loi n°70-459 du 4 juin 1970 - art. 1 () JORF 5 juin 1970 en vigueur le 1er janvier 1971
+	  - ORDONNANCE n°2015-1288 du 15 octobre 2015 - art. 3
 
-	**Liens**:
+	**Cite**:
 
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 10 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 11 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 12 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 13 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 14 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 15 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 9 (V)
+	  - Code civil - art. 496
 
 
 ###### Article 383
 
-L'administration légale est exercée conjointement par le père et la mère lorsqu'ils exercent en commun l'autorité parentale
-et, dans les autres cas, sous le contrôle du juge, soit par le père, soit par la mère, selon les dispositions du chapitre
-précédent.
+Lorsque les intérêts de l'administrateur légal unique ou, selon le cas, des deux administrateurs légaux sont en opposition
+avec ceux du mineur, ces derniers demandent la nomination d'un administrateur ad hoc par le juge des tutelles. A défaut de
+diligence des administrateurs légaux, le juge peut procéder à cette nomination à la demande du ministère public, du mineur
+lui-même ou d'office.
 
-La jouissance légale est attachée à l'administration légale : elle appartient soit aux deux parents conjointement, soit à
-celui des père et mère qui a la charge de l'administration.
+Lorsque les intérêts d'un des deux administrateurs légaux sont en opposition avec ceux du mineur, le juge des tutelles peut
+autoriser l'autre administrateur légal à représenter l'enfant pour un ou plusieurs actes déterminés.
+
+**Nota:**
+
+Conformément à l'article 17 de l'ordonnance n° 2015-1288 du 15 octobre 2015, le présent article entre en vigueur le 1er
+janvier 2016.
+
+Il est applicable aux administrations légales en cours au jour de son entrée en vigueur.
 
 **Liens relatifs à cet article**
 
@@ -17762,11 +17779,7 @@ celui des père et mère qui a la charge de l'administration.
 
 	**Modifié par**:
 
-	  - Loi n°85-1372 du 23 décembre 1985 - art. 40 () JORF 26 décembre 1985 en vigueur le 1er juillet 1986
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°85-1372 du 23 décembre 1985 - art. 55 (V)
+	  - ORDONNANCE n°2015-1288 du 15 octobre 2015 - art. 3
 
 	**Cité par**:
 
@@ -17776,14 +17789,21 @@ celui des père et mère qui a la charge de l'administration.
 
 ###### Article 384
 
-Le droit de jouissance cesse :
+Ne sont pas soumis à l'administration légale les biens donnés ou légués au mineur sous la condition qu'ils soient administrés
+par un tiers. 
 
-1° Dès que l'enfant a seize ans accomplis, ou même plus tôt quand il contracte mariage ;
+Le tiers administrateur a les pouvoirs qui lui sont conférés par la donation, le testament ou, à défaut, ceux d'un
+administrateur légal. 
 
-2° Par les causes qui mettent fin à l'autorité parentale, ou même plus spécialement par celles qui mettent fin à
-l'administration légale ;
+Lorsque le tiers administrateur refuse cette fonction ou se trouve dans une des situations prévues aux articles 395 et 396,
+le juge des tutelles désigne un administrateur ad hoc pour le remplacer.
 
-3° Par les causes qui emportent l'extinction de tout usufruit.
+**Nota:**
+
+Conformément à l'article 17 de l'ordonnance n° 2015-1288 du 15 octobre 2015, le présent article entre en vigueur le 1er
+janvier 2016.
+
+Il est applicable aux administrations légales en cours au jour de son entrée en vigueur.
 
 **Liens relatifs à cet article**
 
@@ -17791,86 +17811,178 @@ l'administration légale ;
 
 	  - Loi n°1803-03-14
 
-	**Créé par**:
-
-	  - Loi n°70-459 du 4 juin 1970 - art. 1 () JORF 5 juin 1970 en vigueur le 1er janvier 1971
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 10 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 11 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 12 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 13 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 14 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 15 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 9 (V)
-
 	**Modifié par**:
 
-	  - Loi n°74-631 du 5 juillet 1974 - art. 5 () JORF 7 juillet 1974
+	  - ORDONNANCE n°2015-1288 du 15 octobre 2015 - art. 3
+
+	**Cite**:
+
+	  - Code civil - art. 395 (V)
 
 
 ###### Article 385
 
+L'administrateur légal est tenu d'apporter dans la gestion des biens du mineur des soins prudents, diligents et avisés, dans
+le seul intérêt du mineur.
+
+**Nota:**
+
+Conformément à l'article 17 de l'ordonnance n° 2015-1288 du 15 octobre 2015, le présent article entre en vigueur le 1er
+janvier 2016.
+
+Il est applicable aux administrations légales en cours au jour de son entrée en vigueur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Modifié par**:
+
+	  - ORDONNANCE n°2015-1288 du 15 octobre 2015 - art. 3
+
+
+###### Article 386
+
+L'administrateur légal est responsable de tout dommage résultant d'une faute quelconque qu'il commet dans la gestion des
+biens du mineur. 
+
+Si l'administration légale est exercée en commun, les deux parents sont responsables solidairement. 
+
+L'Etat est responsable des dommages susceptibles d'être occasionnés par le juge des tutelles et le greffier en chef du
+tribunal de grande instance dans l'exercice de leurs fonctions en matière d'administration légale, dans les conditions
+prévues à l'article 412. 
+
+L'action en responsabilité se prescrit par cinq ans à compter de la majorité de l'intéressé ou de son émancipation.
+
+**Nota:**
+
+Conformément à l'article 17 de l'ordonnance n° 2015-1288 du 15 octobre 2015, le présent article entre en vigueur le 1er
+janvier 2016.
+
+Il est applicable aux administrations légales en cours au jour de son entrée en vigueur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Modifié par**:
+
+	  - ORDONNANCE n°2015-1288 du 15 octobre 2015 - art. 3
+
+	**Cite**:
+
+	  - Code civil - art. 412 (M)
+
+
+#### Section 2 : De la jouissance légale
+
+###### Article 386-1
+
+La jouissance légale est attachée à l'administration légale : elle appartient soit aux parents en commun, soit à celui
+d'entre eux qui a la charge de l'administration.
+
+**Nota:**
+
+Conformément à l'article 17 de l'ordonnance n° 2015-1288 du 15 octobre 2015, le présent article entre en vigueur le 1er
+janvier 2016.
+
+Il est applicable aux administrations légales en cours au jour de son entrée en vigueur.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - ORDONNANCE n°2015-1288 du 15 octobre 2015 - art. 3
+
+
+###### Article 386-2
+
+Le droit de jouissance cesse :
+
+1° Dès que l'enfant a seize ans accomplis ou même plus tôt quand il contracte mariage ;
+
+2° Par les causes qui mettent fin à l'autorité parentale ou par celles qui mettent fin à l'administration légale ;
+
+3° Par les causes qui emportent l'extinction de tout usufruit.
+
+**Nota:**
+
+Conformément à l'article 17 de l'ordonnance n° 2015-1288 du 15 octobre 2015, le présent article entre en vigueur le 1er
+janvier 2016.
+
+Il est applicable aux administrations légales en cours au jour de son entrée en vigueur.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - ORDONNANCE n°2015-1288 du 15 octobre 2015 - art. 3
+
+
+###### Article 386-3
+
 Les charges de cette jouissance sont :
 
-1° Celles auxquelles sont tenus en général les usufruitiers ;
+1° Celles auxquelles sont tenus les usufruitiers ;
 
 2° La nourriture, l'entretien et l'éducation de l'enfant, selon sa fortune ;
 
 3° Les dettes grevant la succession recueillie par l'enfant en tant qu'elles auraient dû être acquittées sur les revenus.
 
-**Liens relatifs à cet article**
+**Nota:**
 
-	**Codifié par**:
+Conformément à l'article 17 de l'ordonnance n° 2015-1288 du 15 octobre 2015, le présent article entre en vigueur le 1er
+janvier 2016.
 
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°70-459 du 4 juin 1970 - art. 1 () JORF 5 juin 1970 en vigueur le 1er janvier 1971
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 10 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 11 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 12 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 13 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 14 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 15 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 9 (V)
-
-
-###### Article 386
-
-Cette jouissance n'aura pas lieu au profit de l'époux survivant qui aurait omis de faire inventaire, authentique ou sous
-seing privé, des biens échus au mineur.
+Il est applicable aux administrations légales en cours au jour de son entrée en vigueur.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Créé par**:
 
-	  - Loi n°1803-03-14
+	  - ORDONNANCE n°2015-1288 du 15 octobre 2015 - art. 3
+
+
+###### Article 386-4
+
+La jouissance légale ne s'étend pas aux biens :
+
+1° Que l'enfant peut acquérir par son travail ;
+
+2° Qui lui sont donnés ou légués sous la condition expresse que les parents n'en jouiront pas ;
+
+3° Qu'il reçoit au titre de l'indemnisation d'un préjudice extrapatrimonial dont il a été victime.
+
+**Nota:**
+
+Conformément à l'article 17 de l'ordonnance n° 2015-1288 du 15 octobre 2015, le présent article entre en vigueur le 1er
+janvier 2016.
+
+Il est applicable aux administrations légales en cours au jour de son entrée en vigueur.
+
+**Liens relatifs à cet article**
 
 	**Créé par**:
 
-	  - Loi n°70-459 du 4 juin 1970 - art. 1 () JORF 5 juin 1970 en vigueur le 1er janvier 1971
+	  - ORDONNANCE n°2015-1288 du 15 octobre 2015 - art. 3
 
-	**Liens**:
 
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 10 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 11 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 12 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 13 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 14 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 15 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 9 (V)
-
+#### Section 3 : De l'intervention du juge des tutelles
 
 ###### Article 387
 
-La jouissance légale ne s'étend pas aux biens que l'enfant peut acquérir par son travail, ni à ceux qui lui sont donnés ou
-légués sous la condition expresse que les père et mère n'en jouiront pas.
+En cas de désaccord entre les administrateurs légaux, le juge des tutelles est saisi aux fins d'autorisation de l'acte.
+
+**Nota:**
+
+Conformément à l'article 17 de l'ordonnance n° 2015-1288 du 15 octobre 2015, le présent article entre en vigueur le 1er
+janvier 2016.
+
+Il est applicable aux administrations légales en cours au jour de son entrée en vigueur.
 
 **Liens relatifs à cet article**
 
@@ -17878,19 +17990,9 @@ légués sous la condition expresse que les père et mère n'en jouiront pas.
 
 	  - Loi n°1803-03-14
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°70-459 du 4 juin 1970 - art. 1 () JORF 5 juin 1970 en vigueur le 1er janvier 1971
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 10 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 11 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 12 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 13 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 14 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 15 (V)
-	  - SPEC_APPLI: Loi n°70-459 du 4 juin 1970 - art. 9 (V)
+	  - ORDONNANCE n°2015-1288 du 15 octobre 2015 - art. 3
 
 	**Cité par**:
 
@@ -17898,7 +18000,234 @@ légués sous la condition expresse que les père et mère n'en jouiront pas.
 	  - Code de procédure civile - art. 1180-14 (V)
 
 
+###### Article 387-1
+
+L'administrateur légal ne peut, sans l'autorisation préalable du juge des tutelles :
+
+1° Vendre de gré à gré un immeuble ou un fonds de commerce appartenant au mineur ;
+
+2° Apporter en société un immeuble ou un fonds de commerce appartenant au mineur ;
+
+3° Contracter un emprunt au nom du mineur ;
+
+4° Renoncer pour le mineur à un droit, transiger ou compromettre en son nom ;
+
+5° Accepter purement et simplement une succession revenant au mineur ;
+
+6° Acheter les biens du mineur, les prendre à bail ; pour la conclusion de l'acte, l'administrateur légal est réputé être en
+opposition d'intérêts avec le mineur ;
+
+7° Constituer gratuitement une sûreté au nom du mineur pour garantir la dette d'un tiers ;
+
+8° Procéder à la réalisation d'un acte portant sur des valeurs mobilières ou instruments financiers au sens de l'article L.
+211-1 du code monétaire et financier, si celui-ci engage le patrimoine du mineur pour le présent ou l'avenir par une
+modification importante de son contenu, une dépréciation significative de sa valeur en capital ou une altération durable des
+prérogatives du mineur.
+
+L'autorisation détermine les conditions de l'acte et, s'il y a lieu, le prix ou la mise à prix pour lequel l'acte est passé.
+
+**Nota:**
+
+Conformément à l'article 17 de l'ordonnance n° 2015-1288 du 15 octobre 2015, le présent article entre en vigueur le 1er
+janvier 2016.
+
+Il est applicable aux administrations légales en cours au jour de son entrée en vigueur.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - ORDONNANCE n°2015-1288 du 15 octobre 2015 - art. 3
+
+	**Cité par**:
+
+	  - Code civil - art. 387-3 (VD)
+	  - Code civil - art. 387-4 (VD)
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L211-1
+
+
+###### Article 387-2
+
+L'administrateur légal ne peut, même avec une autorisation :
+
+1° Aliéner gratuitement les biens ou les droits du mineur ;
+
+2° Acquérir d'un tiers un droit ou une créance contre le mineur ;
+
+3° Exercer le commerce ou une profession libérale au nom du mineur ;
+
+4° Transférer dans un patrimoine fiduciaire les biens ou les droits du mineur.
+
+**Nota:**
+
+Conformément à l'article 17 de l'ordonnance n° 2015-1288 du 15 octobre 2015, le présent article entre en vigueur le 1er
+janvier 2016.
+
+Il est applicable aux administrations légales en cours au jour de son entrée en vigueur.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - ORDONNANCE n°2015-1288 du 15 octobre 2015 - art. 3
+
+
+###### Article 387-3
+
+A l'occasion du contrôle des actes mentionnés à l'article 387-1, le juge peut, s'il l'estime indispensable à la sauvegarde
+des intérêts du mineur, en considération de la composition ou de la valeur du patrimoine, de l'âge du mineur ou de sa
+situation familiale, décider qu'un acte ou une série d'actes de disposition seront soumis à son autorisation préalable. 
+
+Le juge est saisi aux mêmes fins par les parents ou l'un d'eux, le ministère public ou tout tiers ayant connaissance d'actes
+ou omissions qui compromettent manifestement et substantiellement les intérêts patrimoniaux du mineur ou d'une situation de
+nature à porter un préjudice grave à ceux-ci. 
+
+Les tiers qui ont informé le juge de la situation ne sont pas garants de la gestion des biens du mineur faite par
+l'administrateur légal.
+
+**Nota:**
+
+Conformément à l'article 17 de l'ordonnance n° 2015-1288 du 15 octobre 2015, le présent article entre en vigueur le 1er
+janvier 2016.
+
+Il est applicable aux administrations légales en cours au jour de son entrée en vigueur.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - ORDONNANCE n°2015-1288 du 15 octobre 2015 - art. 3
+
+	**Cite**:
+
+	  - Code civil - art. 387-1
+
+	**Cité par**:
+
+	  - Code civil - art. 387-4 (VD)
+	  - Code de procédure civile - art. 1180-7 (V)
+
+
+###### Article 387-4
+
+A l'occasion du contrôle qu'il exerce en application des articles 387-1 et 387-3, le juge peut demander à l'administrateur
+légal qu'un inventaire du patrimoine du mineur lui soit transmis ainsi que, chaque année, un inventaire actualisé. 
+
+Une copie de l'inventaire est remise au mineur âgé de seize ans révolus.
+
+**Nota:**
+
+Conformément à l'article 17 de l'ordonnance n° 2015-1288 du 15 octobre 2015, le présent article entre en vigueur le 1er
+janvier 2016.
+
+Il est applicable aux administrations légales en cours au jour de son entrée en vigueur.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - ORDONNANCE n°2015-1288 du 15 octobre 2015 - art. 3
+
+	**Cite**:
+
+	  - Code civil - art. 387-1
+	  - Code civil - art. 387-3
+
+
+###### Article 387-5
+
+A l'occasion du contrôle mentionné à l'article précédent, le juge peut demander à l'administrateur légal de soumettre au
+greffier en chef du tribunal de grande instance un compte de gestion annuel, accompagné des pièces justificatives, en vue de
+sa vérification.
+
+Lorsque des comptes ont été demandés, l'administrateur légal doit remettre au greffier en chef, à la fin de sa mission, un
+compte définitif des opérations intervenues depuis l'établissement du dernier compte annuel.
+
+Le greffier en chef peut être assisté dans sa mission de contrôle des comptes dans les conditions fixées par le code de
+procédure civile. Il peut aussi solliciter des établissements auprès desquels des comptes sont ouverts au nom du mineur un
+relevé annuel de ceux-ci sans que puisse lui être opposé le secret professionnel ou le secret bancaire.
+
+S'il refuse d'approuver le compte, le greffier en chef dresse un rapport des difficultés rencontrées, qu'il transmet au juge.
+Celui-ci statue sur la conformité du compte.
+
+Si l'importance et la composition du patrimoine du mineur le justifient, le juge peut décider que la mission de vérification
+et d'approbation sera exercée, aux frais du mineur et selon les modalités qu'il fixe, par un technicien.
+
+Une copie des comptes de gestion est remise au mineur âgé de seize ans révolus.
+
+L'action en reddition de comptes, en revendication ou en paiement se prescrit par cinq ans à compter de la majorité de
+l'intéressé.
+
+**Nota:**
+
+Conformément à l'article 17 de l'ordonnance n° 2015-1288 du 15 octobre 2015, le présent article entre en vigueur le 1er
+janvier 2016.
+
+Il est applicable aux administrations légales en cours au jour de son entrée en vigueur.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - ORDONNANCE n°2015-1288 du 15 octobre 2015 - art. 3
+
+	**Cité par**:
+
+	  - Code civil - art. 413-5 (VD)
+
+
+###### Article 387-6
+
+L'administrateur légal est tenu de déférer aux convocations du juge des tutelles et du procureur de la République et de leur
+communiquer toute information qu'ils requièrent.
+
+Le juge peut prononcer contre lui des injonctions et le condamner à l'amende civile prévue par le code de procédure civile
+s'il n'a pas déféré.
+
+**Nota:**
+
+Conformément à l'article 17 de l'ordonnance n° 2015-1288 du 15 octobre 2015, le présent article entre en vigueur le 1er
+janvier 2016.
+
+Il est applicable aux administrations légales en cours au jour de son entrée en vigueur.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - ORDONNANCE n°2015-1288 du 15 octobre 2015 - art. 3
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 1180-19 (V)
+
+
 ## Titre X : De la minorité et de l'émancipation
+
+### Chapitre Ier : De la minorité
+
+#### Section 2 : De la tutelle
+
+##### Sous-section 1 : Des cas d'ouverture et de fin de la tutelle
+
+##### Sous-section 2 : De l'organisation et du fonctionnement de la tutelle
+
+##### Paragraphe 1 : Des charges tutélaires
+
+##### Paragraphe 2 : Du conseil de famille
+
+##### Paragraphe 3 : Du tuteur
+
+##### Paragraphe 4 : Du subrogé tuteur
+
+##### Paragraphe 6 : De la responsabilité
+
+### Chapitre II : De l'émancipation
+
+## Titre X : De la minorité, de la tutelle et de l'émancipation
 
 ### Chapitre Ier : De la minorité
 
@@ -17969,11 +18298,60 @@ Le juge s'assure que le mineur a été informé de son droit à être entendu et
 	  - Loi n°1803-03-14
 
 
+###### Article 388-1-1
+
+L'administrateur légal représente le mineur dans tous les actes de la  vie civile, sauf les cas dans lesquels la loi ou
+l'usage autorise les  mineurs à agir eux-mêmes.
+
+**Nota:**
+
+Conformément à l'article 17 de l'ordonnance n° 2015-1288 du 15 octobre 2015, le présent article entre en vigueur le 1er
+janvier 2016.
+
+Toutefois il est applicable aux administrations légales en cours au jour de son entrée en vigueur.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - ORDONNANCE n°2015-1288 du 15 octobre 2015 - art. 5
+
+
+###### Article 388-1-2
+
+Un mineur âgé de seize ans révolus peut être autorisé, par son ou ses  administrateurs légaux, à accomplir seul les actes
+d'administration  nécessaires à la création et à la gestion d'une entreprise individuelle à  responsabilité limitée ou d'une
+société unipersonnelle. Les actes de  disposition ne peuvent être effectués que par son ou ses administrateurs  légaux. 
+
+L'autorisation mentionnée au premier  alinéa revêt la forme d'un acte sous seing privé ou d'un acte notarié et  comporte la
+liste des actes d'administration pouvant être accomplis par  le mineur.
+
+**Nota:**
+
+Conformément à l'article 17 de l'ordonnance n° 2015-1288 du 15  octobre 2015, le présent article entre en vigueur le 1er
+janvier 2016.
+
+Toutefois il est applicable aux administrations légales en cours au jour de son entrée en vigueur.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - ORDONNANCE n°2015-1288 du 15 octobre 2015 - art. 5
+
+
 ###### Article 388-2
 
 Lorsque, dans une procédure, les intérêts d'un mineur apparaissent en opposition avec ceux de ses représentants légaux, le
-juge des tutelles dans les conditions prévues à l'article 389-3 ou, à défaut, le juge saisi de l'instance lui désigne un
+juge des tutelles dans les conditions prévues à l'article 383 ou, à défaut, le juge saisi de l'instance lui désigne un
 administrateur ad hoc chargé de le représenter.
+
+**Nota:**
+
+Conformément à l'article 17 de l'ordonnance n° 2015-1288 du 15 octobre 2015, le présent article entre en vigueur le 1er
+janvier 2016.
+
+Iil est applicable aux administrations légales en cours au jour de son entrée en vigueur.
 
 **Liens relatifs à cet article**
 
@@ -17983,289 +18361,22 @@ administrateur ad hoc chargé de le représenter.
 	  - Code de procédure civile - art. 1210-1 (V)
 	  - Code de procédure pénale - art. R93 (V)
 
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
 	**Modifié par**:
-
-	  - Loi n°2007-308 du 5 mars 2007 - art. 2 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
-
-	**Cite**:
-
-	  - Code civil - art. 389-3 (V)
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-
-###### Article 388-3
-
-Le juge des tutelles et le procureur de la République exercent une surveillance générale des administrations légales et des
-tutelles de leur ressort.
-
-Les administrateurs légaux, tuteurs et autres organes tutélaires sont tenus de déférer à leur convocation et de leur
-communiquer toute information qu'ils requièrent.
-
-Le juge peut prononcer contre eux des injonctions et condamner à l'amende civile prévue par le code de procédure civile ceux
-qui n'y ont pas déféré.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Code de procédure civile - art. 1216 (M)
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°2007-308 du 5 mars 2007 - art. 4 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
-
-	**Abrogé par**:
 
 	  - ORDONNANCE n°2015-1288 du 15 octobre 2015 - art. 5
 
+	**Cite**:
 
-#### Section 1 : De l'administration légale
+	  - Code civil - art. 383
 
-###### Article 389
 
-Si l'autorité parentale est exercée en commun par les deux parents, ceux-ci sont administrateurs légaux. Dans les autres cas,
-l'administration légale appartient à celui des parents qui exerce l'autorité parentale.
+### Chapitre II : De la tutelle 
 
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Loi n°64-1230 du 14 décembre 1964 - art. 10 (V)
-	  - Loi n°64-1230 du 14 décembre 1964 - art. 9 (V)
-	  - Code civil - art. 2143 (T)
-	  - Code civil - art. 2409 (VT)
-	  - Code civil - art. 288 (Ab)
-
-	**Modifié par**:
-
-	  - Loi n°2007-308 du 5 mars 2007 - art. 2 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
-
-	**Abrogé par**:
-
-	  - ORDONNANCE n°2015-1288 du 15 octobre 2015 - art. 4
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-
-###### Article 389-1
-
-L'administration légale est pure et simple quand les deux parents exercent en commun l'autorité parentale.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Code civil - art. 383 (M)
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Modifié par**:
-
-	  - Loi n°2007-308 du 5 mars 2007 - art. 2 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
-
-	**Abrogé par**:
-
-	  - ORDONNANCE n°2015-1288 du 15 octobre 2015 - art. 4
-
-
-###### Article 389-2
-
-L'administration légale est placée sous le contrôle du juge des tutelles lorsque l'un ou l'autre des deux parents est décédé
-ou se trouve privé de l'exercice de l'autorité parentale ; elle l'est également, en cas d'exercice unilatéral de l'autorité
-parentale.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Code civil - art. 392 (VD)
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Modifié par**:
-
-	  - Loi n°2007-308 du 5 mars 2007 - art. 2 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
-
-	**Abrogé par**:
-
-	  - ORDONNANCE n°2015-1288 du 15 octobre 2015 - art. 4
-
-
-###### Article 389-3
-
-L'administrateur légal représentera le mineur dans tous les actes civils, sauf les cas dans lesquels la loi ou l'usage
-autorise les mineurs à agir eux-mêmes.
-
-Quand ses intérêts sont en opposition avec ceux du mineur, il doit faire nommer un administrateur ad hoc par le juge des
-tutelles. A défaut de diligence de l'administrateur légal, le juge peut procéder à cette nomination à la demande du ministère
-public, du mineur lui-même ou d'office.
-
-Ne sont pas soumis à l'administration légale les biens qui auraient été donnés ou légués au mineur sous la condition qu'ils
-seraient administrés par un tiers. Ce tiers administrateur aura les pouvoirs qui lui auront été conférés par la donation ou
-le testament ; à défaut, ceux d'un administrateur légal sous contrôle judiciaire.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Décret n°2000-35 du 17 janvier 2000 - art. 1 (Ab)
-	  - Code civil - art. 317 (M)
-	  - Code civil - art. 388-2 (V)
-	  - Code de procédure civile - art. 1210-1 (M)
-	  - Code de procédure pénale - art. R93 (V)
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Modifié par**:
-
-	  - Loi n°2007-308 du 5 mars 2007 - art. 2 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
-
-	**Abrogé par**:
-
-	  - ORDONNANCE n°2015-1288 du 15 octobre 2015 - art. 4
-
-
-###### Article 389-4
-
-Dans l'administration légale pure et simple, chacun des parents est réputé, à l'égard des tiers, avoir reçu de l'autre le
-pouvoir de faire seul les actes pour lesquels un tuteur n'aurait besoin d'aucune autorisation.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Modifié par**:
-
-	  - Loi n°2007-308 du 5 mars 2007 - art. 2 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
-
-	**Abrogé par**:
-
-	  - ORDONNANCE n°2015-1288 du 15 octobre 2015 - art. 4
-
-
-###### Article 389-5
-
-Dans l'administration légale pure et simple, les parents accomplissent ensemble les actes qu'un tuteur ne pourrait faire
-qu'avec l'autorisation du conseil de famille.
-
-A défaut d'accord entre les parents, l'acte doit être autorisé par le juge des tutelles.
-
-Même d'un commun accord, les parents ne peuvent ni vendre de gré à gré, ni apporter en société un immeuble ou un fonds de
-commerce appartenant au mineur, ni contracter d'emprunt en son nom, ni renoncer pour lui à un droit, sans l'autorisation du
-juge des tutelles. La même autorisation est requise pour le partage amiable, et l'état liquidatif doit être approuvé par le
-juge des tutelles.
-
-Si l'acte cause un préjudice au mineur, les parents en sont responsables solidairement.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Modifié par**:
-
-	  - Loi n°2007-308 du 5 mars 2007 - art. 2 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
-
-	**Abrogé par**:
-
-	  - ORDONNANCE n°2015-1288 du 15 octobre 2015 - art. 4
-
-	**Cité par**:
-
-	  - Code de procédure civile - art. 1230 (M)
-	  - Code de procédure civile - art. 1239-1 (M)
-
-
-###### Article 389-6
-
-Dans l'administration légale sous contrôle judiciaire, l'administrateur doit se pourvoir d'une autorisation du juge des
-tutelles pour accomplir les actes qu'un tuteur ne pourrait faire qu'avec une autorisation.
-
-Il peut faire seul les autres actes.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Modifié par**:
-
-	  - Loi n°2007-308 du 5 mars 2007 - art. 2 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
-
-	**Abrogé par**:
-
-	  - ORDONNANCE n°2015-1288 du 15 octobre 2015 - art. 4
-
-
-###### Article 389-7
-
-Les règles de la tutelle sont, pour le surplus, applicables à l'administration légale, avec les modalités résultant de ce que
-celle-ci ne comporte ni conseil de famille ni subrogé tuteur, et sans préjudicier, d'autre part, aux droits que les père et
-mère tiennent du titre "De l'autorité parentale", notamment quant à l'éducation de l'enfant et à l'usufruit de ses biens.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Modifié par**:
-
-	  - Loi n°2007-308 du 5 mars 2007 - art. 2 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
-
-	**Abrogé par**:
-
-	  - ORDONNANCE n°2015-1288 du 15 octobre 2015 - art. 4
-
-
-###### Article 389-8
-
-Un mineur âgé de seize ans révolus peut être autorisé, par ses deux parents qui exercent en commun l'autorité parentale ou
-par son administrateur légal sous contrôle judiciaire avec l'autorisation du juge des tutelles, à accomplir seul les actes
-d'administration nécessaires pour les besoins de la création et de la gestion d'une entreprise individuelle à responsabilité
-limitée ou d'une société unipersonnelle. Les actes de disposition ne peuvent être effectués que par ses deux parents ou, à
-défaut, par son administrateur légal sous contrôle judiciaire avec l'autorisation du juge des tutelles. 
-
-L'autorisation visée au premier alinéa revêt la forme d'un acte sous seing privé ou d'un acte notarié et comporte la liste
-des actes d'administration pouvant être accomplis par le mineur.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°2012-387 du 22 mars 2012 - art. 32
-
-	**Abrogé par**:
-
-	  - ORDONNANCE n°2015-1288 du 15 octobre 2015 - art. 4
-
-	**Cité par**:
-
-	  - Code de commerce - art. R526-3 (V)
-
-
-#### Section 2 : De la tutelle
-
-##### Sous-section 1 : Des cas d'ouverture et de fin de la tutelle
+#### Section 1 : Des cas d'ouverture et de fin de la tutelle
 
 ###### Article 390
 
@@ -18294,51 +18405,70 @@ Il n'est pas dérogé aux lois particulières qui régissent le service de l'aid
 
 ###### Article 391
 
-Dans le cas de l'administration légale sous contrôle judiciaire, le juge des tutelles peut, à tout moment, soit d'office,
-soit à la requête de parents ou alliés ou du ministère public, décider d'ouvrir la tutelle après avoir entendu ou appelé,
-sauf urgence, l'administrateur légal. Celui-ci ne peut faire, à partir de la demande et jusqu'au jugement définitif, sauf le
-cas d'urgence, aucun acte qui requerrait l'autorisation du conseil de famille si la tutelle était ouverte.
+En cas d'administration légale, le juge des tutelles peut, à tout moment et pour cause grave, soit d'office, soit à la
+requête de parents ou alliés ou du ministère public, décider d'ouvrir la tutelle après avoir entendu ou appelé, sauf urgence,
+l'administrateur légal. Celui-ci ne peut faire aucun acte de disposition à partir de la demande et jusqu'au jugement
+définitif sauf en cas d'urgence.
 
-Le juge des tutelles peut aussi décider, mais seulement pour cause grave, d'ouvrir la tutelle dans le cas d'administration
-légale pure et simple.
+Si la tutelle est ouverte, le juge des tutelles convoque le conseil de famille, qui peut soit nommer comme tuteur
+l'administrateur légal, soit désigner un autre tuteur.
 
-Dans l'un et l'autre cas, si la tutelle est ouverte, le juge des tutelles convoque le conseil de famille qui pourra soit
-nommer tuteur l'administrateur légal, soit désigner un autre tuteur.
+**Nota:**
+
+Conformément à l'article 17 de l'ordonnance n° 2015-1288 du 15 octobre 2015, le présent article entre en vigueur le 1er
+janvier 2016.
+
+Il est applicable aux administrations légales en cours au jour de son entrée en vigueur.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Liens**:
 
-	  - Loi n°1803-03-14
+	  - DEPLACE: ORDONNANCE n°2015-1288 du 15 octobre 2015 - art. 4
 
 	**Modifié par**:
 
-	  - Loi n°2007-308 du 5 mars 2007 - art. 2 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+	  - ORDONNANCE n°2015-1288 du 15 octobre 2015 - art. 6
 
 	**Cité par**:
 
 	  - Code civil - art. 428 (VT)
 	  - Code de procédure civile - art. 1217 (V)
 
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
 
 ###### Article 392
 
 Si un enfant vient à être reconnu par l'un de ses deux parents après l'ouverture de la tutelle, le juge des tutelles pourra,
-à la requête de ce parent, décider de substituer à la tutelle l'administration légale dans les termes de l'article 389-2.
+à la requête de ce parent, décider de substituer à la tutelle l'administration légale.
+
+**Nota:**
+
+Conformément à l'article 17 de l'ordonnance n° 2015-1288 du 15 octobre 2015, le présent article entre en vigueur le 1er
+janvier 2016.
+
+Il est applicable aux administrations légales en cours au jour de son entrée en vigueur.
 
 **Liens relatifs à cet article**
 
+	**Liens**:
+
+	  - DEPLACE: ORDONNANCE n°2015-1288 du 15 octobre 2015 - art. 4
+
 	**Modifié par**:
 
-	  - Loi n°2007-308 du 5 mars 2007 - art. 2 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+	  - ORDONNANCE n°2015-1288 du 15 octobre 2015 - art. 6
 
 	**Cite**:
 
-	  - Code civil - art. 389-2 (V)
+	  - Code civil - art. 389-2 (VT)
 
 	**Cité par**:
 
-	  - Code civil - art. 393 (M)
+	  - Code civil - art. 393 (V)
 
 	**Codifié par**:
 
@@ -18373,7 +18503,7 @@ prend également fin en cas de jugement de mainlevée passé en force de chose j
 	  - Loi n°1803-03-14
 
 
-##### Sous-section 2 : De l'organisation et du fonctionnement de la tutelle
+#### Section 2 : De l'organisation et du fonctionnement de la tutelle
 
 ##### Paragraphe 1 : Des charges tutélaires
 
@@ -18814,15 +18944,26 @@ l'enfance.
 
 En ce cas, la tutelle ne comporte ni conseil de famille ni subrogé tuteur.
 
-La personne désignée pour exercer cette tutelle a, sur les biens du mineur, les pouvoirs d'un administrateur légal sous
-contrôle judiciaire.
+**Nota:**
+
+Conformément à l'article 17 de l'ordonnance n° 2015-1288 du 15 octobre 2015, le présent article entre en vigueur le 1er
+janvier 2016.
+
+Toutefois il est applicable aux administrations légales en cours au jour de son entrée en vigueur.
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Liens**:
+
+	  - DEPLACE: ORDONNANCE n°2015-1288 du 15 octobre 2015 - art. 4
+
 	**Modifié par**:
 
-	  - Loi n°2007-308 du 5 mars 2007 - art. 2 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
-	  - Loi n°2007-308 du 5 mars 2007 - art. 6 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+	  - ORDONNANCE n°2015-1288 du 15 octobre 2015 - art. 6
 
 	**Cité par**:
 
@@ -18830,9 +18971,33 @@ contrôle judiciaire.
 	  - Code de la construction et de l'habitation. - art. R443-38 (Ab)
 	  - Décret du 26 mars 1910 - art. 12 (Ab)
 
-	**Codifié par**:
 
-	  - Loi n°1803-03-14
+###### Article 411-1
+
+Le juge des tutelles et le procureur de la République exercent une surveillance générale des tutelles de leur ressort. 
+
+Les tuteurs et autres organes tutélaires sont tenus de déférer à leur  convocation et de leur communiquer toute information
+qu'ils requièrent. 
+
+Le juge peut prononcer contre eux des injonctions et condamner à  l'amende civile prévue par le code de procédure civile ceux
+qui n'y ont  pas déféré.
+
+**Nota:**
+
+Conformément à l'article 17 de l'ordonnance n° 2015-1288 du 15 octobre 2015, le présent article entre en vigueur le 1er
+janvier 2016.
+
+Il est applicable aux administrations légales en cours au jour de son entrée en vigueur.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - ORDONNANCE n°2015-1288 du 15 octobre 2015 - art. 6
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 1216 (V)
 
 
 ##### Paragraphe 6 : De la responsabilité
@@ -18882,7 +19047,7 @@ continué au-delà, ou de la fin de la mesure si elle cesse avant.
 	  - Nouveau code de procédure civile - art. 1230 (V)
 
 
-### Chapitre II : De l'émancipation
+### Chapitre III : De l'émancipation
 
 ###### Article 413-1
 
@@ -18975,22 +19140,30 @@ pour délibérer à ce sujet. Le mineur lui-même pourra demander cette convocat
 
 ###### Article 413-5
 
-Le compte de l'administration ou de la tutelle, selon les cas, est rendu au mineur émancipé dans les conditions prévues par
-l'article 514.
+Le compte de l'administration, le cas échéant, ou de la tutelle est rendu au mineur émancipé dans les conditions prévues
+respectivement par les articles 387-5 et 514.
+
+**Nota:**
+
+Conformément à l'article 17 de l'ordonnance n° 2015-1288 du 15 octobre 2015, le présent article entre en vigueur le 1er
+janvier 2016.
+
+Il est applicable aux administrations légales en cours au jour de son entrée en vigueur.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2007-308 du 5 mars 2007 - art. 1 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+	  - ORDONNANCE n°2015-1288 du 15 octobre 2015 - art. 7
+
+	**Cite**:
+
+	  - Code civil - art. 387-5
+	  - Code civil - art. 514
 
 	**Anciens textes**:
 
 	  - Code civil - art. 480 (AbD)
-
-	**Cite**:
-
-	  - Code civil - art. 514 (VT)
 
 	**Codifié par**:
 
@@ -19121,24 +19294,24 @@ héritiers, pour insanité d'esprit, que dans les cas suivants :
 
 2° S'il a été fait alors que l'intéressé était placé sous sauvegarde de justice ; 
 
-3° Si une action a été introduite avant son décès aux fins d'ouverture d'une curatelle ou d'une tutelle ou si effet a été
-donné au mandat de protection future.
+3° Si une action a été introduite avant son décès             aux fins d'ouverture d'une curatelle ou d'une tutelle ou aux
+fins d'habilitation familiale ou si effet a été donné au mandat de protection future. 
 
 L'action en nullité s'éteint par le délai de cinq ans prévu à l'article 1304.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
-
 	**Cité par**:
 
 	  - Décret n°2008-1484 du 22 décembre 2008 - art. Annexe 1 (V)
 
+	**Modifié par**:
+
+	  - ORDONNANCE n°2015-1288 du 15 octobre 2015 - art. 11
+
 	**Cite**:
 
-	  - Code civil - art. 1304 (VT)
+	  - Code civil - art. 1304
 
 	**Codifié par**:
 
@@ -19398,7 +19571,15 @@ qu'à compter de l'expiration de cette dernière.
 Le mandataire de protection future engage sa responsabilité pour l'exercice de son mandat dans les conditions prévues à
 l'article 1992.
 
+La personne habilitée en application des dispositions de la section 6 du chapitre II du présent titre engage sa
+responsabilité à l'égard de la personne représentée pour l'exercice de l'habilitation qui lui est conférée, dans les mêmes
+conditions.
+
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code civil - art. 1992
 
 	**Codifié par**:
 
@@ -19406,11 +19587,7 @@ l'article 1992.
 
 	**Modifié par**:
 
-	  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
-
-	**Cite**:
-
-	  - Code civil - art. 1992 (V)
+	  - ORDONNANCE n°2015-1288 du 15 octobre 2015 - art. 12
 
 
 ### Chapitre II : Des mesures de protection juridique des majeurs
@@ -21233,17 +21410,17 @@ ouverture, la cause qui avait déterminé le testateur à disposer a disparu.
 
 ###### Article 477
 
-Toute personne majeure ou mineure émancipée ne faisant pas l'objet d'une mesure de tutelle peut charger une ou plusieurs
-personnes, par un même mandat, de la représenter pour le cas où, pour l'une des causes prévues à l'article 425, elle ne
-pourrait plus pourvoir seule à ses intérêts. 
+Toute personne majeure ou mineure émancipée ne faisant pas l'objet d'une mesure de tutelle ou d'une habilitation familiale
+peut charger une ou plusieurs personnes, par un même mandat, de la représenter pour le cas où, pour l'une des causes prévues
+à l'article 425, elle ne pourrait plus pourvoir seule à ses intérêts. 
 
 La personne en curatelle ne peut conclure un mandat de protection future qu'avec l'assistance de son curateur. 
 
-Les parents ou le dernier vivant des père et mère, ne faisant pas l'objet d'une mesure de curatelle ou de tutelle, qui
-exercent l'autorité parentale sur leur enfant mineur ou assument la charge matérielle et affective de leur enfant majeur
-peuvent, pour le cas où cet enfant ne pourrait plus pourvoir seul à ses intérêts pour l'une des causes prévues à l'article
-425, désigner un ou plusieurs mandataires chargés de le représenter. Cette désignation prend effet à compter du jour où le
-mandant décède ou ne peut plus prendre soin de l'intéressé. 
+Les parents ou le dernier vivant des père et mère, ne faisant pas l'objet d'une mesure de curatelle ou de tutelle ou d'une
+habilitation familiale, qui exercent l'autorité parentale sur leur enfant mineur ou assument la charge matérielle et
+affective de leur enfant majeur peuvent, pour le cas où cet enfant ne pourrait plus pourvoir seul à ses intérêts pour l'une
+des causes prévues à l'article 425, désigner un ou plusieurs mandataires chargés de le représenter. Cette désignation prend
+effet à compter du jour où le mandant décède ou ne peut plus prendre soin de l'intéressé. 
 
 Le mandat est conclu par acte notarié ou par acte sous seing privé. Toutefois, le mandat prévu au troisième alinéa ne peut
 être conclu que par acte notarié.
@@ -21262,7 +21439,7 @@ Le mandat est conclu par acte notarié ou par acte sous seing privé. Toutefois,
 
 	**Modifié par**:
 
-	  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+	  - ORDONNANCE n°2015-1288 du 15 octobre 2015 - art. 13
 
 	**Nouveaux textes**:
 
@@ -21270,7 +21447,7 @@ Le mandat est conclu par acte notarié ou par acte sous seing privé. Toutefois,
 
 	**Cite**:
 
-	  - Code civil - art. 425 (V)
+	  - Code civil - art. 425
 
 	**Codifié par**:
 
@@ -21835,6 +22012,314 @@ Il est tenu de les présenter au juge des tutelles ou au procureur de la Républ
 	**Codifié par**:
 
 	  - Loi n°1803-03-14
+
+
+#### Section 6 : De l'habilitation familiale
+
+###### Article 494-1
+
+Lorsqu'une personne est hors d'état de manifester sa volonté pour l'une des causes prévues à l'article 425, le juge des
+tutelles peut habiliter une ou plusieurs personnes choisies parmi ses proches au sens du 2° du I de l'article 1er de la loi
+n° 2015-177 du 16 février 2015 à la représenter ou à passer un ou des actes en son nom dans les conditions et selon les
+modalités prévues à la présente section et à celles du titre XIII du livre III qui ne lui sont pas contraires, afin d'assurer
+la sauvegarde de ses intérêts.
+
+La personne habilitée doit remplir les conditions pour exercer les charges tutélaires. Elle exerce sa mission à titre
+gratuit.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°2015-177 du 16 février 2015 - art. 1
+
+	**Créé par**:
+
+	  - ORDONNANCE n°2015-1288 du 15 octobre 2015 - art. 10
+
+	**Cité par**:
+
+	  - Décret n°2017-890 du 6 mai 2017 - art. 30 (VD)
+	  - Décret n°2017-890 du 6 mai 2017 - art. 32 (VD)
+	  - Code civil - art. 494-10 (VD)
+	  - Code civil - art. 494-11 (VD)
+	  - Code civil - art. 494-3 (VD)
+	  - Code civil - art. 494-4 (VD)
+	  - Code civil - art. 494-6 (VD)
+	  - Code de procédure civile - art. 1260-11 (V)
+	  - Code de procédure civile - art. 1260-3 (V)
+	  - Code de procédure civile - art. 1260-6 (V)
+	  - Code de procédure civile - art. 1260-7 (V)
+
+
+###### Article 494-2
+
+L'habilitation familiale ne peut être ordonnée par le juge qu'en cas de nécessité et lorsqu'il ne peut être suffisamment
+pourvu aux intérêts de la personne par l'application des règles du droit commun de la représentation ou par les stipulations
+du mandat de protection future conclu par l'intéressé.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - ORDONNANCE n°2015-1288 du 15 octobre 2015 - art. 10
+
+
+###### Article 494-3
+
+La demande aux fins de désignation d'une personne habilitée peut être présentée au juge par l'une des personnes mentionnées à
+l'article 494-1 ou par le procureur de la République à la demande de l'une d'elles. 
+
+La demande est introduite, instruite et jugée conformément aux règles du code de procédure civile et dans le respect des
+dispositions des articles 429 et 431.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - ORDONNANCE n°2015-1288 du 15 octobre 2015 - art. 10
+
+	**Cite**:
+
+	  - Code civil - art. 429
+	  - Code civil - art. 494-1
+
+	**Cité par**:
+
+	  - Code civil - art. 494-10 (VD)
+
+
+###### Article 494-4
+
+La personne à l'égard de qui l'habilitation est demandée est entendue ou appelée selon les modalités prévues au premier
+alinéa de l'article 432. Toutefois, le juge peut, par décision spécialement motivée et sur avis du médecin mentionné à
+l'article 431, décider qu'il n'y a pas lieu de procéder à son audition si celle-ci est de nature à porter atteinte à sa santé
+ou si la personne est hors d'état de s'exprimer. 
+
+Le juge s'assure de l'adhésion ou, à défaut, de l'absence d'opposition légitime à la mesure d'habilitation et au choix de la
+personne habilitée des proches mentionnés à l'article 494-1 qui entretiennent des liens étroits et stables avec la personne
+ou qui manifestent de l'intérêt à son égard et dont il connaît l'existence au moment où il statue.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - ORDONNANCE n°2015-1288 du 15 octobre 2015 - art. 10
+
+	**Cite**:
+
+	  - Code civil - art. 431
+	  - Code civil - art. 432
+	  - Code civil - art. 494-1
+
+	**Cité par**:
+
+	  - Code civil - art. 494-10 (VD)
+	  - Code de procédure civile - art. 1260-10 (V)
+	  - Code de procédure civile - art. 1260-11 (V)
+	  - Code de procédure civile - art. 1260-12 (V)
+	  - Code de procédure civile - art. 1260-6 (V)
+	  - Code de procédure civile - art. 1260-7 (V)
+	  - Code de procédure civile - art. 1260-9 (V)
+
+
+###### Article 494-5
+
+Le juge statue sur le choix de la personne habilitée et l'étendue de l'habilitation en s'assurant que le dispositif projeté
+est conforme aux intérêts patrimoniaux et, le cas échéant, personnels de l'intéressé.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - ORDONNANCE n°2015-1288 du 15 octobre 2015 - art. 10
+
+	**Cité par**:
+
+	  - Code civil - art. 494-6 (V)
+
+
+###### Article 494-6
+
+L'habilitation peut porter sur :
+
+- un ou plusieurs des actes que le tuteur a le pouvoir d'accomplir, seul ou avec une autorisation, sur les biens de
+l'intéressé ;
+
+- un ou plusieurs actes relatifs à la personne à protéger. Dans ce cas, l'habilitation s'exerce dans le respect des
+dispositions des articles 457-1 à 459-2 du code civil. 
+
+La personne habilitée ne peut accomplir un acte de disposition à titre gratuit qu'avec l'autorisation du juge des tutelles. 
+
+Si l'intérêt de la personne à protéger l'implique, le juge peut délivrer une habilitation générale portant sur l'ensemble des
+actes ou l'une des deux catégories d'actes mentionnés aux deuxième et troisième alinéas. 
+
+La personne habilitée dans le cadre d'une habilitation générale ne peut accomplir un acte pour lequel elle serait en
+opposition d'intérêts avec la personne protégée. Toutefois, à titre exceptionnel et lorsque l'intérêt de celle-ci l'impose,
+le juge peut autoriser la personne habilitée à accomplir cet acte. 
+
+En cas d'habilitation générale, le juge fixe une durée au dispositif sans que celle-ci puisse excéder dix ans. Statuant sur
+requête de l'une des personnes mentionnées à l'article 494-1 ou du procureur de la République saisi à la demande de l'une
+d'elles, il peut renouveler l'habilitation lorsque les conditions prévues aux articles 431 et 494-5 sont remplies. Le
+renouvellement peut-être prononcé pour la même durée ; toutefois, lorsque l'altération des facultés personnelles de la
+personne à l'égard de qui l'habilitation a été délivrée n'apparaît manifestement pas susceptible de connaître une
+amélioration selon les données acquises de la science, le juge peut, par décision spécialement motivée et sur avis conforme
+du médecin mentionné à l'article 431, renouveler le dispositif pour une durée plus longue qu'il détermine, n'excédant pas
+vingt ans. 
+
+Les jugements accordant, modifiant ou renouvelant une habilitation générale font l'objet d'une mention en marge de l'acte de
+naissance selon les conditions prévues à l'article 444. Il en est de même lorsqu'il est mis fin à l'habilitation pour l'une
+des causes prévues à l'article 494-12.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - ORDONNANCE n°2015-1288 du 15 octobre 2015 - art. 10
+
+	**Cite**:
+
+	  - Code civil - art. 431
+	  - Code civil - art. 444
+	  - Code civil - art. 457-1
+	  - Code civil - art. 494-1
+	  - Code civil - art. 494-12
+	  - Code civil - art. 494-5
+
+
+###### Article 494-7
+
+La personne habilitée peut, sauf décision contraire du juge, procéder sans autorisation aux actes mentionnés au premier
+alinéa de l'article 427.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - ORDONNANCE n°2015-1288 du 15 octobre 2015 - art. 10
+
+	**Cite**:
+
+	  - Code civil - art. 427
+
+
+###### Article 494-8
+
+La personne à l'égard de qui l'habilitation a été délivrée conserve l'exercice de ses droits autres que ceux dont l'exercice
+a été confié à la personne habilitée en application de la présente section.
+
+Toutefois, elle ne peut, en cas d'habilitation générale, conclure un mandat de protection future pendant la durée de
+l'habilitation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - ORDONNANCE n°2015-1288 du 15 octobre 2015 - art. 10
+
+
+###### Article 494-9
+
+Si la personne à l'égard de qui l'habilitation a été délivrée passe seule un acte dont l'accomplissement a été confié à la
+personne habilitée, celui-ci est nul de plein droit sans qu'il soit nécessaire de justifier d'un préjudice. 
+
+Les obligations résultant des actes accomplis par une personne à l'égard de qui une mesure d'habilitation familiale a été
+prononcée moins de deux ans avant le jugement délivrant l'habilitation peuvent être réduits ou annulés dans les conditions
+prévues à l'article 464. 
+
+La personne habilitée peut, avec l'autorisation du juge des tutelles, engager seule l'action en nullité ou en réduction
+prévue aux alinéas ci-dessus. 
+
+Si la personne habilitée accomplit seule, en cette qualité, un acte n'entrant pas dans le champ de l'habilitation qui lui a
+été délivrée ou qui ne pouvait être accompli qu'avec l'autorisation du juge, l'acte est nul de plein droit sans qu'il soit
+nécessaire de justifier d'un préjudice. 
+
+Dans tous les cas, l'action en nullité ou en réduction est exercée dans le délai de cinq ans prévu à l'article 1304. 
+
+Pendant ce délai et tant que la mesure d'habilitation est en cours, l'acte contesté peut être confirmé avec l'autorisation du
+juge des tutelles.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - ORDONNANCE n°2015-1288 du 15 octobre 2015 - art. 10
+
+	**Cité par**:
+
+	  - Code civil - art. 1150 (V)
+
+	**Cite**:
+
+	  - Code civil - art. 1304 (VD)
+	  - Code civil - art. 464
+
+
+###### Article 494-10
+
+Le juge statue à la demande de l'une des personnes mentionnées à l'article 494-1 ou du procureur de la République sur les
+difficultés qui pourraient survenir dans la mise en œuvre du dispositif. 
+
+Saisi à cette fin dans les conditions prévues au premier alinéa de l'article 494-3, le juge peut, à tout moment, modifier
+l'étendue de l'habilitation ou y mettre fin, après avoir entendu ou appelé la personne à l'égard de qui l'habilitation a été
+délivrée, dans les conditions prévues au premier alinéa de l'article 494-4 ainsi que la personne habilitée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - ORDONNANCE n°2015-1288 du 15 octobre 2015 - art. 10
+
+	**Cite**:
+
+	  - Code civil - art. 494-1
+	  - Code civil - art. 494-3
+	  - Code civil - art. 494-4
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 1260-6 (V)
+
+
+###### Article 494-11
+
+Outre le décès de la personne à l'égard de qui l'habilitation familiale a été délivrée, celle-ci prend fin : 
+
+1° Par le placement de l'intéressé sous sauvegarde de justice, sous curatelle ou sous tutelle ; 
+
+2° En cas de jugement de mainlevée passé en force de chose jugée prononcé par le juge à la demande de l'une des personnes
+mentionnées à l'article 494-1 ou du procureur de la République, lorsqu'il s'avère que les conditions prévues à cet article ne
+sont plus réunies ou lorsque l'exécution de l'habilitation familiale est de nature à porter atteinte aux intérêts de la
+personne protégée ; 
+
+3° De plein droit en l'absence de renouvellement à l'expiration du délai fixé ; 
+
+4° Après l'accomplissement des actes pour lesquels l'habilitation avait été délivrée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - ORDONNANCE n°2015-1288 du 15 octobre 2015 - art. 10
+
+	**Cite**:
+
+	  - Code civil - art. 494-1
+
+
+###### Article 494-12
+
+Les modalités d'application de la présente section sont précisées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - ORDONNANCE n°2015-1288 du 15 octobre 2015 - art. 10
+
+	**Cité par**:
+
+	  - Code civil - art. 494-6 (V)
 
 
 ### Chapitre III : De la mesure d'accompagnement judiciaire
@@ -43420,8 +43905,8 @@ Ce temps ne court dans le cas de violence que du jour où elle a cessé ; dans l
 
 Le temps ne court, à l'égard des actes faits par un mineur, que du jour de la majorité ou de l'émancipation ; et à l'égard
 des actes faits par un majeur protégé, que du jour où il en a eu connaissance, alors qu'il était en situation de les refaire
-valablement. Il ne court contre les héritiers de la personne en tutelle ou en curatelle que du jour du décès, s'il n'a
-commencé à courir auparavant.
+valablement. Il ne court contre les héritiers de la personne en tutelle ou en curatelle ou de la personne faisant l'objet
+d'une habilitation familiale que du jour du décès, s'il n'a commencé à courir auparavant.
 
 **Liens relatifs à cet article**
 
@@ -43435,13 +43920,14 @@ commencé à courir auparavant.
 	  - Code civil - art. 488 (V)
 	  - Code civil - art. 489 (VT)
 	  - Code civil - art. 491-2 (VT)
+	  - Code civil - art. 494-9 (VD)
 	  - Code civil - art. 510-1 (VT)
 	  - Code de procédure civile - art. 1200-2 (V)
 	  - Code général des impôts, CGI. - art. 1961 (VD)
 
 	**Modifié par**:
 
-	  - Loi n°2007-308 du 5 mars 2007 - art. 10
+	  - ORDONNANCE n°2015-1288 du 15 octobre 2015 - art. 14
 
 	**Codifié par**:
 

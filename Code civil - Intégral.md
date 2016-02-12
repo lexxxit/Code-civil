@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 2016-01-01
+Version Consolidée au 2016-02-13
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -18204,28 +18204,6 @@ Il est applicable aux administrations légales en cours au jour de son entrée e
 
 	  - Code de procédure civile - art. 1180-19 (V)
 
-
-## Titre X : De la minorité et de l'émancipation
-
-### Chapitre Ier : De la minorité
-
-#### Section 2 : De la tutelle
-
-##### Sous-section 1 : Des cas d'ouverture et de fin de la tutelle
-
-##### Sous-section 2 : De l'organisation et du fonctionnement de la tutelle
-
-##### Paragraphe 1 : Des charges tutélaires
-
-##### Paragraphe 2 : Du conseil de famille
-
-##### Paragraphe 3 : Du tuteur
-
-##### Paragraphe 4 : Du subrogé tuteur
-
-##### Paragraphe 6 : De la responsabilité
-
-### Chapitre II : De l'émancipation
 
 ## Titre X : De la minorité, de la tutelle et de l'émancipation
 
@@ -46629,24 +46607,23 @@ Est assimilée à un producteur pour l'application du présent titre toute perso
 1° Qui se présente comme producteur en apposant sur le produit son nom, sa marque ou un autre signe distinctif ; 
 
 2° Qui importe un produit dans la Communauté européenne en vue d'une vente, d'une location, avec ou sans promesse de vente,
-ou de toute autre forme de distribution. 
+ou de toute autre forme de distribution ; 
+
+3° Qui fait don d'un produit vendu sous marque de distributeur en tant que fabricant lié à une entreprise ou à un groupe
+d'entreprises, au sens de l'article L. 112-6 du code de la consommation. 
 
 Ne sont pas considérées comme producteurs, au sens du présent titre, les personnes dont la responsabilité peut être
 recherchée sur le fondement des articles 1792 à 1792-6 et 1646-1.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Loi n°1804-02-09
-
-	**Créé par**:
-
-	  - Loi n°98-389 du 19 mai 1998 - art. 1 () JORF 21 mai 1998
-
 	**Abrogé par**:
 
 	  - Ordonnance n°2016-131 du 10 février 2016 - art. 4
+
+	**Modifié par**:
+
+	  - Loi n°2016-138 du 11 février 2016 - art. 2
 
 	**Cite**:
 

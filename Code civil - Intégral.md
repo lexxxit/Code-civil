@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 2016-02-13
+Version Consolidée au 2016-03-16
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -1893,8 +1893,8 @@ n'ayant pas sa résidence habituelle en France.
 
 Peut, dans les mêmes conditions, réclamer la nationalité française : 
 
-1° L'enfant qui, depuis au moins cinq années, est recueilli en France et élevé par une personne de nationalité française ou
-qui, depuis au moins trois années, est confié au service de l'aide sociale à l'enfance ; 
+1° L'enfant qui, depuis au moins trois années, est recueilli sur décision de justice et élevé par une personne de nationalité
+française ou est confié au service de l'aide sociale à l'enfance ;
 
 2° L'enfant recueilli en France et élevé dans des conditions lui ayant permis de recevoir, pendant cinq années au moins une
 formation française, soit par un organisme public, soit par un organisme privé présentant les caractères déterminés par un
@@ -1904,7 +1904,7 @@ décret en Conseil d'Etat.
 
 	**Codifié par**:
 
-	  - Loi n°93-933 1993-07-22
+	  - Loi n°93-933 du 22 juillet 1993
 
 	**Cité par**:
 
@@ -1914,11 +1914,11 @@ décret en Conseil d'Etat.
 
 	**Modifié par**:
 
-	  - Loi n°2003-1119 du 26 novembre 2003 - art. 67 () JORF 27 novembre 2003
+	  - Loi n°2016-297 du 14 mars 2016 - art. 42
 
 	**Cite**:
 
-	  - Code civil - art. 26 (V)
+	  - Code civil - art. 26
 
 	**Anciens textes**:
 
@@ -14642,32 +14642,25 @@ Peuvent être adoptés :
 
 2° Les pupilles de l'Etat ; 
 
-3° Les enfants déclarés abandonnés dans les conditions prévues par l'article 350.
+3° Les enfants déclarés abandonnés dans les conditions prévues aux articles 381-1 et 381-2.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°66-500 du 11 juillet 1966 - art. 1 () JORF 12 juillet 1966 en vigueur le 1er novembre 1966
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 11 (V)
-	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 12 (V)
-	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 13 (V)
-	  - SPEC_APPLI: Loi n°66-500 du 11 juillet 1966 - art. 7 (V)
 
 	**Cité par**:
 
 	  - Décret n°82-938 du 28 octobre 1982 - art. 2 (Ab)
 
+	**Modifié par**:
+
+	  - Loi n°2016-297 du 14 mars 2016 - art. 40
+
 	**Cite**:
 
-	  - Code civil - art. 350 (V)
+	  - Code civil - art. 381-1
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
 
 
 ###### Article 348
@@ -14882,54 +14875,6 @@ famille de ces pupilles.
 	  - Code de l'action sociale et des familles - art. R224-18 (V)
 
 
-###### Article 350
-
-L'enfant recueilli par un particulier, un établissement ou un service de l'aide sociale à l'enfance, dont les parents se sont
-manifestement désintéressés pendant l'année qui précède l'introduction de la demande en déclaration d'abandon, est déclaré
-abandonné par le tribunal de grande instance sans préjudice des dispositions du quatrième alinéa. La demande en déclaration
-d'abandon est obligatoirement transmise par le particulier, l'établissement ou le service de l'aide sociale à l'enfance qui a
-recueilli l'enfant à l'expiration du délai d'un an dès lors que les parents se sont manifestement désintéressés de l'enfant.
-
-Sont considérés comme s'étant manifestement désintéressés de leur enfant les parents qui n'ont pas entretenu avec lui les
-relations nécessaires au maintien de liens affectifs.
-
-La simple rétractation du consentement à l'adoption, la demande de nouvelles ou l'intention exprimée mais non suivie d'effet
-de reprendre l'enfant n'est pas une marque d'intérêt suffisante pour motiver de plein droit le rejet d'une demande en
-déclaration d'abandon. Ces démarches n'interrompent pas le délai figurant au premier alinéa.
-
-L'abandon n'est pas déclaré si, au cours du délai prévu au premier alinéa du présent article, un membre de la famille a
-demandé à assumer la charge de l'enfant et si cette demande est jugée conforme à l'intérêt de ce dernier.
-
-Lorsqu'il déclare l'enfant abandonné, le tribunal délègue par la même décision les droits d'autorité parentale sur l'enfant
-au service de l'aide sociale à l'enfance, à l'établissement ou au particulier qui a recueilli l'enfant ou à qui ce dernier a
-été confié.
-
-La tierce opposition n'est recevable qu'en cas de dol, de fraude ou d'erreur sur l'identité de l'enfant.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Décret n°82-938 du 28 octobre 1982 - art. 2 (Ab)
-	  - Code civil - art. 347 (M)
-	  - Code de l'action sociale et des familles - art. L224-4 (M)
-	  - Code de la famille et de l'aide sociale. - art. 50 (Ab)
-	  - Code de la famille et de l'aide sociale. - art. 61 (Ab)
-	  - Code des pensions militaires d'invalidité et de... - art. L161-3 (VD)
-
-	**Abrogé par**:
-
-	  - Loi n°2016-297 du 14 mars 2016 - art. 40
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Modifié par**:
-
-	  - Loi n°2005-744 du 4 juillet 2005 - art. 3 () JORF 5 juillet 2005
-
-
 #### Section 2 : Du placement en vue de l'adoption plénière et du jugement d'adoption plénière
 
 ###### Article 351
@@ -15012,6 +14957,12 @@ L'adoption est prononcée à la requête de l'adoptant par le tribunal de grande
 à compter de la saisine du tribunal si les conditions de la loi sont remplies et si l'adoption est conforme à l'intérêt de
 l'enfant.
 
+Le mineur capable de discernement est entendu par le tribunal ou, lorsque son intérêt le commande, par la personne désignée
+par le tribunal à cet effet. Il doit être entendu selon des modalités adaptées à son âge et à son degré de maturité. Lorsque
+le mineur refuse d'être entendu, le juge apprécie le bien-fondé de ce refus. Le mineur peut être entendu seul ou avec un
+avocat ou une personne de son choix. Si ce choix n'apparaît pas conforme à l'intérêt du mineur, le juge peut procéder à la
+désignation d'une autre personne
+
 Dans le cas où l'adoptant a des descendants le tribunal vérifie en outre si l'adoption n'est pas de nature à compromettre la
 vie familiale.
 
@@ -15036,7 +14987,7 @@ Le jugement prononçant l'adoption n'est pas motivé.
 
 	**Modifié par**:
 
-	  - Loi n°96-604 du 5 juillet 1996 - art. 10 () JORF 6 juillet 1996
+	  - Loi n°2016-297 du 14 mars 2016 - art. 35
 
 	**Codifié par**:
 
@@ -15710,13 +15661,10 @@ L'adoption conserve tous ses effets, nonobstant l'établissement ultérieur d'un
 
 ###### Article 370
 
-S'il est justifié de motifs graves, l'adoption peut être révoquée, à la demande de l'adoptant ou de l'adopté, ou, lorsque ce
-dernier est mineur, à celle du ministère public.
+S'il est justifié de motifs graves, l'adoption peut être révoquée, lorsque l'adopté est majeur, à la demande de ce dernier ou
+de l'adoptant. 
 
-La demande de révocation faite par l'adoptant n'est recevable que si l'adopté est âgé de plus de quinze ans.
-
-Lorsque l'adopté est mineur, les père et mère par le sang ou, à leur défaut, un membre de la famille d'origine jusqu'au degré
-de cousin germain inclus, peuvent également demander la révocation.
+Lorsque l'adopté est mineur, la révocation de l'adoption ne peut être demandée que par le ministère public.
 
 **Liens relatifs à cet article**
 
@@ -15724,13 +15672,13 @@ de cousin germain inclus, peuvent également demander la révocation.
 
 	  - Décret n°82-938 du 28 octobre 1982 - art. 2 (Ab)
 
+	**Modifié par**:
+
+	  - Loi n°2016-297 du 14 mars 2016 - art. 32
+
 	**Codifié par**:
 
 	  - Loi n°1803-03-14
-
-	**Modifié par**:
-
-	  - Loi n°96-604 du 5 juillet 1996 - art. 16 () JORF 6 juillet 1996
 
 
 ###### Article 370-1
@@ -16416,8 +16364,8 @@ A la demande de l'un des parents ou en cas de désaccord entre eux sur le mode d
 définitivement sur la résidence de l'enfant en alternance au domicile de chacun des parents ou au domicile de l'un d'eux.
 
 Lorsque la résidence de l'enfant est fixée au domicile de l'un des parents, le juge aux affaires familiales statue sur les
-modalités du droit de visite de l'autre parent. Ce droit de visite, lorsque l'intérêt de l'enfant le commande, peut être
-exercé dans un espace de rencontre désigné par le juge.
+modalités du droit de visite de l'autre parent. Ce droit de visite, lorsque l'intérêt de l'enfant le commande, peut, par
+décision spécialement motivée, être exercé dans un espace de rencontre désigné par le juge.
 
 Lorsque l'intérêt de l'enfant le commande ou lorsque la remise directe de l'enfant à l'autre parent présente un danger pour
 l'un d'eux, le juge en organise les modalités pour qu'elle présente toutes les garanties nécessaires. Il peut prévoir qu'elle
@@ -16428,7 +16376,7 @@ personne morale qualifiée.
 
 	**Modifié par**:
 
-	  - Loi n°2010-769 du 9 juillet 2010 - art. 7
+	  - Loi n°2016-297 du 14 mars 2016 - art. 23
 
 	**Cite**:
 
@@ -16730,8 +16678,8 @@ exceptionnel.
 
 Elles peuvent être ordonnées en même temps pour plusieurs enfants relevant de la même autorité parentale. 
 
-La décision fixe la durée de la mesure sans que celle-ci puisse, lorsqu'il s'agit d'une mesure éducative exercée par un
-service ou une institution, excéder deux ans. La mesure peut être renouvelée par décision motivée. 
+La décision fixe la durée de la mesure sans que celle-ci puisse excéder deux ans. La mesure peut être renouvelée par décision
+motivée. 
 
 Cependant, lorsque les parents présentent des difficultés relationnelles et éducatives graves, sévères et chroniques,
 évaluées comme telles dans l'état actuel des connaissances, affectant durablement leurs compétences dans l'exercice de leur
@@ -16739,7 +16687,8 @@ responsabilité parentale, une mesure d'accueil exercée par un service ou une i
 supérieure, afin de permettre à l'enfant de bénéficier d'une continuité relationnelle, affective et géographique dans son
 lieu de vie dès lors qu'il est adapté à ses besoins immédiats et à venir. 
 
-Un rapport concernant la situation de l'enfant doit être transmis annuellement au juge des enfants.
+Un rapport concernant la situation de l'enfant doit être transmis annuellement, ou tous les six mois pour les enfants de
+moins de deux ans, au juge des enfants.
 
 **Nota:**
 
@@ -16775,7 +16724,7 @@ Un rapport concernant la situation de l'enfant doit être transmis annuellement 
 	  - Code de l'action sociale et des familles - art. L141-2 (VD)
 	  - Code de l'action sociale et des familles - art. L221-4 (VD)
 	  - Code de l'action sociale et des familles - art. L226-2-1 (V)
-	  - Code de l'action sociale et des familles - art. L226-4 (VD)
+	  - Code de l'action sociale et des familles - art. L226-4 (V)
 	  - Code de l'action sociale et des familles - art. L312-1 (V)
 	  - Code de l'action sociale et des familles - art. L321-2 (V)
 	  - Code de l'action sociale et des familles - art. L421-11 (T)
@@ -16793,7 +16742,8 @@ Un rapport concernant la situation de l'enfant doit être transmis annuellement 
 
 	**Modifié par**:
 
-	  - Loi n°2013-403 du 17 mai 2013 - art. 1 (V)
+	  - Loi n°2016-297 du 14 mars 2016 - art. 28
+	  - Loi n°2016-297 du 14 mars 2016 - art. 30
 
 	**Codifié par**:
 
@@ -16994,6 +16944,13 @@ les huit jours le juge compétent, qui maintiendra, modifiera ou rapportera la m
 le procureur de la République fixe la nature et la fréquence du droit de correspondance, de visite et d'hébergement des
 parents, sauf à les réserver si l'intérêt de l'enfant l'exige.
 
+Lorsqu'un service de l'aide sociale à l'enfance signale la situation d'un mineur privé temporairement ou définitivement de la
+protection de sa famille, selon le cas, le procureur de la République ou le juge des enfants demande au ministère de la
+justice de lui communiquer, pour chaque département, les informations permettant l'orientation du mineur concerné.
+
+Le procureur de la République ou le juge des enfants prend sa décision en stricte considération de l'intérêt de l'enfant,
+qu'il apprécie notamment à partir des éléments ainsi transmis pour garantir des modalités d'accueil adaptées.
+
 **Liens relatifs à cet article**
 
 	**Cité par**:
@@ -17005,7 +16962,7 @@ parents, sauf à les réserver si l'intérêt de l'enfant l'exige.
 	  - Décret n°2016-1375 du 12 octobre 2016 (V)
 	  - Arrêté du 3 mai 2017 - art. 5
 	  - Code de l'action sociale et des familles - art. L221-2-2 (V)
-	  - Code de l'action sociale et des familles - art. L222-5 (VD)
+	  - Code de l'action sociale et des familles - art. L222-5 (V)
 	  - Code de l'action sociale et des familles - art. L223-2 (V)
 	  - Code de l'action sociale et des familles - art. L227-2 (V)
 	  - Code de l'action sociale et des familles - art. L228-3 (V)
@@ -17022,12 +16979,12 @@ parents, sauf à les réserver si l'intérêt de l'enfant l'exige.
 
 	**Modifié par**:
 
-	  - Loi n°2007-293 du 5 mars 2007 - art. 22 () JORF 6 mars 2007
+	  - Loi n°2016-297 du 14 mars 2016 - art. 49
 
 	**Cite**:
 
-	  - Code civil - art. 375-3 (V)
-	  - Code civil - art. 375-4 (V)
+	  - Code civil - art. 375-3
+	  - Code civil - art. 375-4
 
 	**Codifié par**:
 
@@ -17074,14 +17031,15 @@ relevant de l'autorité parentale en cas de refus abusif ou injustifié ou en ca
 parentale, à charge pour le demandeur de rapporter la preuve de la nécessité de cette mesure. 
 
 Le lieu d'accueil de l'enfant doit être recherché dans l'intérêt de celui-ci et afin de faciliter l'exercice du droit de
-visite et d'hébergement par le ou les parents et le maintien de ses liens avec ses frères et soeurs en application de
+visite et d'hébergement par le ou les parents et le maintien de ses liens avec ses frères et sœurs en application de
 l'article 371-5.
 
 S'il a été nécessaire de confier l'enfant à une personne ou un établissement, ses parents conservent un droit de
 correspondance ainsi qu'un droit de visite et d'hébergement. Le juge en fixe les modalités et peut, si l'intérêt de l'enfant
-l'exige, décider que l'exercice de ces droits, ou de l'un d'eux, est provisoirement suspendu. Il peut également décider que
-le droit de visite du ou des parents ne peut être exercé qu'en présence d'un tiers désigné par l'établissement ou le service
-à qui l'enfant est confié. 
+l'exige, décider que l'exercice de ces droits, ou de l'un d'eux, est provisoirement suspendu. Il peut également, par décision
+spécialement motivée, imposer que le droit de visite du ou des parents ne peut être exercé qu'en présence d'un tiers qu'il
+désigne lorsque l'enfant est confié à une personne ou qui est désigné par l'établissement ou le service à qui l'enfant est
+confié. Les modalités d'organisation de la visite en présence d'un tiers sont précisées par décret en Conseil d'Etat. 
 
 Si la situation de l'enfant le permet, le juge fixe la nature et la fréquence des droits de visite et d'hébergement et peut
 décider que leurs conditions d'exercice sont déterminées conjointement entre les titulaires de l'autorité parentale et la
@@ -17109,7 +17067,7 @@ de sortie du territoire est inscrite au fichier des personnes recherchées par l
 
 	**Modifié par**:
 
-	  - Loi n°2010-769 du 9 juillet 2010 - art. 3
+	  - Loi n°2016-297 du 14 mars 2016 - art. 24
 
 	**Cite**:
 
@@ -17351,9 +17309,14 @@ déléguer tout ou partie de l'exercice de leur autorité parentale à un tiers,
 établissement agréé pour le recueil des enfants ou service départemental de l'aide sociale à l'enfance. 
 
 En cas de désintérêt manifeste ou si les parents sont dans l'impossibilité d'exercer tout ou partie de l'autorité parentale,
-le particulier, l'établissement ou le service départemental de l'aide sociale à l'enfance     qui a recueilli l'enfant ou un
+le particulier, l'établissement ou le service départemental de l'aide sociale à l'enfance qui a recueilli l'enfant ou un
 membre de la famille peut également saisir le juge aux fins de se faire déléguer totalement ou partiellement l'exercice de
 l'autorité parentale. 
+
+Dans ce dernier cas, le juge peut également être saisi par le ministère public, avec l'accord du tiers candidat à la
+délégation totale ou partielle de l'exercice de l'autorité parentale, à l'effet de statuer sur ladite délégation. Le cas
+échéant, le ministère public est informé par transmission de la copie du dossier par le juge des enfants ou par avis de ce
+dernier.
 
 Dans tous les cas visés au présent article, les deux parents doivent être appelés à l'instance. Lorsque l'enfant concerné
 fait l'objet d'une mesure d'assistance éducative, la délégation ne peut intervenir qu'après avis du juge des enfants.
@@ -17367,7 +17330,7 @@ fait l'objet d'une mesure d'assistance éducative, la délégation ne peut inter
 	  - Décret n°59-1095 du 21 septembre 1959 - art. 2 (Ab)
 	  - Décret n°59-1095 du 21 septembre 1959 - art. 6 (Ab)
 	  - Arrêté du 24 mai 1974 - art. 9 (Ab)
-	  - Code de l'action sociale et des familles - art. L222-5 (VD)
+	  - Code de l'action sociale et des familles - art. L222-5 (V)
 	  - Code de l'action sociale et des familles - art. L223-3 (M)
 	  - Code de l'action sociale et des familles - art. L228-3 (V)
 	  - Code de la défense. - art. D4123-4 (V)
@@ -17378,7 +17341,7 @@ fait l'objet d'une mesure d'assistance éducative, la délégation ne peut inter
 
 	**Modifié par**:
 
-	  - Loi n°2010-769 du 9 juillet 2010 - art. 10
+	  - Loi n°2016-297 du 14 mars 2016 - art. 38
 
 
 ###### Article 377-1
@@ -17515,26 +17478,29 @@ sur leurs descendants.
 
 Peuvent se voir retirer totalement l'autorité parentale, en dehors de toute condamnation pénale, les père et mère qui, soit
 par de mauvais traitements, soit par une consommation habituelle et excessive de boissons alcooliques ou un usage de
-stupéfiants, soit par une inconduite notoire ou des comportements délictueux, soit par un défaut de soins ou un manque de
-direction, mettent manifestement en danger la sécurité, la santé ou la moralité de l'enfant. 
+stupéfiants, soit par une inconduite notoire ou des comportements délictueux, notamment lorsque l'enfant est témoin de
+pressions ou de violences, à caractère physique ou psychologique, exercées par l'un des parents sur la personne de l'autre,
+soit par un défaut de soins ou un manque de direction, mettent manifestement en danger la sécurité, la santé ou la moralité
+de l'enfant. 
 
 Peuvent pareillement se voir retirer totalement l'autorité parentale, quand une mesure d'assistance éducative avait été prise
 à l'égard de l'enfant, les père et mère qui, pendant plus de deux ans, se sont volontairement abstenus d'exercer les droits
 et de remplir les devoirs que leur laissait l'article 375-7.
 
 L'action en retrait total de l'autorité parentale est portée devant le tribunal de grande instance, soit par le ministère
-public, soit par un membre de la famille ou le tuteur de l'enfant.
+public, soit par un membre de la famille ou le tuteur de l'enfant, soit par le service départemental de l'aide sociale à
+l'enfance auquel l'enfant est confié.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°96-604 du 5 juillet 1996 - art. 17 () JORF 6 juillet 1996
-	  - Loi n°96-604 du 5 juillet 1996 - art. 19 () JORF 6 juillet 1996
+	  - Loi n°2016-297 du 14 mars 2016 - art. 25
+	  - Loi n°2016-297 du 14 mars 2016 - art. 41
 
 	**Cite**:
 
-	  - Code civil - art. 375-7 (V)
+	  - Code civil - art. 375-7
 
 	**Cité par**:
 
@@ -17692,6 +17658,58 @@ Si la restitution est accordée, le ministère public requerra, le cas échéant
 	**Codifié par**:
 
 	  - Loi n°1803-03-14
+
+
+#### Section 5 : De la déclaration judiciaire de délaissement parental
+
+###### Article 381-1
+
+Un enfant est considéré comme délaissé lorsque ses parents n'ont pas entretenu avec lui les relations nécessaires à son
+éducation ou à son développement pendant l'année qui précède l'introduction de la requête, sans que ces derniers en aient été
+empêchés par quelque cause que ce soit.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-297 du 14 mars 2016 - art. 40
+
+	**Cité par**:
+
+	  - Code civil - art. 347 (V)
+	  - Code de l'action sociale et des familles - art. L224-4 (V)
+
+
+###### Article 381-2
+
+Le tribunal de grande instance déclare délaissé l'enfant recueilli par une personne, un établissement ou un service
+départemental de l'aide sociale à l'enfance qui se trouve dans la situation mentionnée à l'article 381-1 pendant l'année qui
+précède l'introduction de la demande en déclaration judiciaire de délaissement parental. La demande en déclaration de
+délaissement parental est obligatoirement transmise, à l'expiration du délai d'un an prévu à l'article 381-1, par la
+personne, l'établissement ou le service départemental de l'aide sociale à l'enfance qui a recueilli l'enfant, après que des
+mesures appropriées de soutien aux parents leur ont été proposées. La demande peut également être présentée par le ministère
+public agissant d'office ou, le cas échéant, sur proposition du juge des enfants. 
+
+La simple rétractation du consentement à l'adoption, la demande de nouvelles ou l'intention exprimée mais non suivie d'effet
+de reprendre l'enfant ne constituent pas un acte suffisant pour rejeter de plein droit une demande en déclaration de
+délaissement parental et n'interrompent pas le délai mentionné au premier alinéa du présent article. 
+
+Le délaissement parental n'est pas déclaré si, au cours du délai mentionné au premier alinéa, un membre de la famille a
+demandé à assumer la charge de l'enfant et si cette demande est jugée conforme à l'intérêt de ce dernier. 
+
+Le délaissement parental peut être déclaré à l'endroit des deux parents ou d'un seul. 
+
+Lorsqu'il déclare l'enfant délaissé, le tribunal délègue par la même décision l'autorité parentale sur l'enfant à la
+personne, à l'établissement ou au service départemental de l'aide sociale à l'enfance qui a recueilli l'enfant ou à qui ce
+dernier a été confié. 
+
+La tierce opposition n'est recevable qu'en cas de dol, de fraude ou d'erreur sur l'identité de l'enfant.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-297 du 14 mars 2016 - art. 40
 
 
 ### Chapitre II : De l'autorité parentale relativement aux biens de l'enfant
@@ -18213,15 +18231,21 @@ Il est applicable aux administrations légales en cours au jour de son entrée e
 
 Le mineur est l'individu de l'un ou l'autre sexe qui n'a point encore l'âge de dix-huit ans accomplis.
 
+Les examens radiologiques osseux aux fins de détermination de l'âge, en l'absence de documents d'identité valables et lorsque
+l'âge allégué n'est pas vraisemblable, ne peuvent être réalisés que sur décision de l'autorité judiciaire et après recueil de
+l'accord de l'intéressé.
+
+Les conclusions de ces examens, qui doivent préciser la marge d'erreur, ne peuvent à elles seules permettre de déterminer si
+l'intéressé est mineur. Le doute profite à l'intéressé.
+
+En cas de doute sur la minorité de l'intéressé, il ne peut être procédé à une évaluation de son âge à partir d'un examen du
+développement pubertaire des caractères sexuels primaires et secondaires.
+
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
 
 	**Modifié par**:
 
-	  - Loi n°2007-308 du 5 mars 2007 - art. 2 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+	  - Loi n°2016-297 du 14 mars 2016 - art. 43
 
 	**Cité par**:
 
@@ -18229,6 +18253,10 @@ Le mineur est l'individu de l'un ou l'autre sexe qui n'a point encore l'âge de 
 	  - Arrêté du 17 novembre 2016 (V)
 	  - Arrêté du 17 novembre 2016 - art. 8 (V)
 	  - Code de l'action sociale et des familles - art. R221-11 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
 
 
 ###### Article 388-1
@@ -18324,12 +18352,12 @@ Lorsque, dans une procédure, les intérêts d'un mineur apparaissent en opposit
 juge des tutelles dans les conditions prévues à l'article 383 ou, à défaut, le juge saisi de l'instance lui désigne un
 administrateur ad hoc chargé de le représenter.
 
+Dans le cadre d'une procédure d'assistance éducative, l'administrateur ad hoc désigné en application du premier alinéa du
+présent article doit être indépendant de la personne morale ou physique à laquelle le mineur est confié, le cas échéant.
+
 **Nota:**
 
-Conformément à l'article 17 de l'ordonnance n° 2015-1288 du 15 octobre 2015, le présent article entre en vigueur le 1er
-janvier 2016.
 
-Iil est applicable aux administrations légales en cours au jour de son entrée en vigueur.
 
 **Liens relatifs à cet article**
 
@@ -18339,17 +18367,17 @@ Iil est applicable aux administrations légales en cours au jour de son entrée 
 	  - Code de procédure civile - art. 1210-1 (V)
 	  - Code de procédure pénale - art. R93 (V)
 
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
 	**Modifié par**:
 
-	  - ORDONNANCE n°2015-1288 du 15 octobre 2015 - art. 5
+	  - Loi n°2016-297 du 14 mars 2016 - art. 37
 
 	**Cite**:
 
 	  - Code civil - art. 383
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
 
 
 ### Chapitre II : De la tutelle 

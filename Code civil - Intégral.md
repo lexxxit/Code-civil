@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 2016-06-05
+Version Consolidée au 2016-07-01
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -2000,6 +2000,42 @@ par le déclarant qui se prévaut des dispositions du présent article.
 	  - Loi n°2015-1776 du 28 décembre 2015 - art. 38
 
 
+###### Article 21-13-2
+
+Peuvent réclamer la nationalité française à leur majorité, par déclaration souscrite auprès de l'autorité administrative en
+application des articles 26 à 26-5, les personnes qui résident habituellement sur le territoire français depuis l'âge de six
+ans, si elles ont suivi leur scolarité obligatoire en France dans des établissements d'enseignement soumis au contrôle de
+l'Etat, lorsqu'elles ont un frère ou une sœur ayant acquis la nationalité française en application des articles 21-7 ou
+21-11. 
+
+L'article 21-4 est applicable aux déclarations souscrites en application du premier alinéa du présent article.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°93-1362 du 30 décembre 1993 - art. 10 (V)
+	  - Décret n°93-1362 du 30 décembre 1993 - art. 17-3 (V)
+	  - Décret n°93-1362 du 30 décembre 1993 - art. 17-4 (V)
+	  - Loi n°2016-274 du 7 mars 2016 - art. 59
+	  - Décret n°2016-872 du 29 juin 2016 (V)
+	  - Décret n°2016-872 du 29 juin 2016 - art. 6
+	  - Décret n°2016-872 du 29 juin 2016 - art. 7
+	  - Décret n°2016-872 du 29 juin 2016 - art. 8
+	  - Décret n°2016-872 du 29 juin 2016 - art. 9 (V)
+
+	**Créé par**:
+
+	  - Loi n°2016-274 du 7 mars 2016 - art. 59
+
+	**Cite**:
+
+	  - Code civil - art. 21-11
+	  - Code civil - art. 21-4
+	  - Code civil - art. 21-7
+	  - Code civil - art. 26 (VD)
+
+
 ###### Article 21-14
 
 Les personnes qui ont perdu la nationalité française en application de l'article 23-6 ou à qui a été opposée la fin de non-
@@ -2571,8 +2607,8 @@ la nationalité française ainsi que la ou les nationalités auxquelles il enten
 
 Le représentant de l'Etat dans le département ou, à Paris, le préfet de police organise, dans un délai de six mois à compter
 de l'acquisition de la nationalité française, une cérémonie d'accueil dans la citoyenneté française à l'intention des
-personnes résidant dans le département visées aux articles 21-2, 21-11, 21-12, 21-13-1, 21-14, 21-14-1, 21-15, 24-1, 24-2 et
-32-4 du présent code ainsi qu'à l'article 2 de la loi n° 64-1328 du 26 décembre 1964 autorisant l'approbation de la
+personnes résidant dans le département visées aux articles 21-2, 21-11, 21-12, 21-13-1, 21-13-2, 21-14, 21-14-1, 21-15, 24-1,
+24-2 et 32-4 du présent code ainsi qu'à l'article 2 de la loi n° 64-1328 du 26 décembre 1964 autorisant l'approbation de la
 convention du Conseil de l'Europe sur la réduction des cas de pluralité de nationalités et sur les obligations militaires en
 cas de pluralité de nationalités, signée à Strasbourg le 6 mai 1963. 
 
@@ -2592,7 +2628,7 @@ remise aux personnes ayant acquis la nationalité française visées aux premier
 	  - Loi n°64-1328 du 26 décembre 1964
 	  - Code civil - art. 21-11
 	  - Code civil - art. 21-12
-	  - Code civil - art. 21-13-1 (V)
+	  - Code civil - art. 21-13-1
 	  - Code civil - art. 21-14
 	  - Code civil - art. 21-14-1
 	  - Code civil - art. 21-15
@@ -2609,7 +2645,7 @@ remise aux personnes ayant acquis la nationalité française visées aux premier
 
 	**Modifié par**:
 
-	  - Loi n°2015-1776 du 28 décembre 2015 - art. 38
+	  - Loi n°2016-274 du 7 mars 2016 - art. 60
 
 	**Cité par**:
 
@@ -3266,9 +3302,10 @@ portés à quinze ans.
 ###### Article 26
 
 Les déclarations de nationalité souscrites en raison soit du mariage avec un conjoint français, en application de l'article
-21-2, soit de la qualité d'ascendant de Français, en application de l'article 21-13-1, sont reçues par l'autorité
-administrative. Les autres déclarations de nationalité sont reçues par le greffier en chef du tribunal d'instance ou par le
-consul. Les formes suivant lesquelles ces déclarations sont reçues sont déterminées par décret en Conseil d'Etat. 
+21-2, soit de la qualité d'ascendant de Français, en application de l'article 21-13-1, soit de la qualité de frère ou sœur de
+Français, en application de l'article 21-13-2, sont reçues par l'autorité administrative. Les autres déclarations de
+nationalité sont reçues par le greffier en chef du tribunal d'instance ou par le consul. Les formes suivant lesquelles ces
+déclarations sont reçues sont déterminées par décret en Conseil d'Etat. 
 
 Il en est délivré récépissé après remise des pièces nécessaires à la preuve de leur recevabilité.
 
@@ -3286,6 +3323,7 @@ Il en est délivré récépissé après remise des pièces nécessaires à la pr
 	  - Code civil - art. 21-11 (V)
 	  - Code civil - art. 21-12 (V)
 	  - Code civil - art. 21-13 (V)
+	  - Code civil - art. 21-13-2 (V)
 	  - Code civil - art. 21-14 (V)
 	  - Code civil - art. 21-2 (V)
 	  - Code civil - art. 21-4 (V)
@@ -3300,7 +3338,11 @@ Il en est délivré récépissé après remise des pièces nécessaires à la pr
 
 	**Modifié par**:
 
-	  - Loi n°2015-1776 du 28 décembre 2015 - art. 38
+	  - Loi n°2016-274 du 7 mars 2016 - art. 60
+
+	**Cite**:
+
+	  - Code civil - art. 21-13-1
 
 	**Anciens textes**:
 
@@ -3311,15 +3353,19 @@ Il en est délivré récépissé après remise des pièces nécessaires à la pr
 
 Toute déclaration de nationalité doit, à peine de nullité, être enregistrée soit par le greffier en chef du tribunal
 d'instance, pour les déclarations souscrites en France, soit par le ministre de la justice, pour les déclarations souscrites
-à l'étranger, à l'exception des déclarations souscrites en raison du mariage avec un conjoint français, d'une part, et de
-celles souscrites en application de l'article 21-13-1 à raison de la qualité d'ascendant de Français, d'autre part, qui sont
-enregistrées par le ministre chargé des naturalisations.
+à l'étranger, à l'exception des déclarations suivantes, qui sont enregistrées par le ministre chargé des naturalisations : 
+
+1° Celles souscrites en raison du mariage avec un conjoint français ; 
+
+2° Celles souscrites en application de l'article 21-13-1 à raison de la qualité d'ascendant de Français ; 
+
+3° Celles souscrites en application de l'article 21-13-2 à raison de la qualité de frère ou sœur de Français.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2015-1776 du 28 décembre 2015 - art. 38
+	  - Loi n°2016-274 du 7 mars 2016 - art. 60
 
 	**Cité par**:
 
@@ -3327,6 +3373,10 @@ enregistrées par le ministre chargé des naturalisations.
 	  - Décret n°2017-890 du 6 mai 2017 - art. 32 (VD)
 	  - Code civil - art. 21-2 (V)
 	  - Code civil - art. 21-9 (M)
+
+	**Cite**:
+
+	  - Code civil - art. 21-13-1
 
 	**Anciens textes**:
 
@@ -3374,9 +3424,9 @@ six mois. L'action peut être exercée personnellement par le mineur dès l'âge
 La décision de refus d'enregistrement doit intervenir six mois au plus après la date à laquelle a été délivré au déclarant le
 récépissé constatant la remise de toutes les pièces nécessaires à la preuve de recevabilité de la déclaration. 
 
-Le délai est porté à un an pour les déclarations souscrites en vertu des articles 21-2 et 21-13-1. Dans le cas où une
-procédure d'opposition est engagée par le Gouvernement en application des articles 21-4 ou 21-13-1, ce délai est porté à deux
-ans.
+Le délai est porté à un an pour les déclarations souscrites en vertu des articles 21-2,21-13-1 et 21-13-2. Dans le cas où une
+procédure d'opposition est engagée par le Gouvernement en application des articles 21-4,21-13-1 ou 21-13-2, ce délai est
+porté à deux ans.
 
 **Liens relatifs à cet article**
 
@@ -3387,13 +3437,13 @@ ans.
 
 	**Modifié par**:
 
-	  - Loi n°2015-1776 du 28 décembre 2015 - art. 38
+	  - Loi n°2016-274 du 7 mars 2016 - art. 60
 
 	**Cite**:
 
-	  - Code civil - art. 21-13-1 (V)
-	  - Code civil - art. 21-2 (V)
-	  - Code civil - art. 21-4 (V)
+	  - Code civil - art. 21-13-1
+	  - Code civil - art. 21-2
+	  - Code civil - art. 21-4
 
 	**Anciens textes**:
 

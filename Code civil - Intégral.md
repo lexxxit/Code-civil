@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 2016-07-01
+Version Consolidée au 2016-08-10
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -28109,9 +28109,14 @@ du conseil municipal, la commune peut renoncer à exercer ses droits, sur tout o
 l'établissement public de coopération intercommunale à fiscalité propre dont elle est membre. Les biens sans maître sont
 alors réputés appartenir à l'établissement public de coopération intercommunale à fiscalité propre. 
 
-Toutefois, la propriété est transférée de plein droit à l'Etat si la commune renonce à exercer ses droits en l'absence de
-délibération telle que définie au premier alinéa ou si l'établissement public de coopération intercommunale à fiscalité
-propre renonce à exercer ses droits.
+Si la commune ou l'établissement public de coopération intercommunale à fiscalité propre renonce à exercer ses droits, la
+propriété est transférée de plein droit : 
+
+1° Pour les biens situés dans les zones définies à l'article L. 322-1 du code de l'environnement, au Conservatoire de
+l'espace littoral et des rivages lacustres lorsqu'il en fait la demande ou, à défaut, au conservatoire régional d'espaces
+naturels agréé au titre de l'article L. 414-11 du même code lorsqu'il en fait la demande ou, à défaut, à l'Etat ; 
+
+2° Pour les autres biens, à l'Etat.
 
 **Liens relatifs à cet article**
 
@@ -28127,7 +28132,11 @@ propre renonce à exercer ses droits.
 
 	**Modifié par**:
 
-	  - Loi n°2014-366 du 24 mars 2014 - art. 152
+	  - Loi n°2016-1087 du 8 août 2016 - art. 109
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L322-1
 
 	**Codifié par**:
 
@@ -47064,6 +47073,130 @@ Le producteur reste responsable des conséquences de sa faute et de celle des pe
 	  - Ordonnance n°2016-131 du 10 février 2016 - art. 4
 
 
+## Titre IV ter : De la réparation du préjudice écologique
+
+###### Article 1386-19
+
+Toute personne responsable d'un préjudice écologique est tenue de le réparer.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-1087 du 8 août 2016 - art. 4
+
+	**Abrogé par**:
+
+	  - Loi n°2016-1087 du 8 août 2016 - art. 4
+
+
+###### Article 1386-20
+
+Est réparable, dans les conditions prévues au présent titre, le préjudice écologique consistant en une atteinte non
+négligeable aux éléments ou aux fonctions des écosystèmes ou aux bénéfices collectifs tirés par l'homme de l'environnement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-1087 du 8 août 2016 - art. 4
+
+	**Abrogé par**:
+
+	  - Loi n°2016-1087 du 8 août 2016 - art. 4
+
+
+###### Article 1386-21
+
+L'action en réparation du préjudice écologique est ouverte à toute personne ayant qualité et intérêt à agir, telle que
+l'Etat, l'Agence française pour la biodiversité, les collectivités territoriales et leurs groupements dont le territoire est
+concerné, ainsi que les établissements publics et les associations, agréées ou créées depuis au moins cinq ans à la date
+d'introduction de l'instance, qui ont pour objet la protection de la nature et la défense de l'environnement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-1087 du 8 août 2016 - art. 4
+
+	**Abrogé par**:
+
+	  - Loi n°2016-1087 du 8 août 2016 - art. 4
+
+
+###### Article 1386-22
+
+La réparation du préjudice écologique s'effectue par priorité en nature. 
+
+En cas d'impossibilité de droit ou de fait ou d'insuffisance des mesures de réparation, le juge condamne le responsable à
+verser des dommages et intérêts, affectés à la réparation de l'environnement, au demandeur ou, si celui-ci ne peut prendre
+les mesures utiles à cette fin, à l'Etat. 
+
+L'évaluation du préjudice tient compte, le cas échéant, des mesures de réparation déjà intervenues, en particulier dans le
+cadre de la mise en œuvre du titre VI du livre Ier du code de l'environnement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-1087 du 8 août 2016 - art. 4
+
+	**Abrogé par**:
+
+	  - Loi n°2016-1087 du 8 août 2016 - art. 4
+
+
+###### Article 1386-23
+
+En cas d'astreinte, celle-ci est liquidée par le juge au profit du demandeur, qui l'affecte à la réparation de
+l'environnement ou, si le demandeur ne peut prendre les mesures utiles à cette fin, au profit de l'Etat, qui l'affecte à
+cette même fin. 
+
+Le juge se réserve le pouvoir de la liquider.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-1087 du 8 août 2016 - art. 4
+
+	**Abrogé par**:
+
+	  - Loi n°2016-1087 du 8 août 2016 - art. 4
+
+
+###### Article 1386-24
+
+Les dépenses exposées pour prévenir la réalisation imminente d'un dommage, pour éviter son aggravation ou pour en réduire les
+conséquences constituent un préjudice réparable.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-1087 du 8 août 2016 - art. 4
+
+	**Abrogé par**:
+
+	  - Loi n°2016-1087 du 8 août 2016 - art. 4
+
+
+###### Article 1386-25
+
+Indépendamment de la réparation du préjudice écologique, le juge, saisi d'une demande en ce sens par une personne mentionnée
+à l'article 1386-21, peut prescrire les mesures raisonnables propres à prévenir ou faire cesser le dommage.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-1087 du 8 août 2016 - art. 4
+
+	**Abrogé par**:
+
+	  - Loi n°2016-1087 du 8 août 2016 - art. 4
+
+
 ## Titre V : Du contrat de mariage et des régimes matrimoniaux
 
 ### Chapitre Ier : Dispositions générales.
@@ -62016,6 +62149,19 @@ sexuelles commises contre un mineur, l'action en responsabilité civile est pres
 	  - Loi n°2008-561 du 17 juin 2008 - art. 1
 
 
+###### Article 2226-1
+
+L'action en responsabilité tendant à la réparation du préjudice écologique réparable en application du titre IV ter du
+présent livre se prescrit par dix ans à compter du jour où le titulaire de l'action a connu ou aurait dû connaître la
+manifestation du préjudice écologique.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-1087 du 8 août 2016 - art. 4
+
+
 ###### Article 2227
 
 Le droit de propriété est imprescriptible. Sous cette réserve, les actions réelles immobilières se prescrivent par trente ans
@@ -62092,7 +62238,7 @@ L'interruption efface le délai de prescription acquis. Elle fait courir un nouv
 Le report du point de départ, la suspension ou l'interruption de la prescription ne peut avoir pour effet de porter le délai
 de la prescription extinctive au-delà de vingt ans à compter du jour de la naissance du droit. 
 
-Le premier alinéa n'est pas applicable dans les cas mentionnés aux articles 2226, 
+Le premier alinéa n'est pas applicable dans les cas mentionnés aux articles 2226, 2226-1, 
 2227, 2233 et 2236, au premier alinéa de l'article 2241 et à l'article 2244. Il ne s'applique pas non plus aux actions
 relatives à l'état des personnes.
 
@@ -62111,16 +62257,16 @@ relatives à l'état des personnes.
 
 	**Modifié par**:
 
-	  - Loi n°2008-561 du 17 juin 2008 - art. 1
+	  - Loi n°2016-1087 du 8 août 2016 - art. 4
 
 	**Cite**:
 
-	  - Code civil - art. 2226 (V)
-	  - Code civil - art. 2227 (V)
-	  - Code civil - art. 2233 (V)
-	  - Code civil - art. 2236 (V)
-	  - Code civil - art. 2241 (V)
-	  - Code civil - art. 2244 (V)
+	  - Code civil - art. 2226
+	  - Code civil - art. 2227
+	  - Code civil - art. 2233
+	  - Code civil - art. 2236
+	  - Code civil - art. 2241
+	  - Code civil - art. 2244
 
 
 #### Section 2 : Des causes de report du point de départ ou de suspension de la prescription.

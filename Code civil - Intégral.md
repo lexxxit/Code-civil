@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 2016-08-10
+Version Consolidée au 2016-10-01
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -18803,7 +18803,7 @@ des actes d'administration pouvant être accomplis par le mineur.
 Les délibérations du conseil de famille sont nulles lorsqu'elles ont été surprises par dol ou fraude ou que des formalités
 substantielles ont été omises. 
 
-La nullité est couverte par une nouvelle délibération valant confirmation selon l'article 1338. 
+La nullité est couverte par une nouvelle délibération valant confirmation selon l'article 1182. 
 
 L'action en nullité peut être exercée par le tuteur, le subrogé tuteur, les autres membres du conseil de famille et le
 procureur de la République dans les deux années de la délibération ainsi que par le mineur devenu majeur ou émancipé dans les
@@ -18815,13 +18815,13 @@ l'acte et non de la délibération.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Modifié par**:
 
-	  - DEPLACE: ORDONNANCE n°2015-1288 du 15 octobre 2015 - art. 4
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 5
 
 	**Cite**:
 
-	  - Code civil - art. 1338
+	  - Code civil - art. 1182 (VT)
 
 	**Cité par**:
 
@@ -19382,10 +19382,10 @@ héritiers, pour insanité d'esprit, que dans les cas suivants :
 
 2° S'il a été fait alors que l'intéressé était placé sous sauvegarde de justice ; 
 
-3° Si une action a été introduite avant son décès             aux fins d'ouverture d'une curatelle ou d'une tutelle ou aux
-fins d'habilitation familiale ou si effet a été donné au mandat de protection future. 
+3° Si une action a été introduite avant son décès aux fins d'ouverture d'une curatelle ou d'une tutelle ou aux fins
+d'habilitation familiale ou si effet a été donné au mandat de protection future. 
 
-L'action en nullité s'éteint par le délai de cinq ans prévu à l'article 1304.
+L'action en nullité s'éteint par le délai de cinq ans prévu à l'article 2224.
 
 **Liens relatifs à cet article**
 
@@ -19393,17 +19393,17 @@ L'action en nullité s'éteint par le délai de cinq ans prévu à l'article 130
 
 	  - Décret n°2008-1484 du 22 décembre 2008 - art. Annexe 1 (V)
 
-	**Modifié par**:
-
-	  - ORDONNANCE n°2015-1288 du 15 octobre 2015 - art. 11
-
-	**Cite**:
-
-	  - Code civil - art. 1304
-
 	**Codifié par**:
 
 	  - Loi n°1803-03-14
+
+	**Modifié par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 5
+
+	**Cite**:
+
+	  - Code civil - art. 2224 (V)
 
 
 ###### Article 414-3
@@ -20096,24 +20096,24 @@ prennent notamment en considération l'utilité ou l'inutilité de l'opération,
 la personne protégée et la bonne ou mauvaise foi de ceux avec qui elle a contracté. 
 
 L'action en nullité, en rescision ou en réduction n'appartient qu'à la personne protégée et, après sa mort, à ses héritiers.
-Elle s'éteint par le délai de cinq ans prévu à l'article 1304.
+Elle s'éteint par le délai de cinq ans prévu à l'article 2224.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 5
 
 	**Cité par**:
 
 	  - Code civil - art. 1150 (V)
 	  - Code civil - art. 437 (V)
-	  - Code civil - art. 465 (V)
+	  - Code civil - art. 465 (VD)
 
 	**Cite**:
 
-	  - Code civil - art. 1304 (V)
-	  - Code civil - art. 414-1 (V)
+	  - Code civil - art. 2224 (V)
+	  - Code civil - art. 414-1
 
 	**Codifié par**:
 
@@ -21172,7 +21172,7 @@ l'acte est nul de plein droit sans qu'il soit nécessaire de justifier d'un pré
 Le curateur ou le tuteur peut, avec l'autorisation du juge ou du conseil de famille s'il a été constitué, engager seul
 l'action en nullité, en rescision ou en réduction des actes prévus aux 1°, 2° et 3°. 
 
-Dans tous les cas, l'action s'éteint par le délai de cinq ans prévu à l'article 1304. 
+Dans tous les cas, l'action s'éteint par le délai de cinq ans prévu à l'article 2224. 
 
 Pendant ce délai et tant que la mesure de protection est ouverte, l'acte prévu au 4° peut être confirmé avec l'autorisation
 du juge ou du conseil de famille s'il a été constitué.
@@ -21187,12 +21187,12 @@ du juge ou du conseil de famille s'il a été constitué.
 
 	**Modifié par**:
 
-	  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 5
 
 	**Cite**:
 
-	  - Code civil - art. 1304 (V)
-	  - Code civil - art. 435 (V)
+	  - Code civil - art. 2224 (V)
+	  - Code civil - art. 435 (VD)
 
 	**Codifié par**:
 
@@ -21863,7 +21863,7 @@ l'inutilité de l'opération, l'importance ou la consistance du patrimoine de la
 de ceux avec qui elle a contracté. 
 
 L'action n'appartient qu'à la personne protégée et, après sa mort, à ses héritiers. Elle s'éteint par le délai de cinq ans
-prévu à l'article 1304.
+prévu à l'article 2224.
 
 **Liens relatifs à cet article**
 
@@ -21876,12 +21876,12 @@ prévu à l'article 1304.
 
 	**Modifié par**:
 
-	  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 5
 
 	**Cite**:
 
-	  - Code civil - art. 1304 (V)
-	  - Code civil - art. 414-1 (V)
+	  - Code civil - art. 2224 (V)
+	  - Code civil - art. 414-1
 
 	**Codifié par**:
 
@@ -22033,21 +22033,21 @@ peut y renoncer en notifiant sa renonciation au mandant.
 
 ###### Article 492-1
 
-Le mandat n'acquiert date certaine que dans les conditions de l'article 1328.
+Le mandat n'acquiert date certaine que dans les conditions de l'article 1377.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 5
+
 	**Cite**:
 
-	  - Code civil - art. 1328 (V)
+	  - Code civil - art. 1377 (VT)
 
 	**Codifié par**:
 
 	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
 
 
 ###### Article 493
@@ -22322,16 +22322,16 @@ Si la personne habilitée accomplit seule, en cette qualité, un acte n'entrant 
 été délivrée ou qui ne pouvait être accompli qu'avec l'autorisation du juge, l'acte est nul de plein droit sans qu'il soit
 nécessaire de justifier d'un préjudice. 
 
-Dans tous les cas, l'action en nullité ou en réduction est exercée dans le délai de cinq ans prévu à l'article 1304. 
+Dans tous les cas, l'action en nullité ou en réduction est exercée dans le délai de cinq ans prévu à l'article 2224. 
 
 Pendant ce délai et tant que la mesure d'habilitation est en cours, l'acte contesté peut être confirmé avec l'autorisation du
 juge des tutelles.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - ORDONNANCE n°2015-1288 du 15 octobre 2015 - art. 10
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 5
 
 	**Cité par**:
 
@@ -22339,7 +22339,7 @@ juge des tutelles.
 
 	**Cite**:
 
-	  - Code civil - art. 1304 (VD)
+	  - Code civil - art. 2224 (V)
 	  - Code civil - art. 464
 
 
@@ -30498,13 +30498,9 @@ dans un délai de trois mois après la publicité mentionnée au premier alinéa
 a été faite à l'amiable, le prix de l'aliénation en prouvant que la valeur du bien est supérieure. 
 
 Lorsque la demande du créancier est accueillie, l'héritier est tenu du complément sur ses biens personnels, sauf à restituer
-à la succession le bien conservé et sans préjudice de l'action prévue à l'article 1167.
+à la succession le bien conservé et sans préjudice de l'action prévue à l'article 1341-2.
 
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°2006-728 du 23 juin 2006 - art. 1 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 	**Cité par**:
 
@@ -30516,9 +30512,13 @@ Lorsque la demande du créancier est accueillie, l'héritier est tenu du complé
 	  - Code de procédure civile - art. 1335 (VD)
 	  - Nouveau code de procédure civile - art. 1380 (V)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 5
+
 	**Cite**:
 
-	  - Code civil - art. 1167 (V)
+	  - Code civil - art. 1341-2 (VD)
 
 	**Codifié par**:
 
@@ -35901,6 +35901,21 @@ minute, sous peine de nullité.
 	  - Loi du 16 mars 1803 - art. 10 (Ab)
 
 
+###### Article 931-1
+
+En cas de vice de forme, une donation entre vifs ne peut faire l'objet d'une confirmation. Elle doit être refaite en la forme
+légale.
+
+Après le décès du donateur, la confirmation ou exécution volontaire d'une donation par les héritiers ou ayant cause du
+donateur emporte leur renonciation à opposer les vices de forme ou toute autre cause de nullité.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 5
+
+
 ###### Article 932
 
 La donation entre vifs n'engagera le donateur, et ne produira aucun effet, que du jour qu'elle aura été acceptée en termes
@@ -39599,14 +39614,57 @@ subrogé au bien aliéné, la valeur de ce nouveau bien.
 	  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
-## Titre III : Des contrats ou des obligations conventionnelles en général
+## Titre III : Des sources d'obligations
 
-### Chapitre Ier : Dispositions préliminaires.
+###### Article 1100
+
+Les obligations naissent d'actes juridiques, de faits juridiques ou de l'autorité seule de la loi.
+
+Elles peuvent naître de l'exécution volontaire ou de la promesse d'exécution d'un devoir de conscience envers autrui.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
+
+
+###### Article 1100-1
+
+Les actes juridiques sont des manifestations de volonté destinées à produire des effets de droit. Ils peuvent être
+conventionnels ou unilatéraux.
+
+Ils obéissent, en tant que de raison, pour leur validité et leurs effets, aux règles qui gouvernent les contrats.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
+
+
+###### Article 1100-2
+
+Les faits juridiques sont des agissements ou des événements auxquels la loi attache des effets de droit.
+
+Les obligations qui naissent d'un fait juridique sont régies, selon le cas, par le sous-titre relatif à la responsabilité
+extracontractuelle ou le sous-titre relatif aux autres sources d'obligations.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
+
+
+### Sous-titre Ier :  Le contrat 
+
+#### Chapitre Ier : Dispositions liminaires
 
 ###### Article 1101
 
-Le contrat est une convention par laquelle une ou plusieurs personnes s'obligent, envers une ou plusieurs autres, à donner, à
-faire ou à ne pas faire quelque chose.
+Le contrat est un accord de volontés entre deux ou plusieurs personnes destiné à créer, modifier, transmettre ou éteindre des
+obligations.
 
 **Liens relatifs à cet article**
 
@@ -39614,14 +39672,17 @@ faire ou à ne pas faire quelque chose.
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
 
 ###### Article 1102
 
-Le contrat est synallagmatique ou bilatéral lorsque les contractants s'obligent réciproquement les uns envers les autres.
+Chacun est libre de contracter ou de ne pas contracter, de choisir son cocontractant et de déterminer le contenu et la forme
+du contrat dans les limites fixées par la loi. 
+
+La liberté contractuelle ne permet pas de déroger aux règles qui intéressent l'ordre public.
 
 **Liens relatifs à cet article**
 
@@ -39629,17 +39690,20 @@ Le contrat est synallagmatique ou bilatéral lorsque les contractants s'obligent
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
 
 ###### Article 1103
 
-Il est unilatéral lorsqu'une ou plusieurs personnes sont obligées envers une ou plusieurs autres, sans que de la part de ces
-dernières il y ait d'engagement.
+Les contrats légalement formés tiennent lieu de loi à ceux qui les ont faits.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
 	**Cité par**:
 
@@ -39650,21 +39714,19 @@ dernières il y ait d'engagement.
 	**Codifié par**:
 
 	  - Loi n°1804-02-07
-
-	**Créé par**:
-
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
 
 
 ###### Article 1104
 
-Il est commutatif lorsque chacune des parties s'engage à donner ou à faire une chose qui est regardée comme l'équivalent de
-ce qu'on lui donne, ou de ce qu'on fait pour elle.
+Les contrats doivent être négociés, formés et exécutés de bonne foi. 
 
-Lorsque l'équivalent consiste dans la chance de gain ou de perte pour chacune des parties, d'après un événement incertain, le
-contrat est aléatoire.
+Cette disposition est d'ordre public.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
 	**Cité par**:
 
@@ -39676,14 +39738,15 @@ contrat est aléatoire.
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
-
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
-
 
 ###### Article 1105
 
-Le contrat de bienfaisance est celui dans lequel l'une des parties procure à l'autre un avantage purement gratuit.
+Les contrats, qu'ils aient ou non une dénomination propre, sont soumis à des règles générales, qui sont l'objet du présent
+sous-titre. 
+
+Les règles particulières à certains contrats sont établies dans les dispositions propres à chacun d'eux. 
+
+Les règles générales s'appliquent sous réserve de ces règles particulières.
 
 **Liens relatifs à cet article**
 
@@ -39691,14 +39754,17 @@ Le contrat de bienfaisance est celui dans lequel l'une des parties procure à l'
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
 
 ###### Article 1106
 
-Le contrat à titre onéreux est celui qui assujettit chacune des parties à donner ou à faire quelque chose.
+Le contrat est synallagmatique lorsque les contractants s'obligent réciproquement les uns envers les autres. 
+
+Il est unilatéral lorsqu'une ou plusieurs personnes s'obligent envers une ou plusieurs autres sans qu'il y ait d'engagement
+réciproque de celles-ci.
 
 **Liens relatifs à cet article**
 
@@ -39706,18 +39772,17 @@ Le contrat à titre onéreux est celui qui assujettit chacune des parties à don
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
 
 ###### Article 1107
 
-Les contrats, soit qu'ils aient une dénomination propre, soit qu'ils n'en aient pas, sont soumis à des règles générales, qui
-sont l'objet du présent titre.
+Le contrat est à titre onéreux lorsque chacune des parties reçoit de l'autre un avantage en contrepartie de celui qu'elle
+procure. 
 
-Les règles particulières à certains contrats sont établies sous les titres relatifs à chacun d'eux ; et les règles
-particulières aux transactions commerciales sont établies par les lois relatives au commerce.
+Il est à titre gratuit lorsque l'une des parties procure à l'autre un avantage sans attendre ni recevoir de contrepartie.
 
 **Liens relatifs à cet article**
 
@@ -39725,24 +39790,18 @@ particulières aux transactions commerciales sont établies par les lois relativ
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
-
-### Chapitre II : Des conditions essentielles pour la validité des conventions.
 
 ###### Article 1108
 
-Quatre conditions sont essentielles pour la validité d'une convention :
+Le contrat est commutatif lorsque chacune des parties s'engage à procurer à l'autre un avantage qui est regardé comme
+l'équivalent de celui qu'elle reçoit. 
 
-Le consentement de la partie qui s'oblige ;
-
-Sa capacité de contracter ;
-
-Un objet certain qui forme la matière de l'engagement ;
-
-Une cause licite dans l'obligation.
+Il est aléatoire lorsque les parties acceptent de faire dépendre les effets du contrat, quant aux avantages et aux pertes qui
+en résulteront, d'un événement incertain.
 
 **Liens relatifs à cet article**
 
@@ -39750,89 +39809,18 @@ Une cause licite dans l'obligation.
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
-
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
-
-
-###### Article 1108-1
-
-Lorsqu'un écrit est exigé pour la validité d'un acte juridique, il peut être établi et conservé sous forme électronique dans
-les conditions prévues aux articles 1316-1 et 1316-4 et, lorsqu'un acte authentique est requis, au second alinéa de l'article
-1317. 
-
-Lorsqu'est exigée une mention écrite de la main même de celui qui s'oblige, ce dernier peut l'apposer sous forme électronique
-si les conditions de cette apposition sont de nature à garantir qu'elle ne peut être effectuée que par lui-même.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Décret n°71-941 du 26 novembre 1971 - art. 17 (V)
-	  - Loi n°2004-575 du 21 juin 2004 - art. 26 (V)
-	  - Code civil - art. 1108-2 (Ab)
-
-	**Codifié par**:
-
-	  - Loi n°1804-02-07
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°2004-575 2004-06-21 art. 57, art. 58
-
-	**Créé par**:
-
-	  - Loi n°2004-575 du 21 juin 2004 - art. 25 () JORF 22 juin 2004
-
-	**Abrogé par**:
+	**Modifié par**:
 
 	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
-	**Cite**:
-
-	  - Code civil - art. 1316-1 (Ab)
-	  - Code civil - art. 1316-4 (Ab)
-	  - Code civil - art. 1317 (V)
-
-
-###### Article 1108-2
-
-Il est fait exception aux dispositions de l'article 1108-1 pour : 
-
-1° Les actes sous seing privé relatifs au droit de la famille et des successions ; 
-
-2° Les actes sous seing privé relatifs à des sûretés personnelles ou réelles, de nature civile ou commerciale, sauf s'ils
-sont passés par une personne pour les besoins de sa profession.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°2004-575 2004-06-21 art. 57, art. 58
-
-	**Créé par**:
-
-	  - Loi n°2004-575 du 21 juin 2004 - art. 25 () JORF 22 juin 2004
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
-
-	**Cite**:
-
-	  - Code civil - art. 1108-1 (Ab)
-
-	**Codifié par**:
-
-	  - Loi n°1804-02-07
-
-
-#### Section 1 : Du consentement.
 
 ###### Article 1109
 
-Il n'y a point de consentement valable si le consentement n'a été donné que par erreur ou s'il a été extorqué par violence ou
-surpris par dol.
+Le contrat est consensuel lorsqu'il se forme par le seul échange des consentements quel qu'en soit le mode d'expression. 
+
+Le contrat est solennel lorsque sa validité est subordonnée à des formes déterminées par la loi. 
+
+Le contrat est réel lorsque sa formation est subordonnée à la remise d'une chose.
 
 **Liens relatifs à cet article**
 
@@ -39840,18 +39828,17 @@ surpris par dol.
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
 
 ###### Article 1110
 
-L'erreur n'est une cause de nullité de la convention que lorsqu'elle tombe sur la substance même de la chose qui en est
-l'objet.
+Le contrat de gré à gré est celui dont les stipulations sont librement négociées entre les parties. 
 
-Elle n'est point une cause de nullité lorsqu'elle ne tombe que sur la personne avec laquelle on a intention de contracter, à
-moins que la considération de cette personne ne soit la cause principale de la convention.
+Le contrat d'adhésion est celui dont les conditions générales, soustraites à la négociation, sont déterminées à l'avance par
+l'une des parties.
 
 **Liens relatifs à cet article**
 
@@ -39859,15 +39846,15 @@ moins que la considération de cette personne ne soit la cause principale de la 
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
 
 ###### Article 1111
 
-La violence exercée contre celui qui a contracté l'obligation est une cause de nullité, encore qu'elle ait été exercée par un
-tiers autre que celui au profit duquel la convention a été faite.
+Le contrat cadre est un accord par lequel les parties conviennent des caractéristiques générales de leurs relations
+contractuelles futures. Des contrats d'application en précisent les modalités d'exécution.
 
 **Liens relatifs à cet article**
 
@@ -39875,17 +39862,38 @@ tiers autre que celui au profit duquel la convention a été faite.
 
 	  - Loi n°1804-02-07
 
+	**Modifié par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
+
+
+###### Article 1111-1
+
+Le contrat à exécution instantanée est celui dont les obligations peuvent s'exécuter en une prestation unique. 
+
+Le contrat à exécution successive est celui dont les obligations d'au moins une partie s'exécutent en plusieurs prestations
+échelonnées dans le temps.
+
+**Liens relatifs à cet article**
+
 	**Créé par**:
 
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
+
+#### Chapitre II : La formation du contrat
+
+##### Section 1 : La conclusion du contrat
+
+##### Sous-section 1 : Les négociations
 
 ###### Article 1112
 
-Il y a violence lorsqu'elle est de nature à faire impression sur une personne raisonnable, et qu'elle peut lui inspirer la
-crainte d'exposer sa personne ou sa fortune à un mal considérable et présent.
+L'initiative, le déroulement et la rupture des négociations précontractuelles sont libres. Ils doivent impérativement
+satisfaire aux exigences de la bonne foi. 
 
-On a égard, en cette matière, à l'âge, au sexe et à la condition des personnes.
+En cas de faute commise dans les négociations, la réparation du préjudice qui en résulte ne peut avoir pour objet de
+compenser la perte des avantages attendus du contrat non conclu.
 
 **Liens relatifs à cet article**
 
@@ -39893,15 +39901,56 @@ On a égard, en cette matière, à l'âge, au sexe et à la condition des person
 
 	  - Loi n°1804-02-07
 
+	**Modifié par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
+
+
+###### Article 1112-1
+
+Celle des parties qui connaît une information dont l'importance est déterminante pour le consentement de l'autre doit l'en
+informer dès lors que, légitimement, cette dernière ignore cette information ou fait confiance à son cocontractant. 
+
+Néanmoins, ce devoir d'information ne porte pas sur l'estimation de la valeur de la prestation. 
+
+Ont une importance déterminante les informations qui ont un lien direct et nécessaire avec le contenu du contrat ou la
+qualité des parties. 
+
+Il incombe à celui qui prétend qu'une information lui était due de prouver que l'autre partie la lui devait, à charge pour
+cette autre partie de prouver qu'elle l'a fournie. 
+
+Les parties ne peuvent ni limiter, ni exclure ce devoir. 
+
+Outre la responsabilité de celui qui en était tenu, le manquement à ce devoir d'information peut entraîner l'annulation du
+contrat dans les conditions prévues aux articles 1130 et suivants.
+
+**Liens relatifs à cet article**
+
 	**Créé par**:
 
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
+
+###### Article 1112-2
+
+Celui qui utilise ou divulgue sans autorisation une information confidentielle obtenue à l'occasion des négociations engage
+sa responsabilité dans les conditions du droit commun.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
+
+
+##### Sous-section 2 : L'offre et l'acceptation 
 
 ###### Article 1113
 
-La violence est une cause de nullité du contrat, non seulement lorsqu'elle a été exercée sur la partie contractante, mais
-encore lorsqu'elle l'a été sur son époux ou sur son épouse, sur ses descendants ou ses ascendants.
+Le contrat est formé par la rencontre d'une offre et d'une acceptation par lesquelles les parties manifestent leur volonté de
+s'engager. 
+
+Cette volonté peut résulter d'une déclaration ou d'un comportement non équivoque de son auteur.
 
 **Liens relatifs à cet article**
 
@@ -39909,15 +39958,15 @@ encore lorsqu'elle l'a été sur son époux ou sur son épouse, sur ses descenda
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
 
 ###### Article 1114
 
-La seule crainte révérencielle envers le père, la mère, ou autre ascendant, sans qu'il y ait eu de violence exercée, ne
-suffit point pour annuler le contrat.
+L'offre, faite à personne déterminée ou indéterminée, comprend les éléments essentiels du contrat envisagé et exprime la
+volonté de son auteur d'être lié en cas d'acceptation. A défaut, il y a seulement invitation à entrer en négociation.
 
 **Liens relatifs à cet article**
 
@@ -39925,15 +39974,14 @@ suffit point pour annuler le contrat.
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
 
 ###### Article 1115
 
-Un contrat ne peut plus être attaqué pour cause de violence, si, depuis que la violence a cessé, ce contrat a été approuvé
-soit expressément, soit tacitement, soit en laissant passer le temps de la restitution fixé par la loi.
+Elle peut être librement rétractée tant qu'elle n'est pas parvenue à son destinataire.
 
 **Liens relatifs à cet article**
 
@@ -39941,17 +39989,19 @@ soit expressément, soit tacitement, soit en laissant passer le temps de la rest
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
 
 ###### Article 1116
 
-Le dol est une cause de nullité de la convention lorsque les manoeuvres pratiquées par l'une des parties sont telles, qu'il
-est évident que, sans ces manoeuvres, l'autre partie n'aurait pas contracté.
+Elle ne peut être rétractée avant l'expiration du délai fixé par son auteur ou, à défaut, l'issue d'un délai raisonnable. 
 
-Il ne se présume pas et doit être prouvé.
+La rétractation de l'offre en violation de cette interdiction empêche la conclusion du contrat. 
+
+Elle engage la responsabilité extracontractuelle de son auteur dans les conditions du droit commun sans l'obliger à compenser
+la perte des avantages attendus du contrat.
 
 **Liens relatifs à cet article**
 
@@ -39959,15 +40009,16 @@ Il ne se présume pas et doit être prouvé.
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
 
 ###### Article 1117
 
-La convention contractée par erreur, violence ou dol, n'est point nulle de plein droit ; elle donne seulement lieu à une
-action en nullité ou en rescision, dans les cas et de la manière expliqués à la section VII du chapitre V du présent titre.
+L'offre est caduque à l'expiration du délai fixé par son auteur ou, à défaut, à l'issue d'un délai raisonnable. 
+
+Elle l'est également en cas d'incapacité ou de décès de son auteur.
 
 **Liens relatifs à cet article**
 
@@ -39975,15 +40026,19 @@ action en nullité ou en rescision, dans les cas et de la manière expliqués à
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
 
 ###### Article 1118
 
-La lésion ne vicie les conventions que dans certains contrats ou à l'égard de certaines personnes, ainsi qu'il sera expliqué
-en la même section.
+L'acceptation est la manifestation de volonté de son auteur d'être lié dans les termes de l'offre. 
+
+Tant que l'acceptation n'est pas parvenue à l'offrant, elle peut être librement rétractée, pourvu que la rétractation
+parvienne à l'offrant avant l'acceptation. 
+
+L'acceptation non conforme à l'offre est dépourvue d'effet, sauf à constituer une offre nouvelle.
 
 **Liens relatifs à cet article**
 
@@ -39991,14 +40046,21 @@ en la même section.
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
 
 ###### Article 1119
 
-On ne peut, en général, s'engager, ni stipuler en son propre nom, que pour soi-même.
+Les conditions générales invoquées par une partie n'ont effet à l'égard de l'autre que si elles ont été portées à la
+connaissance de celle-ci et si elle les a acceptées. 
+
+En cas de discordance entre des conditions générales invoquées par l'une et l'autre des parties, les clauses incompatibles
+sont sans effet. 
+
+En cas de discordance entre des conditions générales et des conditions particulières, les secondes l'emportent sur les
+premières.
 
 **Liens relatifs à cet article**
 
@@ -40006,15 +40068,15 @@ On ne peut, en général, s'engager, ni stipuler en son propre nom, que pour soi
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
 
 ###### Article 1120
 
-Néanmoins, on peut se porter fort pour un tiers, en promettant le fait de celui-ci ; sauf l'indemnité contre celui qui s'est
-porté fort ou qui a promis de faire ratifier, si le tiers refuse de tenir l'engagement.
+Le silence ne vaut pas acceptation, à moins qu'il n'en résulte autrement de la loi, des usages, des relations d'affaires ou
+de circonstances particulières.
 
 **Liens relatifs à cet article**
 
@@ -40022,16 +40084,14 @@ porté fort ou qui a promis de faire ratifier, si le tiers refuse de tenir l'eng
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
 
 ###### Article 1121
 
-On peut pareillement stipuler au profit d'un tiers lorsque telle est la condition d'une stipulation que l'on fait pour soi-
-même ou d'une donation que l'on fait à un autre. Celui qui a fait cette stipulation ne peut plus la révoquer si le tiers a
-déclaré vouloir en profiter.
+Le contrat est conclu dès que l'acceptation parvient à l'offrant. Il est réputé l'être au lieu où l'acceptation est parvenue.
 
 **Liens relatifs à cet article**
 
@@ -40043,15 +40103,16 @@ déclaré vouloir en profiter.
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
 
 ###### Article 1122
 
-On est censé avoir stipulé pour soi et pour ses héritiers et ayants cause, à moins que le contraire ne soit exprimé ou ne
-résulte de la nature de la convention.
+La loi ou le contrat peuvent prévoir un délai de réflexion, qui est le délai avant l'expiration duquel le destinataire de
+l'offre ne peut manifester son acceptation ou un délai de rétractation, qui est le délai avant l'expiration duquel son
+bénéficiaire peut rétracter son consentement.
 
 **Liens relatifs à cet article**
 
@@ -40059,68 +40120,83 @@ résulte de la nature de la convention.
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
 
-#### Section 2 : De la capacité des parties contractantes.
+##### Sous-section 3 : Le pacte de préférence et la promesse unilatérale 
+
 
 ###### Article 1123
 
-Toute personne peut contracter si elle n'en est pas déclarée incapable par la loi.
+Le pacte de préférence est le contrat par lequel une partie s'engage à proposer prioritairement à son bénéficiaire de traiter
+avec lui pour le cas où elle déciderait de contracter. 
+
+Lorsqu'un contrat est conclu avec un tiers en violation d'un pacte de préférence, le bénéficiaire peut obtenir la réparation
+du préjudice subi. Lorsque le tiers connaissait l'existence du pacte et l'intention du bénéficiaire de s'en prévaloir, ce
+dernier peut également agir en nullité ou demander au juge de le substituer au tiers dans le contrat conclu. 
+
+Le tiers peut demander par écrit au bénéficiaire de confirmer dans un délai qu'il fixe et qui doit être raisonnable,
+l'existence d'un pacte de préférence et s'il entend s'en prévaloir. 
+
+L'écrit mentionne qu'à défaut de réponse dans ce délai, le bénéficiaire du pacte ne pourra plus solliciter sa substitution au
+contrat conclu avec le tiers ou la nullité du contrat.
+
+**Nota:**
+
+Conformément à l'article 9 de l'ordonnance n° 2016-131 du 10 février 2016, les présentes dispositions entreront en vigueur le
+1er octobre 2016. Les contrats conclus avant cette date demeurent soumis à la loi ancienne.
+
+Toutefois, les dispositions des troisième et quatrième alinéas du présent article sont applicables dès l'entrée en vigueur de
+ladite ordonnance.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Loi n°1804-02-07
-
-	**Créé par**:
-
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
 
 	**Cité par**:
 
 	  - Ordonnance n°2016-131 du 10 février 2016 - art. 9 (V)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
+
 
 ###### Article 1124
 
-Sont incapables de contracter, dans la mesure définie par la loi : 
+La promesse unilatérale est le contrat par lequel une partie, le promettant, accorde à l'autre, le bénéficiaire, le droit
+d'opter pour la conclusion d'un contrat dont les éléments essentiels sont déterminés, et pour la formation duquel ne manque
+que le consentement du bénéficiaire. 
 
-Les mineurs non émancipés ; 
+La révocation de la promesse pendant le temps laissé au bénéficiaire pour opter n'empêche pas la formation du contrat
+promis. 
 
-Les majeurs protégés au sens de l'article 488 du présent code.
+Le contrat conclu en violation de la promesse unilatérale avec un tiers qui en connaissait l'existence est nul.
 
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°68-5 du 3 janvier 1968 - art. 2
-
-	**Cite**:
-
-	  - Code civil - art. 488 (VT)
 
 	**Codifié par**:
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
+
+
+##### Sous-section 4 : Dispositions propres au contrat conclu par voie électronique 
 
 
 ###### Article 1125
 
-Les personnes capables de s'engager ne peuvent opposer l'incapacité de ceux avec qui elles ont contracté.
+La voie électronique peut être utilisée pour mettre à disposition des stipulations contractuelles ou des informations sur des
+biens ou services.
 
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°68-5 du 3 janvier 1968 - art. 2
 
 	**Cité par**:
 
@@ -40132,41 +40208,15 @@ Les personnes capables de s'engager ne peuvent opposer l'incapacité de ceux ave
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
-
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
-
-
-###### Article 1125-1
-
-Sauf autorisation de justice, il est interdit, à peine de nullité, à quiconque exerce une fonction ou occupe un emploi dans
-un établissement hébergeant des personnes âgées ou dispensant des soins psychiatriques de se rendre acquéreur d'un bien ou
-cessionnaire d'un droit appartenant à une personne admise dans l'établissement, non plus que de prendre à bail le logement
-occupé par cette personne avant son admission dans l'établissement.
-
-Pour l'application du présent article, sont réputées personnes interposées, le conjoint, les ascendants et les descendants
-des personnes auxquelles s'appliquent les interdictions ci-dessus édictées.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1804-02-07
-
-	**Créé par**:
-
-	  - Loi n°68-5 du 3 janvier 1968 - art. 3
-
-	**Abrogé par**:
+	**Modifié par**:
 
 	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
 
-#### Section 3 : De l'objet et de la matière des contrats.
-
 ###### Article 1126
 
-Tout contrat a pour objet une chose qu'une partie s'oblige à donner, ou qu'une partie s'oblige à faire ou à ne pas faire.
+Les informations qui sont demandées en vue de la conclusion d'un contrat ou celles qui sont adressées au cours de son
+exécution peuvent être transmises par courrier électronique si leur destinataire a accepté l'usage de ce moyen.
 
 **Liens relatifs à cet article**
 
@@ -40178,16 +40228,24 @@ Tout contrat a pour objet une chose qu'une partie s'oblige à donner, ou qu'une 
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
 
 ###### Article 1127
 
-Le simple usage ou la simple possession d'une chose peut être, comme la chose même, l'objet du contrat.
+Les informations destinées à un professionnel peuvent lui être adressées par courrier électronique, dès lors qu'il a
+communiqué son adresse électronique. 
+
+Si ces informations doivent être portées sur un formulaire, celui-ci est mis, par voie électronique, à la disposition de la
+personne qui doit le remplir.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
 	**Cité par**:
 
@@ -40197,49 +40255,168 @@ Le simple usage ou la simple possession d'une chose peut être, comme la chose m
 
 	  - Loi n°1804-02-07
 
+
+###### Article 1127-1
+
+Quiconque propose à titre professionnel, par voie électronique, la fourniture de biens ou la prestation de services, met à
+disposition les stipulations contractuelles applicables d'une manière qui permette leur conservation et leur reproduction. 
+
+L'auteur d'une offre reste engagé par elle tant qu'elle est accessible par voie électronique de son fait. 
+
+L'offre énonce en outre : 
+
+1° Les différentes étapes à suivre pour conclure le contrat par voie électronique ; 
+
+2° Les moyens techniques permettant au destinataire de l'offre, avant la conclusion du contrat, d'identifier d'éventuelles
+erreurs commises dans la saisie des données et de les corriger ; 
+
+3° Les langues proposées pour la conclusion du contrat au nombre desquelles doit figurer la langue française ; 
+
+4° Le cas échéant, les modalités d'archivage du contrat par l'auteur de l'offre et les conditions d'accès au contrat
+archivé ; 
+
+5° Les moyens de consulter par voie électronique les règles professionnelles et commerciales auxquelles l'auteur de l'offre
+entend, le cas échéant, se soumettre.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°2013-559 du 26 juin 2013 - art. 12 (V)
+	  - Code civil - art. 1127-3 (V)
+	  - Code du tourisme. - art. L211-1 (VD)
+
 	**Créé par**:
 
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
+
+###### Article 1127-2
+
+Le contrat n'est valablement conclu que si le destinataire de l'offre a eu la possibilité de vérifier le détail de sa
+commande et son prix total et de corriger d'éventuelles erreurs avant de confirmer celle-ci pour exprimer son acceptation
+définitive. 
+
+L'auteur de l'offre doit accuser réception sans délai injustifié, par voie électronique, de la commande qui lui a été
+adressée. 
+
+La commande, la confirmation de l'acceptation de l'offre et l'accusé de réception sont considérés comme reçus lorsque les
+parties auxquelles ils sont adressés peuvent y avoir accès.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
+
+	**Cité par**:
+
+	  - Code civil - art. 1127-3 (V)
+	  - Code de commerce - art. L321-3 (V)
+
+
+###### Article 1127-3
+
+Il est fait exception aux obligations visées aux 1° à 5° de l'article 1127-1 et aux deux premiers alinéas de l'article 1127-2
+pour les contrats de fourniture de biens ou de prestation de services qui sont conclus exclusivement par échange de courriers
+électroniques. 
+
+Il peut, en outre, être dérogé aux dispositions des 1° à 5° de l'article 1127-1 et de l'article 1127-2 dans les contrats
+conclus entre professionnels.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
+
+	**Cite**:
+
+	  - Code civil - art. 1127-1 (V)
+	  - Code civil - art. 1127-2 (V)
+
+
+###### Article 1127-4
+
+Une lettre simple relative à la conclusion ou à l'exécution d'un contrat peut être envoyée par courrier électronique. 
+
+L'apposition de la date d'expédition résulte d'un procédé électronique dont la fiabilité est présumée, jusqu'à preuve
+contraire, lorsqu'il satisfait à des exigences fixées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
+
+
+###### Article 1127-5
+
+Une lettre recommandée relative à la conclusion ou à l'exécution d'un contrat peut être envoyée par courrier électronique à
+condition que ce courrier soit acheminé par un tiers selon un procédé permettant d'identifier le tiers, de désigner
+l'expéditeur, de garantir l'identité du destinataire et d'établir si la lettre a été remise ou non au destinataire. 
+
+Le contenu de cette lettre, au choix de l'expéditeur, peut être imprimé par le tiers sur papier pour être distribué au
+destinataire ou peut être adressé à celui-ci par voie électronique. Dans ce dernier cas, si le destinataire n'est pas un
+professionnel, il doit avoir demandé l'envoi par ce moyen ou en avoir accepté l'usage au cours d'échanges antérieurs. 
+
+Lorsque l'apposition de la date d'expédition ou de réception résulte d'un procédé électronique, la fiabilité de celui-ci est
+présumée, jusqu'à preuve contraire, s'il satisfait à des exigences fixées par un décret en Conseil d'Etat. 
+
+Un avis de réception peut être adressé à l'expéditeur par voie électronique ou par tout autre dispositif lui permettant de le
+conserver. 
+
+Les modalités d'application du présent article sont fixées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°67-223 du 17 mars 1967 - art. 64-3 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
+
+	**Abrogé par**:
+
+	  - Loi n°2016-1321 du 7 octobre 2016 - art. 93
+
+
+###### Article 1127-6
+
+Hors les cas prévus aux articles 1125 et 1126, la remise d'un écrit électronique est effective lorsque le destinataire, après
+avoir pu en prendre connaissance, en a accusé réception. 
+
+Si une disposition prévoit que l'écrit doit être lu au destinataire, la remise d'un écrit électronique à l'intéressé dans les
+conditions prévues au premier alinéa vaut lecture.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
+
+	**Liens**:
+
+	  - TRANSFERE: Loi n°2016-1321 du 7 octobre 2016 - art. 93
+
+	**Nouveaux textes**:
+
+	  - Code civil - art. 1127-4 (V)
+
+
+##### Section 2 : La validité du contrat
 
 ###### Article 1128
 
-Il n'y a que les choses qui sont dans le commerce qui puissent être l'objet des conventions.
+Sont nécessaires à la validité d'un contrat : 
 
-**Liens relatifs à cet article**
+1° Le consentement des parties ; 
 
-	**Codifié par**:
+2° Leur capacité de contracter ; 
 
-	  - Loi n°1804-02-07
-
-	**Créé par**:
-
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
-
-
-###### Article 1129
-
-Il faut que l'obligation ait pour objet une chose au moins déterminée quant à son espèce.
-
-La quotité de la chose peut être incertaine, pourvu qu'elle puisse être déterminée.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1804-02-07
-
-	**Créé par**:
-
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
-
-
-###### Article 1130
-
-Les choses futures peuvent être l'objet d'une obligation.
-
-On ne peut cependant renoncer à une succession non ouverte, ni faire aucune stipulation sur une pareille succession, même
-avec le consentement de celui de la succession duquel il s'agit, que dans les conditions prévues par la loi.
+3° Un contenu licite et certain.
 
 **Liens relatifs à cet article**
 
@@ -40249,14 +40426,41 @@ avec le consentement de celui de la succession duquel il s'agit, que dans les co
 
 	**Modifié par**:
 
-	  - Loi n°2006-728 du 23 juin 2006 - art. 29 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
 
-#### Section 4 : De la cause.
+##### Sous-section 1 : Le consentement 
 
-###### Article 1131
+##### Paragraphe 1 : L'existence du consentement 
 
-L'obligation sans cause, ou sur une fausse cause, ou sur une cause illicite, ne peut avoir aucun effet.
+###### Article 1129
+
+Conformément à l'article 414-1, il faut être sain d'esprit pour consentir valablement à un contrat.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code civil - art. 414-1 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Modifié par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
+
+
+##### Paragraphe 2 : Les vices du consentement 
+
+###### Article 1130
+
+L'erreur, le dol et la violence vicient le consentement lorsqu'ils sont de telle nature que, sans eux, l'une des parties
+n'aurait pas contracté ou aurait contracté à des conditions substantiellement différentes. 
+
+Leur caractère déterminant s'apprécie eu égard aux personnes et aux circonstances dans lesquelles le consentement a été
+donné.
 
 **Liens relatifs à cet article**
 
@@ -40264,14 +40468,30 @@ L'obligation sans cause, ou sur une fausse cause, ou sur une cause illicite, ne 
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
+
+
+###### Article 1131
+
+Les vices du consentement sont une cause de nullité relative du contrat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Modifié par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
 
 ###### Article 1132
 
-La convention n'est pas moins valable, quoique la cause n'en soit pas exprimée.
+L'erreur de droit ou de fait, à moins qu'elle ne soit inexcusable, est une cause de nullité du contrat lorsqu'elle porte sur
+les qualités essentielles de la prestation due ou sur celles du cocontractant.
 
 **Liens relatifs à cet article**
 
@@ -40279,14 +40499,19 @@ La convention n'est pas moins valable, quoique la cause n'en soit pas exprimée.
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
 
 ###### Article 1133
 
-La cause est illicite, quand elle est prohibée par la loi, quand elle est contraire aux bonnes moeurs ou à l'ordre public.
+Les qualités essentielles de la prestation sont celles qui ont été expressément ou tacitement convenues et en considération
+desquelles les parties ont contracté. 
+
+L'erreur est une cause de nullité qu'elle porte sur la prestation de l'une ou de l'autre partie. 
+
+L'acceptation d'un aléa sur une qualité de la prestation exclut l'erreur relative à cette qualité.
 
 **Liens relatifs à cet article**
 
@@ -40294,24 +40519,21 @@ La cause est illicite, quand elle est prohibée par la loi, quand elle est contr
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
-
-### Chapitre III : De l'effet des obligations.
-
-#### Section 1 : Dispositions générales.
 
 ###### Article 1134
 
-Les conventions légalement formées tiennent lieu de loi à ceux qui les ont faites.
-
-Elles ne peuvent être révoquées que de leur consentement mutuel, ou pour les causes que la loi autorise.
-
-Elles doivent être exécutées de bonne foi.
+L'erreur sur les qualités essentielles du cocontractant n'est une cause de nullité que dans les contrats conclus en
+considération de la personne.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
 	**Cité par**:
 
@@ -40323,15 +40545,14 @@ Elles doivent être exécutées de bonne foi.
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
-
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
-
 
 ###### Article 1135
 
-Les conventions obligent non seulement à ce qui y est exprimé, mais encore à toutes les suites que l'équité, l'usage ou la
-loi donnent à l'obligation d'après sa nature.
+L'erreur sur un simple motif, étranger aux qualités essentielles de la prestation due ou du cocontractant, n'est pas une
+cause de nullité, à moins que les parties n'en aient fait expressément un élément déterminant de leur consentement. 
+
+Néanmoins l'erreur sur le motif d'une libéralité, en l'absence duquel son auteur n'aurait pas disposé, est une cause de
+nullité.
 
 **Liens relatifs à cet article**
 
@@ -40339,17 +40560,15 @@ loi donnent à l'obligation d'après sa nature.
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
-
-#### Section 2 : De l'obligation de donner.
 
 ###### Article 1136
 
-L'obligation de donner emporte celle de livrer la chose et de la conserver jusqu'à la livraison, à peine de dommages et
-intérêts envers le créancier.
+L'erreur sur la valeur par laquelle, sans se tromper sur les qualités essentielles de la prestation, un contractant fait
+seulement de celle-ci une appréciation économique inexacte, n'est pas une cause de nullité.
 
 **Liens relatifs à cet article**
 
@@ -40357,70 +40576,61 @@ intérêts envers le créancier.
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
 
 ###### Article 1137
 
-L'obligation de veiller à la conservation de la chose, soit que la convention n'ait pour objet que l'utilité de l'une des
-parties, soit qu'elle ait pour objet leur utilité commune, soumet celui qui en est chargé à y apporter tous les soins
-raisonnables. 
+Le dol est le fait pour un contractant d'obtenir le consentement de l'autre par des manœuvres ou des mensonges. 
 
-Cette obligation est plus ou moins étendue relativement à certains contrats, dont les effets, à cet égard, sont expliqués
-sous les titres qui les concernent.
+Constitue également un dol la dissimulation intentionnelle par l'un des contractants d'une information dont il sait le
+caractère déterminant pour l'autre partie.
 
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°2014-873 du 4 août 2014 - art. 26
-
-	**Cité par**:
-
-	  - Code de commerce - art. L527-6 (VT)
-	  - Ordonnance n°2016-56 du 29 janvier 2016 - art. 1
 
 	**Codifié par**:
 
 	  - Loi n°1804-02-07
+
+	**Cité par**:
+
+	  - Ordonnance n°2016-56 du 29 janvier 2016 - art. 1
+	  - Code de commerce - art. L527-6 (VT)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
 
 ###### Article 1138
 
-L'obligation de livrer la chose est parfaite par le seul consentement des parties contractantes.
+Le dol est également constitué s'il émane du représentant, gérant d'affaires, préposé ou porte-fort du contractant. 
 
-Elle rend le créancier propriétaire et met la chose à ses risques dès l'instant où elle a dû être livrée, encore que la
-tradition n'en ait point été faite, à moins que le débiteur ne soit en demeure de la livrer ; auquel cas la chose reste aux
-risques de ce dernier.
+Il l'est encore lorsqu'il émane d'un tiers de connivence.
 
 **Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code civil - art. 1139 (M)
 
 	**Codifié par**:
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
 
 ###### Article 1139
 
-Le débiteur est constitué en demeure, soit par une sommation ou par autre acte équivalent, telle une lettre missive lorsqu'il
-ressort de ses termes une interpellation suffisante, soit par l'effet de la convention, lorsqu'elle porte que, sans qu'il
-soit besoin d'acte et par la seule échéance du terme, le débiteur sera en demeure.
+L'erreur qui résulte d'un dol est toujours excusable ; elle est une cause de nullité alors même qu'elle porterait sur la
+valeur de la prestation ou sur un simple motif du contrat.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°91-650 du 9 juillet 1991 - art. 84 () JORF 14 juillet 1991 en vigueur le 1er août 1992
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
 	**Cité par**:
 
@@ -40437,8 +40647,8 @@ soit besoin d'acte et par la seule échéance du terme, le débiteur sera en dem
 
 ###### Article 1140
 
-Les effets de l'obligation de donner ou de livrer un immeuble sont réglés au titre "De la vente" et au titre "Des privilèges
-et hypothèques".
+Il y a violence lorsqu'une partie s'engage sous la pression d'une contrainte qui lui inspire la crainte d'exposer sa
+personne, sa fortune ou celles de ses proches à un mal considérable.
 
 **Liens relatifs à cet article**
 
@@ -40446,16 +40656,15 @@ et hypothèques".
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
 
 ###### Article 1141
 
-Si la chose qu'on s'est obligé de donner ou de livrer à deux personnes successivement est purement mobilière, celle des deux
-qui en a été mise en possession réelle est préférée et en demeure propriétaire, encore que son titre soit postérieur en date,
-pourvu toutefois que la possession soit de bonne foi.
+La menace d'une voie de droit ne constitue pas une violence. Il en va autrement lorsque la voie de droit est détournée de son
+but ou lorsqu'elle est invoquée ou exercée pour obtenir un avantage manifestement excessif.
 
 **Liens relatifs à cet article**
 
@@ -40463,16 +40672,14 @@ pourvu toutefois que la possession soit de bonne foi.
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
-
-#### Section 3 : De l'obligation de faire ou de ne pas faire.
 
 ###### Article 1142
 
-Toute obligation de faire ou de ne pas faire se résout en dommages et intérêts en cas d'inexécution de la part du débiteur.
+La violence est une cause de nullité qu'elle ait été exercée par une partie ou par un tiers.
 
 **Liens relatifs à cet article**
 
@@ -40480,15 +40687,16 @@ Toute obligation de faire ou de ne pas faire se résout en dommages et intérêt
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
 
 ###### Article 1143
 
-Néanmoins, le créancier a le droit de demander que ce qui aurait été fait par contravention à l'engagement soit détruit ; et
-il peut se faire autoriser à le détruire aux dépens du débiteur, sans préjudice des dommages et intérêts s'il y a lieu.
+Il y a également violence lorsqu'une partie, abusant de l'état de dépendance dans lequel se trouve son cocontractant, obtient
+de lui un engagement qu'il n'aurait pas souscrit en l'absence d'une telle contrainte et en tire un avantage manifestement
+excessif.
 
 **Liens relatifs à cet article**
 
@@ -40496,15 +40704,15 @@ il peut se faire autoriser à le détruire aux dépens du débiteur, sans préju
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
 
 ###### Article 1144
 
-Le créancier peut aussi, en cas d'inexécution, être autorisé à faire exécuter lui-même l'obligation aux dépens du débiteur.
-Celui-ci peut être condamné à faire l'avance des sommes nécessaires à cette exécution.
+Le délai de l'action en nullité ne court, en cas d'erreur ou de dol, que du jour où ils ont été découverts et, en cas de
+violence, que du jour où elle a cessé.
 
 **Liens relatifs à cet article**
 
@@ -40518,33 +40726,21 @@ Celui-ci peut être condamné à faire l'avance des sommes nécessaires à cette
 
 	**Modifié par**:
 
-	  - Loi n°91-650 du 9 juillet 1991 - art. 82 () JORF 14 juillet 1991 en vigueur le 1er août 1992
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
+
+
+#####  Sous-section 2 : La capacité et la représentation 
+
+##### Paragraphe 1 : La capacité 
+
 
 
 ###### Article 1145
 
-Si l'obligation est de ne pas faire, celui qui y contrevient doit des dommages et intérêts par le seul fait de la
-contravention.
+Toute personne physique peut contracter sauf en cas d'incapacité prévue par la loi. 
 
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1804-02-07
-
-	**Créé par**:
-
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
-
-
-#### Section 4 : Des dommages et intérêts résultant de l'inexécution de l'obligation.
-
-###### Article 1146
-
-Les dommages et intérêts ne sont dus que lorsque le débiteur est en demeure de remplir son obligation, excepté néanmoins
-lorsque la chose que le débiteur s'était obligé de donner ou de faire ne pouvait être donnée ou faite que dans un certain
-temps qu'il a laissé passer. La mise en demeure peut résulter d'une lettre missive, s'il en ressort une interpellation
-suffisante.
+La capacité des personnes morales est limitée aux actes utiles à la réalisation de leur objet tel que défini par leurs
+statuts et aux actes qui leur sont accessoires, dans le respect des règles applicables à chacune d'entre elles.
 
 **Liens relatifs à cet article**
 
@@ -40554,14 +40750,35 @@ suffisante.
 
 	**Modifié par**:
 
-	  - Loi n°91-650 du 9 juillet 1991 - art. 85 () JORF 14 juillet 1991 en vigueur le 1er août 1992
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
+
+
+###### Article 1146
+
+Sont incapables de contracter, dans la mesure définie par la loi : 
+
+1° Les mineurs non émancipés ; 
+
+2° Les majeurs protégés au sens de l'article 425.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Modifié par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
+
+	**Cite**:
+
+	  - Code civil - art. 425 (V)
 
 
 ###### Article 1147
 
-Le débiteur est condamné, s'il y a lieu, au paiement de dommages et intérêts, soit à raison de l'inexécution de l'obligation,
-soit à raison du retard dans l'exécution, toutes les fois qu'il ne justifie pas que l'inexécution provient d'une cause
-étrangère qui ne peut lui être imputée, encore qu'il n'y ait aucune mauvaise foi de sa part.
+L'incapacité de contracter est une cause de nullité relative.
 
 **Liens relatifs à cet article**
 
@@ -40569,15 +40786,15 @@ soit à raison du retard dans l'exécution, toutes les fois qu'il ne justifie pa
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
 
 ###### Article 1148
 
-Il n'y a lieu à aucuns dommages et intérêts lorsque, par suite d'une force majeure ou d'un cas fortuit, le débiteur a été
-empêché de donner ou de faire ce à quoi il était obligé, ou a fait ce qui lui était interdit.
+Toute personne incapable de contracter peut néanmoins accomplir seule les actes courants autorisés par la loi ou l'usage,
+pourvu qu'ils soient conclus à des conditions normales.
 
 **Liens relatifs à cet article**
 
@@ -40589,15 +40806,19 @@ empêché de donner ou de faire ce à quoi il était obligé, ou a fait ce qui l
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
 
 ###### Article 1149
 
-Les dommages et intérêts dus au créancier sont, en général, de la perte qu'il a faite et du gain dont il a été privé, sauf
-les exceptions et modifications ci-après.
+Les actes courants accomplis par le mineur peuvent être annulés pour simple lésion. Toutefois, la nullité n'est pas encourue
+lorsque la lésion résulte d'un événement imprévisible. 
+
+La simple déclaration de majorité faite par le mineur ne fait pas obstacle à l'annulation. 
+
+Le mineur ne peut se soustraire aux engagements qu'il a pris dans l'exercice de sa profession.
 
 **Liens relatifs à cet article**
 
@@ -40605,15 +40826,42 @@ les exceptions et modifications ci-après.
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
 
 ###### Article 1150
 
-Le débiteur n'est tenu que des dommages et intérêts qui ont été prévus ou qu'on a pu prévoir lors du contrat, lorsque ce
-n'est point par son dol que l'obligation n'est point exécutée.
+Les actes accomplis par les majeurs protégés sont régis par les articles 435,465 et 494-9 sans préjudice des articles
+1148,1151 et 1352-4.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
+
+	**Cite**:
+
+	  - Code civil - art. 1148 (V)
+	  - Code civil - art. 1151 (V)
+	  - Code civil - art. 1352-4 (V)
+	  - Code civil - art. 435 (V)
+	  - Code civil - art. 465 (V)
+	  - Code civil - art. 494-9 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+
+###### Article 1151
+
+Le contractant capable peut faire obstacle à l'action en nullité engagée contre lui en établissant que l'acte était utile à
+la personne protégée et exempt de lésion ou qu'il a profité à celle-ci. 
+
+Il peut aussi opposer à l'action en nullité la confirmation de l'acte par son cocontractant devenu ou redevenu capable.
 
 **Liens relatifs à cet article**
 
@@ -40621,49 +40869,32 @@ n'est point par son dol que l'obligation n'est point exécutée.
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
-
-
-###### Article 1151
-
-Dans le cas même où l'inexécution de la convention résulte du dol du débiteur, les dommages et intérêts ne doivent comprendre
-à l'égard de la perte éprouvée par le créancier et du gain dont il a été privé, que ce qui est une suite immédiate et directe
-de l'inexécution de la convention.
-
-**Liens relatifs à cet article**
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
 	**Cité par**:
 
 	  - Code civil - art. 1150 (V)
 
-	**Codifié par**:
-
-	  - Loi n°1804-02-07
-
-	**Créé par**:
-
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
-
 
 ###### Article 1152
 
-Lorsque la convention porte que celui qui manquera de l'exécuter payera une certaine somme à titre de dommages-intérêts, il
-ne peut être alloué à l'autre partie une somme plus forte, ni moindre.
+La prescription de l'action court : 
 
-Néanmoins, le juge peut, même d'office, modérer ou augmenter la peine qui avait été convenue, si elle est manifestement
-excessive ou dérisoire. Toute stipulation contraire sera réputée non écrite.
+1° A l'égard des actes faits par un mineur, du jour de la majorité ou de l'émancipation ; 
+
+2° A l'égard des actes faits par un majeur protégé, du jour où il en a eu connaissance alors qu'il était en situation de les
+refaire valablement ; 
+
+3° A l'égard des héritiers de la personne en tutelle ou en curatelle ou de la personne faisant l'objet d'une habilitation
+familiale, du jour du décès si elle n'a commencé à courir auparavant.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Loi n°1804-02-07
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°85-1087 1985-10-11 art. 3
 
 	**Cité par**:
 
@@ -40696,28 +40927,17 @@ excessive ou dérisoire. Toute stipulation contraire sera réputée non écrite.
 
 	**Modifié par**:
 
-	  - Loi n°85-1097 du 11 octobre 1985 - art. 1 () JORF 15 octobre 1985
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
+
+#####  Paragraphe 2 : La représentation
 
 ###### Article 1153
 
-Dans les obligations qui se bornent au paiement d'une certaine somme, les dommages-intérêts résultant du retard dans
-l'exécution ne consistent jamais que dans la condamnation aux intérêts au taux légal, sauf les règles particulières au
-commerce et au cautionnement.
-
-Ces dommages et intérêts sont dus sans que le créancier soit tenu de justifier d'aucune perte.
-
-Ils ne sont dus que du jour de la sommation de payer, ou d'un autre acte équivalent telle une lettre missive s'il en ressort
-une interpellation suffisante, excepté dans le cas où la loi les fait courir de plein droit.
-
-Le créancier auquel son débiteur en retard a causé, par sa mauvaise foi, un préjudice indépendant de ce retard, peut obtenir
-des dommages et intérêts distincts des intérêts moratoires de la créance.
+Le représentant légal, judiciaire ou conventionnel n'est fondé à agir que dans la limite des pouvoirs qui lui ont été
+conférés.
 
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°92-644 du 13 juillet 1992 - art. 5 () JORF 14 juillet 1992
 
 	**Cité par**:
 
@@ -40726,47 +40946,22 @@ des dommages et intérêts distincts des intérêts moratoires de la créance.
 	  - Arrêté du 1er août 2014 - art. Annexe (V)
 	  - Décret n°2016-230 du 26 février 2016 - art.
 
-	**Codifié par**:
-
-	  - Loi n°1804-02-07
-
-
-###### Article 1153-1
-
-En toute matière, la condamnation à une indemnité emporte intérêts au taux légal même en l'absence de demande ou de
-disposition spéciale du jugement. Sauf disposition contraire de la loi, ces intérêts courent à compter du prononcé du
-jugement à moins que le juge n'en décide autrement.
-
-En cas de confirmation pure et simple par le juge d'appel d'une décision allouant une indemnité en réparation d'un dommage,
-celle-ci porte de plein droit intérêt au taux légal à compter du jugement de première instance. Dans les autres cas,
-l'indemnité allouée en appel porte intérêt à compter de la décision d'appel. Le juge d'appel peut toujours déroger aux
-dispositions du présent alinéa.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Décret n°2008-479 du 20 mai 2008 - art. 11 (M)
-	  - Ordonnance n°92-1067 du 1 octobre 1992 - art. 10 (Ab)
-	  - Ordonnance n°92-1146 du 12 octobre 1992 - art. 7 (VD)
-
-	**Codifié par**:
-
-	  - Loi n°1804-02-07
-
-	**Créé par**:
-
-	  - Loi n°85-677 du 5 juillet 1985 - art. 36 () JORF 6 juillet 1985 rectificatif JORF 23 novembre 1985 en vigueur le 1er janvier 1986
-
-	**Abrogé par**:
+	**Modifié par**:
 
 	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
 
 
 ###### Article 1154
 
-Les intérêts échus des capitaux peuvent produire des intérêts, ou par une demande judiciaire, ou par une convention spéciale,
-pourvu que, soit dans la demande, soit dans la convention, il s'agisse d'intérêts dus au moins pour une année entière.
+Lorsque le représentant agit dans la limite de ses pouvoirs au nom et pour le compte du représenté, celui-ci est seul tenu de
+l'engagement ainsi contracté. 
+
+Lorsque le représentant déclare agir pour le compte d'autrui mais contracte en son propre nom, il est seul engagé à l'égard
+du cocontractant.
 
 **Liens relatifs à cet article**
 
@@ -40774,9 +40969,9 @@ pourvu que, soit dans la demande, soit dans la convention, il s'agisse d'intér�
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
 	**Cité par**:
 
@@ -40790,10 +40985,11 @@ pourvu que, soit dans la demande, soit dans la convention, il s'agisse d'intér�
 
 ###### Article 1155
 
-Néanmoins, les revenus échus, tels que fermages, loyers, arrérages de rentes perpétuelles ou viagères, produisent intérêt du
-jour de la demande ou de la convention.
+Lorsque le pouvoir du représentant est défini en termes généraux, il ne couvre que les actes conservatoires et
+d'administration. 
 
-La même règle s'applique aux restitutions de fruits, et aux intérêts payés par un tiers aux créanciers en acquit du débiteur.
+Lorsque le pouvoir est spécialement déterminé, le représentant ne peut accomplir que les actes pour lesquels il est habilité
+et ceux qui en sont l'accessoire.
 
 **Liens relatifs à cet article**
 
@@ -40801,38 +40997,42 @@ La même règle s'applique aux restitutions de fruits, et aux intérêts payés 
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
-
-#### Section 5 : De l'interprétation des conventions.
 
 ###### Article 1156
 
-On doit dans les conventions rechercher quelle a été la commune intention des parties contractantes, plutôt que de s'arrêter
-au sens littéral des termes.
+L'acte accompli par un représentant sans pouvoir ou au-delà de ses pouvoirs est inopposable au représenté, sauf si le tiers
+contractant a légitimement cru en la réalité des pouvoirs du représentant, notamment en raison du comportement ou des
+déclarations du représenté. 
+
+Lorsqu'il ignorait que l'acte était accompli par un représentant sans pouvoir ou au-delà de ses pouvoirs, le tiers
+contractant peut en invoquer la nullité. 
+
+L'inopposabilité comme la nullité de l'acte ne peuvent plus être invoquées dès lors que le représenté l'a ratifié.
 
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Modifié par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
 	**Cité par**:
 
 	  - Code de la consommation - art. L132-1 (VT)
 	  - Code de la consommation - art. L212-1 (VD)
 
-	**Codifié par**:
-
-	  - Loi n°1804-02-07
-
-	**Créé par**:
-
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
-
 
 ###### Article 1157
 
-Lorsqu'une clause est susceptible de deux sens, on doit plutôt l'entendre dans celui avec lequel elle peut avoir quelque
-effet, que dans le sens avec lequel elle n'en pourrait produire aucun.
+Lorsque le représentant détourne ses pouvoirs au détriment du représenté, ce dernier peut invoquer la nullité de l'acte
+accompli si le tiers avait connaissance du détournement ou ne pouvait l'ignorer.
 
 **Liens relatifs à cet article**
 
@@ -40840,33 +41040,45 @@ effet, que dans le sens avec lequel elle n'en pourrait produire aucun.
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
 
 ###### Article 1158
 
-Les termes susceptibles de deux sens doivent être pris dans le sens qui convient le plus à la matière du contrat.
+Le tiers qui doute de l'étendue du pouvoir du représentant conventionnel à l'occasion d'un acte qu'il s'apprête à conclure,
+peut demander par écrit au représenté de lui confirmer, dans un délai qu'il fixe et qui doit être raisonnable, que le
+représentant est habilité à conclure cet acte. 
+
+L'écrit mentionne qu'à défaut de réponse dans ce délai, le représentant est réputé habilité à conclure cet acte.
+
+**Nota:**
+
+Conformément à l'article 9 de l'ordonnance n° 2016-131 du 10 février 2016, les dispositions du présent article sont
+applicables dès l'entrée en vigueur de ladite ordonnance.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Loi n°1804-02-07
-
-	**Créé par**:
-
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
 
 	**Cité par**:
 
 	  - Ordonnance n°2016-131 du 10 février 2016 - art. 9 (V)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
+
 
 ###### Article 1159
 
-Ce qui est ambigu s'interprète par ce qui est d'usage dans le pays où le contrat est passé.
+L'établissement d'une représentation légale ou judiciaire dessaisit pendant sa durée le représenté des pouvoirs transférés au
+représentant. 
+
+La représentation conventionnelle laisse au représenté l'exercice de ses droits.
 
 **Liens relatifs à cet article**
 
@@ -40874,14 +41086,14 @@ Ce qui est ambigu s'interprète par ce qui est d'usage dans le pays où le contr
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
 
 ###### Article 1160
 
-On doit suppléer dans le contrat les clauses qui y sont d'usage, quoiqu'elles n'y soient pas exprimées.
+Les pouvoirs du représentant cessent s'il est atteint d'une incapacité ou frappé d'une interdiction.
 
 **Liens relatifs à cet article**
 
@@ -40889,15 +41101,17 @@ On doit suppléer dans le contrat les clauses qui y sont d'usage, quoiqu'elles n
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
 
 ###### Article 1161
 
-Toutes les clauses des conventions s'interprètent les unes par les autres, en donnant à chacune le sens qui résulte de l'acte
-entier.
+Un représentant ne peut agir pour le compte des deux parties au contrat ni contracter pour son propre compte avec le
+représenté. 
+
+En ces cas, l'acte accompli est nul à moins que la loi ne l'autorise ou que le représenté ne l'ait autorisé ou ratifié.
 
 **Liens relatifs à cet article**
 
@@ -40905,14 +41119,17 @@ entier.
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
+
+##### Sous-section 3 : Le contenu du contrat 
 
 ###### Article 1162
 
-Dans le doute, la convention s'interprète contre celui qui a stipulé et en faveur de celui qui a contracté l'obligation.
+Le contrat ne peut déroger à l'ordre public ni par ses stipulations, ni par son but, que ce dernier ait été connu ou non par
+toutes les parties.
 
 **Liens relatifs à cet article**
 
@@ -40920,17 +41137,25 @@ Dans le doute, la convention s'interprète contre celui qui a stipulé et en fav
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
 
 ###### Article 1163
 
-Quelque généraux que soient les termes dans lesquels une convention est conçue, elle ne comprend que les choses sur
-lesquelles il paraît que les parties se sont proposé de contracter.
+L'obligation a pour objet une prestation présente ou future. 
+
+Celle-ci doit être possible et déterminée ou déterminable. 
+
+La prestation est déterminable lorsqu'elle peut être déduite du contrat ou par référence aux usages ou aux relations
+antérieures des parties, sans qu'un nouvel accord des parties soit nécessaire.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
 	**Cité par**:
 
@@ -40941,17 +41166,20 @@ lesquelles il paraît que les parties se sont proposé de contracter.
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
-
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
-
 
 ###### Article 1164
 
-Lorsque dans un contrat on a exprimé un cas pour l'explication de l'obligation, on n'est pas censé avoir voulu par là
-restreindre l'étendue que l'engagement reçoit de droit aux cas non exprimés.
+Dans les contrats cadre, il peut être convenu que le prix sera fixé unilatéralement par l'une des parties, à charge pour elle
+d'en motiver le montant en cas de contestation. 
+
+En cas d'abus dans la fixation du prix, le juge peut être saisi d'une demande tendant à obtenir des dommages et intérêts et
+le cas échéant la résolution du contrat.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
 	**Cité par**:
 
@@ -40962,39 +41190,39 @@ restreindre l'étendue que l'engagement reçoit de droit aux cas non exprimés.
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
-
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
-
-
-#### Section 6 : De l'effet des conventions à l'égard des tiers.
 
 ###### Article 1165
 
-Les conventions n'ont d'effet qu'entre les parties contractantes ; elles ne nuisent point au tiers, et elles ne lui profitent
-que dans le cas prévu par l'article 1121.
+Dans les contrats de prestation de service, à défaut d'accord des parties avant leur exécution, le prix peut être fixé par le
+créancier, à charge pour lui d'en motiver le montant en cas de contestation. En cas d'abus dans la fixation du prix, le juge
+peut être saisi d'une demande en dommages et intérêts.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
+
 	**Cite**:
 
-	  - Code civil - art. 1121 (V)
+	  - Code civil - art. 1121
 
 	**Codifié par**:
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
-
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
-
 
 ###### Article 1166
 
-Néanmoins, les créanciers peuvent exercer tous les droits et actions de leur débiteur, à l'exception de ceux qui sont
-exclusivement attachés à la personne.
+Lorsque la qualité de la prestation n'est pas déterminée ou déterminable en vertu du contrat, le débiteur doit offrir une
+prestation de qualité conforme aux attentes légitimes des parties en considération de sa nature, des usages et du montant de
+la contrepartie.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
 	**Cité par**:
 
@@ -41006,17 +41234,11 @@ exclusivement attachés à la personne.
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
-
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
-
 
 ###### Article 1167
 
-Ils peuvent aussi, en leur nom personnel, attaquer les actes faits par leur débiteur en fraude de leurs droits.
-
-Ils doivent néanmoins, quant à leurs droits énoncés au titre "Des successions" et au titre "Du contrat de mariage et des
-régimes matrimoniaux", se conformer aux règles qui y sont prescrites.
+Lorsque le prix ou tout autre élément du contrat doit être déterminé par référence à un indice qui n'existe pas ou a cessé
+d'exister ou d'être accessible, celui-ci est remplacé par l'indice qui s'en rapproche le plus.
 
 **Liens relatifs à cet article**
 
@@ -41029,25 +41251,19 @@ régimes matrimoniaux", se conformer aux règles qui y sont prescrites.
 	  - Code de la mutualité - art. L223-15 (VT)
 	  - Code des assurances - art. L132-14 (V)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
+
 	**Codifié par**:
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
-
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
-
-
-### Chapitre IV : Des diverses espèces d'obligations.
-
-#### Section 1 : Des obligations conditionnelles.
-
-##### Paragraphe 1 : De la condition en général, et de ses diverses espèces.
 
 ###### Article 1168
 
-L'obligation est conditionnelle lorsqu'on la fait dépendre d'un événement futur et incertain, soit en la suspendant jusqu'à
-ce que l'événement arrive, soit en la résiliant, selon que l'événement arrivera ou n'arrivera pas.
+Dans les contrats synallagmatiques, le défaut d'équivalence des prestations n'est pas une cause de nullité du contrat, à
+moins que la loi n'en dispose autrement.
 
 **Liens relatifs à cet article**
 
@@ -41055,14 +41271,15 @@ ce que l'événement arrive, soit en la résiliant, selon que l'événement arri
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
 
 ###### Article 1169
 
-La condition casuelle est celle qui dépend du hasard, et qui n'est nullement au pouvoir du créancier ni du débiteur.
+Un contrat à titre onéreux est nul lorsque, au moment de sa formation, la contrepartie convenue au profit de celui qui
+s'engage est illusoire ou dérisoire.
 
 **Liens relatifs à cet article**
 
@@ -41070,15 +41287,14 @@ La condition casuelle est celle qui dépend du hasard, et qui n'est nullement au
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
 
 ###### Article 1170
 
-La condition potestative est celle qui fait dépendre l'exécution de la convention d'un événement qu'il est au pouvoir de
-l'une ou de l'autre des parties contractantes de faire arriver ou d'empêcher.
+Toute clause qui prive de sa substance l'obligation essentielle du débiteur est réputée non écrite.
 
 **Liens relatifs à cet article**
 
@@ -41086,15 +41302,18 @@ l'une ou de l'autre des parties contractantes de faire arriver ou d'empêcher.
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
 
 ###### Article 1171
 
-La condition mixte est celle qui dépend tout à la fois de la volonté d'une des parties contractantes, et de la volonté d'un
-tiers.
+Dans un contrat d'adhésion, toute clause qui crée un déséquilibre significatif entre les droits et obligations des parties au
+contrat est réputée non écrite. 
+
+L'appréciation du déséquilibre significatif ne porte ni sur l'objet principal du contrat ni sur l'adéquation du prix à la
+prestation.
 
 **Liens relatifs à cet article**
 
@@ -41102,15 +41321,23 @@ tiers.
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
+
+##### Section 3 : La forme du contrat
+
+##### Sous-section 1 : Dispositions générales
 
 ###### Article 1172
 
-Toute condition d'une chose impossible, ou contraire aux bonnes moeurs, ou prohibée par la loi est nulle, et rend nulle la
-convention qui en dépend.
+Les contrats sont par principe consensuels. 
+
+Par exception, la validité des contrats solennels est subordonnée à l'observation de formes déterminées par la loi à défaut
+de laquelle le contrat est nul, sauf possible régularisation. 
+
+En outre, la loi subordonne la formation de certains contrats à la remise d'une chose.
 
 **Liens relatifs à cet article**
 
@@ -41118,14 +41345,14 @@ convention qui en dépend.
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
 
 ###### Article 1173
 
-La condition de ne pas faire une chose impossible ne rend pas nulle l'obligation contractée sous cette condition.
+Les formes exigées aux fins de preuve ou d'opposabilité sont sans effet sur la validité des contrats.
 
 **Liens relatifs à cet article**
 
@@ -41133,29 +41360,47 @@ La condition de ne pas faire une chose impossible ne rend pas nulle l'obligation
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
+
+##### Sous-section 2 : Dispositions propres au contrat conclu par voie électronique 
 
 ###### Article 1174
 
-Toute obligation est nulle lorsqu'elle a été contractée sous une condition potestative de la part de celui qui s'oblige.
+Lorsqu'un écrit est exigé pour la validité d'un contrat, il peut être établi et conservé sous forme électronique dans les
+conditions prévues aux articles 1366 et 1367 et, lorsqu'un acte authentique est requis, au deuxième alinéa de l'article
+1369. 
+
+Lorsqu'est exigée une mention écrite de la main même de celui qui s'oblige, ce dernier peut l'apposer sous forme électronique
+si les conditions de cette apposition sont de nature à garantir qu'elle ne peut être effectuée que par lui-même.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
+
+	**Cite**:
+
+	  - Code civil - art. 1366 (V)
+	  - Code civil - art. 1367 (V)
+	  - Code civil - art. 1369 (V)
 
 	**Codifié par**:
 
 	  - Loi n°1804-02-07
-
-	**Créé par**:
-
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
 
 
 ###### Article 1175
 
-Toute condition doit être accomplie de la manière que les parties ont vraisemblablement voulu et entendu qu'elle le fût.
+Il est fait exception aux dispositions de l'article précédent pour : 
+
+1° Les actes sous signature privée relatifs au droit de la famille et des successions ; 
+
+2° Les actes sous signature privée relatifs à des sûretés personnelles ou réelles, de nature civile ou commerciale, sauf
+s'ils sont passés par une personne pour les besoins de sa profession.
 
 **Liens relatifs à cet article**
 
@@ -41163,17 +41408,18 @@ Toute condition doit être accomplie de la manière que les parties ont vraisemb
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
 
 ###### Article 1176
 
-Lorsqu'une obligation est contractée sous la condition qu'un événement arrivera dans un temps fixe, cette condition est
-censée défaillie lorsque le temps est expiré sans que l'événement soit arrivé. S'il n'y a point de temps fixe, la condition
-peut toujours être accomplie ; et elle n'est censée défaillie que lorsqu'il est devenu certain que l'événement n'arrivera
-pas.
+Lorsque l'écrit sur papier est soumis à des conditions particulières de lisibilité ou de présentation, l'écrit électronique
+doit répondre à des exigences équivalentes. 
+
+L'exigence d'un formulaire détachable est satisfaite par un procédé électronique qui permet d'accéder au formulaire et de le
+renvoyer par la même voie.
 
 **Liens relatifs à cet article**
 
@@ -41186,19 +41432,21 @@ pas.
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
 
 ###### Article 1177
 
-Lorsqu'une obligation est contractée sous la condition qu'un événement n'arrivera pas dans un temps fixe, cette condition est
-accomplie lorsque ce temps est expiré sans que l'événement soit arrivé : elle l'est également, si avant le terme il est
-certain que l'événement n'arrivera pas ; et s'il n'y a pas de temps déterminé, elle n'est accomplie que lorsqu'il est certain
-que l'événement n'arrivera pas.
+L'exigence d'un envoi en plusieurs exemplaires est réputée satisfaite par voie électronique si l'écrit peut être imprimé par
+le destinataire.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
 	**Cité par**:
 
@@ -41208,31 +41456,45 @@ que l'événement n'arrivera pas.
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
 
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
+##### Section 4 : Les sanctions
+
+##### Sous-section 1 : La nullité 
 
 
 ###### Article 1178
 
-La condition est réputée accomplie lorsque c'est le débiteur, obligé sous cette condition, qui en a empêché
-l'accomplissement.
+Un contrat qui ne remplit pas les conditions requises pour sa validité est nul. La nullité doit être prononcée par le juge, à
+moins que les parties ne la constatent d'un commun accord. 
+
+Le contrat annulé est censé n'avoir jamais existé. 
+
+Les prestations exécutées donnent lieu à restitution dans les conditions prévues aux articles 1352 à 1352-9. 
+
+Indépendamment de l'annulation du contrat, la partie lésée peut demander réparation du dommage subi dans les conditions du
+droit commun de la responsabilité extracontractuelle.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
+
+	**Cite**:
+
+	  - Code civil - art. 1352 (V)
+	  - Code civil - art. 1352-9 (V)
 
 	**Codifié par**:
 
 	  - Loi n°1804-02-07
-
-	**Créé par**:
-
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
 
 
 ###### Article 1179
 
-La condition accomplie a un effet rétroactif au jour auquel l'engagement a été contracté. Si le créancier est mort avant
-l'accomplissement de la condition, ses droits passent à son héritier.
+La nullité est absolue lorsque la règle violée a pour objet la sauvegarde de l'intérêt général. 
+
+Elle est relative lorsque la règle violée a pour seul objet la sauvegarde d'un intérêt privé.
 
 **Liens relatifs à cet article**
 
@@ -41240,14 +41502,16 @@ l'accomplissement de la condition, ses droits passent à son héritier.
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
 
 ###### Article 1180
 
-Le créancier peut, avant que la condition soit accomplie, exercer tous les actes conservatoires de son droit.
+La nullité absolue peut être demandée par toute personne justifiant d'un intérêt, ainsi que par le ministère public. 
+
+Elle ne peut être couverte par la confirmation du contrat.
 
 **Liens relatifs à cet article**
 
@@ -41255,49 +41519,46 @@ Le créancier peut, avant que la condition soit accomplie, exercer tous les acte
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
-
-##### Paragraphe 2 : De la condition suspensive.
 
 ###### Article 1181
 
-L'obligation contractée sous une condition suspensive est celle qui dépend ou d'un événement futur et incertain, ou d'un
-événement actuellement arrivé, mais encore inconnu des parties.
+La nullité relative ne peut être demandée que par la partie que la loi entend protéger. 
 
-Dans le premier cas, l'obligation ne peut être exécutée qu'après l'événement.
+Elle peut être couverte par la confirmation. 
 
-Dans le second cas, l'obligation a son effet du jour où elle a été contractée.
+Si l'action en nullité relative a plusieurs titulaires, la renonciation de l'un n'empêche pas les autres d'agir.
 
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Modifié par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
 	**Cité par**:
 
 	  - Code de procédure civile - art. 1200-2 (M)
 
-	**Codifié par**:
-
-	  - Loi n°1804-02-07
-
-	**Créé par**:
-
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
-
 
 ###### Article 1182
 
-Lorsque l'obligation a été contractée sous une condition suspensive, la chose qui fait la matière de la convention demeure
-aux risques du débiteur qui ne s'est obligé de la livrer que dans le cas de l'événement de la condition.
+La confirmation est l'acte par lequel celui qui pourrait se prévaloir de la nullité y renonce. Cet acte mentionne l'objet de
+l'obligation et le vice affectant le contrat. 
 
-Si la chose est entièrement périe sans la faute du débiteur, l'obligation est éteinte.
+La confirmation ne peut intervenir qu'après la conclusion du contrat. 
 
-Si la chose s'est détériorée sans la faute du débiteur, le créancier a le choix ou de résoudre l'obligation, ou d'exiger la
-chose dans l'état où elle se trouve, sans diminution du prix.
+L'exécution volontaire du contrat, en connaissance de la cause de nullité, vaut confirmation. En cas de violence, la
+confirmation ne peut intervenir qu'après que la violence a cessé. 
 
-Si la chose s'est détériorée par la faute du débiteur, le créancier a le droit ou de résoudre l'obligation, ou d'exiger la
-chose dans l'état où elle se trouve, avec des dommages et intérêts.
+La confirmation emporte renonciation aux moyens et exceptions qui pouvaient être opposés, sans préjudice néanmoins des droits
+des tiers.
 
 **Liens relatifs à cet article**
 
@@ -41309,47 +41570,47 @@ chose dans l'état où elle se trouve, avec des dommages et intérêts.
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
-
-##### Paragraphe 3 : De la condition résolutoire.
 
 ###### Article 1183
 
-La condition résolutoire est celle qui, lorsqu'elle s'accomplit, opère la révocation de l'obligation, et qui remet les choses
-au même état que si l'obligation n'avait pas existé.
+Une partie peut demander par écrit à celle qui pourrait se prévaloir de la nullité soit de confirmer le contrat soit d'agir
+en nullité dans un délai de six mois à peine de forclusion. La cause de la nullité doit avoir cessé. 
 
-Elle ne suspend point l'exécution de l'obligation ; elle oblige seulement le créancier à restituer ce qu'il a reçu, dans le
-cas où l'événement prévu par la condition arrive.
+L'écrit mentionne expressément qu'à défaut d'action en nullité exercée avant l'expiration du délai de six mois, le contrat
+sera réputé confirmé.
+
+**Nota:**
+
+Conformément à l'article 9 de l'ordonnance n° 2016-131 du 10 février 2016, les dispositions du présent article sont
+applicables dès l'entrée en vigueur de ladite ordonnance.
 
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
 
 	**Cité par**:
 
 	  - Ordonnance n°2016-131 du 10 février 2016 - art. 9 (V)
 	  - Code général des impôts, CGI. - art. 1961 (V)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Loi n°1804-02-07
-
-	**Créé par**:
-
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
 
 ###### Article 1184
 
-La condition résolutoire est toujours sous-entendue dans les contrats synallagmatiques, pour le cas où l'une des deux parties
-ne satisfera point à son engagement.
+Lorsque la cause de nullité n'affecte qu'une ou plusieurs clauses du contrat, elle n'emporte nullité de l'acte tout entier
+que si cette ou ces clauses ont constitué un élément déterminant de l'engagement des parties ou de l'une d'elles. 
 
-Dans ce cas, le contrat n'est point résolu de plein droit. La partie envers laquelle l'engagement n'a point été exécuté, a le
-choix ou de forcer l'autre à l'exécution de la convention lorsqu'elle est possible, ou d'en demander la résolution avec
-dommages et intérêts.
-
-La résolution doit être demandée en justice, et il peut être accordé au défendeur un délai selon les circonstances.
+Le contrat est maintenu lorsque la loi répute la clause non écrite, ou lorsque les fins de la règle méconnue exigent son
+maintien.
 
 **Liens relatifs à cet article**
 
@@ -41359,20 +41620,18 @@ La résolution doit être demandée en justice, et il peut être accordé au dé
 	  - CODE GENERAL DES IMPOTS, CGI. - art. 1961 (V)
 	  - Code du travail maritime - art. 93 (Ab)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
+
 	**Codifié par**:
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
-
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
-
-
-#### Section 2 : Des obligations à terme.
 
 ###### Article 1185
 
-Le terme diffère de la condition, en ce qu'il ne suspend point l'engagement, dont il retarde seulement l'exécution.
+L'exception de nullité ne se prescrit pas si elle se rapporte à un contrat qui n'a reçu aucune exécution.
 
 **Liens relatifs à cet article**
 
@@ -41380,15 +41639,23 @@ Le terme diffère de la condition, en ce qu'il ne suspend point l'engagement, do
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
+
+##### Sous-section 2 : La caducité
 
 ###### Article 1186
 
-Ce qui n'est dû qu'à terme, ne peut être exigé avant l'échéance du terme ; mais ce qui a été payé d'avance ne peut être
-répété.
+Un contrat valablement formé devient caduc si l'un de ses éléments essentiels disparaît. 
+
+Lorsque l'exécution de plusieurs contrats est nécessaire à la réalisation d'une même opération et que l'un d'eux disparaît,
+sont caducs les contrats dont l'exécution est rendue impossible par cette disparition et ceux pour lesquels l'exécution du
+contrat disparu était une condition déterminante du consentement d'une partie. 
+
+La caducité n'intervient toutefois que si le contractant contre lequel elle est invoquée connaissait l'existence de
+l'opération d'ensemble lorsqu'il a donné son consentement.
 
 **Liens relatifs à cet article**
 
@@ -41396,37 +41663,47 @@ répété.
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
 
 ###### Article 1187
 
-Le terme est toujours présumé stipulé en faveur du débiteur, à moins qu'il ne résulte de la stipulation, ou des
-circonstances, qu'il a été aussi convenu en faveur du créancier.
+La caducité met fin au contrat. 
 
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1804-02-07
-
-	**Créé par**:
-
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
-
-
-###### Article 1188
-
-Le débiteur ne peut plus réclamer le bénéfice du terme lorsque par son fait il a diminué les sûretés qu'il avait données par
-le contrat à son créancier.
+Elle peut donner lieu à restitution dans les conditions prévues aux articles 1352 à 1352-9.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°85-98 du 25 janvier 1985 - art. 217 ()
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
+
+	**Cite**:
+
+	  - Code civil - art. 1352 (V)
+	  - Code civil - art. 1352-9 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+
+#### Chapitre III : L'interprétation du contrat
+
+###### Article 1188
+
+Le contrat s'interprète d'après la commune intention des parties plutôt qu'en s'arrêtant au sens littéral de ses termes. 
+
+Lorsque cette intention ne peut être décelée, le contrat s'interprète selon le sens que lui donnerait une personne
+raisonnable placée dans la même situation.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
 	**Cité par**:
 
@@ -41439,31 +41716,33 @@ le contrat à son créancier.
 	  - Loi n°1804-02-07
 
 
-#### Section 3 : Des obligations alternatives.
-
 ###### Article 1189
 
-Le débiteur d'une obligation alternative est libéré par la délivrance de l'une des deux choses qui étaient comprises dans
-l'obligation.
+Toutes les clauses d'un contrat s'interprètent les unes par rapport aux autres, en donnant à chacune le sens qui respecte la
+cohérence de l'acte tout entier. 
+
+Lorsque, dans l'intention commune des parties, plusieurs contrats concourent à une même opération, ils s'interprètent en
+fonction de celle-ci.
 
 **Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Code de la consommation - art. L212-1 (VD)
 
 	**Codifié par**:
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
+
+	**Cité par**:
+
+	  - Code de la consommation - art. L212-1 (VD)
 
 
 ###### Article 1190
 
-Le choix appartient au débiteur, s'il n'a pas été expressément accordé au créancier.
+Dans le doute, le contrat de gré à gré s'interprète contre le créancier et en faveur du débiteur, et le contrat d'adhésion
+contre celui qui l'a proposé.
 
 **Liens relatifs à cet article**
 
@@ -41471,17 +41750,21 @@ Le choix appartient au débiteur, s'il n'a pas été expressément accordé au c
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
 
 ###### Article 1191
 
-Le débiteur peut se libérer en délivrant l'une des deux choses promises ; mais il ne peut pas forcer le créancier à recevoir
-une partie de l'une et une partie de l'autre.
+Lorsqu'une clause est susceptible de deux sens, celui qui lui confère un effet l'emporte sur celui qui ne lui en fait
+produire aucun.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
 	**Cité par**:
 
@@ -41490,18 +41773,17 @@ une partie de l'une et une partie de l'autre.
 	**Codifié par**:
 
 	  - Loi n°1804-02-07
-
-	**Créé par**:
-
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
 
 
 ###### Article 1192
 
-L'obligation est pure et simple, quoique contractée d'une manière alternative, si l'une des deux choses promises ne pouvait
-être le sujet de l'obligation.
+On ne peut interpréter les clauses claires et précises à peine de dénaturation.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
 	**Cité par**:
 
@@ -41511,20 +41793,23 @@ L'obligation est pure et simple, quoique contractée d'une manière alternative,
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
 
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
+#### Chapitre IV : Les effets du contrat
 
+##### Section 1 : Les effets du contrat entre les parties
+
+##### Sous-section 1 : Force obligatoire
 
 ###### Article 1193
 
-L'obligation alternative devient pure et simple, si l'une des choses promises périt et ne peut plus être livrée, même par la
-faute du débiteur. Le prix de cette chose ne peut pas être offert à sa place.
-
-Si toutes deux sont péries, et que le débiteur soit en faute à l'égard de l'une d'elles, il doit payer le prix de celle qui a
-péri la dernière.
+Les contrats ne peuvent être modifiés ou révoqués que du consentement mutuel des parties, ou pour les causes que la loi
+autorise.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
 	**Cité par**:
 
@@ -41536,20 +41821,11 @@ péri la dernière.
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
-
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
-
 
 ###### Article 1194
 
-Lorsque, dans les cas prévus par l'article précédent, le choix avait été déféré par la convention au créancier,
-
-Ou l'une des choses seulement est périe ; et alors, si c'est sans la faute du débiteur, le créancier doit avoir celle qui
-reste ; si le débiteur est en faute, le créancier peut demander la chose qui reste, ou le prix de celle qui est périe ;
-
-Ou les deux choses sont péries ; et alors, si le débiteur est en faute à l'égard des deux, ou même à l'égard de l'une d'elles
-seulement, le créancier peut demander le prix de l'une ou de l'autre à son choix.
+Les contrats obligent non seulement à ce qui y est exprimé, mais encore à toutes les suites que leur donnent l'équité,
+l'usage ou la loi.
 
 **Liens relatifs à cet article**
 
@@ -41557,34 +41833,45 @@ seulement, le créancier peut demander le prix de l'une ou de l'autre à son cho
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
 
 ###### Article 1195
 
-Si les deux choses sont péries sans la faute du débiteur, et avant qu'il soit en demeure, l'obligation est éteinte,
-conformément à l'article 1302.
+Si un changement de circonstances imprévisible lors de la conclusion du contrat rend l'exécution excessivement onéreuse pour
+une partie qui n'avait pas accepté d'en assumer le risque, celle-ci peut demander une renégociation du contrat à son
+cocontractant. Elle continue à exécuter ses obligations durant la renégociation. 
+
+En cas de refus ou d'échec de la renégociation, les parties peuvent convenir de la résolution du contrat, à la date et aux
+conditions qu'elles déterminent, ou demander d'un commun accord au juge de procéder à son adaptation. A défaut d'accord dans
+un délai raisonnable, le juge peut, à la demande d'une partie, réviser le contrat ou y mettre fin, à la date et aux
+conditions qu'il fixe.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code civil - art. 1302 (V)
 
 	**Codifié par**:
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
+
+#####  Sous-section 2 : Effet translatif 
 
 ###### Article 1196
 
-Les mêmes principes s'appliquent au cas où il y a plus de deux choses comprises dans l'obligation alternative.
+Dans les contrats ayant pour objet l'aliénation de la propriété ou la cession d'un autre droit, le transfert s'opère lors de
+la conclusion du contrat. 
+
+Ce transfert peut être différé par la volonté des parties, la nature des choses ou par l'effet de la loi. 
+
+Le transfert de propriété emporte transfert des risques de la chose. Toutefois le débiteur de l'obligation de délivrer en
+retrouve la charge à compter de sa mise en demeure, conformément à l'article 1344-2 et sous réserve des règles prévues à
+l'article 1351-1.
 
 **Liens relatifs à cet article**
 
@@ -41592,43 +41879,44 @@ Les mêmes principes s'appliquent au cas où il y a plus de deux choses comprise
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
+	**Cite**:
 
-#### Section 4 : Des obligations solidaires.
+	  - Code civil - art. 1344-2 (V)
+	  - Code civil - art. 1351-1 (V)
 
-##### Paragraphe 1 : De la solidarité entre les créanciers.
 
 ###### Article 1197
 
-L'obligation est solidaire entre plusieurs créanciers lorsque le titre donne expressément à chacun d'eux le droit de demander
-le paiement du total de la créance, et que le paiement fait à l'un d'eux libère le débiteur, encore que le bénéfice de
-l'obligation soit partageable et divisible entre les divers créanciers.
+L'obligation de délivrer la chose emporte obligation de la conserver jusqu'à la délivrance, en y apportant tous les soins
+d'une personne raisonnable.
 
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Modifié par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
 	**Cité par**:
 
 	  - Code de commerce - art. L527-6 (VD)
 
-	**Codifié par**:
-
-	  - Loi n°1804-02-07
-
-	**Créé par**:
-
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
-
 
 ###### Article 1198
 
-Il est au choix du débiteur de payer à l'un ou l'autre des créanciers solidaires, tant qu'il n'a pas été prévenu par les
-poursuites de l'un d'eux.
+Lorsque deux acquéreurs successifs d'un même meuble corporel tiennent leur droit d'une même personne, celui qui a pris
+possession de ce meuble en premier est préféré, même si son droit est postérieur, à condition qu'il soit de bonne foi. 
 
-Néanmoins, la remise qui n'est faite que par l'un des créanciers solidaires ne libère le débiteur que pour la part de ce
-créancier.
+Lorsque deux acquéreurs successifs de droits portant sur un même immeuble tiennent leur droit d'une même personne, celui qui
+a, le premier, publié son titre d'acquisition passé en la forme authentique au fichier immobilier est préféré, même si son
+droit est postérieur, à condition qu'il soit de bonne foi.
 
 **Liens relatifs à cet article**
 
@@ -41636,14 +41924,21 @@ créancier.
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
+
+##### Section 2 : Les effets du contrat à l'égard des tiers
+
+##### Sous-section 1 : Dispositions générales 
 
 ###### Article 1199
 
-Tout acte qui interrompt la prescription à l'égard de l'un des créanciers solidaires profite aux autres créanciers.
+Le contrat ne crée d'obligations qu'entre les parties. 
+
+Les tiers ne peuvent ni demander l'exécution du contrat ni se voir contraints de l'exécuter, sous réserve des dispositions de
+la présente section et de celles du chapitre III du titre IV.
 
 **Liens relatifs à cet article**
 
@@ -41651,19 +41946,22 @@ Tout acte qui interrompt la prescription à l'égard de l'un des créanciers sol
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
-
-##### Paragraphe 2 : De la solidarité de la part des débiteurs.
 
 ###### Article 1200
 
-Il y a solidarité de la part des débiteurs, lorsqu'ils sont obligés à une même chose, de manière que chacun puisse être
-contraint pour la totalité, et que le paiement fait par un seul libère les autres envers le créancier.
+Les tiers doivent respecter la situation juridique créée par le contrat. 
+
+Ils peuvent s'en prévaloir notamment pour apporter la preuve d'un fait.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
 	**Cité par**:
 
@@ -41673,16 +41971,11 @@ contraint pour la totalité, et que le paiement fait par un seul libère les aut
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
-
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
-
 
 ###### Article 1201
 
-L'obligation peut être solidaire, quoique l'un des débiteurs soit obligé différemment de l'autre au paiement de la même
-chose ; par exemple, si l'un n'est obligé que conditionnellement, tandis que l'engagement de l'autre est pur et simple, ou si
-l'un a pris un terme qui n'est point accordé à l'autre.
+Lorsque les parties ont conclu un contrat apparent qui dissimule un contrat occulte, ce dernier, appelé aussi contre-lettre,
+produit effet entre les parties. Il n'est pas opposable aux tiers, qui peuvent néanmoins s'en prévaloir.
 
 **Liens relatifs à cet article**
 
@@ -41690,18 +41983,26 @@ l'un a pris un terme qui n'est point accordé à l'autre.
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
 
 ###### Article 1202
 
-La solidarité ne se présume point ; il faut qu'elle soit expressément stipulée.
+Est nulle toute contre-lettre ayant pour objet une augmentation du prix stipulé dans le traité de cession d'un office
+ministériel. 
 
-Cette règle ne cesse que dans les cas où la solidarité a lieu de plein droit, en vertu d'une disposition de la loi.
+Est également nul tout contrat ayant pour but de dissimuler une partie du prix, lorsqu'elle porte sur une vente d'immeubles,
+une cession de fonds de commerce ou de clientèle, une cession d'un droit à un bail, ou le bénéfice d'une promesse de bail
+portant sur tout ou partie d'un immeuble et tout ou partie de la soulte d'un échange ou d'un partage comprenant des biens
+immeubles, un fonds de commerce ou une clientèle.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
 	**Cité par**:
 
@@ -41711,15 +42012,12 @@ Cette règle ne cesse que dans les cas où la solidarité a lieu de plein droit,
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
 
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
-
+##### Sous-section 2 : Le porte-fort et la stipulation pour autrui 
 
 ###### Article 1203
 
-Le créancier d'une obligation contractée solidairement peut s'adresser à celui des débiteurs qu'il veut choisir, sans que
-celui-ci puisse lui opposer le bénéfice de division.
+On ne peut s'engager en son propre nom que pour soi-même.
 
 **Liens relatifs à cet article**
 
@@ -41727,14 +42025,20 @@ celui-ci puisse lui opposer le bénéfice de division.
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
 
 ###### Article 1204
 
-Les poursuites faites contre l'un des débiteurs n'empêchent pas le créancier d'en exercer de pareilles contre les autres.
+On peut se porter fort en promettant le fait d'un tiers. 
+
+Le promettant est libéré de toute obligation si le tiers accomplit le fait promis. Dans le cas contraire, il peut être
+condamné à des dommages et intérêts. 
+
+Lorsque le porte-fort a pour objet la ratification d'un engagement, celui-ci est rétroactivement validé à la date à laquelle
+le porte-fort a été souscrit.
 
 **Liens relatifs à cet article**
 
@@ -41742,19 +42046,18 @@ Les poursuites faites contre l'un des débiteurs n'empêchent pas le créancier 
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
 
 ###### Article 1205
 
-Si la chose due a péri par la faute ou pendant la demeure de l'un ou de plusieurs des débiteurs solidaires, les autres
-codébiteurs ne sont point déchargés de l'obligation de payer le prix de la chose ; mais ceux-ci ne sont point tenus des
-dommages et intérêts.
+On peut stipuler pour autrui. 
 
-Le créancier peut seulement répéter les dommages et intérêts tant contre les débiteurs par la faute desquels la chose a péri,
-que contre ceux qui étaient en demeure.
+L'un des contractants, le stipulant, peut faire promettre à l'autre, le promettant, d'accomplir une prestation au profit d'un
+tiers, le bénéficiaire. Ce dernier peut être une personne future mais doit être précisément désigné ou pouvoir être déterminé
+lors de l'exécution de la promesse.
 
 **Liens relatifs à cet article**
 
@@ -41762,14 +42065,18 @@ que contre ceux qui étaient en demeure.
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
 
 ###### Article 1206
 
-Les poursuites faites contre l'un des débiteurs solidaires interrompent la prescription à l'égard de tous.
+Le bénéficiaire est investi d'un droit direct à la prestation contre le promettant dès la stipulation.
+
+Néanmoins le stipulant peut librement révoquer la stipulation tant que le bénéficiaire ne l'a pas acceptée. 
+
+La stipulation devient irrévocable au moment où l'acceptation parvient au stipulant ou au promettant.
 
 **Liens relatifs à cet article**
 
@@ -41777,14 +42084,24 @@ Les poursuites faites contre l'un des débiteurs solidaires interrompent la pres
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
 
 ###### Article 1207
 
-La demande d'intérêts formée contre l'un des débiteurs solidaires fait courir les intérêts à l'égard de tous.
+La révocation ne peut émaner que du stipulant ou, après son décès, de ses héritiers. Ces derniers ne peuvent y procéder qu'à
+l'expiration d'un délai de trois mois à compter du jour où ils ont mis le bénéficiaire en demeure de l'accepter. 
+
+Si elle n'est pas assortie de la désignation d'un nouveau bénéficiaire, la révocation profite, selon le cas, au stipulant ou
+à ses héritiers. 
+
+La révocation produit effet dès lors que le tiers bénéficiaire ou le promettant en a eu connaissance. 
+
+Lorsqu'elle est faite par testament, elle prend effet au moment du décès. 
+
+Le tiers initialement désigné est censé n'avoir jamais bénéficié de la stipulation faite à son profit.
 
 **Liens relatifs à cet article**
 
@@ -41792,17 +42109,15 @@ La demande d'intérêts formée contre l'un des débiteurs solidaires fait couri
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
 
 ###### Article 1208
 
-Le codébiteur solidaire poursuivi par le créancier peut opposer toutes les exceptions qui résultent de la nature de
-l'obligation, et toutes celles qui lui sont personnelles, ainsi que celles qui sont communes à tous les codébiteurs.
-
-Il ne peut opposer les exceptions qui sont purement personnelles à quelques-uns des autres codébiteurs.
+L'acceptation peut émaner du bénéficiaire ou, après son décès, de ses héritiers. Elle peut être expresse ou tacite. Elle peut
+intervenir même après le décès du stipulant ou du promettant.
 
 **Liens relatifs à cet article**
 
@@ -41810,15 +42125,14 @@ Il ne peut opposer les exceptions qui sont purement personnelles à quelques-uns
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
 
 ###### Article 1209
 
-Lorsque l'un des débiteurs devient héritier unique du créancier, ou lorsque le créancier devient l'unique héritier de l'un
-des débiteurs, la confusion n'éteint la créance solidaire que pour la part et portion du débiteur ou du créancier.
+Le stipulant peut lui-même exiger du promettant l'exécution de son engagement envers le bénéficiaire.
 
 **Liens relatifs à cet article**
 
@@ -41826,15 +42140,18 @@ des débiteurs, la confusion n'éteint la créance solidaire que pour la part et
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
+
+##### Section 3 : La durée du contrat
 
 ###### Article 1210
 
-Le créancier qui consent à la division de la dette à l'égard de l'un des codébiteurs, conserve son action solidaire contre
-les autres, mais sous la déduction de la part du débiteur qu'il a déchargé de la solidarité.
+Les engagements perpétuels sont prohibés. 
+
+Chaque contractant peut y mettre fin dans les conditions prévues pour le contrat à durée indéterminée.
 
 **Liens relatifs à cet article**
 
@@ -41842,21 +42159,15 @@ les autres, mais sous la déduction de la part du débiteur qu'il a déchargé d
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
 
 ###### Article 1211
 
-Le créancier qui reçoit divisément la part de l'un des débiteurs, sans réserver dans la quittance la solidarité ou ses droits
-en général, ne renonce à la solidarité qu'à l'égard de ce débiteur.
-
-Le créancier n'est pas censé remettre la solidarité au débiteur lorsqu'il reçoit de lui une somme égale à la portion dont il
-est tenu, si la quittance ne porte pas que c'est pour sa part.
-
-Il en est de même de la simple demande formée contre l'un des codébiteurs pour sa part, si celui-ci n'a pas acquiescé à la
-demande, ou s'il n'est pas intervenu un jugement de condamnation.
+Lorsque le contrat est conclu pour une durée indéterminée, chaque partie peut y mettre fin à tout moment, sous réserve de
+respecter le délai de préavis contractuellement prévu ou, à défaut, un délai raisonnable.
 
 **Liens relatifs à cet article**
 
@@ -41864,16 +42175,16 @@ demande, ou s'il n'est pas intervenu un jugement de condamnation.
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
 
 ###### Article 1212
 
-Le créancier qui reçoit divisément et sans réserve la portion de l'un des codébiteurs dans les arrérages ou intérêts de la
-dette, ne perd la solidarité que pour les arrérages ou intérêts échus, et non pour ceux à échoir, ni pour le capital, à moins
-que le paiement divisé n'ait été continué pendant dix ans consécutifs.
+Lorsque le contrat est conclu pour une durée déterminée, chaque partie doit l'exécuter jusqu'à son terme. 
+
+Nul ne peut exiger le renouvellement du contrat.
 
 **Liens relatifs à cet article**
 
@@ -41881,15 +42192,15 @@ que le paiement divisé n'ait été continué pendant dix ans consécutifs.
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
 
 ###### Article 1213
 
-L'obligation contractée solidairement envers le créancier se divise de plein droit entre les débiteurs, qui n'en sont tenus
-entre eux que chacun pour sa part et portion.
+Le contrat peut être prorogé si les contractants en manifestent la volonté avant son expiration. La prorogation ne peut
+porter atteinte aux droits des tiers.
 
 **Liens relatifs à cet article**
 
@@ -41897,18 +42208,17 @@ entre eux que chacun pour sa part et portion.
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
 
 ###### Article 1214
 
-Le codébiteur d'une dette solidaire, qui l'a payée en entier, ne peut répéter contre les autres que les part et portion de
-chacun d'eux.
+Le contrat à durée déterminée peut être renouvelé par l'effet de la loi ou par l'accord des parties. 
 
-Si l'un d'eux se trouve insolvable, la perte qu'occasionne son insolvabilité se répartit, par contribution, entre tous les
-autres codébiteurs solvables et celui qui a fait le paiement.
+Le renouvellement donne naissance à un nouveau contrat dont le contenu est identique au précédent mais dont la durée est
+indéterminée.
 
 **Liens relatifs à cet article**
 
@@ -41916,16 +42226,15 @@ autres codébiteurs solvables et celui qui a fait le paiement.
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
 
 ###### Article 1215
 
-Dans le cas où le créancier a renoncé à l'action solidaire envers l'un des débiteurs, si l'un ou plusieurs des autres
-codébiteurs deviennent insolvables, la portion des insolvables sera contributoirement répartie entre tous les débiteurs, même
-entre ceux précédemment déchargés de la solidarité par le créancier.
+Lorsqu'à l'expiration du terme d'un contrat conclu à durée déterminée, les contractants continuent d'en exécuter les
+obligations, il y a tacite reconduction. Celle-ci produit les mêmes effets que le renouvellement du contrat.
 
 **Liens relatifs à cet article**
 
@@ -41933,18 +42242,29 @@ entre ceux précédemment déchargés de la solidarité par le créancier.
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
+
+##### Section 4 : La cession de contrat
 
 ###### Article 1216
 
-Si l'affaire pour laquelle la dette a été contractée solidairement ne concernait que l'un des coobligés solidaires, celui-ci
-serait tenu de toute la dette vis-à-vis des autres codébiteurs, qui ne seraient considérés par rapport à lui que comme ses
-cautions.
+Un contractant, le cédant, peut céder sa qualité de partie au contrat à un tiers, le cessionnaire, avec l'accord de son
+cocontractant, le cédé. 
+
+Cet accord peut être donné par avance, notamment dans le contrat conclu entre les futurs cédant et cédé, auquel cas la
+cession produit effet à l'égard du cédé lorsque le contrat conclu entre le cédant et le cessionnaire lui est notifié ou
+lorsqu'il en prend acte. 
+
+La cession doit être constatée par écrit, à peine de nullité.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
 	**Cité par**:
 
@@ -41954,17 +42274,65 @@ cautions.
 
 	  - Loi n°1804-02-07
 
+
+###### Article 1216-1
+
+Si le cédé y a expressément consenti, la cession de contrat libère le cédant pour l'avenir. 
+
+A défaut, et sauf clause contraire, le cédant est tenu solidairement à l'exécution du contrat.
+
+**Liens relatifs à cet article**
+
 	**Créé par**:
 
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
 
-#### Section 5 : Des obligations divisibles et indivisibles.
+###### Article 1216-2
+
+Le cessionnaire peut opposer au cédé les exceptions inhérentes à la dette, telles que la nullité, l'exception d'inexécution,
+la résolution ou la compensation de dettes connexes. Il ne peut lui opposer les exceptions personnelles au cédant. 
+
+Le cédé peut opposer au cessionnaire toutes les exceptions qu'il aurait pu opposer au cédant.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
+
+
+###### Article 1216-3
+
+Si le cédant n'est pas libéré par le cédé, les sûretés qui ont pu être consenties subsistent. Dans le cas contraire, les
+sûretés consenties par des tiers ne subsistent qu'avec leur accord. 
+
+Si le cédant est libéré, ses codébiteurs solidaires restent tenus déduction faite de sa part dans la dette.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
+
+
+##### Section 5 : L'inexécution du contrat
 
 ###### Article 1217
 
-L'obligation est divisible ou indivisible selon qu'elle a pour objet ou une chose qui dans sa livraison, ou un fait qui dans
-l'exécution, est ou n'est pas susceptible de division, soit matérielle, soit intellectuelle.
+La partie envers laquelle l'engagement n'a pas été exécuté, ou l'a été imparfaitement, peut : 
+
+- refuser d'exécuter ou suspendre l'exécution de sa propre obligation ; 
+
+- poursuivre l'exécution forcée en nature de l'obligation ; 
+
+- solliciter une réduction du prix ; 
+
+- provoquer la résolution du contrat ; 
+
+- demander réparation des conséquences de l'inexécution. 
+
+Les sanctions qui ne sont pas incompatibles peuvent être cumulées ; des dommages et intérêts peuvent toujours s'y ajouter.
 
 **Liens relatifs à cet article**
 
@@ -41972,30 +42340,43 @@ l'exécution, est ou n'est pas susceptible de division, soit matérielle, soit i
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
 
 ###### Article 1218
 
-L'obligation est indivisible, quoique la chose ou le fait qui en est l'objet soit divisible par sa nature, si le rapport sous
-lequel elle est considérée dans l'obligation ne la rend pas susceptible d'exécution partielle.
+Il y a force majeure en matière contractuelle lorsqu'un événement échappant au contrôle du débiteur, qui ne pouvait être
+raisonnablement prévu lors de la conclusion du contrat et dont les effets ne peuvent être évités par des mesures appropriées,
+empêche l'exécution de son obligation par le débiteur. 
+
+Si l'empêchement est temporaire, l'exécution de l'obligation est suspendue à moins que le retard qui en résulterait ne
+justifie la résolution du contrat. Si l'empêchement est définitif, le contrat est résolu de plein droit et les parties sont
+libérées de leurs obligations dans les conditions prévues aux articles 1351 et 1351-1.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
+
+	**Cite**:
+
+	  - Code civil - art. 1351 (V)
+	  - Code civil - art. 1351-1 (V)
 
 	**Codifié par**:
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
 
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
-
+##### Sous-section 1 : L'exception d'inexécution
 
 ###### Article 1219
 
-La solidarité stipulée ne donne point à l'obligation le caractère d'indivisibilité.
+Une partie peut refuser d'exécuter son obligation, alors même que celle-ci est exigible, si l'autre n'exécute pas la sienne
+et si cette inexécution est suffisamment grave.
 
 **Liens relatifs à cet article**
 
@@ -42003,54 +42384,34 @@ La solidarité stipulée ne donne point à l'obligation le caractère d'indivisi
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
-
-##### Paragraphe 1 : Des effets de l'obligation divisible.
 
 ###### Article 1220
 
-L'obligation qui est susceptible de division doit être exécutée entre le créancier et le débiteur comme si elle était
-indivisible. La divisibilité n'a d'application qu'à l'égard de leurs héritiers, qui ne peuvent demander la dette ou qui ne
-sont tenus de la payer que pour les parts dont ils sont saisis ou dont ils sont tenus comme représentant le créancier ou le
-débiteur.
+Une partie peut suspendre l'exécution de son obligation dès lors qu'il est manifeste que son cocontractant ne s'exécutera pas
+à l'échéance et que les conséquences de cette inexécution sont suffisamment graves pour elle. Cette suspension doit être
+notifiée dans les meilleurs délais.
 
 **Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code civil - art. 1221 (V)
 
 	**Codifié par**:
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
+
+##### Sous-section 2 : L'exécution forcée en nature 
 
 ###### Article 1221
 
-Le principe établi dans l'article précédent reçoit exception à l'égard des héritiers du débiteur :
-
-1° Dans le cas où la dette est hypothécaire ;
-
-2° Lorsqu'elle est d'un corps certain ;
-
-3° Lorsqu'il s'agit de la dette alternative de choses au choix du créancier, dont l'une est indivisible ;
-
-4° Lorsque l'un des héritiers est chargé seul, par le titre, de l'exécution de l'obligation ;
-
-5° Lorsqu'il résulte, soit de la nature de l'engagement, soit de la chose qui en fait l'objet, soit de la fin qu'on s'est
-proposée dans le contrat, que l'intention des contractants a été que la dette ne pût s'acquitter partiellement.
-
-Dans les trois premiers cas, l'héritier qui possède la chose due ou le fonds hypothéqué à la dette, peut être poursuivi pour
-le tout sur la chose due ou sur le fonds hypothéqué, sauf le recours contre ses cohéritiers. Dans le quatrième cas,
-l'héritier seul chargé de la dette, et dans le cinquième cas, chaque héritier, peut aussi être poursuivi pour le tout ; sauf
-son recours contre ses cohéritiers.
+Le créancier d'une obligation peut, après mise en demeure, en poursuivre l'exécution en nature sauf si cette exécution est
+impossible ou s'il existe une disproportion manifeste entre son coût pour le débiteur et son intérêt pour le créancier.
 
 **Liens relatifs à cet article**
 
@@ -42062,36 +42423,38 @@ son recours contre ses cohéritiers.
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
-
-##### Paragraphe 2 : Des effets de l'obligation indivisible.
 
 ###### Article 1222
 
-Chacun de ceux qui ont contracté conjointement une dette indivisible, en est tenu pour le total, encore que l'obligation
-n'ait pas été contractée solidairement.
+Après mise en demeure, le créancier peut aussi, dans un délai et à un coût raisonnables, faire exécuter lui-même l'obligation
+ou, sur autorisation préalable du juge, détruire ce qui a été fait en violation de celle-ci. Il peut demander au débiteur le
+remboursement des sommes engagées à cette fin. 
+
+Il peut aussi demander en justice que le débiteur avance les sommes nécessaires à cette exécution ou à cette destruction.
 
 **Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code civil - art. 1223 (V)
 
 	**Codifié par**:
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
+
+##### Sous-section 3 : La réduction du prix 
 
 ###### Article 1223
 
-Il en est de même à l'égard des héritiers de celui qui a contracté une pareille obligation.
+Le créancier peut, après mise en demeure, accepter une exécution imparfaite du contrat et solliciter une réduction
+proportionnelle du prix. 
+
+S'il n'a pas encore payé, le créancier notifie sa décision de réduire le prix dans les meilleurs délais.
 
 **Liens relatifs à cet article**
 
@@ -42103,18 +42466,18 @@ Il en est de même à l'égard des héritiers de celui qui a contracté une pare
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
+
+
+##### Sous-section 4 : La résolution 
 
 
 ###### Article 1224
 
-Chaque héritier du créancier peut exiger en totalité l'exécution de l'obligation indivisible.
-
-Il ne peut seul faire la remise de la totalité de la dette ; il ne peut recevoir seul le prix au lieu de la chose. Si l'un
-des héritiers a seul remis la dette ou reçu le prix de la chose, son cohéritier ne peut demander la chose indivisible qu'en
-tenant compte de la portion du cohéritier qui a fait la remise ou qui a reçu le prix.
+La résolution résulte soit de l'application d'une clause résolutoire soit, en cas d'inexécution suffisamment grave, d'une
+notification du créancier au débiteur ou d'une décision de justice.
 
 **Liens relatifs à cet article**
 
@@ -42123,20 +42486,21 @@ tenant compte de la portion du cohéritier qui a fait la remise ou qui a reçu l
 	  - Loi n°67-1253 du 30 décembre 1967 - art. 53 (VD)
 	  - Code général des impôts, CGI. - art. 1961 (VD)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
+
 	**Codifié par**:
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
-
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
-
 
 ###### Article 1225
 
-L'héritier du débiteur, assigné pour la totalité de l'obligation, peut demander un délai pour mettre en cause ses
-cohéritiers, à moins que la dette ne soit de nature à ne pouvoir être acquittée que par l'héritier assigné, qui peut alors
-être condamné seul, sauf son recours en indemnité contre ses cohéritiers.
+La clause résolutoire précise les engagements dont l'inexécution entraînera la résolution du contrat. 
+
+La résolution est subordonnée à une mise en demeure infructueuse, s'il n'a pas été convenu que celle-ci résulterait du seul
+fait de l'inexécution. La mise en demeure ne produit effet que si elle mentionne expressément la clause résolutoire.
 
 **Liens relatifs à cet article**
 
@@ -42144,17 +42508,23 @@ cohéritiers, à moins que la dette ne soit de nature à ne pouvoir être acquit
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
-
-#### Section 6 : Des obligations avec clauses pénales.
 
 ###### Article 1226
 
-La clause pénale est celle par laquelle une personne, pour assurer l'exécution d'une convention, s'engage à quelque chose en
-cas d'inexécution.
+Le créancier peut, à ses risques et périls, résoudre le contrat par voie de notification. Sauf urgence, il doit préalablement
+mettre en demeure le débiteur défaillant de satisfaire à son engagement dans un délai raisonnable. 
+
+La mise en demeure mentionne expressément qu'à défaut pour le débiteur de satisfaire à son obligation, le créancier sera en
+droit de résoudre le contrat. 
+
+Lorsque l'inexécution persiste, le créancier notifie au débiteur la résolution du contrat et les raisons qui la motivent. 
+
+Le débiteur peut à tout moment saisir le juge pour contester la résolution. Le créancier doit alors prouver la gravité de
+l'inexécution.
 
 **Liens relatifs à cet article**
 
@@ -42166,16 +42536,14 @@ cas d'inexécution.
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
 
 ###### Article 1227
 
-La nullité de l'obligation principale entraîne celle de la clause pénale.
-
-La nullité de celle-ci n'entraîne point celle de l'obligation principale.
+La résolution peut, en toute hypothèse, être demandée en justice.
 
 **Liens relatifs à cet article**
 
@@ -42183,15 +42551,15 @@ La nullité de celle-ci n'entraîne point celle de l'obligation principale.
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
 
 ###### Article 1228
 
-Le créancier, au lieu de demander la peine stipulée contre le débiteur qui est en demeure, peut poursuivre l'exécution de
-l'obligation principale.
+Le juge peut, selon les circonstances, constater ou prononcer la résolution ou ordonner l'exécution du contrat, en accordant
+éventuellement un délai au débiteur, ou allouer seulement des dommages et intérêts.
 
 **Liens relatifs à cet article**
 
@@ -42199,33 +42567,47 @@ l'obligation principale.
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
 
 ###### Article 1229
 
-La clause pénale est la compensation des dommages et intérêts que le créancier souffre de l'inexécution de l'obligation
-principale.
+La résolution met fin au contrat. 
 
-Il ne peut demander en même temps le principal et la peine, à moins qu'elle n'ait été stipulée pour le simple retard.
+La résolution prend effet, selon les cas, soit dans les conditions prévues par la clause résolutoire, soit à la date de la
+réception par le débiteur de la notification faite par le créancier, soit à la date fixée par le juge ou, à défaut, au jour
+de l'assignation en justice. 
+
+Lorsque les prestations échangées ne pouvaient trouver leur utilité que par l'exécution complète du contrat résolu, les
+parties doivent restituer l'intégralité de ce qu'elles se sont procuré l'une à l'autre. Lorsque les prestations échangées ont
+trouvé leur utilité au fur et à mesure de l'exécution réciproque du contrat, il n'y a pas lieu à restitution pour la période
+antérieure à la dernière prestation n'ayant pas reçu sa contrepartie ; dans ce cas, la résolution est qualifiée de
+résiliation. 
+
+Les restitutions ont lieu dans les conditions prévues aux articles 1352 à 1352-9.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
+
+	**Cite**:
+
+	  - Code civil - art. 1352 (V)
+	  - Code civil - art. 1352-9 (V)
 
 	**Codifié par**:
 
 	  - Loi n°1804-02-07
-
-	**Créé par**:
-
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
 
 
 ###### Article 1230
 
-Soit que l'obligation primitive contienne, soit qu'elle ne contienne pas un terme dans lequel elle doive être accomplie, la
-peine n'est encourue que lorsque celui qui s'est obligé soit à livrer, soit à prendre, soit à faire, est en demeure.
+La résolution n'affecte ni les clauses relatives au règlement des différends, ni celles destinées à produire effet même en
+cas de résolution, telles les clauses de confidentialité et de non-concurrence.
 
 **Liens relatifs à cet article**
 
@@ -42233,26 +42615,23 @@ peine n'est encourue que lorsque celui qui s'est obligé soit à livrer, soit à
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
+
+##### Sous-section 5 : La réparation du préjudice résultant de l'inexécution du contrat 
 
 ###### Article 1231
 
-Lorsque l'engagement a été exécuté en partie, la peine convenue peut, même d'office, être diminuée par le juge à proportion
-de l'intérêt que l'exécution partielle a procuré au créancier, sans préjudice de l'application de l'article 1152. Toute
-stipulation contraire sera réputée non écrite.
+A moins que l'inexécution soit définitive, les dommages et intérêts ne sont dus que si le débiteur a préalablement été mis en
+demeure de s'exécuter dans un délai raisonnable.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Loi n°1804-02-07
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°85-1087 1985-10-11 art 3
 
 	**Cité par**:
 
@@ -42270,220 +42649,148 @@ stipulation contraire sera réputée non écrite.
 
 	**Modifié par**:
 
-	  - Loi n°85-1097 du 11 octobre 1985 - art. 2 () JORF 15 octobre 1985
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
 	**Cite**:
 
-	  - Code civil - art. 1152 (V)
+	  - Code civil - art. 1152
 
 
-###### Article 1232
+###### Article 1231-1
 
-Lorsque l'obligation primitive contractée avec une clause pénale est d'une chose indivisible, la peine est encourue par la
-contravention d'un seul des héritiers du débiteur, et elle peut être demandée, soit en totalité contre celui qui a fait la
-contravention, soit contre chacun des cohéritiers pour leur part et portion, et hypothécairement pour le tout, sauf leur
-recours contre celui qui a fait encourir la peine.
+Le débiteur est condamné, s'il y a lieu, au paiement de dommages et intérêts soit à raison de l'inexécution de l'obligation,
+soit à raison du retard dans l'exécution, s'il ne justifie pas que l'exécution a été empêchée par la force majeure.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Loi n°1804-02-07
-
 	**Créé par**:
-
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
-
-	**Abrogé par**:
 
 	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
 
-###### Article 1233
+###### Article 1231-2
 
-Lorsque l'obligation primitive contractée sous une peine est divisible, la peine n'est encourue que par celui des héritiers
-du débiteur qui contrevient à cette obligation, et pour la part seulement dont il était tenu dans l'obligation principale,
-sans qu'il y ait d'action contre ceux qui l'ont exécutée.
-
-Cette règle reçoit exception lorsque la clause pénale ayant été ajoutée dans l'intention que le paiement ne pût se faire
-partiellement, un cohéritier a empêché l'exécution de l'obligation pour la totalité. En ce cas, la peine entière peut être
-exigée contre lui, et contre les autres cohéritiers pour leur portion seulement, sauf leur recours.
+Les dommages et intérêts dus au créancier sont, en général, de la perte qu'il a faite et du gain dont il a été privé, sauf
+les exceptions et modifications ci-après.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Loi n°1804-02-07
-
 	**Créé par**:
-
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
-
-	**Abrogé par**:
 
 	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
 
-### Chapitre V : De l'extinction des obligations.
+###### Article 1231-3
 
-###### Article 1234
-
-Les obligations s'éteignent :
-
-Par le paiement,
-
-Par la novation,
-
-Par la remise volontaire,
-
-Par la compensation,
-
-Par la confusion,
-
-Par la perte de la chose,
-
-Par la nullité ou la rescision,
-
-Par l'effet de la condition résolutoire, qui a été expliquée au chapitre précédent,
-
-Et par la prescription, qui fera l'objet d'un titre particulier.
+Le débiteur n'est tenu que des dommages et intérêts qui ont été prévus ou qui pouvaient être prévus lors de la conclusion du
+contrat, sauf lorsque l'inexécution est due à une faute lourde ou dolosive.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Loi n°1804-02-07
-
 	**Créé par**:
-
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
-
-	**Abrogé par**:
 
 	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
 
-#### Section 1 : Du paiement
+###### Article 1231-4
 
-##### Paragraphe 1 : Du paiement en général.
-
-###### Article 1235
-
-Tout paiement suppose une dette : ce qui a été payé sans être dû, est sujet à répétition.
-
-La répétition n'est pas admise à l'égard des obligations naturelles qui ont été volontairement acquittées.
+Dans le cas même où l'inexécution du contrat résulte d'une faute lourde ou dolosive, les dommages et intérêts ne comprennent
+que ce qui est une suite immédiate et directe de l'inexécution.
 
 **Liens relatifs à cet article**
 
-	**Abrogé par**:
-
-	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
-
-	**Nouveaux textes**:
-
-	  - Code civil - art. 1302 (V)
-
-	**Codifié par**:
-
-	  - Loi n°1804-02-07
-
 	**Créé par**:
-
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
-
-
-###### Article 1236
-
-Une obligation peut être acquittée par toute personne qui y est intéressée, telle qu'un coobligé ou une caution.
-
-L'obligation peut même être acquittée par un tiers qui n'y est point intéressé, pourvu que ce tiers agisse au nom et en
-l'acquit du débiteur, ou que, s'il agit en son nom propre, il ne soit pas subrogé aux droits du créancier.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1804-02-07
-
-	**Créé par**:
-
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
-
-	**Abrogé par**:
 
 	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
 
-###### Article 1237
+###### Article 1231-5
 
-L'obligation de faire ne peut être acquittée par un tiers contre le gré du créancier, lorsque ce dernier a intérêt qu'elle
-soit remplie par le débiteur lui-même.
+Lorsque le contrat stipule que celui qui manquera de l'exécuter paiera une certaine somme à titre de dommages et intérêts, il
+ne peut être alloué à l'autre partie une somme plus forte ni moindre. 
+
+Néanmoins, le juge peut, même d'office, modérer ou augmenter la pénalité ainsi convenue si elle est manifestement excessive
+ou dérisoire. 
+
+Lorsque l'engagement a été exécuté en partie, la pénalité convenue peut être diminuée par le juge, même d'office, à
+proportion de l'intérêt que l'exécution partielle a procuré au créancier, sans préjudice de l'application de l'alinéa
+précédent. 
+
+Toute stipulation contraire aux deux alinéas précédents est réputée non écrite. 
+
+Sauf inexécution définitive, la pénalité n'est encourue que lorsque le débiteur est mis en demeure.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Cité par**:
 
-	  - Loi n°1804-02-07
+	  - Ordonnance n°2002-1476 du 19 décembre 2002 - art. 10 (VD)
+	  - Ordonnance n°2013-516 du 20 juin 2013 - art. 1 (VD)
+	  - Code de la consommation - art. L312-39 (VD)
+	  - Code de la consommation - art. L312-40 (VD)
+	  - Code de la consommation - art. L313-47 (VD)
+	  - Code de la consommation - art. L313-51 (VD)
+	  - Code de la consommation - art. L313-60 (VD)
+	  - Code de la consommation - art. L315-17 (VD)
+	  - Code de la consommation - art. L315-23 (VD)
+	  - Code du travail - art. L5125-2 (VD)
 
 	**Créé par**:
-
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
-
-	**Abrogé par**:
 
 	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
 
-###### Article 1238
+###### Article 1231-6
 
-Pour payer valablement, il faut être propriétaire de la chose donnée en paiement, et capable de l'aliéner.
+Les dommages et intérêts dus à raison du retard dans le paiement d'une obligation de somme d'argent consistent dans l'intérêt
+au taux légal, à compter de la mise en demeure. 
 
-Néanmoins le paiement d'une somme en argent ou autre chose qui se consomme par l'usage, ne peut être répété contre le
-créancier qui l'a consommée de bonne foi, quoique le paiement en ait été fait par celui qui n'en était pas propriétaire ou
-qui n'était pas capable de l'aliéner.
+Ces dommages et intérêts sont dus sans que le créancier soit tenu de justifier d'aucune perte. 
+
+Le créancier auquel son débiteur en retard a causé, par sa mauvaise foi, un préjudice indépendant de ce retard, peut obtenir
+des dommages et intérêts distincts de l'intérêt moratoire.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Loi n°1804-02-07
-
 	**Créé par**:
 
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
-	**Abrogé par**:
+	**Cité par**:
+
+	  - Code de commerce - art. Annexe 4-9 (V)
+
+
+###### Article 1231-7
+
+En toute matière, la condamnation à une indemnité emporte intérêts au taux légal même en l'absence de demande ou de
+disposition spéciale du jugement. Sauf disposition contraire de la loi, ces intérêts courent à compter du prononcé du
+jugement à moins que le juge n'en décide autrement. 
+
+En cas de confirmation pure et simple par le juge d'appel d'une décision allouant une indemnité en réparation d'un dommage,
+celle-ci porte de plein droit intérêt au taux légal à compter du jugement de première instance. Dans les autres cas,
+l'indemnité allouée en appel porte intérêt à compter de la décision d'appel. Le juge d'appel peut toujours déroger aux
+dispositions du présent alinéa.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Ordonnance n°92-1146 du 12 octobre 1992 - art. 7 (VD)
+	  - Décret n°2008-479 du 20 mai 2008 - art. 11 (V)
+
+	**Créé par**:
 
 	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
 
-###### Article 1239
+### Sous-titre II : La responsabilité extracontractuelle   
 
-Le paiement doit être fait au créancier, ou à quelqu'un ayant pouvoir de lui, ou qui soit autorisé par justice ou par la loi
-à recevoir pour lui.
-
-Le paiement fait à celui qui n'aurait pas pouvoir de recevoir pour le créancier, est valable, si celui-ci le ratifie, ou s'il
-en a profité.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1804-02-07
-
-	**Créé par**:
-
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
-
+#### Chapitre Ier : La responsabilité extracontractuelle en général 
 
 ###### Article 1240
 
-Le paiement fait de bonne foi à celui qui est en possession de la créance est valable, encore que le possesseur en soit par
-la suite évincé.
+Tout fait quelconque de l'homme, qui cause à autrui un dommage, oblige celui par la faute duquel il est arrivé à le réparer.
 
 **Liens relatifs à cet article**
 
@@ -42514,15 +42821,15 @@ la suite évincé.
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
 
 ###### Article 1241
 
-Le paiement fait au créancier n'est point valable s'il était incapable de le recevoir, à moins que le débiteur ne prouve que
-la chose payée a tourné au profit du créancier.
+Chacun est responsable du dommage qu'il a causé non seulement par son fait, mais encore par sa négligence ou par son
+imprudence.
 
 **Liens relatifs à cet article**
 
@@ -42536,22 +42843,46 @@ la chose payée a tourné au profit du créancier.
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
 
 ###### Article 1242
 
-Le paiement fait par le débiteur à son créancier, au préjudice d'une saisie ou d'une opposition, n'est pas valable à l'égard
-des créanciers saisissants ou opposants : ceux-ci peuvent, selon leur droit, le contraindre à payer de nouveau, sauf en ce
-cas seulement son recours contre le créancier.
+On est responsable non seulement du dommage que l'on cause par son propre fait, mais encore de celui qui est causé par le
+fait des personnes dont on doit répondre, ou des choses que l'on a sous sa garde. 
+
+Toutefois, celui qui détient, à un titre quelconque, tout ou partie de l'immeuble ou des biens mobiliers dans lesquels un
+incendie a pris naissance ne sera responsable, vis-à-vis des tiers, des dommages causés par cet incendie que s'il est prouvé
+qu'il doit être attribué à sa faute ou à la faute des personnes dont il est responsable. 
+
+Cette disposition ne s'applique pas aux rapports entre propriétaires et locataires, qui demeurent régis par les articles 1733
+et 1734 du code civil. 
+
+Le père et la mère, en tant qu'ils exercent l'autorité parentale, sont solidairement responsables du dommage causé par leurs
+enfants mineurs habitant avec eux. 
+
+Les maîtres et les commettants, du dommage causé par leurs domestiques et préposés dans les fonctions auxquelles ils les ont
+employés ; 
+
+Les instituteurs et les artisans, du dommage causé par leurs élèves et apprentis pendant le temps qu'ils sont sous leur
+surveillance. 
+
+La responsabilité ci-dessus a lieu, à moins que les père et mère et les artisans ne prouvent qu'ils n'ont pu empêcher le fait
+qui donne lieu à cette responsabilité. 
+
+En ce qui concerne les instituteurs, les fautes, imprudences ou négligences invoquées contre eux comme ayant causé le fait
+dommageable, devront être prouvées, conformément au droit commun, par le demandeur, à l'instance.
 
 **Liens relatifs à cet article**
 
 	**Cité par**:
 
 	  - Décret n°53-511 du 21 mai 1953 - art. 37 (V)
+	  - Loi du 29 juillet 1881 - art. 6 (V)
+	  - Loi n°70-459 du 4 juin 1970 - art. 13 (VD)
+	  - Loi n°74-696 du 7 août 1974 - art. 23 (VD)
 	  - Loi n°82-652 du 29 juillet 1982 - art. 93-2 (V)
 	  - Décret n°2016-253 du 2 mars 2016 - art. (V)
 	  - Code de l'éducation - art. R442-40 (V)
@@ -42560,25 +42891,31 @@ cas seulement son recours contre le créancier.
 	  - Code des assurances - art. L511-1 (VD)
 	  - Code des postes et des communications électroni... - art. L75 (VD)
 	  - Code du sport. - art. L321-3-1 (VD)
-	  - Loi du 29 juillet 1881 - art. 6 (V)
-	  - Loi n°70-459 du 4 juin 1970 - art. 13 (VD)
-	  - Loi n°74-696 du 7 août 1974 - art. 23 (VD)
 
 	**Codifié par**:
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
+
+	**Cite**:
+
+	  - Code civil - art. 1733 (V)
+	  - Code civil - art. 1734 (V)
 
 
 ###### Article 1243
 
-Le créancier ne peut être contraint de recevoir une autre chose que celle qui lui est due, quoique la valeur de la chose
-offerte soit égale ou même plus grande.
+Le propriétaire d'un animal, ou celui qui s'en sert, pendant qu'il est à son usage, est responsable du dommage que l'animal a
+causé, soit que l'animal fût sous sa garde, soit qu'il fût égaré ou échappé.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
 	**Cité par**:
 
@@ -42588,21 +42925,18 @@ offerte soit égale ou même plus grande.
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
-
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
-
 
 ###### Article 1244
 
-Le débiteur ne peut forcer le créancier à recevoir en partie le paiement d'une dette, même divisible.
+Le propriétaire d'un bâtiment est responsable du dommage causé par sa ruine, lorsqu'elle est arrivée par une suite du défaut
+d'entretien ou par le vice de sa construction.
 
 **Liens relatifs à cet article**
 
 	**Cité par**:
 
-	  - Décret n°53-960 du 30 septembre 1953 - art. 25 (M)
 	  - Loi n°48-1360 du 1 septembre 1948 - art. 80 (M)
+	  - Décret n°53-960 du 30 septembre 1953 - art. 25 (M)
 	  - Loi n°56-672 du 9 juillet 1956 - art. 6 (M)
 	  - Loi n°67-3 du 3 janvier 1967 - art. 9 (V)
 	  - Loi n°70-632 du 15 juillet 1970 - art. 60 (V)
@@ -42625,180 +42959,15 @@ Le débiteur ne peut forcer le créancier à recevoir en partie le paiement d'un
 
 	**Modifié par**:
 
-	  - Loi n°91-650 du 9 juillet 1991 - art. 83 () JORF 14 juillet 1991 en vigueur le 1er août 1992
-
-	**Liens**:
-
-	  - SPEC_APPLI: Ordonnance 98-774 1998-09-02 art. 1 I (champ d'application territoriale aux TOM et à Mayotte)
-
-
-###### Article 1244-1
-
-Toutefois, compte tenu de la situation du débiteur et en considération des besoins du créancier, le juge peut, dans la limite
-de deux années, reporter ou échelonner le paiement des sommes dues.
-
-Par décision spéciale et motivée, le juge peut prescrire que les sommes correspondant aux échéances reportées porteront
-intérêt à un taux réduit qui ne peut être inférieur au taux légal ou que les paiements s'imputeront d'abord sur le capital.
-
-En outre, il peut subordonner ces mesures à l'accomplissement, par le débiteur, d'actes propres à faciliter ou à garantir le
-paiement de la dette.
-
-Les dispositions du présent article ne s'appliquent pas aux dettes d'aliments.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Loi n°48-1360 du 1 septembre 1948 - art. 80 (V)
-	  - Décret n°53-960 du 30 septembre 1953 - art. 25 (Ab)
-	  - Loi n°56-672 du 9 juillet 1956 - art. 6 (V)
-	  - Loi n°79-596 du 13 juillet 1979 - art. 14 (Ab)
-	  - Loi n°84-148 du 1 mars 1984 - art. 36 (Ab)
-	  - Loi n°89-462 du 6 juillet 1989 - art. 24 (V)
-	  - Code civil - art. 1244-2 (Ab)
-	  - Code civil - art. 1244-3 (Ab)
-	  - Code de commerce - art. L145-41 (V)
-	  - Code de commerce - art. L611-10-1 (VD)
-	  - Code de commerce - art. L611-7 (VD)
-	  - Code de commerce. - art. L611-4 (M)
-	  - Code de la consommation - art. L314-20 (VD)
-	  - Code de la construction et de l'habitation. - art. L222-4 (V)
-	  - Code de la construction et de l'habitation. - art. L261-13 (V)
-	  - Code de la construction et de l'habitation. - art. L613-1 (V)
-	  - Code de procédure civile - art. 847-2 (VD)
-	  - Code de procédure civile - art. 861-2 (VD)
-	  - Code rural - art. L411-76 (V)
-	  - Code rural - art. L418-3 (V)
-
-	**Créé par**:
-
-	  - Loi n°91-650 du 9 juillet 1991 - art. 83 () JORF 14 juillet 1991 en vigueur le 1er août 1992
-
-	**Liens**:
-
-	  - SPEC_APPLI: Ordonnance 98-774 1998-09-02 art. 1 I (champ d'application territoriale aux TOM et à Mayotte)
-
-	**Abrogé par**:
-
 	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
-	**Codifié par**:
 
-	  - Loi n°1804-02-07
-
-
-###### Article 1244-2
-
-La décision du juge, prise en application de l'article 1244-1, suspend les procédures d'exécution qui auraient été engagées
-par le créancier. Les majorations d'intérêts ou les pénalités encourues à raison du retard cessent d'être dues pendant le
-délai fixé par le juge.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1804-02-07
-
-	**Cité par**:
-
-	  - Loi n°48-1360 du 1 septembre 1948 - art. 80 (V)
-	  - Loi n°56-672 du 9 juillet 1956 - art. 6 (V)
-	  - Loi n°79-596 du 13 juillet 1979 - art. 14 (Ab)
-	  - Loi n°89-462 du 6 juillet 1989 - art. 24 (V)
-	  - Code civil - art. 1244-3 (Ab)
-
-	**Créé par**:
-
-	  - Loi n°91-650 du 9 juillet 1991 - art. 83 () JORF 14 juillet 1991 en vigueur le 1er août 1992
-
-	**Liens**:
-
-	  - SPEC_APPLI: Ordonnance 98-774 1998-09-02 art. 1 I (champ d'application territoriale aux TOM et à Mayotte)
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
-
-	**Cite**:
-
-	  - Code civil - art. 1244-1
-
-
-###### Article 1244-3
-
-Toute stipulation contraire aux dispositions des articles 1244-1 et 1244-2 est réputée non écrite.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1804-02-07
-
-	**Cité par**:
-
-	  - Loi n°48-1360 du 1 septembre 1948 - art. 80 (V)
-	  - Loi n°56-672 du 9 juillet 1956 - art. 6 (V)
-	  - Loi n°79-596 du 13 juillet 1979 - art. 14 (Ab)
-
-	**Créé par**:
-
-	  - Loi n°91-650 du 9 juillet 1991 - art. 83 () JORF 14 juillet 1991 en vigueur le 1er août 1992
-
-	**Liens**:
-
-	  - SPEC_APPLI: Ordonnance 98-774 1998-09-02 art. 1 (champ d'application territoriale aux TOM et à Mayotte)
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
-
-	**Cite**:
-
-	  - Code civil - art. 1244-1 (Ab)
-	  - Code civil - art. 1244-2 (Ab)
-
-
-###### Article 1244-4
-
-Une procédure simplifiée de recouvrement des petites créances peut être mise en œuvre par un huissier de justice à la demande
-du créancier pour le paiement d'une créance ayant une cause contractuelle ou résultant d'une obligation de caractère
-statutaire et inférieure à un montant défini par décret en Conseil d'Etat.
-
-Cette procédure se déroule dans un délai d'un mois à compter de l'envoi par l'huissier d'une lettre recommandée avec demande
-d'avis de réception invitant le débiteur à participer à cette procédure. L'accord du débiteur, constaté par l'huissier,
-suspend la prescription.
-
-L'huissier qui a reçu l'accord du créancier et du débiteur sur le montant et les modalités du paiement délivre, sans autre
-formalité, un titre exécutoire.
-
-Les frais de toute nature qu'occasionne la procédure sont à la charge exclusive du créancier.
-
-Un décret en Conseil d'Etat fixe les modalités d'application du présent article, notamment les règles de prévention des
-conflits d'intérêts lors de la délivrance par l'huissier de justice d'un titre exécutoire.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°2015-990 du 6 août 2015 - art. 208
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
-
-	**Cité par**:
-
-	  - Décret n°2016-230 du 26 février 2016 - art.
-	  - Décret n°2016-285 du 9 mars 2016 (V)
-	  - Code de commerce - art. A444-28 (M)
-	  - Code de commerce - art. A444-47 (M)
-
+#### Chapitre II : La responsabilité du fait des produits défectueux 
 
 ###### Article 1245
 
-Le débiteur d'un corps certain et déterminé est libéré par la remise de la chose en l'état où elle se trouve lors de la
-livraison, pourvu que les détériorations qui y sont survenues ne viennent point de son fait ou de sa faute, ni de celle des
-personnes dont il est responsable, ou qu'avant ces détériorations il ne fût pas en demeure.
+Le producteur est responsable du dommage causé par un défaut de son produit, qu'il soit ou non lié par un contrat avec la
+victime.
 
 **Liens relatifs à cet article**
 
@@ -42806,1107 +42975,398 @@ personnes dont il est responsable, ou qu'avant ces détériorations il ne fût p
 
 	  - Loi n°1804-02-07
 
+	**Modifié par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
+
+
+###### Article 1245-1
+
+Les dispositions du présent chapitre s'appliquent à la réparation du dommage qui résulte d'une atteinte à la personne. 
+
+Elles s'appliquent également à la réparation du dommage supérieur à un montant déterminé par décret, qui résulte d'une
+atteinte à un bien autre que le produit défectueux lui-même.
+
+**Liens relatifs à cet article**
+
 	**Créé par**:
 
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
+
+###### Article 1245-2
+
+Est un produit tout bien meuble, même s'il est incorporé dans un immeuble, y compris les produits du sol, de l'élevage, de la
+chasse et de la pêche. L'électricité est considérée comme un produit.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
+
+
+###### Article 1245-3
+
+Un produit est défectueux au sens du présent chapitre lorsqu'il n'offre pas la sécurité à laquelle on peut légitimement
+s'attendre. 
+
+Dans l'appréciation de la sécurité à laquelle on peut légitimement s'attendre, il doit être tenu compte de toutes les
+circonstances et notamment de la présentation du produit, de l'usage qui peut en être raisonnablement attendu et du moment de
+sa mise en circulation. 
+
+Un produit ne peut être considéré comme défectueux par le seul fait qu'un autre, plus perfectionné, a été mis postérieurement
+en circulation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
+
+
+###### Article 1245-4
+
+Un produit est mis en circulation lorsque le producteur s'en est dessaisi volontairement. 
+
+Un produit ne fait l'objet que d'une seule mise en circulation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
+
+
+###### Article 1245-5
+
+Est producteur, lorsqu'il agit à titre professionnel, le fabricant d'un produit fini, le producteur d'une matière première,
+le fabricant d'une partie composante. 
+
+Est assimilée à un producteur pour l'application du présent chapitre toute personne agissant à titre professionnel : 
+
+1° Qui se présente comme producteur en apposant sur le produit son nom, sa marque ou un autre signe distinctif ; 
+
+2° Qui importe un produit dans la Communauté européenne en vue d'une vente, d'une location, avec ou sans promesse de vente,
+ou de toute autre forme de distribution. 
+
+Ne sont pas considérées comme producteurs, au sens du présent chapitre, les personnes dont la responsabilité peut être
+recherchée sur le fondement des articles 1792 à 1792-6 et 1646-1.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
+
+	**Cite**:
+
+	  - Code civil - art. 1646-1 (V)
+	  - Code civil - art. 1792 (V)
+	  - Code civil - art. 1792-6 (V)
+
+
+###### Article 1245-6
+
+Si le producteur ne peut être identifié, le vendeur, le loueur, à l'exception du crédit-bailleur ou du loueur assimilable au
+crédit-bailleur, ou tout autre fournisseur professionnel, est responsable du défaut de sécurité du produit, dans les mêmes
+conditions que le producteur, à moins qu'il ne désigne son propre fournisseur ou le producteur, dans un délai de trois mois à
+compter de la date à laquelle la demande de la victime lui a été notifiée. 
+
+Le recours du fournisseur contre le producteur obéit aux mêmes règles que la demande émanant de la victime directe du défaut.
+Toutefois, il doit agir dans l'année suivant la date de sa citation en justice.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
+
+
+###### Article 1245-7
+
+En cas de dommage causé par le défaut d'un produit incorporé dans un autre, le producteur de la partie composante et celui
+qui a réalisé l'incorporation sont solidairement responsables.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
+
+
+###### Article 1245-8
+
+Le demandeur doit prouver le dommage, le défaut et le lien de causalité entre le défaut et le dommage.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
+
+
+###### Article 1245-9
+
+Le producteur peut être responsable du défaut alors même que le produit a été fabriqué dans le respect des règles de l'art ou
+de normes existantes ou qu'il a fait l'objet d'une autorisation administrative.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
+
+
+###### Article 1245-10
+
+Le producteur est responsable de plein droit à moins qu'il ne prouve : 
+
+1° Qu'il n'avait pas mis le produit en circulation ; 
+
+2° Que, compte tenu des circonstances, il y a lieu d'estimer que le défaut ayant causé le dommage n'existait pas au moment où
+le produit a été mis en circulation par lui ou que ce défaut est né postérieurement ; 
+
+3° Que le produit n'a pas été destiné à la vente ou à toute autre forme de distribution ; 
+
+4° Que l'état des connaissances scientifiques et techniques, au moment où il a mis le produit en circulation, n'a pas permis
+de déceler l'existence du défaut ; 
+
+5° Ou que le défaut est dû à la conformité du produit avec des règles impératives d'ordre législatif ou réglementaire. 
+
+Le producteur de la partie composante n'est pas non plus responsable s'il établit que le défaut est imputable à la conception
+du produit dans lequel cette partie a été incorporée ou aux instructions données par le producteur de ce produit.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°2013-316 du 16 avril 2013 - art. 13 (VD)
+	  - Code civil - art. 1245-11 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
+
+
+###### Article 1245-11
+
+Le producteur ne peut invoquer la cause d'exonération prévue au 4° de l'article 1245-10 lorsque le dommage a été causé par un
+élément du corps humain ou par les produits issus de celui-ci.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
+
+	**Cite**:
+
+	  - Code civil - art. 1245-10 (V)
+
+
+###### Article 1245-12
+
+La responsabilité du producteur peut être réduite ou supprimée, compte tenu de toutes les circonstances, lorsque le dommage
+est causé conjointement par un défaut du produit et par la faute de la victime ou d'une personne dont la victime est
+responsable.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
+
+
+###### Article 1245-13
+
+La responsabilité du producteur envers la victime n'est pas réduite par le fait d'un tiers ayant concouru à la réalisation du
+dommage.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
+
+
+###### Article 1245-14
+
+Les clauses qui visent à écarter ou à limiter la responsabilité du fait des produits défectueux sont interdites et réputées
+non écrites. 
+
+Toutefois, pour les dommages causés aux biens qui ne sont pas utilisés par la victime principalement pour son usage ou sa
+consommation privée, les clauses stipulées entre professionnels sont valables.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
+
+
+###### Article 1245-15
+
+Sauf faute du producteur, la responsabilité de celui-ci, fondée sur les dispositions du présent chapitre, est éteinte dix ans
+après la mise en circulation du produit même qui a causé le dommage à moins que, durant cette période, la victime n'ait
+engagé une action en justice.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
+
+
+###### Article 1245-16
+
+L'action en réparation fondée sur les dispositions du présent chapitre se prescrit dans un délai de trois ans à compter de la
+date à laquelle le demandeur a eu ou aurait dû avoir connaissance du dommage, du défaut et de l'identité du producteur.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
+
+
+###### Article 1245-17
+
+Les dispositions du présent chapitre ne portent pas atteinte aux droits dont la victime d'un dommage peut se prévaloir au
+titre du droit de la responsabilité contractuelle ou extracontractuelle ou au titre d'un régime spécial de responsabilité. 
+
+Le producteur reste responsable des conséquences de sa faute et de celle des personnes dont il répond.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
+
+
+#### Chapitre III : La réparation du préjudice écologique
 
 ###### Article 1246
 
-Si la dette est d'une chose qui ne soit déterminée que par son espèce, le débiteur ne sera pas tenu, pour être libéré, de la
-donner de la meilleure espèce ; mais il ne pourra l'offrir de la plus mauvaise.
+Toute personne responsable d'un préjudice écologique est tenue de le réparer.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Loi n°1804-02-07
-
 	**Créé par**:
 
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
+	  - Loi n°2016-1087 du 8 août 2016 - art. 4
 
 
 ###### Article 1247
 
-Le paiement doit être exécuté dans le lieu désigné par la convention. Si le lieu n'y est pas désigné, le paiement, lorsqu'il
-s'agit d'un corps certain et déterminé, doit être fait dans le lieu où était, au temps de l'obligation, la chose qui en fait
-l'objet.
-
-Les aliments alloués en justice doivent être versés, sauf décision contraire du juge, au domicile ou à la résidence de celui
-qui doit les recevoir.
-
-Hors ces cas, le paiement doit être fait au domicile du débiteur.
+Est réparable, dans les conditions prévues au présent titre, le préjudice écologique consistant en une atteinte non
+négligeable aux éléments ou aux fonctions des écosystèmes ou aux bénéfices collectifs tirés par l'homme de l'environnement.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Loi n°1804-02-07
-
 	**Créé par**:
 
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
-
-	**Modifié par**:
-
-	  - Ordonnance n°58-1298 du 23 décembre 1958 - art. 35 () JORF 24 décembre 1958
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
+	  - Loi n°2016-1087 du 8 août 2016 - art. 4
 
 
 ###### Article 1248
 
-Les frais du paiement sont à la charge du débiteur.
+L'action en réparation du préjudice écologique est ouverte à toute personne ayant qualité et intérêt à agir, telle que
+l'Etat, l'Agence française pour la biodiversité, les collectivités territoriales et leurs groupements dont le territoire est
+concerné, ainsi que les établissements publics et les associations agréées ou créées depuis au moins cinq ans à la date
+d'introduction de l'instance qui ont pour objet la protection de la nature et la défense de l'environnement.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Loi n°1804-02-07
-
 	**Créé par**:
 
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
+	  - Loi n°2016-1087 du 8 août 2016 - art. 4
 
-	**Abrogé par**:
+	**Cité par**:
 
-	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
+	  - Code civil - art. 1252 (V)
 
-
-##### Paragraphe 2 : Du paiement avec subrogation.
 
 ###### Article 1249
 
-La subrogation dans les droits du créancier au profit d'une tierce personne qui le paie est ou conventionnelle ou légale.
+La réparation du préjudice écologique s'effectue par priorité en nature. 
+
+En cas d'impossibilité de droit ou de fait ou d'insuffisance des mesures de réparation, le juge condamne le responsable à
+verser des dommages et intérêts, affectés à la réparation de l'environnement, au demandeur ou, si celui-ci ne peut prendre
+les mesures utiles à cette fin, à l'Etat. 
+
+L'évaluation du préjudice tient compte, le cas échéant, des mesures de réparation déjà intervenues, en particulier dans le
+cadre de la mise en œuvre du titre VI du livre Ier du code de l'environnement.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Loi n°1804-02-07
-
 	**Créé par**:
 
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
+	  - Loi n°2016-1087 du 8 août 2016 - art. 4
 
 
 ###### Article 1250
 
-Cette subrogation est conventionnelle :
+En cas d'astreinte, celle-ci est liquidée par le juge au profit du demandeur, qui l'affecte à la réparation de
+l'environnement ou, si le demandeur ne peut prendre les mesures utiles à cette fin, au profit de l'Etat, qui l'affecte à
+cette même fin. 
 
-1° Lorsque le créancier recevant son paiement d'une tierce personne la subroge dans ses droits, actions, privilèges ou
-hypothèques contre le débiteur : cette subrogation doit être expresse et faite en même temps que le paiement ;
-
-2° Lorsque le débiteur emprunte une somme à l'effet de payer sa dette, et de subroger le prêteur dans les droits du
-créancier. Il faut, pour que cette subrogation soit valable, que l'acte d'emprunt et la quittance soient passés devant
-notaires ; que dans l'acte d'emprunt il soit déclaré que la somme a été empruntée pour faire le paiement, et que dans la
-quittance il soit déclaré que le paiement a été fait des deniers fournis à cet effet par le nouveau créancier. Cette
-subrogation s'opère sans le concours de la volonté du créancier.
+Le juge se réserve le pouvoir de la liquider.
 
 **Liens relatifs à cet article**
 
-	**Abrogé par**:
+	**Créé par**:
 
-	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
+	  - Loi n°2016-1087 du 8 août 2016 - art. 4
 
 	**Cité par**:
 
-	  - Arrêté du 26 février 2016 - art. 2
-	  - Décret n°2016-230 du 26 février 2016 - art.
-	  - Code de commerce - art. A444-161 (M)
-	  - Code monétaire et financier - art. R518-31 (M)
-
-	**Codifié par**:
-
-	  - Loi n°1804-02-07
-
-	**Créé par**:
-
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
+	  - Code de commerce - art. A444-161 (V)
 
 
 ###### Article 1251
 
-La subrogation a lieu de plein droit :
-
-1° Au profit de celui qui étant lui-même créancier paie un autre créancier qui lui est préférable à raison de ses privilèges
-ou hypothèques ;
-
-2° Au profit de l'acquéreur d'un immeuble, qui emploie le prix de son acquisition au paiement des créanciers auxquels cet
-héritage était hypothéqué ;
-
-3° Au profit de celui qui, étant tenu avec d'autres ou pour d'autres au paiement de la dette, avait intérêt de l'acquitter ;
-
-4° Au profit de l'héritier acceptant à concurrence de l'actif net qui a payé de ses deniers les dettes de la succession ;
-
-5° Au profit de celui qui a payé de ses deniers les frais funéraires pour le compte de la succession.
+Les dépenses exposées pour prévenir la réalisation imminente d'un dommage, pour éviter son aggravation ou pour en réduire les
+conséquences constituent un préjudice réparable.
 
 **Liens relatifs à cet article**
 
-	**Cité par**:
+	**Créé par**:
 
-	  - Arrêté du 26 février 2016 - art. 2
-	  - Décret n°2016-230 du 26 février 2016 - art.
-	  - Code des assurances - art. L443-1 (VD)
-	  - Code monétaire et financier - art. L313-22-1 (VD)
-	  - Loi n°65-557 du 10 juillet 1965 - art. 28 (V)
-
-	**Codifié par**:
-
-	  - Loi n°1804-02-07
-
-	**Modifié par**:
-
-	  - Loi n°2006-728 du 23 juin 2006 - art. 29 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
+	  - Loi n°2016-1087 du 8 août 2016 - art. 4
 
 
 ###### Article 1252
 
-La subrogation établie par les articles précédents a lieu tant contre les cautions que contre les débiteurs : elle ne peut
-nuire au créancier lorsqu'il n'a été payé qu'en partie ; en ce cas, il peut exercer ses droits, pour ce qui lui reste dû, par
-préférence à celui dont il n'a reçu qu'un paiement partiel.
+Indépendamment de la réparation du préjudice écologique, le juge, saisi d'une demande en ce sens par une personne mentionnée
+à l'article 1248, peut prescrire les mesures raisonnables propres à prévenir ou faire cesser le dommage.
 
 **Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Loi n°51-59 du 18 janvier 1951 - art. 5 (Ab)
-	  - Loi n°85-677 du 5 juillet 1985 - art. 31 (V)
-	  - Code de commerce. - art. L525-5 (V)
-	  - Code de la sécurité sociale. - art. L376-1 (VD)
-
-	**Codifié par**:
-
-	  - Loi n°1804-02-07
 
 	**Créé par**:
 
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
-
-
-##### Paragraphe 3 : De l'imputation des paiements.
-
-###### Article 1253
-
-Le débiteur de plusieurs dettes a le droit de déclarer, lorsqu'il paye, quelle dette il entend acquitter.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 49 bis (V)
-	  - Loi n°82-526 du 22 juin 1982 - art. 20 (Ab)
-
-	**Codifié par**:
-
-	  - Loi n°1804-02-07
-
-	**Créé par**:
-
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
-
-
-###### Article 1254
-
-Le débiteur d'une dette qui porte intérêt ou produit des arrérages ne peut point, sans le consentement du créancier, imputer
-le paiement qu'il fait sur le capital par préférence aux arrérages ou intérêts : le paiement fait sur le capital et intérêts,
-mais qui n'est point intégral, s'impute d'abord sur les intérêts.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1804-02-07
-
-	**Créé par**:
-
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
-
-
-###### Article 1255
-
-Lorsque le débiteur de diverses dettes a accepté une quittance par laquelle le créancier a imputé ce qu'il a reçu sur l'une
-de ces dettes spécialement, le débiteur ne peut plus demander l'imputation sur une dette différente, à moins qu'il n'y ait eu
-dol ou surprise de la part du créancier.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1804-02-07
-
-	**Créé par**:
-
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
-
-
-###### Article 1256
-
-Lorsque la quittance ne porte aucune imputation, le paiement doit être imputé sur la dette que le débiteur avait pour lors le
-plus d'intérêt d'acquitter entre celles qui sont pareillement échues ; sinon, sur la dette échue, quoique moins onéreuse que
-celles qui ne le sont point.
-
-Si les dettes sont d'égale nature, l'imputation se fait sur la plus ancienne ; toutes choses égales, elle se fait
-proportionnellement.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Arrêté du 14 mars 2005 - art. 9 (M)
-	  - Code civil - art. 1297 (Ab)
-
-	**Codifié par**:
-
-	  - Loi n°1804-02-07
-
-	**Créé par**:
-
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
-
-
-##### Paragraphe 4 : Des offres de paiement, et de la consignation.
-
-###### Article 1257
-
-Lorsque le créancier refuse de recevoir son paiement, le débiteur peut lui faire des offres réelles et, au refus du créancier
-de les accepter, consigner la somme ou la chose offerte.
-
-Les offres réelles suivies d'une consignation libèrent le débiteur ; elles tiennent lieu à son égard de paiement,
-lorsqu'elles sont valablement faites, et la chose ainsi consignée demeure aux risques du créancier.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Décret n°65-97 du 4 février 1965 - art. 18 (VT)
-	  - Décret n°2012-1246 du 7 novembre 2012 - art. 39 (M)
-	  - Arrêté du 24 décembre 2012 - art. 9 (M)
-
-	**Codifié par**:
-
-	  - Loi n°1804-02-07
-
-	**Créé par**:
-
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
-
-
-###### Article 1258
-
-Pour que les offres réelles soient valables, il faut :
-
-1° Qu'elles soient faites au créancier ayant la capacité de recevoir, ou à celui qui a pouvoir de recevoir pour lui ;
-
-2° Qu'elles soient faites par une personne capable de payer ;
-
-3° Qu'elles soient de la totalité de la somme exigible, des arrérages ou intérêts dus, des frais liquidés, et d'une somme
-pour les frais non liquidés, sauf à la parfaire ;
-
-4° Que le terme soit échu, s'il a été stipulé en faveur du créancier ;
-
-5° Que la condition sous laquelle la dette a été contractée soit arrivée ;
-
-6° Que les offres soient faites au lieu dont on est convenu pour le paiement, et que, s'il n'y a pas de convention spéciale
-sur le lieu du paiement, elles soient faites ou à la personne du créancier, ou à son domicile, ou au domicile élu pour
-l'exécution de la convention ;
-
-7° Que les offres soient faites par un officier ministériel ayant caractère pour ces sortes d'actes.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1804-02-07
-
-	**Créé par**:
-
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
-
-
-###### Article 1260
-
-Les frais des offres réelles et de la consignation sont à la charge du créancier, si elles sont valables.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1804-02-07
-
-	**Créé par**:
-
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
-
-
-###### Article 1261
-
-Tant que la consignation n'a point été acceptée par le créancier, le débiteur peut la retirer ; et s'il la retire, ses
-codébiteurs ou ses cautions ne sont point libérés.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1804-02-07
-
-	**Créé par**:
-
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
-
-
-###### Article 1262
-
-Lorsque le débiteur a lui-même obtenu un jugement passé en force de chose jugée, qui a déclaré ses offres et sa consignation
-bonnes et valables, il ne peut plus, même du consentement du créancier, retirer sa consignation au préjudice de ses
-codébiteurs ou de ses cautions.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1804-02-07
-
-	**Créé par**:
-
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
-
-
-###### Article 1263
-
-Le créancier qui a consenti que le débiteur retirât sa consignation après qu'elle a été déclarée valable par un jugement qui
-a acquis force de chose jugée, ne peut plus, pour le paiement de sa créance, exercer les privilèges ou hypothèques qui y
-étaient attachés ; il n'a plus d'hypothèque que du jour où l'acte par lequel il a consenti que la consignation fût retirée
-aura été revêtu des formes requises pour emporter l'hypothèque.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1804-02-07
-
-	**Créé par**:
-
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
-
-
-###### Article 1264
-
-Si la chose due est un corps certain qui doit être livré au lieu où il se trouve, le débiteur doit faire sommation au
-créancier de l'enlever, par acte notifié à sa personne ou à son domicile, ou au domicile élu pour l'exécution de la
-convention. Cette sommation faite, si le créancier n'enlève pas la chose, et que le débiteur ait besoin du lieu dans lequel
-elle est placée, celui-ci pourra obtenir de la justice la permission de la mettre en dépôt dans quelque autre lieu.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1804-02-07
-
-	**Créé par**:
-
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
-
-
-#### Section 2 : De la novation.
-
-###### Article 1271
-
-La novation s'opère de trois manières :
-
-1° Lorsque le débiteur contracte envers son créancier une nouvelle dette qui est substituée à l'ancienne, laquelle est
-éteinte ;
-
-2° Lorsqu'un nouveau débiteur est substitué à l'ancien qui est déchargé par le créancier ;
-
-3° Lorsque, par l'effet d'un nouvel engagement, un nouveau créancier est substitué à l'ancien, envers lequel le débiteur se
-trouve déchargé.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1804-02-07
-
-	**Créé par**:
-
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
-
-
-###### Article 1272
-
-La novation ne peut s'opérer qu'entre personnes capables de contracter.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1804-02-07
-
-	**Créé par**:
-
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
-
-
-###### Article 1273
-
-La novation ne se présume point ; il faut que la volonté de l'opérer résulte clairement de l'acte.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1804-02-07
-
-	**Créé par**:
-
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
-
-
-###### Article 1274
-
-La novation par la substitution d'un nouveau débiteur peut s'opérer sans le concours du premier débiteur.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1804-02-07
-
-	**Créé par**:
-
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
-
-
-###### Article 1275
-
-La délégation par laquelle un débiteur donne au créancier un autre débiteur qui s'oblige envers le créancier, n'opère point
-de novation, si le créancier n'a expressément déclaré qu'il entendait décharger son débiteur qui a fait la délégation.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
-
-	**Cité par**:
-
-	  - Code de la construction et de l'habitation. - art. R431-63 (M)
-
-	**Codifié par**:
-
-	  - Loi n°1804-02-07
-
-	**Créé par**:
-
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
-
-
-###### Article 1276
-
-Le créancier qui a déchargé le débiteur par qui a été faite la délégation, n'a point de recours contre ce débiteur, si le
-délégué devient insolvable, à moins que l'acte n'en contienne une réserve expresse, ou que le délégué ne fût déjà en faillite
-ouverte, ou tombé en déconfiture au moment de la délégation.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1804-02-07
-
-	**Créé par**:
-
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
-
-
-###### Article 1277
-
-La simple indication faite, par le débiteur, d'une personne qui doit payer à sa place, n'opère point novation.
-
-Il en est de même de la simple indication faite, par le créancier, d'une personne qui doit recevoir pour lui.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1804-02-07
-
-	**Créé par**:
-
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
-
-
-###### Article 1278
-
-Les privilèges et hypothèques de l'ancienne créance ne passent point à celle qui lui est substituée, à moins que le créancier
-ne les ait expressément réservés.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1804-02-07
-
-	**Créé par**:
-
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
-
-
-###### Article 1279
-
-Lorsque la novation s'opère par la substitution d'un nouveau débiteur, les privilèges et hypothèques primitifs de la créance
-ne peuvent point passer sur les biens du nouveau débiteur. Les privilèges et hypothèques primitifs de la créance peuvent être
-réservés, avec le consentement des propriétaires des biens grevés, pour la garantie de l'exécution de l'engagement du nouveau
-débiteur.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1804-02-07
-
-	**Créé par**:
-
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
-
-	**Modifié par**:
-
-	  - Loi n°71-579 du 16 juillet 1971 (V)
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
-
-
-###### Article 1280
-
-Lorsque la novation s'opère entre le créancier et l'un des débiteurs solidaires, les privilèges et hypothèques de l'ancienne
-créance ne peuvent être réservés que sur les biens de celui qui contracte la nouvelle dette.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1804-02-07
-
-	**Créé par**:
-
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
-
-
-###### Article 1281
-
-Par la novation faite entre le créancier et l'un des débiteurs solidaires, les codébiteurs sont libérés.
-
-La novation opérée à l'égard du débiteur principal libère les cautions.
-
-Néanmoins, si le créancier a exigé, dans le premier cas, l'accession des codébiteurs, ou, dans le second, celles des
-cautions, l'ancienne créance subsiste, si les codébiteurs ou les cautions refusent d'accéder au nouvel arrangement.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1804-02-07
-
-	**Créé par**:
-
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
-
-
-#### Section 3 : De la remise de la dette.
-
-###### Article 1282
-
-La remise volontaire du titre original sous signature privée, par le créancier au débiteur, fait preuve de la libération.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1804-02-07
-
-	**Créé par**:
-
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
-
-
-###### Article 1283
-
-La remise volontaire de la grosse du titre fait présumer la remise de la dette ou le paiement, sans préjudice de la preuve
-contraire.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1804-02-07
-
-	**Créé par**:
-
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
-
-
-###### Article 1284
-
-La remise du titre original sous signature privée, ou de la grosse du titre, à l'un des débiteurs solidaires, a le même effet
-au profit de ses codébiteurs.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1804-02-07
-
-	**Créé par**:
-
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
-
-
-###### Article 1285
-
-La remise ou décharge conventionnelle au profit de l'un des codébiteurs solidaires, libère tous les autres, à moins que le
-créancier n'ait expressément réservé ses droits contre ces derniers.
-
-Dans ce dernier cas, il ne peut plus répéter la dette que déduction faite de la part de celui auquel il a fait la remise.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1804-02-07
-
-	**Créé par**:
-
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
-
-
-###### Article 1286
-
-La remise de la chose donnée en gage ou en nantissement ne suffit point pour faire présumer la remise de la dette.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1804-02-07
-
-	**Modifié par**:
-
-	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 50 () JORF 24 mars 2006
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
-
-
-###### Article 1287
-
-La remise ou décharge conventionnelle accordée au débiteur principal libère les cautions ;
-
-Celle accordée à la caution ne libère pas le débiteur principal ;
-
-Celle accordée à l'une des cautions ne libère pas les autres.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1804-02-07
-
-	**Créé par**:
-
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
-
-
-###### Article 1288
-
-Ce que le créancier a reçu d'une caution pour la décharge de son cautionnement doit être imputé sur la dette, et tourner à la
-décharge du débiteur principal et des autres cautions.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1804-02-07
-
-	**Créé par**:
-
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
-
-
-#### Section 4 : De la compensation.
-
-###### Article 1289
-
-Lorsque deux personnes se trouvent débitrices l'une envers l'autre, il s'opère entre elles une compensation qui éteint les
-deux dettes, de la manière et dans les cas ci-après exprimés.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1804-02-07
-
-	**Créé par**:
-
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
-
-
-###### Article 1290
-
-La compensation s'opère de plein droit par la seule force de la loi, même à l'insu des débiteurs ; les deux dettes
-s'éteignent réciproquement, à l'instant où elles se trouvent exister à la fois, jusqu'à concurrence de leurs quotités
-respectives.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1804-02-07
-
-	**Créé par**:
-
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
-
-
-###### Article 1291
-
-La compensation n'a lieu qu'entre deux dettes qui ont également pour objet une somme d'argent, ou une certaine quantité de
-choses fongibles de la même espèce et qui sont également liquides et exigibles.
-
-Les prestations en grains ou denrées, non contestées, et dont le prix est réglé par les mercuriales, peuvent se compenser
-avec des sommes liquides et exigibles.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1804-02-07
-
-	**Créé par**:
-
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
-
-
-###### Article 1292
-
-Le terme de grâce n'est point un obstacle à la compensation.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1804-02-07
-
-	**Créé par**:
-
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
-
-
-###### Article 1293
-
-La compensation a lieu, quelles que soient les causes de l'une ou l'autre des dettes, excepté dans le cas :
-
-1° De la demande en restitution d'une chose dont le propriétaire a été injustement dépouillé ;
-
-2° De la demande en restitution d'un dépôt et du prêt à usage ;
-
-3° D'une dette qui a pour cause des aliments déclarés insaisissables.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1804-02-07
-
-	**Créé par**:
-
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
-
-
-###### Article 1294
-
-La caution peut opposer la compensation de ce que le créancier doit au débiteur principal ;
-
-Mais le débiteur principal ne peut opposer la compensation de ce que le créancier doit à la caution.
-
-Le débiteur solidaire ne peut pareillement opposer la compensation de ce que le créancier doit à son codébiteur.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1804-02-07
-
-	**Créé par**:
-
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
-
-
-###### Article 1295
-
-Le débiteur qui a accepté purement et simplement la cession qu'un créancier a faite de ses droits à un tiers, ne peut plus
-opposer au cessionnaire la compensation qu'il eût pu, avant l'acceptation, opposer au cédant.
-
-A l'égard de la cession qui n'a point été acceptée par le débiteur, mais qui lui a été signifiée, elle n'empêche que la
-compensation des créances postérieures à cette notification.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1804-02-07
-
-	**Créé par**:
-
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
-
-
-###### Article 1296
-
-Lorsque les deux dettes ne sont pas payables au même lieu, on n'en peut opposer la compensation qu'en faisant raison des
-frais de la remise.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1804-02-07
-
-	**Créé par**:
-
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
-
-
-###### Article 1297
-
-Lorsqu'il y a plusieurs dettes compensables dues par la même personne, on suit, pour la compensation, les règles établies
-pour l'imputation par l'article 1256.
-
-**Liens relatifs à cet article**
+	  - Loi n°2016-1087 du 8 août 2016 - art. 4
 
 	**Cite**:
 
-	  - Code civil - art. 1256 (Ab)
-
-	**Codifié par**:
-
-	  - Loi n°1804-02-07
-
-	**Créé par**:
-
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
+	  - Code civil - art. 1248 (V)
 
 
-###### Article 1298
-
-La compensation n'a pas lieu au préjudice des droits acquis à un tiers. Ainsi celui qui, étant débiteur, est devenu créancier
-depuis la  saisie faite par un tiers entre ses mains, ne peut, au préjudice du saisissant, opposer la compensation.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1804-02-07
-
-	**Modifié par**:
-
-	  - Ordonnance n°2011-1895 du 19 décembre 2011 - art. 3
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
-
-
-###### Article 1299
-
-Celui qui a payé une dette qui était, de droit, éteinte par la compensation, ne peut plus, en exerçant la créance dont il n'a
-point opposé la compensation, se prévaloir, au préjudice des tiers, des privilèges ou hypothèques qui y étaient attachés, à
-moins qu'il n'ait eu une juste cause d'ignorer la créance qui devait compenser sa dette.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1804-02-07
-
-	**Créé par**:
-
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
-
-
-#### Section 5 : De la confusion.
+### Sous-titre III : Autres sources d'obligations 
 
 ###### Article 1300
 
-Lorsque les qualités de créancier et de débiteur se réunissent dans la même personne, il se fait une confusion de droit qui
-éteint les deux créances.
+Les quasi-contrats sont des faits purement volontaires dont il résulte un engagement de celui qui en profite sans y avoir
+droit, et parfois un engagement de leur auteur envers autrui. 
+
+Les quasi-contrats régis par le présent sous-titre sont la gestion d'affaire, le paiement de l'indu et l'enrichissement
+injustifié.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
 	**Cité par**:
 
@@ -43917,19 +43377,14 @@ Lorsque les qualités de créancier et de débiteur se réunissent dans la même
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
 
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
-
+#### Chapitre Ier : La gestion d'affaires 
 
 ###### Article 1301
 
-La confusion qui s'opère dans la personne du débiteur principal, profite à ses cautions ;
-
-Celle qui s'opère dans la personne de la caution, n'entraîne point l'extinction de l'obligation principale ;
-
-Celle qui s'opère dans la personne du créancier, ne profite à ses codébiteurs solidaires que pour la portion dont il était
-débiteur.
+Celui qui, sans y être tenu, gère sciemment et utilement l'affaire d'autrui, à l'insu ou sans opposition du maître de cette
+affaire, est soumis, dans l'accomplissement des actes juridiques et matériels de sa gestion, à toutes les obligations d'un
+mandataire.
 
 **Liens relatifs à cet article**
 
@@ -43937,26 +43392,88 @@ débiteur.
 
 	  - Loi n°1804-02-07
 
+	**Modifié par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
+
+
+###### Article 1301-1
+
+Il est tenu d'apporter à la gestion de l'affaire tous les soins d'une personne raisonnable ; il doit poursuivre la gestion
+jusqu'à ce que le maître de l'affaire ou son successeur soit en mesure d'y pourvoir. 
+
+Le juge peut, selon les circonstances, modérer l'indemnité due au maître de l'affaire en raison des fautes ou de la
+négligence du gérant.
+
+**Liens relatifs à cet article**
+
 	**Créé par**:
 
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
 
-#### Section 6 : De la perte de la chose due.
+###### Article 1301-2
+
+Celui dont l'affaire a été utilement gérée doit remplir les engagements contractés dans son intérêt par le gérant. 
+
+Il rembourse au gérant les dépenses faites dans son intérêt et l'indemnise des dommages qu'il a subis en raison de sa
+gestion. 
+
+Les sommes avancées par le gérant portent intérêt du jour du paiement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
+
+
+###### Article 1301-3
+
+La ratification de la gestion par le maître vaut mandat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
+
+
+###### Article 1301-4
+
+L'intérêt personnel du gérant à se charger de l'affaire d'autrui n'exclut pas l'application des règles de la gestion
+d'affaires. 
+
+Dans ce cas, la charge des engagements, des dépenses et des dommages se répartit à proportion des intérêts de chacun dans
+l'affaire commune.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
+
+
+###### Article 1301-5
+
+Si l'action du gérant ne répond pas aux conditions de la gestion d'affaires mais profite néanmoins au maître de cette
+affaire, celui-ci doit indemniser le gérant selon les règles de l'enrichissement injustifié.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
+
+
+#### Chapitre II : Le paiement de l'indu 
+
 
 ###### Article 1302
 
-Lorsque le corps certain et déterminé qui était l'objet de l'obligation vient à périr, est mis hors du commerce, ou se perd
-de manière qu'on en ignore absolument l'existence, l'obligation est éteinte si la chose a péri ou a été perdue sans la faute
-du débiteur et avant qu'il fût en demeure.
+Tout paiement suppose une dette ; ce qui a été reçu sans être dû est sujet à restitution. 
 
-Lors même que le débiteur est en demeure, et s'il ne s'est pas chargé des cas fortuits, l'obligation est éteinte dans le cas
-où la chose fût également périe chez le créancier si elle lui eût été livrée.
-
-Le débiteur est tenu de prouver le cas fortuit qu'il allègue.
-
-De quelque manière que la chose volée ait péri ou ait été perdue, sa perte ne dispense pas celui qui l'a soustraite, de la
-restitution du prix.
+La restitution n'est pas admise à l'égard des obligations naturelles qui ont été volontairement acquittées.
 
 **Liens relatifs à cet article**
 
@@ -43969,15 +43486,66 @@ restitution du prix.
 
 	  - Loi n°1804-02-07
 
+	**Modifié par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
+
+	**Anciens textes**:
+
+	  - Code civil - art. 1235 (Ab)
+
+
+###### Article 1302-1
+
+Celui qui reçoit par erreur ou sciemment ce qui ne lui est pas dû doit le restituer à celui de qui il l'a indûment reçu.
+
+**Liens relatifs à cet article**
+
 	**Créé par**:
 
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
+
+###### Article 1302-2
+
+Celui qui par erreur ou sous la contrainte a acquitté la dette d'autrui peut agir en restitution contre le créancier.
+Néanmoins ce droit cesse dans le cas où le créancier, par suite du paiement, a détruit son titre ou abandonné les sûretés qui
+garantissaient sa créance. 
+
+La restitution peut aussi être demandée à celui dont la dette a été acquittée par erreur.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
+
+
+###### Article 1302-3
+
+La restitution est soumise aux règles fixées aux articles 1352 à 1352-9.
+
+Elle peut être réduite si le paiement procède d'une faute.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
+
+	**Cite**:
+
+	  - Code civil - art. 1352 (V)
+	  - Code civil - art. 1352-9 (V)
+
+
+#### Chapitre III : L'enrichissement injustifié 
 
 ###### Article 1303
 
-Lorsque la chose est périe, mise hors du commerce ou perdue, sans la faute du débiteur, il est tenu, s'il y a quelques droits
-ou actions en indemnité par rapport à cette chose, de les céder à son créancier.
+En dehors des cas de gestion d'affaires et de paiement de l'indu, celui qui bénéficie d'un enrichissement injustifié au
+détriment d'autrui doit, à celui qui s'en trouve appauvri, une indemnité égale à la moindre des deux valeurs de
+l'enrichissement et de l'appauvrissement.
 
 **Liens relatifs à cet article**
 
@@ -43985,25 +43553,74 @@ ou actions en indemnité par rapport à cette chose, de les céder à son créan
 
 	  - Loi n°1804-02-07
 
+	**Modifié par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
+
+
+###### Article 1303-1
+
+L'enrichissement est injustifié lorsqu'il ne procède ni de l'accomplissement d'une obligation par l'appauvri ni de son
+intention libérale.
+
+**Liens relatifs à cet article**
+
 	**Créé par**:
 
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
 
-#### Section 7 : De l'action en nullité ou en rescision des conventions.
+###### Article 1303-2
+
+Il n'y a pas lieu à indemnisation si l'appauvrissement procède d'un acte accompli par l'appauvri en vue d'un profit
+personnel. 
+
+L'indemnisation peut être modérée par le juge si l'appauvrissement procède d'une faute de l'appauvri.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
+
+
+###### Article 1303-3
+
+L'appauvri n'a pas d'action sur ce fondement lorsqu'une autre action lui est ouverte ou se heurte à un obstacle de droit, tel
+que la prescription.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
+
+
+###### Article 1303-4
+
+L'appauvrissement constaté au jour de la dépense, et l'enrichissement tel qu'il subsiste au jour de la demande, sont évalués
+au jour du jugement. En cas de mauvaise foi de l'enrichi, l'indemnité due est égale à la plus forte de ces deux valeurs.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
+
+
+## Titre IV : Du régime général des obligations
+
+### Chapitre Ier : Les modalités de l'obligation
+
+#### Section 1 : L'obligation conditionnelle
 
 ###### Article 1304
 
-Dans tous les cas où l'action en nullité ou en rescision d'une convention n'est pas limitée à un moindre temps par une loi
-particulière, cette action dure cinq ans.
+L'obligation est conditionnelle lorsqu'elle dépend d'un événement futur et incertain. 
 
-Ce temps ne court dans le cas de violence que du jour où elle a cessé ; dans le cas d'erreur ou de dol, du jour où ils ont
-été découverts.
+La condition est suspensive lorsque son accomplissement rend l'obligation pure et simple. 
 
-Le temps ne court, à l'égard des actes faits par un mineur, que du jour de la majorité ou de l'émancipation ; et à l'égard
-des actes faits par un majeur protégé, que du jour où il en a eu connaissance, alors qu'il était en situation de les refaire
-valablement. Il ne court contre les héritiers de la personne en tutelle ou en curatelle ou de la personne faisant l'objet
-d'une habilitation familiale que du jour du décès, s'il n'a commencé à courir auparavant.
+Elle est résolutoire lorsque son accomplissement entraîne l'anéantissement de l'obligation.
 
 **Liens relatifs à cet article**
 
@@ -44017,23 +43634,123 @@ d'une habilitation familiale que du jour du décès, s'il n'a commencé à couri
 	  - Code civil - art. 488 (V)
 	  - Code civil - art. 489 (VT)
 	  - Code civil - art. 491-2 (VT)
-	  - Code civil - art. 494-9 (VD)
 	  - Code civil - art. 510-1 (VT)
 	  - Code de procédure civile - art. 1200-2 (V)
 	  - Code général des impôts, CGI. - art. 1961 (VD)
 
 	**Modifié par**:
 
-	  - ORDONNANCE n°2015-1288 du 15 octobre 2015 - art. 14
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
 
 	**Codifié par**:
 
 	  - Loi n°1804-02-07
 
 
+###### Article 1304-1
+
+La condition doit être licite. A défaut, l'obligation est nulle.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
+
+
+###### Article 1304-2
+
+Est nulle l'obligation contractée sous une condition dont la réalisation dépend de la seule volonté du débiteur. Cette
+nullité ne peut être invoquée lorsque l'obligation a été exécutée en connaissance de cause.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
+
+
+###### Article 1304-3
+
+La condition suspensive est réputée accomplie si celui qui y avait intérêt en a empêché l'accomplissement. 
+
+La condition résolutoire est réputée défaillie si son accomplissement a été provoqué par la partie qui y avait intérêt.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
+
+
+###### Article 1304-4
+
+Une partie est libre de renoncer à la condition stipulée dans son intérêt exclusif, tant que celle-ci n'est pas accomplie.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
+
+
+###### Article 1304-5
+
+Avant que la condition suspensive ne soit accomplie, le débiteur doit s'abstenir de tout acte qui empêcherait la bonne
+exécution de l'obligation ; le créancier peut accomplir tout acte conservatoire et attaquer les actes du débiteur accomplis
+en fraude de ses droits. 
+
+Ce qui a été payé peut être répété tant que la condition suspensive ne s'est pas accomplie.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
+
+
+###### Article 1304-6
+
+L'obligation devient pure et simple à compter de l'accomplissement de la condition suspensive. 
+
+Toutefois, les parties peuvent prévoir que l'accomplissement de la condition rétroagira au jour du contrat. La chose, objet
+de l'obligation, n'en demeure pas moins aux risques du débiteur, qui en conserve l'administration et a droit aux fruits
+jusqu'à l'accomplissement de la condition. 
+
+En cas de défaillance de la condition suspensive, l'obligation est réputée n'avoir jamais existé.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
+
+
+###### Article 1304-7
+
+L'accomplissement de la condition résolutoire éteint rétroactivement l'obligation, sans remettre en cause, le cas échéant,
+les actes conservatoires et d'administration. 
+
+La rétroactivité n'a pas lieu si telle est la convention des parties ou si les prestations échangées ont trouvé leur utilité
+au fur et à mesure de l'exécution réciproque du contrat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
+
+	**Cité par**:
+
+	  - Code général des impôts, CGI. - art. 1961 (VD)
+
+
+#### Section 2 : L'obligation à terme 
+
 ###### Article 1305
 
-La simple lésion donne lieu à la rescision en faveur du mineur non émancipé, contre toutes sortes de conventions.
+L'obligation est à terme lorsque son exigibilité est différée jusqu'à la survenance d'un événement futur et certain, encore
+que la date en soit incertaine.
 
 **Liens relatifs à cet article**
 
@@ -44041,68 +43758,216 @@ La simple lésion donne lieu à la rescision en faveur du mineur non émancipé,
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
-
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
-
 	**Modifié par**:
 
-	  - Loi n°64-1230 du 14 décembre 1964 - art. 2
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
+
+
+###### Article 1305-1
+
+Le terme peut être exprès ou tacite. 
+
+A défaut d'accord, le juge peut le fixer en considération de la nature de l'obligation et de la situation des parties.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
+
+
+###### Article 1305-2
+
+Ce qui n'est dû qu'à terme ne peut être exigé avant l'échéance ; mais ce qui a été payé d'avance ne peut être répété.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
+
+
+###### Article 1305-3
+
+Le terme profite au débiteur, s'il ne résulte de la loi, de la volonté des parties ou des circonstances qu'il a été établi en
+faveur du créancier ou des deux parties. 
+
+La partie au bénéfice exclusif de qui le terme a été fixé peut y renoncer sans le consentement de l'autre.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
+
+
+###### Article 1305-4
+
+Le débiteur ne peut réclamer le bénéfice du terme s'il ne fournit pas les sûretés promises au créancier ou s'il diminue
+celles qui garantissent l'obligation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
+
+	**Cité par**:
+
+	  - Code de la consommation - art. L315-13 (V)
+
+
+###### Article 1305-5
+
+La déchéance du terme encourue par un débiteur est inopposable à ses coobligés, même solidaires.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
+
+
+#### Section 3 : L'obligation plurale 
+
+
+##### Sous-section 1 : La pluralité d'objets 
+
+##### Paragraphe 1 : L'obligation cumulative 
 
 
 ###### Article 1306
 
-Le mineur n'est pas restituable pour cause de lésion, lorsqu'elle ne résulte que d'un événement casuel et imprévu.
+L'obligation est cumulative lorsqu'elle a pour objet plusieurs prestations et que seule l'exécution de la totalité de celles-
+ci libère le débiteur.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Loi n°1804-02-07
-
-	**Créé par**:
-
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
-
-
-###### Article 1307
-
-La simple déclaration de majorité, faite par le mineur, ne fait point obstacle à sa restitution.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1804-02-07
-
-	**Créé par**:
-
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
-
-
-###### Article 1308
-
-Le mineur qui exerce une profession n'est point restituable contre les engagements qu'il a pris dans l'exercice de celle-ci.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1804-02-07
-
-	**Créé par**:
-
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
 
 	**Modifié par**:
 
-	  - Loi n°74-631 du 5 juillet 1974 - art. 9
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
+
+
+##### Paragraphe 2 : L'obligation alternative
+
+###### Article 1307
+
+L'obligation est alternative lorsqu'elle a pour objet plusieurs prestations et que l'exécution de l'une d'elles libère le
+débiteur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Modifié par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
+
+
+###### Article 1307-1
+
+Le choix entre les prestations appartient au débiteur. 
+
+Si le choix n'est pas exercé dans le temps convenu ou dans un délai raisonnable, l'autre partie peut, après mise en demeure,
+exercer ce choix ou résoudre le contrat. 
+
+Le choix exercé est définitif et fait perdre à l'obligation son caractère alternatif.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
+
+
+###### Article 1307-2
+
+Si elle procède d'un cas de force majeure, l'impossibilité d'exécuter la prestation choisie libère le débiteur.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
+
+
+###### Article 1307-3
+
+Le débiteur qui n'a pas fait connaître son choix doit, si l'une des prestations devient impossible, exécuter l'une des
+autres.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
+
+
+###### Article 1307-4
+
+Le créancier qui n'a pas fait connaître son choix doit, si l'une des prestations devient impossible à exécuter par suite d'un
+cas de force majeure, se contenter de l'une des autres.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
+
+
+###### Article 1307-5
+
+Lorsque les prestations deviennent impossibles, le débiteur n'est libéré que si l'impossibilité procède, pour chacune, d'un
+cas de force majeure.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
+
+
+##### Paragraphe 3 : L'obligation facultative 
+
+###### Article 1308
+
+L'obligation est facultative lorsqu'elle a pour objet une certaine prestation mais que le débiteur a la faculté, pour se
+libérer, d'en fournir une autre. 
+
+L'obligation facultative est éteinte si l'exécution de la prestation initialement convenue devient impossible pour cause de
+force majeure.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Modifié par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
+
+
+##### Sous-section 2 : La pluralité de sujets 
 
 
 ###### Article 1309
 
-Le mineur n'est point restituable contre les conventions portées en son contrat de mariage, lorsqu'elles ont été faites avec
-le consentement et l'assistance de ceux dont le consentement est requis pour la validité de son mariage.
+L'obligation qui lie plusieurs créanciers ou débiteurs se divise de plein droit entre eux. La division a lieu également entre
+leurs successeurs, l'obligation fût-elle solidaire. Si elle n'est pas réglée autrement par la loi ou par le contrat, la
+division a lieu par parts égales. 
+
+Chacun des créanciers n'a droit qu'à sa part de la créance commune ; chacun des débiteurs n'est tenu que de sa part de la
+dette commune. 
+
+Il n'en va autrement, dans les rapports entre les créanciers et les débiteurs, que si l'obligation est solidaire ou si la
+prestation due est indivisible.
 
 **Liens relatifs à cet article**
 
@@ -44110,14 +43975,16 @@ le consentement et l'assistance de ceux dont le consentement est requis pour la 
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
 
+
+##### Paragraphe 1 : L'obligation solidaire
 
 ###### Article 1310
 
-Il n'est point restituable contre les obligations résultant de son délit ou quasi-délit.
+La solidarité est légale ou conventionnelle ; elle ne se présume pas.
 
 **Liens relatifs à cet article**
 
@@ -44125,15 +43992,17 @@ Il n'est point restituable contre les obligations résultant de son délit ou qu
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
 
 
 ###### Article 1311
 
-Il n'est plus recevable à revenir contre l'engagement qu'il avait souscrit en minorité, lorsqu'il l'a ratifié en majorité,
-soit que cet engagement fût nul en sa forme, soit qu'il fût seulement sujet à restitution.
+La solidarité entre créanciers permet à chacun d'eux d'exiger et de recevoir le paiement de toute la créance. Le paiement
+fait à l'un d'eux, qui en doit compte aux autres, libère le débiteur à l'égard de tous. 
+
+Le débiteur peut payer l'un ou l'autre des créanciers solidaires tant qu'il n'est pas poursuivi par l'un d'eux.
 
 **Liens relatifs à cet article**
 
@@ -44141,16 +44010,15 @@ soit que cet engagement fût nul en sa forme, soit qu'il fût seulement sujet à
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
 
 
 ###### Article 1312
 
-Lorsque les mineurs ou les majeurs en tutelle sont admis, en ces qualités, à se faire restituer contre leurs engagements, le
-remboursement de ce qui aurait été, en conséquence de ces engagements, payé pendant la minorité ou la tutelle des majeurs, ne
-peut en être exigé, à moins qu'il ne soit prouvé que ce qui a été payé a tourné à leur profit.
+Tout acte qui interrompt ou suspend la prescription à l'égard de l'un des créanciers solidaires, profite aux autres
+créanciers.
 
 **Liens relatifs à cet article**
 
@@ -44163,36 +44031,37 @@ peut en être exigé, à moins qu'il ne soit prouvé que ce qui a été payé a 
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
 
 
 ###### Article 1313
 
-Les majeurs ne sont restitués pour cause de lésion que dans les cas et sous les conditions spécialement exprimés dans le
-présent code.
+La solidarité entre les débiteurs oblige chacun d'eux à toute la dette. Le paiement fait par l'un d'eux les libère tous
+envers le créancier. 
+
+Le créancier peut demander le paiement au débiteur solidaire de son choix. Les poursuites exercées contre l'un des débiteurs
+solidaires n'empêchent pas le créancier d'en exercer de pareilles contre les autres.
 
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Modifié par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
 
 	**Cité par**:
 
 	  - Code rural et de la pêche maritime - art. R343-26 (V)
 
-	**Codifié par**:
-
-	  - Loi n°1804-02-07
-
-	**Créé par**:
-
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
-
 
 ###### Article 1314
 
-Lorsque les formalités requises à l'égard des mineurs ou des majeurs en tutelle, soit pour aliénation d'immeubles, soit dans
-un partage de succession, ont été remplies, ils sont, relativement à ces actes, considérés comme s'ils les avaient faits en
-majorité ou avant la tutelle des majeurs.
+La demande d'intérêts formée contre l'un des débiteurs solidaires fait courir les intérêts à l'égard de tous.
 
 **Liens relatifs à cet article**
 
@@ -44200,64 +44069,34 @@ majorité ou avant la tutelle des majeurs.
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
-
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
-
-
-### Chapitre VI : De la preuve des obligations et de celle du paiement.
-
-###### Article 1315
-
-Celui qui réclame l'exécution d'une obligation doit la prouver.
-
-Réciproquement, celui qui se prétend libéré doit justifier le paiement ou le fait qui a produit l'extinction de son
-obligation.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1804-02-07
-
-	**Créé par**:
-
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
-
-
-###### Article 1315-1
-
-Les règles qui concernent la preuve littérale, la preuve testimoniale, les présomptions, l'aveu de la partie et le serment,
-sont expliquées dans les sections suivantes.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1804-02-07
-
-	**Transféré par**:
-
-	  - Loi n°2000-30 2000-03-13 art. 1 JORF 14 mars 2000
-
-	**Abrogé par**:
+	**Modifié par**:
 
 	  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
 
-	**Anciens textes**:
 
-	  - Code civil - art. 1316 (T)
-	  - Code civil 1316 (ancienne version)
+###### Article 1315
 
+Le débiteur solidaire poursuivi par le créancier peut opposer les exceptions qui sont communes à tous les codébiteurs, telles
+que la nullité ou la résolution, et celles qui lui sont personnelles. Il ne peut opposer les exceptions qui sont personnelles
+à d'autres codébiteurs, telle que l'octroi d'un terme. Toutefois, lorsqu'une exception personnelle à un autre codébiteur
+éteint la part divise de celui-ci, notamment en cas de compensation ou de remise de dette, il peut s'en prévaloir pour la
+faire déduire du total de la dette.
 
-#### Section 1 : De la preuve littérale.
+**Liens relatifs à cet article**
 
-##### Paragraphe 1 : Dispositions générales.
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Modifié par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
+
 
 ###### Article 1316
 
-La preuve littérale, ou preuve par écrit, résulte d'une suite de lettres, de caractères, de chiffres ou de tous autres signes
-ou symboles dotés d'une signification intelligible, quels que soient leur support et leurs modalités de transmission.
+Le créancier qui reçoit paiement de l'un des codébiteurs solidaires et lui consent une remise de solidarité conserve sa
+créance contre les autres, déduction faite de la part du débiteur qu'il a déchargé.
 
 **Liens relatifs à cet article**
 
@@ -44274,244 +44113,23 @@ ou symboles dotés d'une signification intelligible, quels que soient leur suppo
 	  - Arrêté du 24 juillet 2014 - art. 2 (M)
 	  - Code général des collectivités territoriales - art. R1415-7 (VT)
 
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
 	**Modifié par**:
 
-	  - Loi n°2000-230 du 13 mars 2000 - art. 1 () JORF 14 mars 2000
-
-	**Codifié par**:
-
-	  - Loi n°1804-02-07
-
-
-###### Article 1316-1
-
-L'écrit sous forme électronique est admis en preuve au même titre que l'écrit sur support papier, sous réserve que puisse
-être dûment identifiée la personne dont il émane et qu'il soit établi et conservé dans des conditions de nature à en garantir
-l'intégrité.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Loi du 1er juin 1924 - art. 36-2 (V)
-	  - Loi du 1er juin 1924 - art. 36-3 (V)
-	  - Loi du 1er juin 1924 - art. 40 (VD)
-	  - Décret n°67-223 du 17 mars 1967 - art. 14 (VD)
-	  - Décret n°67-223 du 17 mars 1967 - art. 17 (M)
-	  - Décret n°98-247 du 2 avril 1998 - art. 19 (V)
-	  - Décret n°98-247 du 2 avril 1998 - art. 21 (M)
-	  - Loi n°2002-306 du 4 mars 2002 - art. 2 (MMN)
-	  - Décret n°2006-85 du 27 janvier 2006 - art. 3 (Ab)
-	  - Loi n°2009-323 du 25 mars 2009 - art. 102
-	  - Arrêté du 21 juin 2011 (V)
-	  - Décret n°2013-559 du 26 juin 2013 - art. 40 (M)
-	  - Arrêté du 24 juillet 2014 - art. 2 (M)
-	  - Code civil - art. 1108-1 (Ab)
-	  - Code civil - art. 1325 (V)
-	  - Code civil - art. 2307 (MMN)
-	  - Code civil - art. 2513 (V)
-	  - Code de commerce - art. R310-15 (Ab)
-	  - Code de commerce. - art. R762-5 (M)
-	  - Code du tourisme. - art. R211-48 (M)
-	  - Code du tourisme. - art. R211-49 (M)
-	  - Code rural et de la pêche maritime - art. R141-2-3 (VD)
-	  - Code rural et de la pêche maritime - art. R143-4 (V)
-	  - Code rural et de la pêche maritime - art. R143-6 (VD)
-	  - Nouveau code de procédure civile - art. 287 (M)
-
-	**Abrogé par**:
-
 	  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
 
-	**Codifié par**:
-
-	  - Loi n°1804-02-07
-
-	**Créé par**:
-
-	  - Loi n°2000-230 du 13 mars 2000 - art. 1 () JORF 14 mars 2000
-
-
-###### Article 1316-2
-
-Lorsque la loi n'a pas fixé d'autres principes, et à défaut de convention valable entre les parties, le juge règle les
-conflits de preuve littérale en déterminant par tous moyens le titre le plus vraisemblable, quel qu'en soit le support.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1804-02-07
-
-	**Créé par**:
-
-	  - Loi n°2000-230 du 13 mars 2000 - art. 1 () JORF 14 mars 2000
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
-
-
-###### Article 1316-3
-
-L'écrit sur support électronique a la même force probante que l'écrit sur support papier.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1804-02-07
-
-	**Cité par**:
-
-	  - Loi du 1er juin 1924 - art. 36-2 (V)
-
-	**Créé par**:
-
-	  - Loi n°2000-230 du 13 mars 2000 - art. 3 () JORF 14 mars 2000
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
-
-
-###### Article 1316-4
-
-La signature nécessaire à la perfection d'un acte juridique identifie celui qui l'appose. Elle manifeste le consentement des
-parties aux obligations qui découlent de cet acte. Quand elle est apposée par un officier public, elle confère l'authenticité
-à l'acte.
-
-Lorsqu'elle est électronique, elle consiste en l'usage d'un procédé fiable d'identification garantissant son lien avec l'acte
-auquel elle s'attache. La fiabilité de ce procédé est présumée, jusqu'à preuve contraire, lorsque la signature électronique
-est créée, l'identité du signataire assurée et l'intégrité de l'acte garantie, dans des conditions fixées par décret en
-Conseil d'Etat.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Loi du 1er juin 1924 - art. 36-2 (V)
-	  - Décret n°56-222 du 29 février 1956 - art. 26 (V)
-	  - Décret n°58-1345 du 23 décembre 1958 - art. 10-1 (Ab)
-	  - Décret n°67-223 du 17 mars 1967 - art. 17 (M)
-	  - Décret n°67-236 du 23 mars 1967 - art. 131-3 (Ab)
-	  - Décret n°67-236 du 23 mars 1967 - art. 132 (Ab)
-	  - Décret n°71-941 du 26 novembre 1971 - art. 17 (M)
-	  - Décret n°84-406 du 30 mai 1984 - art. 1 (Ab)
-	  - Décret n°96-650 du 19 juillet 1996 - art. 9-1 (Ab)
-	  - Décret n°98-247 du 2 avril 1998 - art. 21 (M)
-	  - Décret n°2001-272 du 30 mars 2001 - art. 1 (M)
-	  - Décret n°2006-1803 du 23 décembre 2006 - art. 3 (Ab)
-	  - Décret n°2006-1804 du 23 décembre 2006 - art. 1 (M)
-	  - Arrêté du 17 juin 2008 (V)
-	  - Arrêté du 25 septembre 2008 (V)
-	  - Décret n°2008-1404 du 19 décembre 2008 (V)
-	  - Arrêté du 7 avril 2009 (V)
-	  - Décret n°2009-834 du 7 juillet 2009 (V)
-	  - Décret n°2009-1150 du 25 septembre 2009 (V)
-	  - Décret n°2009-1193 du 7 octobre 2009 (V)
-	  - Décret n°2009-1193 du 7 octobre 2009 - art. 51 (M)
-	  - Décret n°2009-1193 du 7 octobre 2009 - art. 52 (M)
-	  - Décret n°2009-1193 du 7 octobre 2009 - art. 58 (M)
-	  - Décret n°2009-1193 du 7 octobre 2009 - art. 81 (M)
-	  - Arrêté du 14 décembre 2009 (Ab)
-	  - Arrêté du 23 décembre 2009 (V)
-	  - Arrêté du 20 avril 2010 (V)
-	  - Décret n°2010-434 du 29 avril 2010 (VT)
-	  - Arrêté du 5 mai 2010 (V)
-	  - Décret n°2010-671 du 18 juin 2010 (V)
-	  - Décret n°2010-872 du 26 juillet 2010 (V)
-	  - Décret n°2010-1008 du 30 août 2010 (V)
-	  - Arrêté du 27 octobre 2010 (V)
-	  - Arrêté du 23 décembre 2010 (P)
-	  - Décret n°2011-167 du 10 février 2011 (V)
-	  - Arrêté du 30 mars 2011 (V)
-	  - Arrêté du 21 juin 2011 (V)
-	  - Décret n°2011-763 du 28 juin 2011 (V)
-	  - Arrêté du 3 août 2011 (V)
-	  - Décret n°2012-298 du 2 mars 2012 (V)
-	  - Arrêté du 18 avril 2012 (V)
-	  - Arrêté du 15 juin 2012 (V)
-	  - Arrêté du 28 août 2012 (V)
-	  - Arrêté du 10 septembre 2012 (V)
-	  - Décret n°2012-1515 du 28 décembre 2012 (V)
-	  - Arrêté du 20 décembre 2012 (V)
-	  - Décret n°2013-30 du 9 janvier 2013 (V)
-	  - Arrêté du 12 mars 2013 (Ab)
-	  - Arrêté du 12 mars 2013 (V)
-	  - Arrêté du 22 avril 2013 (V)
-	  - Décret n°2013-414 du 21 mai 2013 (V)
-	  - Arrêté du 7 mai 2013 (V)
-	  - Arrêté du 21 juin 2013 (V)
-	  - Arrêté du 12 juillet 2013 (V)
-	  - Arrêté du 12 juillet 2013 - art. 4 (M)
-	  - Arrêté du 18 octobre 2013 (V)
-	  - Arrêté du 6 mai 2014 (V)
-	  - Arrêté du 4 septembre 2014 (V)
-	  - Décret n°2015-731 du 24 juin 2015 - art. 6 (M)
-	  - Décret n°2015-1325 du 21 octobre 2015 (V)
-	  - Décret n°2016-46 du 26 janvier 2016 (V)
-	  - Arrêté du 9 février 2016 (V)
-	  - Décret n°2016-1673 du 5 décembre 2016 (V)
-	  - Arrêté du 20 janvier 2017 (V)
-	  - Code civil - art. 1108-1 (Ab)
-	  - Code civil - art. 1325 (V)
-	  - Code de commerce - art. A123-30 (VD)
-	  - Code de commerce - art. A123-53 (M)
-	  - Code de commerce - art. R123-152-2 (V)
-	  - Code de commerce - art. R123-24 (M)
-	  - Code de commerce - art. R123-77 (M)
-	  - Code de commerce - art. R134-13 (V)
-	  - Code de commerce - art. R225-79 (V)
-	  - Code de commerce - art. R526-20 (M)
-	  - Code de commerce. - art. R225-77 (V)
-	  - Code de commerce. - art. R527-3 (M)
-	  - Code de justice administrative - art. R414-2 (VD)
-	  - Code de la propriété intellectuelle - art. R331-36 (M)
-	  - Code de la santé publique - art. R1142-41-1 (V)
-	  - Code de la santé publique - art. R1335-8-10 (V)
-	  - Code de la santé publique - art. R1413-2-2 (T)
-	  - Code de la santé publique - art. R1413-22 (V)
-	  - Code de la santé publique - art. R3115-38 (VD)
-	  - Code de la santé publique - art. R3115-43 (M)
-	  - Code de la santé publique - art. R4113-107-1 (V)
-	  - Code de la santé publique - art. R5139-19 (V)
-	  - Code de la santé publique - art. R6111-20 (V)
-	  - Code de procédure civile - art. 456 (V)
-	  - Code de procédure pénale - art. R249-10 (V)
-	  - Code des juridictions financières - art. R141-10 (M)
-	  - Code des juridictions financières - art. R241-33 (M)
-	  - Code monétaire et financier - art. D514-9 (V)
-	  - Code rural et de la pêche maritime - art. R141-2-3 (VD)
-	  - Code rural et de la pêche maritime - art. R311-2-3 (M)
-	  - Nouveau code de procédure civile - art. 287 (M)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°2000-230 2000-03-13 art. 5 *champ d'application territoriale*
-
-	**Créé par**:
-
-	  - Loi n°2000-230 du 13 mars 2000 - art. 4 () JORF 14 mars 2000
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
-
-	**Codifié par**:
-
-	  - Loi n°1804-02-07
-
-
-##### Paragraphe 2 : Du titre authentique.
 
 ###### Article 1317
 
-L'acte authentique est celui qui a été reçu par officiers publics ayant le droit d'instrumenter dans le lieu où l'acte a été
-rédigé, et avec les solennités requises.
+Entre eux, les codébiteurs solidaires ne contribuent à la dette que chacun pour sa part. 
 
-Il peut être dressé sur support électronique s'il est établi et conservé dans des conditions fixées par décret en Conseil
-d'Etat.
+Celui qui a payé au-delà de sa part dispose d'un recours contre les autres à proportion de leur propre part. 
+
+Si l'un d'eux est insolvable, sa part se répartit, par contribution, entre les codébiteurs solvables, y compris celui qui a
+fait le paiement et celui qui a bénéficié d'une remise de solidarité.
 
 **Liens relatifs à cet article**
 
@@ -44519,44 +44137,30 @@ d'Etat.
 
 	  - Décret n°79-1039 du 3 décembre 1979 - art. 2 (Ab)
 	  - Décret n°2009-1125 du 17 septembre 2009 - art. 1
+	  - Code civil - art. 1108-1 (Ab)
 	  - Code du patrimoine. - art. R213-2 (M)
 	  - Loi du 16 mars 1803 - art. 10 (Ab)
 
 	**Modifié par**:
 
-	  - Loi n°2000-230 du 13 mars 2000 - art. 1 () JORF 14 mars 2000
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
 
 	**Codifié par**:
 
 	  - Loi n°1804-02-07
 
 
-###### Article 1317-1
-
-L'acte reçu en la forme authentique par un notaire est, sauf disposition dérogeant expressément au présent article, dispensé
-de toute mention manuscrite exigée par la loi.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°2011-331 du 28 mars 2011 - art. 11
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
-
-
 ###### Article 1318
 
-L'acte qui n'est point authentique par l'incompétence ou l'incapacité de l'officier, ou par un défaut de forme, vaut comme
-écriture privée, s'il a été signé des parties.
+Si la dette procède d'une affaire qui ne concerne que l'un des codébiteurs solidaires, celui-ci est seul tenu de la dette à
+l'égard des autres. S'il l'a payée, il ne dispose d'aucun recours contre ses codébiteurs. Si ceux-ci l'ont payée, ils
+disposent d'un recours contre lui.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2000-230 du 13 mars 2000 - art. 1 () JORF 14 mars 2000
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
 
 	**Cité par**:
 
@@ -44569,12 +44173,8 @@ L'acte qui n'est point authentique par l'incompétence ou l'incapacité de l'off
 
 ###### Article 1319
 
-L'acte authentique fait pleine foi de la convention qu'il renferme entre les parties contractantes et leurs héritiers ou
-ayants cause.
-
-Néanmoins, en cas de plaintes en faux principal, l'exécution de l'acte argué de faux sera suspendue par la mise en
-accusation ; et, en cas d'inscription de faux faite incidemment, les tribunaux pourront, suivant les circonstances, suspendre
-provisoirement l'exécution de l'acte.
+Les codébiteurs solidaires répondent solidairement de l'inexécution de l'obligation. La charge en incombe à titre définitif à
+ceux auxquels l'inexécution est imputable.
 
 **Liens relatifs à cet article**
 
@@ -44584,14 +44184,21 @@ provisoirement l'exécution de l'acte.
 
 	**Modifié par**:
 
-	  - Loi n°2000-230 du 13 mars 2000 - art. 1 () JORF 14 mars 2000
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
 
+
+##### Paragraphe 2 : L'obligation à prestation indivisible 
 
 ###### Article 1320
 
-L'acte, soit authentique, soit sous seing privé, fait foi entre les parties, même de ce qui n'y est exprimé qu'en termes
-énonciatifs, pourvu que l'énonciation ait un rapport direct à la disposition. Les énonciations étrangères à la disposition ne
-peuvent servir que d'un commencement de preuve.
+Chacun des créanciers d'une obligation à prestation indivisible, par nature ou par contrat, peut en exiger et en recevoir le
+paiement intégral, sauf à rendre compte aux autres ; mais il ne peut seul disposer de la créance ni recevoir le prix au lieu
+de la chose. 
+
+Chacun des débiteurs d'une telle obligation en est tenu pour le tout ; mais il a ses recours en contribution contre les
+autres. 
+
+Il en va de même pour chacun des successeurs de ces créanciers et débiteurs.
 
 **Liens relatifs à cet article**
 
@@ -44601,19 +44208,33 @@ peuvent servir que d'un commencement de preuve.
 
 	**Modifié par**:
 
-	  - Loi n°2000-230 du 13 mars 2000 - art. 1 () JORF 14 mars 2000
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
 
+
+### Chapitre II : Les opérations sur obligations 
+
+#### Section 1 : La cession de créance 
 
 ###### Article 1321
 
-Les contre-lettres ne peuvent avoir leur effet qu'entre les parties contractantes ; elles n'ont point d'effet contre les
-tiers.
+La cession de créance est un contrat par lequel le créancier cédant transmet, à titre onéreux ou gratuit, tout ou partie de
+sa créance contre le débiteur cédé à un tiers appelé le cessionnaire. 
+
+Elle peut porter sur une ou plusieurs créances présentes ou futures, déterminées ou déterminables. 
+
+Elle s'étend aux accessoires de la créance. 
+
+Le consentement du débiteur n'est pas requis, à moins que la créance ait été stipulée incessible.
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
 	**Modifié par**:
 
-	  - Loi n°2000-230 du 13 mars 2000 - art. 1 () JORF 14 mars 2000
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
 
 	**Cité par**:
 
@@ -44621,44 +44242,10 @@ tiers.
 	  - Code de commerce - art. L525-6 (VD)
 	  - Code monétaire et financier - art. L223-13 (VD)
 
-	**Codifié par**:
-
-	  - Loi n°1804-02-07
-
-
-###### Article 1321-1
-
-Est nulle et de nul effet toute contre-lettre ayant pour objet une augmentation du prix stipulé dans le traité de cession
-d'un office ministériel et toute convention ayant pour but de dissimuler partie du prix d'une vente d'immeubles ou d'une
-cession de fonds de commerce ou de clientèle ou d'une cession d'un droit à un bail ou du bénéfice d'une promesse de bail
-portant sur tout ou partie d'un immeuble et tout ou partie de la soulte d'un échange ou d'un partage comprenant des biens
-immeubles, un fonds de commerce ou une clientèle.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1804-02-07
-
-	**Créé par**:
-
-	  - Ordonnance n°2005-1512 du 7 décembre 2005 - art. 24 () JORF 8 décembre 2005 en vigueur le 1er janvier 2006
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
-
-	**Cité par**:
-
-	  - Code général des impôts, CGI. - art. 864 (V)
-
-
-##### Paragraphe 3 : De l'acte sous seing privé.
 
 ###### Article 1322
 
-L'acte sous seing privé, reconnu par celui auquel on l'oppose, ou légalement tenu pour reconnu, a, entre ceux qui l'ont
-souscrit et entre leurs héritiers et ayants cause, la même foi que l'acte authentique.
+La cession de créance doit être constatée par écrit, à peine de nullité.
 
 **Liens relatifs à cet article**
 
@@ -44673,16 +44260,18 @@ souscrit et entre leurs héritiers et ayants cause, la même foi que l'acte auth
 
 	**Modifié par**:
 
-	  - Loi n°2000-230 du 13 mars 2000 - art. 1 () JORF 14 mars 2000
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
 
 
 ###### Article 1323
 
-Celui auquel on oppose un acte sous seing privé est obligé d'avouer ou de désavouer formellement son écriture ou sa
-signature.
+Entre les parties, le transfert de la créance s'opère à la date de l'acte. 
 
-Ses héritiers ou ayants cause peuvent se contenter de déclarer qu'ils ne connaissent point l'écriture ou la signature de leur
-auteur.
+Il est opposable aux tiers dès ce moment. En cas de contestation, la preuve de la date de la cession incombe au cessionnaire,
+qui peut la rapporter par tout moyen. 
+
+Toutefois, le transfert d'une créance future n'a lieu qu'au jour de sa naissance, tant entre les parties que vis-à-vis des
+tiers.
 
 **Liens relatifs à cet article**
 
@@ -44692,13 +44281,20 @@ auteur.
 
 	**Modifié par**:
 
-	  - Loi n°2000-230 du 13 mars 2000 - art. 1 () JORF 14 mars 2000
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
 
 
 ###### Article 1324
 
-Dans le cas où la partie désavoue son écriture ou sa signature, et dans le cas où ses héritiers ou ayants cause déclarent ne
-les point connaître, la vérification en est ordonnée en justice.
+La cession n'est opposable au débiteur, s'il n'y a déjà consenti, que si elle lui a été notifiée ou s'il en a pris acte. 
+
+Le débiteur peut opposer au cessionnaire les exceptions inhérentes à la dette, telles que la nullité, l'exception
+d'inexécution, la résolution ou la compensation des dettes connexes. Il peut également opposer les exceptions nées de ses
+rapports avec le cédant avant que la cession lui soit devenue opposable, telles que l'octroi d'un terme, la remise de dette
+ou la compensation de dettes non connexes. 
+
+Le cédant et le cessionnaire sont solidairement tenus de tous les frais supplémentaires occasionnés par la cession dont le
+débiteur n'a pas à faire l'avance. Sauf clause contraire, la charge de ces frais incombe au cessionnaire.
 
 **Liens relatifs à cet article**
 
@@ -44708,24 +44304,13 @@ les point connaître, la vérification en est ordonnée en justice.
 
 	**Modifié par**:
 
-	  - Loi n°2000-230 du 13 mars 2000 - art. 1 () JORF 14 mars 2000
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
 
 
 ###### Article 1325
 
-Les actes sous seing privé qui contiennent des conventions synallagmatiques ne sont valables qu'autant qu'ils ont été faits
-en autant d'originaux qu'il y a de parties ayant un intérêt distinct. 
-
-Il suffit d'un original pour toutes les personnes ayant le même intérêt. 
-
-Chaque original doit contenir la mention du nombre des originaux qui en ont été faits. 
-
-Néanmoins, le défaut de mention que les originaux ont été faits doubles, triples, etc., ne peut être opposé par celui qui a
-exécuté de sa part la convention portée dans l'acte.
-
-L'exigence d'une pluralité d'originaux est réputée satisfaite pour les contrats sous forme électronique lorsque l'acte est
-établi et conservé conformément aux articles 1316-1 et 1316-4 et que le procédé permet à chaque partie de disposer d'un
-exemplaire ou d'y avoir accès.
+Le concours entre cessionnaires successifs d'une créance se résout en faveur du premier en date ; il dispose d'un recours
+contre celui auquel le débiteur aurait fait un paiement.
 
 **Liens relatifs à cet article**
 
@@ -44739,34 +44324,26 @@ exemplaire ou d'y avoir accès.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-674 du 16 juin 2005 - art. 2 () JORF 17 juin 2005
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
 
 	**Cite**:
 
-	  - Code civil - art. 1316-1 (V)
-	  - Code civil - art. 1316-4 (V)
+	  - Code civil - art. 1316-1
+	  - Code civil - art. 1316-4
 
 
 ###### Article 1326
 
-L'acte juridique par lequel une seule partie s'engage envers une autre à lui payer une somme d'argent ou à lui livrer un bien
-fongible doit être constaté dans un titre qui comporte la signature de celui qui souscrit cet engagement ainsi que la
-mention, écrite par lui-même, de la somme ou de la quantité en toutes lettres et en chiffres. En cas de différence, l'acte
-sous seing privé vaut pour la somme écrite en toutes lettres.
+Celui qui cède une créance à titre onéreux garantit l'existence de la créance et de ses accessoires, à moins que le
+cessionnaire l'ait acquise à ses risques et périls ou qu'il ait connu le caractère incertain de la créance. 
+
+Il ne répond de la solvabilité du débiteur que lorsqu'il s'y est engagé, et jusqu'à concurrence du prix qu'il a pu retirer de
+la cession de sa créance. 
+
+Lorsque le cédant a garanti la solvabilité du débiteur, cette garantie ne s'entend que de la solvabilité actuelle ; elle peut
+toutefois s'étendre à la solvabilité à l'échéance, mais à la condition que le cédant l'ait expressément spécifié.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1804-02-07
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°2000-230 2000-03-14 art. 6 *champ d'application territoriale*
-
-	**Modifié par**:
-
-	  - Loi n°2000-230 du 13 mars 2000 - art. 1 () JORF 14 mars 2000
 
 	**Cité par**:
 
@@ -44774,12 +44351,62 @@ sous seing privé vaut pour la somme écrite en toutes lettres.
 	  - Arrêté du 21 février 2013 - art. (M)
 	  - Arrêté du 24 février 2014 - art. (M)
 
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Modifié par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
+
+
+#### Section 2 : La cession de dette 
+
+
+###### Article 1327
+
+Un débiteur peut, avec l'accord du créancier, céder sa dette.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Modifié par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
+
+
+###### Article 1327-1
+
+Le créancier, s'il a par avance donné son accord à la cession ou n'y est pas intervenu, ne peut se la voir opposer ou s'en
+prévaloir que du jour où elle lui a été notifiée ou dès qu'il en a pris acte.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
+
+
+###### Article 1327-2
+
+Si le créancier y consent expressément, le débiteur originaire est libéré pour l'avenir. A défaut, et sauf clause contraire,
+il est tenu solidairement au paiement de la dette.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
+
 
 ###### Article 1328
 
-Les actes sous seing privé n'ont de date contre les tiers que du jour où ils ont été enregistrés, du jour de la mort de celui
-ou de l'un de ceux qui les ont souscrits, ou du jour où leur substance est constatée dans les actes dressés par des officiers
-publics, tels que procès-verbaux de scellé ou d'inventaire.
+Le débiteur substitué, et le débiteur originaire s'il reste tenu, peuvent opposer au créancier les exceptions inhérentes à la
+dette, telles que la nullité, l'exception d'inexécution, la résolution ou la compensation de dettes connexes. Chacun peut
+aussi opposer les exceptions qui lui sont personnelles.
 
 **Liens relatifs à cet article**
 
@@ -44795,13 +44422,32 @@ publics, tels que procès-verbaux de scellé ou d'inventaire.
 
 	**Modifié par**:
 
-	  - Loi n°2000-230 du 13 mars 2000 - art. 1 () JORF 14 mars 2000
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
 
+
+###### Article 1328-1
+
+Lorsque le débiteur originaire n'est pas déchargé par le créancier, les sûretés subsistent. Dans le cas contraire, les
+sûretés consenties par des tiers ne subsistent qu'avec leur accord. 
+
+Si le cédant est déchargé, ses codébiteurs solidaires restent tenus déduction faite de sa part dans la dette.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
+
+
+#### Section 3 : La novation
 
 ###### Article 1329
 
-Les registres des marchands ne font point, contre les personnes non marchandes, preuve des fournitures qui y sont portées,
-sauf ce qui sera dit à l'égard du serment.
+La novation est un contrat qui a pour objet de substituer à une obligation, qu'elle éteint, une obligation nouvelle qu'elle
+crée. 
+
+Elle peut avoir lieu par substitution d'obligation entre les mêmes parties, par changement de débiteur ou par changement de
+créancier.
 
 **Liens relatifs à cet article**
 
@@ -44811,13 +44457,12 @@ sauf ce qui sera dit à l'égard du serment.
 
 	**Modifié par**:
 
-	  - Loi n°2000-230 du 13 mars 2000 - art. 1 () JORF 14 mars 2000
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
 
 
 ###### Article 1330
 
-Les livres des marchands font preuve contre eux ; mais celui qui en veut tirer avantage ne peut les diviser en ce qu'ils
-contiennent de contraire à sa prétention.
+La novation ne se présume pas ; la volonté de l'opérer doit résulter clairement de l'acte.
 
 **Liens relatifs à cet article**
 
@@ -44827,14 +44472,13 @@ contiennent de contraire à sa prétention.
 
 	**Modifié par**:
 
-	  - Loi n°2000-230 du 13 mars 2000 - art. 1 () JORF 14 mars 2000
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
 
 
 ###### Article 1331
 
-Les registres et papiers domestiques ne font point un titre pour celui qui les a écrits. Ils font foi contre lui : 1° dans
-tous les cas où ils énoncent formellement un paiement reçu ; 2° lorsqu'ils contiennent la mention expresse que la note a été
-faite pour suppléer le défaut du titre en faveur de celui au profit duquel ils énoncent une obligation.
+La novation n'a lieu que si l'obligation ancienne et l'obligation nouvelle sont l'une et l'autre valables, à moins qu'elle
+n'ait pour objet déclaré de substituer un engagement valable à un engagement entaché d'un vice.
 
 **Liens relatifs à cet article**
 
@@ -44844,16 +44488,12 @@ faite pour suppléer le défaut du titre en faveur de celui au profit duquel ils
 
 	**Modifié par**:
 
-	  - Loi n°2000-230 du 13 mars 2000 - art. 1 () JORF 14 mars 2000
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
 
 
 ###### Article 1332
 
-L'écriture mise par le créancier à la suite, en marge ou au dos d'un titre qui est toujours resté en sa possession fait foi,
-quoique non signée ni datée par lui, lorsqu'elle tend à établir la libération du débiteur.
-
-Il en est de même de l'écriture mise par le créancier au dos ou en marge, ou à la suite du double d'un titre ou d'une
-quittance, pourvu que ce double soit entre les mains du débiteur.
+La novation par changement de débiteur peut s'opérer sans le concours du premier débiteur.
 
 **Liens relatifs à cet article**
 
@@ -44863,15 +44503,16 @@ quittance, pourvu que ce double soit entre les mains du débiteur.
 
 	**Modifié par**:
 
-	  - Loi n°2000-230 du 13 mars 2000 - art. 1 () JORF 14 mars 2000
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
 
-
-##### Paragraphe 4 : Des tailles.
 
 ###### Article 1333
 
-Les tailles corrélatives à leurs échantillons font foi entre les personnes qui sont dans l'usage de constater ainsi les
-fournitures qu'elles font ou reçoivent en détail.
+La novation par changement de créancier requiert le consentement du débiteur. Celui-ci peut, par avance, accepter que le
+nouveau créancier soit désigné par le premier. 
+
+La novation est opposable aux tiers à la date de l'acte. En cas de contestation de la date de la novation, la preuve en
+incombe au nouveau créancier, qui peut l'apporter par tout moyen.
 
 **Liens relatifs à cet article**
 
@@ -44881,15 +44522,15 @@ fournitures qu'elles font ou reçoivent en détail.
 
 	**Modifié par**:
 
-	  - Loi n°2000-230 du 13 mars 2000 - art. 1 () JORF 14 mars 2000
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
 
-
-##### Paragraphe 5 : Des copies des titres.
 
 ###### Article 1334
 
-Les copies, lorsque le titre original subsiste, ne font foi que de ce qui est contenu au titre, dont la représentation peut
-toujours être exigée.
+L'extinction de l'obligation ancienne s'étend à tous ses accessoires. 
+
+Par exception, les sûretés d'origine peuvent être réservées pour la garantie de la nouvelle obligation avec le consentement
+des tiers garants.
 
 **Liens relatifs à cet article**
 
@@ -44899,31 +44540,15 @@ toujours être exigée.
 
 	**Modifié par**:
 
-	  - Loi n°2000-230 du 13 mars 2000 - art. 1 () JORF 14 mars 2000
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
 
 
 ###### Article 1335
 
-Lorsque le titre original n'existe plus, les copies font foi d'après les distinctions suivantes :
+La novation convenue entre le créancier et l'un des codébiteurs solidaires libère les autres. 
 
-1° Les grosses ou premières expéditions font la même foi que l'original ; il en est de même des copies qui ont été tirées par
-l'autorité du magistrat, parties présentes ou dûment appelées, ou de celles qui ont été tirées en présence des parties et de
-leur consentement réciproque.
-
-2° Les copies qui, sans l'autorité du magistrat, ou sans le consentement des parties, et depuis la délivrance des grosses ou
-premières expéditions, auront été tirées sur la minute de l'acte par le notaire qui l'a reçu, ou par l'un de ses successeurs,
-ou par officiers publics qui, en cette qualité, sont dépositaires des minutes, peuvent, au cas de perte de l'original, faire
-foi quand elles sont anciennes.
-
-Elles sont considérées comme anciennes quand elles ont plus de trente ans ;
-
-Si elles ont moins de trente ans, elles ne peuvent servir que de commencement de preuve par écrit.
-
-3° Lorsque les copies tirées sur la minute d'un acte ne l'auront pas été par le notaire qui l'a reçu, ou par l'un de ses
-successeurs, ou par officiers publics qui, en cette qualité, sont dépositaires des minutes, elles ne pourront servir, quelle
-que soit leur ancienneté, que de commencement de preuve par écrit.
-
-4° Les copies de copies pourront, suivant les circonstances, être considérées comme simples renseignements.
+La novation convenue entre le créancier et une caution ne libère pas le débiteur principal. Elle libère les autres cautions à
+concurrence de la part contributive de celle dont l'obligation a fait l'objet de la novation.
 
 **Liens relatifs à cet article**
 
@@ -44933,21 +44558,19 @@ que soit leur ancienneté, que de commencement de preuve par écrit.
 
 	**Modifié par**:
 
-	  - Loi n°2000-230 du 13 mars 2000 - art. 1 () JORF 14 mars 2000
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
+
+
+#### Section 4 : La délégation 
 
 
 ###### Article 1336
 
-La transcription d'un acte sur les registres publics ne pourra servir que de commencement de preuve par écrit ; il faudra
-même pour cela :
+La délégation est une opération par laquelle une personne, le délégant, obtient d'une autre, le délégué, qu'elle s'oblige
+envers une troisième, le délégataire, qui l'accepte comme débiteur. 
 
-1° Qu'il soit constant que toutes les minutes du notaire, de l'année dans laquelle l'acte paraît avoir été fait, soient
-perdues, ou que l'on prouve que la perte de la minute de cet acte a été faite par un accident particulier ;
-
-2° Qu'il existe un répertoire en règle du notaire, qui constate que l'acte a été fait à la même date.
-
-Lorsqu'au moyen du concours de ces deux circonstances la preuve par témoins sera admise, il sera nécessaire que ceux qui ont
-été témoins de l'acte, s'ils existent encore, soient entendus.
+Le délégué ne peut, sauf stipulation contraire, opposer au délégataire aucune exception tirée de ses rapports avec le
+délégant ou des rapports entre ce dernier et le délégataire.
 
 **Liens relatifs à cet article**
 
@@ -44957,26 +44580,22 @@ Lorsqu'au moyen du concours de ces deux circonstances la preuve par témoins ser
 
 	**Modifié par**:
 
-	  - Loi n°2000-230 du 13 mars 2000 - art. 1 () JORF 14 mars 2000
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
 
-
-##### Paragraphe 6 : Des actes récognitifs et confirmatifs.
 
 ###### Article 1337
 
-Les actes récognitifs ne dispensent point de la représentation du titre primordial, à moins que sa teneur n'y soit
-spécialement relatée.
+Lorsque le délégant est débiteur du délégataire et que la volonté du délégataire de décharger le délégant résulte
+expressément de l'acte, la délégation opère novation. 
 
-Ce qu'ils contiennent de plus que le titre primordial, ou ce qui s'y trouve de différent, n'a aucun effet.
-
-Néanmoins, s'il y avait plusieurs reconnaissances conformes, soutenues de la possession, et dont l'une eût trente ans de
-date, le créancier pourrait être dispensé de représenter le titre primordial.
+Toutefois, le délégant demeure tenu s'il s'est expressément engagé à garantir la solvabilité future du délégué ou si ce
+dernier se trouve soumis à une procédure d'apurement de ses dettes lors de la délégation.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2000-230 du 13 mars 2000 - art. 1 () JORF 14 mars 2000
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
 
 	**Cité par**:
 
@@ -44989,15 +44608,10 @@ date, le créancier pourrait être dispensé de représenter le titre primordial
 
 ###### Article 1338
 
-L'acte de confirmation ou ratification d'une obligation contre laquelle la loi admet l'action en nullité ou en rescision
-n'est valable que lorsqu'on y trouve la substance de cette obligation, la mention du motif de l'action en rescision, et
-l'intention de réparer le vice sur lequel cette action est fondée.
+Lorsque le délégant est débiteur du délégataire mais que celui-ci ne l'a pas déchargé de sa dette, la délégation donne au
+délégataire un second débiteur. 
 
-A défaut d'acte de confirmation ou ratification, il suffit que l'obligation soit exécutée volontairement après l'époque à
-laquelle l'obligation pouvait être valablement confirmée ou ratifiée.
-
-La confirmation, ratification, ou exécution volontaire dans les formes et à l'époque déterminées par la loi, emporte la
-renonciation aux moyens et exceptions que l'on pouvait opposer contre cet acte, sans préjudice néanmoins du droit des tiers.
+Le paiement fait par l'un des deux débiteurs libère l'autre, à due concurrence.
 
 **Liens relatifs à cet article**
 
@@ -45013,13 +44627,21 @@ renonciation aux moyens et exceptions que l'on pouvait opposer contre cet acte, 
 
 	**Modifié par**:
 
-	  - Loi n°2000-230 du 13 mars 2000 - art. 1 () JORF 14 mars 2000
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
 
 
 ###### Article 1339
 
-Le donateur ne peut réparer par aucun acte confirmatif les vices d'une donation entre vifs, nulle en la forme ; il faut
-qu'elle soit refaite en la forme légale.
+Lorsque le délégant est créancier du délégué, sa créance ne s'éteint que par l'exécution de l'obligation du délégué envers le
+délégataire et à due concurrence. 
+
+Jusque-là, le délégant ne peut en exiger ou en recevoir le paiement que pour la part qui excèderait l'engagement du délégué.
+Il ne recouvre ses droits qu'en exécutant sa propre obligation envers le délégataire. 
+
+La cession ou la saisie de la créance du délégant ne produisent effet que sous les mêmes limitations. 
+
+Toutefois, si le délégataire a libéré le délégant, le délégué est lui-même libéré à l'égard du délégant, à concurrence du
+montant de son engagement envers le délégataire.
 
 **Liens relatifs à cet article**
 
@@ -45029,13 +44651,14 @@ qu'elle soit refaite en la forme légale.
 
 	**Modifié par**:
 
-	  - Loi n°2000-230 du 13 mars 2000 - art. 1 () JORF 14 mars 2000
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
 
 
 ###### Article 1340
 
-La confirmation ou ratification, ou exécution volontaire d'une donation par les héritiers ou ayants cause du donateur, après
-son décès, emporte leur renonciation à opposer soit les vices de forme, soit toute autre exception.
+La simple indication faite par le débiteur d'une personne désignée pour payer à sa place n'emporte ni novation, ni
+délégation. Il en est de même de la simple indication faite, par le créancier, d'une personne désignée pour recevoir le
+paiement pour lui.
 
 **Liens relatifs à cet article**
 
@@ -45045,18 +44668,15 @@ son décès, emporte leur renonciation à opposer soit les vices de forme, soit 
 
 	**Modifié par**:
 
-	  - Loi n°2000-230 du 13 mars 2000 - art. 1 () JORF 14 mars 2000
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
 
 
-#### Section 2 : De la preuve testimoniale.
+### Chapitre III : Les actions ouvertes au créancier 
 
 ###### Article 1341
 
-Il doit être passé acte devant notaires ou sous signatures privées de toutes choses excédant une somme ou une valeur fixée
-par décret, même pour dépôts volontaires, et il n'est reçu aucune preuve par témoins contre et outre le contenu aux actes, ni
-sur ce qui serait allégué avoir été dit avant, lors ou depuis les actes, encore qu'il s'agisse d'une somme ou valeur moindre.
-
-Le tout sans préjudice de ce qui est prescrit dans les lois relatives au commerce.
+Le créancier a droit à l'exécution de l'obligation ; il peut y contraindre le débiteur dans les conditions prévues par la
+loi.
 
 **Liens relatifs à cet article**
 
@@ -45066,35 +44686,94 @@ Le tout sans préjudice de ce qui est prescrit dans les lois relatives au commer
 	  - Décret n°80-533 du 15 juillet 1980 - art. 1 (M)
 	  - Code civil - art. 1343 (V)
 	  - Code civil - art. 1344 (V)
-	  - Code civil - art. 1345 (M)
+	  - Code civil - art. 1345 (V)
 	  - Code civil - art. 1924 (V)
 	  - Code civil - art. 1950 (V)
 	  - Code de la propriété intellectuelle - art. L131-2 (VT)
 
-	**Modifié par**:
-
-	  - Loi n°80-525 du 12 juillet 1980, v. init.
-
 	**Liens**:
 
 	  - TXT_SOURCE: Décret n°80-533 du 15 juillet 1980 - art. 1 (M)
-	  - SPEC_APPLI: Ordonnance 98-774 1998-09-02 art. 1 I (champ d'application territoriale aux TOM et à Mayotte)
 	  - TXT_SOURCE: Décret n°99-235 du 22 mars 1999
 	  - TXT_SOURCE: Décret n°99-235 du 22 mars 1999 - art. 1 ()
-	  - SPEC_APPLI: Décret n°2001-476 2001-05-30 art. 1 (montant en euros), art. 2 (champ d'application territoriale), art. 3 (date d'effet)
 	  - TXT_SOURCE: Décret n°2001-476 du 30 mai 2001
 	  - TXT_SOURCE: Décret n°2001-476 du 30 mai 2001 - art. 2 (V)
 	  - TXT_SOURCE: Décret n°2001-476 du 30 mai 2001 - art. 3 (V)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
+
 	**Codifié par**:
 
 	  - Loi n°1804-02-07
 
 
+###### Article 1341-1
+
+Lorsque la carence du débiteur dans l'exercice de ses droits et actions à caractère patrimonial compromet les droits de son
+créancier, celui-ci peut les exercer pour le compte de son débiteur, à l'exception de ceux qui sont exclusivement rattachés à
+sa personne.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
+
+	**Cité par**:
+
+	  - Code rural - art. L666-3 (VD)
+
+
+###### Article 1341-2
+
+Le créancier peut aussi agir en son nom personnel pour faire déclarer inopposables à son égard les actes faits par son
+débiteur en fraude de ses droits, à charge d'établir, s'il s'agit d'un acte à titre onéreux, que le tiers cocontractant avait
+connaissance de la fraude.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
+
+	**Cité par**:
+
+	  - Code civil - art. 1397 (VD)
+	  - Code civil - art. 1578 (VD)
+	  - Code civil - art. 794 (VD)
+	  - Code de la mutualité - art. L223-15 (VD)
+	  - Code des assurances - art. L132-14 (VD)
+
+
+###### Article 1341-3
+
+Dans les cas déterminés par la loi, le créancier peut agir directement en paiement de sa créance contre un débiteur de son
+débiteur.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
+
+
+### Chapitre IV : L'extinction de l'obligation
+
+#### Section 1 : Le paiement 
+
+
+##### Sous-section 1 : Dispositions générales 
+
 ###### Article 1342
 
-La règle ci-dessus s'applique au cas où l'action contient, outre la demande du capital, une demande d'intérêts qui, réunis au
-capital, excèdent le chiffre prévu à l'article précédent.
+Le paiement est l'exécution volontaire de la prestation due. 
+
+Il doit être fait sitôt que la dette devient exigible. 
+
+Il libère le débiteur à l'égard du créancier et éteint la dette, sauf lorsque la loi ou le contrat prévoit une subrogation
+dans les droits du créancier.
 
 **Liens relatifs à cet article**
 
@@ -45108,42 +44787,287 @@ capital, excèdent le chiffre prévu à l'article précédent.
 
 	**Modifié par**:
 
-	  - Loi n°80-525 du 12 juillet 1980, v. init.
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
 
-	**Liens**:
 
-	  - SPEC_APPLI: Ordonnance 98-774 1998-09-02 art. 1 I (champ d'application territoriale aux TOM et à Mayotte)
+###### Article 1342-1
+
+Le paiement peut être fait même par une personne qui n'y est pas tenue, sauf refus légitime du créancier.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
+
+
+###### Article 1342-2
+
+Le paiement doit être fait au créancier ou à la personne désignée pour le recevoir. 
+
+Le paiement fait à une personne qui n'avait pas qualité pour le recevoir est néanmoins valable si le créancier le ratifie ou
+s'il en a profité. 
+
+Le paiement fait à un créancier dans l'incapacité de contracter n'est pas valable, s'il n'en a tiré profit.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
+
+
+###### Article 1342-3
+
+Le paiement fait de bonne foi à un créancier apparent est valable.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
+
+
+###### Article 1342-4
+
+Le créancier peut refuser un paiement partiel même si la prestation est divisible. 
+
+Il peut accepter de recevoir en paiement autre chose que ce qui lui est dû.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Ordonnance n°98-774 du 2 septembre 1998 - art. 1 (VD)
+	  - Code de la construction et de l'habitation. - art. Annexe 1 au III art R353-159 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
+
+
+###### Article 1342-5
+
+Le débiteur d'une obligation de remettre un corps certain est libéré par sa remise au créancier en l'état, sauf à prouver, en
+cas de détérioration, que celle-ci n'est pas due à son fait ou à celui de personnes dont il doit répondre.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
+
+
+###### Article 1342-6
+
+A défaut d'une autre désignation par la loi, le contrat ou le juge, le paiement doit être fait au domicile du débiteur.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
+
+
+###### Article 1342-7
+
+Les frais du paiement sont à la charge du débiteur.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
+
+
+###### Article 1342-8
+
+Le paiement se prouve par tout moyen.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
+
+
+###### Article 1342-9
+
+La remise volontaire par le créancier au débiteur de l'original sous signature privée ou de la copie exécutoire du titre de
+sa créance vaut présomption simple de libération. 
+
+La même remise à l'un des codébiteurs solidaires produit le même effet à l'égard de tous.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
+
+
+###### Article 1342-10
+
+Le débiteur de plusieurs dettes peut indiquer, lorsqu'il paie, celle qu'il entend acquitter. 
+
+A défaut d'indication par le débiteur, l'imputation a lieu comme suit : d'abord sur les dettes échues ; parmi celles-ci, sur
+les dettes que le débiteur avait le plus d'intérêt d'acquitter. A égalité d'intérêt, l'imputation se fait sur la plus
+ancienne ; toutes choses égales, elle se fait proportionnellement.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 14 mars 2005 - art. 9 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
+
+
+##### Sous-section 2 : Dispositions particulières aux obligations de sommes d'argent 
 
 
 ###### Article 1343
 
-Celui qui a formé une demande excédant le chiffre prévu à l'article 1341 ne peut plus être admis à la preuve testimoniale,
-même en restreignant sa demande primitive.
+Le débiteur d'une obligation de somme d'argent se libère par le versement de son montant nominal. 
+
+Le montant de la somme due peut varier par le jeu de l'indexation. 
+
+Le débiteur d'une dette de valeur se libère par le versement de la somme d'argent résultant de sa liquidation.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1804-02-07
 
 	**Cité par**:
 
 	  - Loi n°57-298 du 11 mars 1957 - art. 31 (Ab)
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Ordonnance 98-774 1998-09-02 art. 1 I (champ d'application territoriale aux TOM et à Mayotte)
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
 
 	**Cite**:
 
-	  - Code civil - art. 1341 (V)
+	  - Code civil - art. 1341
 
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+
+###### Article 1343-1
+
+Lorsque l'obligation de somme d'argent porte intérêt, le débiteur se libère en versant le principal et les intérêts. Le
+paiement partiel s'impute d'abord sur les intérêts. 
+
+L'intérêt est accordé par la loi ou stipulé dans le contrat. Le taux de l'intérêt conventionnel doit être fixé par écrit. Il
+est réputé annuel par défaut.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
+
+
+###### Article 1343-2
+
+Les intérêts échus, dus au moins pour une année entière, produisent intérêt si le contrat l'a prévu ou si une décision de
+justice le précise.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 28 avril 2011 - art. Annexe 2 (V)
+	  - Arrêté du 28 avril 2011 - art. Annexe 3 (V)
+	  - Arrêté du 14 novembre 2016 - art.
+	  - Code de commerce - art. L611-10-1 (VD)
+	  - Code de commerce - art. L622-28 (VD)
+	  - Code de la consommation - art. L312-74 (VD)
+	  - Code monétaire et financier - art. R512-15 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
+
+
+###### Article 1343-3
+
+Le paiement, en France, d'une obligation de somme d'argent s'effectue en euros. Toutefois, le paiement peut avoir lieu en une
+autre devise si l'obligation ainsi libellée procède d'un contrat international ou d'un jugement étranger.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
+
+
+###### Article 1343-4
+
+A défaut d'une autre désignation par la loi, le contrat ou le juge, le lieu du paiement de l'obligation de somme d'argent est
+le domicile du créancier.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
+
+
+###### Article 1343-5
+
+Le juge peut, compte tenu de la situation du débiteur et en considération des besoins du créancier, reporter ou échelonner,
+dans la limite de deux années, le paiement des sommes dues. 
+
+Par décision spéciale et motivée, il peut ordonner que les sommes correspondant aux échéances reportées porteront intérêt à
+un taux réduit au moins égal au taux légal, ou que les paiements s'imputeront d'abord sur le capital. 
+
+Il peut subordonner ces mesures à l'accomplissement par le débiteur d'actes propres à faciliter ou à garantir le paiement de
+la dette. 
+
+La décision du juge suspend les procédures d'exécution qui auraient été engagées par le créancier. Les majorations d'intérêts
+ou les pénalités prévues en cas de retard ne sont pas encourues pendant le délai fixé par le juge. 
+
+Toute stipulation contraire est réputée non écrite. 
+
+Les dispositions du présent article ne sont pas applicables aux dettes d'aliment.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°48-1360 du 1er septembre 1948 - art. 80 (VD)
+	  - Loi n°56-672 du 9 juillet 1956 - art. 6 (VD)
+	  - Loi n°67-3 du 3 janvier 1967 - art. 9 (VD)
+	  - Loi n°70-632 du 15 juillet 1970 - art. 60 (VD)
+	  - Loi n°89-462 du 6 juillet 1989 - art. 24 (VD)
+	  - Ordonnance n°98-774 du 2 septembre 1998 - art. 1 (VD)
+	  - Code de commerce - art. L145-41 (VD)
+	  - Code de commerce - art. L611-10-1 (VD)
+	  - Code de commerce - art. L611-7 (VD)
+	  - Code de la consommation - art. L314-20 (V)
+	  - Code de la construction et de l'habitation. - art. Annexe 1 au III art R353-159 (V)
+	  - Code de la construction et de l'habitation. - art. L222-4 (VD)
+	  - Code de la construction et de l'habitation. - art. L261-13 (VD)
+	  - Code de procédure civile - art. 847-2 (V)
+	  - Code de procédure civile - art. 861-2 (V)
+	  - Code rural - art. L411-76 (VD)
+	  - Code rural - art. L418-3 (VD)
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
+
+
+##### Sous-section 3 : La mise en demeure 
+
+##### Paragraphe 1 : La mise en demeure du débiteur 
 
 ###### Article 1344
 
-La preuve testimoniale, sur la demande d'une somme même inférieure à celle qui est prévue à l'article 1341, ne peut être
-admise lorsque cette somme est déclarée être le restant ou faire partie d'une créance plus forte qui n'est point prouvée par
-écrit.
+Le débiteur est mis en demeure de payer soit par une sommation ou un acte portant interpellation suffisante, soit, si le
+contrat le prévoit, par la seule exigibilité de l'obligation.
 
 **Liens relatifs à cet article**
 
@@ -45158,23 +45082,51 @@ admise lorsque cette somme est déclarée être le restant ou faire partie d'une
 
 	**Modifié par**:
 
-	  - Loi n°80-525 du 12 juillet 1980,  art. 5 v. init.
-
-	**Liens**:
-
-	  - SPEC_APPLI: Ordonnance 98-774 1998-09-02 art. 1 I (champ d'application territoriale aux TOM et à Mayotte)
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
 
 	**Cite**:
 
-	  - Code civil - art. 1341 (V)
+	  - Code civil - art. 1341
 
+
+###### Article 1344-1
+
+La mise en demeure de payer une obligation de somme d'argent fait courir l'intérêt moratoire, au taux légal, sans que le
+créancier soit tenu de justifier d'un préjudice.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
+
+
+###### Article 1344-2
+
+La mise en demeure de délivrer une chose met les risques à la charge du débiteur, s'ils n'y sont déjà.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
+
+	**Cité par**:
+
+	  - Code civil - art. 1196 (V)
+
+
+#####  Paragraphe 2 : La mise en demeure du créancier 
 
 ###### Article 1345
 
-Si, dans la même instance, une partie fait plusieurs demandes, dont il n'y ait point de titre par écrit, et que, jointes
-ensemble, elles excèdent la somme prévue à l'article 1341, la preuve par témoins n'en peut être admise, encore que la partie
-allègue que ces créances proviennent de différentes causes, et qu'elles se soient formées en différents temps, si ce n'était
-que ces droits procédassent par succession, donation ou autrement, de personnes différentes.
+Lorsque le créancier, à l'échéance et sans motif légitime, refuse de recevoir le paiement qui lui est dû ou l'empêche par son
+fait, le débiteur peut le mettre en demeure d'en accepter ou d'en permettre l'exécution. 
+
+La mise en demeure du créancier arrête le cours des intérêts dus par le débiteur et met les risques de la chose à la charge
+du créancier, s'ils n'y sont déjà, sauf faute lourde ou dolosive du débiteur. 
+
+Elle n'interrompt pas la prescription.
 
 **Liens relatifs à cet article**
 
@@ -45184,37 +45136,73 @@ que ces droits procédassent par succession, donation ou autrement, de personnes
 	  - Décret n°2012-1246 du 7 novembre 2012 - art. 39 (V)
 	  - Arrêté du 24 décembre 2012 - art. 9 (V)
 
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
 	**Modifié par**:
 
-	  - Loi n°80-525 du 12 juillet 1980, v. init.
-
-	**Liens**:
-
-	  - SPEC_APPLI: Ordonnance 98-774 1998-09-02 art. 1 I (champ d'application territoriale aux TOM et à Mayotte)
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
 
 	**Cite**:
 
 	  - Code civil - art. 1341 (V)
 
-	**Codifié par**:
 
-	  - Loi n°1804-02-07
+###### Article 1345-1
+
+Si l'obstruction n'a pas pris fin dans les deux mois de la mise en demeure, le débiteur peut, lorsque l'obligation porte sur
+une somme d'argent, la consigner à la Caisse des dépôts et consignations ou, lorsque l'obligation porte sur la livraison
+d'une chose, séquestrer celle-ci auprès d'un gardien professionnel. 
+
+Si le séquestre de la chose est impossible ou trop onéreux, le juge peut en autoriser la vente amiable ou aux enchères
+publiques. Déduction faite des frais de la vente, le prix en est consigné à la Caisse des dépôts et consignations. 
+
+La consignation ou le séquestre libère le débiteur à compter de leur notification au créancier.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
+
+
+###### Article 1345-2
+
+Lorsque l'obligation porte sur un autre objet, le débiteur est libéré si l'obstruction n'a pas cessé dans les deux mois de la
+mise en demeure.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
+
+
+###### Article 1345-3
+
+Les frais de la mise en demeure et de la consignation ou du séquestre sont à la charge du créancier.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
+
+
+##### Sous-section 4 : Le paiement avec subrogation 
 
 
 ###### Article 1346
 
-Toutes les demandes, à quelque titre que ce soit, qui ne seront pas entièrement justifiées par écrit, seront formées par un
-même exploit, après lequel les autres demandes dont il n'y aura point de preuves par écrit ne seront pas reçues.
+La subrogation a lieu par le seul effet de la loi au profit de celui qui, y ayant un intérêt légitime, paie dès lors que son
+paiement libère envers le créancier celui sur qui doit peser la charge définitive de tout ou partie de la dette.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Loi n°1804-02-07
-
-	**Créé par**:
-
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
 
 	**Cité par**:
 
@@ -45224,21 +45212,118 @@ même exploit, après lequel les autres demandes dont il n'y aura point de preuv
 	  - Code des assurances - art. L443-1 (VD)
 	  - Code monétaire et financier - art. L313-22-1 (VD)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
+
 	**Liens**:
 
-	  - SPEC_APPLI: Ordonnance 98-774 1998-09-02 art. 1 I (champ d'application territoriale aux TOM et à Mayotte)
 	  - TXT_ASSOCIE: Code civil - art. 1345 (M)
 
 
+###### Article 1346-1
+
+La subrogation conventionnelle s'opère à l'initiative du créancier lorsque celui-ci, recevant son paiement d'une tierce
+personne, la subroge dans ses droits contre le débiteur. 
+
+Cette subrogation doit être expresse. 
+
+Elle doit être consentie en même temps que le paiement, à moins que, dans un acte antérieur, le subrogeant n'ait manifesté la
+volonté que son cocontractant lui soit subrogé lors du paiement. La concomitance de la subrogation et du paiement peut être
+prouvée par tous moyens.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. R518-31 (V)
+
+
+###### Article 1346-2
+
+La subrogation a lieu également lorsque le débiteur, empruntant une somme à l'effet de payer sa dette, subroge le prêteur
+dans les droits du créancier avec le concours de celui-ci. En ce cas, la subrogation doit être expresse et la quittance
+donnée par le créancier doit indiquer l'origine des fonds. 
+
+La subrogation peut être consentie sans le concours du créancier, mais à la condition que la dette soit échue ou que le terme
+soit en faveur du débiteur. Il faut alors que l'acte d'emprunt et la quittance soient passés devant notaire, que dans l'acte
+d'emprunt il soit déclaré que la somme a été empruntée pour faire le paiement, et que dans la quittance il soit déclaré que
+le paiement a été fait des sommes versées à cet effet par le nouveau créancier.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
+
+
+###### Article 1346-3
+
+La subrogation ne peut nuire au créancier lorsqu'il n'a été payé qu'en partie ; en ce cas, il peut exercer ses droits, pour
+ce qui lui reste dû, par préférence à celui dont il n'a reçu qu'un paiement partiel.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°85-677 du 5 juillet 1985 - art. 31 (VD)
+	  - Code de commerce - art. L525-5 (VD)
+	  - Code de la sécurité sociale. - art. L376-1 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
+
+
+###### Article 1346-4
+
+La subrogation transmet à son bénéficiaire, dans la limite de ce qu'il a payé, la créance et ses accessoires, à l'exception
+des droits exclusivement attachés à la personne du créancier. 
+
+Toutefois, le subrogé n'a droit qu'à l'intérêt légal à compter d'une mise en demeure, s'il n'a convenu avec le débiteur d'un
+nouvel intérêt. Ces intérêts sont garantis par les sûretés attachées à la créance, dans les limites, lorsqu'elles ont été
+constituées par des tiers, de leurs engagements initiaux s'ils ne consentent à s'obliger au-delà.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
+
+
+###### Article 1346-5
+
+Le débiteur peut invoquer la subrogation dès qu'il en a connaissance mais elle ne peut lui être opposée que si elle lui a été
+notifiée ou s'il en a pris acte. 
+
+La subrogation est opposable aux tiers dès le paiement. 
+
+Le débiteur peut opposer au créancier subrogé les exceptions inhérentes à la dette, telles que la nullité, l'exception
+d'inexécution, la résolution ou la compensation de dettes connexes. Il peut également lui opposer les exceptions nées de ses
+rapports avec le subrogeant avant que la subrogation lui soit devenue opposable, telles que l'octroi d'un terme, la remise de
+dette ou la compensation de dettes non connexes.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
+
+
+#### Section 2 : La compensation 
+
+
+##### Sous-section 1 : Règles générales 
+
 ###### Article 1347
 
-Les règles ci-dessus reçoivent exception lorsqu'il existe un commencement de preuve par écrit.
+La compensation est l'extinction simultanée d'obligations réciproques entre deux personnes. 
 
-On appelle ainsi tout acte par écrit qui est émané de celui contre lequel la demande est formée, ou de celui qu'il
-représente, et qui rend vraisemblable le fait allégué.
-
-Peuvent être considérées par le juge comme équivalant à un commencement de preuve par écrit les déclarations faites par une
-partie lors de sa comparution personnelle, son refus de répondre ou son absence à la comparution.
+Elle s'opère, sous réserve d'être invoquée, à due concurrence, à la date où ses conditions se trouvent réunies.
 
 **Liens relatifs à cet article**
 
@@ -45246,29 +45331,107 @@ partie lors de sa comparution personnelle, son refus de répondre ou son absence
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
-
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
-
 	**Cité par**:
 
 	  - Loi n°57-298 du 11 mars 1957 - art. 31 (Ab)
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Ordonnance 98-774 1998-09-02 art. 1 I (champ d'application territoriale aux TOM et à Mayotte)
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
 
+
+###### Article 1347-1
+
+Sous réserve des dispositions prévues à la sous-section suivante, la compensation n'a lieu qu'entre deux obligations
+fongibles, certaines, liquides et exigibles. 
+
+Sont fongibles les obligations de somme d'argent, même en différentes devises, pourvu qu'elles soient convertibles, ou celles
+qui ont pour objet une quantité de choses de même genre.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
+
+
+###### Article 1347-2
+
+Les créances insaisissables et les obligations de restitution d'un dépôt, d'un prêt à usage ou d'une chose dont le
+propriétaire a été injustement privé ne sont compensables que si le créancier y consent.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
+
+
+###### Article 1347-3
+
+Le délai de grâce ne fait pas obstacle à la compensation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
+
+
+###### Article 1347-4
+
+S'il y a plusieurs dettes compensables, les règles d'imputation des paiements sont transposables.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
+
+
+###### Article 1347-5
+
+Le débiteur qui a pris acte sans réserve de la cession de la créance ne peut opposer au cessionnaire la compensation qu'il
+eût pu opposer au cédant.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
+
+
+###### Article 1347-6
+
+La caution peut opposer au créancier la compensation intervenue entre ce dernier et le débiteur principal. 
+
+Le codébiteur solidaire peut se prévaloir de la compensation intervenue entre le créancier et l'un de ses coobligés pour
+faire déduire la part divise de celui-ci du total de la dette.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
+
+
+###### Article 1347-7
+
+La compensation ne préjudicie pas aux droits acquis par des tiers.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
+
+
+##### Sous-section 2 : Règles particulières 
 
 ###### Article 1348
 
-Les règles ci-dessus reçoivent encore exception lorsque l'obligation est née d'un quasi-contrat, d'un délit ou d'un quasi-
-délit, ou lorsque l'une des parties, soit n'a pas eu la possibilité matérielle ou morale de se procurer une preuve littérale
-de l'acte juridique, soit a perdu le titre qui lui servait de preuve littérale, par suite d'un cas fortuit ou d'une force
-majeure.
-
-Elles reçoivent aussi exception lorsqu'une partie ou le dépositaire n'a pas conservé le titre original et présente une copie
-qui en est la reproduction non seulement fidèle mais aussi durable. Est réputée durable toute reproduction indélébile de
-l'original qui entraîne une modification irréversible du support.
+La compensation peut être prononcée en justice, même si l'une des obligations, quoique certaine, n'est pas encore liquide ou
+exigible. A moins qu'il n'en soit décidé autrement, la compensation produit alors ses effets à la date de la décision.
 
 **Liens relatifs à cet article**
 
@@ -45283,18 +45446,45 @@ l'original qui entraîne une modification irréversible du support.
 
 	**Modifié par**:
 
-	  - Loi n°80-525 du 12 juillet 1980, art. 7 v. init.
-
-	**Liens**:
-
-	  - SPEC_APPLI: Ordonnance 98-774 1998-09-02 art. 1 I (champ d'application territoriale aux TOM et à Mayotte)
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
 
 
-#### Section 3 : Des présomptions.
+###### Article 1348-1
+
+Le juge ne peut refuser la compensation de dettes connexes au seul motif que l'une des obligations ne serait pas liquide ou
+exigible. 
+
+Dans ce cas, la compensation est réputée s'être produite au jour de l'exigibilité de la première d'entre elles. 
+
+Dans le même cas, l'acquisition de droits par un tiers sur l'une des obligations n'empêche pas son débiteur d'opposer la
+compensation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
+
+
+###### Article 1348-2
+
+Les parties peuvent librement convenir d'éteindre toutes obligations réciproques, présentes ou futures, par une
+compensation ; celle-ci prend effet à la date de leur accord ou, s'il s'agit d'obligations futures, à celle de leur
+coexistence.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
+
+
+#### Section 3 : La confusion 
 
 ###### Article 1349
 
-Les présomptions sont des conséquences que la loi ou le magistrat tire d'un fait connu à un fait inconnu.
+La confusion résulte de la réunion des qualités de créancier et de débiteur d'une même obligation dans la même personne. Elle
+éteint la créance et ses accessoires, sous réserve des droits acquis par ou contre des tiers.
 
 **Liens relatifs à cet article**
 
@@ -45307,24 +45497,32 @@ Les présomptions sont des conséquences que la loi ou le magistrat tire d'un fa
 
 	  - Loi n°1804-02-07
 
+	**Modifié par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
+
+
+###### Article 1349-1
+
+Lorsqu'il y a solidarité entre plusieurs débiteurs ou entre plusieurs créanciers, et que la confusion ne concerne que l'un
+d'eux, l'extinction n'a lieu, à l'égard des autres, que pour sa part. 
+
+Lorsque la confusion concerne une obligation cautionnée, la caution, même solidaire, est libérée. Lorsque la confusion
+concerne l'obligation d'une des cautions, le débiteur principal n'est pas libéré. Les autres cautions solidaires sont
+libérées à concurrence de la part de cette caution.
+
+**Liens relatifs à cet article**
+
 	**Créé par**:
 
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
 
 
-##### Paragraphe 1 : Des présomptions établies par la loi.
+#### Section 4 : La remise de dette
 
 ###### Article 1350
 
-La présomption légale est celle qui est attachée par une loi spéciale à certains actes ou à certains faits ; tels sont :
-
-1° Les actes que la loi déclare nuls, comme présumés faits en fraude de ses dispositions, d'après leur seule qualité ;
-
-2° Les cas dans lesquels la loi déclare la propriété ou la libération résulter de certaines circonstances déterminées ;
-
-3° L'autorité que la loi attribue à la chose jugée ;
-
-4° La force que la loi attache à l'aveu de la partie ou à son serment.
+La remise de dette est le contrat par lequel le créancier libère le débiteur de son obligation.
 
 **Liens relatifs à cet article**
 
@@ -45332,16 +45530,48 @@ La présomption légale est celle qui est attachée par une loi spéciale à cer
 
 	  - Loi n°1804-02-07
 
+	**Modifié par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
+
+
+###### Article 1350-1
+
+La remise de dette consentie à l'un des codébiteurs solidaires libère les autres à concurrence de sa part. 
+
+La remise de dette faite par l'un seulement des créanciers solidaires ne libère le débiteur que pour la part de ce créancier.
+
+**Liens relatifs à cet article**
+
 	**Créé par**:
 
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
 
+
+###### Article 1350-2
+
+La remise de dette accordée au débiteur principal libère les cautions, même solidaires. 
+
+La remise consentie à l'une des cautions solidaires ne libère pas le débiteur principal, mais libère les autres à concurrence
+de sa part. 
+
+Ce que le créancier a reçu d'une caution pour la décharge de son cautionnement doit être imputé sur la dette et décharger le
+débiteur principal à proportion. Les autres cautions ne restent tenues que déduction faite de la part de la caution libérée
+ou de la valeur fournie si elle excède cette part.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
+
+
+#### Section 5 : L'impossibilité d'exécuter
 
 ###### Article 1351
 
-L'autorité de la chose jugée n'a lieu qu'à l'égard de ce qui a fait l'objet du jugement. Il faut que la chose demandée soit
-la même ; que la demande soit fondée sur la même cause ; que la demande soit entre les mêmes parties, et formée par elles et
-contre elles en la même qualité.
+L'impossibilité d'exécuter la prestation libère le débiteur à due concurrence lorsqu'elle procède d'un cas de force majeure
+et qu'elle est définitive, à moins qu'il n'ait convenu de s'en charger ou qu'il ait été préalablement mis en demeure.
 
 **Liens relatifs à cet article**
 
@@ -45353,20 +45583,42 @@ contre elles en la même qualité.
 
 	  - Loi n°1804-02-07
 
+	**Modifié par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
+
+
+###### Article 1351-1
+
+Lorsque l'impossibilité d'exécuter résulte de la perte de la chose due, le débiteur mis en demeure est néanmoins libéré s'il
+prouve que la perte se serait pareillement produite si l'obligation avait été exécutée. 
+
+Il est cependant tenu de céder à son créancier les droits et actions attachés à la chose.
+
+**Liens relatifs à cet article**
+
 	**Créé par**:
 
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
 
+	**Cité par**:
+
+	  - Code civil - art. 1196 (V)
+	  - Code civil - art. 1218 (V)
+
+
+### Chapitre V : Les restitutions 
 
 ###### Article 1352
 
-La présomption légale dispense de toute preuve celui au profit duquel elle existe.
-
-Nulle preuve n'est admise contre la présomption de la loi, lorsque, sur le fondement de cette présomption, elle annule
-certains actes ou dénie l'action en justice, à moins qu'elle n'ait réservé la preuve contraire et sauf ce qui sera dit sur le
-serment et l'aveu judiciaires.
+La restitution d'une chose autre que d'une somme d'argent a lieu en nature ou, lorsque cela est impossible, en valeur,
+estimée au jour de la restitution.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
 
 	**Cité par**:
 
@@ -45379,40 +45631,167 @@ serment et l'aveu judiciaires.
 
 	  - Loi n°1804-02-07
 
+
+###### Article 1352-1
+
+Celui qui restitue la chose répond des dégradations et détériorations qui en ont diminué la valeur, à moins qu'il ne soit de
+bonne foi et que celles-ci ne soient pas dues à sa faute.
+
+**Liens relatifs à cet article**
+
 	**Créé par**:
 
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
 
 
-##### Paragraphe 2 : Des présomptions qui ne sont point établies par la loi.
+###### Article 1352-2
+
+Celui qui l'ayant reçue de bonne foi a vendu la chose ne doit restituer que le prix de la vente. 
+
+S'il l'a reçue de mauvaise foi, il en doit la valeur au jour de la restitution lorsqu'elle est supérieure au prix.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
+
+
+###### Article 1352-3
+
+La restitution inclut les fruits et la valeur de la jouissance que la chose a procurée. 
+
+La valeur de la jouissance est évaluée par le juge au jour où il se prononce. 
+
+Sauf stipulation contraire, la restitution des fruits, s'ils ne se retrouvent pas en nature, a lieu selon une valeur estimée
+à la date du remboursement, suivant l'état de la chose au jour du paiement de l'obligation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
+
+
+###### Article 1352-4
+
+Les restitutions dues à un mineur non émancipé ou à un majeur protégé sont réduites à proportion du profit qu'il a retiré de
+l'acte annulé.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
+
+	**Cité par**:
+
+	  - Code civil - art. 1150 (V)
+	  - Code de commerce - art. L511-5 (VD)
+
+
+###### Article 1352-5
+
+Pour fixer le montant des restitutions, il est tenu compte à celui qui doit restituer des dépenses nécessaires à la
+conservation de la chose et de celles qui en ont augmenté la valeur, dans la limite de la plus-value estimée au jour de la
+restitution.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
+
+
+###### Article 1352-6
+
+La restitution d'une somme d'argent inclut les intérêts au taux légal et les taxes acquittées entre les mains de celui qui
+l'a reçue.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
+
+
+###### Article 1352-7
+
+Celui qui a reçu de mauvaise foi doit les intérêts, les fruits qu'il a perçus ou la valeur de la jouissance à compter du
+paiement. Celui qui a reçu de bonne foi ne les doit qu'à compter du jour de la demande.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
+
+
+###### Article 1352-8
+
+La restitution d'une prestation de service a lieu en valeur. Celle-ci est appréciée à la date à laquelle elle a été fournie.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
+
+
+###### Article 1352-9
+
+Les sûretés constituées pour le paiement de l'obligation sont reportées de plein droit sur l'obligation de restituer sans
+toutefois que la caution soit privée du bénéfice du terme.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
+
+	**Cité par**:
+
+	  - Code civil - art. 1178 (V)
+	  - Code civil - art. 1187 (V)
+	  - Code civil - art. 1229 (V)
+	  - Code civil - art. 1302-3 (V)
+
+
+## Titre IV bis : De la preuve des obligations
+
+### Chapitre Ier : Dispositions générales
 
 ###### Article 1353
 
-Les présomptions qui ne sont point établies par la loi, sont abandonnées aux lumières et à la prudence du magistrat, qui ne
-doit admettre que des présomptions graves, précises et concordantes, et dans les cas seulement où la loi admet les preuves
-testimoniales, à moins que l'acte ne soit attaqué pour cause de fraude ou de dol.
+Celui qui réclame l'exécution d'une obligation doit la prouver.
+
+Réciproquement, celui qui se prétend libéré doit justifier le paiement ou le fait qui a produit l'extinction de son
+obligation.
 
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Modifié par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 4
 
 	**Cité par**:
 
 	  - Décret n°2016-1573 du 22 novembre 2016 - art. 7
 	  - Code du patrimoine - art. R112-19-1 (V)
 
-	**Codifié par**:
-
-	  - Loi n°1804-02-07
-
-	**Créé par**:
-
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
-
-
-#### Section 4 : De l'aveu de la partie.
 
 ###### Article 1354
 
-L'aveu qui est opposé à une partie est ou extrajudiciaire ou judiciaire.
+La présomption que la loi attache à certains actes ou à certains faits en les tenant pour certains dispense celui au profit
+duquel elle existe d'en rapporter la preuve.
+
+Elle est dite simple, lorsque la loi réserve la preuve contraire, et peut alors être renversée par tout moyen de preuve ;
+elle est dite mixte, lorsque la loi limite les moyens par lesquels elle peut être renversée ou l'objet sur lequel elle peut
+être renversée ; elle est dite irréfragable lorsqu'elle ne peut être renversée.
 
 **Liens relatifs à cet article**
 
@@ -45420,15 +45799,16 @@ L'aveu qui est opposé à une partie est ou extrajudiciaire ou judiciaire.
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 4
 
 
 ###### Article 1355
 
-L'allégation d'un aveu extrajudiciaire purement verbal est inutile toutes les fois qu'il s'agit d'une demande dont la preuve
-testimoniale ne serait point admissible.
+L'autorité de la chose jugée n'a lieu qu'à l'égard de ce qui a fait l'objet du jugement. Il faut que la chose demandée soit
+la même ; que la demande soit fondée sur la même cause ; que la demande soit entre les mêmes parties, et formée par elles et
+contre elles en la même qualité.
 
 **Liens relatifs à cet article**
 
@@ -45436,21 +45816,17 @@ testimoniale ne serait point admissible.
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 4
 
 
 ###### Article 1356
 
-L'aveu judiciaire est la déclaration que fait en justice la partie ou son fondé de pouvoir spécial.
+Les contrats sur la preuve sont valables lorsqu'ils portent sur des droits dont les parties ont la libre disposition.
 
-Il fait pleine foi contre celui qui l'a fait.
-
-Il ne peut être divisé contre lui.
-
-Il ne peut être révoqué, à moins qu'on ne prouve qu'il a été la suite d'une erreur de fait. Il ne pourrait être révoqué sous
-prétexte d'une erreur de droit.
+Néanmoins, ils ne peuvent contredire les présomptions irréfragables établies par la loi, ni modifier la foi attachée à l'aveu
+ou au serment. Ils ne peuvent davantage établir au profit de l'une des parties une présomption irréfragable.
 
 **Liens relatifs à cet article**
 
@@ -45458,52 +45834,60 @@ prétexte d'une erreur de droit.
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 4
 
-
-#### Section 5 : Du serment.
 
 ###### Article 1357
 
-Le serment judiciaire est de deux espèces :
-
-1° Celui qu'une partie défère à l'autre pour en faire dépendre le jugement de la cause : il est appelé "décisoire".
-
-2° Celui qui est déféré d'office par le juge à l'une ou à l'autre des parties.
+L'administration judiciaire de la preuve et les contestations qui s'y rapportent sont régies par le code de procédure civile.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de procédure civile (V)
 
 	**Codifié par**:
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 4
 
 
-##### Paragraphe 1 : Du serment décisoire.
+### Chapitre II : L'admissibilité des modes de preuve
 
 ###### Article 1358
 
-Le serment décisoire peut être déféré sur quelque espèce de contestation que ce soit.
+Hors les cas où la loi en dispose autrement, la preuve peut être apportée par tout moyen.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 4
 
 	**Codifié par**:
 
 	  - Loi n°1804-02-07
-
-	**Créé par**:
-
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
 
 
 ###### Article 1359
 
-Il ne peut être déféré que sur un fait personnel à la partie à laquelle on le défère.
+L'acte juridique portant sur une somme ou une valeur excédant un montant fixé par décret doit être prouvé par écrit sous
+signature privée ou authentique.
+
+Il ne peut être prouvé outre ou contre un écrit établissant un acte juridique, même si la somme ou la valeur n'excède pas ce
+montant, que par un autre écrit sous signature privée ou authentique.
+
+Celui dont la créance excède le seuil mentionné au premier alinéa ne peut pas être dispensé de la preuve par écrit en
+restreignant sa demande.
+
+Il en est de même de celui dont la demande, même inférieure à ce montant, porte sur le solde ou sur une partie d'une créance
+supérieure à ce montant.
 
 **Liens relatifs à cet article**
 
@@ -45515,19 +45899,19 @@ Il ne peut être déféré que sur un fait personnel à la partie à laquelle on
 	  - Code civil - art. 1950 (VD)
 	  - Code de la propriété intellectuelle - art. L131-2 (VD)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 4
+
 	**Codifié par**:
 
 	  - Loi n°1804-02-07
-
-	**Créé par**:
-
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
 
 
 ###### Article 1360
 
-Il peut être déféré en tout état de cause, et encore qu'il n'existe aucun commencement de preuve de la demande ou de
-l'exception sur laquelle il est provoqué.
+Les règles prévues à l'article précédent reçoivent exception en cas d'impossibilité matérielle ou morale de se procurer un
+écrit, s'il est d'usage de ne pas établir un écrit, ou lorsque l'écrit a été perdu par force majeure.
 
 **Liens relatifs à cet article**
 
@@ -45535,15 +45919,15 @@ l'exception sur laquelle il est provoqué.
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 4
 
 
 ###### Article 1361
 
-Celui auquel le serment est déféré, qui le refuse ou ne consent pas à le référer à son adversaire, ou l'adversaire à qui il a
-été référé et qui le refuse, doit succomber dans sa demande ou dans son exception.
+Il peut être suppléé à l'écrit par l'aveu judiciaire, le serment décisoire ou un commencement de preuve par écrit corroboré
+par un autre moyen de preuve.
 
 **Liens relatifs à cet article**
 
@@ -45551,15 +45935,20 @@ Celui auquel le serment est déféré, qui le refuse ou ne consent pas à le ré
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 4
 
 
 ###### Article 1362
 
-Le serment ne peut être référé quand le fait qui en est l'objet n'est point celui des deux parties, mais est purement
-personnel à celui auquel le serment avait été déféré.
+Constitue un commencement de preuve par écrit tout écrit qui, émanant de celui qui conteste un acte ou de celui qu'il
+représente, rend vraisemblable ce qui est allégué.
+
+Peuvent être considérés par le juge comme équivalant à un commencement de preuve par écrit les déclarations faites par une
+partie lors de sa comparution personnelle, son refus de répondre ou son absence à la comparution.
+
+La mention d'un écrit authentique ou sous signature privée sur un registre public vaut commencement de preuve par écrit.
 
 **Liens relatifs à cet article**
 
@@ -45567,14 +45956,22 @@ personnel à celui auquel le serment avait été déféré.
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 4
+
+
+### Chapitre III : Les différents modes de preuve
+
+#### Section 1 : La preuve par écrit 
+
+
+##### Sous-section 1 : Dispositions générales 
 
 
 ###### Article 1363
 
-Lorsque le serment déféré ou référé a été fait, l'adversaire n'est point recevable à en prouver la fausseté.
+Nul ne peut se constituer de titre à soi-même.
 
 **Liens relatifs à cet article**
 
@@ -45582,15 +45979,14 @@ Lorsque le serment déféré ou référé a été fait, l'adversaire n'est point
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 4
 
 
 ###### Article 1364
 
-La partie qui a déféré ou référé le serment ne peut plus se rétracter lorsque l'adversaire a déclaré qu'il est prêt à faire
-ce serment.
+La preuve d'un acte juridique peut être préconstituée par un écrit en la forme authentique ou sous signature privée.
 
 **Liens relatifs à cet article**
 
@@ -45598,27 +45994,15 @@ ce serment.
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 4
 
 
 ###### Article 1365
 
-Le serment ne forme preuve qu'au profit de celui qui l'a déféré ou contre lui, et au profit de ses héritiers et ayants cause
-ou contre eux.
-
-Néanmoins, le serment déféré par l'un des créanciers solidaires au débiteur ne libère celui-ci que pour la part de ce
-créancier.
-
-Le serment déféré au débiteur principal libère également les cautions.
-
-Celui déféré à l'un des débiteurs solidaires profite aux codébiteurs.
-
-Et celui déféré à la caution profite au débiteur principal.
-
-Dans ces deux derniers cas, le serment du codébiteur solidaire ou de la caution ne profite aux autres codébiteurs ou au
-débiteur principal que lorsqu'il a été déféré sur la dette, et non sur le fait de la solidarité ou du cautionnement.
+L'écrit consiste en une suite de lettres, de caractères, de chiffres ou de tous autres signes ou symboles dotés d'une
+signification intelligible, quel que soit leur support.
 
 **Liens relatifs à cet article**
 
@@ -45635,17 +46019,15 @@ débiteur principal que lorsqu'il a été déféré sur la dette, et non sur le 
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 4
 
-
-##### Paragraphe 2 : Du serment déféré d'office.
 
 ###### Article 1366
 
-Le juge peut déférer à l'une des parties le serment, ou pour en faire dépendre la décision de la cause, ou seulement pour
-déterminer le montant de la condamnation.
+L'écrit électronique a la même force probante que l'écrit sur support papier, sous réserve que puisse être dûment identifiée
+la personne dont il émane et qu'il soit établi et conservé dans des conditions de nature à en garantir l'intégrité.
 
 **Liens relatifs à cet article**
 
@@ -45671,25 +46053,24 @@ déterminer le montant de la condamnation.
 	  - Code rural et de la pêche maritime - art. R141-2-3 (V)
 	  - Code rural et de la pêche maritime - art. R143-6 (V)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 4
+
 	**Codifié par**:
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
-
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
-
 
 ###### Article 1367
 
-Le juge ne peut déférer d'office le serment, soit sur la demande, soit sur l'exception qui y est opposée, que sous les deux
-conditions suivantes ; il faut :
+La signature nécessaire à la perfection d'un acte juridique identifie son auteur. Elle manifeste son consentement aux
+obligations qui découlent de cet acte. Quand elle est apposée par un officier public, elle confère l'authenticité à l'acte. 
 
-1. Que la demande ou l'exception ne soit pas pleinement justifiée ;
-
-2. Qu'elle ne soit pas totalement dénuée de preuves.
-
-Hors ces deux cas, le juge doit ou adjuger ou rejeter purement et simplement la demande.
+Lorsqu'elle est électronique, elle consiste en l'usage d'un procédé fiable d'identification garantissant son lien avec l'acte
+auquel elle s'attache. La fiabilité de ce procédé est présumée, jusqu'à preuve contraire, lorsque la signature électronique
+est créée, l'identité du signataire assurée et l'intégrité de l'acte garantie, dans des conditions fixées par décret en
+Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
@@ -45726,18 +46107,19 @@ Hors ces deux cas, le juge doit ou adjuger ou rejeter purement et simplement la 
 	  - Code du tourisme. - art. R211-48 (V)
 	  - Code rural et de la pêche maritime - art. R311-2-3 (V)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 4
+
 	**Codifié par**:
 
 	  - Loi n°1804-02-07
-
-	**Créé par**:
-
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
 
 
 ###### Article 1368
 
-Le serment déféré d'office par le juge à l'une des parties ne peut être par elle référé à l'autre.
+A défaut de dispositions ou de conventions contraires, le juge règle les conflits de preuve par écrit en déterminant par tout
+moyen le titre le plus vraisemblable.
 
 **Liens relatifs à cet article**
 
@@ -45745,401 +46127,44 @@ Le serment déféré d'office par le juge à l'une des parties ne peut être par
 
 	  - Loi n°1804-02-07
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 4
 
+
+##### Sous-section 2 : L'acte authentique 
 
 ###### Article 1369
 
-Le serment sur la valeur de la chose demandée ne peut être déféré par le juge au demandeur que lorsqu'il est d'ailleurs
-impossible de constater autrement cette valeur.
+L'acte authentique est celui qui a été reçu, avec les solennités requises, par un officier public ayant compétence et qualité
+pour instrumenter. 
 
-Le juge doit même, en ce cas, déterminer la somme jusqu'à concurrence de laquelle le demandeur en sera cru sur son serment.
+Il peut être dressé sur support électronique s'il est établi et conservé dans des conditions fixées par décret en Conseil
+d'État. 
+
+Lorsqu'il est reçu par un notaire, il est dispensé de toute mention manuscrite exigée par la loi.
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Loi n°1804-02-07
+
+	**Modifié par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 4
+
 	**Cité par**:
 
+	  - Ordonnance n°2016-728 du 2 juin 2016 - art. 10 (V)
 	  - Code civil - art. 1174 (V)
 	  - Code du patrimoine - art. R213-2 (V)
-	  - Ordonnance n°2016-728 du 2 juin 2016 - art. 10 (V)
 
-	**Codifié par**:
-
-	  - Loi n°1804-02-07
-
-	**Créé par**:
-
-	  - Loi n°1804-02-07 promulguée le 17 février 1804
-
-
-### Chapitre VII : Des contrats sous forme électronique.
-
-#### Section 1 : De l'échange d'informations en cas de contrat sous forme électronique.
-
-###### Article 1369-1
-
-La voie électronique peut être utilisée pour mettre à disposition des conditions contractuelles ou des informations sur des
-biens ou services.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Ordonnance n°2005-674 du 16 juin 2005 - art. 1 () JORF 17 juin 2005
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
-
-	**Cité par**:
-
-	  - Code civil - art. 1369-3 (M)
-	  - Code civil - art. 1369-9 (V)
-	  - Code du tourisme. - art. L211-1 (V)
-	  - Code du tourisme. - art. R211-3-1 (M)
-	  - Code du tourisme. - art. R211-6 (M)
-
-	**Nouveaux textes**:
-
-	  - Code civil - art. 1369-4 (V)
-
-	**Codifié par**:
-
-	  - Loi n°1804-02-07
-
-
-###### Article 1369-2
-
-Les informations qui sont demandées en vue de la conclusion d'un contrat ou celles qui sont adressées au cours de son
-exécution peuvent être transmises par courrier électronique si leur destinataire a accepté l'usage de ce moyen.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Ordonnance n°2005-674 du 16 juin 2005 - art. 1 () JORF 17 juin 2005
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
-
-	**Cité par**:
-
-	  - Code civil - art. 1369-3 (M)
-	  - Code civil - art. 1369-9 (V)
-
-	**Nouveaux textes**:
-
-	  - Code civil - art. 1369-5 (V)
-
-	**Codifié par**:
-
-	  - Loi n°1804-02-07
-
-
-###### Article 1369-3
-
-Les informations destinées à un professionnel peuvent lui être adressées par courrier électronique, dès lors qu'il a
-communiqué son adresse électronique.
-
-Si ces informations doivent être portées sur un formulaire, celui-ci est mis, par voie électronique, à la disposition de la
-personne qui doit le remplir.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1804-02-07
-
-	**Modifié par**:
-
-	  - Ordonnance n°2005-674 du 16 juin 2005 - art. 1 () JORF 17 juin 2005
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
-
-	**Nouveaux textes**:
-
-	  - Code civil - art. 1369-6 (V)
-
-	**Cité par**:
-
-	  - Code du tourisme. - art. L211-1 (V)
-
-
-#### Section 2 : De la conclusion d'un contrat sous forme électronique.
-
-###### Article 1369-4
-
-Quiconque propose, à titre professionnel, par voie électronique, la fourniture de biens ou la prestation de services, met à
-disposition les conditions contractuelles applicables d'une manière qui permette leur conservation et leur reproduction. Sans
-préjudice des conditions de validité mentionnées dans l'offre, son auteur reste engagé par elle tant qu'elle est accessible
-par voie électronique de son fait.
-
-L'offre énonce en outre :
-
-1° Les différentes étapes à suivre pour conclure le contrat par voie électronique ;
-
-2° Les moyens techniques permettant à l'utilisateur, avant la conclusion du contrat, d'identifier les erreurs commises dans
-la saisie des données et de les corriger ;
-
-3° Les langues proposées pour la conclusion du contrat ;
-
-4° En cas d'archivage du contrat, les modalités de cet archivage par l'auteur de l'offre et les conditions d'accès au contrat
-archivé ;
-
-5° Les moyens de consulter par voie électronique les règles professionnelles et commerciales auxquelles l'auteur de l'offre
-entend, le cas échéant, se soumettre.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Décret n°2013-559 du 26 juin 2013 - art. 12 (M)
-	  - Code civil - art. 1369-6 (V)
-	  - Code du tourisme. - art. L211-1 (VD)
-
-	**Anciens textes**:
-
-	  - Code civil - art. 1369-1 (M)
-
-	**Codifié par**:
-
-	  - Loi n°1804-02-07
-
-	**Créé par**:
-
-	  - Ordonnance 2005-674 2005-06-16 art. 1 I, III JORF 17 juin 2005
-	  - Ordonnance n°2005-674 du 16 juin 2005 - art. 1 () JORF 17 juin 2005
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
-
-
-###### Article 1369-5
-
-Pour que le contrat soit valablement conclu, le destinataire de l'offre doit avoir eu la possibilité de vérifier le détail de
-sa commande et son prix total, et de corriger d'éventuelles erreurs, avant de confirmer celle-ci pour exprimer son
-acceptation.
-
-L'auteur de l'offre doit accuser réception sans délai injustifié et par voie électronique de la commande qui lui a été ainsi
-adressée.
-
-La commande, la confirmation de l'acceptation de l'offre et l'accusé de réception sont considérés comme reçus lorsque les
-parties auxquelles ils sont adressés peuvent y avoir accès.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Ordonnance 2005-674 2005-06-16 art. 1 I, III JORF 17 juin 2005
-	  - Ordonnance n°2005-674 du 16 juin 2005 - art. 1 () JORF 17 juin 2005
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
-
-	**Anciens textes**:
-
-	  - Code civil - art. 1369-2 (M)
-
-	**Cité par**:
-
-	  - Code civil - art. 1369-6 (V)
-	  - Code de commerce - art. L321-3 (VD)
-
-	**Codifié par**:
-
-	  - Loi n°1804-02-07
-
-
-###### Article 1369-6
-
-Il est fait exception aux obligations visées aux 1° à 5° de l'article 1369-4 et aux deux premiers alinéas de l'article 1369-5
-pour les contrats de fourniture de biens ou de prestation de services qui sont conclus exclusivement par échange de courriers
-électroniques. 
-
-Il peut, en outre, être dérogé aux dispositions de l'article 1369-5 et des 1° à 5° de l'article 1369-4 dans les conventions
-conclues entre professionnels.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Ordonnance 2005-674 2005-06-16 art. 1 I, III JORF 17 juin 2005
-	  - Ordonnance n°2005-674 du 16 juin 2005 - art. 1 () JORF 17 juin 2005
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
-
-	**Anciens textes**:
-
-	  - Code civil - art. 1369-3 (M)
-
-	**Cite**:
-
-	  - Code civil - art. 1369-4 (V)
-	  - Code civil - art. 1369-5 (V)
-
-	**Codifié par**:
-
-	  - Loi n°1804-02-07
-
-
-#### Section 3 : De l'envoi ou de la remise d'un écrit par voie électronique.
-
-###### Article 1369-7
-
-Une lettre simple relative à la conclusion ou à l'exécution d'un contrat peut être envoyée par courrier électronique.
-
-L'apposition de la date d'expédition résulte d'un procédé électronique dont la fiabilité est présumée, jusqu'à preuve
-contraire, lorsqu'il satisfait à des exigences fixées par décret en Conseil d'Etat.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1804-02-07
-
-	**Créé par**:
-
-	  - Ordonnance n°2005-674 du 16 juin 2005 - art. 1 () JORF 17 juin 2005
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
-
-
-###### Article 1369-8
-
-Une lettre recommandée relative à la conclusion ou à l'exécution d'un contrat peut être envoyée par courrier électronique à
-condition que ce courrier soit acheminé par un tiers selon un procédé permettant d'identifier le tiers, de désigner
-l'expéditeur, de garantir l'identité du destinataire et d'établir si la lettre a été remise ou non au destinataire.
-
-Le contenu de cette lettre, au choix de l'expéditeur, peut être imprimé par le tiers sur papier pour être distribué au
-destinataire ou peut être adressé à celui-ci par voie électronique. Dans ce dernier cas, si le destinataire n'est pas un
-professionnel, il doit avoir demandé l'envoi par ce moyen ou en avoir accepté l'usage au cours d'échanges antérieurs.
-
-Lorsque l'apposition de la date d'expédition ou de réception résulte d'un procédé électronique, la fiabilité de celui-ci est
-présumée, jusqu'à preuve contraire, s'il satisfait à des exigences fixées par un décret en Conseil d'Etat.
-
-Un avis de réception peut être adressé à l'expéditeur par voie électronique ou par tout autre dispositif lui permettant de le
-conserver.
-
-Les modalités d'application du présent article sont fixées par décret en Conseil d'Etat.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Décret n°67-223 du 17 mars 1967 - art. 64-3 (M)
-	  - Décret n°2011-144 du 2 février 2011 (V)
-
-	**Créé par**:
-
-	  - Ordonnance n°2005-674 du 16 juin 2005 - art. 1 () JORF 17 juin 2005
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
-
-	**Codifié par**:
-
-	  - Loi n°1804-02-07
-
-
-###### Article 1369-9
-
-Hors les cas prévus aux articles 1369-1 et 1369-2, la remise d'un écrit sous forme électronique est effective lorsque le
-destinataire, après avoir pu en prendre connaissance, en a accusé réception. 
-
-Si une disposition prévoit que l'écrit doit être lu au destinataire, la remise d'un écrit électronique à l'intéressé dans les
-conditions prévues au premier alinéa vaut lecture.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1804-02-07
-
-	**Créé par**:
-
-	  - Ordonnance n°2005-674 du 16 juin 2005 - art. 1 () JORF 17 juin 2005
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
-
-	**Cite**:
-
-	  - Code civil - art. 1369-1 (V)
-	  - Code civil - art. 1369-2 (V)
-
-
-#### Section 4 : De certaines exigences de forme.
-
-###### Article 1369-10
-
-Lorsque l'écrit sur papier est soumis à des conditions particulières de lisibilité ou de présentation, l'écrit sous forme
-électronique doit répondre à des exigences équivalentes.
-
-L'exigence d'un formulaire détachable est satisfaite par un procédé électronique qui permet d'accéder au formulaire et de le
-renvoyer par la même voie.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1804-02-07
-
-	**Créé par**:
-
-	  - Ordonnance n°2005-674 du 16 juin 2005 - art. 1 () JORF 17 juin 2005
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
-
-
-###### Article 1369-11
-
-L'exigence d'un envoi en plusieurs exemplaires est réputée satisfaite sous forme électronique si l'écrit peut être imprimé
-par le destinataire.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1804-02-07
-
-	**Créé par**:
-
-	  - Ordonnance n°2005-674 du 16 juin 2005 - art. 1 () JORF 17 juin 2005
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
-
-
-## Titre IV : Des engagements qui se forment sans convention
 
 ###### Article 1370
 
-Certains engagements se forment sans qu'il intervienne aucune convention, ni de la part de celui qui s'oblige, ni de la part
-de celui envers lequel il est obligé.
-
-Les uns résultent de l'autorité seule de la loi ; les autres naissent d'un fait personnel à celui qui se trouve obligé.
-
-Les premiers sont les engagements formés involontairement, tels que ceux entre propriétaires voisins, ou ceux des tuteurs et
-des autres administrateurs qui ne peuvent refuser la fonction qui leur est déférée.
-
-Les engagements qui naissent d'un fait personnel à celui qui se trouve obligé, résultent ou des quasi-contrats, ou des délits
-ou quasi-délits ; ils font la matière du présent titre.
+L'acte qui n'est pas authentique du fait de l'incompétence ou de l'incapacité de l'officier, ou par un défaut de forme, vaut
+comme écrit sous signature privée, s'il a été signé des parties.
 
 **Liens relatifs à cet article**
 
@@ -46147,17 +46172,17 @@ ou quasi-délits ; ils font la matière du présent titre.
 
 	  - Loi n°1804-02-09
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°1804-02-09 promulguée le 19 février 1804
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 4
 
-
-### Chapitre Ier : Des quasi-contrats.
 
 ###### Article 1371
 
-Les quasi-contrats sont les faits purement volontaires de l'homme, dont il résulte un engagement quelconque envers un tiers,
-et quelquefois un engagement réciproque des deux parties.
+L'acte authentique fait foi jusqu'à inscription de faux de ce que l'officier public dit avoir personnellement accompli ou
+constaté. 
+
+En cas d'inscription de faux, le juge peut suspendre l'exécution de l'acte.
 
 **Liens relatifs à cet article**
 
@@ -46165,19 +46190,18 @@ et quelquefois un engagement réciproque des deux parties.
 
 	  - Loi n°1804-02-09
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°1804-02-09 promulguée le 19 février 1804
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 4
+
+
+##### Sous-section 3 : L'acte sous signature privée 
 
 
 ###### Article 1372
 
-Lorsque volontairement on gère l'affaire d'autrui, soit que le propriétaire connaisse la gestion, soit qu'il l'ignore, celui
-qui gère contracte l'engagement tacite de continuer la gestion qu'il a commencée, et de l'achever jusqu'à ce que le
-propriétaire soit en état d'y pourvoir lui-même ; il doit se charger également de toutes les dépendances de cette même
-affaire.
-
-Il se soumet à toutes les obligations qui résulteraient d'un mandat exprès que lui aurait donné le propriétaire.
+L'acte sous signature privée, reconnu par la partie à laquelle on l'oppose ou légalement tenu pour reconnu à son égard, fait
+foi entre ceux qui l'ont souscrit et à l'égard de leurs héritiers et ayants cause.
 
 **Liens relatifs à cet article**
 
@@ -46185,15 +46209,16 @@ Il se soumet à toutes les obligations qui résulteraient d'un mandat exprès qu
 
 	  - Loi n°1804-02-09
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°1804-02-09 promulguée le 19 février 1804
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 4
 
 
 ###### Article 1373
 
-Il est obligé de continuer sa gestion, encore que le maître vienne à mourir avant que l'affaire soit consommée, jusqu'à ce
-que l'héritier ait pu en prendre la direction.
+La partie à laquelle on l'oppose peut désavouer son écriture ou sa signature. Les héritiers ou ayants cause d'une partie
+peuvent pareillement désavouer l'écriture ou la signature de leur auteur, ou déclarer qu'ils ne les connaissent. Dans ces
+cas, il y a lieu à vérification d'écriture.
 
 **Liens relatifs à cet article**
 
@@ -46201,23 +46226,29 @@ que l'héritier ait pu en prendre la direction.
 
 	  - Loi n°1804-02-09
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°1804-02-09 promulguée le 19 février 1804
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 4
 
 
 ###### Article 1374
 
-Il est tenu d'apporter à la gestion de l'affaire tous les soins      raisonnables. 
+L'acte sous signature privée contresigné par les avocats de chacune des parties ou par l'avocat de toutes les parties fait
+foi de l'écriture et de la signature des parties, tant à leur égard qu'à celui de leurs héritiers ou ayants cause. 
 
-Néanmoins les circonstances qui l'ont conduit à se charger de l'affaire peuvent autoriser le juge à modérer les dommages et
-intérêts qui résulteraient des fautes ou de la négligence du gérant.
+La procédure de faux prévue par le code de procédure civile lui est applicable. 
+
+Cet acte est dispensé de toute mention manuscrite exigée par la loi.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2014-873 du 4 août 2014 - art. 26
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 4
+
+	**Cite**:
+
+	  - Code de procédure civile (V)
 
 	**Codifié par**:
 
@@ -46226,9 +46257,18 @@ intérêts qui résulteraient des fautes ou de la négligence du gérant.
 
 ###### Article 1375
 
-Le maître dont l'affaire a été bien administrée doit remplir les engagements que le gérant a contractés en son nom,
-l'indemniser de tous les engagements personnels qu'il a pris, et lui rembourser toutes les dépenses utiles ou nécessaires
-qu'il a faites.
+L'acte sous signature privée qui constate un contrat synallagmatique ne fait preuve que s'il a été fait en autant d'originaux
+qu'il y a de parties ayant un intérêt distinct, à moins que les parties ne soient convenues de remettre à un tiers l'unique
+exemplaire dressé. 
+
+Chaque original doit mentionner le nombre des originaux qui en ont été faits. 
+
+Celui qui a exécuté le contrat, même partiellement, ne peut opposer le défaut de la pluralité d'originaux ou de la mention de
+leur nombre. 
+
+L'exigence d'une pluralité d'originaux est réputée satisfaite pour les contrats sous forme électronique lorsque l'acte est
+établi et conservé conformément aux articles 1366 et 1367, et que le procédé permet à chaque partie de disposer d'un
+exemplaire sur support durable ou d'y avoir accès.
 
 **Liens relatifs à cet article**
 
@@ -46236,19 +46276,25 @@ qu'il a faites.
 
 	  - Loi n°1804-02-09
 
-	**Créé par**:
-
-	  - Loi n°1804-02-09 promulguée le 19 février 1804
-
 	**Cité par**:
 
 	  - Loi n°70-9 du 2 janvier 1970 - art. 6 (VD)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 4
+
+	**Cite**:
+
+	  - Code civil - art. 1366 (V)
+
 
 ###### Article 1376
 
-Celui qui reçoit par erreur ou sciemment ce qui ne lui est pas dû s'oblige à le restituer à celui de qui il l'a indûment
-reçu.
+L'acte sous signature privée par lequel une seule partie s'engage envers une autre à lui payer une somme d'argent ou à lui
+livrer un bien fongible ne fait preuve que s'il comporte la signature de celui qui souscrit cet engagement ainsi que la
+mention, écrite par lui-même, de la somme ou de la quantité en toutes lettres et en chiffres. En cas de différence, l'acte
+sous signature privée vaut preuve pour la somme écrite en toutes lettres.
 
 **Liens relatifs à cet article**
 
@@ -46262,18 +46308,15 @@ reçu.
 
 	  - Loi n°1804-02-09
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°1804-02-09 promulguée le 19 février 1804
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 4
 
 
 ###### Article 1377
 
-Lorsqu'une personne qui, par erreur, se croyait débitrice, a acquitté une dette, elle a le droit de répétition contre le
-créancier.
-
-Néanmoins, ce droit cesse dans le cas où le créancier a supprimé son titre par suite du paiement, sauf le recours de celui
-qui a payé contre le véritable débiteur.
+L'acte sous signature privée n'acquiert date certaine à l'égard des tiers que du jour où il a été enregistré, du jour de la
+mort d'un signataire, ou du jour où sa substance est constatée dans un acte authentique.
 
 **Liens relatifs à cet article**
 
@@ -46287,15 +46330,19 @@ qui a payé contre le véritable débiteur.
 
 	  - Loi n°1804-02-09
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°1804-02-09 promulguée le 19 février 1804
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 4
+
+
+##### Sous-section 4 : Autres écrits 
 
 
 ###### Article 1378
 
-S'il y a eu mauvaise foi de la part de celui qui a reçu, il est tenu de restituer, tant le capital que les intérêts ou les
-fruits, du jour du paiement.
+Les registres et documents que les professionnels doivent tenir ou établir ont, contre leur auteur, la même force probante
+que les écrits sous signature privée ; mais celui qui s'en prévaut ne peut en diviser les mentions pour n'en retenir que
+celles qui lui sont favorables.
 
 **Liens relatifs à cet article**
 
@@ -46303,18 +46350,63 @@ fruits, du jour du paiement.
 
 	  - Loi n°1804-02-09
 
+	**Modifié par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 4
+
+
+###### Article 1378-1
+
+Les registres et papiers domestiques ne font pas preuve au profit de celui qui les a écrits. 
+
+Ils font preuve contre lui : 
+
+1° Dans tous les cas où ils énoncent formellement un paiement reçu ; 
+
+2° Lorsqu'ils contiennent la mention expresse que l'écrit a été fait pour suppléer le défaut du titre en faveur de qui ils
+énoncent une obligation.
+
+**Liens relatifs à cet article**
+
 	**Créé par**:
 
-	  - Loi n°1804-02-09 promulguée le 19 février 1804
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 4
+
+
+###### Article 1378-2
+
+La mention d'un paiement ou d'une autre cause de libération portée par le créancier sur un titre original qui est toujours
+resté en sa possession vaut présomption simple de libération du débiteur. 
+
+Il en est de même de la mention portée sur le double d'un titre ou d'une quittance, pourvu que ce double soit entre les mains
+du débiteur.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 4
+
+
+##### Sous-section 5 : Les copies 
 
 
 ###### Article 1379
 
-Si la chose indûment reçue est un immeuble ou un meuble corporel, celui qui l'a reçue s'oblige à la restituer en nature, si
-elle existe, ou sa valeur, si elle est périe ou détériorée par sa faute ; il est même garant de sa perte par cas fortuit,
-s'il l'a reçue de mauvaise foi.
+La copie fiable a la même force probante que l'original. La fiabilité est laissée à l'appréciation du juge. Néanmoins est
+réputée fiable la copie exécutoire ou authentique d'un écrit authentique. 
+
+Est présumée fiable jusqu'à preuve du contraire toute copie résultant d'une reproduction à l'identique de la forme et du
+contenu de l'acte, et dont l'intégrité est garantie dans le temps par un procédé conforme à des conditions fixées par décret
+en Conseil d'État. 
+
+Si l'original subsiste, sa présentation peut toujours être exigée.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 4
 
 	**Cité par**:
 
@@ -46326,14 +46418,15 @@ s'il l'a reçue de mauvaise foi.
 
 	  - Loi n°1804-02-09
 
-	**Créé par**:
 
-	  - Loi n°1804-02-09 promulguée le 19 février 1804
+##### Sous-section 6 : Les actes récognitifs 
 
 
 ###### Article 1380
 
-Si celui qui a reçu de bonne foi a vendu la chose, il ne doit restituer que le prix de la vente.
+L'acte récognitif ne dispense pas de la présentation du titre original sauf si sa teneur y est spécialement relatée. 
+
+Ce qu'il contient de plus ou de différent par rapport au titre original n'a pas d'effet.
 
 **Liens relatifs à cet article**
 
@@ -46341,32 +46434,42 @@ Si celui qui a reçu de bonne foi a vendu la chose, il ne doit restituer que le 
 
 	  - Loi n°1804-02-09
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°1804-02-09 promulguée le 19 février 1804
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 4
+
+
+#### Section 2 : La preuve par témoins 
 
 
 ###### Article 1381
 
-Celui auquel la chose est restituée, doit tenir compte, même au possesseur de mauvaise foi, de toutes les dépenses
-nécessaires et utiles qui ont été faites pour la conservation de la chose.
+La valeur probante des déclarations faites par un tiers dans les conditions du code de procédure civile est laissée à
+l'appréciation du juge.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 4
+
+	**Cite**:
+
+	  - Code de procédure civile (V)
 
 	**Codifié par**:
 
 	  - Loi n°1804-02-09
 
-	**Créé par**:
 
-	  - Loi n°1804-02-09 promulguée le 19 février 1804
+#### Section 3 : La preuve par présomption judiciaire 
 
 
-### Chapitre II : Des délits et des quasi-délits.
 
 ###### Article 1382
 
-Tout fait quelconque de l'homme, qui cause à autrui un dommage, oblige celui par la faute duquel il est arrivé à le réparer.
+Les présomptions qui ne sont pas établies par la loi, sont laissées à l'appréciation du juge, qui ne doit les admettre que si
+elles sont graves, précises et concordantes, et dans les cas seulement où la loi admet la preuve par tout moyen.
 
 **Liens relatifs à cet article**
 
@@ -46418,19 +46521,24 @@ Tout fait quelconque de l'homme, qui cause à autrui un dommage, oblige celui pa
 	  - Code rural ancien - art. 857 (Ab)
 	  - Loi n°1930-03-26 du 26 mars 1930 - art. 3 (Ab)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 4
+
 	**Codifié par**:
 
 	  - Loi n°1804-02-09
 
-	**Créé par**:
 
-	  - Loi n°1804-02-09 promulguée le 19 février 1804
+#### Section 4 : L'aveu 
 
 
 ###### Article 1383
 
-Chacun est responsable du dommage  qu'il a causé non seulement par son fait, mais encore par sa négligence ou par son
-imprudence.
+L'aveu est la déclaration par laquelle une personne reconnaît pour vrai un fait de nature à produire contre elle des
+conséquences juridiques. 
+
+Il peut être judiciaire ou extrajudiciaire.
 
 **Liens relatifs à cet article**
 
@@ -46447,41 +46555,52 @@ imprudence.
 	  - CODE PENAL - art. 69 (Ab)
 	  - Code de procédure pénale - art. 4-1 (V)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 4
+
 	**Codifié par**:
 
 	  - Loi n°1804-02-09
 
+
+###### Article 1383-1
+
+L'aveu extrajudiciaire purement verbal n'est reçu que dans les cas où la loi permet la preuve par tout moyen. 
+
+Sa valeur probante est laissée à l'appréciation du juge.
+
+**Liens relatifs à cet article**
+
 	**Créé par**:
 
-	  - Loi n°1804-02-09 promulguée le 19 février 1804
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 4
+
+
+###### Article 1383-2
+
+L'aveu judiciaire est la déclaration que fait en justice la partie ou son représentant spécialement mandaté. 
+
+Il fait foi contre celui qui l'a fait. 
+
+Il ne peut être divisé contre son auteur. 
+
+Il est irrévocable, sauf en cas d'erreur de fait.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 4
+
+
+#### Section 5 : Le serment 
 
 
 ###### Article 1384
 
-On est responsable non seulement du dommage que l'on cause par son propre fait, mais encore de celui qui est causé par le
-fait des personnes dont on doit répondre, ou des choses que l'on a sous sa garde. 
-
-Toutefois, celui qui détient, à un titre quelconque, tout ou partie de l'immeuble ou des biens mobiliers dans lesquels un
-incendie a pris naissance ne sera responsable, vis-à-vis des tiers, des dommages causés par cet incendie que s'il est prouvé
-qu'il doit être attribué à sa faute ou à la faute des personnes dont il est responsable. 
-
-Cette disposition ne s'applique pas aux rapports entre propriétaires et locataires, qui demeurent régis par les articles 1733
-et 1734 du code civil. 
-
-Le père et la mère, en tant qu'ils exercent l'autorité parentale, sont solidairement responsables du dommage causé par leurs
-enfants mineurs habitant avec eux. 
-
-Les maîtres et les commettants, du dommage causé par leurs domestiques et préposés dans les fonctions auxquelles ils les ont
-employés ; 
-
-Les instituteurs et les artisans, du dommage causé par leurs élèves et apprentis pendant le temps qu'ils sont sous leur
-surveillance. 
-
-La responsabilité ci-dessus a lieu, à moins que les père et mère et les artisans ne prouvent qu'ils n'ont pu empêcher le fait
-qui donne lieu à cette responsabilité. 
-
-En ce qui concerne les instituteurs, les fautes, imprudences ou négligences invoquées contre eux comme ayant causé le fait
-dommageable, devront être prouvées, conformément au droit commun, par le demandeur, à l'instance.
+Le serment peut être déféré, à titre décisoire, par une partie à l'autre pour en faire dépendre le jugement de la cause. Il
+peut aussi être déféré d'office par le juge à l'une des parties.
 
 **Liens relatifs à cet article**
 
@@ -46522,29 +46641,31 @@ dommageable, devront être prouvées, conformément au droit commun, par le dema
 	  - Code rural ancien - art. 491 (Ab)
 	  - Décret n°1986-03-14 du 14 mars 1986 - art. ANNEXE (Ab)
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°2002-305 2002-03-04 art. 19 I (application à Mayotte), art. 19 II (application à Wallis-et-Futuna, Polynésie française et Nouvelle-Calédonie)
-
 	**Modifié par**:
 
-	  - Loi n°2002-305 du 4 mars 2002 - art. 8 () JORF 5 mars 2002
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 4
 
 	**Cite**:
 
-	  - Code civil - art. 1733 (V)
+	  - Code civil - art. 1733
 
 	**Codifié par**:
 
 	  - Loi n°1804-02-09
 
 
+##### Sous-section 1 : Le serment décisoire 
+
+
 ###### Article 1385
 
-Le propriétaire d'un animal, ou celui qui s'en sert, pendant qu'il est à son usage, est responsable du dommage que l'animal a
-causé, soit que l'animal fût sous sa garde, soit qu'il fût égaré ou échappé.
+Le serment décisoire peut être déféré sur quelque espèce de contestation que ce soit et en tout état de cause.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 4
 
 	**Cité par**:
 
@@ -46558,17 +46679,84 @@ causé, soit que l'animal fût sous sa garde, soit qu'il fût égaré ou échapp
 
 	  - Loi n°1804-02-09
 
+
+###### Article 1385-1
+
+Il ne peut être déféré que sur un fait personnel à la partie à laquelle on le défère. 
+
+Il peut être référé par celle-ci, à moins que le fait qui en est l'objet ne lui soit purement personnel.
+
+**Liens relatifs à cet article**
+
 	**Créé par**:
 
-	  - Loi n°1804-02-09 promulguée le 19 février 1804
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 4
+
+
+###### Article 1385-2
+
+Celui à qui le serment est déféré et qui le refuse ou ne veut pas le référer, ou celui à qui il a été référé et qui le
+refuse, succombe dans sa prétention.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 4
+
+
+###### Article 1385-3
+
+La partie qui a déféré ou référé le serment ne peut plus se rétracter lorsque l'autre partie a déclaré qu'elle est prête à
+faire ce serment. 
+
+Lorsque le serment déféré ou référé a été fait, l'autre partie n'est pas admise à en prouver la fausseté.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 4
+
+
+###### Article 1385-4
+
+Le serment ne fait preuve qu'au profit de celui qui l'a déféré et de ses héritiers et ayants cause, ou contre eux. 
+
+Le serment déféré par l'un des créanciers solidaires au débiteur ne libère celui-ci que pour la part de ce créancier. 
+
+Le serment déféré au débiteur principal libère également les cautions. 
+
+Celui déféré à l'un des débiteurs solidaires profite aux codébiteurs. 
+
+Celui déféré à la caution profite au débiteur principal. 
+
+Dans ces deux derniers cas, le serment du codébiteur solidaire ou de la caution ne profite aux autres codébiteurs ou au
+débiteur principal que lorsqu'il a été déféré sur la dette, et non sur le fait de la solidarité ou du cautionnement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 4
+
+
+##### Sous-section 2 : Le serment déféré d'office 
 
 
 ###### Article 1386
 
-Le propriétaire d'un bâtiment est responsable du dommage causé par sa ruine, lorsqu'elle est arrivée par une suite du défaut
-d'entretien ou par le vice de sa construction.
+Le juge peut d'office déférer le serment à l'une des parties. 
+
+Ce serment ne peut être référé à l'autre partie. 
+
+Sa valeur probante est laissée à l'appréciation du juge.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 4
 
 	**Cité par**:
 
@@ -46579,622 +46767,21 @@ d'entretien ou par le vice de sa construction.
 
 	  - Loi n°1804-02-09
 
-	**Créé par**:
-
-	  - Loi n°1804-02-09 promulguée le 19 février 1804
-
-
-## Titre IV bis : De la responsabilité du fait des produits défectueux
 
 ###### Article 1386-1
 
-Le producteur est responsable du dommage causé par un défaut de son produit, qu'il soit ou non lié par un contrat avec la
-victime.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1804-02-09
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°98-389 1998-05-19 art. 21 *modalités d'application* et art. 22 *champ d'application territoriale*
-
-	**Créé par**:
-
-	  - Loi n°98-389 du 19 mai 1998 - art. 1 () JORF 21 mai 1998
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2016-131 du 10 février 2016 - art. 4
-
-
-###### Article 1386-2
-
-Les dispositions du présent titre s'appliquent à la réparation du dommage qui résulte d'une atteinte à  la personne.
-
-Elles s'appliquent également à la réparation du dommage supérieur à un montant déterminé par décret, qui résulte d'une
-atteinte à un bien autre que le produit défectueux lui-même.
+Le juge ne peut déférer d'office le serment, soit sur la demande, soit sur l'exception qui y est opposée, que si elle n'est
+pas pleinement justifiée ou totalement dénuée de preuves.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2004-1343 du 9 décembre 2004 - art. 29 () JORF 10 décembre 2004
-
-	**Cité par**:
-
-	  - Décret n°2005-113 du 11 février 2005 - art. 1 (M)
-
-	**Codifié par**:
-
-	  - Loi n°1804-02-09
-
-	**Abrogé par**:
-
 	  - Ordonnance n°2016-131 du 10 février 2016 - art. 4
 
-
-###### Article 1386-3
-
-Est un produit tout bien meuble, même s'il est incorporé dans un immeuble, y compris les produits du sol, de l'élevage, de la
-chasse et de la pêche. L'électricité est considérée comme un produit.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1804-02-09
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°98-389 1998-05-19 art. 21 *modalités d'application* et art. 22 *champ d'application territoriale*
-
 	**Créé par**:
-
-	  - Loi n°98-389 du 19 mai 1998 - art. 1 () JORF 21 mai 1998
-
-	**Abrogé par**:
 
 	  - Ordonnance n°2016-131 du 10 février 2016 - art. 4
-
-
-###### Article 1386-4
-
-Un produit est défectueux au sens du présent titre lorsqu'il n'offre pas la sécurité à laquelle on peut légitimement
-s'attendre.
-
-Dans l'appréciation de la sécurité à laquelle on peut légitimement s'attendre, il doit être tenu compte de toutes les
-circonstances et notamment de la présentation du produit, de l'usage qui peut en être raisonnablement attendu et du moment de
-sa mise en circulation.
-
-Un produit ne peut être considéré comme défectueux par le seul fait qu'un autre, plus perfectionné, a été mis postérieurement
-en circulation.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1804-02-09
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°98-389 1998-05-19 art. 21 *modalités d'application* et art. 22 *champ d'application territoriale*
-
-	**Créé par**:
-
-	  - Loi n°98-389 du 19 mai 1998 - art. 1 () JORF 21 mai 1998
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2016-131 du 10 février 2016 - art. 4
-
-
-###### Article 1386-5
-
-Un produit est mis en circulation lorsque le producteur s'en est dessaisi volontairement.
-
-Un produit ne fait l'objet que d'une seule mise en circulation.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1804-02-09
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°98-389 1998-05-19 art. 21 *modalités d'application* et art. 22 *champ d'application territoriale*
-
-	**Créé par**:
-
-	  - Loi n°98-389 du 19 mai 1998 - art. 1 () JORF 21 mai 1998
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2016-131 du 10 février 2016 - art. 4
-
-
-###### Article 1386-6
-
-Est producteur, lorsqu'il agit à titre professionnel, le fabricant d'un produit fini, le producteur d'une matière première,
-le fabricant d'une partie composante. 
-
-Est assimilée à un producteur pour l'application du présent titre toute personne agissant à titre professionnel : 
-
-1° Qui se présente comme producteur en apposant sur le produit son nom, sa marque ou un autre signe distinctif ; 
-
-2° Qui importe un produit dans la Communauté européenne en vue d'une vente, d'une location, avec ou sans promesse de vente,
-ou de toute autre forme de distribution ; 
-
-3° Qui fait don d'un produit vendu sous marque de distributeur en tant que fabricant lié à une entreprise ou à un groupe
-d'entreprises, au sens de l'article L. 112-6 du code de la consommation. 
-
-Ne sont pas considérées comme producteurs, au sens du présent titre, les personnes dont la responsabilité peut être
-recherchée sur le fondement des articles 1792 à 1792-6 et 1646-1.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2016-131 du 10 février 2016 - art. 4
-
-	**Modifié par**:
-
-	  - Loi n°2016-138 du 11 février 2016 - art. 2
-
-	**Cite**:
-
-	  - Code de la consommation - art. L112-6 (V)
-	  - Code civil - art. 1646-1
-	  - Code civil - art. 1792
-
-
-###### Article 1386-7
-
-Si le producteur ne peut être identifié, le vendeur, le loueur, à l'exception du crédit-bailleur ou du loueur assimilable au
-crédit-bailleur, ou tout autre fournisseur professionnel, est responsable du défaut de sécurité du produit, dans les mêmes
-conditions que le producteur, à moins qu'il ne désigne son propre fournisseur ou le producteur, dans un délai de trois mois à
-compter de la date à laquelle la demande de la victime lui a été notifiée.
-
-Le recours du fournisseur contre le producteur obéit aux mêmes règles que la demande émanant de la victime directe du défaut.
-Toutefois, il doit agir dans l'année suivant la date de sa citation en justice.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1804-02-09
-
-	**Modifié par**:
-
-	  - Loi n°2006-406 du 5 avril 2006 - art. 2 (V) JORF 6 avril 2006
-
-	**Cité par**:
-
-	  - Loi n°2006-406 du 5 avril 2006 - art. 2 (V)
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2016-131 du 10 février 2016 - art. 4
-
-
-###### Article 1386-8
-
-En cas de dommage causé par le défaut d'un produit incorporé dans un autre, le producteur de la partie composante et celui
-qui a réalisé l'incorporation sont solidairement responsables.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1804-02-09
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°98-389 1998-05-19 art. 21 *modalités d'application* et art. 22 *champ d'application territoriale*
-
-	**Créé par**:
-
-	  - Loi n°98-389 du 19 mai 1998 - art. 1 () JORF 21 mai 1998
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2016-131 du 10 février 2016 - art. 4
-
-
-###### Article 1386-9
-
-Le demandeur doit prouver le dommage, le défaut et le lien de causalité entre le défaut et le dommage.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1804-02-09
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°98-389 1998-05-19 art. 21 *modalités d'application* et art. 22 *champ d'application territoriale*
-
-	**Créé par**:
-
-	  - Loi n°98-389 du 19 mai 1998 - art. 1 () JORF 21 mai 1998
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2016-131 du 10 février 2016 - art. 4
-
-
-###### Article 1386-10
-
-Le producteur peut être responsable du défaut alors même que le produit a été fabriqué dans le respect des règles de l'art ou
-de normes existantes ou qu'il a fait l'objet d'une autorisation administrative.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1804-02-09
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°98-389 1998-05-19 art. 21 *modalités d'application* et art. 22 *champ d'application territoriale*
-
-	**Créé par**:
-
-	  - Loi n°98-389 du 19 mai 1998 - art. 1 () JORF 21 mai 1998
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2016-131 du 10 février 2016 - art. 4
-
-
-###### Article 1386-11
-
-Le producteur est responsable de plein droit à moins qu'il ne prouve :
-
-1° Qu'il n'avait pas mis le produit en circulation ;
-
-2° Que, compte tenu des circonstances, il y a lieu d'estimer que le défaut ayant causé le dommage n'existait pas au moment où
-le produit a été mis en circulation par lui ou que ce défaut est né postérieurement ;
-
-3° Que le produit n'a pas été destiné à la vente ou à toute autre forme de distribution ;
-
-4° Que l'état des connaissances scientifiques et techniques, au moment où il a mis le produit en circulation, n'a pas permis
-de déceler l'existence du défaut ;
-
-5° Ou que le défaut est dû à la conformité du produit avec des règles impératives d'ordre législatif ou réglementaire.
-
-Le producteur de la partie composante n'est pas non plus responsable s'il établit que le défaut est imputable à la conception
-du produit dans lequel cette partie a été incorporée ou aux instructions données par le producteur de ce produit.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°98-389 1998-05-19 art. 21 *modalités d'application* et art. 22 *champ d'application territoriale*
-
-	**Créé par**:
-
-	  - Loi n°98-389 du 19 mai 1998 - art. 1 () JORF 21 mai 1998
-
-	**Cité par**:
-
-	  - Loi n°2013-316 du 16 avril 2013 - art. 13 (V)
-	  - Code civil - art. 1386-12 (Ab)
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2016-131 du 10 février 2016 - art. 4
-
-	**Codifié par**:
-
-	  - Loi n°1804-02-09
-
-
-###### Article 1386-12
-
-Le producteur ne peut invoquer la cause d'exonération prévue au 4° de l'article 1386-11 lorsque le dommage a été causé par un
-élément du corps humain ou par les produits issus de celui-ci.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°2004-1343 du 9 décembre 2004 - art. 29 () JORF 10 décembre 2004
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2016-131 du 10 février 2016 - art. 4
-
-	**Cite**:
-
-	  - Code civil - art. 1386-11 (Ab)
-
-	**Codifié par**:
-
-	  - Loi n°1804-02-09
-
-
-###### Article 1386-13
-
-La responsabilité du producteur peut être réduite ou supprimée, compte tenu de toutes les circonstances, lorsque le dommage
-est causé conjointement par un défaut du produit et par la faute de la victime ou d'une personne dont la victime est
-responsable.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1804-02-09
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°98-389 1998-05-19 art. 21 *modalités d'application* et art. 22 *champ d'application territoriale*
-
-	**Créé par**:
-
-	  - Loi n°98-389 du 19 mai 1998 - art. 1 () JORF 21 mai 1998
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2016-131 du 10 février 2016 - art. 4
-
-
-###### Article 1386-14
-
-La responsabilité du producteur envers la victime n'est pas réduite par le fait d'un tiers ayant concouru à la réalisation du
-dommage.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1804-02-09
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°98-389 1998-05-19 art. 21 *modalités d'application* et art. 22 *champ d'application territoriale*
-
-	**Créé par**:
-
-	  - Loi n°98-389 du 19 mai 1998 - art. 1 () JORF 21 mai 1998
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2016-131 du 10 février 2016 - art. 4
-
-
-###### Article 1386-15
-
-Les clauses qui visent à écarter ou à limiter la responsabilité du fait des produits défectueux sont interdites et réputées
-non écrites.
-
-Toutefois, pour les dommages causés aux biens qui ne sont pas utilisés par la victime principalement pour son usage ou sa
-consommation privée, les clauses stipulées entre professionnels sont valables.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1804-02-09
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°98-389 1998-05-19 art. 21 *modalités d'application* et art. 22 *champ d'application territoriale*
-
-	**Créé par**:
-
-	  - Loi n°98-389 du 19 mai 1998 - art. 1 () JORF 21 mai 1998
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2016-131 du 10 février 2016 - art. 4
-
-
-###### Article 1386-16
-
-Sauf faute du producteur, la responsabilité de celui-ci, fondée sur les dispositions du présent titre, est éteinte dix ans
-après la mise en circulation du produit même qui a causé le dommage à moins que, durant cette période, la victime n'ait
-engagé une action en justice.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°98-389 1998-05-19 art. 21 *modalités d'application* et art. 22 *champ d'application territoriale*
-
-	**Créé par**:
-
-	  - Loi n°98-389 du 19 mai 1998 - art. 1 () JORF 21 mai 1998
-
-	**Cité par**:
-
-	  - Arrêté du 5 février 2008 (V)
-
-	**Codifié par**:
-
-	  - Loi n°1804-02-09
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2016-131 du 10 février 2016 - art. 4
-
-
-###### Article 1386-17
-
-L'action en réparation fondée sur les dispositions du présent titre se prescrit dans un délai de trois ans à compter de la
-date à laquelle le demandeur a eu ou aurait dû avoir connaissance du dommage, du défaut et de l'identité du producteur.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1804-02-09
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°98-389 1998-05-19 art. 21 *modalités d'application* et art. 22 *champ d'application territoriale*
-
-	**Créé par**:
-
-	  - Loi n°98-389 du 19 mai 1998 - art. 1 () JORF 21 mai 1998
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2016-131 du 10 février 2016 - art. 4
-
-
-###### Article 1386-18
-
-Les dispositions du présent titre ne portent pas atteinte aux droits dont la victime d'un dommage peut se prévaloir au titre
-du droit de la responsabilité contractuelle ou extracontractuelle ou au titre d'un régime spécial de responsabilité.
-
-Le producteur reste responsable des conséquences de sa faute et de celle des personnes dont il répond.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1804-02-09
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°98-389 1998-05-19 art. 21 *modalités d'application* et art. 22 *champ d'application territoriale*
-
-	**Créé par**:
-
-	  - Loi n°98-389 du 19 mai 1998 - art. 1 () JORF 21 mai 1998
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2016-131 du 10 février 2016 - art. 4
-
-
-## Titre IV ter : De la réparation du préjudice écologique
-
-###### Article 1386-19
-
-Toute personne responsable d'un préjudice écologique est tenue de le réparer.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°2016-1087 du 8 août 2016 - art. 4
-
-	**Abrogé par**:
-
-	  - Loi n°2016-1087 du 8 août 2016 - art. 4
-
-
-###### Article 1386-20
-
-Est réparable, dans les conditions prévues au présent titre, le préjudice écologique consistant en une atteinte non
-négligeable aux éléments ou aux fonctions des écosystèmes ou aux bénéfices collectifs tirés par l'homme de l'environnement.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°2016-1087 du 8 août 2016 - art. 4
-
-	**Abrogé par**:
-
-	  - Loi n°2016-1087 du 8 août 2016 - art. 4
-
-
-###### Article 1386-21
-
-L'action en réparation du préjudice écologique est ouverte à toute personne ayant qualité et intérêt à agir, telle que
-l'Etat, l'Agence française pour la biodiversité, les collectivités territoriales et leurs groupements dont le territoire est
-concerné, ainsi que les établissements publics et les associations, agréées ou créées depuis au moins cinq ans à la date
-d'introduction de l'instance, qui ont pour objet la protection de la nature et la défense de l'environnement.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°2016-1087 du 8 août 2016 - art. 4
-
-	**Abrogé par**:
-
-	  - Loi n°2016-1087 du 8 août 2016 - art. 4
-
-
-###### Article 1386-22
-
-La réparation du préjudice écologique s'effectue par priorité en nature. 
-
-En cas d'impossibilité de droit ou de fait ou d'insuffisance des mesures de réparation, le juge condamne le responsable à
-verser des dommages et intérêts, affectés à la réparation de l'environnement, au demandeur ou, si celui-ci ne peut prendre
-les mesures utiles à cette fin, à l'Etat. 
-
-L'évaluation du préjudice tient compte, le cas échéant, des mesures de réparation déjà intervenues, en particulier dans le
-cadre de la mise en œuvre du titre VI du livre Ier du code de l'environnement.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°2016-1087 du 8 août 2016 - art. 4
-
-	**Abrogé par**:
-
-	  - Loi n°2016-1087 du 8 août 2016 - art. 4
-
-
-###### Article 1386-23
-
-En cas d'astreinte, celle-ci est liquidée par le juge au profit du demandeur, qui l'affecte à la réparation de
-l'environnement ou, si le demandeur ne peut prendre les mesures utiles à cette fin, au profit de l'Etat, qui l'affecte à
-cette même fin. 
-
-Le juge se réserve le pouvoir de la liquider.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°2016-1087 du 8 août 2016 - art. 4
-
-	**Abrogé par**:
-
-	  - Loi n°2016-1087 du 8 août 2016 - art. 4
-
-
-###### Article 1386-24
-
-Les dépenses exposées pour prévenir la réalisation imminente d'un dommage, pour éviter son aggravation ou pour en réduire les
-conséquences constituent un préjudice réparable.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°2016-1087 du 8 août 2016 - art. 4
-
-	**Abrogé par**:
-
-	  - Loi n°2016-1087 du 8 août 2016 - art. 4
-
-
-###### Article 1386-25
-
-Indépendamment de la réparation du préjudice écologique, le juge, saisi d'une demande en ce sens par une personne mentionnée
-à l'article 1386-21, peut prescrire les mesures raisonnables propres à prévenir ou faire cesser le dommage.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°2016-1087 du 8 août 2016 - art. 4
-
-	**Abrogé par**:
-
-	  - Loi n°2016-1087 du 8 août 2016 - art. 4
 
 
 ## Titre V : Du contrat de mariage et des régimes matrimoniaux
@@ -47444,7 +47031,7 @@ tutelles ou du conseil de famille s'il a été constitué.
 Il est fait mention de la modification sur la minute du contrat de mariage modifié. 
 
 Les créanciers non opposants, s'il a été fait fraude à leurs droits, peuvent attaquer le changement de régime matrimonial
-dans les conditions de l'article 1167. 
+dans les conditions de l'article 1341-2. 
 
 Les modalités d'application du présent article sont déterminées par décret en Conseil d'Etat.
 
@@ -47452,7 +47039,7 @@ Les modalités d'application du présent article sont déterminées par décret 
 
 	**Codifié par**:
 
-	  - Loi n°65-570 1965-07-13
+	  - Loi n°65-570 du 13 juillet 1965
 
 	**Cité par**:
 
@@ -47467,11 +47054,11 @@ Les modalités d'application du présent article sont déterminées par décret 
 
 	**Modifié par**:
 
-	  - Loi n°2007-308 du 5 mars 2007 - art. 11 () JORF 7 mars 2007
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 5
 
 	**Cite**:
 
-	  - Code civil - art. 1167 (V)
+	  - Code civil - art. 1341-2 (VD)
 
 
 ###### Article 1397-1
@@ -50065,33 +49652,29 @@ Sont applicables à cette demande, en tant que de raison, les règles prescrites
 successions et communautés. 
 
 Les parties sont tenues de se communiquer réciproquement, et de communiquer aux experts désignés par le juge, tous
-renseignements et documents utiles à la liquidation.
+renseignements et documents utiles à la liquidation. 
 
 L'action en liquidation se prescrit par trois ans à compter de la dissolution du régime matrimonial. Les actions ouvertes
-contre les tiers en vertu de l'article 1167 se prescrivent par deux ans à compter de la clôture de la liquidation.
+contre les tiers en vertu de l'article 1341-2 se prescrivent par deux ans à compter de la clôture de la liquidation.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Loi n°65-570 1965-07-13
-
-	**Modifié par**:
-
-	  - Loi n°85-1372 du 23 décembre 1985 - art. 34 () JORF 26 décembre 1985 en vigueur le 1er juillet 1986
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°85-1372 du 23 décembre 1985 - art. 55 (V)
+	  - Loi n°65-570 du 13 juillet 1965
 
 	**Cité par**:
 
 	  - Loi n°85-1372 du 23 décembre 1985 - art. 62 (V)
 	  - Ordonnance n°2002-1476 du 19 décembre 2002 - art. 10 (VD)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 5
+
 	**Cite**:
 
-	  - Code civil - art. 1167 (V)
+	  - Code civil - art. 1341-2 (VD)
 
 
 ###### Article 1579
@@ -52384,10 +51967,12 @@ Le mode et les formalités à observer pour la licitation sont expliqués au tit
 
 ### Chapitre VIII : Du transport des créances et autres droits incorporels.
 
+### Chapitre VIII : Du transport de certains droits incorporels, des droits successifs et des droits litigieux
+
 ###### Article 1689
 
-Dans le transport d'une créance, d'un droit ou d'une action sur un tiers, la délivrance s'opère entre le cédant et le
-cessionnaire par la remise du titre.
+Dans le transport     d'un droit ou d'une action sur un tiers, la délivrance s'opère entre le cédant et le cessionnaire par
+la remise du titre.
 
 **Liens relatifs à cet article**
 
@@ -52399,9 +51984,9 @@ cessionnaire par la remise du titre.
 
 	  - Loi n°1804-03-06
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°1804-03-06 promulguée le 16 mars 1804
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 5
 
 
 ###### Article 1690
@@ -52490,36 +52075,15 @@ valablement libéré.
 	  - Loi n°1804-03-06 promulguée le 16 mars 1804
 
 
-###### Article 1692
-
-La vente ou cession d'une créance comprend les accessoires de la créance, tels que caution, privilège et hypothèque.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Loi n°51-59 du 18 janvier 1951 - art. 6 (Ab)
-	  - Code de commerce - art. L525-6 (VT)
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2016-131 du 10 février 2016 - art. 5
-
-	**Codifié par**:
-
-	  - Loi n°1804-03-06
-
-	**Créé par**:
-
-	  - Loi n°1804-03-06 promulguée le 16 mars 1804
-
-
 ###### Article 1693
 
-Celui qui vend une créance ou autre droit incorporel doit en garantir l'existence au temps du transport, quoiqu'il soit fait
-sans garantie.
+Celui qui vend   un droit incorporel doit en garantir l'existence au temps du transport, quoiqu'il soit fait sans garantie.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 5
 
 	**Cité par**:
 
@@ -52529,50 +52093,6 @@ sans garantie.
 	**Codifié par**:
 
 	  - Loi n°1804-03-06
-
-	**Créé par**:
-
-	  - Loi n°1804-03-06 promulguée le 16 mars 1804
-
-
-###### Article 1694
-
-Il ne répond de la solvabilité du débiteur que lorsqu'il s'y est engagé, et jusqu'à concurrence seulement du prix qu'il a
-retiré de la créance.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1804-03-06
-
-	**Créé par**:
-
-	  - Loi n°1804-03-06 promulguée le 16 mars 1804
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2016-131 du 10 février 2016 - art. 5
-
-
-###### Article 1695
-
-Lorsqu'il a promis la garantie de la solvabilité du débiteur, cette promesse ne s'entend que de la solvabilité actuelle, et
-ne s'étend pas au temps à venir, si le cédant ne l'a expressément stipulé.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1804-03-06
-
-	**Créé par**:
-
-	  - Loi n°1804-03-06 promulguée le 16 mars 1804
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2016-131 du 10 février 2016 - art. 5
 
 
 ###### Article 1696
@@ -52674,6 +52194,23 @@ La disposition portée en l'article 1699 cesse :
 	**Créé par**:
 
 	  - Loi n°1804-03-06 promulguée le 16 mars 1804
+
+
+###### Article 1701-1
+
+Les articles 1689 à 1691 et 1693 ne s'appliquent pas aux cessions régies par les articles 1321 à 1326 du présent code.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 5
+
+	**Cite**:
+
+	  - Code civil - art. 1321 (VT)
+	  - Code civil - art. 1689 (VT)
+	  - Code civil - art. 1693 (VT)
 
 
 ## Titre VII : De l'échange
@@ -59231,7 +58768,7 @@ exprès ou tacite.
 
 ###### Article 1924
 
-Lorsque le dépôt étant au-dessus du chiffre prévu à l'article 1341 n'est point prouvé par écrit, celui qui est attaqué comme
+Lorsque le dépôt étant au-dessus du chiffre prévu à l'article 1359 n'est point prouvé par écrit, celui qui est attaqué comme
 dépositaire en est cru sur sa déclaration soit pour le fait même du dépôt, soit pour la chose qui en faisait l'objet, soit
 pour le fait de sa restitution.
 
@@ -59239,11 +58776,15 @@ pour le fait de sa restitution.
 
 	**Cite**:
 
-	  - Code civil - art. 1341 (V)
+	  - Code civil - art. 1359 (VT)
 
 	**Codifié par**:
 
 	  - Loi n°1804-03-14
+
+	**Modifié par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 5
 
 
 ###### Article 1925
@@ -59689,7 +59230,7 @@ autre événement imprévu.
 ###### Article 1950
 
 La preuve par témoins peut être reçue pour le dépôt nécessaire, même quand il s'agit d'une valeur supérieure au chiffre prévu
-à l'article 1341.
+à l'article 1359.
 
 **Liens relatifs à cet article**
 
@@ -59699,11 +59240,11 @@ La preuve par témoins peut être reçue pour le dépôt nécessaire, même quan
 
 	**Modifié par**:
 
-	  - Loi n°80-525 du 12 juillet 1980 - art. 9, v. init.
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 5
 
 	**Cite**:
 
-	  - Code civil - art. 1341 (V)
+	  - Code civil - art. 1359 (VT)
 
 
 ###### Article 1951
@@ -59962,30 +59503,6 @@ conventionnel.
 
 
 ## Titre XII : Des contrats aléatoires.
-
-###### Article 1964
-
-Le contrat aléatoire est une convention réciproque dont les effets, quant aux avantages et aux pertes, soit pour toutes les
-parties, soit pour l'une ou plusieurs d'entre elles, dépendent d'un événement incertain.
-
-Tels sont :
-
-Le contrat d'assurance,
-
-Le jeu et le pari,
-
-Le contrat de rente viagère.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°2009-526 du 12 mai 2009 - art. 10
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2016-131 du 10 février 2016 - art. 5
-
 
 ### Chapitre Ier : Du jeu et du pari.
 
@@ -62151,13 +61668,13 @@ sexuelles commises contre un mineur, l'action en responsabilité civile est pres
 
 ###### Article 2226-1
 
-L'action en responsabilité tendant à la réparation du préjudice écologique réparable en application du titre IV ter du
-présent livre se prescrit par dix ans à compter du jour où le titulaire de l'action a connu ou aurait dû connaître la
-manifestation du préjudice écologique.
+L'action en responsabilité tendant à la réparation du préjudice écologique réparable en application du chapitre III du sous-
+titre II du titre III du présent livre se prescrit par dix ans à compter du jour où le titulaire de l'action a connu ou
+aurait dû connaître la manifestation du préjudice écologique.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
 	  - Loi n°2016-1087 du 8 août 2016 - art. 4
 
@@ -62363,15 +61880,15 @@ contre la succession.
 La prescription est suspendue à compter du jour où, après la survenance d'un litige, les parties conviennent de recourir à la
 médiation ou à la conciliation ou, à défaut d'accord écrit, à compter du jour de la première réunion de médiation ou de
 conciliation. La prescription est également suspendue à compter de la conclusion d'une convention de procédure participative
-ou à compter de l'accord du débiteur constaté par l'huissier de justice pour participer à la procédure prévue à l'article
-1244-4.
+ou à compter de l'accord du débiteur constaté par l'huissier de justice pour participer à la procédure prévue à l'article L.
+125-1 du code des procédures civiles d'exécution. 
 
 Le délai de prescription recommence à courir, pour une durée qui ne peut être inférieure à six mois, à compter de la date à
 laquelle soit l'une des parties ou les deux, soit le médiateur ou le conciliateur déclarent que la médiation ou la
 conciliation est terminée. En cas de convention de procédure participative, le délai de prescription recommence à courir à
 compter du terme de la convention, pour une durée qui ne peut être inférieure à six mois. En cas d'échec de la procédure
-prévue au même article 1244-4, le délai de prescription recommence à courir à compter de la date du refus du débiteur,
-constaté par l'huissier, pour une durée qui ne peut être inférieure à six mois.
+prévue au même article, le délai de prescription recommence à courir à compter de la date du refus du débiteur, constaté par
+l'huissier, pour une durée qui ne peut être inférieure à six mois.
 
 **Liens relatifs à cet article**
 
@@ -62386,11 +61903,15 @@ constaté par l'huissier, pour une durée qui ne peut être inférieure à six m
 
 	**Modifié par**:
 
-	  - Loi n°2015-990 du 6 août 2015 - art. 208 (V)
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 5
 
 	**Liens**:
 
 	  - TXT_ASSOCIE: Code civil - art. 2236 (V)
+
+	**Cite**:
+
+	  - Code des procédures civiles d'exécution - art. L125-1 (VD)
 
 
 ###### Article 2239
@@ -70464,22 +69985,22 @@ d'inscription sur le livre foncier conformément aux dispositions du présent ch
 Le livre foncier est constitué des registres destinés à la publicité des droits sur les immeubles. 
 
 Le livre foncier est tenu par le service de la conservation de la propriété immobilière. Il peut être tenu, par ce service,
-sous forme électronique dans les conditions définies par l'article 1316-1.
+sous forme électronique dans les conditions définies par l'article 1366.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 1 () JORF 24 mars 2006
 
 	**Cité par**:
 
 	  - Décret n°2008-1086 du 23 octobre 2008 - art. 10 (V)
 	  - Code civil - art. 2511 (V)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2016-131 du 10 février 2016 - art. 5
+
 	**Cite**:
 
-	  - Code civil - art. 1316-1 (V)
+	  - Code civil - art. 1366 (VT)
 
 	**Anciens textes**:
 

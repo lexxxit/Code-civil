@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 2016-10-01
+Version Consolidée au 2016-10-09
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -40338,53 +40338,6 @@ conclus entre professionnels.
 
 ###### Article 1127-4
 
-Une lettre simple relative à la conclusion ou à l'exécution d'un contrat peut être envoyée par courrier électronique. 
-
-L'apposition de la date d'expédition résulte d'un procédé électronique dont la fiabilité est présumée, jusqu'à preuve
-contraire, lorsqu'il satisfait à des exigences fixées par décret en Conseil d'Etat.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
-
-
-###### Article 1127-5
-
-Une lettre recommandée relative à la conclusion ou à l'exécution d'un contrat peut être envoyée par courrier électronique à
-condition que ce courrier soit acheminé par un tiers selon un procédé permettant d'identifier le tiers, de désigner
-l'expéditeur, de garantir l'identité du destinataire et d'établir si la lettre a été remise ou non au destinataire. 
-
-Le contenu de cette lettre, au choix de l'expéditeur, peut être imprimé par le tiers sur papier pour être distribué au
-destinataire ou peut être adressé à celui-ci par voie électronique. Dans ce dernier cas, si le destinataire n'est pas un
-professionnel, il doit avoir demandé l'envoi par ce moyen ou en avoir accepté l'usage au cours d'échanges antérieurs. 
-
-Lorsque l'apposition de la date d'expédition ou de réception résulte d'un procédé électronique, la fiabilité de celui-ci est
-présumée, jusqu'à preuve contraire, s'il satisfait à des exigences fixées par un décret en Conseil d'Etat. 
-
-Un avis de réception peut être adressé à l'expéditeur par voie électronique ou par tout autre dispositif lui permettant de le
-conserver. 
-
-Les modalités d'application du présent article sont fixées par décret en Conseil d'Etat.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Décret n°67-223 du 17 mars 1967 - art. 64-3 (V)
-
-	**Créé par**:
-
-	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
-
-	**Abrogé par**:
-
-	  - Loi n°2016-1321 du 7 octobre 2016 - art. 93
-
-
-###### Article 1127-6
-
 Hors les cas prévus aux articles 1125 et 1126, la remise d'un écrit électronique est effective lorsque le destinataire, après
 avoir pu en prendre connaissance, en a accusé réception. 
 
@@ -40393,17 +40346,18 @@ conditions prévues au premier alinéa vaut lecture.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
+	  - Loi n°2016-1321 du 7 octobre 2016 - art. 93
 
-	**Liens**:
+	**Cite**:
 
-	  - TRANSFERE: Loi n°2016-1321 du 7 octobre 2016 - art. 93
+	  - Code civil - art. 1125 (V)
+	  - Code civil - art. 1126 (V)
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code civil - art. 1127-4 (V)
+	  - Code civil - art. 1127-6 (T)
 
 
 ##### Section 2 : La validité du contrat
@@ -51964,8 +51918,6 @@ Le mode et les formalités à observer pour la licitation sont expliqués au tit
 
 	  - Loi n°1804-03-06 promulguée le 16 mars 1804
 
-
-### Chapitre VIII : Du transport des créances et autres droits incorporels.
 
 ### Chapitre VIII : Du transport de certains droits incorporels, des droits successifs et des droits litigieux
 

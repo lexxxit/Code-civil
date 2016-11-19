@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 2016-10-09
+Version Consolidée au 2016-11-20
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -3304,8 +3304,8 @@ portés à quinze ans.
 Les déclarations de nationalité souscrites en raison soit du mariage avec un conjoint français, en application de l'article
 21-2, soit de la qualité d'ascendant de Français, en application de l'article 21-13-1, soit de la qualité de frère ou sœur de
 Français, en application de l'article 21-13-2, sont reçues par l'autorité administrative. Les autres déclarations de
-nationalité sont reçues par le greffier en chef du tribunal d'instance ou par le consul. Les formes suivant lesquelles ces
-déclarations sont reçues sont déterminées par décret en Conseil d'Etat. 
+nationalité sont reçues par le directeur des services de greffe judiciaires du tribunal d'instance ou par le consul. Les
+formes suivant lesquelles ces déclarations sont reçues sont déterminées par décret en Conseil d'Etat. 
 
 Il en est délivré récépissé après remise des pièces nécessaires à la preuve de leur recevabilité.
 
@@ -3323,7 +3323,6 @@ Il en est délivré récépissé après remise des pièces nécessaires à la pr
 	  - Code civil - art. 21-11 (V)
 	  - Code civil - art. 21-12 (V)
 	  - Code civil - art. 21-13 (V)
-	  - Code civil - art. 21-13-2 (V)
 	  - Code civil - art. 21-14 (V)
 	  - Code civil - art. 21-2 (V)
 	  - Code civil - art. 21-4 (V)
@@ -3334,11 +3333,11 @@ Il en est délivré récépissé après remise des pièces nécessaires à la pr
 	  - Code civil - art. 24-2 (V)
 	  - Code civil - art. 2493 (VT)
 	  - Code civil - art. 32-5 (V)
-	  - Code civil - art. 33-1 (VD)
+	  - Code civil - art. 33-1 (V)
 
 	**Modifié par**:
 
-	  - Loi n°2016-274 du 7 mars 2016 - art. 60
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 16
 
 	**Cite**:
 
@@ -3351,9 +3350,10 @@ Il en est délivré récépissé après remise des pièces nécessaires à la pr
 
 ###### Article 26-1
 
-Toute déclaration de nationalité doit, à peine de nullité, être enregistrée soit par le greffier en chef du tribunal
-d'instance, pour les déclarations souscrites en France, soit par le ministre de la justice, pour les déclarations souscrites
-à l'étranger, à l'exception des déclarations suivantes, qui sont enregistrées par le ministre chargé des naturalisations : 
+Toute déclaration de nationalité doit, à peine de nullité, être enregistrée soit par le directeur des services de greffe
+judiciaires du tribunal d'instance, pour les déclarations souscrites en France, soit par le ministre de la justice, pour les
+déclarations souscrites à l'étranger, à l'exception des déclarations suivantes, qui sont enregistrées par le ministre chargé
+des naturalisations : 
 
 1° Celles souscrites en raison du mariage avec un conjoint français ; 
 
@@ -3365,7 +3365,7 @@ d'instance, pour les déclarations souscrites en France, soit par le ministre de
 
 	**Modifié par**:
 
-	  - Loi n°2016-274 du 7 mars 2016 - art. 60
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 16
 
 	**Cité par**:
 
@@ -3415,8 +3415,8 @@ française sont fixés par décret.
 
 ###### Article 26-3
 
-Le ministre ou le greffier en chef du tribunal d'instance refuse d'enregistrer les déclarations qui ne satisfont pas aux
-conditions légales. 
+Le ministre ou le directeur des services de greffe judiciaires du tribunal d'instance refuse d'enregistrer les déclarations
+qui ne satisfont pas aux conditions légales. 
 
 Sa décision motivée est notifiée au déclarant qui peut la contester devant le tribunal de grande instance durant un délai de
 six mois. L'action peut être exercée personnellement par le mineur dès l'âge de seize ans. 
@@ -3437,7 +3437,7 @@ porté à deux ans.
 
 	**Modifié par**:
 
-	  - Loi n°2016-274 du 7 mars 2016 - art. 60
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 16
 
 	**Cite**:
 
@@ -3993,18 +3993,14 @@ qualité de Français.
 
 ###### Article 31
 
-Le greffier en chef du tribunal d'instance a seul qualité pour délivrer un certificat de nationalité française à toute
-personne justifiant qu'elle a cette nationalité.
+Le directeur des services de greffe judiciaires du tribunal d'instance a seul qualité pour délivrer un certificat de
+nationalité française à toute personne justifiant qu'elle a cette nationalité.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°95-125 1995-02-08 art. 19 *date d'effet*
-
 	**Modifié par**:
 
-	  - Loi n°95-125 du 8 février 1995 - art. 15 () JORF 9 février 1995 en vigueur le 9 mai 1995
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 16
 
 	**Cité par**:
 
@@ -4056,11 +4052,15 @@ Le certificat de nationalité indique, en se référant aux chapitres II, III, I
 en vertu de laquelle l'intéressé a la qualité de Français, ainsi que les documents qui ont permis de l'établir. Il fait foi
 jusqu'à preuve du contraire.
 
-Pour l'établissement d'un certificat de nationalité, le greffier en chef du tribunal d'instance pourra présumer, à défaut
-d'autres éléments, que les actes d'état civil dressés à l'étranger et qui sont produits devant lui emportent les effets que
-la loi française y aurait attachés.
+Pour l'établissement d'un certificat de nationalité, le directeur des services de greffe judiciaires du tribunal d'instance
+pourra présumer, à défaut d'autres éléments, que les actes d'état civil dressés à l'étranger et qui sont produits devant lui
+emportent les effets que la loi française y aurait attachés.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 16
 
 	**Anciens textes**:
 
@@ -4070,37 +4070,25 @@ la loi française y aurait attachés.
 
 	  - Loi n°1803-03-08
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°95-125 1995-02-08 art. 19 *date d'effet*
-
-	**Modifié par**:
-
-	  - Loi n°95-125 du 8 février 1995 - art. 16 () JORF 9 février 1995 en vigueur le 9 mai 1995
-
 
 ###### Article 31-3
 
-Lorsque le greffier en chef du tribunal d'instance refuse de délivrer un certificat de nationalité, l'intéressé peut saisir
-le ministre de la justice, qui décide s'il y a lieu de procéder à cette délivrance.
+Lorsque le directeur des services de greffe judiciaires du tribunal d'instance refuse de délivrer un certificat de
+nationalité, l'intéressé peut saisir le ministre de la justice, qui décide s'il y a lieu de procéder à cette délivrance.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Loi n°1803-03-08
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°95-125 1995-02-08 art. 19 *date d'effet*
-
 	**Modifié par**:
 
-	  - Loi n°95-125 du 8 février 1995 - art. 17 () JORF 9 février 1995 en vigueur le 9 mai 1995
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 16
 
 	**Anciens textes**:
 
 	  - Code de la nationalité française. - art. 151 (Ab)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-08
 
 
 ### Chapitre VII : Des effets sur la nationalité française des transferts de souveraineté relatifs à certains territoires
@@ -4301,18 +4289,18 @@ Nouvelle-Calédonie sont prononcées en monnaie locale, compte tenu de la contre
 
 ###### Article 33-1
 
-Par dérogation à l'article 26, la déclaration qui doit être reçue par le greffier en chef du tribunal d'instance est reçue
-par le président du tribunal de première instance ou par le juge chargé de la section détachée.
+Par dérogation à l'article 26, la déclaration qui doit être reçue par le directeur des services de greffe judiciaires du
+tribunal d'instance est reçue par le président du tribunal de première instance ou par le juge chargé de la section détachée.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2009-526 du 12 mai 2009 - art. 12 (V)
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 16
 
 	**Cite**:
 
-	  - Code civil - art. 26
+	  - Code civil - art. 26 (V)
 	  - Constitution 1958-10-04 art. 74
 
 	**Anciens textes**:
@@ -4484,6 +4472,36 @@ qui empêchera les comparants et les témoins de signer.
 	  - Loi n°1803-03-11 promulguée le 21 mars 1803
 
 
+###### Article 40
+
+Les actes de l'état civil sont établis sur papier et sont inscrits, dans chaque commune, sur un ou plusieurs registres tenus
+en double exemplaire. 
+
+Lorsqu'elles ont mis en œuvre des traitements automatisés des données de l'état civil, les communes s'assurent de leurs
+conditions de sécurité et d'intégrité. Les caractéristiques techniques des traitements mis en œuvre pour conserver ces
+données sont fixées par décret en Conseil d'Etat. 
+
+Par dérogation au premier alinéa, les communes dont les traitements automatisés de données de l'état civil satisfont à des
+conditions et à des caractéristiques techniques fixées par décret sont dispensées de l'obligation d'établir un second
+exemplaire des actes de l'état civil. 
+
+Cette dispense est également applicable aux actes de l'état civil établis par le ministère des affaires étrangères.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 51 (V)
+
+	**Cité par**:
+
+	  - Décret n°2017-890 du 6 mai 2017 - art. 13 (VD)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-11
+
+
 ###### Article 46
 
 Lorsqu'il n'aura pas existé de registres, ou qu'ils seront perdus, la preuve en sera reçue tant par titres que par témoins ;
@@ -4551,8 +4569,8 @@ sont déclarés ne correspondent pas à la réalité.
 Tout acte de l'état civil des Français en pays étranger sera valable s'il a été reçu, conformément aux lois françaises, par
 les agents diplomatiques ou consulaires.
 
-Un double des registres de l'état civil tenus par ces agents sera adressé à la fin de chaque année au ministère des affaires
-étrangères, qui en assurera la garde et pourra en délivrer des extraits.
+La conservation des données de l'état civil est assurée par un traitement automatisé satisfaisant aux conditions prévues à
+l'article 40 et mis en œuvre par le ministère des affaires étrangères, qui peut en délivrer des copies et des extraits.
 
 **Liens relatifs à cet article**
 
@@ -4560,13 +4578,13 @@ Un double des registres de l'état civil tenus par ces agents sera adressé à l
 
 	  - Arrêté du 13 juillet 2012 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 51 (V)
+
 	**Codifié par**:
 
 	  - Loi n°1803-03-11
-
-	**Modifié par**:
-
-	  - Loi n°93-22 du 8 janvier 1993 - art. 1 () JORF 9 janvier 1993
 
 
 ###### Article 49
@@ -4586,6 +4604,9 @@ Si l'acte en marge duquel une mention devra être effectuée a été dressé ou 
 qui a dressé ou transcrit l'acte donnant lieu à mention en avisera, dans les trois jours, le ministre des affaires
 étrangères.
 
+Les officiers de l'état civil des communes mentionnées au troisième alinéa de l'article 40 sont dispensés de l'envoi d'avis
+de mention au greffe.
+
 **Liens relatifs à cet article**
 
 	**Cité par**:
@@ -4595,13 +4616,13 @@ qui a dressé ou transcrit l'acte donnant lieu à mention en avisera, dans les t
 	  - Décret n°2008-521 du 2 juin 2008 - art. 9 (VD)
 	  - Décret n°2012-966 du 20 août 2012 - art. 6 (VD)
 
+	**Modifié par**:
+
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 51 (V)
+
 	**Codifié par**:
 
 	  - Loi n°1803-03-11
-
-	**Modifié par**:
-
-	  - Loi n°93-22 du 8 janvier 1993 - art. 2 () JORF 9 janvier 1993
 
 
 ###### Article 50
@@ -4663,24 +4684,24 @@ portées au code pénal.
 
 ###### Article 53
 
-Le procureur de la République au tribunal de grande instance sera tenu de vérifier l'état des registres lors du dépôt qui en
-sera fait au greffe ; il dressera un procès-verbal sommaire de la vérification, dénoncera les contraventions ou délits commis
-par les officiers de l'état civil, et requerra contre eux la condamnation aux amendes.
+Le procureur de la République territorialement compétent pourra à tout moment vérifier l'état des registres ; il dressera un
+procès-verbal sommaire de la vérification, dénoncera les contraventions ou délits commis par les officiers de l'état civil,
+et requerra contre eux la condamnation aux amendes.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 51 (V)
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. R215 (V)
+	  - Ordonnance du 26 novembre 1823 - art. 1 (VT)
 
 	**Codifié par**:
 
 	  - Loi n°1803-03-11
-
-	**Créé par**:
-
-	  - Loi n°1803-03-11 promulguée le 21 mars 1803
-
-	**Cité par**:
-
-	  - Ordonnance du 26 novembre 1823 - art. 1 (VT)
-	  - Code de procédure pénale - art. R215 (V)
 
 
 ###### Article 54
@@ -4705,7 +4726,10 @@ pourront se pourvoir contre le jugement.
 
 ###### Article 55
 
-Les déclarations de naissance sont faites dans les trois jours de l'accouchement, à l'officier de l'état civil du lieu. 
+Les déclarations de naissance sont faites dans les cinq jours de l'accouchement, à l'officier de l'état civil du lieu. 
+
+Par dérogation, ce délai est porté à huit jours lorsque l'éloignement entre le lieu de naissance et le lieu où se situe
+l'officier de l'état civil le justifie. Un décret en Conseil d'Etat détermine les communes où le présent alinéa s'applique. 
 
 Lorsqu'une naissance n'a pas été déclarée dans le délai légal, l'officier de l'état civil ne peut la relater sur ses
 registres qu'en vertu d'un jugement rendu par le tribunal de l'arrondissement dans lequel est né l'enfant, et mention
@@ -4741,12 +4765,12 @@ l'accouchement. Toutefois, ce délai peut être prolongé par décret dans certa
 
 	**Modifié par**:
 
-	  - Loi n°2011-1862 du 13 décembre 2011 - art. 16
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 54
 
 	**Cite**:
 
 	  - Code civil - art. 311-21
-	  - Code civil - art. 311-23
+	  - Code civil - art. 311-23 (V)
 
 	**Codifié par**:
 
@@ -4959,11 +4983,24 @@ la suite du rôle d'équipage.
 
 ###### Article 60
 
-Toute personne qui justifie d'un intérêt légitime peut demander à changer de prénom. La demande est portée devant le juge aux
-affaires familiales à la requête de l'intéressé ou, s'il s'agit d'un mineur ou d'un majeur en tutelle, à la requête de son
-représentant légal. L'adjonction, la suppression ou la modification de l'ordre des prénoms peut pareillement être décidée. 
+Toute personne peut demander à l'officier de l'état civil à changer de prénom. La demande est remise à l'officier de l'état
+civil du lieu de résidence ou du lieu où l'acte de naissance a été dressé. S'il s'agit d'un mineur ou d'un majeur en tutelle,
+la demande est remise par son représentant légal. L'adjonction, la suppression ou la modification de l'ordre des prénoms peut
+également être demandée. 
 
-Si l'enfant est âgé de plus de treize ans, son consentement personnel est requis.
+Si l'enfant est âgé de plus de treize ans, son consentement personnel est requis. 
+
+La décision de changement de prénom est inscrite sur le registre de l'état civil. 
+
+S'il estime que la demande ne revêt pas un intérêt légitime, en particulier lorsqu'elle est contraire à l'intérêt de l'enfant
+ou aux droits des tiers à voir protéger leur nom de famille, l'officier de l'état civil saisit sans délai le procureur de la
+République. Il en informe le demandeur. Si le procureur de la République s'oppose à ce changement, le demandeur, ou son
+représentant légal, peut alors saisir le juge aux affaires familiales.
+
+**Nota:**
+
+Conformément à l'article 114 VI de la loi n° 2016-1547 du 18 novembre 2016, les présentes dispositions ne sont pas
+applicables aux affaires en cours.
 
 **Liens relatifs à cet article**
 
@@ -4979,7 +5016,7 @@ Si l'enfant est âgé de plus de treize ans, son consentement personnel est requ
 
 	**Modifié par**:
 
-	  - Loi n°2011-525 du 17 mai 2011 - art. 51
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 56
 
 	**Codifié par**:
 
@@ -5095,37 +5132,140 @@ majeurs que sous réserve de leur consentement.
 	  - Loi n°1803-03-11
 
 
+###### Article 61-3-1
+
+Toute personne qui justifie d'un nom inscrit sur le registre de l'état civil d'un autre Etat peut demander à l'officier de
+l'état civil dépositaire de son acte de naissance établi en France son changement de nom en vue de porter le nom acquis dans
+cet autre Etat. Lorsque la personne est mineure, la déclaration est effectuée conjointement par les deux parents exerçant
+l'autorité parentale ou par le parent exerçant seul l'autorité parentale, avec son consentement personnel si elle a plus de
+treize ans. 
+
+Le changement de nom est autorisé par l'officier de l'état civil, qui le consigne dans le registre de naissance en cours. 
+
+En cas de difficultés, l'officier de l'état civil saisit le procureur de la République, qui peut s'opposer à la demande. En
+ce cas, l'intéressé en est avisé. 
+
+Saisi dans les mêmes conditions, le procureur de la République du lieu de naissance peut ordonner lui-même le changement de
+nom. 
+
+Le changement de nom acquis dans les conditions fixées aux quatre premiers alinéas s'étend de plein droit aux enfants du
+bénéficiaire lorsqu'ils ont moins de treize ans.
+
+**Nota:**
+
+Conformément à l'article 114 VI de la loi n° 2016-1547 du 18 novembre 2016, les présentes dispositions ne sont pas
+applicables aux affaires en cours.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 57
+
+
 ###### Article 61-4
 
 Mention des décisions de changement de prénoms et de nom est portée en marge des actes de l'état civil de l'intéressé et, le
-cas échéant, de ceux de son conjoint et de ses enfants. 
+cas échéant, de ceux de son conjoint, de son partenaire lié par un pacte civil de solidarité et de ses enfants. 
+
+De même, les décisions de changement de prénoms et de nom régulièrement acquises à l'étranger sont portées en marge des actes
+de l'état civil sur instructions du procureur de la République. 
 
 Les dispositions des articles 100 et 101 sont applicables aux modifications de prénoms et de nom.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Loi n°1803-03-11
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°93-22 1993-01-08 art. 64 *date d'effet*
-	  - SPEC_APPLI: Loi n°2002-304 2002-03-04 art. 24 (Mayotte)
-
-	**Créé par**:
-
-	  - Loi n°93-22 du 8 janvier 1993 - art. 4 () JORF 9 janvier 1993 en vigueur le 1er février 1994
-	  - Loi n°93-22 du 8 janvier 1993 - art. 64 (V) JORF 9 janvier 1993 en vigueur le 1er février 1994
-
 	**Cité par**:
 
 	  - Décret n°94-52 du 20 janvier 1994 - art. 7 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 57
+
 	**Cite**:
 
-	  - Code civil - art. 100 (V)
-	  - Code civil - art. 101 (V)
+	  - Code civil - art. 100
+	  - Code civil - art. 101
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-11
+
+
+#### Section 2 bis : De la modification de la mention du sexe à l'état civil 
+
+
+###### Article 61-5
+
+Toute personne majeure ou mineure émancipée qui démontre par une réunion suffisante de faits que la mention relative à son
+sexe dans les actes de l'état civil ne correspond pas à celui dans lequel elle se présente et dans lequel elle est connue
+peut en obtenir la modification. 
+
+Les principaux de ces faits, dont la preuve peut être rapportée par tous moyens, peuvent être : 
+
+1° Qu'elle se présente publiquement comme appartenant au sexe revendiqué ; 
+
+2° Qu'elle est connue sous le sexe revendiqué de son entourage familial, amical ou professionnel ; 
+
+3° Qu'elle a obtenu le changement de son prénom afin qu'il corresponde au sexe revendiqué ;
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 56
+
+
+###### Article 61-6
+
+La demande est présentée devant le tribunal de grande instance. 
+
+Le demandeur fait état de son consentement libre et éclairé à la modification de la mention relative à son sexe dans les
+actes de l'état civil et produit tous éléments de preuve au soutien de sa demande. 
+
+Le fait de ne pas avoir subi des traitements médicaux, une opération chirurgicale ou une stérilisation ne peut motiver le
+refus de faire droit à la demande. 
+
+Le tribunal constate que le demandeur satisfait aux conditions fixées à l'article 61-5 et ordonne la modification de la
+mention relative au sexe ainsi que, le cas échéant, des prénoms, dans les actes de l'état civil.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 56
+
+
+###### Article 61-7
+
+Mention de la décision de modification du sexe et, le cas échéant, des prénoms est portée en marge de l'acte de naissance de
+l'intéressé, à la requête du procureur de la République, dans les quinze jours suivant la date à laquelle cette décision est
+passée en force de chose jugée. 
+
+Par dérogation à l'article 61-4, les modifications de prénoms corrélatives à une décision de modification de sexe ne sont
+portées en marge des actes de l'état civil des conjoints et enfants qu'avec le consentement des intéressés ou de leurs
+représentants légaux. 
+
+Les articles 100 et 101 sont applicables aux modifications de sexe.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 56
+
+
+###### Article 61-8
+
+La modification de la mention du sexe dans les actes de l'état civil est sans effet sur les obligations contractées à l'égard
+de tiers ni sur les filiations établies avant cette modification.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 56
 
 
 #### Section 3 : De l'acte de reconnaissance.
@@ -5392,9 +5532,17 @@ celui d'entre eux qui doit célébrer le mariage un certificat constatant qu'il 
 
 ###### Article 70
 
-La copie intégrale de l'acte de naissance remise par chacun des futurs époux à l'officier de l'état civil qui doit célébrer
-leur mariage ne doit pas dater de plus de trois mois si elle a été délivrée en France et de plus de six mois si elle a été
-délivrée dans un consulat.
+Chacun des futurs époux remet à l'officier de l'état civil qui doit célébrer le mariage l'extrait avec indication de la
+filiation de son acte de naissance, qui ne doit pas dater de plus de trois mois s'il a été délivré par un officier de l'état
+civil français.
+
+Toutefois, l'officier de l'état civil peut, après en avoir préalablement informé le futur époux, demander la vérification des
+données à caractère personnel contenues dans les actes de l'état civil auprès du dépositaire de l'acte de naissance du futur
+époux. Ce dernier est alors dispensé de la production de son extrait d'acte de naissance.
+
+Lorsque l'acte de naissance n'est pas détenu par un officier de l'état civil français, l'extrait de cet acte ne doit pas
+dater de plus de six mois. Cette condition de délai ne s'applique pas lorsque l'acte émane d'un système d'état civil étranger
+ne procédant pas à la mise à jour des actes.
 
 **Liens relatifs à cet article**
 
@@ -5406,7 +5554,7 @@ délivrée dans un consulat.
 
 	**Modifié par**:
 
-	  - Loi n°2006-1376 du 14 novembre 2006 - art. 2 () JORF 15 novembre 2006 en vigueur le 1er mars 2007
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 52
 
 	**Codifié par**:
 
@@ -5590,8 +5738,7 @@ contrat de mariage, et, autant que possible, la date du contrat, s'il existe, ai
 notaire qui l'aura reçu ; le tout à peine, contre l'officier de l'état civil, de l'amende fixée par l'article 50. 
 
 Dans le cas où la déclaration aurait été omise ou serait erronée, la rectification de l'acte, en ce qui touche l'omission ou
-l'erreur, pourra être demandée par le procureur de la République, sans préjudice du droit des parties intéressées,
-conformément à l'article 99. 
+l'erreur, pourra être effectuée conformément à l'article 99-1.
 
 9° S'il y a lieu, la déclaration qu'il a été fait un acte de désignation de la loi applicable conformément à la convention
 sur la loi applicable aux régimes matrimoniaux, faite à La Haye le 14 mars 1978, ainsi que la date et le lieu de signature de
@@ -5603,12 +5750,12 @@ En marge de l'acte de naissance de chaque époux, il sera fait mention de la cé
 
 	**Modifié par**:
 
-	  - Loi n°97-987 du 28 octobre 1997 - art. 1 () JORF 29 octobre 1997
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 55
 
 	**Cite**:
 
-	  - Code civil - art. 50 (V)
-	  - Code civil - art. 99 (V)
+	  - Code civil - art. 50
+	  - Code civil - art. 99
 	  - Convention 1978-03-14, faite à La Haye
 
 	**Codifié par**:
@@ -5624,12 +5771,20 @@ L'acte de décès sera dressé par l'officier de l'état civil de la commune où
 parent du défunt ou sur celle d'une personne possédant sur son état civil les renseignements les plus exacts et les plus
 complets qu'il sera possible.
 
+Pour s'assurer de l'exactitude des informations déclarées, l'officier de l'état civil peut demander la vérification des
+données à caractère personnel du défunt auprès du dépositaire de l'acte de naissance ou, à défaut d'acte de naissance détenu
+en France, de l'acte de mariage.
+
 **Liens relatifs à cet article**
 
 	**Liens**:
 
 	  - TXT_SOURCE: Arrêté du 16 juillet 1987
 	  - TXT_SOURCE: Arrêté du 16 juillet 1987 - art. 1 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 52
 
 	**Cité par**:
 
@@ -5647,10 +5802,6 @@ complets qu'il sera possible.
 	**Codifié par**:
 
 	  - Loi n°1803-03-11
-
-	**Créé par**:
-
-	  - Loi n°1803-03-11 promulguée le 21 mars 1803
 
 
 ###### Article 79
@@ -5899,7 +6050,7 @@ Lorsque le corps d'une personne décédée est retrouvé et peut être identifi�
 de l'état civil du lieu présumé du décès, quel que soit le temps écoulé entre le décès et la découverte du corps. 
 
 Si le défunt ne peut être identifié, l'acte de décès doit comporter son signalement le plus complet ; en cas d'identification
-ultérieure, l'acte est rectifié dans les conditions prévues à l'article 99 du présent code. L'officier d'état civil informe
+ultérieure, l'acte est rectifié dans les conditions prévues à l'article 99-1 du présent code. L'officier d'état civil informe
 sans délai le procureur de la République du décès, afin qu'il puisse prendre les réquisitions nécessaires aux fins d'établir
 l'identité du défunt.
 
@@ -5920,7 +6071,7 @@ l'identité du défunt.
 
 	**Modifié par**:
 
-	  - Loi n°2011-267 du 14 mars 2011 - art. 6
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 55
 
 	**Cite**:
 
@@ -6038,26 +6189,21 @@ individuels du dispositif sont transmis aux officiers de l'état civil du dernie
 la transcription. 
 
 Les jugements déclaratifs de décès tiennent lieu d'actes de décès et sont opposables aux tiers, qui peuvent seulement en
-obtenir la rectification, conformément à l'article 99 du présent code.
+obtenir la rectification ou l'annulation, conformément aux articles 99 et 99-1 du présent code.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 55
+
 	**Cite**:
 
-	  - Code civil - art. 99 (V)
+	  - Code civil - art. 99
 
 	**Codifié par**:
 
 	  - Loi n°1803-03-11
-
-	**Créé par**:
-
-	  - Loi n°1803-03-11 promulguée le 21 mars 1803
-
-	**Modifié par**:
-
-	  - Ordonnance 1945-10-30 art. 1
-	  - Ordonnance 58-779 1958-08-23 art. 1 JORF 30 août 1958
 
 
 ###### Article 92
@@ -6428,19 +6574,14 @@ rectification.
 
 ### Chapitre VII : De la rectification des actes d'état civil.
 
+### Chapitre VII : De l'annulation et de la rectification des actes de l'état civil
+
 ###### Article 99
 
 La rectification des actes de l'état civil est ordonnée par le président du tribunal.
 
-La rectification des jugements déclaratifs ou supplétifs d'actes de l'état civil est ordonnée par le tribunal.
-
-La requête en rectification peut être présentée par toute personne intéressée ou par le procureur de la République ; celui-ci
-est tenu d'agir d'office quand l'erreur ou l'omission porte sur une indication essentielle de l'acte ou de la décision qui en
-tient lieu.
-
-Le procureur de la République territorialement compétent peut procéder à la rectification administrative des erreurs et
-omissions purement matérielles des actes de l'état civil ; à cet effet, il donne directement les instructions utiles aux
-dépositaires des registres.
+L'annulation des actes de l'état civil est ordonnée par le tribunal. Toutefois, le procureur de la République
+territorialement compétent peut faire procéder à l'annulation de l'acte lorsque celui-ci est irrégulièrement dressé.
 
 **Liens relatifs à cet article**
 
@@ -6459,23 +6600,28 @@ dépositaires des registres.
 
 	**Modifié par**:
 
-	  - Ordonnance 58-779 1958-08-23 art. 1 JORF 30 août 1958
-	  - Décret n°81-500 1981-05-12 art. 1 JORF 14 mai 1981
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 55
 
 	**Codifié par**:
 
 	  - Loi n°1803-03-11
 
-	**Créé par**:
-
-	  - Loi n°1803-03-11 promulguée le 21 mars 1803
-
 
 ###### Article 99-1
 
-Les personnes habilitées à exercer les fonctions d'officier de l'état civil pour dresser les actes mentionnés aux articles 98
-à 98-2 peuvent procéder à la rectification administrative des erreurs et omissions purement matérielles contenues dans ces
-actes ou dans les mentions qui y sont apposées en marge, à l'exception de celles inscrites après l'établissement des actes.
+L'officier de l'état civil rectifie les erreurs ou omissions purement matérielles entachant les énonciations et mentions
+apposées en marge des actes de l'état civil dont il est dépositaire et dont la liste est fixée par le code de procédure
+civile. 
+
+Si l'erreur entache d'autres actes de l'état civil, l'officier de l'état civil saisi procède ou fait procéder à leur
+rectification lorsqu'il n'est pas dépositaire de l'acte. 
+
+Les modalités de cette rectification sont précisées au même code. 
+
+Le procureur de la République territorialement compétent peut toujours faire procéder à la rectification administrative des
+erreurs et omissions purement matérielles des actes de l'état civil ; à cet effet, il donne directement les instructions
+utiles aux dépositaires des registres de l'acte erroné ainsi qu'à ceux qui détiennent les autres actes entachés par la même
+erreur.
 
 **Liens relatifs à cet article**
 
@@ -6486,30 +6632,48 @@ actes ou dans les mentions qui y sont apposées en marge, à l'exception de cell
 
 	**Modifié par**:
 
-	  - Loi n°93-22 du 8 janvier 1993 - art. 8 () JORF 9 janvier 1993
-
-	**Liens**:
-
-	  - TRANSFERE: Loi n°2016-1547 du 18 novembre 2016 - art. 55
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 55
 
 	**Cite**:
 
-	  - Code civil - art. 98 (V)
-
-	**Nouveaux textes**:
-
-	  - Code civil - art. 99-2 (V)
+	  - Code civil - art. 98
 
 	**Codifié par**:
 
 	  - Loi n°1803-03-11
 
 
-###### Article 100
+###### Article 99-2
 
-Toute rectification judiciaire ou administrative d'un acte ou jugement relatif à l'état civil est opposable à tous.
+Les personnes habilitées à exercer les fonctions d'officier de l'état civil pour dresser les actes mentionnés aux articles 98
+à 98-2 peuvent procéder à la rectification administrative des erreurs et omissions purement matérielles entachant les
+énonciations et mentions apposées en marge de ces actes conformément à l'article 99-1. 
+
+Les personnes habilitées à exercer les fonctions d'officier de l'état civil auprès de l'Office français de protection des
+réfugiés et apatrides peuvent, dans les mêmes conditions, procéder à la rectification des certificats tenant lieu d'acte de
+l'état civil établis conformément au code de l'entrée et du séjour des étrangers et du droit d'asile
 
 **Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 55
+
+	**Anciens textes**:
+
+	  - Code civil - art. 99-1 (T)
+
+
+###### Article 100
+
+Toute rectification ou annulation judiciaire ou administrative d'un acte est opposable à tous à compter de sa publicité sur
+les registres de l'état civil.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 55
 
 	**Cité par**:
 
@@ -6518,14 +6682,6 @@ Toute rectification judiciaire ou administrative d'un acte ou jugement relatif �
 	**Codifié par**:
 
 	  - Loi n°1803-03-11
-
-	**Créé par**:
-
-	  - Loi n°1803-03-11 promulguée le 21 mars 1803
-
-	**Modifié par**:
-
-	  - Ordonnance 58-779 1958-08-23 art. 1 JORF 30 août 1958
 
 
 ###### Article 101
@@ -6556,6 +6712,58 @@ l'article 50 du code civil et de tous dommages-intérêts contre le dépositaire
 	**Créé par**:
 
 	  - Loi n°1803-03-11 promulguée le 21 mars 1803
+
+
+### Chapitre VIII : De la publicité des actes de l'état civil
+
+###### Article 101-1
+
+La publicité des actes de l'état civil est assurée par la délivrance des copies intégrales ou d'extraits faite par les
+officiers de l'état civil. 
+
+Le contenu et les conditions de délivrance des copies intégrales et des extraits sont fixés par décret en Conseil d'Etat. 
+
+La procédure de vérification sécurisée des données à caractère personnel contenues dans les actes de l'état civil peut être
+mise en œuvre aux fins de suppléer à la délivrance des copies intégrales et des extraits, dans les conditions fixées par
+décret en Conseil d'Etat. Lorsque la procédure de vérification peut être mise en œuvre par voie dématérialisée, notamment par
+les notaires, elle se substitue à toute autre forme de délivrance de copie intégrale ou d'extrait mentionnée aux articles
+précédents. 
+
+La procédure de vérification par voie dématérialisée est obligatoirement mise en œuvre par les communes sur le territoire
+desquelles est située ou a été établie une maternité.
+
+**Nota:**
+
+Conformément au XVII de l'article 114 de la loi n° 2016-1547 du 18 novembre 2016, le dernier alinéa de l'article 101-1 dans
+sa rédaction résultant de l'article 53 de ladite loi entre en vigueur au plus tard le premier jour du vingt-quatrième mois
+suivant la promulgation de la loi.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°2006-1806 du 23 décembre 2006 - art. 1 (VD)
+	  - Décret n°2012-966 du 20 août 2012 - art. 1 (VD)
+	  - Décret n°2017-889 du 6 mai 2017 - art. 2
+	  - Décret n°2017-889 du 6 mai 2017 - art. 26
+	  - Décret n°2017-890 du 6 mai 2017 - art. 25 (VD)
+
+	**Créé par**:
+
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 53
+
+
+###### Article 101-2
+
+La publicité des actes de l'état civil est également assurée par le livret de famille, dont le contenu, les règles de mise à
+jour et les conditions de délivrance et de sécurisation sont fixés par décret en Conseil d'Etat. Son modèle est défini par
+arrêté.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 53
 
 
 ## Titre III : Du domicile
@@ -7312,27 +7520,19 @@ sur les registres des décès du lieu du domicile de l'absent ou de sa dernière
 faite en marge des registres à la date du jugement déclarant l'absence ; elle est également faite en marge de l'acte de
 naissance de la personne déclarée absente. 
 
-La transcription rend le jugement opposable aux tiers qui peuvent seulement en obtenir la rectification conformément à
-l'article 99.
+La transcription rend le jugement opposable aux tiers qui peuvent seulement en obtenir la rectification ou l'annulation,
+conformément aux articles 99 et 99-1.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°77-1447 du 28 décembre 1977 - art. 1 () JORF 29 décembre 1977 en vigueur le 31 mars 1978
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°77-1447 du 28 décembre 1977 - art. 10 (V)
-	  - SPEC_APPLI: Loi n°77-1447 du 28 décembre 1977 - art. 7 (V)
-	  - SPEC_APPLI: Loi n°77-1447 du 28 décembre 1977 - art. 8 (V)
-	  - SPEC_APPLI: Loi n°77-1447 du 28 décembre 1977 - art. 9 (V)
-	  - SPEC_APPLI: Loi n°2001-1135 2001-12-03 art. 26 I (application à Mayotte)
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 55
 
 	**Cite**:
 
-	  - Code civil - art. 123 (V)
-	  - Code civil - art. 99 (V)
+	  - Code civil - art. 123
+	  - Code civil - art. 99
 
 	**Cité par**:
 
@@ -13473,7 +13673,8 @@ Lorsque la filiation n'est établie qu'à l'égard d'un parent, l'enfant prend l
 Lors de l'établissement du second lien de filiation puis durant la minorité de l'enfant, les parents peuvent, par déclaration
 conjointe devant l'officier de l'état civil, choisir soit de lui substituer le nom de famille du parent à l'égard duquel la
 filiation a été établie en second lieu, soit d'accoler leurs deux noms, dans l'ordre choisi par eux, dans la limite d'un nom
-de famille pour chacun d'eux. Le changement de nom est mentionné en marge de l'acte de naissance. 
+de famille pour chacun d'eux. Le changement de nom est mentionné en marge de l'acte de naissance. En cas d'empêchement grave,
+le parent peut être représenté par un fondé de procuration spéciale et authentique. 
 
 Toutefois, lorsqu'il a déjà été fait application de l'article 311-21, du deuxième alinéa du présent article ou de l'article
 357 à l'égard d'un autre enfant commun, la déclaration de changement de nom ne peut avoir d'autre effet que de donner le nom
@@ -13493,11 +13694,11 @@ Si l'enfant a plus de treize ans, son consentement personnel est nécessaire.
 	  - Code civil - art. 311-24 (V)
 	  - Code civil - art. 333-5 (Ab)
 	  - Code civil - art. 357 (V)
-	  - Code civil - art. 55 (M)
+	  - Code civil - art. 55 (V)
 
 	**Modifié par**:
 
-	  - Loi n°2013-404 du 17 mai 2013 - art. 11
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 57
 
 	**Nouveaux textes**:
 
@@ -13531,6 +13732,20 @@ La faculté de choix ouverte en application des articles 311-21 et 311-23 ne peu
 	**Anciens textes**:
 
 	  - Code civil - art. 311-23 (T)
+
+
+###### Article 311-24-1
+
+En cas de naissance à l'étranger d'un enfant dont au moins l'un des parents est français, la transcription de l'acte de
+naissance de l'enfant doit retenir le nom de l'enfant tel qu'il résulte de l'acte de naissance étranger. Toutefois, au moment
+de la demande de transcription, les parents peuvent opter pour l'application de la loi française pour la détermination du nom
+de leur enfant, dans les conditions prévues à la présente section.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 57
 
 
 ### Chapitre II : De l'établissement de la filiation
@@ -15555,8 +15770,8 @@ d'origine.
 L'adoptant est seul investi à l'égard de l'adopté de tous les droits d'autorité parentale, inclus celui de consentir au
 mariage de l'adopté, à moins qu'il ne soit le conjoint du père ou de la mère de l'adopté ; dans ce cas, l'adoptant a
 l'autorité parentale concurremment avec son conjoint, lequel en conserve seul l'exercice, sous réserve d'une déclaration
-conjointe avec l'adoptant adressée au greffier en chef du tribunal de grande instance aux fins d'un exercice en commun de
-cette autorité.
+conjointe avec l'adoptant adressée au directeur des services de greffe judiciaires du tribunal de grande instance aux fins
+d'un exercice en commun de cette autorité.
 
 Les droits d'autorité parentale sont exercés par le ou les adoptants dans les conditions prévues par le chapitre Ier du titre
 IX du présent livre.
@@ -15567,7 +15782,7 @@ Les règles de l'administration légale et de la tutelle des mineurs s'appliquen
 
 	**Modifié par**:
 
-	  - Loi n°2011-1862 du 13 décembre 2011 - art. 21
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 16
 
 	**Cité par**:
 
@@ -16089,7 +16304,7 @@ filiation est déjà établie à l'égard de l'autre, celui-ci reste seul invest
 de même lorsque la filiation est judiciairement déclarée à l'égard du second parent de l'enfant.
 
 L'autorité parentale pourra néanmoins être exercée en commun en cas de déclaration conjointe des père et mère adressée au
-greffier en chef du tribunal de grande instance ou sur décision du juge aux affaires familiales.
+directeur des services de greffe judiciaires du tribunal de grande instance ou sur décision du juge aux affaires familiales.
 
 **Liens relatifs à cet article**
 
@@ -16104,7 +16319,7 @@ greffier en chef du tribunal de grande instance ou sur décision du juge aux aff
 
 	**Modifié par**:
 
-	  - Loi n°2011-1862 du 13 décembre 2011 - art. 21
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 16
 
 	**Codifié par**:
 
@@ -16473,7 +16688,8 @@ En cas de désaccord, le juge s'efforce de concilier les parties.
 A l'effet de faciliter la recherche par les parents d'un exercice consensuel de l'autorité parentale, le juge peut leur
 proposer une mesure de médiation et, après avoir recueilli leur accord, désigner un médiateur familial pour y procéder.
 
-Il peut leur enjoindre de rencontrer un médiateur familial qui les informera sur l'objet et le déroulement de cette mesure.
+Il peut leur enjoindre, sauf si des violences ont été commises par l'un des parents sur l'autre parent ou sur l'enfant, de
+rencontrer un médiateur familial qui les informera sur l'objet et le déroulement de cette mesure.
 
 **Liens relatifs à cet article**
 
@@ -16484,13 +16700,13 @@ Il peut leur enjoindre de rencontrer un médiateur familial qui les informera su
 	  - Code de procédure civile - art. 1071 (V)
 	  - Nouveau code de procédure civile - art. 1180-3 (Ab)
 
+	**Modifié par**:
+
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 6
+
 	**Codifié par**:
 
 	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°2002-305 du 4 mars 2002 - art. 5 () JORF 5 mars 2002
 
 
 ###### Article 373-2-11
@@ -17950,9 +18166,9 @@ biens du mineur.
 
 Si l'administration légale est exercée en commun, les deux parents sont responsables solidairement. 
 
-L'Etat est responsable des dommages susceptibles d'être occasionnés par le juge des tutelles et le greffier en chef du
-tribunal de grande instance dans l'exercice de leurs fonctions en matière d'administration légale, dans les conditions
-prévues à l'article 412. 
+L'Etat est responsable des dommages susceptibles d'être occasionnés par le juge des tutelles et le directeur des services de
+greffe judiciaires du tribunal de grande instance dans l'exercice de leurs fonctions en matière d'administration légale, dans
+les conditions prévues à l'article 412. 
 
 L'action en responsabilité se prescrit par cinq ans à compter de la majorité de l'intéressé ou de son émancipation.
 
@@ -17965,17 +18181,17 @@ Il est applicable aux administrations légales en cours au jour de son entrée e
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
 	**Modifié par**:
 
-	  - ORDONNANCE n°2015-1288 du 15 octobre 2015 - art. 3
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 16
 
 	**Cite**:
 
-	  - Code civil - art. 412 (M)
+	  - Code civil - art. 412
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
 
 
 #### Section 2 : De la jouissance légale
@@ -18240,18 +18456,18 @@ Il est applicable aux administrations légales en cours au jour de son entrée e
 ###### Article 387-5
 
 A l'occasion du contrôle mentionné à l'article précédent, le juge peut demander à l'administrateur légal de soumettre au
-greffier en chef du tribunal de grande instance un compte de gestion annuel, accompagné des pièces justificatives, en vue de
-sa vérification.
+directeur des services de greffe judiciaires du tribunal de grande instance un compte de gestion annuel, accompagné des
+pièces justificatives, en vue de sa vérification. 
 
-Lorsque des comptes ont été demandés, l'administrateur légal doit remettre au greffier en chef, à la fin de sa mission, un
-compte définitif des opérations intervenues depuis l'établissement du dernier compte annuel.
+Lorsque des comptes ont été demandés, l'administrateur légal doit remettre au directeur des services de greffe judiciaires, à
+la fin de sa mission, un compte définitif des opérations intervenues depuis l'établissement du dernier compte annuel.
 
-Le greffier en chef peut être assisté dans sa mission de contrôle des comptes dans les conditions fixées par le code de
-procédure civile. Il peut aussi solliciter des établissements auprès desquels des comptes sont ouverts au nom du mineur un
-relevé annuel de ceux-ci sans que puisse lui être opposé le secret professionnel ou le secret bancaire.
+Le directeur des services de greffe judiciaires peut être assisté dans sa mission de contrôle des comptes dans les conditions
+fixées par le code de procédure civile. Il peut aussi solliciter des établissements auprès desquels des comptes sont ouverts
+au nom du mineur un relevé annuel de ceux-ci sans que puisse lui être opposé le secret professionnel ou le secret bancaire.
 
-S'il refuse d'approuver le compte, le greffier en chef dresse un rapport des difficultés rencontrées, qu'il transmet au juge.
-Celui-ci statue sur la conformité du compte.
+S'il refuse d'approuver le compte, le directeur des services de greffe judiciaires dresse un rapport des difficultés
+rencontrées, qu'il transmet au juge. Celui-ci statue sur la conformité du compte.
 
 Si l'importance et la composition du patrimoine du mineur le justifient, le juge peut décider que la mission de vérification
 et d'approbation sera exercée, aux frais du mineur et selon les modalités qu'il fixe, par un technicien.
@@ -18270,9 +18486,9 @@ Il est applicable aux administrations légales en cours au jour de son entrée e
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - ORDONNANCE n°2015-1288 du 15 octobre 2015 - art. 3
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 16
 
 	**Cité par**:
 
@@ -19096,8 +19312,8 @@ Tous les organes de la tutelle sont responsables du dommage résultant d'une fau
 l'exercice de leur fonction. 
 
 Lorsque la faute à l'origine du dommage a été commise dans l'organisation et le fonctionnement de la tutelle par le juge des
-tutelles, le greffier en chef du   tribunal de grande instance ou le greffier, l'action en responsabilité est dirigée contre
-l'Etat qui dispose d'une action récursoire.
+tutelles, le directeur des services de greffe judiciaires du tribunal de grande instance ou le greffier, l'action en
+responsabilité est dirigée contre l'Etat qui dispose d'une action récursoire.
 
 **Liens relatifs à cet article**
 
@@ -19109,9 +19325,9 @@ l'Etat qui dispose d'une action récursoire.
 	  - Décret du 26 mars 1910 - art. 12 (Ab)
 	  - Nouveau code de procédure civile - art. 1230 (V)
 
-	**Liens**:
+	**Modifié par**:
 
-	  - DEPLACE: ORDONNANCE n°2015-1288 du 15 octobre 2015 - art. 4
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 16
 
 
 ###### Article 413
@@ -19616,25 +19832,26 @@ n'engagent leur responsabilité, du fait des actes accomplis avec leur assistanc
 ###### Article 422
 
 Lorsque la faute à l'origine du dommage a été commise dans l'organisation et le fonctionnement de la mesure de protection par
-le juge des tutelles, le greffier en chef du tribunal d'instance ou le greffier, l'action en responsabilité diligentée par la
-personne protégée ou ayant été protégée ou par ses héritiers est dirigée contre l'Etat qui dispose d'une action récursoire.
+le juge des tutelles, le directeur des services de greffe judiciaires du tribunal d'instance ou le greffier, l'action en
+responsabilité diligentée par la personne protégée ou ayant été protégée ou par ses héritiers est dirigée contre l'Etat qui
+dispose d'une action récursoire.
 
 Lorsque la faute à l'origine du dommage a été commise par le mandataire judiciaire à la protection des majeurs, l'action en
 responsabilité peut être dirigée contre celui-ci ou contre l'Etat qui dispose d'une action récursoire.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°2007-308 du 5 mars 2007 - art. 7 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
-
 	**Cité par**:
 
 	  - Ordonnance n°2012-1222 du 2 novembre 2012 - art. 4 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 16
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
 
 
 ###### Article 423
@@ -22107,10 +22324,11 @@ Il est tenu de les présenter au juge des tutelles ou au procureur de la Républ
 ###### Article 494-1
 
 Lorsqu'une personne est hors d'état de manifester sa volonté pour l'une des causes prévues à l'article 425, le juge des
-tutelles peut habiliter une ou plusieurs personnes choisies parmi ses proches au sens du 2° du I de l'article 1er de la loi
-n° 2015-177 du 16 février 2015 à la représenter ou à passer un ou des actes en son nom dans les conditions et selon les
-modalités prévues à la présente section et à celles du titre XIII du livre III qui ne lui sont pas contraires, afin d'assurer
-la sauvegarde de ses intérêts.
+tutelles peut habiliter une ou plusieurs personnes choisies parmi ses ascendants ou descendants, frères et sœurs ou, à moins
+que la communauté de vie ait cessé entre eux, le conjoint, le partenaire auquel elle est liée par un pacte civil de
+solidarité ou le concubin à la représenter ou à passer un ou des actes en son nom dans les conditions et selon les modalités
+prévues à la présente section et à celles du titre XIII du livre III qui ne lui sont pas contraires, afin d'assurer la
+sauvegarde de ses intérêts. 
 
 La personne habilitée doit remplir les conditions pour exercer les charges tutélaires. Elle exerce sa mission à titre
 gratuit.
@@ -22121,9 +22339,9 @@ gratuit.
 
 	  - Loi n°2015-177 du 16 février 2015 - art. 1
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - ORDONNANCE n°2015-1288 du 15 octobre 2015 - art. 10
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 111 (V)
 
 	**Cité par**:
 
@@ -22133,7 +22351,7 @@ gratuit.
 	  - Code civil - art. 494-11 (VD)
 	  - Code civil - art. 494-3 (VD)
 	  - Code civil - art. 494-4 (VD)
-	  - Code civil - art. 494-6 (VD)
+	  - Code civil - art. 494-6 (V)
 	  - Code de procédure civile - art. 1260-11 (V)
 	  - Code de procédure civile - art. 1260-3 (V)
 	  - Code de procédure civile - art. 1260-6 (V)
@@ -22143,14 +22361,15 @@ gratuit.
 ###### Article 494-2
 
 L'habilitation familiale ne peut être ordonnée par le juge qu'en cas de nécessité et lorsqu'il ne peut être suffisamment
-pourvu aux intérêts de la personne par l'application des règles du droit commun de la représentation ou par les stipulations
-du mandat de protection future conclu par l'intéressé.
+pourvu aux intérêts de la personne par l'application des règles du droit commun de la représentation, de celles relatives aux
+droits et devoirs respectifs des époux et des règles des régimes matrimoniaux, en particulier celles prévues aux articles
+217, 219, 1426 et 1429, ou par les stipulations du mandat de protection future conclu par l'intéressé.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - ORDONNANCE n°2015-1288 du 15 octobre 2015 - art. 10
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 111 (V)
 
 
 ###### Article 494-3
@@ -22229,7 +22448,7 @@ est conforme aux intérêts patrimoniaux et, le cas échéant, personnels de l'i
 
 ###### Article 494-6
 
-L'habilitation peut porter sur :
+L'habilitation peut porter sur : 
 
 - un ou plusieurs des actes que le tuteur a le pouvoir d'accomplir, seul ou avec une autorisation, sur les biens de
 l'intéressé ;
@@ -22257,20 +22476,20 @@ vingt ans.
 
 Les jugements accordant, modifiant ou renouvelant une habilitation générale font l'objet d'une mention en marge de l'acte de
 naissance selon les conditions prévues à l'article 444. Il en est de même lorsqu'il est mis fin à l'habilitation pour l'une
-des causes prévues à l'article 494-12.
+des causes prévues à l'article 494-11.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - ORDONNANCE n°2015-1288 du 15 octobre 2015 - art. 10
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 111 (V)
 
 	**Cite**:
 
 	  - Code civil - art. 431
 	  - Code civil - art. 444
 	  - Code civil - art. 457-1
-	  - Code civil - art. 494-1
+	  - Code civil - art. 494-1 (V)
 	  - Code civil - art. 494-12
 	  - Code civil - art. 494-5
 
@@ -23190,33 +23409,29 @@ tuteur une copie du compte et des pièces justificatives ou une partie de ces do
 ###### Article 511
 
 Le tuteur soumet chaque année le compte de gestion, accompagné des pièces justificatives, en vue de sa vérification, au
-greffier en chef : 
+directeur des services de greffe judiciaires : 
 
 1° Du tribunal de grande instance, s'agissant des mesures de protection juridique des mineurs ; 
 
 2° Du tribunal d'instance, s'agissant des mesures de protection juridique des majeurs. 
 
-Lorsqu'un subrogé tuteur a été nommé, il vérifie le compte avant de le transmettre avec ses observations au greffier en
-chef. 
+Lorsqu'un subrogé tuteur a été nommé, il vérifie le compte avant de le transmettre avec ses observations au directeur des
+services de greffe judiciaires. 
 
-Pour la vérification du compte, le greffier en chef peut faire usage du droit de communication prévu au deuxième alinéa de
-l'article 510. Il peut être assisté dans sa mission de contrôle des comptes dans les conditions fixées par le code de
-procédure civile. 
+Pour la vérification du compte, le directeur des services de greffe judiciaires peut faire usage du droit de communication
+prévu au deuxième alinéa de l'article 510. Il peut être assisté dans sa mission de contrôle des comptes dans les conditions
+fixées par le code de procédure civile. 
 
-S'il refuse d'approuver le compte, le greffier en chef dresse un rapport des difficultés rencontrées qu'il transmet au juge.
-Celui-ci statue sur la conformité du compte. 
+S'il refuse d'approuver le compte, le directeur des services de greffe judiciaires dresse un rapport des difficultés
+rencontrées qu'il transmet au juge. Celui-ci statue sur la conformité du compte. 
 
-Le juge peut décider que la mission de vérification et d'approbation des comptes dévolue au greffier en chef sera exercée par
-le subrogé tuteur s'il en a été nommé un. 
+Le juge peut décider que la mission de vérification et d'approbation des comptes dévolue au directeur des services de greffe
+judiciaires sera exercée par le subrogé tuteur s'il en a été nommé un. 
 
 Lorsqu'il est fait application de l'article 457, le juge peut décider que le conseil de famille vérifiera et approuvera les
-comptes en lieu et place du greffier en chef.
+comptes en lieu et place du directeur des services de greffe judiciaires.
 
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°2009-526 du 12 mai 2009 - art. 13 (V)
 
 	**Cité par**:
 
@@ -23227,23 +23442,32 @@ comptes en lieu et place du greffier en chef.
 	  - Code civil - art. 514 (V)
 	  - Code de procédure civile - art. 1254-1 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 16
+
 	**Cite**:
 
-	  - Code civil - art. 473 (V)
-	  - Code civil - art. 510 (V)
+	  - Code civil - art. 457 (V)
+	  - Code civil - art. 510
 
 
 ###### Article 512
 
 Lorsque la tutelle n'a pas été confiée à un mandataire judiciaire à la protection des majeurs, le juge peut, par dérogation
 aux articles 510 et 511 et en considération de la modicité des revenus et du patrimoine de la personne protégée, dispenser le
-tuteur d'établir le compte de gestion et de soumettre celui-ci à l'approbation du greffier en chef.
+tuteur d'établir le compte de gestion et de soumettre celui-ci à l'approbation du directeur des services de greffe
+judiciaires.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 16
+
 	**Cite**:
 
-	  - Code civil - art. 510 (V)
+	  - Code civil - art. 510
 
 	**Cité par**:
 
@@ -23252,10 +23476,6 @@ tuteur d'établir le compte de gestion et de soumettre celui-ci à l'approbation
 	**Codifié par**:
 
 	  - Loi n°1803-03-14
-
-	**Modifié par**:
-
-	  - Loi n°2007-308 du 5 mars 2007 - art. 8 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
 
 
 ###### Article 513
@@ -30866,13 +31086,17 @@ opté, de manière tacite ou expresse.
 ###### Article 809-1
 
 Le juge, saisi sur requête de tout créancier, de toute personne qui assurait, pour le compte de la personne décédée,
-l'administration de tout ou partie de son patrimoine, de toute autre personne intéressée ou du ministère public, confie la
-curatelle de la succession vacante, dont le régime est défini à la présente section, à l'autorité administrative chargée du
-domaine.
+l'administration de tout ou partie de son patrimoine, d'un notaire, de toute autre personne intéressée ou du ministère
+public, confie la curatelle de la succession vacante, dont le régime est défini à la présente section, à l'autorité
+administrative chargée du domaine.
 
 L'ordonnance de curatelle fait l'objet d'une publicité.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 47
 
 	**Cité par**:
 
@@ -30883,10 +31107,6 @@ L'ordonnance de curatelle fait l'objet d'une publicité.
 	**Codifié par**:
 
 	  - Loi n°1803-04-19
-
-	**Créé par**:
-
-	  - Loi n°2006-728 du 23 juin 2006 - art. 1 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 809-2
@@ -49942,18 +50162,18 @@ Le prix de la vente doit être déterminé et désigné par les parties.
 
 ###### Article 1592
 
-Il peut cependant être laissé à l'arbitrage d'un tiers ; si le tiers ne veut ou ne peut faire l'estimation, il n'y a point de
-vente.
+Il peut cependant être laissé à l'estimation d'un tiers ; si le tiers ne veut ou ne peut faire l'estimation, il n'y a point
+de vente.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 11
 
 	**Codifié par**:
 
 	  - Loi n°1804-03-06
-
-	**Créé par**:
-
-	  - Loi n°1804-03-06 promulguée le 16 mars 1804
 
 
 ###### Article 1593
@@ -60845,8 +61065,8 @@ Lorsqu'il prend fin par le décès du constituant, le patrimoine fiduciaire fait
 
 ###### Article 2044
 
-La transaction est un contrat par lequel les parties terminent une contestation née, ou préviennent une contestation à
-naître.
+La transaction est un contrat par lequel les parties, par des concessions réciproques, terminent une contestation née, ou
+préviennent une contestation à naître.
 
 Ce contrat doit être rédigé par écrit.
 
@@ -60909,13 +61129,13 @@ Ce contrat doit être rédigé par écrit.
 	  - Code rural - art. R622-8 (Ab)
 	  - Code rural et de la pêche maritime - art. R313-27 (T)
 
+	**Modifié par**:
+
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 10
+
 	**Codifié par**:
 
 	  - Loi n°1804-03-20
-
-	**Créé par**:
-
-	  - Loi n°1804-03-20 promulguée le 30 mars 1804
 
 
 ###### Article 2045
@@ -60962,25 +61182,6 @@ On peut transiger sur l'intérêt civil qui résulte d'un délit.
 La transaction n'empêche pas la poursuite du ministère public.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1804-03-20
-
-	**Créé par**:
-
-	  - Loi n°1804-03-20 promulguée le 30 mars 1804
-
-
-###### Article 2047
-
-On peut ajouter à une transaction la stipulation d'une peine contre celui qui manquera de l'exécuter.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Loi n°2016-1547 du 18 novembre 2016 - art. 10
 
 	**Codifié par**:
 
@@ -61057,147 +61258,23 @@ La transaction faite par l'un des intéressés ne lie point les autres intéress
 
 ###### Article 2052
 
-Les transactions ont, entre les parties, l'autorité de la chose jugée en dernier ressort.
-
-Elles ne peuvent être attaquées pour cause d'erreur de droit, ni pour cause de lésion.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1804-03-20
-
-	**Créé par**:
-
-	  - Loi n°1804-03-20 promulguée le 30 mars 1804
-
-
-###### Article 2053
-
-Néanmoins, une transaction peut être rescindée lorsqu'il y a erreur dans la personne ou sur l'objet de la contestation.
-
-Elle peut l'être dans tous les cas où il y a dol ou violence.
+La transaction fait obstacle à l'introduction ou à la poursuite entre les parties d'une action en justice ayant le même
+objet.
 
 **Liens relatifs à cet article**
 
-	**Abrogé par**:
+	**Modifié par**:
 
 	  - Loi n°2016-1547 du 18 novembre 2016 - art. 10
 
 	**Codifié par**:
 
 	  - Loi n°1804-03-20
-
-	**Créé par**:
-
-	  - Loi n°1804-03-20 promulguée le 30 mars 1804
-
-
-###### Article 2054
-
-Il y a également lieu à l'action en rescision contre une transaction lorsqu'elle a été faite en exécution d'un titre nul, à
-moins que les parties n'aient expressément traité sur la nullité.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Loi n°2016-1547 du 18 novembre 2016 - art. 10
-
-	**Codifié par**:
-
-	  - Loi n°1804-03-20
-
-	**Créé par**:
-
-	  - Loi n°1804-03-20 promulguée le 30 mars 1804
-
-
-###### Article 2055
-
-La transaction faite sur pièces qui depuis ont été reconnues fausses est entièrement nulle.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Loi n°2016-1547 du 18 novembre 2016 - art. 10
-
-	**Codifié par**:
-
-	  - Loi n°1804-03-20
-
-	**Créé par**:
-
-	  - Loi n°1804-03-20 promulguée le 30 mars 1804
-
-
-###### Article 2056
-
-La transaction sur un procès terminé par un jugement passé en force de chose jugée, dont les parties ou l'une d'elles
-n'avaient point connaissance, est nulle.
-
-Si le jugement ignoré des parties était susceptible d'appel, la transaction sera valable.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Loi n°2016-1547 du 18 novembre 2016 - art. 10
-
-	**Codifié par**:
-
-	  - Loi n°1804-03-20
-
-	**Créé par**:
-
-	  - Loi n°1804-03-20 promulguée le 30 mars 1804
-
-
-###### Article 2057
-
-Lorsque les parties ont transigé généralement sur toutes les affaires qu'elles pouvaient avoir ensemble, les titres qui leur
-étaient alors inconnus, et qui auraient été postérieurement découverts, ne sont point une cause de rescision, à moins qu'ils
-n'aient été retenus par le fait de l'une des parties.
-
-Mais la transaction serait nulle si elle n'avait qu'un objet sur lequel il serait constaté, par des titres nouvellement
-découverts, que l'une des parties n'avait aucun droit.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Loi n°2016-1547 du 18 novembre 2016 - art. 10
-
-	**Codifié par**:
-
-	  - Loi n°1804-03-20
-
-	**Créé par**:
-
-	  - Loi n°1804-03-20 promulguée le 30 mars 1804
-
-
-###### Article 2058
-
-L'erreur de calcul dans une transaction doit être réparée.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Loi n°2016-1547 du 18 novembre 2016 - art. 10
-
-	**Codifié par**:
-
-	  - Loi n°1804-03-20
-
-	**Créé par**:
-
-	  - Loi n°1804-03-20 promulguée le 30 mars 1804
 
 
 ## Titre XVI : Du compromis
+
+## Titre XVI : De la convention d'arbitrage
 
 ###### Article 2059
 
@@ -61250,14 +61327,19 @@ compromettre.
 
 ###### Article 2061
 
-Sous réserve des dispositions législatives particulières, la clause compromissoire est valable dans les contrats conclus à
-raison d'une activité professionnelle.
+La clause compromissoire doit avoir été acceptée par la partie à laquelle on l'oppose, à moins que celle-ci n'ait succédé aux
+droits et obligations de la partie qui l'a initialement acceptée. 
+
+Lorsque l'une des parties n'a pas contracté dans le cadre de son activité professionnelle, la clause ne peut lui être
+opposée. 
+
+.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Loi n°72-626 1972-07-05
+	  - Loi n°72-626 du 5 juillet 1972
 
 	**Cité par**:
 
@@ -61267,24 +61349,17 @@ raison d'une activité professionnelle.
 
 	**Modifié par**:
 
-	  - Loi n°2001-420 du 15 mai 2001 - art. 126 () JORF 16 mai 2001
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 11
 
 
 ## Titre XVII : De la convention de procédure participative
 
 ###### Article 2062
 
-La convention de procédure participative est une convention par laquelle les parties à un différend qui n'a pas encore donné
-lieu à la saisine d'un juge ou d'un arbitre s'engagent à œuvrer conjointement et de bonne foi à la résolution amiable de leur
-différend.
+La convention de procédure participative est une convention par laquelle les parties à un différend s'engagent à œuvrer
+conjointement et de bonne foi à la résolution amiable de leur différend ou à la mise en état de leur litige.
 
 Cette convention est conclue pour une durée déterminée.
-
-**Nota:**
-
-LOI n° 2010-1609 du 22 décembre 2010 art 43 : les dispositions de l'article 2062 du code civil entrent en vigueur dans les
-conditions fixées par le décret modifiant le code de procédure civile nécessaire à leur application et au plus tard le 1er
-septembre 2011.
 
 **Liens relatifs à cet article**
 
@@ -61294,7 +61369,7 @@ septembre 2011.
 
 	**Modifié par**:
 
-	  - Loi n°2010-1609 du 22 décembre 2010 - art. 37
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 9
 
 	**Cité par**:
 
@@ -61309,13 +61384,11 @@ La convention de procédure participative est, à peine de nullité, contenue da
 
 2° L'objet du différend ;
 
-3° Les pièces et informations nécessaires à la résolution du différend et les modalités de leur échange.
+3° Les pièces et informations nécessaires à la résolution du différend ou à la mise en état du litige et les modalités de
+leur échange .
 
-**Nota:**
-
-LOI n° 2010-1609 du 22 décembre 2010 art 43 : les dispositions de l'article 2063 du code civil entrent en vigueur dans les
-conditions fixées par le décret modifiant le code de procédure civile nécessaire à leur application et au plus tard le 1er
-septembre 2011.
+4° Le cas échéant, les actes contresignés par avocats que les parties s'accordent à établir, dans des conditions prévues par
+décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
@@ -61325,7 +61398,7 @@ septembre 2011.
 
 	**Modifié par**:
 
-	  - Loi n°2010-1609 du 22 décembre 2010 - art. 37
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 9
 
 	**Cité par**:
 
@@ -61361,18 +61434,12 @@ libre disposition, sous réserve des dispositions de l'article 2067.
 
 ###### Article 2065
 
-Tant qu'elle est en cours, la convention de procédure participative rend irrecevable tout recours au juge pour qu'il statue
-sur le litige. Toutefois, l'inexécution de la convention par l'une des parties autorise une autre partie à saisir le juge
-pour qu'il statue sur le litige.
+Tant qu'elle est en cours, la convention de procédure participative conclue avant la saisine d'un juge rend irrecevable tout
+recours au juge pour qu'il statue sur le litige. Toutefois, l'inexécution de la convention par l'une des parties autorise une
+autre partie à saisir le juge pour qu'il statue sur le litige.
 
 En cas d'urgence, la convention ne fait pas obstacle à ce que des mesures provisoires ou conservatoires soient demandées par
 les parties.
-
-**Nota:**
-
-LOI n° 2010-1609 du 22 décembre 2010 art 43 : les dispositions de l'article 2065 du code civil entrent en vigueur dans les
-conditions fixées par le décret modifiant le code de procédure civile nécessaire à leur application et au plus tard le 1er
-septembre 2011.
 
 **Liens relatifs à cet article**
 
@@ -61382,7 +61449,7 @@ septembre 2011.
 
 	**Modifié par**:
 
-	  - Loi n°2010-1609 du 22 décembre 2010 - art. 37
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 9
 
 	**Cité par**:
 
@@ -61394,8 +61461,8 @@ septembre 2011.
 Les parties qui, au terme de la convention de procédure participative, parviennent à un accord réglant en tout ou partie leur
 différend peuvent soumettre cet accord à l'homologation du juge.
 
-Lorsque, faute de parvenir à un accord au terme de la convention, les parties soumettent leur litige au juge, elles sont
-dispensées de la conciliation ou de la médiation préalable le cas échéant prévue.
+Lorsque, faute de parvenir à un accord au terme de la convention conclue avant la saisine d'un juge, les parties soumettent
+leur litige au juge, elles sont dispensées de la conciliation ou de la médiation préalable le cas échéant prévue.
 
 Le deuxième alinéa n'est pas applicable aux litiges en matière prud'homale.
 
@@ -61405,16 +61472,16 @@ Le deuxième alinéa n'est pas applicable aux litiges en matière prud'homale.
 
 	  - Loi n°72-626 du 5 juillet 1972
 
-	**Modifié par**:
-
-	  - Loi n°2015-990 du 6 août 2015 - art. 258
-
 	**Cité par**:
 
 	  - Décret n°2016-660 du 20 mai 2016 - art. 32
 	  - Décret n°2016-660 du 20 mai 2016 - art. 33
 	  - Code de procédure civile - art. 1529 (V)
 	  - Code de procédure civile - art. 1558 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 9
 
 
 ###### Article 2067
@@ -64349,6 +64416,21 @@ privilège de l'auxiliaire salarié d'un travailleur à domicile l'est au privil
 	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 9 () JORF 24 mars 2006
 
 
+###### Article 2332-4
+
+Les sommes dues aux producteurs agricoles par leurs acheteurs sont payées, lorsque ces derniers font l'objet d'une procédure
+de sauvegarde, de redressement ou de liquidation judiciaire, nonobstant l'existence de toute autre créance privilégiée à
+l'exception de celles garanties par les articles L. 3253-2 et L. 3253-5 du code du travail, à due concurrence du montant
+total des produits livrés par le producteur agricole au cours des quatre-vingt-dix jours précédant l'ouverture de la
+procédure.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 99 (V)
+
+
 #### Chapitre II : Du gage de meubles corporels
 
 ##### Section 1 : Du droit commun du gage
@@ -66782,8 +66864,8 @@ Ordonnance 2006-346 du 6 mars 2006 art. 57 : Spécificités d'application.
 L'hypothèque judiciaire résulte des jugements soit contradictoires, soit par défaut, définitifs ou provisoires, en faveur de
 celui qui les a obtenus. 
 
-Elle résulte également des décisions arbitrales revêtues de l'ordonnance judiciaire d'exécution ainsi que des décisions
-judiciaires rendues en pays étrangers et déclarées exécutoires par un tribunal français. 
+Elle résulte également des sentences arbitrales revêtues de l'exequatur ainsi que des décisions judiciaires rendues en pays
+étrangers et déclarées exécutoires par un tribunal français. 
 
 Sous réserve du droit pour le débiteur de se prévaloir, soit en cours d'instance, soit à tout autre moment, des dispositions
 des articles 2444 et suivants, le créancier qui bénéficie d'une hypothèque judiciaire peut inscrire son droit sur tous les
@@ -66806,9 +66888,9 @@ Ordonnance 2006-346 du 6 mars 2006 art. 57 : Spécificités d'application.
 	  - Code civil - art. 2444 (V)
 	  - Code de commerce - art. R444-71 (VD)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 14 () JORF 24 mars 2006
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 11
 
 	**Anciens textes**:
 
@@ -66816,7 +66898,7 @@ Ordonnance 2006-346 du 6 mars 2006 art. 57 : Spécificités d'application.
 
 	**Cite**:
 
-	  - Code civil - art. 2426 (V)
+	  - Code civil - art. 2426
 
 	**Codifié par**:
 

@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 2016-11-20
+Version Consolidée au 2016-12-11
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -6571,8 +6571,6 @@ rectification.
 
 	  - Loi n°78-731 du 12 juillet 1978 - art. 6 () JORF 13 juillet 1978 en vigueur le 1er janvier 1979
 
-
-### Chapitre VII : De la rectification des actes d'état civil.
 
 ### Chapitre VII : De l'annulation et de la rectification des actes de l'état civil
 
@@ -55859,19 +55857,20 @@ l'article 1839 aura été accomplie.
 
 ###### Article 1841
 
-Il est interdit aux sociétés n'y ayant pas été autorisées par la loi de      procéder à une offre au public des titres
-financiers ou d'émettre des titres négociables, à peine de nullité des contrats conclus ou des titres émis.
+Il est interdit aux sociétés n'y ayant pas été autorisées par la loi de procéder à une offre au public de titres financiers,
+d'émettre des titres négociables ou de procéder à une offre au public, au sens de l'article L. 411-1 du code monétaire et
+financier, de parts sociales, à peine de nullité des contrats conclus ou des titres ou parts sociales émis.
 
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Ordonnance n°2009-80 du 22 janvier 2009 - art. 15
 
 	**Cité par**:
 
 	  - Ordonnance n°2009-798 du 24 juin 2009 - art. 5 (V)
 	  - Code civil - art. 1871 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2016-1691 du 9 décembre 2016 - art. 45
 
 	**Liens**:
 
@@ -61271,8 +61270,6 @@ objet.
 
 	  - Loi n°1804-03-20
 
-
-## Titre XVI : Du compromis
 
 ## Titre XVI : De la convention d'arbitrage
 

@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 2016-12-11
+Version Consolidée au 2016-12-20
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -4953,12 +4953,17 @@ Si la naissance a lieu pendant un arrêt dans un port, l'acte sera dressé dans 
 impossibilité de communiquer avec la terre, ou lorsqu'il n'existera pas dans le port, si l'on est à l'étranger, d'agent
 diplomatique ou consulaire français investi des fonctions d'officier de l'état civil. 
 
-Cet acte sera rédigé, savoir : sur les bâtiments de l'Etat, par       le commissaire des armées du bâtiment ou, à son défaut,
-par le commandant ou celui qui en remplit les fonctions ; et sur les autres bâtiments, par le capitaine, maître ou patron, ou
-par celui qui en remplit les fonctions. 
+Cet acte sera rédigé, savoir : sur les bâtiments de l'Etat, par le commissaire des armées du bâtiment ou, à son défaut, par
+le commandant ou celui qui en remplit les fonctions ; et sur les autres bâtiments, par le capitaine, maître ou patron, ou par
+celui qui en remplit les fonctions. 
 
 Il y sera fait mention de celle des circonstances ci-dessus prévues, dans laquelle l'acte a été dressé. L'acte sera inscrit à
-la suite du rôle d'équipage.
+la suite du livre de bord.
+
+**Nota:**
+
+Conformément à l'article 18 de la loi n° 2016-816 du 20 juin 2016, les présentes dispositions entrent en vigueur à une date
+fixée par décret en Conseil d'Etat et, au plus tard, six mois après la promulgation de ladite loi.
 
 **Liens relatifs à cet article**
 
@@ -4972,7 +4977,7 @@ la suite du rôle d'équipage.
 
 	**Modifié par**:
 
-	  - ORDONNANCE n°2014-792 du 10 juillet 2014 - art. 3
+	  - Loi n°2016-816 du 20 juin 2016 - art. 16 (V)
 
 	**Codifié par**:
 
@@ -37422,19 +37427,23 @@ ministre chargé de la mer, qui les transmet conformément à l'article 983.
 
 ###### Article 993
 
-Le rôle du bâtiment mentionne, en regard du nom du testateur, la remise des originaux ou l'expédition du testament faite,
-selon le cas, au consulat, au ministre chargé de la défense nationale ou au ministre chargé de la mer.
+Le livre de bord du bâtiment mentionne, en regard du nom du testateur, la remise des originaux ou l'expédition du testament
+faite, selon le cas, au consulat, au ministre chargé de la défense nationale ou au ministre chargé de la mer.
+
+**Nota:**
+
+Conformément à l'article 18 de la loi n° 2016-816 du 20 juin 2016, les présentes dispositions entrent en vigueur à une date
+fixée par décret en Conseil d'Etat et, au plus tard, six mois après la promulgation de ladite loi.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2016-816 du 20 juin 2016 - art. 16 (V)
 
 	**Codifié par**:
 
 	  - Loi n°1803-05-03
-
-	**Modifié par**:
-
-	  - Loi n°2006-728 du 23 juin 2006 - art. 17 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
-	  - Loi n°2006-728 du 23 juin 2006 - art. 9 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 994

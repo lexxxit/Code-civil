@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 2016-12-25
+Version Consolidée au 2017-01-01
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -10234,9 +10234,12 @@ Le mariage se dissout :
 
 ###### Article 229
 
+Les époux peuvent consentir mutuellement à leur divorce par acte sous signature privée contresigné par avocats, déposé au
+rang des minutes d'un notaire. 
+
 Le divorce peut être prononcé en cas :
 
-- soit de consentement mutuel ;
+- soit de consentement mutuel, dans le cas prévu au 1° de l'article 229-2 ;
 
 - soit d'acceptation du principe de la rupture du mariage ;
 
@@ -10244,16 +10247,18 @@ Le divorce peut être prononcé en cas :
 
 - soit de faute.
 
+**Nota:**
+
+Conformément au V de l'article 114 de la loi n° 2016-1547 du 18 novembre 2016, ces dispositions entrent en vigueur le 1er
+janvier 2017. Les mots : ", dans les cas prévus au 1° de l'article 229-2" du deuxième alinéa ne sont pas applicables aux
+procédures en cours devant le juge lorsque les requêtes en divorce ont été déposées au greffe avant l'entrée en vigueur des
+dispositions de l'article 229 dans sa rédaction résultant de l'article 50 de ladite loi.
+
 **Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°2004-439 2004-05-26 art. 32 I : Champ d'application
-	  - TXT_SOURCE: Directive 2003-87 CE 2003-10-13 (Parlement et Conseil)
 
 	**Modifié par**:
 
-	  - Loi n°2004-439 du 26 mai 2004 - art. 1 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 50
 
 	**Cité par**:
 
@@ -10266,29 +10271,166 @@ Le divorce peut être prononcé en cas :
 
 #### Section 1 : Du divorce par consentement mutuel
 
-###### Article 230
+##### Paragraphe 1 : Du divorce par consentement mutuel par acte sous signature privée contresigné par avocats, déposé au rang des minutes d'un notaire 
 
-Le divorce peut être demandé conjointement par les époux lorsqu'ils s'entendent sur la rupture du mariage et ses effets en
-soumettant à l'approbation du juge une convention réglant les conséquences du divorce.
+###### Article 229-1
 
-**Nota:**
+Lorsque les époux s'entendent sur la rupture du mariage et ses effets, ils constatent, assistés chacun par un avocat, leur
+accord dans une convention prenant la forme d'un acte sous signature privée contresigné par leurs avocats et établi dans les
+conditions prévues à l'article 1374.
 
+Cette convention est déposée au rang des minutes d'un notaire, qui contrôle le respect des exigences formelles prévues aux 1°
+à 6° de l'article 229-3. Il s'assure également que le projet de convention n'a pas été signé avant l'expiration du délai de
+réflexion prévu à l'article 229-4.
 
+Ce dépôt donne ses effets à la convention en lui conférant date certaine et force exécutoire.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Cité par**:
 
-	  - TXT_SOURCE: Directive 2003-87 CE 2003-10-13 (Parlement et Conseil)
-	  - SPEC_APPLI: Loi n°2004-439 2004-05-26 art. 32 I : Champ d'application
+	  - Décret n°91-152 du 7 février 1991 - art. 2 (V)
+	  - Décret n°91-1266 du 19 décembre 1991 - art. 107 (V)
+	  - Décret n°91-1266 du 19 décembre 1991 - art. 118-2 (V)
+	  - Décret n°91-1266 du 19 décembre 1991 - art. 118-3 (V)
+	  - Décret n°91-1266 du 19 décembre 1991 - art. 118-6 (V)
+	  - Décret n°91-1266 du 19 décembre 1991 - art. 125 (V)
+	  - Décret n°91-1266 du 19 décembre 1991 - art. 54 (V)
+	  - Décret n°91-1266 du 19 décembre 1991 - art. 104 (V)
+	  - Décret n°91-1266 du 19 décembre 1991 - art. 118-1 (V)
+	  - Décret n°91-1266 du 19 décembre 1991 - art. 118-8 (V)
+	  - Décret n°91-1266 du 19 décembre 1991 - art. 123-2 (V)
+	  - Décret n°91-1266 du 19 décembre 1991 - art. 26 (V)
+	  - Décret n°91-1266 du 19 décembre 1991 - art. 27 (V)
+	  - Décret n°91-1266 du 19 décembre 1991 - art. 42 (V)
+	  - Décret n°91-1266 du 19 décembre 1991 - art. 48 (V)
+	  - Décret n°91-1266 du 19 décembre 1991 - art. 51 (V)
+	  - Décret n°91-1266 du 19 décembre 1991 - art. 8-1 (V)
+	  - Décret n°96-887 du 10 octobre 1996 - art. Annexe (V)
+	  - Décret n°2016-1907 du 28 décembre 2016 - art. 20 (V)
+	  - Décret n°2016-1907 du 28 décembre 2016 - art. 40 (VD)
+	  - Décret n°2016-1907 du 28 décembre 2016 - art. 41 (VD)
+	  - Arrêté du 20 janvier 2017 (V)
+	  - Arrêté du 20 janvier 2017 - art. 2
+	  - Décret n°2017-450 du 29 mars 2017 - art. 4
+	  - Décret n°2017-532 du 12 avril 2017 - art. 1
+	  - Décret n°2017-532 du 12 avril 2017 - art. 3
+	  - Code de commerce - art. A444-173-1 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. D744-23 (V)
+	  - Code de la construction et de l'habitation. - art. R351-12 (V)
+	  - Code de la sécurité sociale. - art. D523-1 (V)
+	  - Code de la sécurité sociale. - art. L523-1 (VD)
+	  - Code de la sécurité sociale. - art. R523-1 (V)
+	  - Code de la sécurité sociale. - art. R523-3 (V)
+	  - Code de la sécurité sociale. - art. R523-3-2 (V)
+	  - Code de la sécurité sociale. - art. R581-3 (M)
+	  - Code de procédure civile - art. 1148 (V)
+	  - Code de procédure civile - art. 1148-1 (V)
+	  - Code de procédure civile - art. 1575 (M)
+	  - Code de procédure civile - art. 1578 (V)
+	  - Code de procédure civile - art. 509-3 (V)
+	  - Code des procédures civiles d'exécution - art. R213-9-1 (V)
+	  - Code du travail - art. R5423-26 (VT)
+	  - Code du travail - art. R5423-4 (V)
+	  - Code du travail applicable à Mayotte. - art. R327-15 (V)
+	  - Code général des impôts, CGI. - art. 156 (VD)
+
+	**Créé par**:
+
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 50
+
+
+###### Article 229-2
+
+Les époux ne peuvent consentir mutuellement à leur divorce par acte sous signature privée contresigné par avocats lorsque :
+
+1° Le mineur, informé par ses parents de son droit à être entendu par le juge dans les conditions prévues à l'article 388-1,
+demande son audition par le juge ;
+
+2° L'un des époux se trouve placé sous l'un des régimes de protection prévus au chapitre II du titre XI du présent livre.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°91-1266 du 19 décembre 1991 - art. 33 (V)
+	  - Code de procédure civile - art. 1144 (V)
+	  - Code de procédure civile - art. 1144-2 (V)
+
+	**Créé par**:
+
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 50
+
+
+###### Article 229-3
+
+Le consentement au divorce et à ses effets ne se présume pas.
+
+La convention comporte expressément, à peine de nullité :
+
+1° Les nom, prénoms, profession, résidence, nationalité, date et lieu de naissance de chacun des époux, la date et le lieu de
+mariage, ainsi que les mêmes indications, le cas échéant, pour chacun de leurs enfants ;
+
+2° Le nom, l'adresse professionnelle et la structure d'exercice professionnel des avocats chargés d'assister les époux ainsi
+que le barreau auquel ils sont inscrits ;
+
+3° La mention de l'accord des époux sur la rupture du mariage et sur ses effets dans les termes énoncés par la convention ;
+
+4° Les modalités du règlement complet des effets du divorce conformément au chapitre III du présent titre, notamment s'il y a
+lieu au versement d'une prestation compensatoire ;
+
+5° L'état liquidatif du régime matrimonial, le cas échéant en la forme authentique devant notaire lorsque la liquidation
+porte sur des biens soumis à publicité foncière, ou la déclaration qu'il n'y a pas lieu à liquidation ;
+
+6° La mention que le mineur a été informé par ses parents de son droit à être entendu par le juge dans les conditions prévues
+à l'article 388-1 et qu'il ne souhaite pas faire usage de cette faculté.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 50
+
+
+###### Article 229-4
+
+L'avocat adresse à l'époux qu'il assiste, par lettre recommandée avec demande d'avis de réception, un projet de convention,
+qui ne peut être signé, à peine de nullité, avant l'expiration d'un délai de réflexion d'une durée de quinze jours à compter
+de la réception.
+
+La convention a force exécutoire au jour où elle acquiert date certaine.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 50
+
+
+##### Paragraphe 2 : Du divorce par consentement mutuel judiciaire
+
+###### Article 230
+
+Dans le cas prévu au 1° de l'article 229-2, le divorce peut être demandé conjointement par les époux lorsqu'ils s'entendent
+sur la rupture du mariage et ses effets en soumettant à l'approbation du juge une convention réglant les conséquences du
+divorce.
+
+**Nota:**
+
+Conformément au V de l'article 114 de la loi n° 2016-1547 du 18 novembre 2016, ces dispositions entrent en vigueur le 1er
+janvier 2017. Les mots : "Dans le cas prévu au 1° de l'article 229-2" ne sont pas applicables aux procédures en cours devant
+le juge lorsque les requêtes en divorce ont été déposées au greffe avant l'entrée en vigueur des dispositions de l'article
+230 dans sa rédaction résultant de l'article 50 de ladite loi.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 50
 
 	**Codifié par**:
 
 	  - Loi n°1803-03-14
-
-	**Modifié par**:
-
-	  - Loi n°2004-439 du 26 mai 2004 - art. 2 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
 
 
 ###### Article 232
@@ -10307,8 +10449,7 @@ intérêts des enfants ou de l'un des époux.
 
 	**Liens**:
 
-	  - TXT_SOURCE: Directive 2003-87 CE 2003-10-13 (Parlement et Conseil)
-	  - SPEC_APPLI: Loi n°2004-439 2004-05-26 art. 32 I : Champ d'application
+	  - DEPLACE: Loi n°2016-1547 du 18 novembre 2016 - art. 50
 
 	**Cité par**:
 
@@ -10319,10 +10460,6 @@ intérêts des enfants ou de l'un des époux.
 	**Codifié par**:
 
 	  - Loi n°1803-03-14
-
-	**Modifié par**:
-
-	  - Loi n°2004-439 du 26 mai 2004 - art. 2 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
 
 
 #### Section 2 : Du divorce accepté
@@ -10636,18 +10773,27 @@ S'il rejette celle-ci, le juge statue sur la demande en divorce pour altération
 
 ###### Article 247
 
-Les époux peuvent, à tout moment de la procédure, demander au juge de constater leur accord pour voir prononcer leur divorce
-par consentement mutuel en lui présentant une convention réglant les conséquences de celui-ci.
+Les époux peuvent, à tout moment de la procédure : 
+
+1° Divorcer par consentement mutuel par acte sous signature privée contresigné par avocats, déposé au rang des minutes d'un
+notaire ; 
+
+2° Dans le cas prévu au 1° de l'article 229-2, demander au juge de constater leur accord pour voir prononcer le divorce par
+consentement mutuel en lui présentant une convention réglant les conséquences de celui-ci.
 
 **Liens relatifs à cet article**
 
 	**Cité par**:
 
+	  - Loi n°2004-439 du 26 mai 2004 - art. 33 (V)
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L312-1 (M)
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R311-29-3 (Ab)
 	  - Code de procédure civile - art. 1077 (VD)
-	  - Loi n°2004-439 du 26 mai 2004 - art. 33 (V)
 	  - Nouveau code de procédure civile - art. 1074 (M)
+
+	**Modifié par**:
+
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 50
 
 	**Nouveaux textes**:
 
@@ -10657,14 +10803,6 @@ par consentement mutuel en lui présentant une convention réglant les conséque
 	**Codifié par**:
 
 	  - Loi n°1803-03-14
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°2004-439 2004-05-26 art. 32 I : Champ d'application
-
-	**Modifié par**:
-
-	  - Loi n°2004-439 du 26 mai 2004 - art. 7 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
 
 
 ###### Article 247-1
@@ -10860,129 +10998,6 @@ livre, aucune demande en divorce par consentement mutuel ou pour acceptation du 
 
 
 #### Section 2 : De la procédure applicable au divorce par consentement mutuel
-
-###### Article 250
-
-La demande en divorce est présentée par les avocats respectifs des parties ou par un avocat choisi d'un commun accord.
-
-Le juge examine la demande avec chacun des époux, puis les réunit. Il appelle ensuite le ou les avocats.
-
-**Nota:**
-
-
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°2004-439 2004-05-26 art. 32 I : Champ d'application
-
-	**Modifié par**:
-
-	  - Loi n°2004-439 du 26 mai 2004 - art. 9 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
-
-	**Cité par**:
-
-	  - Code de procédure civile - art. 1099 (V)
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-
-###### Article 250-1
-
-Lorsque les conditions prévues à l'article 232 sont réunies, le juge homologue la convention réglant les conséquences du
-divorce et, par la même décision, prononce celui-ci.
-
-**Nota:**
-
-
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°2004-439 2004-05-26 art. 32 I : Champ d'application
-
-	**Créé par**:
-
-	  - Loi n°2004-439 du 26 mai 2004 - art. 9 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
-
-	**Cite**:
-
-	  - Code civil - art. 232 (V)
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-
-###### Article 250-2
-
-En cas de refus d'homologation de la convention, le juge peut cependant homologuer les mesures provisoires au sens des
-articles 254 et 255 que les parties s'accordent à prendre jusqu'à la date à laquelle le jugement de divorce passe en force de
-chose jugée, sous réserve qu'elles soient conformes à l'intérêt du ou des enfants. 
-
-Une nouvelle convention peut alors être présentée par les époux dans un délai maximum de six mois.
-
-**Nota:**
-
-
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°2004-439 2004-05-26 art. 32 I : Champ d'application
-
-	**Créé par**:
-
-	  - Loi n°2004-439 du 26 mai 2004 - art. 9 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
-
-	**Cité par**:
-
-	  - Code civil - art. 250-3 (V)
-	  - Code civil - art. 313 (V)
-	  - Code de procédure civile - art. 1100 (V)
-
-	**Cite**:
-
-	  - Code civil - art. 254 (V)
-	  - Code civil - art. 255 (V)
-
-
-###### Article 250-3
-
-A défaut de présentation d'une nouvelle convention dans le délai fixé à l'article 250-2 ou si le juge refuse une nouvelle
-fois l'homologation, la demande en divorce est caduque.
-
-**Nota:**
-
-
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°2004-439 2004-05-26 art. 32 I : Champ d'application
-
-	**Créé par**:
-
-	  - Loi n°2004-439 du 26 mai 2004 - art. 9 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
-
-	**Cite**:
-
-	  - Code civil - art. 250-2 (V)
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
 
 #### Section 3 : De la procédure applicable aux autres cas de divorce
 
@@ -11629,13 +11644,80 @@ compte des époux sans que le secret professionnel puisse être opposé.
 	  - Code civil - art. 255 (V)
 
 
-### Chapitre III : Des conséquences du divorce
+### Chapitre II : De la procédure du divorce judiciaire
 
-#### Section 1 : De la date à laquelle se produisent les effets du divorce
+#### Section 1 : Dispositions générales
 
-###### Article 260
+#### Section 2 : De la procédure applicable au divorce par consentement mutuel judiciaire
 
-La décision qui prononce le divorce dissout le mariage à la date à laquelle elle prend force de chose jugée.
+###### Article 250
+
+La demande en divorce est présentée par les avocats respectifs des parties ou par un avocat choisi d'un commun accord.
+
+Le juge examine la demande avec chacun des époux, puis les réunit. Il appelle ensuite le ou les avocats.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2004-439 2004-05-26 art. 32 I : Champ d'application
+
+	**Modifié par**:
+
+	  - Loi n°2004-439 du 26 mai 2004 - art. 9 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 1099 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 250-1
+
+Lorsque les conditions prévues à l'article 232 sont réunies, le juge homologue la convention réglant les conséquences du
+divorce et, par la même décision, prononce celui-ci.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2004-439 2004-05-26 art. 32 I : Champ d'application
+
+	**Créé par**:
+
+	  - Loi n°2004-439 du 26 mai 2004 - art. 9 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
+
+	**Cite**:
+
+	  - Code civil - art. 232 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 250-2
+
+En cas de refus d'homologation de la convention, le juge peut cependant homologuer les mesures provisoires au sens des
+articles 254 et 255 que les parties s'accordent à prendre jusqu'à la date à laquelle le jugement de divorce passe en force de
+chose jugée, sous réserve qu'elles soient conformes à l'intérêt du ou des enfants. 
+
+Une nouvelle convention peut alors être présentée par les époux dans un délai maximum de six mois.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
@@ -11643,31 +11725,100 @@ La décision qui prononce le divorce dissout le mariage à la date à laquelle e
 
 	  - Loi n°1803-03-14
 
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2004-439 2004-05-26 art. 32 I : Champ d'application
+
 	**Créé par**:
 
-	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
+	  - Loi n°2004-439 du 26 mai 2004 - art. 9 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
+
+	**Cité par**:
+
+	  - Code civil - art. 250-3 (V)
+	  - Code civil - art. 313 (V)
+	  - Code de procédure civile - art. 1100 (V)
+
+	**Cite**:
+
+	  - Code civil - art. 254 (V)
+	  - Code civil - art. 255 (V)
+
+
+###### Article 250-3
+
+A défaut de présentation d'une nouvelle convention dans le délai fixé à l'article 250-2 ou si le juge refuse une nouvelle
+fois l'homologation, la demande en divorce est caduque.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
 
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+	  - SPEC_APPLI: Loi n°2004-439 2004-05-26 art. 32 I : Champ d'application
+
+	**Créé par**:
+
+	  - Loi n°2004-439 du 26 mai 2004 - art. 9 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
+
+	**Cite**:
+
+	  - Code civil - art. 250-2 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+#### Section 3 : De la procédure applicable aux autres cas de divorce judiciaire
+
+##### Paragraphe 1 : De la requête initiale.
+
+##### Paragraphe 2 : De la conciliation.
+
+##### Paragraphe 3 : Des mesures provisoires.
+
+##### Paragraphe 4 : De l'introduction de l'instance en divorce.
+
+##### Paragraphe 5 : Des preuves.
+
+### Chapitre III : Des conséquences du divorce
+
+#### Section 1 : De la date à laquelle se produisent les effets du divorce
+
+###### Article 260
+
+Le mariage est dissous : 
+
+1° Par la convention de divorce conclue par acte sous signature privée contresigné par avocats, à la date à laquelle elle
+acquiert force exécutoire ; 
+
+2° Par la décision qui prononce le divorce, à la date à laquelle elle prend force de chose jugée.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 50
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
 
 
 ###### Article 262
 
-Le jugement de divorce est opposable aux tiers, en ce qui concerne les biens des époux, à partir du jour où les formalités de
-mention en marge prescrites par les règles de l'état civil ont été accomplies.
+La convention ou le jugement de divorce est opposable aux tiers, en ce qui concerne les biens des époux, à partir du jour où
+les formalités de mention en marge prescrites par les règles de l'état civil ont été accomplies.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 50
 
 	**Cité par**:
 
@@ -11681,10 +11832,14 @@ mention en marge prescrites par les règles de l'état civil ont été accomplie
 
 ###### Article 262-1
 
-Le jugement de divorce prend effet dans les rapports entre les époux, en ce qui concerne leurs biens :
+La convention ou le jugement de divorce prend effet dans les rapports entre les époux, en ce qui concerne leurs biens :
 
-- lorsqu'il est prononcé par consentement mutuel, à la date de l'homologation de la convention réglant l'ensemble des
-conséquences du divorce, à moins que celle-ci n'en dispose autrement ;
+- lorsqu'il est constaté par consentement mutuel par acte sous signature privée contresigné par avocats déposé au rang des
+minutes d'un notaire, à la date à laquelle la convention réglant l'ensemble des conséquences du divorce acquiert force
+exécutoire, à moins que cette convention n'en stipule autrement ;
+
+- lorsqu'il est prononcé par consentement mutuel dans le cas prévu au 1° de l'article 229-2, à la date de l'homologation de
+la convention réglant l'ensemble des conséquences du divorce, à moins que celle-ci n'en dispose autrement ;
 
 - lorsqu'il est prononcé pour acceptation du principe de la rupture du mariage, pour altération définitive du lien conjugal
 ou pour faute, à la date de l'ordonnance de non-conciliation.
@@ -11700,18 +11855,13 @@ juge.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Modifié par**:
 
-	  - TXT_SOURCE: Directive 2003-87 CE 2003-10-13 (Parlement et Conseil)
-	  - SPEC_APPLI: Loi n°2004-439 2004-05-26 art. 32 I : Champ d'application
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 50
 
 	**Codifié par**:
 
 	  - Loi n°1803-03-14
-
-	**Modifié par**:
-
-	  - Loi n°2004-439 du 26 mai 2004 - art. 15 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
 
 
 ###### Article 262-2
@@ -11797,8 +11947,9 @@ biens présents quelle que soit leur forme.
 
 Le divorce emporte révocation de plein droit des avantages matrimoniaux qui ne prennent effet qu'à la dissolution du régime
 matrimonial ou au décès de l'un des époux et des dispositions à cause de mort, accordés par un époux envers son conjoint par
-contrat de mariage ou pendant l'union, sauf volonté contraire de l'époux qui les a consentis. Cette volonté est constatée par
-le juge au moment du prononcé du divorce et rend irrévocables l'avantage ou la disposition maintenus.
+contrat de mariage ou pendant l'union, sauf volonté contraire de l'époux qui les a consentis. Cette volonté est constatée
+dans la convention signée par les époux et contresignée par les avocats ou par le juge au moment du prononcé du divorce et
+rend irrévocables l'avantage ou la disposition maintenus.
 
 Toutefois, si le contrat de mariage le prévoit, les époux pourront toujours reprendre les biens qu'ils auront apportés à la
 communauté.
@@ -11807,7 +11958,7 @@ communauté.
 
 	**Modifié par**:
 
-	  - Loi n°2006-728 du 23 juin 2006 - art. 43 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 50
 
 	**Cité par**:
 
@@ -12460,9 +12611,9 @@ caution ou de souscrire un contrat garantissant le paiement de la rente ou du ca
 ###### Article 278
 
 En cas de divorce par consentement mutuel, les époux fixent le montant et les modalités de la prestation compensatoire dans
-la convention qu'ils soumettent à l'homologation du juge. Ils peuvent prévoir que le versement de la prestation cessera à
-compter de la réalisation d'un événement déterminé. La prestation peut prendre la forme d'une rente attribuée pour une durée
-limitée.
+la convention établie par acte sous signature privée contresigné par avocats ou  dans la convention qu'ils soumettent à
+l'homologation du juge. Ils peuvent prévoir que le versement de la prestation cessera à compter de la réalisation d'un
+événement déterminé. La prestation peut prendre la forme d'une rente attribuée pour une durée limitée.
 
 Le juge, toutefois, refuse d'homologuer la convention si elle fixe inéquitablement les droits et obligations des époux.
 
@@ -12472,14 +12623,9 @@ Le juge, toutefois, refuse d'homologuer la convention si elle fixe inéquitablem
 
 **Liens relatifs à cet article**
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°2004-439 2004-05-26 art. 32 I : Champ d'application
-	  - TXT_SOURCE: Directive 2003-87 CE 2003-10-13 (Parlement et Conseil)
-
 	**Modifié par**:
 
-	  - Loi n°2004-439 du 26 mai 2004 - art. 22 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 50
 
 	**Cité par**:
 
@@ -12487,7 +12633,7 @@ Le juge, toutefois, refuse d'homologuer la convention si elle fixe inéquitablem
 	  - Code civil - art. 271 (M)
 	  - Code civil - art. 279-1 (V)
 	  - Code général des impôts, CGI. - art. 1133 ter (V)
-	  - Code général des impôts, CGI. - art. 199 octodecies (V)
+	  - Code général des impôts, CGI. - art. 199 octodecies (VD)
 	  - Code général des impôts, CGI. - art. 80 quater (VD)
 
 	**Codifié par**:
@@ -12509,6 +12655,9 @@ viagère.
 
 Sauf disposition particulière de la convention, les articles 280 à 280-2 sont applicables.
 
+Les troisième et avant-dernier alinéas du présent article s'appliquent à la convention de divorce établie par acte sous
+signature privée contresigné par avocats, déposé au rang des minutes d'un notaire.
+
 **Nota:**
 
 
@@ -12521,21 +12670,16 @@ Sauf disposition particulière de la convention, les articles 280 à 280-2 sont 
 	  - Code civil - art. 279-1 (V)
 	  - Nouveau code de procédure civile - art. 1084 (M)
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°2004-439 2004-05-26 art. 32 I : Champ d'application
-	  - TXT_SOURCE: Directive 2003-87 CE 2003-10-13 (Parlement et Conseil)
-
 	**Modifié par**:
 
-	  - Loi n°2004-439 du 26 mai 2004 - art. 22 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 50
 
 	**Cite**:
 
-	  - Code civil - art. 275 (V)
-	  - Code civil - art. 276-3 (V)
-	  - Code civil - art. 276-4 (V)
-	  - Code civil - art. 280 (V)
+	  - Code civil - art. 275
+	  - Code civil - art. 276-3
+	  - Code civil - art. 276-4
+	  - Code civil - art. 280
 
 	**Codifié par**:
 
@@ -12805,7 +12949,7 @@ livre.
 ###### Article 296
 
 La séparation de corps peut être prononcée à la demande de l'un des époux dans les mêmes cas et aux mêmes conditions que le
-divorce.
+divorce judiciaire.
 
 **Liens relatifs à cet article**
 
@@ -12813,18 +12957,13 @@ divorce.
 
 	  - Décret n°2014-945 du 21 août 2014 - art. 1 (VT)
 
+	**Modifié par**:
+
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 50
+
 	**Codifié par**:
 
 	  - Loi n°1803-03-14
-
-	**Créé par**:
-
-	  - Loi n°75-617 1975-07-11 art. 1 JORF 12 juillet 1975 en vigueur le 1er janvier 1976
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 23, v. init.
-	  - SPEC_APPLI: Loi n°75-617 du 11 juillet 1975 - art. 24 (M)
 
 
 ###### Article 297
@@ -16782,20 +16921,21 @@ L'enquête sociale ne peut être utilisée dans le débat sur la cause du divorc
 
 ###### Article 373-2-13
 
-Les dispositions contenues dans la convention homologuée ainsi que les décisions relatives à l'exercice de l'autorité
-parentale peuvent être modifiées ou complétées à tout moment par le juge, à la demande des ou d'un parent ou du ministère
-public, qui peut lui-même être saisi par un tiers, parent ou non.
+Les dispositions contenues dans la convention homologuée ou dans la convention de divorce par consentement mutuel prenant la
+forme d'un acte sous signature privée contresigné par avocats déposé au rang des minutes d'un notaire ainsi que les décisions
+relatives à l'exercice de l'autorité parentale peuvent être modifiées ou complétées à tout moment par le juge, à la demande
+des ou d'un parent ou du ministère public, qui peut lui-même être saisi par un tiers, parent ou non.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°2002-305 du 4 mars 2002 - art. 5 () JORF 5 mars 2002
 
 	**Cité par**:
 
 	  - Loi n°2011-1862 du 13 décembre 2011 - art. 15 (V)
 	  - Code de procédure civile - art. 1179-1 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 50
 
 	**Codifié par**:
 

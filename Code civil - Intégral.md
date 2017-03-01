@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 2017-01-01
+Version Consolidée au 2017-03-02
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -10860,7 +10860,7 @@ de sa demande.
 	  - Loi n°2004-439 du 26 mai 2004 - art. 7 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
 
 
-### Chapitre II : De la procédure du divorce
+### Chapitre II : De la procédure du divorce judiciaire
 
 #### Section 1 : Dispositions générales
 
@@ -10997,9 +10997,132 @@ livre, aucune demande en divorce par consentement mutuel ou pour acceptation du 
 	  - Loi n°2007-308 du 5 mars 2007 - art. 10
 
 
-#### Section 2 : De la procédure applicable au divorce par consentement mutuel
+#### Section 2 : De la procédure applicable au divorce par consentement mutuel judiciaire
 
-#### Section 3 : De la procédure applicable aux autres cas de divorce
+###### Article 250
+
+La demande en divorce est présentée par les avocats respectifs des parties ou par un avocat choisi d'un commun accord.
+
+Le juge examine la demande avec chacun des époux, puis les réunit. Il appelle ensuite le ou les avocats.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2004-439 2004-05-26 art. 32 I : Champ d'application
+
+	**Modifié par**:
+
+	  - Loi n°2004-439 du 26 mai 2004 - art. 9 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 1099 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 250-1
+
+Lorsque les conditions prévues à l'article 232 sont réunies, le juge homologue la convention réglant les conséquences du
+divorce et, par la même décision, prononce celui-ci.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2004-439 2004-05-26 art. 32 I : Champ d'application
+
+	**Créé par**:
+
+	  - Loi n°2004-439 du 26 mai 2004 - art. 9 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
+
+	**Cite**:
+
+	  - Code civil - art. 232 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+###### Article 250-2
+
+En cas de refus d'homologation de la convention, le juge peut cependant homologuer les mesures provisoires au sens des
+articles 254 et 255 que les parties s'accordent à prendre jusqu'à la date à laquelle le jugement de divorce passe en force de
+chose jugée, sous réserve qu'elles soient conformes à l'intérêt du ou des enfants. 
+
+Une nouvelle convention peut alors être présentée par les époux dans un délai maximum de six mois.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2004-439 2004-05-26 art. 32 I : Champ d'application
+
+	**Créé par**:
+
+	  - Loi n°2004-439 du 26 mai 2004 - art. 9 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
+
+	**Cité par**:
+
+	  - Code civil - art. 250-3 (V)
+	  - Code civil - art. 313 (V)
+	  - Code de procédure civile - art. 1100 (V)
+
+	**Cite**:
+
+	  - Code civil - art. 254 (V)
+	  - Code civil - art. 255 (V)
+
+
+###### Article 250-3
+
+A défaut de présentation d'une nouvelle convention dans le délai fixé à l'article 250-2 ou si le juge refuse une nouvelle
+fois l'homologation, la demande en divorce est caduque.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2004-439 2004-05-26 art. 32 I : Champ d'application
+
+	**Créé par**:
+
+	  - Loi n°2004-439 du 26 mai 2004 - art. 9 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
+
+	**Cite**:
+
+	  - Code civil - art. 250-2 (V)
+
+	**Codifié par**:
+
+	  - Loi n°1803-03-14
+
+
+#### Section 3 : De la procédure applicable aux autres cas de divorce judiciaire
 
 ##### Paragraphe 1 : De la requête initiale.
 
@@ -11643,147 +11766,6 @@ compte des époux sans que le secret professionnel puisse être opposé.
 
 	  - Code civil - art. 255 (V)
 
-
-### Chapitre II : De la procédure du divorce judiciaire
-
-#### Section 1 : Dispositions générales
-
-#### Section 2 : De la procédure applicable au divorce par consentement mutuel judiciaire
-
-###### Article 250
-
-La demande en divorce est présentée par les avocats respectifs des parties ou par un avocat choisi d'un commun accord.
-
-Le juge examine la demande avec chacun des époux, puis les réunit. Il appelle ensuite le ou les avocats.
-
-**Nota:**
-
-
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°2004-439 2004-05-26 art. 32 I : Champ d'application
-
-	**Modifié par**:
-
-	  - Loi n°2004-439 du 26 mai 2004 - art. 9 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
-
-	**Cité par**:
-
-	  - Code de procédure civile - art. 1099 (V)
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-
-###### Article 250-1
-
-Lorsque les conditions prévues à l'article 232 sont réunies, le juge homologue la convention réglant les conséquences du
-divorce et, par la même décision, prononce celui-ci.
-
-**Nota:**
-
-
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°2004-439 2004-05-26 art. 32 I : Champ d'application
-
-	**Créé par**:
-
-	  - Loi n°2004-439 du 26 mai 2004 - art. 9 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
-
-	**Cite**:
-
-	  - Code civil - art. 232 (V)
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-
-###### Article 250-2
-
-En cas de refus d'homologation de la convention, le juge peut cependant homologuer les mesures provisoires au sens des
-articles 254 et 255 que les parties s'accordent à prendre jusqu'à la date à laquelle le jugement de divorce passe en force de
-chose jugée, sous réserve qu'elles soient conformes à l'intérêt du ou des enfants. 
-
-Une nouvelle convention peut alors être présentée par les époux dans un délai maximum de six mois.
-
-**Nota:**
-
-
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°2004-439 2004-05-26 art. 32 I : Champ d'application
-
-	**Créé par**:
-
-	  - Loi n°2004-439 du 26 mai 2004 - art. 9 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
-
-	**Cité par**:
-
-	  - Code civil - art. 250-3 (V)
-	  - Code civil - art. 313 (V)
-	  - Code de procédure civile - art. 1100 (V)
-
-	**Cite**:
-
-	  - Code civil - art. 254 (V)
-	  - Code civil - art. 255 (V)
-
-
-###### Article 250-3
-
-A défaut de présentation d'une nouvelle convention dans le délai fixé à l'article 250-2 ou si le juge refuse une nouvelle
-fois l'homologation, la demande en divorce est caduque.
-
-**Nota:**
-
-
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°2004-439 2004-05-26 art. 32 I : Champ d'application
-
-	**Créé par**:
-
-	  - Loi n°2004-439 du 26 mai 2004 - art. 9 () JORF 27 mai 2004 en vigueur le 1er janvier 2005
-
-	**Cite**:
-
-	  - Code civil - art. 250-2 (V)
-
-	**Codifié par**:
-
-	  - Loi n°1803-03-14
-
-
-#### Section 3 : De la procédure applicable aux autres cas de divorce judiciaire
-
-##### Paragraphe 1 : De la requête initiale.
-
-##### Paragraphe 2 : De la conciliation.
-
-##### Paragraphe 3 : Des mesures provisoires.
-
-##### Paragraphe 4 : De l'introduction de l'instance en divorce.
-
-##### Paragraphe 5 : Des preuves.
 
 ### Chapitre III : Des conséquences du divorce
 
@@ -17284,6 +17266,9 @@ confiant l'enfant à un tiers. Elles ne peuvent faire obstacle à la faculté qu
 décider, par application de l'article 373-3, à qui l'enfant devra être confié. Les mêmes règles sont applicables à la
 séparation de corps.
 
+Le procureur de la République peut requérir directement le concours de la force publique pour faire exécuter les décisions de
+placement rendues en assistance éducative.
+
 **Liens relatifs à cet article**
 
 	**Cité par**:
@@ -17322,12 +17307,11 @@ séparation de corps.
 
 	**Modifié par**:
 
-	  - Loi n°2007-293 du 5 mars 2007 - art. 17 () JORF 6 mars 2007
-	  - Loi n°2007-293 du 5 mars 2007 - art. 22 () JORF 6 mars 2007
+	  - Loi n°2017-258 du 28 février 2017 - art. 32
 
 	**Cite**:
 
-	  - Code civil - art. 373-3 (V)
+	  - Code civil - art. 373-3
 
 	**Codifié par**:
 

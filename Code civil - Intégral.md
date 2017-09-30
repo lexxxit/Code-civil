@@ -1,5 +1,5 @@
 # Code civil  
-Version Consolidée au 2017-03-02
+Version Consolidée au 2017-10-01
 
 # Titre préliminaire : De la publication, des effets et de l'application des lois en général
 
@@ -64170,26 +64170,6 @@ Les privilèges peuvent être sur les meubles ou sur les immeubles.
 	  - Loi n°1804-03-19
 
 
-###### Article 2328-1
-
-Toute sûreté réelle peut être constituée, inscrite, gérée et réalisée pour le compte des créanciers de l'obligation garantie
-par une personne qu'ils désignent à cette fin dans l'acte qui constate cette obligation.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°2008-776 du 4 août 2008 - art. 80
-
-	**Cité par**:
-
-	  - Loi n°2016-1691 du 9 décembre 2016 - art. 117 (V)
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2017-748 du 4 mai 2017 - art. 2
-
-
 ### Sous-titre II : Des sûretés sur les meubles
 
 ###### Article 2329
@@ -69483,20 +69463,146 @@ Les dispositions du présent article sont d'ordre public et toute clause contrai
 	  - Code civil - art. 2488-2 (V)
 
 
+## Titre III : De l'agent des sûretés
+
 ###### Article 2488-6
 
-Les dispositions du présent chapitre ne sont pas applicables aux fiducies constituées à titre de garantie par les personnes
-morales.
+Toute sûreté ou garantie peut être prise, inscrite, gérée et réalisée par un agent des sûretés, qui agit en son nom propre au
+profit des créanciers de l'obligation garantie.
+
+L'agent des sûretés est titulaire des sûretés et garanties.
+
+Les droits et biens acquis par l'agent des sûretés dans l'exercice de sa mission forment un patrimoine affecté à celle-ci,
+distinct de son patrimoine propre.
+
+**Nota:**
+
+Conformément à l'article 4 de l'ordonnance n° 2017-748 du 4 mai 2017, les dispositions du présent article entrent en vigueur
+le 1
+  <sup>er</sup> octobre 2017.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Ordonnance n°2017-748 du 4 mai 2017 - art. 1
+
+
+###### Article 2488-7
+
+A peine de nullité, la convention par laquelle les créanciers désignent l'agent des sûretés doit être constatée par un écrit
+qui mentionne sa qualité, l'objet et la durée de sa mission ainsi que l'étendue de ses pouvoirs.
+
+**Nota:**
+
+Conformément à l'article 4 de l'ordonnance n° 2017-748 du 4 mai 2017, les dispositions du présent article entrent en vigueur
+le 1
+  <sup>er</sup> octobre 2017.
 
 **Liens relatifs à cet article**
 
 	**Créé par**:
 
-	  - Ordonnance n°2009-112 du 30 janvier 2009 - art. 7
+	  - Ordonnance n°2017-748 du 4 mai 2017 - art. 1
 
-	**Abrogé par**:
 
-	  - Loi n°2009-526 du 12 mai 2009 - art. 138 (V)
+###### Article 2488-8
+
+Lorsque l'agent des sûretés agit au profit des créanciers de l'obligation garantie, il doit faire expressément mention de sa
+qualité.
+
+**Nota:**
+
+Conformément à l'article 4 de l'ordonnance n° 2017-748 du 4 mai 2017, les dispositions du présent article entrent en vigueur
+le 1
+  <sup>er</sup> octobre 2017.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2017-748 du 4 mai 2017 - art. 1
+
+
+###### Article 2488-9
+
+L'agent des sûretés peut, sans avoir à justifier d'un mandat spécial, exercer toute action pour défendre les intérêts des
+créanciers de l'obligation garantie et procéder à toute déclaration de créance.
+
+**Nota:**
+
+Conformément à l'article 4 de l'ordonnance n° 2017-748 du 4 mai 2017, les dispositions du présent article entrent en vigueur
+le 1
+  <sup>er</sup> octobre 2017.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2017-748 du 4 mai 2017 - art. 1
+
+
+###### Article 2488-10
+
+Les droits et biens acquis par l'agent des sûretés dans l'exercice de sa mission ne peuvent être saisis que par les
+titulaires de créances nées de leur conservation ou de leur gestion, sous réserve de l'exercice d'un droit de suite et hors
+les cas de fraude.
+
+L'ouverture d'une procédure de sauvegarde, de redressement judiciaire, de liquidation judiciaire ou de rétablissement
+professionnel à l'égard de l'agent des sûretés est sans effet sur le patrimoine affecté à sa mission.
+
+**Nota:**
+
+Conformément à l'article 4 de l'ordonnance n° 2017-748 du 4 mai 2017, les dispositions du présent article entrent en vigueur
+le 1
+  <sup>er</sup> octobre 2017.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2017-748 du 4 mai 2017 - art. 1
+
+
+###### Article 2488-11
+
+En l'absence de stipulations contractuelles prévoyant les conditions de son remplacement et si l'agent des sûretés manque à
+ses devoirs, met en péril les intérêts qui lui sont confiés ou fait l'objet de l'ouverture d'une procédure de sauvegarde, de
+redressement judiciaire, de liquidation judiciaire ou de rétablissement professionnel, tout créancier bénéficiaire des
+sûretés et garanties peut demander en justice la désignation d'un agent des sûretés provisoire ou le remplacement de l'agent
+des sûretés.
+
+Tout remplacement conventionnel ou judiciaire de l'agent des sûretés emporte de plein droit transmission du patrimoine
+affecté au nouvel agent des sûretés.
+
+**Nota:**
+
+Conformément à l'article 4 de l'ordonnance n° 2017-748 du 4 mai 2017, les dispositions du présent article entrent en vigueur
+le 1
+  <sup>er</sup> octobre 2017.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2017-748 du 4 mai 2017 - art. 1
+
+
+###### Article 2488-12
+
+L'agent des sûretés est responsable, sur son patrimoine propre, des fautes qu'il commet dans l'exercice de sa mission.
+
+**Nota:**
+
+Conformément à l'article 4 de l'ordonnance n° 2017-748 du 4 mai 2017, les dispositions du présent article entrent en vigueur
+le 1
+  <sup>er</sup> octobre 2017.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2017-748 du 4 mai 2017 - art. 1
 
 
 # Livre V : Dispositions applicables à Mayotte
